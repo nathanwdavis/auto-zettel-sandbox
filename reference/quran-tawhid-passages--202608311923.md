@@ -26,7 +26,7 @@ verification:
   method: raw-capture
   source: raw/202608311910-quran-tawhid-passages.txt
   verified: true
-  date: '2026-08-31T20:56:39Z'
+  date: '2026-08-31T22:25:15Z'
 raw_capture: raw/202608311910-quran-tawhid-passages.txt
 links: []
 created: '2026-08-31'

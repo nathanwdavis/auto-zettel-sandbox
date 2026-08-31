@@ -121,3 +121,19 @@ Vroom remains paywalled on Cambridge Core with no OA copy located. No
 pirated/scraper mirrors were used (source-legitimacy norm). All four still
 require institutional/library/purchased access; nothing changed this cycle.
 Left open.
+
+**2026-08-31 re-check (maintenance-run):** Re-tried Hick and Volf again in a
+separate concurrent cycle. Hick's chapter is still paywalled at the Springer
+DOI (no institutional access from this environment); a general web search
+turned up no accessible mirror of the actual essay text. Volf's book on
+Internet Archive (archive.org/details/isbn_9780061927072) is
+`Access-restricted-item`: no download or full-text search, only a
+controlled-digital-lending "borrow" that requires a logged-in account this
+run does not have. Two review essays (The Gospel Coalition, Christian
+Scholar's Review) quote short passages of Volf's own text with page numbers,
+but their quoted wording didn't overlap enough between the two to
+cross-verify any single sentence word-for-word (the standard this base held
+to for the Housel excerpt) — so no literature/reference note was written
+from them rather than risk an unverified "verbatim" quote. Both sources stay
+open; they need either a library loan, institutional Springer access, or a
+purchased copy.
