@@ -1,0 +1,8 @@
+run.lock
+.worktrees/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.token
+.DS_Store

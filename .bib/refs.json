@@ -1,0 +1,23 @@
+[
+  {
+    "ISBN": "9781542866507",
+    "author": [
+      {
+        "family": "Ahrens",
+        "given": "Sönke"
+      }
+    ],
+    "id": "202608301000",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "CreateSpace",
+    "publisher-place": "North Charleston, SC",
+    "title": "How to Take Smart Notes",
+    "type": "book"
+  }
+]

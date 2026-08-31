@@ -1,0 +1,187 @@
+{
+  "generated_by": "build_manifest.py",
+  "id_to_key": {
+    "202608301000": "ahrens-how-to-take-smart-notes--202608301000",
+    "202608301100": "ahrens-on-the-slip-box-workflow--202608301100",
+    "202608301300": "zettelkasten-method--202608301300",
+    "202701010001": "atomic-notes-compound-over-time--202701010001",
+    "202701010002": "one-idea-per-note-enables-reuse--202701010002",
+    "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
+    "202701010011": "reinvested-returns-compound--202701010011",
+    "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
+    "202701010013": "time-horizon-dominates-rate--202701010013"
+  },
+  "note_count": 9,
+  "notes": [
+    {
+      "id": "202608301000",
+      "key": "ahrens-how-to-take-smart-notes--202608301000",
+      "links": [],
+      "path": "reference/ahrens-how-to-take-smart-notes--202608301000.md",
+      "slug": "ahrens-how-to-take-smart-notes",
+      "tags": [],
+      "title": "Ahrens, How to Take Smart Notes",
+      "type": "reference",
+      "updated": "2026-08-30",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ahrens-how-to-take-smart-notes--202608301000.md"
+    },
+    {
+      "id": "202608301100",
+      "key": "ahrens-on-the-slip-box-workflow--202608301100",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ahrens-how-to-take-smart-notes--202608301000"
+        }
+      ],
+      "path": "literature/ahrens-on-the-slip-box-workflow--202608301100.md",
+      "slug": "ahrens-on-the-slip-box-workflow",
+      "tags": [],
+      "title": "Ahrens on the slip-box workflow",
+      "type": "literature",
+      "updated": "2026-08-30",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202701010001",
+      "key": "atomic-notes-compound-over-time--202701010001",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "titles-stated-as-claims-force-clarity--202701010003"
+        }
+      ],
+      "path": "permanent/atomic-notes-compound-over-time--202701010001.md",
+      "slug": "atomic-notes-compound-over-time",
+      "tags": [],
+      "title": "Atomic notes compound over time",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202701010012",
+      "key": "linear-growth-lacks-a-feedback-loop--202701010012",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "reinvested-returns-compound--202701010011"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/linear-growth-lacks-a-feedback-loop--202701010012.md",
+      "slug": "linear-growth-lacks-a-feedback-loop",
+      "tags": [],
+      "title": "Linear growth lacks a feedback loop",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/linear-growth-lacks-a-feedback-loop--202701010012.md"
+    },
+    {
+      "id": "202701010002",
+      "key": "one-idea-per-note-enables-reuse--202701010002",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "titles-stated-as-claims-force-clarity--202701010003"
+        }
+      ],
+      "path": "permanent/one-idea-per-note-enables-reuse--202701010002.md",
+      "slug": "one-idea-per-note-enables-reuse",
+      "tags": [],
+      "title": "One idea per note enables reuse",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
+    },
+    {
+      "id": "202701010011",
+      "key": "reinvested-returns-compound--202701010011",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/reinvested-returns-compound--202701010011.md",
+      "slug": "reinvested-returns-compound",
+      "tags": [],
+      "title": "Reinvested returns compound",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/reinvested-returns-compound--202701010011.md"
+    },
+    {
+      "id": "202701010013",
+      "key": "time-horizon-dominates-rate--202701010013",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "reinvested-returns-compound--202701010011"
+        }
+      ],
+      "path": "permanent/time-horizon-dominates-rate--202701010013.md",
+      "slug": "time-horizon-dominates-rate",
+      "tags": [],
+      "title": "Time horizon dominates rate",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/time-horizon-dominates-rate--202701010013.md"
+    },
+    {
+      "id": "202701010003",
+      "key": "titles-stated-as-claims-force-clarity--202701010003",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        }
+      ],
+      "path": "permanent/titles-stated-as-claims-force-clarity--202701010003.md",
+      "slug": "titles-stated-as-claims-force-clarity",
+      "tags": [],
+      "title": "Titles stated as claims force clarity",
+      "type": "permanent",
+      "updated": "2027-01-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/titles-stated-as-claims-force-clarity--202701010003.md"
+    },
+    {
+      "id": "202608301300",
+      "key": "zettelkasten-method--202608301300",
+      "links": [],
+      "path": "moc/zettelkasten-method--202608301300.md",
+      "slug": "zettelkasten-method",
+      "tags": [
+        "moc"
+      ],
+      "title": "Zettelkasten method",
+      "type": "moc",
+      "updated": "2026-08-30",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/zettelkasten-method--202608301300.md"
+    }
+  ],
+  "visibility": "public"
+}

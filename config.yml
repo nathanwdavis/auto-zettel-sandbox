@@ -1,0 +1,32 @@
+# zettel-bootstrap content-repo configuration (FR-2).
+# Genesis writes every key below; maintenance runs read them and hard-fail
+# with a clear message if a required key is missing (AC-2).
+
+topics: ["zettelkasten method", "compound growth"]
+
+# Cron-like string or a human phrase ("weekly on Sunday at 06:00").
+cadence: "on-demand (spike)"
+
+budget:
+  usd: 5          # per-run cap, passed to claude -p --max-budget-usd
+  max_turns: 40  # passed to --max-turns; print mode has no default
+
+# suggest | auto-commit | autonomous
+autonomy_level: suggest
+
+content_repo:
+  name: "auto-zettel-sandbox"
+  owner: "nathanwdavis"
+  visibility: "public"   # public | private
+
+embedding:
+  enabled: false
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+
+models:
+  strong: "claude-opus-5"
+  cheap: "claude-haiku-4-5-20251001"
+
+# Slower sub-cadences (FR-28 steps 5 and 7).
+connector_cadence: "weekly"
+skill_smith_cadence: "monthly"
