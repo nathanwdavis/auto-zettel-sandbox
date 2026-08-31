@@ -36,7 +36,7 @@ verification:
   method: raw-capture
   source: raw/202608311912-vroom-1990-abstract.txt
   verified: true
-  date: '2026-08-31T22:23:20Z'
+  date: '2026-08-31T22:25:15Z'
 raw_capture: raw/202608311912-vroom-1990-abstract.txt
 links: []
 created: '2026-08-31'
