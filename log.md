@@ -82,3 +82,26 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T11:44:40Z` remote_cycle: pushed zettel/run-20260831113804 (41ff705)
 - `2026-08-31T11:44:40Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831113804 (gh unavailable)
 - `2026-08-31T11:44:43Z` remote_cycle: lock released
+- `2026-08-31T19:09:00Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260831190900)
+- `2026-08-31T19:09:00Z` capture: inquiry -> inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md
+- `2026-08-31T19:17:06Z` verify_refs: 10/10 verified
+- `2026-08-31T19:19:51Z` verify_refs: 10/10 verified
+- `2026-08-31T19:19:53Z` lint_citations: PASS
+- `2026-08-31T19:19:53Z` lint_links: PASS
+- `2026-08-31T19:20:45Z` adhoc_research: opened cycle for inquiry 202608311909 (evangelical doctrine of God vs other Abrahamic traditions); lock claimed, branch created, inquiry filed by capture.py
+- `2026-08-31T19:20:45Z` step 3: researched directly (no subagent dispatch). 8 sources captured to raw/ before any reference note existed: NAE Statement of Faith (full, uncopyrighted), Nostra Aetate sec.3 (vatican.va), Qur'an 112/4:171/5:73 (Pickthall, public domain), Deut 6:4-5 Hebrew+JPS (Sefaria), Maimonides Yesodei HaTorah 1:7 (Sefaria/Touger), Tachin 2017 abstract (Crossref, DOI 10.35285/ucc3.1.2017.art11), Vroom 1990 abstract (Crossref, DOI 10.1017/s0034412500020217), NPR 2015 attributed-quotes excerpt. Wrote 8 reference + 8 literature + 4 permanent notes and 1 MOC; INDEX updated.
+- `2026-08-31T19:20:45Z` step 3 note: Hick, "Jews, Christians, Muslims: Do We All Worship the Same God?" (DOI 10.1007/978-1-349-12695-8_9) was identified via Crossref as directly on point but is paywalled (Springer returned a JS bot challenge). Not cited and no note written — an unread source is not a source. Filed as INBOX follow-up. Volf, Allah: A Christian Response (ISBN 9780061927072) likewise dropped rather than cited unread.
+- `2026-08-31T19:20:45Z` step 3 note: two references (Tachin, Vroom) rest on publisher abstracts only. Both reference notes and both literature notes say so explicitly and disclaim detail beyond the abstract; Vroom's own view is recorded as unstated in the abstract and is not attributed.
+- `2026-08-31T19:20:45Z` step 6 critic (self-review): 4 permanent notes reviewed claim-by-claim against captures. One overstatement found and fixed before the gates — literature/nae-names-god... and permanent/evangelical-theology-identifies-god... claimed "five of the seven" NAE articles concern the Son and Spirit; the capture shows three (arts. 3-5), with a fourth naming Christ. Corrected to the counted figure. All other quoted material checked verbatim against raw/. Groundedness: P1 0.92, P2 0.93, P3 0.90, P4 0.91 — all PASS.
+- `2026-08-31T19:20:45Z` step 8: gates clean on first run — verify_refs 10/10, lint_citations PASS, lint_links PASS
+- `2026-08-31T19:20:45Z` build_manifest: 35 notes indexed
+- `2026-08-31T19:20:45Z` step 9: build_manifest rebuilt after the ad-hoc cycle
+- `2026-08-31T19:20:47Z` verify_refs: 10/10 verified
+- `2026-08-31T19:20:49Z` lint_citations: PASS
+- `2026-08-31T19:20:49Z` lint_links: PASS
+- `2026-08-31T19:21:05Z` capture: inbox -> INBOX.md
+- `2026-08-31T19:21:05Z` lint_links: PASS
+- `2026-08-31T19:21:11Z` step 10: inquiry 202608311909 marked answered with 4 result_notes; INBOX follow-up filed for the two unread sources (Hick paywalled, Volf uncited)
+- `2026-08-31T19:21:13Z` remote_cycle: pushed zettel/run-20260831190900 (5f4bf54)
+- `2026-08-31T19:21:13Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831190900 (gh unavailable)
+- `2026-08-31T19:21:16Z` remote_cycle: lock released

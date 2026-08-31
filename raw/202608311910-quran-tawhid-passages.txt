@@ -1,0 +1,18 @@
+Verbatim capture of Qur'an passages bearing on tawhid (the divine oneness) and
+on the Qur'anic response to trinitarian language.
+Fetched 2026-08-31T19:12:19Z from the AlQuran Cloud API
+(https://api.alquran.cloud/v1/...), edition en.pickthall — Marmaduke
+Pickthall, The Meaning of the Glorious Koran (1930), a translation in the
+public domain.
+
+Surah 112 (Al-Ikhlaas, "The Sincerity"), Meccan revelation, complete:
+112:1  Say: He is Allah, the One!
+112:2  Allah, the eternally Besought of all!
+112:3  He begetteth not nor was begotten.
+112:4  And there is none comparable unto Him.
+
+Surah 4 (An-Nisaa), ayah 171, complete:
+O People of the Scripture! Do not exaggerate in your religion nor utter aught concerning Allah save the truth. The Messiah, Jesus son of Mary, was only a messenger of Allah, and His word which He conveyed unto Mary, and a spirit from Him. So believe in Allah and His messengers, and say not "Three" - Cease! (it is) better for you! - Allah is only One Allah. Far is it removed from His Transcendent Majesty that He should have a son. His is all that is in the heavens and all that is in the earth. And Allah is sufficient as Defender.
+
+Surah 5 (Al-Maaida), ayah 73, complete:
+They surely disbelieve who say: Lo! Allah is the third of three; when there is no Allah save the One Allah. If they desist not from so saying a painful doom will fall on those of them who disbelieve.

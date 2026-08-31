@@ -1,0 +1,17 @@
+Verbatim capture of the publisher's abstract for:
+Hendrik M. Vroom, "Do all Religious Traditions Worship the Same God?"
+Religious Studies 26, no. 1 (March 1990): 73-90.
+DOI 10.1017/s0034412500020217. Publisher: Cambridge University Press. ISSN 0034-4125.
+
+Retrieved 2026-08-31T19:14:37Z from the Crossref REST API
+(https://api.crossref.org/works/10.1017/s0034412500020217).
+
+ABSTRACT ONLY -- the full article was not retrieved and has not been read. Any
+note grounded on this capture may report the article's stated structure and
+stated aim, and must not attribute to it a conclusion the abstract does not
+state. Note in particular that the abstract announces the author will "elaborate
+my own view" in the final section but does not say what that view is.
+
+--- BEGIN VERBATIM ABSTRACT ---
+Do all religions worship the same God? Sometimes this question is answered positively, sometimes negatively. Various reasons are given. In the first four sections of this paper we will analyse arguments which affirm or deny that all religions worship the same God. We will see that different types of argument are used. Some authors base their answers to our question on their theological insights (section 1); others defend their thesis with reference to the results of studies in comparative religion (section 2); a third type of argument derives from the philosophy of religion (section 3) and a fourth from philosophical views regarding the ultimate unity of the world (section 4). After this survey we will deal with the structure of the various arguments given. What kind of argument is decisive? I will also make some comments on each of these arguments in order to develop my own. We will then draw our conclusion as to the kind of arguments which are appropriate to our theme (section 5). In the last section I will elaborate my own view.
+--- END VERBATIM ABSTRACT ---

@@ -9,6 +9,27 @@
     "202608311038": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038",
     "202608311142": "a-trusted-structure-frees-attention-from-willpower--202608311142",
     "202608311143": "compound-growth--202608311143",
+    "202608311920": "nae-statement-of-faith--202608311920",
+    "202608311921": "shema-deuteronomy-6-4-5--202608311921",
+    "202608311922": "maimonides-mishneh-torah-yesodei-hatorah--202608311922",
+    "202608311923": "quran-tawhid-passages--202608311923",
+    "202608311924": "nostra-aetate--202608311924",
+    "202608311925": "tachin-do-they-worship-the-same-god--202608311925",
+    "202608311926": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926",
+    "202608311927": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927",
+    "202608311930": "nae-names-god-as-one-being-in-three-persons--202608311930",
+    "202608311931": "the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931",
+    "202608311932": "maimonides-denies-any-composition-in-gods-unity--202608311932",
+    "202608311933": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
+    "202608311934": "nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934",
+    "202608311935": "tachin-makes-accepted-trinitarian-worship-the-test--202608311935",
+    "202608311936": "vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936",
+    "202608311937": "the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937",
+    "202608311940": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
+    "202608311941": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
+    "202608311942": "the-same-god-question-turns-on-reference-versus-description--202608311942",
+    "202608311943": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
+    "202608311945": "abrahamic-conceptions-of-god--202608311945",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -16,7 +37,23 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
-  "note_count": 14,
+  "inquiries": [
+    {
+      "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
+      "path": "inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md",
+      "priority": "high",
+      "question": "How does mainstream evangelical Christian theology answer the question 'Who is God?', and how does that compare to other Abrahamic religions? Do they all actually share the same God, or different Gods with some common attributes?",
+      "result_notes": [
+        "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
+        "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
+        "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
+        "the-same-god-question-turns-on-reference-versus-description--202608311942"
+      ],
+      "status": "answered",
+      "updated": "2026-08-31"
+    }
+  ],
+  "note_count": 35,
   "notes": [
     {
       "id": "202608311142",
@@ -42,6 +79,51 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md"
+    },
+    {
+      "id": "202608311945",
+      "key": "abrahamic-conceptions-of-god--202608311945",
+      "links": [],
+      "path": "moc/abrahamic-conceptions-of-god--202608311945.md",
+      "slug": "abrahamic-conceptions-of-god",
+      "tags": [],
+      "title": "Abrahamic conceptions of God",
+      "type": "moc",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
+    },
+    {
+      "id": "202608311941",
+      "key": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-yesodei-hatorah--202608311922"
+        },
+        {
+          "relation": "source",
+          "target_id": "nae-statement-of-faith--202608311920"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        },
+        {
+          "relation": "source",
+          "target_id": "shema-deuteronomy-6-4-5--202608311921"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md",
+      "slug": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness",
+      "tags": [],
+      "title": "The Abrahamic monotheisms agree that God is one and divide over whether oneness admits internal distinction",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md"
     },
     {
       "id": "202608301000",
@@ -149,6 +231,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/compound-growth--202608311143.md"
     },
     {
+      "id": "202608311940",
+      "key": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "nae-statement-of-faith--202608311920"
+        }
+      ],
+      "path": "permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md",
+      "slug": "evangelical-theology-identifies-god-by-a-tri-personal-life",
+      "tags": [],
+      "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
+    },
+    {
+      "id": "202608311927",
+      "key": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927",
+      "links": [],
+      "path": "reference/gjelten-do-christians-and-muslims-worship-the-same-god--202608311927.md",
+      "slug": "gjelten-do-christians-and-muslims-worship-the-same-god",
+      "tags": [],
+      "title": "Gjelten, Do Christians And Muslims Worship The Same God?",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/gjelten-do-christians-and-muslims-worship-the-same-god--202608311927.md"
+    },
+    {
       "id": "202608311037",
       "key": "housel-on-compounding-as-time-in-the-loop--202608311037",
       "links": [
@@ -207,6 +322,109 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/linear-growth-lacks-a-feedback-loop--202701010012.md"
     },
     {
+      "id": "202608311932",
+      "key": "maimonides-denies-any-composition-in-gods-unity--202608311932",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-yesodei-hatorah--202608311922"
+        }
+      ],
+      "path": "literature/maimonides-denies-any-composition-in-gods-unity--202608311932.md",
+      "slug": "maimonides-denies-any-composition-in-gods-unity",
+      "tags": [],
+      "title": "Maimonides denies any composition in God's unity",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-denies-any-composition-in-gods-unity--202608311932.md"
+    },
+    {
+      "id": "202608311922",
+      "key": "maimonides-mishneh-torah-yesodei-hatorah--202608311922",
+      "links": [],
+      "path": "reference/maimonides-mishneh-torah-yesodei-hatorah--202608311922.md",
+      "slug": "maimonides-mishneh-torah-yesodei-hatorah",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Yesodei HaTorah",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-mishneh-torah-yesodei-hatorah--202608311922.md"
+    },
+    {
+      "id": "202608311930",
+      "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "supports",
+          "target_id": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940"
+        },
+        {
+          "relation": "source",
+          "target_id": "nae-statement-of-faith--202608311920"
+        }
+      ],
+      "path": "literature/nae-names-god-as-one-being-in-three-persons--202608311930.md",
+      "slug": "nae-names-god-as-one-being-in-three-persons",
+      "tags": [],
+      "title": "The NAE statement names God as one being in three persons",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/nae-names-god-as-one-being-in-three-persons--202608311930.md"
+    },
+    {
+      "id": "202608311920",
+      "key": "nae-statement-of-faith--202608311920",
+      "links": [],
+      "path": "reference/nae-statement-of-faith--202608311920.md",
+      "slug": "nae-statement-of-faith",
+      "tags": [],
+      "title": "National Association of Evangelicals, Statement of Faith",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nae-statement-of-faith--202608311920.md"
+    },
+    {
+      "id": "202608311924",
+      "key": "nostra-aetate--202608311924",
+      "links": [],
+      "path": "reference/nostra-aetate--202608311924.md",
+      "slug": "nostra-aetate",
+      "tags": [],
+      "title": "Second Vatican Council, Nostra Aetate",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nostra-aetate--202608311924.md"
+    },
+    {
+      "id": "202608311934",
+      "key": "nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate--202608311924"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "literature/nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934.md",
+      "slug": "nostra-aetate-affirms-shared-worship-while-recording-the-difference",
+      "tags": [],
+      "title": "Nostra Aetate affirms shared worship while recording the difference",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934.md"
+    },
+    {
       "id": "202701010002",
       "key": "one-idea-per-note-enables-reuse--202701010002",
       "links": [
@@ -226,6 +444,18 @@
       "type": "permanent",
       "updated": "2027-01-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
+    },
+    {
+      "id": "202608311923",
+      "key": "quran-tawhid-passages--202608311923",
+      "links": [],
+      "path": "reference/quran-tawhid-passages--202608311923.md",
+      "slug": "quran-tawhid-passages",
+      "tags": [],
+      "title": "Qur'an 112; 4:171; 5:73",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
     },
     {
       "id": "202701010011",
@@ -251,6 +481,182 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/reinvested-returns-compound--202701010011.md"
+    },
+    {
+      "id": "202608311943",
+      "key": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943.md",
+      "slug": "shared-abrahamic-descent-does-not-settle-the-reference-question",
+      "tags": [],
+      "title": "Shared Abrahamic descent does not settle whether the referent is shared",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943.md"
+    },
+    {
+      "id": "202608311921",
+      "key": "shema-deuteronomy-6-4-5--202608311921",
+      "links": [],
+      "path": "reference/shema-deuteronomy-6-4-5--202608311921.md",
+      "slug": "shema-deuteronomy-6-4-5",
+      "tags": [],
+      "title": "Deuteronomy 6:4-5 (the Shema)",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shema-deuteronomy-6-4-5--202608311921.md"
+    },
+    {
+      "id": "202608311925",
+      "key": "tachin-do-they-worship-the-same-god--202608311925",
+      "links": [],
+      "path": "reference/tachin-do-they-worship-the-same-god--202608311925.md",
+      "slug": "tachin-do-they-worship-the-same-god",
+      "tags": [],
+      "title": "Tachin, Do Judaism, Islam, and Christianity Worship the Same God?",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tachin-do-they-worship-the-same-god--202608311925.md"
+    },
+    {
+      "id": "202608311935",
+      "key": "tachin-makes-accepted-trinitarian-worship-the-test--202608311935",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "literature/tachin-makes-accepted-trinitarian-worship-the-test--202608311935.md",
+      "slug": "tachin-makes-accepted-trinitarian-worship-the-test",
+      "tags": [],
+      "title": "Tachin makes accepted trinitarian worship the test, not shared categories",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tachin-makes-accepted-trinitarian-worship-the-test--202608311935.md"
+    },
+    {
+      "id": "202608311937",
+      "key": "the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
+        },
+        {
+          "relation": "supports",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "literature/the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937.md",
+      "slug": "the-2015-wheaton-dispute-put-the-positions-on-the-record",
+      "tags": [],
+      "title": "The 2015 Wheaton dispute put the competing positions on the record",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937.md"
+    },
+    {
+      "id": "202608311933",
+      "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        }
+      ],
+      "path": "literature/the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933.md",
+      "slug": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects",
+      "tags": [],
+      "title": "The Qur'an asserts tawhid and names the formula it rejects",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933.md"
+    },
+    {
+      "id": "202608311942",
+      "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
+        },
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate--202608311924"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "source",
+          "target_id": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926"
+        }
+      ],
+      "path": "permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md",
+      "slug": "the-same-god-question-turns-on-reference-versus-description",
+      "tags": [
+        "contested"
+      ],
+      "title": "The same-God question turns on whether reference or description decides",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
+    },
+    {
+      "id": "202608311931",
+      "key": "the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "shema-deuteronomy-6-4-5--202608311921"
+        }
+      ],
+      "path": "literature/the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931.md",
+      "slug": "the-shema-confesses-one-lord-with-a-live-translation-crux",
+      "tags": [],
+      "title": "The Shema confesses one LORD, over a live translation crux",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931.md"
     },
     {
       "id": "202701010013",
@@ -297,6 +703,39 @@
       "type": "permanent",
       "updated": "2027-01-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/titles-stated-as-claims-force-clarity--202701010003.md"
+    },
+    {
+      "id": "202608311926",
+      "key": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926",
+      "links": [],
+      "path": "reference/vroom-do-all-religious-traditions-worship-the-same-god--202608311926.md",
+      "slug": "vroom-do-all-religious-traditions-worship-the-same-god",
+      "tags": [],
+      "title": "Vroom, Do all Religious Traditions Worship the Same God?",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/vroom-do-all-religious-traditions-worship-the-same-god--202608311926.md"
+    },
+    {
+      "id": "202608311936",
+      "key": "vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "source",
+          "target_id": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926"
+        }
+      ],
+      "path": "literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936.md",
+      "slug": "vroom-finds-the-same-god-arguments-come-from-four-disciplines",
+      "tags": [],
+      "title": "Vroom finds the same-God arguments come from four different disciplines",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936.md"
     },
     {
       "id": "202608301300",

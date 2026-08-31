@@ -1,0 +1,8 @@
+Verbatim capture of Maimonides, Mishneh Torah, Sefer Madda, Hilchot Yesodei
+HaTorah (Foundations of the Torah) 1:7, on the character of God's oneness.
+Fetched 2026-08-31T19:12:19Z from the Sefaria API.
+Version: Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (license: CC-BY-NC)
+
+--- BEGIN VERBATIM ---
+This God is one. He is not two or more, but one, unified in a manner which [surpasses] any unity that is found in the world; i.e., He is not one in the manner of a general category which includes many individual entities, nor one in the way that the body is divided into different portions and dimensions. Rather, He is unified, and there exists no unity similar to His in this world.If there were many gods, they would have body and form, because like entities are separated from each other only through the circumstances associated with body and form.Were the Creator to have body and form, He would have limitation and definition, because it is impossible for a body not to be limited. And any entity which itself is limited and defined [possesses] only limited and defined power. Since our God, blessed be His name, possesses unlimited power, as evidenced by the continuous revolution of the sphere, we see that His power is not the power of a body. Since He is not a body, the circumstances associated with bodies that produce division and separation are not relevant to Him. Therefore, it is impossible for Him to be anything other than one.The knowledge of this concept fulfills a positive commandment, as [implied by Deuteronomy 6:4]: "[Hear, Israel,] God is our Lord, God is one."
+--- END VERBATIM ---
