@@ -58,6 +58,11 @@ chapter text into raw/ and re-score before building further on this note.
 - **status:** new
 - **priority:** low
 - **asked_by:** maintenance-run (2026-08-31 cycle, gap-fill against topic 'zettelkasten method')
+- **2026-08-31 (later cycle) attempt:** re-fetched the official takesmartnotes.com preview PDF
+  (current URL redirects to a squarespace CDN copy) and confirmed it is the identical pp. 1-11
+  Introduction/Ch.1-opening preview already captured — no wider preview has been published.
+  Internet Archive holds a scan but it is lending-restricted (no full-text access without
+  borrowing). No progress possible without a purchased or library copy. Left open.
 
 This cycle replaced the note's content-free placeholder ("Own-words summary
 of [[ref]].") with a real summary grounded in verbatim quotes captured from
@@ -106,17 +111,29 @@ publisher abstracts only. Vroom's own conclusion is explicitly unknown to the
 base. A future run with library or institutional access should capture the full
 texts and re-score all three notes.
 
-**2026-08-31 re-check (maintenance-run):** Re-tried both. Hick's chapter is
-still paywalled at the Springer DOI (no institutional access from this
-environment); a general web search turned up no accessible mirror of the
-actual essay text. Volf's book on Internet Archive
-(archive.org/details/isbn_9780061927072) is `Access-restricted-item`: no
-download or full-text search, only a controlled-digital-lending "borrow"
-that requires a logged-in account this run does not have. Two review essays
-(The Gospel Coalition, Christian Scholar's Review) quote short passages of
-Volf's own text with page numbers, but their quoted wording didn't overlap
-enough between the two to cross-verify any single sentence word-for-word
-(the standard this base held to for the Housel excerpt) — so no
-literature/reference note was written from them rather than risk an
-unverified "verbatim" quote. Both sources stay open; they need either a
-library loan, institutional Springer access, or a purchased copy.
+**2026-08-31 (later cycle) attempt:** re-checked all four sources for legitimate
+open access. Hick's chapter is still behind Springer's bot challenge, no OA
+mirror found. Volf's book is still lending-restricted on Internet Archive; the
+Yale Center for Faith & Culture page found in search covers a different
+multi-author volume, not Volf's own argument, so it does not substitute.
+Tachin's article turned up on academia.edu but the page 403s without a login.
+Vroom remains paywalled on Cambridge Core with no OA copy located. No
+pirated/scraper mirrors were used (source-legitimacy norm). All four still
+require institutional/library/purchased access; nothing changed this cycle.
+Left open.
+
+**2026-08-31 re-check (maintenance-run):** Re-tried Hick and Volf again in a
+separate concurrent cycle. Hick's chapter is still paywalled at the Springer
+DOI (no institutional access from this environment); a general web search
+turned up no accessible mirror of the actual essay text. Volf's book on
+Internet Archive (archive.org/details/isbn_9780061927072) is
+`Access-restricted-item`: no download or full-text search, only a
+controlled-digital-lending "borrow" that requires a logged-in account this
+run does not have. Two review essays (The Gospel Coalition, Christian
+Scholar's Review) quote short passages of Volf's own text with page numbers,
+but their quoted wording didn't overlap enough between the two to
+cross-verify any single sentence word-for-word (the standard this base held
+to for the Housel excerpt) — so no literature/reference note was written
+from them rather than risk an unverified "verbatim" quote. Both sources stay
+open; they need either a library loan, institutional Springer access, or a
+purchased copy.

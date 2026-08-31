@@ -105,6 +105,26 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T19:21:13Z` remote_cycle: pushed zettel/run-20260831190900 (5f4bf54)
 - `2026-08-31T19:21:13Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831190900 (gh unavailable)
 - `2026-08-31T19:21:16Z` remote_cycle: lock released
+- `2026-08-31T20:53:50Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260831205350)
+- `2026-08-31T20:54:07Z` step 2: read INBOX.md (2 new entries: Ahrens ch1 scope gap [low], same-God unread-sources follow-up [normal]) and inquiries/ (1 file, status=answered, no open inquiries).
+- `2026-08-31T20:55:47Z` lint_links: PASS
+- `2026-08-31T20:55:56Z` lint_citations: PASS
+- `2026-08-31T20:56:12Z` step 3: no open inquiries; worked both `new` INBOX follow-ups directly (small run, no subagent dispatch). (a) Same-God unread-sources item: re-searched for legitimate open access to Hick's chapter (Springer, still bot-gated, no OA mirror found), Volf's book (Internet Archive lending copy remains access-restricted; Yale Center for Faith & Culture page covers a different multi-author volume, not Volf's own argument), and full text for Tachin 2017 / Vroom 1990 (Tachin found on academia.edu but returns HTTP 403 without login; Vroom remains paywalled on Cambridge Core, no OA copy located). No pirated/scraper mirrors used as sources per source-legitimacy norms. Still blocked — no new reference/literature notes possible this cycle; INBOX entry updated with this attempt so a future run doesn't repeat the identical dead-end searches. (b) Ahrens ch.6/9-11 gap: re-fetched the official takesmartnotes.com preview PDF directly (via its current squarespace CDN URL) and confirmed it is the same pp.1-11 Introduction/Ch.1-opening preview already captured — does not reach the taxonomy chapters. Internet Archive's scan is lending-restricted. No progress possible without a purchased/library copy; INBOX entry left open with this noted.
+- `2026-08-31T20:56:31Z` step 4: note-maintainer sweep (self, small run) — fleeting/ empty, no orphaned permanent notes (checked all permanent/*.md against moc/*.md + INDEX.md), lint_links already clean. Nothing to repair.
+- `2026-08-31T20:56:31Z` step 5: skipped — connector_cadence is weekly, genesis was 2026-08-31 (today), no prior serendipity_sweep entry; not yet due.
+- `2026-08-31T20:56:31Z` step 7: skipped — skill_smith_cadence is monthly, genesis was 2026-08-31 (this month); not due.
+- `2026-08-31T20:56:36Z` step 6: critic — no new or changed permanent/literature/reference/MOC notes this cycle (only INBOX.md follow-up entries were annotated with research-attempt records); nothing to gate.
+- `2026-08-31T20:56:39Z` verify_refs: 10/10 verified
+- `2026-08-31T20:56:42Z` lint_citations: PASS
+- `2026-08-31T20:56:42Z` lint_links: PASS
+- `2026-08-31T20:56:45Z` step 8: gates clean — verify_refs 10/10 verified, lint_citations PASS, lint_links PASS.
+- `2026-08-31T20:56:45Z` build_manifest: 35 notes indexed
+- `2026-08-31T20:56:46Z` step 9: build_manifest — 35 notes indexed (unchanged; no new notes this cycle).
+- `2026-08-31T20:56:53Z` step 10: no inquiries required a status change (only inquiry is already answered). Both open INBOX follow-ups annotated with this cycle's research-attempt findings and left `new`/open (genuinely still blocked on institutional/library access, not resolved).
+- `2026-08-31T20:56:58Z` remote_cycle: pushed zettel/run-20260831205350 (a593bed)
+- `2026-08-31T20:56:58Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831205350 (GitHub CLI unavailable)
+- `2026-08-31T20:57:01Z` remote_cycle: lock released
+- `2026-08-31T20:57:39Z` remote_cycle: opened PR #6 via GitHub MCP (GitHub CLI unavailable in this container); auto-merge not enabled on this repo (Settings → General → Pull Requests), so PR awaits CI + manual merge.
 - `2026-08-31T21:55:15Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260831215515)
 - `2026-08-31T21:57:42Z` verify_refs: 10/10 verified
 - `2026-08-31T21:57:47Z` build_manifest: 35 notes indexed
@@ -127,3 +147,7 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T22:00:03Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831215515 (gh unavailable)
 - `2026-08-31T22:00:07Z` remote_cycle: lock released
 - `2026-08-31T22:06:26Z` step 11 (post-push CI fix): gates check failed on push/PR — `build_manifest.py --check` (run via CI's freshly-cloned skill `main`) reported manifest.json stale. Root cause: this session's cached skill copy at /opt/zettel-skill predates an `inquiries/` indexing feature that the skill's current `main` build_manifest.py has (confirmed by diffing against main's last-good manifest.json, committed by an earlier cycle: it carries an `inquiries` top-level key this session's local build_manifest.py never emits). My local build_manifest.py run in step 9 silently dropped that section. Restored the `inquiries` array by hand from origin/main's manifest.json (the one entry — inquiry 202608311909 — is unchanged since then), re-committed, re-pushed. Flagging for the human: gates.yml pins the skill repo to a floating `main`, but this environment's setup-script cache is frozen at an older commit (per references/remote-execution.md's own warning) — every remote cycle run from this cached environment will keep silently regressing manifest.json until the cache is refreshed or gates.yml's ZETTEL_SKILL_REF is pinned to match.
+- `2026-08-31T22:23:20Z` verify_refs: 10/10 verified
+- `2026-08-31T22:23:22Z` lint_citations: PASS
+- `2026-08-31T22:23:23Z` lint_links: PASS
+- `2026-08-31T22:23:38Z` step 12 (merge conflict resolution): PR #6 (branch zettel/run-20260831205350, an earlier concurrent cycle covering the same INBOX follow-ups) merged into main while this PR was open, leaving this branch `dirty`. Merged origin/main in: reference/*.md conflicts were all just verification-timestamp fields (resolved by re-running verify_refs.py fresh after the merge rather than hand-picking either side); INBOX.md and log.md conflicts were two independent cycles' append-only records of the same re-check work (kept both, ordered chronologically by when each cycle actually ran, 20:53-20:57Z before 21:55-22:06Z); manifest.json auto-merged cleanly and already carries the `inquiries` section from main's a9283ec-equivalent fix (420c92a on main), so it was left as-is rather than rebuilt with this session's stale local script. Gates re-run clean post-merge: verify_refs 10/10, lint_citations PASS, lint_links PASS.

@@ -31,7 +31,7 @@ verification:
   method: raw-capture
   source: raw/202608311036-housel-psychology-of-money.txt
   verified: true
-  date: '2026-08-31T21:59:46Z'
+  date: '2026-08-31T22:23:19Z'
 raw_capture: raw/202608311036-housel-psychology-of-money.txt
 excerpt_captures:
 - raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt
