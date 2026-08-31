@@ -32,7 +32,7 @@ verification:
   method: raw-capture
   source: raw/202608311912-npr-2015-same-god-debate-excerpt.txt
   verified: true
-  date: '2026-08-31T19:20:46Z'
+  date: '2026-08-31T21:59:46Z'
 raw_capture: raw/202608311912-npr-2015-same-god-debate-excerpt.txt
 links: []
 created: '2026-08-31'

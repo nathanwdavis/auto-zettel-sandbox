@@ -40,7 +40,7 @@ verification:
   method: raw-capture
   source: raw/202608311912-tachin-2017-abstract.txt
   verified: true
-  date: '2026-08-31T19:20:47Z'
+  date: '2026-08-31T21:59:47Z'
 raw_capture: raw/202608311912-tachin-2017-abstract.txt
 links: []
 created: '2026-08-31'
