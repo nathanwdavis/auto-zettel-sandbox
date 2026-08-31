@@ -12,7 +12,9 @@ links:
   relation: elaborates
 - target_id: time-horizon-dominates-rate--202701010013
   relation: elaborates
+- target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
+  relation: analogous
 created: '2027-01-01'
-updated: '2027-01-01'
+updated: '2026-08-31'
 ---
 Reinvested returns themselves earn returns. The mechanism is recombination over time: each period's gain becomes principal that later periods compound, so growth accelerates rather than staying linear.

@@ -4,6 +4,9 @@
     "202608301000": "ahrens-how-to-take-smart-notes--202608301000",
     "202608301100": "ahrens-on-the-slip-box-workflow--202608301100",
     "202608301300": "zettelkasten-method--202608301300",
+    "202608311036": "housel-the-psychology-of-money--202608311036",
+    "202608311037": "housel-on-compounding-as-time-in-the-loop--202608311037",
+    "202608311038": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -11,7 +14,7 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
-  "note_count": 9,
+  "note_count": 12,
   "notes": [
     {
       "id": "202608301000",
@@ -43,9 +46,46 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
     },
     {
+      "id": "202608311038",
+      "key": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "source",
+          "target_id": "housel-on-compounding-as-time-in-the-loop--202608311037"
+        },
+        {
+          "relation": "supports",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "reinvested-returns-compound--202701010011"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038.md",
+      "slug": "atomic-notes-and-compound-interest-share-a-reinvestment-loop",
+      "tags": [],
+      "title": "Atomic notes and compound interest share a reinvestment loop",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038.md"
+    },
+    {
       "id": "202701010001",
       "key": "atomic-notes-compound-over-time--202701010001",
       "links": [
+        {
+          "relation": "analogous",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
         {
           "relation": "elaborates",
           "target_id": "one-idea-per-note-enables-reuse--202701010002"
@@ -60,13 +100,50 @@
       "tags": [],
       "title": "Atomic notes compound over time",
       "type": "permanent",
-      "updated": "2027-01-01",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202608311037",
+      "key": "housel-on-compounding-as-time-in-the-loop--202608311037",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
+        {
+          "relation": "source",
+          "target_id": "housel-the-psychology-of-money--202608311036"
+        }
+      ],
+      "path": "literature/housel-on-compounding-as-time-in-the-loop--202608311037.md",
+      "slug": "housel-on-compounding-as-time-in-the-loop",
+      "tags": [],
+      "title": "Housel on compounding as time in the loop",
+      "type": "literature",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/housel-on-compounding-as-time-in-the-loop--202608311037.md"
+    },
+    {
+      "id": "202608311036",
+      "key": "housel-the-psychology-of-money--202608311036",
+      "links": [],
+      "path": "reference/housel-the-psychology-of-money--202608311036.md",
+      "slug": "housel-the-psychology-of-money",
+      "tags": [],
+      "title": "Housel, The Psychology of Money",
+      "type": "reference",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/housel-the-psychology-of-money--202608311036.md"
     },
     {
       "id": "202701010012",
       "key": "linear-growth-lacks-a-feedback-loop--202701010012",
       "links": [
+        {
+          "relation": "supports",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
         {
           "relation": "elaborates",
           "target_id": "reinvested-returns-compound--202701010011"
@@ -81,7 +158,7 @@
       "tags": [],
       "title": "Linear growth lacks a feedback loop",
       "type": "permanent",
-      "updated": "2027-01-01",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/linear-growth-lacks-a-feedback-loop--202701010012.md"
     },
     {
@@ -110,6 +187,10 @@
       "key": "reinvested-returns-compound--202701010011",
       "links": [
         {
+          "relation": "analogous",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
+        {
           "relation": "elaborates",
           "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
         },
@@ -123,13 +204,17 @@
       "tags": [],
       "title": "Reinvested returns compound",
       "type": "permanent",
-      "updated": "2027-01-01",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/reinvested-returns-compound--202701010011.md"
     },
     {
       "id": "202701010013",
       "key": "time-horizon-dominates-rate--202701010013",
       "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
         {
           "relation": "elaborates",
           "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
@@ -144,7 +229,7 @@
       "tags": [],
       "title": "Time horizon dominates rate",
       "type": "permanent",
-      "updated": "2027-01-01",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/time-horizon-dominates-rate--202701010013.md"
     },
     {
@@ -179,7 +264,7 @@
       ],
       "title": "Zettelkasten method",
       "type": "moc",
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/zettelkasten-method--202608301300.md"
     }
   ],
