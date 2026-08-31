@@ -155,3 +155,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T22:25:15Z` verify_refs: 10/10 verified
 - `2026-08-31T22:25:17Z` lint_citations: PASS
 - `2026-08-31T22:25:17Z` lint_links: PASS
+- `2026-08-31T22:27:31Z` build_manifest: 35 notes indexed
+- `2026-08-31T22:27:50Z` verify_refs: 10/10 verified
+- `2026-08-31T22:27:52Z` lint_citations: PASS
+- `2026-08-31T22:27:52Z` lint_links: PASS
+- `2026-08-31T22:28:14Z` step 14: found the real root cause of the repeated "manifest.json out of date" CI failures — this session's cached skill at /opt/zettel-skill was stale not just missing `inquiries` but on an older schema for it entirely (both my earlier hand-patch and PR #6's, 420c92a, guessed the same now-outdated schema: extra `id`/`slug`/`tags`/`url_or_apipath` fields, unsorted `result_notes`). Re-ran the skill's own `ci/setup-environment.sh` to refresh the cache from the skill's live `main` (the documented fix in references/remote-execution.md), then rebuilt the manifest with the now-current script — matches CI's `build_manifest.py --check` cleanly. The refreshed `verify_refs.py` also does a stronger raw-capture+crossref cross-check for DOI'd references now (4 reference notes re-stamped with an added `identifier_check` field, additive only).

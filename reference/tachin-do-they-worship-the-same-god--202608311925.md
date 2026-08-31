@@ -37,10 +37,11 @@ chicago_bib: 'Tachin, Philip. “Do Judaism, Islam, and Christianity Worship the
   https://doi.org/10.35285/ucc3.1.2017.art11.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202608311912-tachin-2017-abstract.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.35285/ucc3.1.2017.art11
   verified: true
-  date: '2026-08-31T22:25:15Z'
+  identifier_check: confirmed
+  date: '2026-08-31T22:27:48Z'
 raw_capture: raw/202608311912-tachin-2017-abstract.txt
 links: []
 created: '2026-08-31'
