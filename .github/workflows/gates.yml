@@ -20,7 +20,7 @@ on:
 env:
   # Pin to a tag or SHA for reproducible gates; bump deliberately.
   ZETTEL_SKILL_REPO: nathanwdavis/auto-zettel-skill
-  ZETTEL_SKILL_REF: main
+  ZETTEL_SKILL_REF: claude/skill-plan-requirements-j3zghc  # spike pin; flip to main/tag after Phase 3.5 merges
 
 jobs:
   gates:
