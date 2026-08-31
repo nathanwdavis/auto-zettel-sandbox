@@ -19,5 +19,26 @@
     "publisher-place": "North Charleston, SC",
     "title": "How to Take Smart Notes",
     "type": "book"
+  },
+  {
+    "ISBN": "9780857197689",
+    "author": [
+      {
+        "family": "Housel",
+        "given": "Morgan"
+      }
+    ],
+    "id": "202608311036",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Harriman House",
+    "publisher-place": "Petersfield, UK",
+    "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
+    "type": "book"
   }
 ]

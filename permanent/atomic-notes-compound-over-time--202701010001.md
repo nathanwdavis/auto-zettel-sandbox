@@ -12,7 +12,9 @@ links:
   relation: elaborates
 - target_id: titles-stated-as-claims-force-clarity--202701010003
   relation: elaborates
+- target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
+  relation: analogous
 created: '2027-01-01'
-updated: '2027-01-01'
+updated: '2026-08-31'
 ---
 A note confined to one idea can be reused in contexts its author never anticipated. That reuse is what makes a slip-box compound rather than merely accumulate: each atomic note becomes a component later thinking can recombine into new arguments.

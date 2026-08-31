@@ -12,7 +12,9 @@ links:
   relation: elaborates
 - target_id: time-horizon-dominates-rate--202701010013
   relation: elaborates
+- target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
+  relation: supports
 created: '2027-01-01'
-updated: '2027-01-01'
+updated: '2026-08-31'
 ---
 Simple interest pays only on the original principal, so each period's gain leaves the earning base unchanged. Without that feedback loop growth stays a straight line however long you wait.
