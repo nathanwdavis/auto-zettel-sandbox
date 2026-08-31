@@ -1,0 +1,16 @@
+Verbatim capture of the publisher's abstract for:
+Philip Tachin, "Do Judaism, Islam, and Christianity Worship the Same God? A
+Reformed Theological Perspective," Unio Cum Christo 3, no. 1 (April 2017): 127.
+DOI 10.35285/ucc3.1.2017.art11. Publisher: Walter de Gruyter GmbH. ISSN 2473-8476.
+
+Retrieved 2026-08-31T19:14:37Z from the Crossref REST API
+(https://api.crossref.org/works/10.35285/ucc3.1.2017.art11).
+
+ABSTRACT ONLY -- the full article was not retrieved and has not been read. Any
+note grounded on this capture may report the article's stated thesis and stated
+line of argument, and must not attribute to it detail beyond the abstract.
+(Capitalisation below is as Crossref returns it.)
+
+--- BEGIN VERBATIM ABSTRACT ---
+Abstract: It Is Debated Whether Judaism, Christianity, And Islam Worship The Same God. That They Share The Same Roots In Abraham, The Father Of Faith, Makes Some, Including Christian Scholars, Conclude That They Worship The Same God. The Question Turns On The Real Substance Of Worship And Its Approval By God. Drawing From The Classical Reformed View, We Make A Logical And Exegetical Argument That Judaism, Christianity, And Islam May Have Shared The Same Broad Categories About Their Supreme Deities, But Conclude That They Actually Do Not Worship The Same God. That True Worship Of God Is Trinitarian And Christ Centered, Which Is Unique About Christianity, Makes It Impossible To Admit That The Three Religions Worship The Same God.
+--- END VERBATIM ABSTRACT ---

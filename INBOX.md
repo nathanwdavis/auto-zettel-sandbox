@@ -78,3 +78,30 @@ atomicity/titles permanent notes
 [[titles-stated-as-claims-force-clarity--202701010003]]) to it if their
 claims do turn out to be directly attributable to Ahrens rather than
 independent synthesis.
+
+## 2026-08-31 — Follow-up: two key same-God sources went uncited because they could not be read
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+The ad-hoc cycle for inquiry 202608311909 identified two sources directly on
+point that were NOT used, because neither could be read and an unread source is
+not a source:
+
+- John Hick, 'Jews, Christians, Muslims: Do We All Worship the Same God?', in
+  Disputed Questions in Theology and the Philosophy of Religion (Palgrave
+  Macmillan, 1993), 146-63. DOI 10.1007/978-1-349-12695-8_9. Verified to exist
+  via Crossref; Springer serves a JavaScript bot challenge, so neither full text
+  nor abstract was retrievable.
+- Miroslav Volf, Allah: A Christian Response (HarperOne, 2011),
+  ISBN 9780061927072. Verified via Open Library. This is the most prominent
+  book-length argument on the affirmative side and the base currently has no
+  substantial 'yes' argument from a single named theologian - Nostra Aetate and
+  Saritoprak carry that side alone.
+
+Also: literature/tachin-makes-accepted-trinitarian-worship-the-test and
+literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines rest on
+publisher abstracts only. Vroom's own conclusion is explicitly unknown to the
+base. A future run with library or institutional access should capture the full
+texts and re-score all three notes.

@@ -40,5 +40,155 @@
     "publisher-place": "Petersfield, UK",
     "title": "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness",
     "type": "book"
+  },
+  {
+    "URL": "https://www.nae.org/statement-of-faith/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          31
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "National Association of Evangelicals"
+      }
+    ],
+    "container-title": "National Association of Evangelicals",
+    "id": "202608311920",
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "title": "Statement of Faith",
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Maimonides",
+        "given": "Moses"
+      }
+    ],
+    "id": "202608311922",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Mishneh Torah, Sefer Madda, Hilchot Yesodei HaTorah",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+    "author": [
+      {
+        "literal": "Second Vatican Council"
+      }
+    ],
+    "id": "202608311924",
+    "issued": {
+      "date-parts": [
+        [
+          1965,
+          10,
+          28
+        ]
+      ]
+    },
+    "publisher": "Holy See",
+    "title": "Nostra Aetate: Declaration on the Relation of the Church to Non-Christian Religions",
+    "type": "document"
+  },
+  {
+    "DOI": "10.35285/ucc3.1.2017.art11",
+    "ISSN": "2473-8476",
+    "author": [
+      {
+        "family": "Tachin",
+        "given": "Philip"
+      }
+    ],
+    "container-title": "Unio Cum Christo",
+    "id": "202608311925",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          1
+        ]
+      ]
+    },
+    "page": "127",
+    "publisher": "Walter de Gruyter GmbH",
+    "title": "Do Judaism, Islam, and Christianity Worship the Same God? A Reformed Theological Perspective",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "DOI": "10.1017/s0034412500020217",
+    "ISSN": "0034-4125",
+    "author": [
+      {
+        "family": "Vroom",
+        "given": "Hendrik M."
+      }
+    ],
+    "container-title": "Religious Studies",
+    "id": "202608311926",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          3
+        ]
+      ]
+    },
+    "page": "73-90",
+    "publisher": "Cambridge University Press",
+    "title": "Do all Religious Traditions Worship the Same God?",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "URL": "https://www.npr.org/2015/12/20/460480698/do-christians-and-muslims-worship-the-same-god",
+    "author": [
+      {
+        "family": "Gjelten",
+        "given": "Tom"
+      }
+    ],
+    "container-title": "NPR",
+    "id": "202608311927",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          20
+        ]
+      ]
+    },
+    "title": "Do Christians And Muslims Worship The Same God?",
+    "type": "article-newspaper"
   }
 ]

@@ -1,0 +1,15 @@
+Verbatim capture of Deuteronomy 6:4-5 (the Shema), Hebrew and English.
+Fetched 2026-08-31T19:12:19Z from the Sefaria API (https://www.sefaria.org/api/v3/texts/).
+
+Hebrew version: Miqra according to the Masorah (license: CC-BY-SA)
+  שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהֹוָ֥ה אֱלֹהֵ֖ינוּ יְהֹוָ֥ה ׀ אֶחָֽד׃
+  וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ בְּכׇל־לְבָבְךָ֥ וּבְכׇל־נַפְשְׁךָ֖ וּבְכׇל־מְאֹדֶֽךָ׃
+
+English version: THE JPS TANAKH: Gender-Sensitive Edition (license: CC-BY-NC)
+  Hear, O Israel! The ETERNAL is our God, the ETERNAL alone.bThe ETERNAL is our God, the ETERNAL alone Cf. Rashbam, Ibn Ezra; see Zech. 14.9. In contrast to others “The LORD our God, the LORD is one.” 
+  You shall love the ETERNAL your God with all your heart and with all your soul and with all your might.
+
+Note carried in the JPS translation itself: this rendering ("the ETERNAL
+alone") follows Rashbam and Ibn Ezra, and the translators flag the contrasting
+traditional rendering "The LORD our God, the LORD is one." The ambiguity is in
+the Hebrew, not introduced by the translator.

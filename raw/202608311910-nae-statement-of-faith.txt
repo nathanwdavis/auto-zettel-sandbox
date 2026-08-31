@@ -1,0 +1,19 @@
+Verbatim capture of the National Association of Evangelicals Statement of Faith.
+Fetched 2026-08-31T19:12:19Z from https://www.nae.org/statement-of-faith/ (HTTP 200).
+
+The NAE states on the same page that it has intentionally not copyrighted this
+statement so that it may be used widely, asking only for the attribution line
+reproduced at the end. Captured in full.
+
+--- BEGIN VERBATIM ---
+We believe the Bible to be the inspired, the only infallible, authoritative Word of God. 
+ We believe that there is one God, eternally existent in three persons: Father, Son and Holy Spirit. 
+ We believe in the deity of our Lord Jesus Christ, in His virgin birth, in His sinless life, in His miracles, in His vicarious and atoning death through His shed blood, in His bodily resurrection, in His ascension to the right hand of the Father, and in His personal return in power and glory. 
+ We believe that for the salvation of lost and sinful people, regeneration by the Holy Spirit is absolutely essential. 
+ We believe in the present ministry of the Holy Spirit by whose indwelling the Christian is enabled to live a godly life. 
+ We believe in the resurrection of both the saved and the lost; they that are saved unto the resurrection of life and they that are lost unto the resurrection of damnation. 
+ We believe in the spiritual unity of believers in our Lord Jesus Christ.
+--- END VERBATIM ---
+
+Attribution as requested by the publisher: "As adopted by the National
+Association of Evangelicals."
