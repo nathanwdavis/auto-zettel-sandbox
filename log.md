@@ -15,3 +15,4 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T02:41:05Z` verify_refs: 1/1 verified
 - `2026-08-31T02:41:05Z` lint_citations: PASS
 - `2026-08-31T02:41:05Z` lint_links: PASS
+- `2026-08-31T02:45:00Z` gates-smoke: branch created to register the CI check
