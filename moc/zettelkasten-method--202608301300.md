@@ -17,4 +17,9 @@ updated: '2026-08-31'
 ## Notes
 
 - [[atomic-notes-compound-over-time--202701010001]]
+- [[one-idea-per-note-enables-reuse--202701010002]]
+- [[titles-stated-as-claims-force-clarity--202701010003]]
+- [[a-trusted-structure-frees-attention-from-willpower--202608311142]]
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
+
+See also: [[compound-growth--202608311143]]
