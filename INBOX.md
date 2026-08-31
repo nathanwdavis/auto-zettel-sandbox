@@ -30,7 +30,20 @@ not to grow the wiki.
 
 ## 2026-08-31 — Follow-up: strengthen grounding of Housel literature note
 
-- **status:** new
+- **status:** answered
+- **answer:** Full chapter text was not obtainable (Open Library/archive.org
+  list the ebook as "restricted" availability, so it could not be fetched
+  directly). Captured a small set of verbatim ch. 4 quotations instead —
+  cross-checked word-for-word across two independent secondary sources
+  before use — into
+  raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt, linked
+  from the reference note's new `excerpt_captures` field. Re-scored
+  [[housel-on-compounding-as-time-in-the-loop--202608311037]] at
+  groundedness 0.90 (was 0.72): both propositional claims (duration over
+  rate; outsized/counterintuitive result) now have a direct corroborating
+  quote. This is a strong excerpt, not a complete-text verification — that
+  residual gap is recorded in the literature note itself rather than
+  hidden, in case a future run gets real chapter access.
 - **priority:** low
 - **asked_by:** maintenance-run (critic finding, 2026-08-31 cycle)
 

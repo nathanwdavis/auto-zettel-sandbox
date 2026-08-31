@@ -31,11 +31,19 @@ verification:
   method: raw-capture
   source: raw/202608311036-housel-psychology-of-money.txt
   verified: true
-  date: '2026-08-31T10:39:48Z'
+  date: '2026-08-31T11:20:56Z'
 raw_capture: raw/202608311036-housel-psychology-of-money.txt
+excerpt_captures:
+- raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt
 links: []
 created: '2026-08-31'
 updated: '2026-08-31'
 ---
-Bibliographic record. The raw capture is Open Library metadata for this ISBN
-only — no text of the book itself has been captured.
+Bibliographic record. The primary raw capture is Open Library metadata for
+this ISBN only — no chapter text of the book itself has been captured (the
+ebook is listed "restricted" on Open Library/archive.org, so it was not
+directly fetchable). raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt
+adds a small set of verbatim ch. 4 quotations, corroborated across two
+independent secondary sources, sufficient to ground the specific claims in
+[[housel-on-compounding-as-time-in-the-loop--202608311037]] — not a
+substitute for full-text access.

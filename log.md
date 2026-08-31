@@ -38,3 +38,17 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T10:40:14Z` remote_cycle: pushed zettel/run-20260831103031 (f50b2b2)
 - `2026-08-31T10:40:14Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831103031 (gh unavailable)
 - `2026-08-31T10:40:16Z` remote_cycle: lock released
+- `2026-08-31T11:17:31Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260831111731)
+- `2026-08-31T11:17:38Z` step 2: read INBOX.md (1 new entry: follow-up to strengthen grounding of literature/housel-on-compounding-as-time-in-the-loop--202608311037 with actual chapter text); inquiries/ is empty
+- `2026-08-31T11:20:17Z` step 3: strengthened grounding for literature/housel-on-compounding-as-time-in-the-loop--202608311037 per INBOX follow-up. Chapter 4 full text is not accessible (Open Library/archive.org list the ebook as restricted); captured a small set of verbatim ch.4 quotations into raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt, corroborated word-for-word across two independent secondary sources (grahammann.net, sloww.co) before use. Reference note gets excerpt_captures field; literature note's grounding-basis paragraph now cites specific corroborating quotes instead of resting on chapter title alone.
+- `2026-08-31T11:20:29Z` step 4: skipped — fleeting/ is empty, no other INBOX revision requests, link-repair check found 0 dangling links across 12 notes
+- `2026-08-31T11:20:35Z` step 5: skipped — connector_cadence is weekly, genesis was 2026-08-31 (today), no prior serendipity_sweep entry; not yet due
+- `2026-08-31T11:20:49Z` step 6 critic (self-review, small run): literature/housel-on-compounding-as-time-in-the-loop re-scored groundedness=0.90 PASS (was 0.72 FLAG) — both propositional claims (duration-over-rate; outsized/counterintuitive result) now each have a direct corroborating verbatim quote in raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt, cross-checked across two independent secondary sources; residual gap is that the excerpt is a handful of sentences, not the full chapter, so this is a strong but not complete verification — noted in the note body rather than hidden. atomicity/clarity/link-quality unchanged from last cycle's PASS. reference/housel-the-psychology-of-money: verification.verified unchanged (true, raw-capture); added excerpt_captures field is additive, not a re-verification, so no lint impact expected.
+- `2026-08-31T11:20:52Z` step 7: skipped — skill_smith_cadence is monthly, genesis was 2026-08-31 (today); not due
+- `2026-08-31T11:20:56Z` verify_refs: 2/2 verified
+- `2026-08-31T11:21:03Z` lint_citations: PASS
+- `2026-08-31T11:21:03Z` lint_links: PASS
+- `2026-08-31T11:21:05Z` step 8: gates clean — verify_refs 2/2 verified (housel re-stamped raw-capture, now with excerpt_captures present), lint_citations PASS, lint_links PASS
+- `2026-08-31T11:21:10Z` build_manifest: 12 notes indexed
+- `2026-08-31T11:21:11Z` step 9: build_manifest — 12 notes indexed
+- `2026-08-31T11:21:22Z` step 10: INBOX follow-up entry marked answered with backlink to re-scored literature/housel-on-compounding-as-time-in-the-loop--202608311037

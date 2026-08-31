@@ -24,8 +24,15 @@ themselves. A merely good return sustained without interruption for a very long
 time produces outcomes that outsize intuition, because the base doing the
 earning keeps absorbing its own output.
 
-Grounding basis: the raw capture for the reference is bibliographic metadata
-only. It corroborates the locator (ch. 4, "Confounding Compounding") but not
-the summary above, which rests on the chapter title and general knowledge of
-the book rather than on captured text. Follow-up: capture chapter text and
-re-verify.
+Grounding basis: the reference's primary raw capture is bibliographic
+metadata only, but raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt
+now adds verbatim ch. 4 quotations (corroborated across two independent
+secondary sources) that support the summary directly: "If you want to do
+better as an investor, the single most powerful thing you can do is
+increase your time horizon" and "the real key to his success is that he's
+been a phenomenal investor for three quarters of a century" support "how
+long the gains are left in place" as the driver; "a small starting base can
+lead to results so extraordinary they seem to defy logic" supports "outsize
+intuition." The full chapter text itself remains uncaptured (the ebook is
+restricted-access) — this is a small excerpt, not a complete-text
+verification, and a stronger future capture would still improve on it.

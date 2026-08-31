@@ -1,0 +1,49 @@
+Short verbatim excerpts from Morgan Housel, The Psychology of Money, ch. 4
+"Confounding Compounding" (reference: housel-the-psychology-of-money--202608311036).
+
+This is NOT the full chapter text -- the chapter is under copyright and is not
+freely republishable. These are brief direct quotations (a few sentences),
+reproduced for citation-grounding/commentary purposes, collected from two
+independent secondary sources that each quote the book verbatim. The book
+itself was not otherwise accessible to this run (Open Library / archive.org
+list the ebook as "restricted" availability; see the ISBN metadata capture
+in raw/202608311036-housel-psychology-of-money.txt).
+
+Fetched 2026-08-31T11:18Z-11:19Z via WebFetch.
+
+Source A: https://grahammann.net/book-notes/the-psychology-of-money-morgan-housel
+Quoted as verbatim text from ch. 4:
+  "$81.5 billion of Warren Buffett's $84.5 billion net worth came after his
+  65th birthday."
+  "Our minds are not built to handle such absurdities."
+  "The real key to his success is that he's been a phenomenal investor for
+  three quarters of a century."
+  "Had he started investing in his 30s and retired in his 60s, few people
+  would have ever heard of him."
+
+Source B: https://www.sloww.co/psychology-of-money-book/
+Quoted as verbatim text from ch. 4:
+  "$81.5 billion of Warren Buffett's $84.5 billion net worth came after his
+  65th birthday."
+  "If something compounds -- if a little growth serves as the fuel for
+  future growth -- a small starting base can lead to results so
+  extraordinary they seem to defy logic."
+  "If you want to do better as an investor, the single most powerful thing
+  you can do is increase your time horizon."
+  "Good investing isn't necessarily about earning the highest returns,
+  because the highest returns tend to be one-off hits that can't be
+  repeated."
+
+Corroboration: the Buffett net-worth figure ("$81.5 billion ... came after
+his 65th birthday") is identical, word for word, across both independently
+fetched sources, which is strong evidence it is an accurate quotation of the
+book rather than a paraphrase drifting between secondary sources.
+
+Relevance to the literature note's summary (housel-on-compounding-as-time-
+in-the-loop--202608311037): the two "time horizon" quotes above (Source A's
+"three quarters of a century" / "started investing in his 30s" framing, and
+Source B's "increase your time horizon" line) directly support the claim
+that compounding's power comes from duration held rather than from any one
+period's return. The "small starting base ... results so extraordinary they
+seem to defy logic" quote directly supports the claim that the effect
+"outsizes intuition." No excerpt found contradicts the note's summary.
