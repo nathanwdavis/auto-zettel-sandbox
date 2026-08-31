@@ -52,3 +52,29 @@ groundedness 0.72 (FLAG): its raw capture is Open Library bibliographic
 metadata only, which corroborates the locator (ch. 4, "Confounding
 Compounding") but not the summary's propositional content. Capture actual
 chapter text into raw/ and re-score before building further on this note.
+
+## 2026-08-31 — Follow-up: literature/ahrens-on-the-slip-box-workflow only covers the Introduction and opening of Chapter 1
+
+- **status:** new
+- **priority:** low
+- **asked_by:** maintenance-run (2026-08-31 cycle, gap-fill against topic 'zettelkasten method')
+
+This cycle replaced the note's content-free placeholder ("Own-words summary
+of [[ref]].") with a real summary grounded in verbatim quotes captured from
+the official author-published preview PDF of *How to Take Smart Notes*
+(takesmartnotes.com) — see
+raw/202608311141-ahrens-ch1-everything-you-need-to-know-excerpt.txt and
+[[ahrens-on-the-slip-box-workflow--202608301100]]. The preview only reaches
+the Introduction and the opening of Chapter 1 ("Everything You Need to
+Know"), which covers *why* a trusted structure beats a plan, not yet the
+fleeting-note/literature-note/permanent-note taxonomy itself — that content
+is in Chapter 6 ("Simplicity Is Paramount", pp. 36-44) and Chapters 9-11
+("Separate and Interlocking Tasks" / "Read for Understanding" / "Take Smart
+Notes", pp. 55-104). A future run should capture that range (a library copy,
+a different legitimate preview, or purchased access) and either extend this
+literature note or write a second one, then ground the existing
+atomicity/titles permanent notes
+([[one-idea-per-note-enables-reuse--202701010002]],
+[[titles-stated-as-claims-force-clarity--202701010003]]) to it if their
+claims do turn out to be directly attributable to Ahrens rather than
+independent synthesis.

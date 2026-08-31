@@ -29,10 +29,12 @@ verification:
   method: raw-capture
   source: raw/202608301000-ahrens-smart-notes.txt
   verified: true
-  date: '2026-08-31T11:20:56Z'
+  date: '2026-08-31T11:44:06Z'
 raw_capture: raw/202608301000-ahrens-smart-notes.txt
+excerpt_captures:
+- raw/202608311141-ahrens-ch1-everything-you-need-to-know-excerpt.txt
 links: []
 created: '2026-08-30'
-updated: '2026-08-30'
+updated: '2026-08-31'
 ---
 Bibliographic record.
