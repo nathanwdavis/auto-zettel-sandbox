@@ -14,6 +14,8 @@ links:
   relation: elaborates
 - target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
   relation: analogous
+- target_id: a-trusted-structure-frees-attention-from-willpower--202608311142
+  relation: shared-concept
 created: '2027-01-01'
 updated: '2026-08-31'
 ---

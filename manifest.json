@@ -7,6 +7,8 @@
     "202608311036": "housel-the-psychology-of-money--202608311036",
     "202608311037": "housel-on-compounding-as-time-in-the-loop--202608311037",
     "202608311038": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038",
+    "202608311142": "a-trusted-structure-frees-attention-from-willpower--202608311142",
+    "202608311143": "compound-growth--202608311143",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -14,8 +16,33 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
-  "note_count": 12,
+  "note_count": 14,
   "notes": [
+    {
+      "id": "202608311142",
+      "key": "a-trusted-structure-frees-attention-from-willpower--202608311142",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ahrens-how-to-take-smart-notes--202608301000"
+        },
+        {
+          "relation": "source",
+          "target_id": "ahrens-on-the-slip-box-workflow--202608301100"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        }
+      ],
+      "path": "permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md",
+      "slug": "a-trusted-structure-frees-attention-from-willpower",
+      "tags": [],
+      "title": "A trusted structure frees attention from willpower",
+      "type": "permanent",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md"
+    },
     {
       "id": "202608301000",
       "key": "ahrens-how-to-take-smart-notes--202608301000",
@@ -25,7 +52,7 @@
       "tags": [],
       "title": "Ahrens, How to Take Smart Notes",
       "type": "reference",
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ahrens-how-to-take-smart-notes--202608301000.md"
     },
     {
@@ -42,7 +69,7 @@
       "tags": [],
       "title": "Ahrens on the slip-box workflow",
       "type": "literature",
-      "updated": "2026-08-30",
+      "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
     },
     {
@@ -83,6 +110,10 @@
       "key": "atomic-notes-compound-over-time--202701010001",
       "links": [
         {
+          "relation": "shared-concept",
+          "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
+        },
+        {
           "relation": "analogous",
           "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
         },
@@ -102,6 +133,20 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202608311143",
+      "key": "compound-growth--202608311143",
+      "links": [],
+      "path": "moc/compound-growth--202608311143.md",
+      "slug": "compound-growth",
+      "tags": [
+        "moc"
+      ],
+      "title": "Compound growth",
+      "type": "moc",
+      "updated": "2026-08-31",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/compound-growth--202608311143.md"
     },
     {
       "id": "202608311037",
