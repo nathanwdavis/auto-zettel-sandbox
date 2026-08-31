@@ -121,3 +121,7 @@ and the resulting commit SHA (NFR-2).
 - `2026-08-31T20:56:45Z` build_manifest: 35 notes indexed
 - `2026-08-31T20:56:46Z` step 9: build_manifest — 35 notes indexed (unchanged; no new notes this cycle).
 - `2026-08-31T20:56:53Z` step 10: no inquiries required a status change (only inquiry is already answered). Both open INBOX follow-ups annotated with this cycle's research-attempt findings and left `new`/open (genuinely still blocked on institutional/library access, not resolved).
+- `2026-08-31T20:56:58Z` remote_cycle: pushed zettel/run-20260831205350 (a593bed)
+- `2026-08-31T20:56:58Z` remote_cycle: branch pushed; open a PR for zettel/run-20260831205350 (gh unavailable)
+- `2026-08-31T20:57:01Z` remote_cycle: lock released
+- `2026-08-31T20:57:39Z` remote_cycle: opened PR #6 via GitHub MCP (gh unavailable in this container); auto-merge not enabled on this repo (Settings → General → Pull Requests), so PR awaits CI + manual merge.
