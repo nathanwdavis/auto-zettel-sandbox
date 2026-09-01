@@ -268,7 +268,7 @@ now cited only via the SEP.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
-- **asked_by:** human
+- **asked_by:** maintenance-run (2026-09-01 ad-hoc cycle, inquiry 202609011526)
 
 (no further detail)
 
@@ -276,6 +276,6 @@ now cited only via the SEP.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
-- **asked_by:** human
+- **asked_by:** maintenance-run (2026-09-01 ad-hoc cycle, inquiry 202609011526)
 
 (no further detail)

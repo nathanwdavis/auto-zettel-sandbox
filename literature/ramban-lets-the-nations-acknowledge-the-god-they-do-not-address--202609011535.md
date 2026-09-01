@@ -5,7 +5,7 @@ slug: ramban-lets-the-nations-acknowledge-the-god-they-do-not-address
 aliases:
 - '202609011535'
 type: literature
-title: Ramban lets the nations acknowledge the God they do not address
+title: Ramban has the nations acknowledge the God they do not address
 tags: []
 reference: ramban-commentary-on-the-torah--202609011530
 locator: Commentary on the Torah, Leviticus 18:25 and Exodus 20:3
@@ -32,7 +32,10 @@ it all belongs to the Glorious Name, yet its purity is not perfect, because of
 princes to worship them as well."
 
 **The taxonomy (Exodus 20:3).** Ramban then classifies idolatry into three
-kinds, and the first is the one that bears on this repository's question:
+kinds. What follows is his account of the first *kind of idol-worship*, not of
+a tolerated arrangement; on Leviticus 18:25 he says in as many words that "the
+nations go astray after their princes to worship them". The first kind is the
+one that bears on this repository's question:
 peoples who "began to worship the angels, who are the Separate Intelligences,
 because it is known that some of them have rulership over the peoples." The
 decisive sentence is his next: "They worshipped the angels **even though they

@@ -26,10 +26,11 @@ links:
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
-The halakhic category through which Judaism has actually answered the same-God
-question about Christians does not answer it by deciding whom Christians
-worship. It concedes that, and then makes the verdict turn on who is doing the
-worshipping.
+The Jewish-legal sentence most often reached for when the same-God question is
+asked about Christians does not answer it by deciding whom Christians worship.
+It concedes that, and then makes the verdict turn on who is doing the
+worshipping. (The gloss says only "their foreign god"; that it is about
+Christians is how it has been read since, not something the text says.)
 
 The Rema's gloss is the locus classicus and it concedes the referent in one
 clause: "even though they mention their foreign god, nevertheless their
@@ -40,26 +41,39 @@ worshipper's standing -- "the gentiles are not warned regarding partnership" --
 so the identical theology is tolerable in one person and forbidden in another
 (see [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]]).
 
-This is a third answer shape, distinct from the two the same-God literature
-usually offers (see
-[[the-same-god-question-turns-on-reference-versus-description--202608311942]]).
-It is not "yes, same referent" and not "no, different description." It is: the
-question as posed is under-specified, because *worships the same God* is not a
-two-place relation between a worshipper and a deity but a three-place one that
-includes the obligations the worshipper is under. Ramban's restriction of
-divine jealousy to Israel -- "Scripture uses no such term of jealousy with
-reference to other peoples to whom He has allotted the hosts of heaven" -- is
-the same move in a different idiom, and it is why the two doctrines coexist
-without strain (see
+Read as a *ruling*, that is all it is: a permission for a Jew to enter a
+business partnership, resting on the finding that a gentile's oath no longer
+invokes idols. It makes no claim about the relation *worships the same God*,
+and it does not say that Jews are forbidden what gentiles are not warned
+about -- that much is inference, though it is the standard one.
+
+What this repository takes from it is a third answer *shape*, and the framing
+is the repository's construction from the ruling, not the ruling's own claim.
+Alongside the two the same-God literature usually offers (see
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]]),
+neither "yes, same referent" nor "no, different description," a permission
+built this way suggests that *worships the same God* may not be a two-place
+relation between a worshipper and a deity at all, but one whose answer moves
+with the obligations the worshipper is under. Ramban has a structurally similar
+restriction -- divine jealousy is said of Israel and not of "other peoples to
+whom He has allotted the hosts of heaven" (on Exodus 20:3) -- but it is not the
+same point: his split is between acknowledging God and addressing Him, within
+one worshipper, whereas this one holds the worship fixed and varies who is
+performing it (see
 [[kabbalah-separates-acknowledging-god-from-addressing-him--202609011540]]).
 
-The move has a cost, and Goshen-Gottstein names it: the category is "a useful
-internal category, but one that does not do justice to the theological nuances
-of the religions it seeks to describe," best kept "as a purely internal one by
-means of which Jews come to terms with another religion" (see
-[[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]]).
-That is exactly what a worshipper-indexed answer must concede. A rule that
-sorts by the obligations of the one asking is not a claim about what the other
-party believes, and shituf has never been a description Christians recognize as
-theirs -- no Christian account of the Trinity holds that a further force is
-*associated* with the Creator.
+Goshen-Gottstein, writing about whether shituf can be extended to Hinduism,
+judges the category "a useful internal category, but one that does not do
+justice to the theological nuances of the religions it seeks to describe," and
+would keep it "as a purely internal one by means of which Jews come to terms
+with another religion" (see
+[[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]]). His
+subject is the Hindu case; only the abstract of that chapter was obtainable,
+so nothing here reports how he argues it, and the verdict is not his verdict on
+the Rema.
+
+The inference this repository draws is its own: what he says a worshipper-
+indexed category cannot do is what such a category is structurally unable to
+do in the Christian case either. A rule that sorts by the obligations of the
+one asking is not a description of what the other party believes, and it does
+not become one by being applied for four centuries.

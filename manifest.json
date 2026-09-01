@@ -1096,7 +1096,7 @@
       "key": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
       "links": [
         {
-          "relation": "refutes",
+          "relation": "contradicts",
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
@@ -1147,6 +1147,14 @@
           "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
         }
@@ -1154,7 +1162,7 @@
       "path": "permanent/kabbalah-separates-acknowledging-god-from-addressing-him--202609011540.md",
       "slug": "kabbalah-separates-acknowledging-god-from-addressing-him",
       "tags": [],
-      "title": "Kabbalah separates acknowledging God from addressing Him",
+      "title": "Ramban separates acknowledging God from addressing Him",
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/kabbalah-separates-acknowledging-god-from-addressing-him--202609011540.md"
@@ -1689,7 +1697,7 @@
       "path": "literature/patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536.md",
       "slug": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless",
       "tags": [],
-      "title": "Patach Eliyahu names the sefirot and leaves the Infinite nameless",
+      "title": "Patach Eliyahu names the sefirot and denies the One a specific name",
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536.md"
@@ -1800,7 +1808,7 @@
       "path": "literature/ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535.md",
       "slug": "ramban-lets-the-nations-acknowledge-the-god-they-do-not-address",
       "tags": [],
-      "title": "Ramban lets the nations acknowledge the God they do not address",
+      "title": "Ramban has the nations acknowledge the God they do not address",
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535.md"
@@ -2336,6 +2344,10 @@
         },
         {
           "relation": "shared-concept",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "shared-concept",
           "target_id": "kabbalah-separates-acknowledging-god-from-addressing-him--202609011540"
         },
         {
@@ -2350,7 +2362,7 @@
       "path": "permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md",
       "slug": "the-nameless-infinite-defeats-reference-fixing-by-description",
       "tags": [],
-      "title": "The nameless Infinite defeats reference-fixing by description",
+      "title": "Kabbalah addresses a God that no specific description picks out",
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md"

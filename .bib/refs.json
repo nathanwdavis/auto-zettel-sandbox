@@ -837,6 +837,13 @@
         ]
       ]
     },
+    "original-date": {
+      "date-parts": [
+        [
+          1267
+        ]
+      ]
+    },
     "publisher": "Shilo Publishing House",
     "publisher-place": "New York",
     "title": "Commentary on the Torah",
@@ -863,6 +870,13 @@
         ]
       ]
     },
+    "original-date": {
+      "date-parts": [
+        [
+          1557
+        ]
+      ]
+    },
     "publisher": "Margalya Press",
     "publisher-place": "Melbourne",
     "title": "Tiqqunei ha-Zohar",
@@ -882,12 +896,6 @@
         "given": "Joseph"
       }
     ],
-    "contributor": [
-      {
-        "family": "Isserles",
-        "given": "Moses"
-      }
-    ],
     "id": "202609011532",
     "issued": {
       "date-parts": [
@@ -896,6 +904,7 @@
         ]
       ]
     },
+    "note": "Cited here for OC 156:1 as printed with the gloss (Mappah) of Moses Isserles, Krakow, 1578, on Karo's base text, Venice, 1565.",
     "title": "Shulchan Arukh, Orach Chayim",
     "type": "book"
   },

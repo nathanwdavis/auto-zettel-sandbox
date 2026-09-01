@@ -5,7 +5,7 @@ slug: patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless
 aliases:
 - '202609011536'
 type: literature
-title: Patach Eliyahu names the sefirot and leaves the Infinite nameless
+title: Patach Eliyahu names the sefirot and denies the One a specific name
 tags: []
 reference: tikkunei-ha-zohar--202609011531
 locator: Tiqqunei ha-Zohar, second introduction, folios 17a-17b
@@ -26,18 +26,32 @@ in number." Unity is asserted and immediately removed from arithmetic. Then:
 "You are high above all the high-ones, hidden, beyond all that is hidden, no
 thought apprehends You at all," and later, "of You, there is no imagining, and
 there is no likeness, of anything that is inside or out," closing with "there
-is none that knows of You at all." The attribute-denials are formulaic:
+is none that knows of You at all." The attribute-denials turn, four times over, on the word *specific*:
 "You are 'wise', but not with any specific 'wisdom'. You are He that
-'understands', but not from any specific 'understanding'," and of the moral
-attributes, "not that You have any specific righteousness... And none of any
-of these attributes at all."
+'understands', but not from any specific 'understanding'. You have no specific
+'place', other than to make known Your strength and Your power to humans."
+Then the sefirot are mapped onto judgement, justice and righteousness, and
+only after that mapping comes the closing denial: "But not that You have any
+specific righteousness -- which is 'judgement', and no specific justice --
+which is 'mercy'. And none of any of these attributes at all." Read in place,
+the final clause's antecedent is the *specific* attributes just enumerated,
+not predication as such.
 
-**The names.** The sharpest sentence for the same-God question is on 17b:
-"all the sephirot, each one has its own name, and with them, angels are
-called. But You have no specific Name, for You are He that fills all Names,
-and You are the completeness of everything. And when You withdraw from them,
-all those names are left like a body without a soul." Names attach to the ten
-and to the angels called by them; the One who fills the names bears none.
+**The names.** Folio 17b opens by granting the One an appellation: "And
+outside of You, there is no uniqueness [Var. unity] among the higher and the
+lower, and You are known as 'Lord over All'." The sentence that matters most
+for the same-God question comes immediately after it, and has to be read
+against it: "all the sephirot, each one has its own name, and with them,
+angels are called. But You have no specific Name, for You are He that fills
+all Names, and You are the completeness of everything. And when You withdraw
+from them, all those names are left like a body without a soul."
+
+So names attach to the ten and to the angels called by them, and what is
+withheld from the One is a *specific* name -- not address, and not
+appellation. The prayer calls Him "Master of the Worlds" twice, "the Cause of
+causes, the Reason of reasons", and "Lord over All". The term *Ein Sof*, by
+which the tradition ordinarily designates the One so described, is not used
+anywhere in these two folios.
 
 **The ten and the sin against them.** The sefirot are "ten 'constructs'...
 with which to direct hidden worlds that are not revealed, and worlds that are

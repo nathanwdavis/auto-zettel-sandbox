@@ -60,13 +60,14 @@ natural knowledge). Worked for inquiry 202609011030.
 - [[design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041]]
 - [[natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042]]
 
-## The kabbalistic route
+## The Jewish route: kabbalistic and halakhic
 
-How Jewish mysticism answers the same-God question, and why its answers do not
-fit the reference/description grid: worship can be intercepted short of a God
-correctly acknowledged; the Infinite bears no name for a description to fix on;
-and the halakhic verdict is indexed to the worshipper rather than the
-worshipped. Worked for inquiry 202609011526.
+Answers from within Judaism that do not fit the reference/description grid.
+Three are kabbalistic in the strict sense -- Ramban's *sod* on the allotment of
+the nations, and the doctrine of God in *Patach Eliyahu*. The fourth, shituf,
+is plain halakhah rather than mysticism, and is grouped here because it is the
+rule the kabbalists inherited and the one the question is usually settled by in
+practice. Worked for inquiry 202609011526.
 
 - [[kabbalah-separates-acknowledging-god-from-addressing-him--202609011540]]
 - [[the-nameless-infinite-defeats-reference-fixing-by-description--202609011541]]

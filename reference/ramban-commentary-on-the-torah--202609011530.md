@@ -24,10 +24,13 @@ csl_json:
   issued:
     date-parts:
     - - 1971
+  original-date:
+    date-parts:
+    - - 1267
 chicago_note: Moses ben Nachman (Nachmanides), Commentary on the Torah, trans. Charles
-  B. Chavel (Shilo Publishing House, 1971), https://www.sefaria.org/Ramban_on_Leviticus.18.25.
+  B. Chavel (1267; Shilo Publishing House, 1971), https://www.sefaria.org/Ramban_on_Leviticus.18.25.
 chicago_bib: Moses ben Nachman (Nachmanides). Commentary on the Torah. Translated
-  by Charles B. Chavel. Shilo Publishing House, 1971. https://www.sefaria.org/Ramban_on_Leviticus.18.25.
+  by Charles B. Chavel. 1267; Shilo Publishing House, 1971. https://www.sefaria.org/Ramban_on_Leviticus.18.25.
 citation_renderer: pandoc
 verification:
   method: raw-capture
@@ -53,8 +56,10 @@ Name" -- and **Exodus 20:3**, on *al panai* ("before My face"), on divine
 jealousy as a thing said of Israel only, and on the three kinds of
 idol-worship.
 
-Dating note: the `issued` date 1971 is the Chavel translation used, which is
-what the capture reproduces and what a reader would consult; the Hebrew
-original is thirteenth-century and is dated in prose wherever the argument
-turns on it. The translation is served by Sefaria under CC-BY, which is why it
-can be quoted here at length.
+Dating note: `issued` 1971 is the Chavel translation, whose five volumes ran
+1971-1976 as the capture header records; the volume containing either comment
+used here falls at the 1971 end, which is why the flat date is kept.
+`original-date` 1267 is the conventional date for the completion of the Hebrew
+commentary in the Land of Israel, and it is that date, not 1971, that the
+prose in the notes reasons from. The translation is served by Sefaria under
+CC-BY, which is why it can be quoted here at length.

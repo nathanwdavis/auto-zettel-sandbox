@@ -46,5 +46,7 @@ another, which is why the gloss decides a question about Jewish liability
 rather than about gentile salvation.
 
 The gloss says "their foreign god" without naming a religion; the ruling has
-been read ever since as being about Christians, which is how the Ran and
-Tosafot sources it cites were arguing.
+been read since as being about Christians. It names the Ran on Avodah Zarah
+ch. 1, Rabbeinu Yerucham, and Tosafot on Bekhorot ch. 1 as its authorities,
+but only as citation strings -- none of the three is in this repository, so
+what they argue is not reported here.
