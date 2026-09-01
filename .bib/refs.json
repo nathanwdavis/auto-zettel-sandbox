@@ -341,5 +341,26 @@
     "publisher-place": "London",
     "title": "A New Method of Making Common-Place-Books",
     "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/essayonprincipl00malt",
+    "author": [
+      {
+        "family": "Malthus",
+        "given": "Thomas Robert"
+      }
+    ],
+    "id": "202609010702",
+    "issued": {
+      "date-parts": [
+        [
+          1798
+        ]
+      ]
+    },
+    "publisher": "J. Johnson",
+    "publisher-place": "London",
+    "title": "An Essay on the Principle of Population, as It Affects the Future Improvement of Society. With Remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers",
+    "type": "book"
   }
 ]

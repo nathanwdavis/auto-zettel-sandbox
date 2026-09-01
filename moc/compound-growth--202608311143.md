@@ -22,5 +22,6 @@ updated: '2026-09-01'
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
 - [[compounding-favors-horizons-longer-than-one-life--202609010205]]
 - [[long-horizon-compounding-is-bounded-by-institutional-survival--202609010509]]
+- [[no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704]]
 
 See also: [[zettelkasten-method--202608301300]]

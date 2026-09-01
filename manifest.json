@@ -45,6 +45,9 @@
     "202609010602": "locke-a-new-method-of-making-common-place-books--202609010602",
     "202609010603": "locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603",
     "202609010604": "topic-head-filing-optimizes-retrieval-not-connection--202609010604",
+    "202609010702": "malthus-an-essay-on-the-principle-of-population--202609010702",
+    "202609010703": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703",
+    "202609010704": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -68,7 +71,7 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 50,
+  "note_count": 53,
   "notes": [
     {
       "id": "202609010113",
@@ -572,6 +575,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-mishneh-torah-yesodei-hatorah--202608311922.md"
     },
     {
+      "id": "202609010702",
+      "key": "malthus-an-essay-on-the-principle-of-population--202609010702",
+      "links": [],
+      "path": "reference/malthus-an-essay-on-the-principle-of-population--202609010702.md",
+      "slug": "malthus-an-essay-on-the-principle-of-population",
+      "tags": [],
+      "title": "Malthus, An Essay on the Principle of Population (1798)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/malthus-an-essay-on-the-principle-of-population--202609010702.md"
+    },
+    {
+      "id": "202609010703",
+      "key": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "malthus-an-essay-on-the-principle-of-population--202609010702"
+        },
+        {
+          "relation": "supports",
+          "target_id": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704"
+        }
+      ],
+      "path": "literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md",
+      "slug": "malthus-pits-a-doubling-population-against-incremental-subsistence",
+      "tags": [],
+      "title": "Malthus pits a doubling population against incremental subsistence",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md"
+    },
+    {
       "id": "202608311930",
       "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
       "links": [
@@ -607,6 +643,43 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nae-statement-of-faith--202608311920.md"
+    },
+    {
+      "id": "202609010704",
+      "key": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "long-horizon-compounding-is-bounded-by-institutional-survival--202609010509"
+        },
+        {
+          "relation": "source",
+          "target_id": "malthus-an-essay-on-the-principle-of-population--202609010702"
+        },
+        {
+          "relation": "source",
+          "target_id": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "reinvested-returns-compound--202701010011"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704.md",
+      "slug": "no-linear-supply-can-permanently-outpace-a-compounding-demand",
+      "tags": [],
+      "title": "No linear supply can permanently outpace a compounding demand",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704.md"
     },
     {
       "id": "202608311924",
