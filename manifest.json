@@ -36,6 +36,9 @@
     "202609010203": "price-an-appeal-to-the-public-on-the-national-debt--202609010203",
     "202609010204": "price-contrasts-compound-and-simple-interest-with-one-penny--202609010204",
     "202609010205": "compounding-favors-horizons-longer-than-one-life--202609010205",
+    "202609010302": "schmidt-niklas-luhmanns-card-index--202609010302",
+    "202609010303": "schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303",
+    "202609010304": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -59,7 +62,7 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 41,
+  "note_count": 44,
   "notes": [
     {
       "id": "202609010113",
@@ -623,6 +626,72 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/reinvested-returns-compound--202701010011.md"
+    },
+    {
+      "id": "202609010302",
+      "key": "schmidt-niklas-luhmanns-card-index--202609010302",
+      "links": [],
+      "path": "reference/schmidt-niklas-luhmanns-card-index--202609010302.md",
+      "slug": "schmidt-niklas-luhmanns-card-index",
+      "tags": [],
+      "title": "Schmidt, Niklas Luhmann's Card Index",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/schmidt-niklas-luhmanns-card-index--202609010302.md"
+    },
+    {
+      "id": "202609010303",
+      "key": "schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "source",
+          "target_id": "schmidt-niklas-luhmanns-card-index--202609010302"
+        }
+      ],
+      "path": "literature/schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303.md",
+      "slug": "schmidt-shows-how-luhmanns-file-fabricated-serendipity",
+      "tags": [],
+      "title": "Schmidt shows how Luhmann's file fabricated serendipity",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303.md"
+    },
+    {
+      "id": "202609010304",
+      "key": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
+          "relation": "supports",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "source",
+          "target_id": "schmidt-niklas-luhmanns-card-index--202609010302"
+        },
+        {
+          "relation": "source",
+          "target_id": "schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303"
+        }
+      ],
+      "path": "permanent/serendipity-in-a-note-web-rides-on-shortcut-links--202609010304.md",
+      "slug": "serendipity-in-a-note-web-rides-on-shortcut-links",
+      "tags": [],
+      "title": "Serendipity in a note web rides on shortcut links",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/serendipity-in-a-note-web-rides-on-shortcut-links--202609010304.md"
     },
     {
       "id": "202608311943",
