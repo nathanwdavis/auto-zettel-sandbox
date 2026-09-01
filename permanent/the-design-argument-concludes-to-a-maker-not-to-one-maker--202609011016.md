@@ -22,6 +22,8 @@ links:
   relation: shared-concept
 - target_id: natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042
   relation: elaborates
+- target_id: the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
