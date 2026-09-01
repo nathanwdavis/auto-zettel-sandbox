@@ -22,7 +22,8 @@ Asked by the user (2026-09-01). Candidate common ground to examine: both rest on
 
 **Answer (2026-09-01):** Three common elements, one per result note. (1) One
 channel: both are built on general revelation -- the doctrine asserts the works
-are legible (Calvin I.v, Hodge ST I ch. IV, Rom 1:19-20 / Ps 19), and the
+are legible (Calvin I.v, Hodge ST I ch. IV; Rom 1:19-20 cited by both, Ps 19
+by Calvin), and the
 design argument's minor premise ("the world everywhere exhibits marks of
 design") is that same assertion doing inferential work. (2) One content, two
 offices: the classic Reformed statements hold the knowledge as innate/possessed

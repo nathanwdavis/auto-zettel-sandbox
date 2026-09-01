@@ -5,7 +5,7 @@ slug: the-general-revelation-passages-describe-a-wordless-disclosure
 aliases:
 - '202609011038'
 type: literature
-title: The general revelation passages describe a wordless disclosure
+title: The general revelation passages make creation itself the medium
 tags: []
 reference: general-revelation-passages--202609011034
 locator: Rom. 1:18-21; Ps. 19:1-4 (KJV)
@@ -21,9 +21,14 @@ Own-words summary of [[general-revelation-passages--202609011034]].
 
 Psalm 19 describes a disclosure through the created order itself: "The
 heavens declare the glory of God; and the firmament sheweth his handywork,"
-day and night continuously -- and v. 3 makes the channel explicitly
-non-verbal: "There is no speech nor language, where their voice is not
-heard." What is communicated is communicated by the things, not by words.
+day and night continuously. How v. 3 characterizes the channel is
+translation-dependent. As captured (KJV), "There is no speech nor language,
+where their voice is not heard" asserts universal audibility -- no language
+in which the voice goes unheard -- and v. 4 continues with "their words to
+the end of the world"; a common alternative rendering (without the supplied
+"where") reads the verse as denying speech to the heavens altogether. The
+capture supports the first reading, and on either reading the medium is the
+created things themselves, not a human messenger.
 
 Romans 1 turns the same claim epistemic and forensic. What "may be known of
 God is manifest in them; for God hath shewed it unto them" (v. 19); the

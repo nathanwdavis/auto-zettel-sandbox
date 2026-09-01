@@ -47,5 +47,5 @@ verbatim: Part I ch. I §§1-3 (knowledge of God innate, not due to a process
 of reasoning, not due exclusively to tradition), Part I ch. II §3 opening
 (the teleological argument, its syllogistic statement), and Part I ch. IV §1
 complete ("God can be known", including "Our Knowledge of God Partial").
-That the knowability doctrine and the teleological argument sit thirty pages
+That the knowability doctrine and the teleological argument sit two chapters
 apart in the same volume is itself a datum this repository uses.

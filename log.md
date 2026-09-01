@@ -459,3 +459,13 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T11:08:39Z` skill_trial: source-access-triage with=0.92 without=0.963 (n=3)
 - `2026-09-01T11:08:50Z` lint_skills: PASS
 - `2026-09-01T11:08:50Z` check_skill_sandbox: PASS
+- `2026-09-01T11:20:00Z` log-correction (critic finding): the connector adjudication entry above is stamped 10:48:00Z but was appended after the 10:58:37Z sweep entry and adjudicates that sweep's proposals; the stamp was written in error before the sweep ran. Actual adjudication time ~11:00Z. The entry's content is correct; per append-only rules the wrong stamp is corrected here, not rewritten.
+- `2026-09-01T11:21:00Z` trial-audit (critic finding): the trial scores-file lives OUTSIDE the repo at /home/user/auto-zettel-sandbox-runs/trial-source-access-triage-20260901110839.json and is not committed. In-repo record of its per-question scores (model claude-sonnet-5, judge on critic rubric): q1 same-God/evangelical with=0.925 without=0.940; q2 top-5-teleological with=0.871 without=0.975; q3 anselm-same-god with=0.965 without=0.975 (means with=0.92, without=0.963, n=3, delta=-0.043). Small-n; the candidate lost its trial and the loss stands as recorded in skill-impact.md.
+- `2026-09-01T11:22:00Z` critic: 202609011032 PASS 0.97 | 202609011033 PASS 0.92 (fixed "thirty pages apart" -> two chapters) | 202609011034 PASS 0.85 (fixed: Hodge's capture has no Psalm 19; issued year 2026 -> 1611) | 202609011036 PASS 0.97 | 202609011037 PASS 0.96 | 202609011038 FLAG 0.79 (Ps 19:3 "explicitly non-verbal" gloss unsupported by KJV as captured; reworded to translation-dependent reading, retitled "make creation itself the medium", slug frozen) | 202609011040 FLAG 0.82 ("same pair of texts" false for Hodge - fixed; "Every variant" de-quantified) | 202609011041 PASS 0.90 (fixed "two chapters later" -> next chapter) | 202609011042 PASS 0.95. All 27 quotes verified verbatim; no fabricated quotations.
+- `2026-09-01T11:22:30Z` critic: connector PASS - 7/7 accepted pairs reciprocal and honestly typed (spot-checked 0838->0842, 1037->1041, 0837->0841); 3 rejections verified correct; 0 dangling links, 0 out-of-set relations. inquiry 202609011030 PASS | MOC 202608311945 PASS | skill-smith PASS (PURPOSE note keys all real; trial honestly recorded at a loss; no promotion, FR-36 respected). No suspicious sources in the three new captures.
+- `2026-09-01T11:18:54Z` verify_refs: 28/28 verified
+- `2026-09-01T11:18:54Z` build_manifest: 87 notes indexed
+- `2026-09-01T11:18:57Z` lint_citations: PASS
+- `2026-09-01T11:18:57Z` lint_links: PASS
+- `2026-09-01T11:18:57Z` lint_skills: PASS
+- `2026-09-01T11:18:57Z` check_skill_sandbox: PASS

@@ -183,7 +183,7 @@ primary Aquinas capture (Summa Theologiae I q.2 a.3, public-domain 1920
 Dominican translation, easily capturable) to ground the Fifth Way lineage
 now cited only via the SEP.
 
-## 2026-09-01 — User request (2026-09-01, recorded by the knowability ad-hoc cycle): run the connector (serendipity sweep + adjudication) and the skill-smith (one proposal + A/B trial) in this cycle, overriding connector_cadence=weekly and skill_smith_cadence=monthly for this run only. Cadences in config.yml are unchanged. Skill-smith promotion remains human-only (FR-36): any proposal is left for the user to promote or reject via scripts/skill_review.py.
+## 2026-09-01 — User request (2026-09-01, recorded by the knowability ad-hoc cycle): run the connector (serendipity sweep + adjudication) and the skill-smith (one proposal + A/B trial) in this cycle, running both regardless of their configured cadences for this run only. [Correction, same cycle, critic finding: config.yml currently sets connector_cadence=daily and skill_smith_cadence=weekly, not the weekly/monthly this entry first claimed - the values were quoted from a stale read of config.yml before another cycle changed them.] Cadences in config.yml are unchanged by this run. Skill-smith promotion remains human-only (FR-36): any proposal is left for the user to promote or reject via scripts/skill_review.py.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal

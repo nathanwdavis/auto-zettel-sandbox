@@ -31,8 +31,8 @@ Hodge is the sharpest case, because he does both in one volume. The
 knowledge of God is innate -- "due to our constitution" -- and his section
 heading rules out the rival account by name: it "is not due to a Process of
 Reasoning," since inferential routes "are possible only for cultivated
-minds" while the belief is universal. Yet two chapters later he states and
-defends the teleological syllogism in full (see
+minds" while the belief is universal. Yet in the very next chapter he states
+and defends the teleological syllogism in full (see
 [[hodge-systematic-theology-volume-1--202609011033]], Part I chs. I-II).
 The only coherent reading, and the order of his chapters enforces it -- the
 arguments precede a knowability chapter that opens "Having considered the

@@ -33,10 +33,11 @@ and striking" that ignorance has no plea (see
 "It is the clear doctrine of the Scriptures that God can be known," proved
 from Paul's "they knew God" (see
 [[hodge-systematic-theology-volume-1--202609011033]], Part I ch. IV). The
-scriptural warrant both cite is the same pair of texts: the heavens that
-"declare the glory of God" without speech, and the "invisible things of him"
-that "are clearly seen, being understood by the things that are made" (Rom.
-1:19-20; Ps. 19:1-3; see [[general-revelation-passages--202609011034]]).
+scriptural warrant converges on Romans 1, which both cite -- the "invisible
+things of him" that "are clearly seen, being understood by the things that
+are made" -- with Calvin also invoking the Psalm's heavens that "declare the
+glory of God" (Rom. 1:19-20; Ps. 19:1; see
+[[general-revelation-passages--202609011034]]).
 
 A teleological argument is that same assertion converted into a premise.
 Hodge's own syllogism makes the conversion visible: "Design supposes a
@@ -44,9 +45,9 @@ designer. The world everywhere exhibits marks of design. Therefore the world
 owes its existence to an intelligent author" -- the second premise just *is*
 the knowability doctrine's claim that the works are legible, now doing
 inferential work (see [[hodge-systematic-theology-volume-1--202609011033]],
-Part I ch. II sec. 3). Every variant in the design family, from contrivance
-in organisms to fine-tuning in physics, keeps that premise while changing
-which works are read (see
+Part I ch. II sec. 3). The design family's variants surveyed in this
+repository, from contrivance in organisms to fine-tuning in physics, keep
+that premise while changing which works are read (see
 [[the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015]]).
 
 So the first thing they have in common is dependency: if the knowability
