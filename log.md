@@ -247,3 +247,4 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T05:05:04Z` step 8: gates clean on first pass — verify_refs 14/14 (new Franklin reference verified raw-capture; a 1789 testamentary document in a 1907 edition has no ISBN/DOI, so capture-based verification is the documented path), lint_citations PASS, lint_links PASS
 - `2026-09-01T05:05:04Z` step 9: build_manifest — 47 notes indexed (+3: Franklin reference/literature/permanent), plus .bib/refs.json
 - `2026-09-01T05:05:04Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; dead ends re-confirmed ~2h earlier by the previous cycle, deliberately not re-attempted); no inquiry status changes (none open)
+- `2026-09-01T05:05:39Z` remote_cycle: lock released
