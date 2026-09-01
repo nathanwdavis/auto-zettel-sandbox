@@ -25,8 +25,8 @@ embedding:
 
 models:
   strong: "claude-opus-5"
-  cheap: "claude-haiku-4-5-20251001"
+  cheap: "claude-sonnet-5"
 
 # Slower sub-cadences (FR-28 steps 5 and 7).
-connector_cadence: "weekly"
-skill_smith_cadence: "monthly"
+connector_cadence: "daily"
+skill_smith_cadence: "weekly"
