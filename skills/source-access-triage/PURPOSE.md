@@ -1,10 +1,10 @@
 ---
 skill: source-access-triage
-status: proposed
+status: approved
 proposal_id: '202609011101'
 kind: create
 proposed: '2026-09-01'
-decided: ''
+decided: '2026-09-01'
 ---
 # Purpose — source-access-triage
 
@@ -50,3 +50,4 @@ this skill writes it down so a run follows it instead of re-deriving it.
 | date | change | outcome |
 |------|--------|---------|
 | 2026-09-01 | proposed (create) | pending |
+| 2026-09-01 | promoted | Accepted |
