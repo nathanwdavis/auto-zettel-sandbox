@@ -46,10 +46,11 @@ chicago_bib: 'Luhmann, Niklas. “Communicating with Slip Boxes: An Empirical Ac
   https://luhmann.surge.sh/communicating-with-slip-boxes.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609010110-luhmann-communicating-with-slip-boxes.txt
+  method: raw-capture+openlibrary
+  source: https://openlibrary.org/isbn/3531115332
   verified: true
-  date: '2026-09-01T05:04:39Z'
+  identifier_check: confirmed
+  date: '2026-09-01T08:32:10Z'
 raw_capture: raw/202609010110-luhmann-communicating-with-slip-boxes.txt
 links: []
 created: '2026-09-01'

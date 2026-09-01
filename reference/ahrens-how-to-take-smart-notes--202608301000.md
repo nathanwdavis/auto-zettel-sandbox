@@ -26,10 +26,11 @@ chicago_note: Sönke Ahrens, How to Take Smart Notes (CreateSpace, 2017).
 chicago_bib: Ahrens, Sönke. How to Take Smart Notes. CreateSpace, 2017.
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202608301000-ahrens-smart-notes.txt
+  method: raw-capture+openlibrary
+  source: https://openlibrary.org/isbn/9781542866507
   verified: true
-  date: '2026-09-01T05:04:31Z'
+  identifier_check: confirmed
+  date: '2026-09-01T08:32:05Z'
 raw_capture: raw/202608301000-ahrens-smart-notes.txt
 excerpt_captures:
 - raw/202608311141-ahrens-ch1-everything-you-need-to-know-excerpt.txt

@@ -51,6 +51,17 @@
     "202609010800": "bush-as-we-may-think--202609010800",
     "202609010801": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801",
     "202609010802": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
+    "202609010830": "anselm-proslogium--202609010830",
+    "202609010831": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831",
+    "202609010832": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832",
+    "202609010833": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833",
+    "202609010835": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835",
+    "202609010836": "beckwith-argues-classical-theism-permits-only-one-god--202609010836",
+    "202609010837": "beckwith-locates-co-reference-in-general-revelation--202609010837",
+    "202609010838": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838",
+    "202609010840": "anselms-formula-identifies-god-by-description-alone--202609010840",
+    "202609010841": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841",
+    "202609010842": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -72,9 +83,22 @@
       ],
       "status": "answered",
       "updated": "2026-08-31"
+    },
+    {
+      "key": "what-can-we-infer-about-the-same-god-question-from-st--202609010821",
+      "path": "inquiries/what-can-we-infer-about-the-same-god-question-from-st--202609010821.md",
+      "priority": "normal",
+      "question": "What can we infer about the same-God question from St Anselm's ontological argument for the existence of God?",
+      "result_notes": [
+        "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
+        "anselms-formula-identifies-god-by-description-alone--202609010840",
+        "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+      ],
+      "status": "answered",
+      "updated": "2026-09-01"
     }
   ],
-  "note_count": 56,
+  "note_count": 67,
   "notes": [
     {
       "id": "202609010113",
@@ -143,7 +167,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -207,6 +231,95 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202609010835",
+      "key": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        }
+      ],
+      "path": "literature/anselm-argues-from-a-description-even-the-fool-grasps--202609010835.md",
+      "slug": "anselm-argues-from-a-description-even-the-fool-grasps",
+      "tags": [],
+      "title": "Anselm argues from a description even the fool grasps",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/anselm-argues-from-a-description-even-the-fool-grasps--202609010835.md"
+    },
+    {
+      "id": "202609010830",
+      "key": "anselm-proslogium--202609010830",
+      "links": [],
+      "path": "reference/anselm-proslogium--202609010830.md",
+      "slug": "anselm-proslogium",
+      "tags": [],
+      "title": "Anselm of Canterbury, Proslogium (trans. Deane)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/anselm-proslogium--202609010830.md"
+    },
+    {
+      "id": "202609010842",
+      "key": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "source",
+          "target_id": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842.md",
+      "slug": "anselmian-co-reference-holds-only-if-the-description-does-the-referring",
+      "tags": [
+        "contested"
+      ],
+      "title": "Anselmian co-reference holds only if the description does the referring",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842.md"
+    },
+    {
+      "id": "202609010840",
+      "key": "anselms-formula-identifies-god-by-description-alone--202609010840",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "supports",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md",
+      "slug": "anselms-formula-identifies-god-by-description-alone",
+      "tags": [],
+      "title": "Anselm's formula identifies God by description alone",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md"
     },
     {
       "id": "202608311038",
@@ -273,6 +386,93 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202609010836",
+      "key": "beckwith-argues-classical-theism-permits-only-one-god--202609010836",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831"
+        }
+      ],
+      "path": "literature/beckwith-argues-classical-theism-permits-only-one-god--202609010836.md",
+      "slug": "beckwith-argues-classical-theism-permits-only-one-god",
+      "tags": [],
+      "title": "Beckwith argues classical theism permits only one God",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/beckwith-argues-classical-theism-permits-only-one-god--202609010836.md"
+    },
+    {
+      "id": "202609010831",
+      "key": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831",
+      "links": [],
+      "path": "reference/beckwith-do-muslims-and-christians-worship-the-same-god--202609010831.md",
+      "slug": "beckwith-do-muslims-and-christians-worship-the-same-god",
+      "tags": [],
+      "title": "Beckwith, Do Muslims and Christians Worship the Same God?",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/beckwith-do-muslims-and-christians-worship-the-same-god--202609010831.md"
+    },
+    {
+      "id": "202609010837",
+      "key": "beckwith-locates-co-reference-in-general-revelation--202609010837",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832"
+        }
+      ],
+      "path": "literature/beckwith-locates-co-reference-in-general-revelation--202609010837.md",
+      "slug": "beckwith-locates-co-reference-in-general-revelation",
+      "tags": [],
+      "title": "Beckwith locates co-reference in general revelation",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/beckwith-locates-co-reference-in-general-revelation--202609010837.md"
+    },
+    {
+      "id": "202609010832",
+      "key": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832",
+      "links": [],
+      "path": "reference/beckwith-why-muslims-and-christians-worship-the-same-god--202609010832.md",
+      "slug": "beckwith-why-muslims-and-christians-worship-the-same-god",
+      "tags": [],
+      "title": "Beckwith, Why Muslims and Christians Worship the Same God",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/beckwith-why-muslims-and-christians-worship-the-same-god--202609010832.md"
+    },
+    {
+      "id": "202609010838",
+      "key": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833"
+        }
+      ],
+      "path": "literature/bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838.md",
+      "slug": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance",
+      "tags": [],
+      "title": "Bogardus and Urban make co-reference turn on dossier dominance",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838.md"
+    },
+    {
+      "id": "202609010833",
+      "key": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833",
+      "links": [],
+      "path": "reference/bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833.md",
+      "slug": "bogardus-urban-how-to-tell-whether-christians-and-muslims",
+      "tags": [],
+      "title": "Bogardus and Urban, How to Tell Whether Christians and Muslims Worship the Same God",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833.md"
     },
     {
       "id": "202609010800",
@@ -644,6 +844,49 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md"
     },
     {
+      "id": "202609010841",
+      "key": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
+          "relation": "source",
+          "target_id": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831"
+        },
+        {
+          "relation": "source",
+          "target_id": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832"
+        },
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate--202608311924"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        }
+      ],
+      "path": "permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md",
+      "slug": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer",
+      "tags": [
+        "contested"
+      ],
+      "title": "Maximal greatness has at most one bearer, so perfect-being worshippers co-refer",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md"
+    },
+    {
       "id": "202608311930",
       "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
       "links": [
@@ -920,6 +1163,10 @@
           "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
           "relation": "source",
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
         },
@@ -933,7 +1180,7 @@
       "tags": [],
       "title": "Shared Abrahamic descent does not settle whether the referent is shared",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943.md"
     },
     {
@@ -1069,6 +1316,14 @@
       "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
           "relation": "source",
           "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
         },
@@ -1096,7 +1351,7 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
