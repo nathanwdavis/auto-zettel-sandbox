@@ -37,7 +37,8 @@ verification:
   method: raw-capture
   source: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
   verified: true
-  date: '2026-09-01T05:04:39Z'
+  identifier_check: failed
+  date: '2026-09-01T08:32:11Z'
 raw_capture: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
 links: []
 created: '2026-09-01'

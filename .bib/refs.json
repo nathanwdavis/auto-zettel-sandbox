@@ -386,5 +386,111 @@
     "title": "As We May Think",
     "type": "article-magazine",
     "volume": "176"
+  },
+  {
+    "URL": "https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp",
+    "author": [
+      {
+        "literal": "Anselm of Canterbury"
+      }
+    ],
+    "id": "202609010830",
+    "issued": {
+      "date-parts": [
+        [
+          1903
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1078
+        ]
+      ]
+    },
+    "publisher": "The Open Court Publishing Company",
+    "publisher-place": "Chicago",
+    "title": "Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilo; and Cur Deus Homo",
+    "translator": [
+      {
+        "family": "Deane",
+        "given": "Sidney Norton"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.thecatholicthing.org/2015/12/17/do-muslims-and-christians-worship-the-same-god/",
+    "author": [
+      {
+        "family": "Beckwith",
+        "given": "Francis J."
+      }
+    ],
+    "container-title": "The Catholic Thing",
+    "id": "202609010831",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          17
+        ]
+      ]
+    },
+    "title": "Do Muslims and Christians Worship the Same God?",
+    "type": "article-newspaper"
+  },
+  {
+    "URL": "https://www.thecatholicthing.org/2016/01/07/why-muslims-and-christians-worship-the-same-god/",
+    "author": [
+      {
+        "family": "Beckwith",
+        "given": "Francis J."
+      }
+    ],
+    "container-title": "The Catholic Thing",
+    "id": "202609010832",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          7
+        ]
+      ]
+    },
+    "title": "Why Muslims and Christians Worship the Same God",
+    "type": "article-newspaper"
+  },
+  {
+    "DOI": "10.5840/faithphil201741178",
+    "URL": "https://place.asburyseminary.edu/faithandphilosophy/vol34/iss2/3/",
+    "author": [
+      {
+        "family": "Bogardus",
+        "given": "Tomas"
+      },
+      {
+        "family": "Urban",
+        "given": "Mallorie"
+      }
+    ],
+    "container-title": "Faith and Philosophy",
+    "id": "202609010833",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "page": "176-200",
+    "title": "How to Tell Whether Christians and Muslims Worship the Same God",
+    "type": "article-journal",
+    "volume": "34"
   }
 ]
