@@ -21,6 +21,8 @@ links:
   relation: contradicts
 - target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
   relation: shared-concept
+- target_id: christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811
+  relation: elaborates
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
@@ -76,6 +78,11 @@ He that directs them, and there is none who direct You" -- where the Christian
 persons are not; that asymmetry is real and this note does not dissolve it.
 And no kabbalist cited here draws the comparison: the parallel is this
 repository's, built from what the texts assert, not a position either
-tradition has taken up. The historical debate in which it *was* drawn, by the
-Christian kabbalists and their Jewish respondents, is recorded in INBOX as
-uncaptured.
+tradition has taken up. The historical debate in which it *was* drawn is now
+captured on its Christian side -- Pico's cabalistic theses of 1486, which go
+very much further than this note does, asserting that Kabbalah's own
+principles *compel* assent to the Catholic Trinity exactly (see
+[[christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811]]).
+That precedent is a warning as much as a corroboration, and the argument
+above deliberately stops short of it. The Jewish respondents to that argument
+remain uncaptured; the gap is recorded in INBOX.
