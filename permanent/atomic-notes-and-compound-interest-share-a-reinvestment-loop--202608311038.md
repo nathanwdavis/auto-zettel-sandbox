@@ -18,8 +18,10 @@ links:
   relation: elaborates
 - target_id: housel-on-compounding-as-time-in-the-loop--202608311037
   relation: source
+- target_id: a-slip-box-surprises-only-after-critical-mass--202609010113
+  relation: elaborates
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 The shared mechanism is a feedback loop: each period's output is fed back into
 the base that produces the next period's output. In finance, a gain becomes
@@ -32,5 +34,8 @@ leaves the base unchanged
 is also why time in the system dominates per-period yield
 ([[time-horizon-dominates-rate--202701010013]],
 [[housel-on-compounding-as-time-in-the-loop--202608311037]]); whether the
-same dominance holds for note-taking is suggested by the analogy but not yet
-established by any note here.
+same dominance holds for note-taking is suggested by the analogy, and
+[[a-slip-box-surprises-only-after-critical-mass--202609010113]] now supplies
+a first primary-source data point on the note-taking side: Luhmann prices his
+box's usefulness threshold in years of use, though that is one practitioner's
+account, not a general law.

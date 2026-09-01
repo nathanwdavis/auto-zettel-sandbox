@@ -30,6 +30,9 @@
     "202608311942": "the-same-god-question-turns-on-reference-versus-description--202608311942",
     "202608311943": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
     "202608311945": "abrahamic-conceptions-of-god--202608311945",
+    "202609010111": "luhmann-communicating-with-slip-boxes--202609010111",
+    "202609010112": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112",
+    "202609010113": "a-slip-box-surprises-only-after-critical-mass--202609010113",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -53,8 +56,41 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 35,
+  "note_count": 38,
   "notes": [
+    {
+      "id": "202609010113",
+      "key": "a-slip-box-surprises-only-after-critical-mass--202609010113",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "source",
+          "target_id": "luhmann-communicating-with-slip-boxes--202609010111"
+        },
+        {
+          "relation": "source",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/a-slip-box-surprises-only-after-critical-mass--202609010113.md",
+      "slug": "a-slip-box-surprises-only-after-critical-mass",
+      "tags": [],
+      "title": "A slip box surprises only after critical mass",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-slip-box-surprises-only-after-critical-mass--202609010113.md"
+    },
     {
       "id": "202608311142",
       "key": "a-trusted-structure-frees-attention-from-willpower--202608311142",
@@ -159,6 +195,10 @@
       "key": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
           "relation": "analogous",
           "target_id": "atomic-notes-compound-over-time--202701010001"
         },
@@ -184,7 +224,7 @@
       "tags": [],
       "title": "Atomic notes and compound interest share a reinvestment loop",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038.md"
     },
     {
@@ -320,6 +360,35 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/linear-growth-lacks-a-feedback-loop--202701010012.md"
+    },
+    {
+      "id": "202609010111",
+      "key": "luhmann-communicating-with-slip-boxes--202609010111",
+      "links": [],
+      "path": "reference/luhmann-communicating-with-slip-boxes--202609010111.md",
+      "slug": "luhmann-communicating-with-slip-boxes",
+      "tags": [],
+      "title": "Luhmann, Communicating with Slip Boxes",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/luhmann-communicating-with-slip-boxes--202609010111.md"
+    },
+    {
+      "id": "202609010112",
+      "key": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "luhmann-communicating-with-slip-boxes--202609010111"
+        }
+      ],
+      "path": "literature/luhmann-frames-the-slip-box-as-a-communication-partner--202609010112.md",
+      "slug": "luhmann-frames-the-slip-box-as-a-communication-partner",
+      "tags": [],
+      "title": "Luhmann frames the slip box as a communication partner",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/luhmann-frames-the-slip-box-as-a-communication-partner--202609010112.md"
     },
     {
       "id": "202608311932",
@@ -748,7 +817,7 @@
       ],
       "title": "Zettelkasten method",
       "type": "moc",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/zettelkasten-method--202608301300.md"
     }
   ],
