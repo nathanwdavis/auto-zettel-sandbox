@@ -14,6 +14,8 @@ links:
   relation: source
 - target_id: design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041
   relation: supports
+- target_id: design-arguments-can-confirm-belief-they-do-not-ground--202609011510
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

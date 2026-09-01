@@ -784,5 +784,42 @@
     },
     "title": "Molecular Machines: Experimental Support for the Design Inference",
     "type": "webpage"
+  },
+  {
+    "ISBN": "9780521855310",
+    "URL": "https://andrewmbailey.com/ap/TwoDozen.pdf",
+    "author": [
+      {
+        "family": "Plantinga",
+        "given": "Alvin"
+      }
+    ],
+    "container-title": "Alvin Plantinga",
+    "editor": [
+      {
+        "family": "Baker",
+        "given": "Deane-Peter"
+      }
+    ],
+    "id": "202609011500",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "page": "203-227",
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "Appendix: Two Dozen (or so) Theistic Arguments",
+    "type": "chapter"
   }
 ]

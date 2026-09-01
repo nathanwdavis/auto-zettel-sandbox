@@ -1,0 +1,289 @@
+Bounded excerpt capture of Alvin Plantinga, "Appendix: Two Dozen (or
+so) Theistic Arguments," in Deane-Peter Baker, ed., Alvin Plantinga
+(Cambridge: Cambridge University Press, 2007), pp. 203-227 -- the first
+official publication of Plantinga's 1986 Bellingham lecture notes, with
+his own "Preface to the Appendix (July 2006)". Captured from the PDF
+served at https://andrewmbailey.com/ap/TwoDozen.pdf (fetched
+2026-09-01T15:02Z, minute precision, HTTP 200, 183,274 bytes, 25 pages,
+one print page per PDF page, print pages 203-227), part of "Papers by
+Alvin Plantinga" (https://andrewmbailey.com/ap/), the paper archive
+maintained by the philosopher Andrew M. Bailey. PROVENANCE NOTE,
+recorded honestly: this is a third-party academic archive of an
+in-copyright Cambridge University Press book appendix; the archive page
+does not state a hosting permission. It is a long-standing,
+widely-cited professional resource (not a scraper mirror), and the
+underlying lecture notes circulated openly with the author's blessing
+from 1986 on, but the residual (no explicit permission statement) is
+recorded here rather than hidden. Per this repository's excerpt policy
+the capture is BOUNDED EXCERPTS, not the full appendix: four blocks
+totaling 2 of the preface's ~20 paragraphs plus the 1986 headnote and 2
+of the 26 lettered argument sections (roughly 4 of 25 print pages).
+Everything outside the four blocks -- the rest of the preface (pp.
+203-209, on what makes an argument good), argument sections (A)-(D) and
+(H)-(Z), and the endnotes (p. 227) -- is NOT captured; notes must not
+quote it, and cite it only as attributed summary.
+
+Text was extracted programmatically (pdfminer.six), reflowed from print
+lines into paragraphs, and every captured paragraph was verified
+against BOTH pdfminer.six and pypdf extractions of the same PDF before
+any note quoted it (two independent extractors; the PDF is CUP's own
+digital typesetting, not a scan). Running heads, print page numbers,
+and the typesetter's job-control lines are excluded. Normalizations
+applied throughout and recorded here: ligature characters expanded (fi,
+fl, ff); typographic (curly) quotes to straight quotes; en and em
+dashes to "--"; spaced ellipsis points closed up (". . ." to "...");
+the flattened grave accent in "a la" restored to "à la"; a stray space
+before a closing parenthesis after italic text closed up ("(oneself )"
+to "(oneself)"); whitespace within paragraphs collapsed to single
+spaces. Nothing else was altered. Artifacts preserved AS PRINTED, not
+capture errors: "an arguent he sees" and "premises he know to be true"
+(BLOCK 2) are the printed text's own typos; "l979" (BLOCK 3, Carter
+citation) prints a lowercase L for the digit 1; "Data, l979, p. 72.)"
+reflects the printed punctuation. Superscript characters flatten in
+extraction and are preserved flattened, recorded here: in BLOCK 1,
+"arguments),1 the" carries the note marker for endnote 1 (p. 227,
+citing Neil A. Manson, God and Design, Routledge, 2003); in BLOCK 3's
+Hawking quotation, "one part in 1012" and "1010 K" print as 10 to the
+12th and 10 to the 10th power (superscript exponents). Notes quoting
+those spans must reproduce the flattened form or paraphrase.
+
+A second, independently transcribed recension of the same lecture notes
+(the unshortened 1986 circulated text, e.g. the transcription at
+onthewing.org) was compared during capture: it corroborates the
+substance of every captured argument section but differs in wording in
+places (the CUP text is "shortened a bit" per Plantinga's preface), so
+it is NOT a verbatim witness and quotations must match THIS capture
+only. Single-witness capture in that sense; quotations must match this
+capture verbatim.
+
+Elisions between blocks are stated in each block preamble; within a
+block, paragraphs are contiguous in the original.
+
+========================================================================
+
+BLOCK 1 -- from "Preface to the Appendix (July 2006)", print p. 203:
+the preface's first two paragraphs (provenance of the notes, and the
+properly-basic-yet-arguable framing ending "They await that loving
+development to become genuinely good."). The remainder of the preface
+(pp. 203-209) is not captured.
+
+------------------------------------------------------------------------
+
+What follows are notes for a lecture on theistic arguments given in a
+summer seminar in philosophy of religion in Bellingham, Washington, in
+1986. Although the last twenty years have seen a good bit of interesting
+work on theistic arguments (for example, on the fine-tuning arguments),1
+the notes, while shortened a bit, are unrevised. My intention had always
+been to write a small book based on these arguments, with perhaps a
+chapter on each of the main kinds. Time has never permitted, however,
+and now the chances of my writing such a book are small and dwindling.
+Nevertheless, each, I think, deserves loving attention and development.
+I'm not sure they warrant publication in this undeveloped, nascent,
+merely germinal form, but Deane-Peter Baker thought some people might
+find them interesting; I hope others will be moved to work them out and
+develop them in detail.
+
+I've argued in Warranted Christian Belief and elsewhere that neither
+theistic nor full-blown Christian belief requires argument for
+justification or rationality or (if true) warrant. One can be justified
+and rational in accepting theistic belief, even if one doesn't accept
+theism on the basis of arguments and even if in fact there aren't any
+good theistic arguments. The same holds for Christian belief, which of
+course goes far beyond theism: One doesn't need arguments for justified
+and rational Christian belief. If theistic belief is true, furthermore,
+then, so I say, it can have warrant sufficient for knowledge for
+someone, even if he or she doesn't believe on the basis of theistic
+arguments, and even if in fact no good theistic arguments exist. That
+said, of course, it doesn't follow that there aren't any good theistic
+arguments, and as a matter of fact, so the title of this section
+intimates, there are good theistic arguments -- at least two dozen or
+so. I hasten to add that the arguments as stated in the notes aren't
+really good arguments; they are merely argument sketches, or maybe only
+pointers to good arguments. They await that loving development to become
+genuinely good.
+
+========================================================================
+
+BLOCK 2 -- the 1986 notes' own headnote, print p. 210: the section
+heading and its five paragraphs, complete, from "I've been arguing..."
+through "...an argument from proper function, I think." Argument
+sections (A)-(D) (pp. 210-215) follow in the original and are not
+captured.
+
+------------------------------------------------------------------------
+
+TWO DOZEN (OR SO) THEISTIC ARGUMENTS (1986)
+
+I've been arguing that theistic belief does not (in general) need
+argument either for deontological justification or for positive
+epistemic status (or for Foley rationality or Alstonian justification);
+belief in God is properly basic. But it doesn't follow, of course, that
+there aren't any good arguments. Are there some? At least a couple of
+dozen or so.
+
+Swinburne: Good argument is one that has premises that everyone knows.
+Maybe there aren't any such arguments, and if there are some, maybe none
+of them would be good arguments for anyone. (Note again the possibility
+that a person might, when confronted with an arguent he sees to be valid
+for a conclusion he deeply disbelieves from premises he know to be true,
+give up (some of) those premises; in this way you can reduce someone
+from knowledge to ignorance by giving that person an argument seen to be
+valid from premises he or she knows to be true.)
+
+These arguments are not coercive in the sense that every person is
+obliged to accept their premises on pain of irrationality. Maybe just
+that some or many sensible people do accept their premises (oneself).
+
+What are these arguments like, and what role do they play? They are
+probabilistic, either with respect to the premises or with respect to
+the connection between the premises and conclusion, or both. They can
+serve to bolster and confirm ('helps' à la John Calvin), perhaps to
+convince.
+
+Distinguish two considerations here: 1) You or someone else might just
+find yourself with these beliefs; so using them as premises gets an
+effective theistic arg for the person in question. (2) The other
+question has to do with warrant, with conditional probability in an
+epistemic sense: Perhaps in at least some of these cases, if our
+faculties are functioning properly and we consider the premises, we are
+inclined to accept them; and (under those conditions) the conclusion has
+considerable epistemic probability (in the explained sense) on the
+premises.
+
+Add Aquinas's fifth way: this is really an argument from proper
+function, I think.
+
+========================================================================
+
+BLOCK 3 -- section (E) The Argument from Physical Constants, print
+pp. 215-216, complete (heading paragraph plus eight paragraphs).
+
+------------------------------------------------------------------------
+
+(E) The Argument from Physical Constants. (Look at Barrow and Tipler,
+The Anthropic Cosmological Principle)
+
+Carr and Rees ("The Anthropic Principle and the Structure of the
+Physical World" (Nature, 1979): "The basic features of galaxies, stars,
+planets and the everyday world are essentially determined by a few
+microphysical constants and by the effects of gravitation .... several
+aspects of our Universe -- some which seem to be prerequisites for the
+evolution of any form of life -- depend rather delicately on apparent
+'coincidences' among the physical constants" (p. 605).
+
+If the force of gravity were even slightly stronger, all stars would be
+blue giants; if even slightly weaker, all would be red dwarfs. (Brandon
+Carter, "Large Number Coincidences and the Anthropic Principle in
+Cosmology," in M. S. Longair, ed, Confrontation of Cosmological Theories
+with Observational Data, l979, p. 72.) According to Carter, under these
+conditions there would probably be no life. So probably if the strength
+of gravity were even slightly different, habitable planets would not
+exist.
+
+The existence of life also depends delicately upon the rate at which the
+universe is expanding. S. W. Hawking, "The Anisotropy of the Universe at
+Large Times," in Longair, p. 285: " ... reduction of the rate of
+expansion by one part in 1012 at the time when the temperature of the
+Universe was 1010 K would have resulted in the Universe's starting to
+recollapse when its radius was only 1/3000 of the present value and the
+temperature was still 10,000 K" -- much too warm for comfort. He
+concludes that life is only possible because the Universe is expanding
+at just the rate required to avoid recollapse.
+
+Davies, P. C. W., The Accidental Universe, 1982: "All this prompts the
+question of why, from the infinite range of possible values that nature
+could have selected for the fundamental constants, and from the infinite
+variety of initial conditions that could have characterized the primeval
+universe, the actual values and conditions conspire to produce the
+particular range of very special features that we observe. For clearly
+the universe is a very special place: exceedingly uniform on a large
+scale, yet not so precisely uniform that galaxies could not form; ... an
+expansion rate tuned to the energy content to unbelievable accuracy;
+values for the strengths of its forces that permit nuclei to exist, yet
+do not burn up all the cosmic hydrogen, and many more apparent accidents
+of fortune." (p. 111).
+
+And what is impressive about all these coincidences is that they are
+apparently required for the existence of life as we know it (as they
+say).
+
+Some thinkers claim that none of this ought to be thought surprising or
+as requiring explanation: no matter how things had been, it would have
+been exceedingly improbable. (No matter what distribution of cards is
+dealt, the distribution dealt will be improbable.) This is perhaps
+right, but how does it work? And how is it relevant? We are playing
+poker; each time I deal I get all the aces; you get suspicious: I try to
+allay your suspicions by pointing out that my getting all the aces each
+time I deal is no more improbable than any other equally specific
+distribution over the relevant number of deals. Would that explanation
+play in Dodge City (or Tombstone)?
+
+Others invoke the Anthropic Principle, which is exceedingly hard to
+understand but seems to point out that a necessary condition of these
+values of the physical constants being observed at all (by us or other
+living beings) is that they have very nearly the values they do have; we
+are here to observe these constants only because they have the values
+they do have. Again, this seems right, but how is it relevant? What does
+it explain? It still seems puzzling that these constants should have
+just the values they do. Why weren't they something quite different?
+This is not explained by pointing out that we are here (a counterexample
+to Hempelian claims about explanation). Like "explaining" the fact that
+God has decided to create me (instead of passing me over in favor of
+someone else) by pointing out that I am in fact here, and that if God
+had not thus decided, I wouldn't have been here to raise the question.
+
+From a theistic point of view, however, no mystery at all and an easy
+explanation.
+
+========================================================================
+
+BLOCK 4 -- section (F) The Naive Teleological Argument, print pp.
+216-217, complete (heading paragraph, the Newton and Hume paragraphs,
+and the closing "The idea" paragraph with its parenthetical), followed
+by the bare heading of section (G), which has NO body text in the
+source -- the heading is the section's entire content. Sections
+(H)-(Z) (pp. 217-227) are not captured.
+
+------------------------------------------------------------------------
+
+(F) The Naive Teleological Argument. Swinburne: "The world is a
+complicated thing. There are lots and lots of different bits of matter,
+existing over endless time (or possibly beginning to exist at some
+finite time). The bits of it have finite and not particularly natural
+sizes, shapes, masses, etc; and they come together in finite, diverse
+and very far from natural conglomerations (viz. lumps of matter on
+planets and stars, and distributed throughout interstellar space)....
+Matter is inert and has no powers which it can choose to exercise; it
+does what it has to do. Yet each bit of matter behaves in exactly the
+same way as similar bits of matter throughout time and space, the way
+codified in natural laws.... all electrons throughout endless time and
+space have exactly the same powers and properties as all other electrons
+(properties of attracting, repelling, interacting, emitting radiation,
+etc.), all photons have the same powers and properties as all other
+photons etc., etc. Matter is complex, diverse, but regular in its
+behaviour. Its existence and behaviour need explaining in just the kind
+of way that regular chemical combinations needed explaining; or it needs
+explaining when we find all the cards of a pack arranged in order." (The
+Existence of God, 288)
+
+Newton: "Whence arises all this order and beauty and structure?"
+
+Hume Dialogues: "Cleanthes: Consider, anatomize the eye. Survey its
+structure and contrivance, and tell me, from your own feeling, if the
+idea of a contriver does not immediately flow in upon you with a force
+like that of sensation. The most obvious conclusion, surely, is in
+favour of design, and it requires time, reflection and study to summon
+up those frivolous, though abstruse objections which can support
+infidelity."
+
+The idea: the beauty, order and structure of the universe and the
+structure of its parts strongly suggest that it was designed; it seems
+absurd to think that such a universe should have just been there, that
+it wasn't designed and created but just happened. Contemplating these
+things can result in a strong impulse to believe that the universe was
+indeed designed -- by God. (Hume's version may be very close to a wholly
+different style of "argument": one where the arguer tries to help the
+arguee achieve the sort of situation in which the Sensus Divinitatis
+operates.)
+
+(G) Tony Kenny's Style of Teleological Argument
