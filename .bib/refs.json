@@ -320,5 +320,26 @@
     "title": "Last Will and Testament, with Codicil",
     "type": "chapter",
     "volume": "10"
+  },
+  {
+    "URL": "https://archive.org/details/gu_newmethodmaki00lock",
+    "author": [
+      {
+        "family": "Locke",
+        "given": "John"
+      }
+    ],
+    "id": "202609010602",
+    "issued": {
+      "date-parts": [
+        [
+          1706
+        ]
+      ]
+    },
+    "publisher": "J. Greenwood",
+    "publisher-place": "London",
+    "title": "A New Method of Making Common-Place-Books",
+    "type": "book"
   }
 ]

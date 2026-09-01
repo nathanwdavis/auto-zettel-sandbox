@@ -1,0 +1,2955 @@
+Verbatim capture of John Locke, "A New Method of Making Common-Place-Books"
+(London: printed for J. Greenwood, 1706), the anonymous English translation
+of Locke's "Methode nouvelle de dresser des recueils" (Bibliotheque
+universelle et historique, vol. II, 1686), in two blocks. The 1706 volume
+also contains an extract from Jean Le Clerc on the same subject (captured
+here, as part of the tract's front matter and appendix) and two unrelated
+letters of John Wallis on teaching the deaf, which are NOT captured.
+
+BLOCK 1 is the Internet Archive OCR plain text (the *_djvu.txt file) of the
+Georgetown University Library copy, item
+https://archive.org/details/gu_newmethodmaki00lock, fetched
+2026-09-01T05:58:30Z from
+https://archive.org/download/gu_newmethodmaki00lock/gu_newmethodmaki00lock_djvu.txt
+(HTTP 200, no access restriction, rights: Creative Commons Public Domain
+Mark 1.0; the work is a 1706 publication, public domain). Lines 1-1466 of
+the OCR file, i.e. the title page, epistle dedicatory, the specimen
+common-place pages, the "Adversariorum Methodus" text itself, and the Le
+Clerc matter, ending at "FINIS" before the first Wallis letter.
+
+OCR caveat, recorded honestly: this is machine OCR of 1706 letterpress with
+the long s rendered as "f" throughout, frequent ligature and italic
+misreads ("Enid" for "find", "Qcc$fion" for "Occasion", "'ibi" for "for",
+"Hta<l" for "Head"), line-break hyphenation, and running heads and page
+numbers interleaved. Nothing has been corrected here - the capture is the
+OCR output verbatim (page markers included; they anchor the page locators
+used in notes). Quotations taken from this capture in notes normalize the
+long s, word spacing, line-break hyphenation, and those OCR misreads ONLY
+where the wording is confirmed word-for-word by BLOCK 2, an independent
+scan and OCR of a different physical copy, and the quoting notes record
+that policy.
+
+BLOCK 2 is the Internet Archive OCR plain text of the Wellcome Collection
+copy of the same 1706 edition, item https://archive.org/details/b30540434,
+fetched 2026-09-01T05:58:35Z from
+https://archive.org/download/b30540434/b30540434_djvu.txt (HTTP 200, no
+access restriction, rights: Creative Commons Public Domain Mark 1.0).
+Lines 1-1439 of the OCR file, the same span of the volume, ending before
+the first Wallis letter. Same OCR caveats (different misreads, e.g.
+"in y" for "any", "Gccafion" for "Occasion"). The two copies were scanned
+and OCRed independently, so wording on which both blocks agree is treated
+as verified 1706 text; where they disagree, quoting notes either avoid the
+passage or record the variant.
+
+================================================================
+BLOCK 1: Georgetown copy OCR (gu_newmethodmaki00lock_djvu.txt, lines 1-1466)
+================================================================
+ofOTHKXng 
+Common - Place - Books ; 
+
+WRITTEN 
+By the late Learned Mr. John Loc^ 
+Author ox tKe £ SSA Y concerning 
+Humane Vnderfanding. 
+
+
+
+^ranflateB from tfje jfrcntf). 
+
+
+
+TO WHICH 
+
+Is added Something from Monfieur Lc 
+
+Cierc, relating to the fame SubjeS. 
+
+ATREATISE neceffary for all Gentle- 
+men, efpecially Students of Viyinityfbyfick, 
+and Law. 
+
+There are alfo added Two Letters, containing a 
+moft Ufeful Method for inftrufting Perlbns that 
+are Deaf and Dumb, or that Labour under any 
+Impediments of Speech, to fpeak diflinftiy ; writ 
+by the Jate Learned Dr. John WallU, Geometry 
+Proefcff. Oxon, and F. R.S. 
+
+
+
+L N P Q H: 
+
+Pririted-fefr J. Greenwood, Bookfeller, -at the 
+
+End oiCornbil. next Stocks-Market, 1 706. 
+
+
+
+T O 
+
+Mr. Edward Northey , 
+o F 
+
+HACKNEY. 
+
+S I R, 
+
+I Here Prefent you with a Method 
+of making Common-Vlacts , for 
+which I need make no Apology, when 
+I ftiall have told you that it was writ 
+by that Great Mafter of Reafon and 
+Method, the late Learned Mr* Lock. 
+
+I know very well that nothing of 
+that Great Man's can fail of meeting 
+with a kind Reception from you, who 
+have fo often expreffed the Pleafure 
+and Advantage you receive from his 
+Writings 5 and I make no doubt but 
+this Method will have its Share in your 
+Efteem, by being obferved in the Fu- 
+ture Courfe of your Studies. 
+
+A 2 I 
+
+
+
+Epifile Dedicatory. 
+
+I (hall forbear faying any Thing 
+of the Ufefulnefs of Common- Places in 
+General, it being Foreign to my pre- 
+fent Purpofe 5 neither is it my Bufi- 
+nefs here to relate how favourably the 
+Learned, both Ancient and Modern, 
+have fpoken of them, and with what 
+Suceefs they have us'd 'em. 
+
+It will be abundantly fufficient to- 
+wards their Recommendation if I tell 
+you that Tnlly was One among the 
+Former, and Mr. Lock among the 
+Latter. 
+
+But I (hall refer you to what I have 
+extracted from the very Learned Mon- 
+fieur k Cferc concerning this Matter, 
+
+It may be expe&ed that I mould 
+give fome Account of this Method 5 
+all that I (hall fay at prefent is, That 
+Mr. Lock having drawn it up during 
+his Travels abroad, communicated it 
+to feveral of his Friends, who mighti- 
+ly imporrun'd him to make it Pub- 
+lick 5 but he for a long Time declin'd 
+it, ( for Reafons which you will find 
+in his Efiftle prefixed to this Treatife ) 
+tillatlaft, in Compliance whh their 
+repeated Requefts, he gave it to Mon- 
+ftenr k Clerc, who in the .Year 1686 
+Publifb'd it in French^ in the Second 
+
+Tome 
+
+
+
+Epifik Dedicatory, 
+
+Tonic of the BiblJothecjue Vnivtr- 
+fille. 
+
+This Method having met with Ge- 
+neral Approbation from the Learned 
+I thought it a Pity that any Thing of 
+Mr. Lock's mould be hid from any of 
+his Country-men, 1 in an unknown 
+Tongue: I have therefore made it 
+fpeak Englijh, and taken the Freedom 
+of Dedicating it to you, with the Ad- 
+dition of Two Letters, ( becaufe of 
+their Publick life) containing an 
+extraordinary and moft ufeful Me- 
+thod how to Teach Deaf and Dumb 
+Folks to Speak and Write aLanguage, 
+invented by that Great Man Jot>* 
+Wallis, Dr. in Divinity, Geometry 
+Profefibr in Oxford, and Fellow of 
+the Royal Society : Who, let it be 
+Recorded to his Immortal Hondur, 
+was the Firft in England that made 
+Art fupply the Defects of Nature, in 
+learning Perfons that were Deaf and 
+Dumb to Speak and Write diftin&Iy 
+and intelligibly. The Method that 
+the Doctor prefcribes is fo Plain, Fa- 
+miliar and Demonftrative, that any 
+Perfon of Common Ingenuity may 
+attain this Art with Eafe, and abun- 
+dance of Pleafure, 
+
+But 
+
+
+
+Epiftle Dedicatory. 
+
+But I am afraid, Sir, I have been too 
+tedious, therefore 1 (ball only add this, 
+May you goon,asyou have already be- 
+gun, to Cultivate a ftri& Friendfhip 
+with Virtue and Learning $ and while 
+many Young Gentlemen mind nought 
+but the Gratifying their foolifh Incli- 
+nations, may you purfue the Ratio- 
+nal Pleafures of the Mind, whofe 
+Fruits are Solid Joy and Comfort 5 in- 
+cited thereto on the one Hand by the 
+good Example of your Worthy Pa- 
+rents, as on the other by that 
+of your very Learned Uncle, who fo 
+Glorioufly Adorns the Great Pofl he 
+is in. 
+
+This, Sir, is the Hearty With and 
+Defire of , 
+
+Your Friend and moft 
+
+Humble Servant, 
+
+
+
+Monfieur he Clercs Cha- 
+racter of Mr. LOCK'S 
+Method, 
+
+WITH HIS 
+
+ADVICE 
+
+About the 
+
+USE 
+
+O E 
+
+Common-Places. 
+
+IN all Sorts of Learning, andypeci- 
+ally in the Study of Languages, the 
+Memory is the Treafury or Store-houfe, 
+but the Judgment the Difpofcr, which 
+ranges in Order whatever it hath drawn 
+from the Memory : But leg the Me- 
+mory JhouldU typrejfed, or Over- bur- v 
+
+
+
+out 
+
+tens, 
+
+
+
+tf Mr. Le Clerc's Advice about 
+
+then'd by too many Things , Order and 
+Method art to be edited btH> its Affi- 
+ftavte. So that when we extract any 
+Thing out of an Author which is like to 
+be of future ZJfe, we may be able to find 
+it without any Trouble. For it would be 
+tp little Purpofe to fpend our Time in 
+Reading of Bool(s, if we could not apply 
+what we read to our TJfe. It would 
+bejujl for all the World at ferviceable 
+as a great deal of Hou(ho\d-Siuff, when 
+if we wanted any particular Thing we 
+Cthmella coui(l not tell where to find it. * It is 
+
+Ifuii. an ° ,d Sa y in g» That that is the Trueft 
+
+cap. ii. Poverty, when if you^iave Occafion 
+for any Thing, you can't ufe it, be- 
+caufe you know not where 'tis laid. 
+Many have Wrote, much en this Subje& y 
+and I have made Trial of them, but I 
+have never met with a better and more 
+tafie\ Method ', than that which I receivM 
+
+oii\mMe-from * f Friend, andpublifh'd in French 
+
+thodoi Ui.f omt Time fence. 
+
+fc And I have found, upon fever al Years 
+
+Experience, this Method, which is very 
+well adapted, not only to the Latin, but 
+alfo to the Greek Tongue, to be extraor- 
+dinary ufiful. Neither do I ever look, 
+upon my Latin or Greek CoUeBions y 
+but I call to mind the Kindnefs of that 
+
+Exw 
+
+
+
+the U'fc of Gmnm-IHaces. Hi 
+
+Excellent and Learned Ptrfirt, who 
+taught me that Method. 
+
+At the Entrance indeed upon any 
+Study, when the Judgment sr notfufftcj' 
+enlly confirm d y nor the Stock oflCnow- 
+ledge over large, fa that the Student* 
+are not very well acquainted with what js 
+worth Colleaing, fcarce anyThing is Ex- 
+traftedjbut what will be ujeM hut for a lit- 
+tle while ; beeaufe as the judgment grows 
+Ripe, thofe Things arc dejpis'd which 
+before were had in efieem. v Tet His of 
+Service to have ColleUuns of this Kind, 
+both that Students may learn, the Art of 
+putting "things in Order ^ as aIJo the 
+better retain what they Read. 
+
+But hen are Two Things carefully to 
+be obfervtd? the Firft is^that we ex- 
+traB only thofe Things which are Choice 
+.and Excellent , either for the Matter it 
+felf, orelfe for the Elegancy of the Ex- 
+.yfjfan, and not what comes next 5 
+for that Labour mould abate our 
+Defre to, go ontrith our Reading 5 nei- 
+ther are we to think that, au thofe things 
+are to be writ put which are called rVavxau, 
+or Sentences. Thofe Things alone are 
+. to be picked fiut t which, we cannot Jo rea- 
+dily call to mind, or for which we fhould 
+want proper Words and Exprejfiom. 
+B For 
+
+
+
+iv Mr. Le Cletc's Advice about 
+
+'For Inftanct; although the Story in that 
+Place of yirgil where thefeWords are 1 , 
+
+Difcke Juftitiam raoniti, & non tem- 
+
+£ nere Divos. 
+
+Being warn'd, by afr^hefe Things, 
+learn to do that which is Juft, and 
+not to defpifethe Gods, 
+
+is worth taking Notice of, jet 1 would 
+noti/ave yon Write thefi Words down, 
+tecaufe there is Nothing in the Thing it 
+felf, or' in the Manner of Bxpreffion, 
+that is above the Reach of any Ordinary 
+Capacity. ,«"" *■' ' 
+
+' 'The Second Thing which I would 
+have taken Notice of, is, that you don't 
+Write out too much, but only what is moft 
+Worthy of Obfervation, and to nua\the 
+Place of the Author from whence you Ex- 
+ifaU it, for cthcrwife it will cauje the 
+Lofs of too muchTimt* 
+
+Neither ought any TMng to he Collect- 
+ed t»hil/i you are bujted in Readings if 
+by taking the Pen in Handfbe Thread of 
+your Reading be broken off, for thai will 
+make the Reading both Tedious and Vn~ 
+jiltafonU 
+
+The 
+
+
+
+the Ufe of Common-Places. 
+
+* 
+
+The PLces we dejigti to extraB from 
+are to be marked upon a piece of Paper, 
+thai we may do it after we have read the 
+Boo\out$ neither is if to he donejujl 
+after the Firji Reading over of the Book, 
+hut when we have read it a fecond time. 
+Thefe Things it's likely may feem Mi' 
+ftute and Trivial, hut without 'em great 
+T%htg* cannot fubffi^ and thefe being neg- 
+le&ed caufe very great Cmfitfson both of 
+Memory and Judgment, and that whieh a- 
+hove all Things is mo ft to be, valued, Lofs 
+of Time. 
+
+Some whootherwife were Men of mojl 
+extraordinary Parts, by theNegletityf 
+the/e things have committed great Errors, 
+which if they had beetrfo happy as to have 
+avoided, they would have been much more 
+ferviceable to the Learned Worid, andfo 
+coufequvttly to Mankind. 
+
+And in good Truth, They who defpift 
+fuch Things, do it not fo much from any 
+greater /hare of Wit that they have than 
+their Neighbours,asfromWantofJudg. 
+nteht 3 whence it is thai tbey do not well 
+understand how Vfeful Things Order 
+and Method are. 
+
+
+
+B 2 
+
+
+
+The INDEX, 
+
+
+
+- »■ II 
+
+la 1 
+
+
+1 a 
+
+
+Ve 4 .. 
+
+
+1 e « ,. 
+
+
+A I) 
+
+
+F 1 i 
+
+
+1 
+
+
+lo . 
+
+
+1 u 
+
+
+1 U i 
+
+
+1 a 
+
+
+la 
+
+
+1 e 
+
+
+1 e 
+
+
+B 1 i 
+
+
+<J li 
+
+
+1 o 
+
+
+la f «. 
+
+
+I u 
+
+
+lu 
+
+
+1 a 
+
+
+1 a 
+
+
+1 e 
+
+
+L e 26, 2%. 
+
+
+Uli 
+
+
+H 1 i 
+
+
+1 l8. 24, 
+
+
+1 
+
+
+1 u 
+
+
+1 ti 
+
+
+1 a 
+
+
+la 
+
+
+1 e 
+
+
+_ le ~~ 
+
+
+D li 
+
+
+111 
+
+
+1 
+
+
+■ . 1 1 . 
+
+
+~~ 1 u 
+
+
+1 u 
+
+
+1 a 
+
+
+la "^ 
+
+
+I e 
+
+
+1 e 
+
+
+E li" 2. 14. 
+
+
+L li 
+
+
+1 
+
+
+lo 
+
+
+1 u 
+
+
+iu 
+
+
+
+The 
+
+
+
+The INDEX. 
+
+
+
+KTTT 
+
+
+
+To 
+
+
+
+la 
+
+
+
+le 
+
+
+
+1 i 
+
+
+
+LSL 
+
+
+
+In 
+
+
+
+la 
+
+
+
+I e 
+
+
+
+P 1 I 
+lo 
+1 u 
+la 
+
+nr 
+
+— To 
+
+
+
+la 
+
+
+
+
+— Te 
+
+
+
+
+Mii 
+
+
+^ 1 
+
+
+1 U T 
+
+
+la 
+
+
+1 e 
+
+
+
+
+
+1 a 
+
+
+
+S—TT 
+
+
+
+T6~ 
+
+
+
+la 
+TT 
+
+
+
+FTT 
+
+
+
+TT 
+
+
+
+1 a 
+
+
+
+a 1 a 
+
+
+
+1 a 
+
+
+- 
+
+
+lc 
+
+
+V 
+
+
+li 
+
+
+
+
+io 
+
+
+1 u 
+
+
+> la 
+
+
+le 
+
+
+X 
+
+
+If 
+
+
+lo 
+
+
+In 
+
+
+la ' - 
+
+
+le 
+
+
+Z 
+
+
+1 i 
+
+
+
+
+lo 
+
+
+
+Mr. 
+
+
+
+EpiMe. Mr. LockV Letter to Monfienr Toi- 
+nard, containing a New and Eajfc. 
+Method of making Common-Place 
+Books, an exaB Index of which ntaj 
+be made in Two Pages. 
+
+
+
+I Do at length, Sir, obey you in Pub- 
+lifli'mg my Method of making Cm- 
+mon-Vlace Books. I am afnamed 
+that I fliould befo backward in Comply- 
+ing with your Defires •, but that which 
+you requefted of me, ieemed to me a 
+Thing fo inconfiderable, that I thought 
+it not worthy of publick View, efpcci- 
+ally in an Age fo abounding with Fine In- 
+ventions as ours. 
+
+' You know that I voluntarily commu- 
+nicated this Method to you, as I have 
+done to many othdrs, to whom I believ'd 
+it would not be unacceptable. It was 
+not then, as if I defign'd it for my own 
+private Ufe alone, that I have hitherto re- 
+fus'd the making of it Publick. I was of 0- 
+pinion, that the Kefpeft which One ought 
+to have for the Publick, would not furfer 
+me to preient it with an Invention of 
+fo finall an Importance 5 but the Obliga- 
+tions which you have laid me under, and 
+out Common Friendftrip, do not permit 
+me any longer to decline the following 
+your Advice. Your laft, Sir, has wholly 
+J determined me, and I believe that I ought 
+
+'not 
+
+
+
+C3) 
+
+e not to flick at thePabliChing my Method 
+c fince yon tell me that you have found 
+c it^ery ufcfiil after a Trial of leveral 
+c Yrars, as well as thofe of your Friends, 
+' to whom you have Communicated it. It 
+' is needlels for me here to relate what 
+c Profit I my felf have reap'd by the Ufe 
+
+* of it for above Twenty Years. 
+
+' I have fuflidently Entertained you 
+
+* with it when I was at Parts, about 
+
+* Seven or Eight Years ago, while I might 
+' have receiv'd great Benefit by your Learn* 
+c ed and Agreeable Convention. All the 
+*' Advantage that I aim at from this Wri- 
+
+* ting is publickly to teftifie the Efteem 
+' and Refpett that I have for you, and to 
+' declare how much I am, Sir, Your 4 &c. 
+
+SEfore we come to the Matter in Hand, 
+it may not be amifs to remark^ that 
+ibis Method is put in the fame Orders 
+that^the QolleUions ought to be put in. ToA 
+will perceive by the Reading of that which 
+follows what the Heads mean, which you fee 
+at the ToppftheBack of every Leafcand at 
+the Bottomed 7 this Page. 
+
+EBiO NI T E$.] In theGofpel of the Ebb- 
+nites, which they called the Gofpel accord- 
+ing to the Hebrews, the Hiftory which 
+is in Matthew XIX. \6. and the follow- 
+ing ones, was thus altefd ; One of the Rich 
+men J aid unto him, Mafier, What good thing 
+ntuft 1 do that I may have Eternal Life? 
+Jefus fail unto him, obey the^Law and the 
+Prophets. He anfwered, I have done it. 
+
+14. Jefus faid 'unto him, go fell I 
+
+
+
+AdmrarJ- I take a ^vVhke Paper Book of. what 
+orumMc $ ze \ t hfok fit, I divide the JTwo Fjrft 
+
+
+
+
+perpendicularly by other Lines, which I 
+draw from the Top of the Page to the 
+Bottom, as you may fee in the Table or 
+Index, which I have put before this Wri- 
+ting Afterwards I mark with Ink every 
+Fifth J^ineof the Twenty Five that I juft 
+now fpoke of. 
+
+f_ The ttber lanes are made with Red 
+Leal, but for -Conven'tency one may make 
+them with Black Lead^vsDkb it better for 
+Ufe than Red Lead.'] 
+
+I pot at the Beginning of every Fjf\h 
+Space, or before the Middle, One of the 
+Twenty Lasers which are. defign'd for this 
+Ufe ; apa a little farther in every Space^ 
+One of Jthe'Vowels in their Natural Order. 
+Thiols the Index or Table of the whole 
+Volume, be it of what Size fbever. 
+• The Inde* being thus made, I mark one, ; , 
+in the other Pages of the Book, the Margin 
+with Black Lead ; I make it about the big' 
+flefiof an Inch, or a little bigger, if tie 
+Volume be in folio, but in a lefs Volume 
+the Margin is proportionably left alfo. 
+
+If I would put any Thing in my, Com- 
+mon-Place Book, I look a Head to which 
+I may refer it, that I may be able to Enid 
+
+% 
+
+
+
+C 5 ) 
+
+it when I have ; Qcc$fion. Every Hta<l 
+ought to begin with iome Confiderable 
+Word that is Effenjtial to the Matter treated 
+of, and of this Word one muft carefully 
+obfeive the Firft fetter, and the Vowel 
+which follows it \ for upon thefe Two ! 
+Letters depends the whole Ufe of our In- 
+dex* 
+
+I. leave out Three Letters of the Alpha- 
+bet as ufeleis, to wit, K, Y, W, which 
+are fiipplied by C, I, U, Letters of a like 
+Power. I put the Letter Q, which. is al- 
+ways followed by an U in the Fifth Space 
+of Z. By this throwing of the Letter 
+Qjnto the laft Space of my Index, I pre- 
+ferve its Uniformity, and do not at all 
+fliorten the Length of it : For it vefy fel- 
+dom happens that one meets with an Head 
+that begins with Z U, and I have not 
+found fo much a$ One 'ibi the Space of 
+Five and Twenty Years, during which 
+Time I have made ufe of this Method. 
+Yet nevertbeleii, if it be needful, nothing 
+will hinder but that you may put it in the 
+fame Space with Q.U, provided you make 
+fome Sort of Diftiu&ion. 
+
+But one may, for moreEkaSkrffiis,affign 
+to Q.a Place at the Bottom of the Index, 
+which I have done formerly. 
+
+^ When I meet with aay thing worth put-* 
+
+'•ting into my CoaimonrBlacetBook, Ipte- 
+
+C fently 
+
+
+
+V. 060 
+
+adVersariorum methodus. 
+
+fently' look for a proper. Head. Siippofe, 
+for Example, the Head were Epiftle ■, I 
+look in the Index the Firft, Letter with 
+thq Vowel that follows, which in this 
+Cafe are E I. If there is found any Num- 
+ber in the Space marked E I, that fhows 
+methe Space defign'd for Words which 
+begin with E, and whpfe Vowel that im- 
+mediately follows is f, I muft refer to 
+the Word Epiftle in that Page what I 
+have to take notice o€ I Write the Head 
+in pretty large Letters, fo that the princi- 
+pal Word is found in the Margin^ and I 
+continue the Line in writing on what I 
+have to remark. I conftantly obferve this 
+Method, that nought but the Head appear 
+in the Margin, and go on without carrying 
+the Line again into the Margin. When 
+one has thus. pielerv'd the Margin clear, 
+the Heads prefent themfelves at Firft Sight 
+
+If in the Index I find no Number in the 
+Space E I, I look in my Book the Firft 
+Backfide of the Page that I find blank, 
+which Backfide in a Book where there is 
+nothing elfe but the Index, muft be the 
+Second Page. 
+
+I'write then in my Index after E I the 
+Number 2, and the Head EPISTLE at 
+the Top of the Margin of the Second 
+Page, and all that is to be put under this 
+Head in the fame Page,' as you fee I have 
+done in the Second Page^pf this Writing.' 
+
+Since 
+
+
+
+(r ) 
+
+Since the Clafs EI. does folely.take.up 
+the Second and Third Page, one may tnake 
+life of tfiofe Pages only for Words which 
+begin, with E, and whofe next Vowel is I, 
+as EpicurmfEbiomtcs, Epigram, Edi8 r &c. * see the 
+The Reafon why I always begin at the Bottom of 
+Top of the Back of the Page, and thic I ^ e ™ 
+afftgn to one Clafs the Two Pages which * 
+face one another, rather than a whole Leaf, 
+is that the Heads of this Clafs may appear 
+all at once, otherwife you muft be at the 
+Trouble of turning over the Leaf. 
+
+Whensoever I would write a new Head, 
+in my Common-Place Book, I look prefent- 
+ly in my Index for the Chara^eriftiqkLet- 
+ters of the Word, and I lee by the Num- 
+ber which follows them where the Page 
+affign'd to t;he Clafs of this Head is. But 
+if there be no Number to be found, I muft 
+look/ the Firft Back of the next Blank Page. 
+I mark its Number in the Index, and fp 
+I preferve this ?age, with the Right.Side 
+of the following Leaf for this new Clafs. 
+Let the Word be for Example Adpfrfyria^ 
+if I fee no Number ip the Space A E, 1 look 
+the Firft Empty Back of a Leaf, which 
+finding in the Fourth Page, I put" in the 
+Space A E the Number 4, and in the 4th 
+Page the Head Adverfaria, with all that 
+ought to be put under this Head, as I have 
+already done. 
+After that, this Fourth Page with the 
+V. Fifth' that follows it, is referv'd for 
+
+C 2 the 
+
+
+
+V. (8) 
+
+ADVERSARJOR UM METHODVS. 
+the Qafi A E ; that is to fay for 
+Heads which begin with A and where 
+the following Vowel in the Word is E, 
+as Age/thus Aeheron, Anger, &c. 
+
+When the Two- Pages defign'd for 
+this head are quite full, then look for 
+the Back of the next Blank Page : If 
+it is that which immediately follows, 
+I write at the Bottom of the Margin 
+in the Page that I have laft 
+filled up, the Letter V, that is Verte, 
+Turn over •, and likewife at the Top of 
+the Page following. If the Pages which 
+immediately N follow are already taken 
+up by other Clafles,, I write at the Bot- 
+tom of the Page laft rilled up the Num- 
+ber of the next Back of the Page. I 
+fet down again the Wad of which it 
+treats^ under which I go on to write 
+what I have to put into my CoMthon- 
+f lace-Book, as if it were in the fame 
+l>age. At the Top of this new Back I 
+•fet down alio the Number of the Page 
+which has been laft filled up. By thefe 
+Numbers, which refer to one another, 
+the i ft of which is at theEnd ofonePage, 
+and the 2d at the Beginning df another, 
+one reads the Matter which is fepara- 
+ted as well as if there was nothing be- 
+tween them. For by this Reciprocal 
+Reference of Numbers, one turns over 
+as one Leaf all thbfe Which are between 
+them, as if they were join'd together. 
+
+You 
+
+
+
+C 9 ) 
+
+You have an Example of it in the 
+Third and/Fourteenth Pages. 
+
+Every Time ' I put a Number at the 
+Bottom of a Page, I put it alfo in the 
+Index i but when I put only V, I make 
+no Alteration in the Index ; the Reafon 
+of which you will learn by Ufe. 
+
+If the principal Word of the Head 
+be a Monofyllable, ( or a Word of One 
+Syllable) and begins with a Vowel, this 
+Vowel is at the fame Time both the 
+Firft Letter of the Word, and the Cha- 
+ratleriftick Vowel ; fol write the Word 
+Art in A a, and Elf in E e. 
+
+It may be ieen by what I have faid, 
+that one is to begin to write every Glafe 
+of Words on the Back of the Page; 
+It may from thence happen that the 
+Backs of all the Pages may be full, 
+while there may be*Righl: Sides enough » see the 
+which do yet remain empty. If you fifteenth, 
+have a Mind then to fill up the Book, fjygj* 
+you may affign thefe Right Sides, which % eBt h ?l. 
+are yet entirely blank, to new Clafles. ges> &c. 
+
+If any one thinks that thefe Hundred 
+Claffes are not fufficient to take in all 
+Sorts of SubjeQs without Conftfion, he 
+may, following the fame Method, in- 
+creafe the Number to Five Hundred, by 
+adding a Vowel. But having try'd both 
+the one and^the other Metttbd; J pre- 
+fer the. former, and Ufe will. convince 
+thofe that (hall make Tryal-of it that 
+V,it is fufficient for all Subjects, efpecial- 
+
+17 
+
+
+
+V. ( io ) 
+
+APVE RSAR IORUM METHODUS 
+ly if they have a Book for every Sci- 
+ence, in which they make their Col le- 
+gions, or. at leaft Two, for the Two 
+Heads to which we may refer all our 
+Knowledge, to wir, Moral and Natu- 
+ral Philofopby. 
+
+One may alfo add to them a Third 
+Book, which you may call the Science, 
+or Knowledge of S/£;zj,which refpectsthe 
+life of Words, and is of far larger Ex- 
+tent than the Ordinary Critical Art. 
+
+As .for the Language in which one 
+ought to expjjels the Titles,! believe the 
+Latin Tongue to be the molt Conveni- 
+ent, provided one always obferves the 
+Nominative Cafe, leaft in DiiTyllables, 
+(or Wqrds of Two Syllables; or in 
+Monolyllables which begin with a Vow- 
+el,the Change: which happens in the Ob* 
+lique Cafe«lh.ould caul? Confufion. But 
+k does not, much matter what Language 
+you make Ufe of, provided you do not 
+mix the Beads of different Languages 
+together. 
+
+To remark a Place in an Author from 
+whom I would colleft any Thing j 
+make ufe' of this Method : Before j[ . 
+write down any thing I put the Name 
+of my Author in my Common-? lacer 
+Book) and, under that Name, the Title 
+of the '. Treatife I am reading, the Vo- 
+jjwne, fhe 'Yitne and Place of the Edi- 
+tion, and (what ought never to be o- 
+
+mitted ) 
+
+
+
+(. M >. 
+
+mitted ) the Number of the Pages that 
+the whole Book contains. For Exam- 
+ple, I put in the Oafs M. A. Mdr- 
+Jhami Canon Chronicur, JF.gypt incus, 
+Gracus, & Difqitijitiones, Vol. Lond. 
+1672, p. 626. This Number of the 
+Pages ferves me for the future to mark 
+the Particular Treatife of the Author, 
+and the Edition that I make ufe of. 1 < 
+have no more Need to mark the Place 
+otherwife, than by putting in the Num- 
+ber of the Page from whence I have 
+Collected/what I have writ over the 
+Number of the Pages of the whole Vo- 
+lume. You will fee an Example of it 
+in Acberufia, where the Number 259 
+is over the Number 626, that is to fay, 
+the Number of the Pages where the Place 
+is that is treated of, over the Number 
+of the Pages of all the Volume. So I not 
+only avoid the Trouble of writing Ca- 
+non, ©V. but I can alfo, by the Help'of 
+the Rule of Three, find the fame Paffege 
+in any other Edition whatever, by look- 
+ing the Number of Pages that the Edi- 
+tion I have not made- ufe : of contains ; 
+fipce the Edition which I have ufed ha- 
+ving 626 Pages, hath given me 259. I 
+confefs one does not always hit upon 
+tire very Page, becaufe of the Spaces 
+which may be made in different Editi- 
+ons, which are not always propor- 
+tionally equal •, but neverthelefs you are 
+r . never very far off of the Page'; and 1t- is 
+
+much 
+
+
+
+A WE RSARWRUM METHODUS. 
+much better to find out the Paflage with- 
+in fome few Pages of the Place, than to 
+be at the Trouble of turning over the 
+whole Book to find it : as you muft 
+do if the Book has no Index, or where 
+the Index is not very corre£t 
+
+A CHERUS IA. ] Tratum, fi3a mortu- 
+orum Habita.no eft Locus prope Mem* 
+pbim,juxta Paludem, quam vocant Acke- 
+rufiam, &c. This is a Paflage taken out 
+of the Firft Book of Diodorus Si cuius, 
+the Senfe of which is this : The Fields, 
+where they feign the Habitation of the 
+Dead to be, is a Place not far from 
+Memphis, near the Matfh called Ache- 
+. rujia, where there are moft Delightful 
+Fields, with Lakes and Woods of Lotus 
+and Calamus* 
+
+It is not without Reafon then that 
+Orpheus fays the Dead inhabit thole 
+Places, becaufe it is there that the moft 
+and greateft Funeral Solemnities of the 
+Mgyptjans are Celebrated ; they carry 
+the Dead over the River Nile, and the 
+Marfh Acberufia, and lay them in Sub- 
+terraneous Vaults. 
+
+There are other Stories among the 
+Grecians concerning the Shades below, 
+which are very like thofe Stories which 
+are invented at this Day in Mgypt. For 
+
+they 
+
+
+
+C*3) 
+
+£hey call the Boat.which carries over the 
+Dead Darts, arid" a Piece of Money is 
+given to the Waterman for his Pallage, 
+whole Name in the Language of that 
+Country is called Charon. Not far from 
+this Place there is the Temple of 
+Gloomy Hecate, alio the Gates of Qcy- 
+tus and Lethe, (hut up with great Bra- 
+zen Bars ; there are alfo other Gates, 
+called the Gates of Truth, before which 
+ftands the Statue of Jufiice without au 
+Head. Marjham 14^. 
+
+
+
+*'* 
+
+V *** 
+V 
+
+
+
+D EBIO- 
+
+
+
+( 14 r \ 
+
+EBIONITES.] S?ll all that tfcou bag, 
+and give -if to the ? °?% *b*ri come tit?]} 
+follow me: Bui at that tbf.Rtcb Man be- 
+gan to (cratch his Head, and was not at 
+all pleas' 'd with the 'Advice that Jefu$ 
+Save him. And the toritfaid unto bifi?- 
+how Jay you I have fulfilled the 'Law ana] 
+the Prof bets, fihce it is written in the 
+haw, thou Jhalt love thy Neighbour as 
+ttiy'Jelfi and lo there are many of thy 
+brethren, the Children of Abjaharri, «p& 
+have bad Raiment, and die viitb Hunger* 
+while no Help is adminifired to them 
+fromyou, thd 'yourHoufe abounds with all 
+Good Things ? And having turnd to Si- 
+mon, his Difciple, who fat next him, Si- 
+mon, thou Son of Johanna, faid he, it 
+is eajier for a Camel to go through the 
+Eye of a Needle, than for a Rich Man 
+to enter into the kingdom of Heaven. 
+Ebion alter'd this Paflage of theGofpeL 
+becaufe he did not acknowledge Chrirc 
+to be the Son of God, not a Law-giver, 
+but a baie Interpreter of the Law which 
+was given by Mofes. Grotius ±1$-. 
+
+
+
+HERE- 
+
+
+
+C itf ) 
+
+HERETICKS.] Noftrum 'igitur jult 
+el'igere & opt are meliora^ ut ad veftram 
+correQionem aditum haberemus. Augu- 
+filnus Tuw. VI, Col. \\6. jol. Bq/ilea 
+1542. contra Epiji. Mamcbaiy quam va- 
+cant Fundamenti. " We believed that 
+" other Methods ought to be taken , in 
+" Order to make you TetracT: your Er- 
+" rors •, Affronts and Inve£tives are by 
+" all Means to be avoided, ill Ufage 
+" and Perfection are never likely to 
+"fucceed; but the only Way to draw 
+w you is by kind Difcourfes and Exhorta- 
+" tions, which may demonftrateourten- 
+" der Concern foryou 5 according to that 
+" of the Scripture, a Servant of the 
+tc Lord ought not to.be Quarrelfom, but 
+" Gentle to all Men * Apt to teach,Pati r ! 
+" ent,and with Modefty,to reprove thofe 
+t( that are notlike-minded.Let thofe Per- 
+fons rigoroufly treat you, who know not 
+how difficult it is'to come to the Know- 
+ledge of Truth, and to avoid Errors. Let 
+thofe Perfons rigoroufly treat you, who 
+know not how hard a Matter it is, and 
+and how feldom Effected, to caufe 
+Carnal Imaginations to give way to Spi- 
+ritual and Pious ones. Let thofe Perfons 
+rigoroufly treat you, who are not fertfi- 
+ble of the extream Difficulties that there 
+are to purine the Eye of the inward 
+Man, in Order to make it capable of 
+perceiving Truth, which is the Sun of 
+
+jothe Soul Let 
+
+CON- 
+
+
+
+■(■I* ) 
+
+CONFESSION OF FAITH.] fe- 
+ricubfum nobis a&modutn atque etiam 
+mijerabile eft, tot nunc fides exiftere, 
+quot voluntates 5 £? tot nobis doUrinas 
+effe quot mores, &c. Hilarius, p. 211. 
+in Lib. ad Conjiantium Auguflum. Bafil. 
+1 570, Vol It is a Thing both Deplora- 
+ble and Dangerous, that there are now 
+as many Confeffions of Faith as there 
+are Wills, as many Opinions as Incli- 
+nations, and as many Sources of Blaf 
+phemy as there are Vices, whilft we 
+make as many Confeffions ofFaith as we 
+pleaie, andGlofs upon them as we think 
+fit. And as there is but One God, One 
+Lord, and One Baptifm, fo there is but 
+Oneraith, which One Faith we Re- 
+nounce when we make many different 
+Confeffions •, and certainly this Diverfi- 
+ty is the Caule that there is no mwe 
+true Faith to be found. Wearecon- 
+vinc'd, that after the Council at Nice 
+there was nothing, either on one Side 
+or t'other, but writing Confeffions of 
+Faith. And while they contend about 
+Words, while they debate about Novel 
+Queftions, while they difputc about E- 
+quivocal Terms, while they complain 
+of Authors, while every Body endea- 
+vours to advance his own Party, while 
+
+24110 one can agree, 
+
+
+
+HERE, 
+
+
+
+HERETICKS.] Let thofe Petfons rigo- 
+roufly treat you,who know not how many 
+Sighs and Groans it cofts before one can 
+attain to any fmall Knowledge of the 
+Divine/ Being. Finally, let thofe Per- 
+ibns rigoroufly treat you, who were ne- 
+ver feduc'd 1>y fuch Errors as they fee 
+you have been deceiv'd by. I pals by 
+that moft pure Wifdom, to the Know- 
+ledge of which very few Spiritual Per- 
+lbns arrive at in this Life ; yet although 
+they know it but in very fmall Meafure, 
+becaufe they are Men, yet they know 
+it without doubting. For in the Catho- 
+lick Church it is not Penetration of 
+Wit, nor Depth of Knowledge, but the 
+. Simplicity of the Faith, which makes 
+People fure and fafe. 
+
+Barbari quippe homines "Roman*, imo. 
+pot i us human* eruditions expertes, qui 
+nihil omnino fount , nifi quod a DoSori- 
+bus fuis audiunt $ quod audiunt hoc fe- 
+guuntur r Gfc. Salvianus -f-fi. The Senfe 
+of which take as follows. This Bifhop 
+ipeaking of the Arian Gothk and Van- 
+dals, They are a Barbarous People, 
+lays he r who have not any Tafte of the 
+Roman Learning, and who are ignorant 
+even of thofe Things with which almoft 
+all the reft of Mankind are acquainted ; 
+they know nothing but what they have 
+learnt from their Do&ors, and mind 
+nothing but what they have heard from 
+them. Whence People io ignorant as 
+
+thefe 
+
+
+
+C« ) 
+
+tjjefe are^ find themfelves under a Ne- 
+cecity oflearning the Myfteries of the 
+(*<}ijpel ? rather from the Inftru£tioiK 
+liffcicn are given them, than from the 
+Idling of Books, therefore the Tra- 
+ditionr ^nd received Dd&rine of their 
+Makers are the only Rule that they 
+IoIIqw, became they know nothing but 
+wftat they have taught 'em. They are 
+HeretielsSjbut they know, not that they are 
+to. They are fb indeed m our.Efteem, 
+hut they don't at all believe it $ yea, on 
+$he contra^, tjiey js<?koji themielves to 
+be true GarooHcfcs, and Brand us with 
+the Jfife qf i Hereticks. VThey judge 
+therefore of us juft as we dp of them. 
+We are perftaded with 1 our felves that 
+they do Wrong to the Divine Generati- 
+on,in maintaining the Son to be inferiour 
+to the Father. They imagine that we 
+derogate from the Glory of the Father 
+becaufe we believe them to be Equal. 
+The Truth is on our Side, but they pre* 
+tend it is on theirs. We give all due 
+Honour to God, and they think that 
+weir Belief tends more to the Honour 
+of God than ours. They are wanting 
+in their Duty to God, but this they 
+count the higheft Duty of Religion $ 
+and they make true Pietjj to conuft in 
+that which we have a quite contrary O- 
+pinion of. They are then in ah Error, 
+but yet they are Sincere-, and it proceeds 
+V. not ftom an Hatred, but Love of God. 
+E HE- 
+
+
+
+V. ( 22 ) 
+
+HERETJCKS.] For they pretend that 
+by it they do better teftifie the Refpeft 
+r v :y have for God, and their Zeal for 
+LI., Glory. Therefore although they 
+have not a right Faith, yet they never- 
+thelefs look upon it as a perfect Love 
+of God.' How thefe Perfons will be 
+puniftipd'for their Errors at the Day of 
+Judgment the great Judge of the Uni- 
+verfe alone Ijriows. In the mean Time 
+I believe .that God exercifes his Patience 
+towards them, fyecaufe he fees that their 
+Heart' is more fight . than their Faith- 
+and that when they do deceive them- 
+Telyes, it is an AfFe&ion for Piety that 
+rs the Caufe - of -their Ettot. 
+
+
+
+CON- 
+
+
+
+( *4 ) 18. 
+
+CONFESSION OF FAITH.} While no 
+one can agree, while they Anathema- 
+tize one another, there is fcarce any that 
+flicks clofe to Jefus Chrift. What Change 
+was there in the Confeflion of Faith but 
+lift Year ? The Firft Synod of the Nfi 
+cene Council ordains that nothing fhould 
+be faid concerning the Homoufign ; the 
+Second orders and ordains that they 
+fhould fpeak of it ; the Third excufcs 
+the Fathers of the Council, and pretends 
+that they took the Word Oujia fimply •, 
+laftly, the Fourth, inftead of excufing, 
+condemns "em. As to the Refemblance 
+of the Son with his Father, which is the 
+Confeflion of Faith of thefe unhappy 
+Times, they difpute whether he is like 
+in the Whole, or only in Part. Behold 
+what Fine Inquirers thefe are into the Se- 
+crets of Heaven ! In the mean while^ 
+it is upon the Account of thefe Confefc 
+fions of Faith about the invifible Myfte- 
+ries, and about our Faith in God, that 
+we thus Calumniate one another. We 
+make Confeflions every Year, and alio 
+every Month $ we Repent of what we 
+have done, we Defend thofe that Repent 
+of 'em, and afterwards Anathematize 
+thofe We have defended : So we Con- 
+demn either the Opinions of others in 
+our ielves, or our own Opinions in o- 
+thers; and in thus Tearing one another 
+to Pieces, we have been theCaufe&f 
+each other's Ruin. 
+
+flNlS. 
+
+
+
+C*5) 
+
+
+
+
+================================================================
+BLOCK 2: Wellcome copy OCR (b30540434_djvu.txt, lines 1-1439)
+================================================================
+fy'T  f'fî 
+
+
+to»'» 
+
+
+-•* 
+
+
+X 
+
+
+:  -  -  t  ’’S 
+
+
+A 
+
+
+/ 
+
+
+NEW  METHOD 
+
+OF  MAKING 
+
+Common  -  Place  -  Books  • 
+
+WRITTEN 
+
+By  the  late  Learned  Mr.  John  Loci 
+Author  of  the  ESSAI  concerning 
+.  Humane  Under (i  an  ding. 
+
+
+^ranflateîï  ttm  dje  jfrenrt}* 
+
+TO  WHICH 
+
+Is  added  Something  from  Moniteur  Le 
+Clerc ,  relating  to  the  fame  SubjeQ. 
+
+A  TREATISE  neceffary  for  all  Gentle¬ 
+men,  efpecially  Students  of  Divinity  jl by fick, 
+and  Law, 
+
+There  are  alfo  added  Two  Letters,  containing  a 
+moft  Ufeful  Method  for  inftruftihg  Perlons  that 
+are  Deaf  and  Dumb,  or  that  Labour  under  any 
+Impediments  of  Speech,  to  fpeak  diftinftiy  5  writ 
+by  the  late  Learned  Dr.  John  Wallis ,  Geometry 
+Proefefif.  Oxon}  and  F.  R,  S. 
+
+
+LONDON :  ' 
+
+Printed  for  J,  Greenwood ,  Book  feller,  at  the 
+End  of  CornhiL  next  Stocks -Market,  1706. 
+
+
+? 
+
+
+T  O 
+
+
+Mr.  Edward  Northey , 
+
+
+o  F 
+
+HACKNEY. 
+
+S  I  R, 
+
+Here  Prefcnt  you  with  a  Method 
+of  making  Cemnton-Y  laces ,  for 
+Miich  I  need  make  no  Apology,  when 
+fhall  have  told  you  that  it  was  writ 
+ry  that  Great  Mafter  of  Reafon  and 
+dethod,  the  late  Learned  Mr.  Lock. 
+
+I  know  very  well  that  nothing  of 
+at  Great  Man’s  can  fail  of  meeting 
+ith  a  kind  Reception  from  you,  who 
+ve  fo  often  expreffed  the  Plealure 
+id  Advantage  you  receive  from  his 
+rritings  $  and  I  make  no  doubt  but 
+is  Method  will  have  its  Share  in  your 
+[teem,  by  being  obferved  in  the  Fa¬ 
+re  Courfe  of  your  Studies. 
+
+A  a  Î 
+
+
+Epifile  Dedicatory. 
+
+Î  (hall  forbear  faying  any  Thing 
+of  the  uXefulnefs  of  Common-Places  in 
+General,  it  being  Foreign  to  my  pre- 
+fent  Purpofe  5  neither  is  it  my  Bufi- 
+nefs  here  to  relate  how  favourably  the 
+Learned,  both  Ancient  and  Modern, 
+have  fpoken  of  them,  and  with  what 
+Succefi  they  have  us’d  ’em. 
+
+It  will  be  abundantly  fufficient  to¬ 
+wards  their  Recommendation  if  I  tell 
+you  that  Tnlly  was  One  among  the 
+Fortner,  and  Mr.  Lock,  among  the 
+Latter. 
+
+But  I  fliall  refer  you  to  what  I  have 
+extracted  from  the  very  Learned  Mon- 
+feur  k  Clerc  concerning  tins  Matter,  I 
+
+It  may  be  expeâed  that  I  fhould 
+give  fome  Account  of  this  Method  -i 
+all  that  I  fhall  fay  at  prefent  is.  That 
+Mr.  Lock  having  drawn  it  up  during 
+his  Travels  abroad,  communicated  it 
+to  feveral  of  his  F fiends,  who  mighti¬ 
+ly  importun’d  him  to  make  it  Pub- 
+lick  5  but  he  for  a  long  Time  declin'd 
+it,  (  for  Keafons  which  you  will  find 
+in  his  prefixed  to  thisTreatife) 
+tilLatdaft,  in  Compliance  with  their 
+repeated  Requefte,  he  !  gave  it  to  Mm»' 
+fim  le  Clerc,  who  in  the  Year  1 686 
+,  ,  it' French,  in  the  Second 
+
+Tome 
+
+
+! 
+
+
+Epi  file  ,  Dedicatory. 
+
+Tome  of  the  Bibliothèque  TJniver- 
+fille.  >  .■■■-!  l- 
+
+This  Method  having  met  with  Ge¬ 
+neral  Approbation  from  the  Learned, 
+I  thought  it  a  Pity  that  any  Thing  of 
+Mr.  Locl{S  (hould  be  hid  from  any  of 
+his  Country-men,^  in  an  unknown 
+1  ongue  :  I  have  therefore  made  it 
+fpeak  Englifi,  and  taken  the  Freedom 
+of  Dedicating  it  to  you,  with  the  Ad¬ 
+dition  of  Two  Letters,  (becaufe  of 
+their  Publick  life)  containing  an 
+extraordinary  and  molt  ufeful  Me¬ 
+thod  how  to  Teach  Deaf  and  Dumb 
+Folks  to  Speak  and  Write  a  Language, 
+invented  by  that  Great  Man  John 
+Wallis,  Dr.  ill  Divinity ,  Geometry 
+Profelfor  in  Oxford,  and  Fellow  of 
+the  Royal  Society;  Who,  let  it  be 
+Recorded  to  his  Immortal  Honour, 
+
+I  was  the  Firft  in  England  that  made 
+Art  fupply  the  Defeâs  of  Nature,  in 
+learning  Perfons  that  were  Deaf  and 
+Dumb  to  Speak  and  Write  diftinctly 
+and  intelligibly.  The  Method  that 
+the  Dodlor  prefcribes  is  fo  Plain,  Fa¬ 
+miliar  and  Demonftrative,  that  any 
+Perfon  of  Common  Ingenuity  may 
+attain  this  Art  with  Eafe,  and  abun¬ 
+dance  of  Pleafure. 
+
+But 
+
+
+But  I  am  afraid,  Sir,  I  have  been  too 
+tedious,  therefore  I  (hall  only  add  this. 
+May  you  goon, as  you  have  already  be¬ 
+gun,  to  Cultivate  a  ftriét  Friendftiip 
+with  Virtue  and  Learning  $  and  while 
+many  Y oung  Gentlemen  mini  nought 
+but  the  Gratifying  their  foolilh  Incli¬ 
+nations,  may  you  purfue  the  Ratio¬ 
+nal  Pleafures  of  the  Mind,  whofe 
+Eruits  are  Solid  Joy  and  Comfort  5  in¬ 
+cited  thereto  on  the  one  Hand  by  the 
+good  Example  of  your  Worthy  Pa¬ 
+rents,  as  on  the  other  by  that 
+of  your  very  Learned  Uncle,  who  fd 
+Glorioufly  Adorns  the  Great  Pojl  he 
+is  in. 
+
+This,  Sir,  is  the  Hearty  With  and 
+Delire  of 
+
+Your  Friend  and  molt 
+Humble  Servant, 
+
+
+Monfieur  Le  Clercs  Cha- 
+rader  of  Mr.  LOCK'S 
+Method. 
+
+
+WITH  HIS 
+
+
+ADVICE 
+
+
+About  the 
+
+
+USE 
+
+4  ij  ; 
+
+O  E 
+
+/ 
+
+Common-Places. 
+
+
+■*  u  J 
+
+
+N  all  Sorts  of  Learning ,  and  effect - 
+ally  in  the  Study  of  Languages ,  the 
+Memory  is  the  Treafury  or  Storc-houfe, 
+it  the  Judgment  the  Difpofer,  which 
+xnges  in  Order  whatever  it  hath  drawn 
+om  the  Memory  :  But  left  the  Me~ 
+tory  Jhould  be  OppreJJid ,  or  Over-bur- 
+
+thend 
+
+
+ii  Mr.  Le  Clerc9 s  Advice  about 
+
+thend  by  too  many  Things ,  Order  and 
+Method  are  to  be  called  into  its  AJfi- 
+fiance.  So  that  when  we  extract  any 
+Thing  out  of  an  Author  which  is  life  to 
+be  of  future  ÏJfej  me  maybe  able  to  find 
+it  Without  any  Trouble*  For  it  would  be 
+to  little  Purpofe  to  fpend  our  Time  in 
+Reading  of  Books  9  if  we  could  not  apply 
+what  we  read  to  our  Dfe.  It  would 
+be  jufi  for  all  the  World  as  fermceable 
+•  as  a  great  deal  of  Houfholcf*  Stuff,  when 
+if  we  Wanted  any  particular  Thing  we 
+*  cdmelU  could  not  fell  where  to  fin  dit*  *  It  is 
+out  of  a-  an  Qjçj  Sayings  That  that  is  the  Traeft 
+
+cap.  ii!2*  Poverty,  when  if  youdiave  Occafion 
+for  any  Thing,  you  can’t  ufe  it,  be- 
+eaufe  you  know  not  where  3tis  laid* 
+Many  have.  Wrote  much  on  this  Subject^ 
+and  I  have  made  Trial  of  them ,  but  I 
+have  never  met  with  a  better  and  more 
+eafie  Method,  than  that  which  I  receiv'd 
+tnS-  from*  f  Friend,  andpublijh'd  in  French 
+tbodofm.fotne  Time  fince. 
+
+UlVX  And  ïhave  found, ,  upon  fever al  Years 
+
+Experience ,  this  MM,  which  is  very 
+well  adapted,  not  only  to  the  Latin,  but 
+alfo  to  the  Greek  Tongue,  to  be  extraor¬ 
+dinary  pfefut.  Neither  do  I  ever  look, 
+upon  mi  Latin  or  Greek  CoUé&ions , 
+but  I  call  to  mind  the  Kindnefs  of  that 
+
+
+the  U ft  of  Common-Places. 
+
+Excellent  and  Learned  Perfon ,  who 
+taught  me  that  Method. 
+
+At  the  Entrance  indeed  upon  any 
+Study,  when  the  Judgment  is  not  fuffici - 
+ently  confirm’d,  nor  the  Stock  of  Know¬ 
+ledge  over  large,  fo  that  the  Students 
+are  not  very  well  acquainted  with  what  is 
+worth  Collecting,  fear  ce  any  Thing  is  Ex - 
+traced  fut  what  will  be  ufeful  but  fir  a  lit¬ 
+tle  while  5  becaufe  as  the  Judgment  grows 
+Ripe ,  thofe  Things  are  dejpisd  which 
+before  were  had  in  ejleem.  Tet  it  is  of 
+Service  to  have  Collerions  of  this  Kind, 
+both  that  Students  may  learn  the  Art  of 
+putting  Things  in  Order,  as  alfo  the 
+better  retain  what  they  Read. 
+
+But  here  are  Two  Things  carefully  to 
+be  obferved ^  the  Fir  ft  is,  that  we  ex 
+tracl  only  thofe  Things  which  are  Choice 
+and  Excellent ,  either  for  the  Matter  it 
+(elf  or  elfe  for  the  Elegancy  cf  the  Ex- 
+prejjion,  and  not  what  comes  next  $ 
+for  that  Labour  would  abate  our 
+Defire  to  go  on  with  our  Reading  $  nei¬ 
+ther  are  we  to  think  that  all  thofe  things 
+are  to  be  writ  out  which  are  called  Fv&^cu, 
+lor  Sentences.  Thofe  Things  alone  are 
+So  be  picked  out ,  which  we  cannot  Jo  rea¬ 
+dily  call  to  mind,  or  fir  which  we  fhould 
+want  proper  Words  and  Exprej fions. 
+
+B  "  For 
+
+
+/ 
+
+
+Mr.  Le  Clerc  s  Advice  about 
+
+For  Infl  an  ce  ^  although  the  Story  in  that 
+Place  of  Virgil  where  thefe  Words  are$ 
+
+Difcite  Juftitiam  moniti,  &  non  tem- 
+
+£  nere  Divos* 
+
+Being  warn'd,  by  all  thefe  Things , 
+learn  fp  do  that  which  is  Juft,  and 
+not  to  defpife  the  Gods, 
+
+is  worth  taking  Notice  of  yet  I  would 
+not  have  you  Write  thefe  Words  down , 
+becaufe  there  is  Nothing  in  the  Thing  it 
+filf  or  in  the  Manner  of  Exprejjion * 
+that  is  above  the  Reach  of  any  Ordinary 
+Capacity, 
+
+The  Second  Thing  which  I  would 
+have  taken  Notice  of  is,  that  you  dont 
+Write  out  too  much,  but  only  what  is  moft 
+Worthy  of  Obfervation ,  and  to  mar\  the 
+Place  of  the  Author  from  whence  you  Ex- 
+tr0  it ,  for  otherwife  it  will  caufe  the 
+Lofs  of  too  much  Time . 
+
+Neither  ought  any  Thing  to  be  Colle&- 
+ed  whilji  you  are  bnfied  in  Reading  $  if 
+by  taking  the  Pen  in  Eland  the  Thread  of 
+your  Reading  be  broken  off  for  that  will 
+make  the  Reading  both  Tedious  and  ZJn - 
+gleafant* 
+
+The 
+
+
+the  Ufe  of  Common-Places. 
+
+The  Places  we  de/tgn  to  extract  from 
+are  to  be  marked  upon  a  piece  of  Paper, 
+that  we  may  do  it  after  we  have  read  the 
+Book  out  5  neither  is  it  to  be  done  jujl 
+after  the  Firjl  Reading  over  of  the  Book , 
+but  when  we  have  read  it  a  fécond  time . 
+
+Thefe  Things  it  s  likely  may  feem  Mi - 
+nute  and  Trivial ,  but  without  'em  great 
+Things  cannot fubfifl^and  thefe  being  neg¬ 
+lected  caufe  very  great  Confufion  both  of 
+Memory  and  Judgment, and  that  which a- 
+bove  all  Things  is  molt  to  be  valued ,  Lofs 
+) of  Time, 
+
+Some  who  otherwife  were  Men  of  mofl 
+extraordinary  Parts,  by  the  NegleCt  of 
+thefe  things  have  committed  great  Error s, 
+which  if  they  had  been  fo  happy  as  to  have 
+avoided,  they  would  have  been  much  more 
+ferviceable  to  the  Learned  World ,  and  fo 
+confequently  to  Mankind • 
+
+And  in  good  Truth ,  They  who  defpife 
+uch  Things ,  do  it  not  fo  much  from  any 
+r eater  feare  of  Wit  that  they  have  than 
+heir  Neighbours,  as  from  Want  of  Judgm¬ 
+ent  $  whence  it  is  that  they  do  not  well 
+nderfland  how  Dfeful  Things  Order 
+and  Method  are « 
+
+
+y 
+
+/ 
+
+
+la  - 
+
+1  a 
+
+1  e  4. 
+
+i  c  ? 
+
+’A  1  i 
+
+rn — ~~~* — 
+
+. To 
+
+1  0 
+
+*Tïî 
+
+1  a 
+
+1  a 
+
+ï  e 
+
+î  e 
+
+tti  ~ 
+
+Ci  I  i 
+
+To 
+
+1 0" 
+
+T  u 
+
+lu 
+
+1  a 
+
+la 
+
+__  ,  ~ 
+
+1  e  50 v  22. 
+
+km  i  r  1 
+
+H  1  i  ~ 
+
+r  1 0 18. 24. 
+
+1  0  ~~  * 
+
+’  ” l^iT  "  ’ 
+
+,  ï  u 
+
+i  1  a  _ 
+
+1  a 
+
+&  '■  •  « 
+
+i  e 
+
+..  1  e  " 
+
+ETTT  ~“Z 
+
+I  1  î  “  ' 
+
+1  0 
+
+1  0 
+
+1  U 
+
+la 
+
+1  a 
+
+“  le 
+
+te 
+
+n  i  2.  14*  r 
+
+L  11 
+
+™ïo 
+
+I  0 
+
+. . 
+
+1  U 
+
+The 
+
+The  INDEX. 
+
+
+1  a 
+
+1  a 
+
+~~~Tc  • 
+
+1  e 
+
+Mil 
+
+S  1  i 
+
+.  1 6 
+
+o 
+
+1  Ü 
+
+TÛ  - • 
+
+la 
+
+1  a 
+
+Të  - 
+
+Fe  — : 
+
+KT! - - 
+
+f  I  i 
+
+To 
+
+i  o 
+
+1  u 
+
+1  u  ~ 
+
+1  a 
+
+1  a 
+
+1  e 
+
+To"  '  "" 
+
+Ô  1  i 
+
+V  1  i 
+
+1  o 
+
+lo 
+
+Iu 
+
+in 
+
+1  a 
+
+la 
+
+I  e 
+
+__  ,  • 
+
+P  It 
+
+X  1  i  1 
+
+1  0 
+
+lo 
+
+1  u 
+
+1  n  1 
+
+1  a 
+
+/ 
+
+■  i. . ...  .I,. .  1— 
+
+la  I 
+
+I  e 
+
+1  G  *  | 
+
+ft  I  i 
+
+2  l  i  "  1 
+
+1  0 
+
+!  C«'~t  " 
+
+1  0 
+
+Tu 
+
+aiu 
+
+Mr. 
+
+
+% 
+
+
+Epiftle.  Mr»  LockV  Letter  to  Monfieur  Toi- 
+nard,  containing  a  New  and  Eajîe 
+Method  of  making  Common-Place 
+Books,  an  exa£f  Index  of  which  may 
+be  made  in  Two  Pages • 
+
+
+€ 
+
+c 
+
+£ 
+
+C 
+
+4 
+
+£ 
+
+£ 
+
+£ 
+
+C 
+
+
+4 
+
+£ 
+
+€ 
+
+& 
+
+6 
+
+C 
+
+€ 
+
+l 
+
+e 
+
+4 
+
+£ 
+
+C 
+
+& 
+
+fc. 
+
+
+Do  at  length,  Sir,  obey  you  in  Pub- 
+lifting  my  Method  of  making  Com- 
+mon-Place  Books.  I  am  afhàmed 
+that  I  ftould  be  fo  backward  in  Comply¬ 
+ing  with  your  Defires  but  that  which 
+you  requeued  of  me,  teemed  to  me  a 
+Thing  fo  inconiiderable,  that  I  thought 
+it  not  worthy  of  publick  View,  efpeci- 
+ally  in  an  Age  fo  abounding  with  Fine  In¬ 
+ventions  as  ours. 
+
+c  You  know  that  I  voluntarily  comm u- 
+niçateà  this  Method  to  you,  as  I  have 
+done  to  many  others,  to  whom  I  believed 
+it  would  not  be  unacceptable.  It  was 
+not  then,  as  if  I  defign'd  it  for  my  own 
+private  life  alone,  that  I  have  hitherto  re¬ 
+fus’d  the  making  of  it  Publick.  I  was  of  O- 
+pinion,  that  the  Refpett  which  One  ought 
+to  have  for  the  Publick,  would  not  fuller 
+me  to  prefent  it  with  an  Invention  of 
+fo  Imall  an  Importance  *,  but  the  Obliga¬ 
+tions  which  you  have  laid  me  under,  and 
+our  Common  Friendfhip,  do  not  permit 
+me  any  longer  to  decline  the  following 
+your  Advice.  Your  laft,  Sir,  has  wholly 
+determin’d  me,  and  I  believe  that  I  ought 
+
+
+*  not  to  flick  at  the  Publilhing  my  Method 
+c  fince  you  tell  me  that  you  have  found 
+c  it  very  ufeful  after  a  Trial  of  feveral 
+c  Years,  as  well  as  thofe  of  your  Friends, 
+c  to  whom  you  have  Communicated  it.  It 
+
+*  is  needlefs  for  me  here  to  relate  what 
+c  Profit  I  my  felf  have  reap’d  by  the  Ufe 
+
+*  of  it  for  above  Twenty  Years. 
+
+É  I  have  fufficiently  Entertain’d  you 
+e  with  it  when  I  was  at  Parity  about 
+c  Seven  or  Eight  Years  ago,  while  I  might 
+c  have  receiv’d  great  Benefit  by  your  Learn- 
+€  ed  and  Agreeable  Convention.  All  the 
+6  Advantage  that  I  aim  at  from  this  Wri- 
+
+*  ting  is  publickly  to  teftifie  the  Efteettl 
+
+*  and  Refpeft  that  I  have  for  you  and  to 
+c  declare  how  much  I  am,  Sir,  Your,  &c • 
+
+SEfore  we  come  to  the  Matter  in  Hand \ 
+it  may  not  b  e  amifs  to  remark ,  that 
+this  Method  is  put  in  the  fatne  Order 
+that  the  Colie  ft  ions  ought  to  be  put  in .  Tou 
+will  perceive  by  the  Reading  of  that  which 
+follows  what  the  Heads  mean ,  which  you  fee 
+at  the  Top  of  the  Back  of  every  Leaf  and  at 
+the  Bottom  of  this  Page . 
+
+IONITE  S.]  In  theGofpel  of  the  Ebio~ 
+nit  es,  which  they  called  the  Gofpel  accord» 
+ing  to  the  Hebrews ,  the  Hiftory  which 
+is  in  Matthew  XIX.  16.  and  the  follow¬ 
+ing  ones,  was  thus  alter’d  ^  One  of  the  Rich 
+Men faid  unto  him,  Mafter ,  What  good  thing 
+muft  I  do  that  I  may  have  Eternal  Life  ? 
+Jejus  faid  unto  him ,  obey  the  Law  and  the 
+Prophets .  He  anfwered ,  f  have  done  it, 
+Jefus  faid  unto  him ,  go  fell  I 
+
+
+Adverfarî-  I  take  a  White  Paper  Book  of  what  , 
+•rum  Me-  Size  I  think  fit,  I  divide  the  Two  Firft 
+
+which  face  one  another,  by  parallel 
+©/  Common  Lines,  into  Five  and  Twenty  equal  parts, 
+Placci.  with  Black  Lead  ^  after  that,  1  cut  then? 
+perpendicularly  by  other  Lines,  which  I 
+draw  from  the  Top  of  the  Page  to  the 
+Bottom,  as  you  may  fee  in  the  Table  or 
+Index,  which  I  have  put  before  this  Wri¬ 
+ting  Afterwards  I  mark  with  Ink  every 
+Fifth  Line  of  the  Twenty  Five  that  I  juft 
+now  fpeke  of. 
+
+[  The  other  Unes  are  made  with  Red 
+Lead)  but  for  Convemency  one  may  make 
+them  wiih  Black  Lead ,  which  ü  better  for 
+XJfe  than  Red  Lead .  ] 
+
+I  put  at  the  Beginning  of  every  Fifth 
+Space,  or  before  the  Middle,  One  of  the 
+Twenty  Letters  which  are  defign’d  for  this 
+life }  and  a  little  farther  in  every  Space, 
+One  of  the  Vowels  in  their  Natural  Order. 
+This  is  the  Index  of  Table  of  the  whole 
+Volume,  be  it  of  what  Size  foever.  \  * 
+
+The  Index  being  thus  made,  I  mark  out, 
+in  the  other  Pages  of  the  Book,  the  Margin 
+with  Black  Lead  *  I  make  it  about  the  big- 
+nefs  of  an  Inch,  or  a  little  bigger,  if  the 
+Volume  be  in  rolio^  but  in  a  lefs  Volume 
+the  Margin  is  proportiônably  lefs  alfo. 
+
+If  I  would  put  in  y  Thing  in  my  Com¬ 
+mon-Place  Book,  I  look  a  Head  to  which 
+l  may  refer  it,  that  I  may  be  able  to  find 
+
+m 
+
+
+C  5  ) 
+
+ic  when  I  have  Gccafion.  Every  Head 
+ought  to  begin  with  forne  Confiderable 
+Word  that  is  Eflencialto  the  Matter  treated 
+of,  ana  of  this  Word  one  mud:  carefully 
+
+Èbferve  the  Firft  Letter,  and  the  Vowel 
+fhich  follows  it  $  for  upon  thefe  Two 
+otters  depends  the  whole  Ufe  of  our  In* 
+Ilex. 
+
+I  •  .  •  i  J  -  'i  -  Â  •'*.*«•*  3  r  ' 
+
+I  «*•  '  V  ‘  /  X  V  L  '  V  , 
+
+I  leave  out  Three  Letters  of  the  Alpha¬ 
+bet  as  ufelefs,  to  wit,  K,  Y,  W,  which 
+are  fùpplîed  by  C,  1,  U,  Letters  of  a  like 
+Power.  I  put  the  Letter  Q^,  which  is  al¬ 
+ways  followed  by  an  U  in  the  Fifth  Space 
+>f  Z.  By  this  throwing  of  the  Letter 
+Ünto  the  laft  Space  of  my  Index,  I  pre¬ 
+serve  its  Uniformity,  and  do  not  at  all 
+horten  the  Length  of  it  :  For  it  very  feh 
+lorn  happens  that  one  meets  with  an  Head 
+hat  begins  with  Z  U,  and  I  have  not 
+bund  fo  much  as  One  for  the  Space  of 
+rive  and  Twenty  Years,  during  which 
+Time  I  have  made  ufe  of  this  Method, 
+fet  neverthelefs,  if  it  be  needful,  nothing 
+/ill  hinder  but  that  you  may  put  it  in  the 
+irrie  Space  with  CLÜ,  provided  you  make 
+)me  Sort  of  Diftinftion. 
+
+But  one  may^  for  more  Exaftnefs,  affila 
+p  CLa  Place  at  the  Bottom  of  the  Inde», 
+frhich  I  have  done  formerly. 
+
+When  I  meet  with  any  thing  worth  put- 
+ng  into  rriy  Coriimon-Place-Book,  I  pre» 
+
+C  fendy 
+
+
+V,  (  6  ) 
+
+A  DVE  R  S  ARID  RUM  MÉTHODUS. 
+fently  look  for  a  proper  Head.  Suppofe, 
+for  Example,  the  Head  were  Epiftle  ;  I 
+look  in  the  Index  the  Firft  Letter  with 
+the  Vowel  that  follows,  which  in  this 
+Cafe  are  E  I.  If  there  is  found  any  Num¬ 
+ber  in  the  Space  marked  E  I,  that  fhows 
+me  the  Space  defign’d  for  Words  which 
+begin  with  E,  and  whofe  Vowel  that  im¬ 
+mediately  follows  is  I,  I  muft  refer  to 
+the  Word  Epiftle  in  that  Page  what  I 
+have  to  take  notice  of  I  write  the  Head 
+in  pretty  large  Letters,  fo  that  the  princi¬ 
+pal  Word  is  found  in  the  Margin,  and  I 
+continue  the  Line  in  writing  on  what  I 
+have  to  remark.  I  conftantly  obferve  this 
+Method,  that  nought  but  the  Head  appear 
+in  the  Margin,  and  go  on  without  carrying 
+the  Line  again  into  the  Margin.  When 
+one  has  thus  preferv’d  the  Margin  clear, 
+the  Heads  prefent  themfdves  at  Firft  Sight 
+
+If  in  the  Index  I  find  no  Number  in  the 
+Space  E  I,  I  look  in  my  Book  the  Firft 
+Backfide  of  the  Page  that  I  find  blanks 
+which  Backfide  in  a  Book  where  there  is 
+nothing  elfe  but  the  Index,  muft  be  the 
+Second  Page. 
+
+I  write  then  in  my  Index  after  E  l  the 
+Number  2,  and  the  Head  EPISTLE  at 
+the  Top  of  the  Margin  of  the  Sêcond 
+Page,  and  all  that  is  to  be  put  under  this 
+Head  in  the  fame  Page,  as  you  fee  I  have 
+dons  in  the  Second  Page  of  this  Writing. 
+
+Since 
+
+
+(  7  ) 
+
+Since  the  Clafs  E  I  does  folely  take  up 
+the  Second  and  Third  Page,  one  may  make 
+life  ofthofe  Pages  only  for  Words  which 
+begin  with  E,  and  whofe  next  Vowel  is  I, 
+as  Epicitrus*Ebi critics,  Epigram ,  Editl,  &c. 
+The  Reafon  why  I  always  begin  at  the 
+Top  of  the  Back  of  the  Page,  and  that  I 
+alkgn  to  one  Clafs  the  Two  Pages  which 
+face  one  another*  rather  than  a  whole  Leaf^ 
+is  that  the  Heads  of  this  Clafs  may  appear 
+all  at  once,  otherwife  you  muft  be  at  the 
+Trouble  of  turning  over  the  Leaf 
+
+Whensoever  I  would  write  a  new  Head, 
+in  my  Common-Place- Book,  I  lookprefent- 
+ly  in  my  Index  for  the  Chara&eriftick  Let¬ 
+ters  of  the  Word,  and  I  fee  by  the  Num- 
+ner  which  follows  them  where  rhe  Page 
+saffign’d  to  the  Clafs  of  this  Head  is.  But 
+
+iT  there  be  no  Number  to  be  found,  I  muft 
+ook  the  Firft  Back  of  the  next  Blank  Page, 
+mark  its.  Number  in  the  Index,  and  io 
+preferve  this  Page,  with  the  Right  Side 
+bf  the  following  Leaf,  for  this  new  Clafs. 
+Let  the  Word  be  for  Example  Adverfaria, 
+f  I  fee  no  Number  in  the  Space  A  E,  I  look 
+he  Firft  Empty  Back  of  a  Leaf,  which 
+finding  in  the  Fourth  Page,  I  put  in  the 
+Space  A  E  the  Number  4,  and  in  the  4th 
+^age  the  Head  Adverfaria ,  with  all  that 
+)Ught  to  be  put  under  this  Head ,  as  I  have 
+(Ready  done. 
+
+After  that,  this  Fourth  Page  with  the 
+Fifth  that  follows  it,  is  referv’d  for 
+
+C  2  f  the 
+
+
+*  See  the 
+Bottom  of 
+the  Third 
+Page. 
+
+
+V.  (8.) 
+
+A  DV  ER  SA  RIO  RUM  METHQWS. 
+the  Clafs  A  E  -,  that  is  to  fay  for 
+heads  which  begin  with  A,  and  where 
+the  following  Vowel  in  the  Word  is  E, 
+as  Agefilaus  Aehercn^  KngQx,  (5»  c. 
+
+:  VVhen  the  Two  Pages  defignM  for 
+
+this  Head  are  quite  full,  then  look  for 
+the  Back  of  the  next  Blank  Page  :  If 
+it  is  that  which  immediately  follows, 
+I  write  at  the  Bottom  of  the  Margin 
+>  in  the  Page  that  I  have  laft: 
+
+filled  up,  the  Letter  V,  that  is  Verte, 
+Turnover ^  and  likewilë  at  the  Top  of 
+the  Page  Following,  If  the  Pages  which 
+immediately  follow  are  already  taken 
+up  by  other  Clafles,  I  write  at  the  Bot¬ 
+tom  of  the  Page  lalt  filled  up  the  Num¬ 
+ber  of  the  next  Back  of  the  Page.  I 
+fet  down  again  the  head  of  which  it 
+treats,  .under  which  I  go  on  to  write 
+what  I  have  to  put  into  my  Common - 
+Vlace-Book^  as  if  it  were  in  the  fame 
+Page.  At 11  the  Top  of  this  new  Back  I 
+fet  down  alfo  the  Number  of  the  Page 
+which  has  been  laft  filled  up.  By  thefie 
+Numbers,  which  refer  to  one  another, 
+therft  of  which  is  at  theEnd  ofonePage, 
+and  the  2d  at  the  Beginning  of  another, 
+one  reads  the  Matter  which  is  fepara- 
+ted  as  well  as  if  there  was  nothing  be¬ 
+tween  them.  For  by  this  Reciprocal 
+Reference  of  Numbers,  one  turns  over 
+as  one  Leaf  all  thofe  which  are  between 
+them,  as  if  they  were  join’d  together, 
+■“  :  *  '  '  *  :  .  :  *  You 
+
+
+(9) 
+
+Y  ou  have  an  Example  of  it  in  the 
+Third  and  Fourteenth  Pages. 
+
+Every  Time  I  put  a  Number  at  the 
+Bottom  of  a  Page,  I  put  it  alfb  in  the 
+Index  ;  but  when  I  put  only  V,  I  make 
+no  Alteration  in  the  Index  *,  the  Reafon 
+of  which  you  will  learn  by  U(e. 
+
+If  the  principal  Word  of  the  Head 
+be  a  Monofyllable,  (  or  a  Word  of  One 
+Syllable)  and  begins  with  a  Vowel,  this 
+Vowel  is  at  the  fame  Time  both  the 
+Firft  Letter  of  the  Word,  and  the  Cha-  ' 
+raftetiftick  Vowel  ;  fo  I  write  the  Word 
+Art  in  A  a,  and  Elf  in  E  ef 
+It  may  be  fèen  by  what  I  havefaid, 
+that  one  is  to  begin  to  write  every  Clafs 
+of  Words  on  the  Back  of  the  Page. 
+
+It  may  from  thence  happen  that  the 
+Backs  of  all  the  Pages  may  be  full, 
+while  there  may  be*Right  Sides  enough  *  see  the 
+which  do  yet  remain  empty.  If  you  Fifteenth, 
+have  a  Mind  then  to  fill  up  the  Book,  Sevent^fnt^ 
+you  may  affign  thefe  Right  Sides,  which  ™mtfj  p#. 
+are  yet  entirely  blank,  to  new  Clafles.  ges,  &c<, 
+
+If  any  one  thinks  that  thefe  Hundred 
+ÇlafTes  are  not  fufficient  to  take  in  all 
+I  Sorts  of  SubjeSs  without  Confulion,  he 
+may,  following  the  fame  Method,  in- 
+creaiè  the  Number  to  Five  Hundred,  by 
+adding  a  Vowel.  But  having  try’d  both 
+the  one  and  the  other  Method,  I  pre- 
+I  fer  the  former,  and  Ufe  will  convince 
+thofe  that  (hall  ma^e  Tryal  of  it  that 
+it  is  fufficient  for  all  Subjects,  efpecial- 
+
+
+V. 
+
+
+( 10  ) 
+
+AD  VE  RSA  R 10  R  UM  METHODES 
+’  ly  if  they  have  a  Book  for  every  Sci¬ 
+ence,  in  which  they  make  their  Col  lé¬ 
+sions,  or  at  leaft  Two,  for  the  Two 
+Heads  to  which  we  may  refer  all  our 
+Knowledge,  to  wit,  Moral  and  Natu¬ 
+ral  Fhilofofhy. 
+
+One  may  alfo  add  to  them  a  Third 
+Book,  which  you  may  call  the  Science , 
+or  Knowledge  of  Stgns^ vÿhiçh  refpeQs  the 
+Ufë  of  Words,  and  is  of  far  larger  Ex¬ 
+tent  than  the  Ordinary  Critical  Art. 
+
+As  for  the  Language  in  which  one 
+ought  to  exprefs  the  Titles,!  believe  the 
+Latin  Tongue  to  be  the  moft  Conveni¬ 
+ent,  provided  one  always  obferves  the 
+Nominative  Cafe,  leaft  in  DifTyllables, 
+(  or  Words  of  Two  Syllables)  or  in 
+Monoiyllables  which  begin  with  a  Vow¬ 
+el  ,the  Change  which  happens  in  the  Ob¬ 
+lique  Cafes  lhould  caufè  Confufion.  But 
+it  does  not  much  matter  what  Language 
+you  make  life  of,  provided  you  do  not 
+mix  the  Heads  of  different  Languages 
+together. 
+
+To  remark  a  Place  in  an  Author  from 
+whom  I  would  coIleS  any  Thing  j 
+make  Fife  of  this  Method:  Before  ! 
+write  down  any  thing  I  put  the  Name 
+of  my  Author  in  my  CommonPlace- 
+Book,  and  under  that  Name,  the  Tide 
+x  of  the  Treatife  I  am  reading,  the  Vo¬ 
+lume,  the  Time  and  Place  of  the  Edi¬ 
+tion,  arid  (  what  ought  never  to  be  o- 
+
+mitted  ) 
+
+
+(  1»  ) 
+
+muted)  the  Number  of  the  Pages  that 
+the  whole  Book  contains.  For  Exam¬ 
+ple,  I  put  in  the  Clafs  M.  A.  Mar - 
+Jhami  Canon  Cbronicus ,  Ægyptiacus , 
+Grjecus ,  07’  Tifquijitiones ,  Fb/.  Tond. 
+1672,  p.626.  This  Number  of  the 
+Pages  ferves  me  for  the  future  to  mark 
+the  Particular  Treatife  of  the  Author, 
+and  the  Edition  that  I  make  ule  of.  1 
+have  no  more  Need  to  mark  the  Place 
+otherwife,  than  by  putting  in  the  Num¬ 
+ber  of  the  Page  from  whence  I  have 
+Collected  what  I  have  writ  over  the 
+Number  of  the  Pages  of  the  whole  Vo¬ 
+lume.  You  will  lee  an  Example  of  it 
+in  Acberujia ,  where  the  Number  259 
+is  over  the  Number  626 ,  that  is  to  fay, 
+the  Number  of  the  Pages  where  the  Place 
+is  that  is  treated  of,  over  the  Number 
+of  the  Pages  of  all  the  Volume.  So  I  not 
+only  avoid  the  Trouble  of  writing  Ca~ 
+non ,  ©V.  but  I  can  alfo,  by  the  Help  of 
+f  he  Rule  of  Three ,  find  the  fame  Paffage 
+in  any  other  Edition  whatever,  by  look¬ 
+ing  the  Number  of  Pages  that  the  Edi¬ 
+tion  I  have  not  made  u ê  of  contains  ; 
+ince  the  Edition  which  I  have  ufed  ha- 
+ing  626  Pages,  hath  given  me  25 9,  I 
+onfefs  one  does  not  always  hit  upon 
+he  very  Page,  becaule  of  the  Spaces 
+hich  may  be  made  in  different  Editi¬ 
+ons,  which  are  not  always  propor- 
+ionably  equal  ^  but  neverthelels  y  ou  are 
+never  very  far  off  of  the  Page,  and  it  is 
+
+much 
+
+
+V.  Cl») 
+
+ADVERSARIORUM  METHODUS. 
+much  better  to  find  out  the  Paffage  with¬ 
+in  fome  few  Pages  of  the  Plate,  than  to 
+be  at  the  Trouble  of  turning  over  the 
+whole  Book  to  find  it  ;  as  you  mult 
+do  if  the  Book  has  no  Index,  or  where 
+the  Index  is  not  very  correfi 
+
+A  C  H  E  R  U  S I  A .  ]  F  rat  urn ,  fid  a  moriu- 
+orum  Habitatio  eft  Locus  prope  Mem- 
+phim^juxtci  P alude m,  quam  vacant  Ache - 
+rufiam. ,  0V.  This  is  a  Paffage  taken  out 
+of  the  Firft  Book  of  Diodorus  Siculus , 
+the  Senfe  of  which  is  this  :  The  Fields, 
+where  they  feign  the  Habitation  of  the 
+Dead  to  be,  is  a  Place  not  far  from 
+Memphis ,  near  the  Marfh  called  Ache- 
+rufia. ,  where  there  are  mofi:  Delightful 
+Fields,  with  Lakes  and  Woods  of  Lotus 
+and  Calamus* 
+
+It  is  not  without  Reafon  then  that 
+Orpheus  fays  the  Dead  inhabit  thofè 
+Places,  becaufe  it  is  there  that  the  moft 
+and  greateft  Funeral  Solemnities  of  the 
+^Egyptians  are  Celebrated  ;  they  carry 
+the  Dead  over  the  River  Niie^  and  the 
+Marfh  Acherufia ,  and  lay  them  in  Sub¬ 
+terraneous  Vaults. 
+
+There  are  other  Stories  among  the 
+Grecians  concerning  the  Shades  below, 
+which  are  very  like  thofe  Stories  which 
+are  invented  at  this  Day  in  Ægypt .  For 
+
+they 
+
+
+r- 
+
+C 
+
+
+C  Ï3  ) 
+
+they  call  the  Boat  which  carries  over  the 
+Dead  Darts  y  and  a  Piece  of  Money  is 
+given  to  the  Waterman  for  his  Paffage, 
+whofe  Name  in  the  Language  of  that 
+Country  is  called  Charon.  Not  far  from 
+this  Place  there  is  the  Tetnple  of 
+Gloomy  Hecatey  alio  the  Gates  of  Cocy- 
+tus  arid  Lethe ,  {hut  up  with  great  Bra¬ 
+zen  Bars  -,  there  are  alfo  otlief  Gates, 
+:alled  the  Gates  of  Truth,  before  which 
+ftands  the  Statue  of  Juftice  without  an 
+[dead. 
+
+
+2  %  <V 
+
+ÏTT’ 
+
+
+•  c\  ' 
+
+
+¥  ' 
+
+f  ^  * 
+
+*  *  *• 
+
+?  r  \  "i 
+
+
+.  ■  3  i  i  V  -  - 
+
+v.  >  v 
+
+•  -  ,  v 
+
+
+D 
+
+
+E  B I O- 
+
+
+■ 
+
+
+(  14  )  3. 
+
+X  ÈBIONÏTES.]  Sell  all  that  thouhafl f 
+and  give  it  ta  the  Poor^  then  come  and 
+follow  me  ?  But  at  that  the  Rich  Man  be- 
+gan  to  fcratch  his  Head,  and  was  not  at 
+all  pleas'd  with  the  Advice  that  fefus 
+gave  him .  And  the  Lord  faid  unto  him, 
+how  fay  you  I  have  fulfilled  the  haw  and 
+the  Prophets ,  Jince  It  is  written  in  the 
+Law,  thou  Jhalt  love  thy  Neighbour  m 
+*fhy  felfs  and  lo  there  are  many  of  thy 
+Brethren ,  the  Children  of  Abraham*  who 
+have  bad  Raiment  %and  die  with  Hunger, 
+while  no  Help  is  admini fired  to  them 
+fromyou ,  thd your Houje  abounds  with  all 
+Good  Things  ?  And  having  turnd  to  Si¬ 
+mon*  bis  Difciple *  who  fat  next  him ,  Si¬ 
+mon,  thou  Son  of  Johanna*  laid  he,  it 
+m  eaficr  for  a  Camel  to  go  through  the 
+Eye  of  a  Needle ,  than  for  a  Rich  Man 
+to  enter  into  the  Kingdom  of  Heaven . 
+Ebion  alter’d  this  Paffage  of  the  Gofpel, 
+fcecaufe  he  did  not  acknowledge  Chrift 
+to  be  the  Son  of  God,  nor  a  Law-giver, 
+but  a  bare  Interpreter  of  the  Law  which 
+was  given  by  Mofes*  Grotius  A44^*- 
+
+
+(  ?<S.) 
+
+HERETICKS.]  Nofirum  agi  tuf  ju 
+eligere  &  opt  are  meliora ,  ut  ad  vejira 
+correÜïonem  aditum  haberemus.  Aug, 
+Jtinus  Tom.  VI,  Col .  11 6,  fol.  Bafih 
+15:42.  contra  Epifl.  Mamchfii^  quam  z 
+cant  Yundamenti.  46  W e  believed  th 
+u  other  Methods  ought  to  be  taken  , 
+Order  to  'make  you  retrad  your  E 
+“  rors  ;  Affronts  and  Inve&ives  are  l 
+tc  all  Means  to  be  avoided,  ill  tlfas 
+<c  and  Perfection  are  never  likely  t 
+Ê£  fucceed  ^  but  the  only  Way  to  dra1 
+a  you  is  by  kind  Difeourfes  and  Exhorte 
+4,4  tiens,  which  may  demonft rate  our  tei 
+der  Concern  for  you -,  according  to  th 
+of  the  Scripture,  a  Servant  of  tl 
+C£  Lord  ought  not  to  be  Quarrelfom,  b 
+u  Gentle  to  all  Men  *  Apt  to  teach, Par 
+ent.and  with  Modefty9to  reprove  the 
+H  that  are  not  like-minded. Let  thole  Pc 
+fons  rigoroufly  treat  you,  who  known 
+how  difficult  it  is  to  come  to  the  Knoi 
+ledge  of  Truth,  and  to  avoid  Errors.  I 
+thofe  Perlons  rigoroufly  treat  you,  wl 
+know  not  how  hard  a  Matter  it  is,  ai 
+and  how  feldorn  Effefted,  to  car 
+Carnal  Imaginations  to  give  way  to  Sj 
+ritual  and  Pious  ones.  Let  thofe  Perfc 
+rigoroufly  treat  you,  who  are  not  fen 
+bleof  the  extream  Difficulties  that  the 
+are  to  purifie  the  Eye  of  the  imva 
+Man,  in  Order  to  make  it  capable 
+perceiving  Truth,  which  is  the  Sun 
+aotlie  Soul  Let 
+
+—  COI 
+
+
+« 
+
+
+(  «8  ) 
+
+CONFESSION  OF  FAITH.]  Pt- 
+
+riculofum  nobis  admodum  at  que  et  i am 
+miferabile  eft,  tot  nunc  Jides  exiftere , 
+quoi  vo! unt  at  es  ^  &  tot  nobis  doQrinas 
+ejfe  quot  mores ,  & e.  Hilarius ,  p*  2 1 1 . 
+in  Lib .  ad  Confiant ium  Augu  fium*  BaJiL 
+3  570,  E>/.  It  is  a  Thing  both  Deplora¬ 
+ble  and  Dangerous,  that  there  are  now 
+as  many  Confeffions  of  Faith  as  there 
+are  Wills,  as  many  Opinions  as  Incli¬ 
+nations,  and  as  many  Sources  of  BlaC 
+phemy  as  there  are  Vices,  whilft  we 
+make  as  many  Confeffions  of  Faith  as  we 
+pleafe,  andGlofs  upon  them  as  we  think 
+fit*  And  as  there  is  but  OneH  God^  One 
+Lord,  and  One  Baptifm,  fo  there  is  but 
+One  Faith,  which  One  Faith  we  Re¬ 
+nounce  when  we  make  many  different 
+Confeffions  1  and  certainly  this  Diverfi- 
+ty  is  the  Caufe  that  there  is  no  more 
+true  Faith  to  be  found.  We  are  con¬ 
+vinc'd,  that  after  the  Council  at  Nice 
+there  was  nothing,  either  on  one  Side 
+or  t'other,  but  writing  Confeffions  of 
+Faith.  And  while  they  contend  about 
+Words,  while  they  debate  about  Novel 
+Queftions,  while  they  dilpute  about  E- 
+quivocal  Terms,  while  they  complain 
+©f  Authors,  while  every  Body  endea¬ 
+vours  to  advance  his  own  Party,  while 
+
+24130  one  can  agree, 
+
+
+HERS 
+
+
+(  io  )  i€. 
+
+HERETICKS.]  Let  thofe Perfons  r  igo- 
+roufly  treat  you, who  know  not  how  many 
+Sighs  and  Groans  it  cofts  before  one  can 
+attain  to  any  fmall  Knowledge  of  the 
+Divine  Being.  Finally,  let  thofe  Per¬ 
+fons  rigoroiiflv  treat  you,  who  were  ne¬ 
+ver  fèduc’d  by  fuch  Errors  as  they  lee 
+you  have  been  deceiv’d  by*  I  pafs  by 
+that  molt  pure  Wifdom,  to  the  Know¬ 
+ledge  of  which  very  few  Spiritual  Per¬ 
+fons  arrive  at  in  this  Life  *  yet  although 
+they  know  it  but  in  very  fmall  Meafure, 
+becaufe  they  are  Men,  yet  they  know 
+it  without  doubting.  For  in  the  Catho** 
+lick  Church  it  is  not  Penetration  of 
+Wit,  nor  Depth  of  Knowledge,  but  the 
+Simplicity  of  the  Faith,  which  makes 
+People  fure  and  fafe. 
+
+Barbari  quippe  homines  Roman <e,  imo 
+potius  humanœ  eruditions  expertes ,  qui 
+nihil  omnino  fciunt ,  nifi  quod  a  Doftori - 
+bus  fuis  audiunt  \  quod  audiunt  hoc  fe- 
+quuntur,  &c.  Salvianus  The  Senfo 
+of  which  take  as  follows.  This  Bilhop 
+Ipeaking  of  the  Arian  Goths  and  Van - 
+dais.  They  are  a  Barbarous  People, 
+fays  he,  who  have  not  any  Tafte  of  the 
+Roman  Learning,  a'nd  who  are  ignorant 
+even  of  thofe  Things  with  which  almoft 
+all  the  reft  of  Mankind  are  acquainted  5 
+they  know  nothing  but  wliat  they  have 
+learnt  from  their  Do&ors,  and  mind 
+nothing  but  wbat  they  have  heard  from 
+them.  Whence  People  fo.  ignorant  as 
+
+thefo 
+
+
+(It) 
+
+thefe  are,  find  themfelves  under  a  Me* 
+eeftity  of  learning  the  Myfteries  of  the 
+Gofpel,  rather  from  the  InftruQ.ipns 
+which  are  given  them,  than  from  the 
+Reading  of  Books.  Therefore  the  Tra¬ 
+dition  and  receiv'd  Doftrine  of  their 
+IVGfttss  are  the  only  Rule  that  they 
+follow,  becaufe  they  know  nothing  but 
+what  they  have  taught  ’em.  They  are 
+Here  :ck  - /put  they  know  not  that  they  are 
+fa.  T ney  are  fo  indeed  in  our  Efteem, 
+but  they  don't  at  all  believe  it  -,  yea,  on 
+the  contrary,  they  reckon  themfelves  to 
+be  true  C  '  nolicks,  and  Brand  us  with 
+the  Title  of  Hereticks.  They  judge 
+therefore  of  us  juft  as  we  do  of  them, 
+tWe  are  perfuaded  with  our  felves  that 
+they  do  Wrong  to  the  Divine  Generati¬ 
+on, in  maintaining  the  Son  to  be  inferiour 
+:o  the  Father.  They  imagine  that  we 
+lerogate  from  the  Glory  of  the  Father 
+)ecaufe  we  believe  them  to  be  EquaL 
+the  Truth  is.  on  our  Side,  but  they  pre* 
+end  it  is  on  theirs.  We  give  all  due 
+fonour  to  God,  and  they  think  that 
+heir  Belief  tends  more  to  the  Honour 
+f  God  than  ours.  They  are  wanting 
+n  their  Duty  to  God,  but  this  they 
+ount  the  higheft  Duty  of  Religion  * 
+nd  they  make  true  Piety  to  confift  in 
+aat  which  we  have  a  quite  contrary  0- 
+inion  of.  They  are  then  in  an  Error, 
+ut  yet  they  are  Sincere-,  and  it  proceeds 
+ot  from  an  Hatred,  but  Love  of  God. 
+
+E  -  ‘  Hfr 
+
+
+V.  (  22  ) 
+
+HERETICKS.]  For  they  pretend  that 
+by  it  they  do  better  teftifie  the  RefpeEi 
+they  have  for  God,  and  their  Zeal  for 
+bis  Glory.  Therefore  although  they 
+have  not  a  right  Faith,  yet  they  never- 
+thelefs  look  upon  it  as  a  perfect  Love 
+of  God.  How  thefe  Ferions  will  be 
+punilhed  for  their  Errors  at  the  Day  of 
+Judgment  the  great  Judge  of  the  Uni- 
+verfe  alone  fcnows.  In  the  mean  Time 
+I  believe  that  God  exercifes  his  Patience 
+toward!  them,  becaufè  he  fees  that  their 
+Heart  is  more  tight  than  their  Faith; 
+and  that  when  they  do  deceive  them* 
+lelves,  it  is  an  Affeffcion  for  Piety  that 
+Is  the:Cauf@  of  their  Error. 
+
+
+4 
+
+
+V  \  1 
+
+
+k 
+
+
+\  •(  )  ^8* 
+
+CONFESSION  OF  FAITH.]  While  no 
+one  can  agree,  while  they  Anathema¬ 
+tize  one  another,  there  is  fcarce  any  that 
+flicks clofe  10  Jefus  Chrift.  W hat  Change 
+was  there  in  the  Confeffion  of  Faith  but 
+l&ft  Year  ?  The  Firft  Synod  of  the  Ari- 
+cene  Council  ordains  that  nothing  fho  Jd 
+be  faid  concerning  the  Homoujiex  ^  the 
+Second  orders  and  ordains  jhat  they 
+ihould  fneak  of  it  *,  the  Third  exc  As 
+the  Fathers  of  the  Council,  and  pretends 
+that  they  took  the  Word  Oufta  limply  *, 
+laftly,  the  Fourth,  in! read  of  excufing, 
+condemns  Am.  As  to  the  Refemblance 
+of  the  Son  with  his  Father,  which  is  the 
+Confeffion  of  Faith  of  thefe  unhappy 
+Times,  they  difpute  whether  he  is  like 
+in  the  Whole,  or  only  tn  Part.  Behold 
+what  Fine  Inquirers  thefe  are  into  the  Se¬ 
+crets  of  Heaven  !  In  the  mean  while, 
+it  is  upon  the  Account  of  thefe  Confef- 
+fions  of  Faith  about  the  invifible  Myfte- 
+ries,  and  about  our  Faith  in  God,  that 
+we  thus  Calumniate  one  another.  We 
+make  Confeffions  every  Year,  andalfo 
+every  Month  *  we  Repent  of  what  we 
+have  done,  we  Defend  thofe  that  Repent 
+of  Am,  and  afterwards  Anathematize 
+thofe  we  have  defended  :  So  we  Con¬ 
+demn  either  the  Opinions  of  gthers  in 
+our  feh7es,  or  our  own  Opinions  in  o- 
+thers  and  in  thus  Tearing  one  another 
+to  Pieces,  we  have  been  the  Caufe  of 
+each  others  Ruin. 
+
+FINIS 0  ' 
+
+
+(  *5  ) 
+
+
