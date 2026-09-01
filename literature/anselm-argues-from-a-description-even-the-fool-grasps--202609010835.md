@@ -12,6 +12,8 @@ locator: Proslogium, Preface and chs. 1-5 (Deane trans.)
 links:
 - target_id: anselm-proslogium--202609010830
   relation: source
+- target_id: anselms-formula-identifies-god-by-description-alone--202609010840
+  relation: supports
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

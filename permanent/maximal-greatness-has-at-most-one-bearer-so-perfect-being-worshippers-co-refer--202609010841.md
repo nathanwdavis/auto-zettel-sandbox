@@ -25,6 +25,10 @@ links:
   relation: shared-concept
 - target_id: the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016
   relation: shared-concept
+- target_id: beckwith-argues-classical-theism-permits-only-one-god--202609010836
+  relation: shared-concept
+- target_id: beckwith-locates-co-reference-in-general-revelation--202609010837
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

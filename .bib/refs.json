@@ -622,5 +622,61 @@
     "publisher-place": "Lewiston, N.Y.",
     "title": "The Teleological Argument and the Anthropic Principle",
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.gutenberg.org/ebooks/45001",
+    "author": [
+      {
+        "family": "Calvin",
+        "given": "John"
+      }
+    ],
+    "id": "202609011032",
+    "issued": {
+      "date-parts": [
+        [
+          1813
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1559
+        ]
+      ]
+    },
+    "publisher": "Presbyterian Board of Publication",
+    "publisher-place": "Philadelphia",
+    "title": "Institutes of the Christian Religion",
+    "translator": [
+      {
+        "family": "Allen",
+        "given": "John"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/hodge/theology1.html",
+    "author": [
+      {
+        "family": "Hodge",
+        "given": "Charles"
+      }
+    ],
+    "id": "202609011033",
+    "issued": {
+      "date-parts": [
+        [
+          1872
+        ]
+      ]
+    },
+    "publisher": "Scribner, Armstrong, and Co.",
+    "publisher-place": "New York",
+    "title": "Systematic Theology",
+    "type": "book",
+    "volume": "1"
   }
 ]

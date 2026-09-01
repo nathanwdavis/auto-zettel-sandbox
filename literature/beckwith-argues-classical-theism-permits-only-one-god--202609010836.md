@@ -12,6 +12,8 @@ locator: full column, December 17, 2015
 links:
 - target_id: beckwith-do-muslims-and-christians-worship-the-same-god--202609010831
   relation: source
+- target_id: maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841
+  relation: supports
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

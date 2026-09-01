@@ -20,6 +20,8 @@ links:
   relation: elaborates
 - target_id: the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015
   relation: shared-concept
+- target_id: natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042
+  relation: elaborates
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
