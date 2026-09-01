@@ -455,3 +455,7 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T11:00:34Z` build_manifest: 87 notes indexed
 - `2026-09-01T11:00:36Z` lint_citations: PASS
 - `2026-09-01T11:00:36Z` lint_links: PASS
+- `2026-09-01T11:01:33Z` skill-smith: proposed source-access-triage (create, 202609011101)
+- `2026-09-01T11:08:39Z` skill_trial: source-access-triage with=0.92 without=0.963 (n=3)
+- `2026-09-01T11:08:50Z` lint_skills: PASS
+- `2026-09-01T11:08:50Z` check_skill_sandbox: PASS
