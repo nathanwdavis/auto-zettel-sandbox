@@ -821,5 +821,115 @@
     "publisher-place": "Cambridge",
     "title": "Appendix: Two Dozen (or so) Theistic Arguments",
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Ramban_on_Leviticus.18.25",
+    "author": [
+      {
+        "literal": "Moses ben Nachman (Nachmanides)"
+      }
+    ],
+    "id": "202609011530",
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1267
+        ]
+      ]
+    },
+    "publisher": "Shilo Publishing House",
+    "publisher-place": "New York",
+    "title": "Commentary on the Torah",
+    "translator": [
+      {
+        "family": "Chavel",
+        "given": "Charles B."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Tikkunei_Zohar.17a",
+    "author": [
+      {
+        "literal": "Anonymous"
+      }
+    ],
+    "id": "202609011531",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1557
+        ]
+      ]
+    },
+    "publisher": "Margalya Press",
+    "publisher-place": "Melbourne",
+    "title": "Tiqqunei ha-Zohar",
+    "translator": [
+      {
+        "family": "Solomon",
+        "given": "David"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.156.1",
+    "author": [
+      {
+        "family": "Karo",
+        "given": "Joseph"
+      }
+    ],
+    "id": "202609011532",
+    "issued": {
+      "date-parts": [
+        [
+          1565
+        ]
+      ]
+    },
+    "note": "Cited here for OC 156:1 as printed with the gloss (Mappah) of Moses Isserles, Krakow, 1578, on Karo's base text, Venice, 1565.",
+    "title": "Shulchan Arukh, Orach Chayim",
+    "type": "book"
+  },
+  {
+    "DOI": "10.1007/978-1-137-45528-4_9",
+    "ISBN": "9781137455284",
+    "author": [
+      {
+        "family": "Goshen-Gottstein",
+        "given": "Alon"
+      }
+    ],
+    "container-title": "Same God, Other god: Judaism, Hinduism, and the Problem of Idolatry",
+    "id": "202609011533",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "93-106",
+    "publisher": "Palgrave Macmillan US",
+    "publisher-place": "New York",
+    "title": "Shituf: Critical and Constructive Reflections",
+    "type": "chapter"
   }
 ]

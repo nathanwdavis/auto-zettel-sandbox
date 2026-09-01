@@ -37,10 +37,11 @@ chicago_bib: 'Bogardus, Tomas, and Mallorie Urban. “How to Tell Whether Christ
   https://doi.org/10.5840/faithphil201741178.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609010833-bogardus-urban-2017-abstract.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.5840/faithphil201741178
   verified: true
-  date: '2026-09-01T15:17:00Z'
+  identifier_check: confirmed
+  date: '2026-09-01T15:34:28Z'
 raw_capture: raw/202609010833-bogardus-urban-2017-abstract.txt
 links: []
 created: '2026-09-01'

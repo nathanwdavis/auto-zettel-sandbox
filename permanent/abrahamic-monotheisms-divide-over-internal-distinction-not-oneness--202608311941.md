@@ -19,6 +19,8 @@ links:
   relation: source
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: elaborates
+- target_id: internal-plurality-is-not-what-divides-the-monotheisms--202609011543
+  relation: contradicts
 created: '2026-08-31'
 updated: '2026-08-31'
 ---

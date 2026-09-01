@@ -566,3 +566,52 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T15:17:05Z` lint_skills: PASS
 - `2026-09-01T15:17:05Z` check_skill_sandbox: PASS
 - `2026-09-01T15:17:13Z` remote_cycle: merged origin/main (171805d, PR #26 — human promotion of source-access-triage) into this cycle's branch after the PR went un-mergeable; log.md append-append conflict resolved chronologically (promotion cycle's lines before this cycle's), manifest regenerated with the tooling, all gates re-run clean on the merged tree (offline verify 33/33, manifest --check, citations, links, skills, sandbox). Note: the promotion landed after this cycle's step-3 work order was set, so this cycle correctly ran with no approved child skills at decision time; source-access-triage is approved for future cycles
+- `2026-09-01T15:26:44Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260901152644 skill-rev=9f2fc67)
+- `2026-09-01T15:26:44Z` capture: inquiry -> inquiries/how-do-kabbalists-answer-the-same-god-question--202609011526.md
+- `2026-09-01T15:34:37Z` verify_refs: 37/37 verified
+- `2026-09-01T15:37:34Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:37:39Z` lint_citations: FAIL (1 violation(s))
+- `2026-09-01T15:37:39Z` lint_links: PASS
+- `2026-09-01T15:37:59Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:38:03Z` lint_citations: PASS
+- `2026-09-01T15:38:03Z` lint_links: PASS
+- `2026-09-01T15:38:40Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:38:40Z` lint_links: PASS
+- `2026-09-01T15:39:48Z` capture: inbox -> INBOX.md
+- `2026-09-01T15:39:48Z` capture: inbox -> INBOX.md
+- `2026-09-01T15:40:21Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:40:25Z` lint_citations: PASS
+- `2026-09-01T15:40:25Z` lint_links: PASS
+- `2026-09-01T15:40:25Z` lint_skills: PASS
+- `2026-09-01T15:41:17Z` check_skill_sandbox: PASS
+- `2026-09-01T15:53:31Z` verify_refs: 37/37 verified
+- `2026-09-01T15:53:32Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:53:36Z` lint_citations: PASS
+- `2026-09-01T15:53:36Z` lint_links: PASS
+- `2026-09-01T15:53:36Z` lint_skills: PASS
+- `2026-09-01T15:53:36Z` check_skill_sandbox: PASS
+- `2026-09-01T15:54:21Z` verify_refs: 37/37 verified
+- `2026-09-01T15:54:21Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:54:25Z` lint_citations: PASS
+- `2026-09-01T15:54:25Z` lint_links: PASS
+- `2026-09-01T15:56:23Z` verify_refs: 37/37 verified
+- `2026-09-01T15:56:23Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:56:27Z` lint_citations: PASS
+- `2026-09-01T15:56:28Z` lint_links: PASS
+- `2026-09-01T15:56:28Z` lint_skills: PASS
+- `2026-09-01T15:56:28Z` check_skill_sandbox: PASS
+- `2026-09-01T15:52:00Z` critic: permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541 groundedness 0.68 BLOCK — sense-changing ellipsis across four paragraphs drops "specific" from the attribute-denial; contrary text on the same folio ("You are known as 'Lord over All'", capture line 65) undisclosed; "fails to refer, for anyone" unsupported by a passage that supports only unknowability; "Ein Sof" absent from the capture.
+- `2026-09-01T15:52:00Z` critic: permanent/shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542 groundedness 0.72 FLAG — abstract-only source characterised beyond the abstract (Goshen-Gottstein made to name a cost he does not name; his Hindu context dropped); three-place-relation claim not borne by a permission-ruling about Jewish liability; unsourced universals ("no Christian account…", "locus classicus", "coexist without strain").
+- `2026-09-01T15:52:00Z` critic: permanent/kabbalah-separates-acknowledging-god-from-addressing-him--202609011540 groundedness 0.76 FLAG — quotation truncated to delete "believing in any of these beings" from the clause it then glosses as "not a mistaken belief"; Ramban's classification of this as the first kind of idolatry suppressed; "the kabbalistic tradition's most distinctive contribution" generalised from one commentator's exoteric taxonomy.
+- `2026-09-01T15:52:00Z` critic: permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543 groundedness 0.82 atomicity 0.9 clarity 0.9 link-quality 0.6 PASS with fixes — `refutes` overstated and asymmetric against `contradicts` written into 202608311941; "the distinctions are not nominal" is a contested atzmut/kelim reading presented as read off a passage that calls the ten produced constructs and fixed garments.
+- `2026-09-01T15:52:00Z` critic: literature/ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535 groundedness 0.85 PASS with fixes — quotations verbatim and correctly split between Lev 18:25 and Ex 20:3; "lets" in the title asserts a permission the capture does not give.
+- `2026-09-01T15:52:00Z` critic: literature/patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536 groundedness 0.82 PASS with fixes — "Ein Sof" not in the capture; the section on names omits "You are known as 'Lord over All'", the clause immediately preceding the sentence it quotes, which is how 202609011541 lost it.
+- `2026-09-01T15:52:00Z` critic: literature/the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537 groundedness 0.88 PASS — careful separation of Karo's base text from the Rema's gloss; one characterisation of uncaptured Ran/Tosafot to remove.
+- `2026-09-01T15:52:00Z` critic: literature/goshen-gottstein-calls-shituf-a-good-internal-category--202609011538 groundedness 0.95 PASS — stays strictly inside the publisher abstract and says so.
+- `2026-09-01T15:52:00Z` critic: reference notes 202609011530/1531/1532/1533 PASS with citation fixes — missing `original-date` on three primary texts against the repo's Anselm/Aquinas/Calvin convention; Shulchan Arukh chicago_note dates Isserles to 1565 when the gloss is 1578; Ramban `issued` 1971 against a capture that says 1971-1976; uncited liturgical superlative in 1531.
+- `2026-09-01T15:52:00Z` critic: link audit — 3 missing reciprocals among the new permanent notes (1541->1540, 1542->1540, 1543->1541) and 1 asymmetric relation (1543 refutes / 1941 contradicts); lint_links PASSed regardless.
+- `2026-09-01T15:52:00Z` critic: no suspicious or instruction-bearing content in any of the four captures; proposed-links/ empty, nothing to adjudicate.
+- `2026-09-01T15:58:00Z` fixes applied, all 20 findings: 202609011541 rewritten end to end and retitled "Kabbalah addresses a God that no specific description picks out" — the cross-paragraph ellipsis replaced by the four *specific*-qualified denials quoted in order, the "Lord over All" clause quoted in place as counter-text, and the conclusion retreated from failure-of-reference to failure-of-determination (the `contradicts` edge to 202609010840 and the `supports` edge to 202609010842 survive that retreat and are kept). 202609011540 retitled "Ramban separates…" with the three-item prohibition quoted in full, the first-kind-of-idolatry classification and the "go astray" clause restored, and the one-commentator/exoteric-taxonomy limits stated up front. 202609011542: Goshen-Gottstein re-attributed to his Hindu subject with the abstract-only limit repeated in place, the three-place framing marked as this repository's construction from a permission-ruling, the Jewish prohibition marked as inference, and "no Christian account…", "locus classicus", "coexist without strain" and the Ramban harmonisation all cut or replaced (finding 20 resolved by stating the difference between 1540 and 1542 rather than their sameness). 202609011543: `refutes`->`contradicts` at both ends, conclusion narrowed to tradition-level sorting, atzmut/kelim dispute named and the essentialist reading declared. Reference notes: `original-date` added to Ramban (1267) and Tiqqunei ha-Zohar (1557 Mantua printing, with composition dated in prose); Isserles dropped from the Shulchan Arukh CSL because listing him rendered "with Moses Isserles (1565)" and misdated the 1578 gloss, with both dates moved to the CSL note and the prose; the liturgical superlative in 1531 downgraded and marked uncaptured; a paragraph added to 1531 disclosing that "Ein Sof" never occurs in the folios and that reading the addressee as Ein Sof is a construal; a paragraph added to 1532 disclosing that "shituf" never occurs in the translation and that the capture header's "locus classicus" line is this run's editorial identification, not source text (the raw file itself is immutable and was not edited). Uncaptured Ran/Tosafot characterisation and the "four centuries" reception claim removed. 3 missing reciprocals written. MOC section renamed "The Jewish route: kabbalistic and halakhic" with the halakhic/mystical distinction stated. Inquiry answer bullets 2-4 rewritten to match, and its grounding-limits paragraph extended. Two INBOX entries re-marked `asked_by: maintenance-run`. Quotation fidelity re-checked after the rewrite: "'the Cause of causes'" restored to the translator's internal quote marks and "[Var. unity]" restored to the "Lord over All" quotation in 1541.
+- `2026-09-01T15:56:47Z` build_manifest: 113 notes indexed
+- `2026-09-01T15:56:54Z` remote_cycle: finish zettel/run-20260901152644 (skill-rev=9f2fc67; lock released after push)
+- `2026-09-01T15:56:54Z` remote_cycle: PR for zettel/run-20260901152644 must be opened by the session (GitHub CLI not installed in this container)

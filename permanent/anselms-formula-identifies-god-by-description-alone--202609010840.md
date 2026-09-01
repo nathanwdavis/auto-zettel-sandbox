@@ -18,6 +18,8 @@ links:
   relation: shared-concept
 - target_id: anselm-argues-from-a-description-even-the-fool-grasps--202609010835
   relation: shared-concept
+- target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
+  relation: contradicts
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
