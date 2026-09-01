@@ -10,6 +10,7 @@ The knowledge layer is never rolled back, whatever a proposal's outcome (FR-33).
 |------|----------|--------------|---------|--------|
 | 2026-09-01 | 202609011101 | source-access-triage | proposed | Codify the repeatedly re-invented procedure for sources that exist but cannot be read: legitimate access ladder, abstract-only grounding tiers, the two-witness excerpt cross-check, and durable INBOX gap records. Motivated by the Hick/Volf, Tachin/Vroom, Housel, Ahrens, and Bogardus & Urban traces (see PURPOSE.md). |
 | 2026-09-01 | 202609011101 | source-access-triage | trial | with=0.92 without=0.963 (n=3) |
+| 2026-09-01 | 202609011101 | source-access-triage | Accepted | Approved by the repository owner (Nathan Davis), 2026-09-01, who reviewed the proposal and directed promotion ('It looks good'). Accepted despite an A/B trial that did not favor the candidate (with=0.92 vs without=0.963, n=3): the trial's three questions are all same-God/teleology research questions whose sources were already captured, so none of them exercises the skill's actual subject -- what to do when a source cannot be read -- and the small-n delta (-0.043) is within noise for a judge rubric. The procedure it codifies is drawn from five real cycle traces (Hick/Volf, Tachin/Vroom, Housel, Ahrens, Bogardus & Urban) where it was re-invented each time. |
 
 ## 202609011101 proposed source-access-triage (2026-09-01)
 
@@ -147,3 +148,9 @@ index 0000000..639dbb7
 
 - scores: with=0.92 without=0.963 (n=3)
 - scores-file: trial-source-access-triage-20260901110839.json
+
+## 202609011101 Accepted source-access-triage (2026-09-01)
+
+- kind: create
+- reason: Approved by the repository owner (Nathan Davis), 2026-09-01, who reviewed the proposal and directed promotion ('It looks good'). Accepted despite an A/B trial that did not favor the candidate (with=0.92 vs without=0.963, n=3): the trial's three questions are all same-God/teleology research questions whose sources were already captured, so none of them exercises the skill's actual subject -- what to do when a source cannot be read -- and the small-n delta (-0.043) is within noise for a judge rubric. The procedure it codifies is drawn from five real cycle traces (Hick/Volf, Tachin/Vroom, Housel, Ahrens, Bogardus & Urban) where it was re-invented each time.
+- scores: with=0.92 without=0.963 (n=3)
