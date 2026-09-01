@@ -28,11 +28,10 @@ chicago_bib: 'Housel, Morgan. The Psychology of Money: Timeless Lessons on Wealt
   Greed, and Happiness. Harriman House, 2020.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+openlibrary
-  source: https://openlibrary.org/isbn/9780857197689
+  method: raw-capture
+  source: raw/202608311036-housel-psychology-of-money.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-01T15:34:31Z'
+  date: '2026-09-01T18:05:43Z'
 raw_capture: raw/202608311036-housel-psychology-of-money.txt
 excerpt_captures:
 - raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt

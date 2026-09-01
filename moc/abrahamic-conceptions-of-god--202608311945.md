@@ -74,6 +74,16 @@ practice. Worked for inquiry 202609011526.
 - [[shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542]]
 - [[internal-plurality-is-not-what-divides-the-monotheisms--202609011543]]
 
+## Christian kabbalism: the parallel as a conversion argument
+
+The comparison the note above draws for itself has a historical precedent
+that draws it far harder. Pico's cabalistic theses of
+1486 claim that Kabbalah's own principles compel assent to the Catholic
+Trinity exactly. Captured on its Christian side only; the Jewish respondents
+remain an open INBOX item.
+
+- [[christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -82,7 +92,7 @@ Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronom
 [[gjelten-do-christians-and-muslims-worship-the-same-god--202608311927]], [[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]], [[beckwith-why-muslims-and-christians-worship-the-same-god--202609010832]].
 Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003]], [[craig-the-teleological-argument-and-the-anthropic-principle--202609011005]], [[aquinas-summa-theologiae-i-q2--202609011201]], [[venema-seeking-a-signature--202609011310]], [[meyer-of-molecules-and-straw-men--202609011311]], [[behe-molecular-machines--202609011400]], [[plantinga-two-dozen-theistic-arguments--202609011500]]
 (literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]], [[aquinas-makes-god-demonstrable-only-from-effects--202609011206]], [[venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315]], [[meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316]], [[behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405]], [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]]).
-Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]]
-(literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]]).
+Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]]
+(literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
 (literature: [[calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036]], [[hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037]], [[the-general-revelation-passages-describe-a-wordless-disclosure--202609011038]]).

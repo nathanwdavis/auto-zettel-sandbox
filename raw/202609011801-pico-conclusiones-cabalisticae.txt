@@ -1,0 +1,466 @@
+Verbatim capture for reference 202609011801.
+Giovanni Pico della Mirandola, "Conclusiones cabalisticae numero LXXI,
+secundum opinionem propriam, ex ipsis Hebreorum sapientum fundamentis
+Cristianam Religionem maxime confirmantes" -- the seventy-odd kabbalistic
+theses of the Conclusiones sive Theses DCCCC (Conclusiones nongentae publice
+disputandae), Rome, 1486. Latin; the work is in the public domain.
+
+BASE TEXT (Section A below): the digital edition of the complete Conclusiones
+by Joseph H. Peterson, Esoteric Archives, 2001, updated 2025-07-12, released
+under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Source: https://esotericarchives.com/pico/conclus.htm
+Fetched: 2026-09-01T17:57:00Z via curl through the session's egress proxy (HTTP 200).
+
+CROSS-CHECK WITNESS (Section B below): the Pico Project digital edition,
+Center for Digital Scholarship, Brown University Library, in collaboration
+with the University of Bologna -- a diplomatic transcription of the 1486
+editio princeps that preserves the original line breaks (marked "|" in the
+source and closed up here) and leaves the Hebrew words as gaps.
+Source: https://cds.library.brown.edu/projects/pico/allSubSection.php?myID=sec211
+Fetched: 2026-09-01T17:57:00Z via curl through the session's egress proxy (HTTP 200).
+The page carries Brown's notice that the collection is a no-longer-maintained
+web archive.
+
+WHAT THE CROSS-CHECK ESTABLISHED. All 72 numbered theses were compared
+programmatically, edition against edition, after normalising only for
+orthography (medieval vs classicised spelling: i/j, u/v, ae/e, ch/c, ph/f,
+th/t, ci/ti, nichil/nihil, doubled consonants) and for Brown's line-break
+marker. Findings, all recorded rather than smoothed over:
+
+  * 21 of the 71 theses Peterson prints are word-for-word identical to Brown
+    after that normalisation; the remaining 50 diverge only in single words,
+    word division, or obvious typography.
+  * PETERSON OMITS THESIS 27 ENTIRELY, jumping from 26 to 28. Brown has it:
+    "Ex principiis cabalistarum evidenter elicitur quod per adventum messiae
+    tolletur circumcisionis necessitas." Peterson's edition therefore contains
+    71 theses under numbers running to 72.
+  * Both editions head the section "numero LXXI" (71) while numbering the
+    theses to 72. The discrepancy is in the 1486 text itself, not introduced
+    by either editor.
+  * Peterson's text carries scanning slips Brown does not: "signicat" for
+    "significat" (7), "Quillbet" for "Quilibet" (25), "suit" for "fuit" (51),
+    "quoc" for "quod" (54), "irformitatem" for "informitatem" (31),
+    "specualatiuam" for "speculatiuam" (2), and stray letter groups at 10, 33,
+    and 34. Where this repository quotes Pico it uses wording attested by BOTH
+    editions, and Section C sets the two side by side for the theses actually
+    quoted.
+  * Substantive single-word variants worth flagging for any future use:
+    9 sacratissimam / secretissimam; 10 materna / paterna mens; 11
+    rationabiles / rationales; 18 and 21 coniurixerit / coniunxerit; 42 quod /
+    quam; 44 setentrionalis / septentrionalis. Thesis 24 carries a clause in
+    Brown ("passu ubi Moyses in peccato vituli dixit dele me, et per dicta")
+    that Peterson lacks; thesis 57 carries a phrase in Peterson
+    ("scemamforas sem a meforas") that Brown lacks.
+
+Section A reproduces Peterson's text of the section complete. Hebrew words
+appear there as Peterson prints them (he gives each twice, in two
+encodings); they are reproduced here unaltered. The [SECTION ...] markers and
+the thesis numbers' line positions are file structure, not source text; the
+wording is otherwise unaltered.
+
+================================================================================
+[SECTION A -- Peterson (Esoteric Archives) text, complete]
+
+Conclusiones Cabalistice numero LXXI, secundum opinionem propriam, ex ipsis
+Hebreorum sapientum fundamentis Cristianam Religionem maxime confirmantes.
+
+1. Quicquid dicant ceteri Cabaliste, ego prima divisione scienciam Cabale in
+scienciam Sephiroth et Semot, tanquam in practicam et speculatiuam
+distinguerem.
+
+2. Quicquid dicant alii cabaliste, ego partem specualatiuam Cabale
+quadruplicem divideram, correspondenter quadruplici particioni philosophie,
+quam ego solitus sum affere. Prima est scientia, quam ego voco
+alphabetarie reuolucionis, correspondentem parti philosophie, quam ego
+philosophiam catholicam voco. Secunda, tercia et quarta pars est triplex
+merchiaua, correspondentes triplici philosophie particularis, de divinis,
+de mediis, et sensibilibus naturis.
+
+3. Sciencia, que est pars practica Cabale, practicat totam metaphysicam formalem
+et theologiam inferiorem.
+
+4. Ensoph non est aliis numeracionibus connumeranda, quia est illarum numeracionum
+unitas abstracta et incommunicata, non unitas coordinata.
+
+5. Quilibet hebreus Cabalista secundum principia et dicta sciencie Cabale,
+cogitur ineuitabiliter concedere de trinitate et qualibet persona divina,
+patre, filio, et spiritu sancto, illud precise sine addicione vel diminucione,
+aut variacione, quod ponit fides catholica cristianorum.
+Correlarium. Non solum qui negat trinitatem, sed qui alio modo eam
+ponunt, quam ponat catholica ecclesia, sicut Arriani, sicut Sabelliani, et
+similes, redargui possunt manifeste, si admittantur principia cabale.
+
+6. Tria magna Dei nomina quaternarii, que sunt in secretis Cabalistarum per
+mirabilem appropriacionem tribus personis trinitatis, ita debere attribui,
+ut nomen
+ìëù
+שכל
+sit patris, Nomen
+ìéëùîä
+המשכיל
+sit filii,
+ìëùåîä
+המושכל
+Nomen sit
+spiritus sancti, intelligere potest, qui in sciencia cabale fuerit profundus.
+
+7. Nullus hebreus cabalista potest negare, quod nomen Jhesu, si eum secundum
+modum et principia Cabale interpretemur, hoc totum precise et
+nichil aliud signicat, id est, Deum, dei filium patrisque sapienciam per
+terciam divinitatis personam, que est ardentissimus
+amoris ignis, nature humane in unitate suppositi unitum.
+
+8. Ex precedenti conclusione intelligi potest, cur dixit Paulus, datum esse
+Jhesu nomen, quod est super omne nomen, et cur in domine Jhesu dictum
+sit: omne genu flecti, celestium, terrestrium, et infernorum, quod eciam est
+maxime cabalisticum, et potest ex se intelligere, qui est profundus in Cabala.
+
+9. Si qua est de nouissimis temporibus humana coniectura, inuestigare possumus
+per sacratissimam viam Cabale, futuram esse consumacionem seculi
+hinc ad annos quingentes, et quatuordecim, et dies vigintiquinque.
+
+10. Illud quod apud Cabalistas dicitur
+äîëç
+חכמה
+,
+illud est sine dubio quod ab
+Orpheo Pallas, a Zoroastre materna mens, a Mercurio Dei filium, a
+Pythagora sapiencia, a Parmenide sphera intelligibilis nominatur.
+
+11. Modus quo racionabiles anime per archangelum Deo sacrificantur, qui a
+Cabalistis non exprimitur, non est nisi per separacionem anime a corpore,
+non corporis ab anima nisi per accidens, ut contigit in morte osculi, de quo
+scribitur, praeciosa in conspectu domini mors sanctorum eius.
+
+12. Non potest operari per puram Cabalam, qui non est racionaliter
+intellectualis.
+
+13. Qui operatur in Cabala sine admixcione extranei, si diu erit in opere,
+morietur ex binsica, et si errabit in opere aut non purificatus accesserit,
+deuorabitur ab Azazele per proprietatem iudicii.
+
+14. Per litteram Scin, que mediat in nomine Jhesu, significatur nobis cabalistice,
+quod tum perfecte quieuit tanquam in sua perfeccione mundus, cum Iod
+coniunctus est cum Vau, quod actum est in Cristo, qui fuit verus Dei filius
+et homo.
+
+15. Per nomen Iod, he, vahu, he, quod est nomen ineffabile, quod dicunt
+Cabaliste, futurum esse nomen Messie, euidenter cognoscitur futurum eum
+Deum dei filium per spiritum sanctum hominem factum, et post eum ad
+perfectionem humani generis super homines paraclytum descensurum.
+
+16. Ex mysterio trium literarum, que sunt in dictione Sciabat, id est
+úáù
+שבת,
+possumus interpretari cabalistice tunc sabbatizare mundum, cum Dei
+filius fit homo, et ultimo futurum sabbatum, cum homines in Dei filium
+regenerabuntur.
+
+17. Qui sciverit quid est vinum purissimum apud cabalistas, sciat cur dixerit
+Dauid, inebriabor a ubertate Domus tua, et quam ebrietatem dixerit
+antiquus vates Museus esse felicitatem, et quid significent tot Bacchi apud
+Orpheum.
+
+18. Qui coniurixerit Astrologiam Cabale, videbit quod sabbatizare et quiescere
+conuenientius fit post Christum die dominico, quam die sabbati.
+
+19. Si dictum illud prophete, Vendiderunt iustum argento, cabalistice
+exponamus, nichil aliud nobis significat, quam hoc scilicet, ut Deus redemptor
+venditus fuit argento.
+
+20. Si interpretacionem suam adverterint Cabaliste super hoc diccione
+æà
+אז,
+que significat tunc, de trinitate mysterio multum illuminabuntur.
+
+21. Qui coniurixerit dictum Cabalistarum dicentium, quod illa numeracio,
+que dicitur iustus et redemptor, dicitur eciam Ze, cum dicto Thalmudistarum
+dicentium, quod ita Isaac ibat, sicut Ze portans crucem suam, videbit
+illud, quod fuit in Isaac prefiguratum, fuit adimpletum in Cristo, qui fuit
+verus Deus venditus argento.
+
+22. Per dicta Cabalistarum de rubedine Esau, et dictum illud, quod in libro
+Bresit Rhaba, quod Esau fuit rubeus, et rubeum eum ulciscetur, de quo
+dicitur, Quare rubeum vestimentum tuum, habetur expresse, quod Cristus
+de quo nostri doctores eundem textum exponunt, elle erit, qui ulcionem
+facit de virtutibus immundis.
+
+23. Per illud dictum Hieremie, lacerauit verbum suum, secundum expositionem
+Cabalistarum habemus intelligere, quod Deum sanctum et benedictum
+lacerauit Deus pro peccatoribus.
+
+24. Per responsionem Cabalistarum ad questionem, quare in libro numerorum
+coniuncta est particula mortis Marie, particula vitule ruffe, et per
+exposicionem eorum super eo in libro Zoar [Zohar] super eo textu: Et eius liuore
+sancti sumus, redarguuntur ineuitabiliter Hebrei dicentes, non fuisse conueniens,
+ut mors Cristi satisfaceret pro peccato humani generis.
+
+25. Quillbet Cabalista habet concedere, quod Massias eos a captivitate
+Diabolica et non temporali erat liberaturum.
+
+26. Quilibet Cabalista debet concedere ex dictis doctorum huius sciencie hoc
+manifeste dicentium, quod peccatum originale in aduentu Messie expiabitur.
+
+27. [not present in Peterson's edition -- see cross-check note above]
+
+28. Per dictionem et,
+úà
+את,
+que bis ponitur in illo textu, In principio creauit
+Deus celum et terram, ego credo significari a Moyse creacionem nature
+intellectualis, et nature animalis, que naturali ordine precessit creacionem
+celi et terre.
+
+29. Quod dicitur a Cabalistis, quod linea viridis gyrat universum, conuenientissime
+dicitur ad conclusionem ultimam, quam diximus ex mente Porphyrtii.
+
+30. Necessario habent concedere cabaliste secundum sua principia, quod verus
+Messias futurus est talis, ut de eo vere dicatur, quod est Deus et Dei filius.
+
+31. Cum audis cabalistas ponere in Thesua irformitatem, intellige informitatem
+per antecedenciam ad formalitatem non per priuacionem.
+
+32. Si duplex aleph; quod est in textu, Non auferetur sceptrum,
+etc. coniunxerimus ad duplex aleph, quod est in textu, Deus possedit
+me ab inicio, et ad duplex aleph, quod est in textu, Terra autem
+erat inanis, per viam Cabale intelligemus, ibi Jacob de illo vero Messia
+locutum, qui fuit Iesus Nazarenus.
+
+33. Per hanc diccionem
+ùéà
+איש
+que scribitur per Aleph, Iod et Scin, (et significatur
+virum), que Deo attribuitur, cum dicitur Vir belli, de trinitatis mysterio
+per viam Cabale perfectissime admonemur.
+
+34. Per nomen
+àåä
+הוא, id
+est quod tribus literis scribitur, he, vau, et aleph,
+quod nomen Deo propriissime attribuitur, et maxime conuenienter, non
+solum ad cabalistas, qui hoc expressen sepius dicunt, sed eciam ad theologiam
+Dionysii Areopagite, per viam Cabale trinitatis mysterium cum possibilitate
+incarnacionis nobis declaratur.
+
+35. Si Deus in se ut infinitum, ut unum, et secundum se intelligatur, ut sic
+nichil intelligimus ab eo procedere, sed separacionem a rebus, et omnimodam
+sui in seipso clausionem, et extremam in remotissimo sue divinitatis
+recessu profundam ac solitariam retractionem, de eo intelligimus ipso
+penitissime in abysso suarum tenebrarum se contegente, et nullo modo in
+dilatacione ac profusione suarum bonitatum ac fontali splendoris se
+manifestante.
+
+36. Ex precedenti conclusione intelligi potest, cur dicatur apud Cabalistas,
+quod Deus induit se decem vestimentis, quando creauit seculum.
+
+37. Qui intellexerit in dextrali coordinatione subordinationem pietatis ad
+sapienciam, perfecte intelliget per viam Cabale, quomodo Abraam in die
+suo per rectam lineam vidit diem Cristi et gauisus est.
+
+38. Effectus, qui sunt sequuti post mortem Cristi, debent conuincere quemlibet
+cabalistam, quod Jesus Nazarenus fuit verus messias.
+
+39. Ex hac conclusione et trigesima superius posita sequitur, quod quilibet
+Cabalista habet concedere, quod interrogatus Iesus quis esset, rectissime
+respondit, dicens, Ego sum principium, qui loquor vobis.
+
+40. Hoc habent ineuitabiliter concedere Cabaliste, quod verus Messias per
+aquam homines purgabit.
+
+41. Sciri potest in Cabala per mysterium mem clausi, cur post se Cristus
+miserit paracletum.
+
+42. Scitur per fundamenta Cabale, quod recte dixerit Iesus, Antequam
+nasceretur Abraam, ego sum.
+
+43. Per mysterium duarum litterarum uau, et iod, scitur quomodo ipse
+Messias, ut Deus, fuit principium sui ipsisu ut homo.
+
+44. Scitur ex Cabala per mysterium partis setentrionalis, cur iudicabit Deus
+seculum per ignem.
+
+45. Scitur in Cabala apertissime, cur dei filius, cum aqua baptismi venerit, et
+spiritus sanctus cum igne.
+
+46. Per eclipsacionem Solis, que accidit in morte Cristi, sciri potest secundum
+fundamenta cabale, quod tunc passus est filius Dei et verus messias.
+
+47. Qui sciat proprietatem Aquilonis in cabala, sciet cur Sathan Cristo promisit
+regna mundi, si cadens eum adorasset.
+
+48. Quicquid dicant ceteri cabaliste, ego decem spheras sic decem numeracionibus
+correspondere dico, ut edificio incipiendo, Iupiter sit quarte, Mars
+quinte, Sol sexte, Saturnus septime, Venus octaue, Mercurius none, Luna
+decime, cum supra edificium firmamentum tercia, primum mobile secunda,
+celum Empyreum prima.
+
+49. Qui sciverit correspondenciam decem preceptorum ad prohibencia per
+coniunctionem veritatis astrologice cum veritate theologica, videbit ex
+fundamento nostro precedentis conclusionis, quicquid alii dicant cabaliste,
+primum preceptum prime numeracioni correspondere, secundum secunde,
+tertius tercie, quartum septime, quintum quarte, sextum quinte, septimum
+none, octauum octaue, nonum sexte, decimum decime.
+
+50. Cum dicunt Cabaliste a septima et octaua petendos filios, ita dicas in
+marchiaue inferiori accipi, ut ab una petatur ut det, ab altera ne prohibeat.
+Et que det et que prohibeat potest intelligere ex precedentibus conclusionibus,
+qui fuerit intelligens in Astrologia et Cabala.
+
+51. Sicut suit Luna plena in Salomone, ita fuit plenus Sol in vero Messia, qui
+fuit Iesus, et de correspondencia ad diminucionem in Sedechia potest quis
+coniectare, si profundat in Cabala.
+
+52. Ex precedenti conclusione intelligi potest, cur Euangelista Mattheus in
+quatuordecim illis generacionibus ante Cristum quasdam dimiserit.
+
+53. Cum fieri lucem nichil sit aliud quam participare lucem, conueniens est
+ualde illa cabalistarum exposicio, ut in li, fiat lux, per lucem speculum lucens
+intelligamus, et in ly. facta est lux, speculum non lucens.
+
+54. Quoc dicunt Cabaliste, beatificandos nos in speculo lucente resposito
+sanctis in futuro seculo, idem sit precise sequendo fundamenta eorum, cum
+eo, quod nos dicimus beatificandos sanctos in filio.
+
+55. Quod dicunt Cabaliste lumen repositum in septuplo lucere plus quam lumen
+relictum, mirabiliter conuenit arithmetice pythagorice.
+
+56. Qui sciverit explicare quaternarium in denarium, habebit modum, si sit
+peritus cabale deducendi ex nomine ineffabili nomen LXXII. litterarum.
+
+57. Per precedentem conclusionem potest intelligens in Arithmetica formali
+intelligere, quod operari per Scemamphoras [schemhamphoras, shem ha-meforash] est est proprium racionali
+nature.
+
+58. Reccius forent illud Becadmin, quod ponit glossa Chaldaica super dictionem
+Bresit, exponere sapientialibus ideis, quam de triginta duabus viis, ut
+dicunt alii Cabaliste, utrumque tamen est rectum in Cabala.
+
+59. Qui profunde considerauit quadruplices rerum statum, primo unionis et
+stabilitate mansionis, secundo processionis, tercio reversionis, quarto
+beatifice reunionis, videbit literam beth cum prima littera; primum cum
+media, medium cum ultimis, ultima operari.
+
+60. Ex precedenti conclusione potest contemplatiuus homo intelligere, cur lex
+Dei a beth littera incipit, de qua scribitur, quod est immaculata, quod erat
+cum eo cuncta componens, quod est convertens animas, quod facit dare
+fructum in tempore suo.
+
+61. Per eandem conclusionem sciri potest, quod idem filius qui sapiencia
+patris, est qui omnia unit in patre, et per quem omnia facta sunt, et a quo
+omnia convertuntur, in qua demum li. sabbatizant omnia.
+
+62. Qui profunde consideraverit nouenarium beatudinum numerum, de quo
+apud Matheum in euangelio, videbit illas mirabiliter conuenire nouenario
+nouem numerationum, que sunt infra primam, que est inaccessibilis
+divinitatis abyssus.
+
+63. Sicut Aristoteles diviniorem philosophiam, quam philosophi antiqui sub
+fabulis et apologia velarunt, ipse sub philosophice specualacionis facie
+dissimulauit, et verborum breuitate obscurauit, ita Rabi Moyses Aegyptius
+in libro, qui a latinis dicitur dux neutrorum, dum per superficialem verborum
+corticem videtur cum philosophia ambulare, per latentes profundi
+sensus intelligencias mysteria complectitur Cabal.
+
+64. In textu, Audi Israel, dominus deus noster dominus unus, rectius est,
+ut intelligatur ibi colleccio ab inferiori ad superius, et a superiori ad inferius,
+quam ab inferiori ad superius bis.
+
+65. Reccius est, ut Amen Tipheret dicat et regnum, ut per viam numeri ostenditur,
+quam quod dicat regnum tantum, ut quidam volunt.
+
+66. Ego animam nostram sic decem Sephirot adapto, ut per unitatem suam sit
+cum prima, per intellectum cum secunda, per racionem cum tercia, per
+superiorem concupiscibilem cum quarta, per superiorem irrascibilem cum
+quinta, per liberum arbitrium cum sexta, et per hoc totum ut ad superiora
+se convertitur cum septima, ut ad inferiora cum octaua, et mixtum ex
+utroque pocius per indifferenciam vel alternariam adhesionem, quam
+simultaneam continenciam cum nona, et per potenciam qua inhabitat
+primum; habitaculum cum decima.
+
+67. Per dictum Cabalistarum, quod celi sunt ex igne et aqua, simul et veritatem
+Theologicam de ipsis Sephirot nobis manifestat, et philosophorum veritatem,
+quod elementa in celo sint tantum secundum actiuam virtutem.
+
+68. Qui sciverit quid sit denarius in Arithmetica formali, et cognoverit naturam
+primi numeri spherici, sciet illud quod ego adhuc apud aliquem cabalistam
+non legi, et est, quod sit fundamentum secreti magni Iobelei in Cabala.
+
+69. Ex fundamento precedentis conclusionis sciri pariter potest, secretum
+quinquaginta portatum intelligencie, et millesime generacionis, et regni
+omnium seculorum.
+
+70. Per modum legendi sine punctis in lege, et modus scribendi res divinas, et
+unialis continencie per indeterminatum ambitum rerum divinarum nobis
+ostenditur.
+
+71. Per id quod dicunt Cabaliste, de Egypto, et attestata est experiencia,
+abemus credere, quod terra Egypti sit in analogia, et sub ordinacione
+proprietatis potencie.
+
+72. Sicut vera Astrologia docet nos legere in libro Dei, ita Cabala docet nos
+legere in libro legis.
+Finis.
+
+================================================================================
+[SECTION B -- Brown Pico Project, thesis 27, absent from Section A]
+
+27. Ex principiis cabalistarum evidenter elicitur quod per adventum messiae tolletur circumcisionis necessitas.
+
+================================================================================
+[SECTION C -- parallel readings for the theses quoted by this repository]
+
+Peterson and Brown set side by side, verbatim, for theses 5, 6 and 7.
+Any wording this repository quotes is attested by both.
+
+--- thesis 5 -- Peterson:
+Quilibet hebreus Cabalista secundum principia et dicta sciencie Cabale,
+cogitur ineuitabiliter concedere de trinitate et qualibet persona divina,
+patre, filio, et spiritu sancto, illud precise sine addicione vel diminucione,
+aut variacione, quod ponit fides catholica cristianorum.
+Correlarium. Non solum qui negat trinitatem, sed qui alio modo eam
+ponunt, quam ponat catholica ecclesia, sicut Arriani, sicut Sabelliani, et
+similes, redargui possunt manifeste, si admittantur principia cabale.
+
+--- thesis 5 -- Brown (line-break markers closed up):
+Quilibet hebreus cabalista secundum principia et dicta scientiae Cabalae cogitur
+inevitabiliter concedere de trinitate: et qualibet persona divina: patre: filio: et
+spiritu sancto: illud precise sine additione: diminutione: aut variatione: quod ponit
+fides catholica christianorum. Correlarium. Non solum qui negant trinitatem: Sed qui
+alio modo eam ponunt quam ponat catholica ecclesia sicut Arriani: Sabelliani: et
+similes: redargui possunt manifeste si admittantur principia cabalae.
+
+--- thesis 6 -- Peterson:
+Tria magna Dei nomina quaternarii, que sunt in secretis Cabalistarum per
+mirabilem appropriacionem tribus personis trinitatis, ita debere attribui,
+ut nomen
+ìëù
+שכל
+sit patris, Nomen
+ìéëùîä
+המשכיל
+sit filii,
+ìëùåîä
+המושכל
+Nomen sit
+spiritus sancti, intelligere potest, qui in sciencia cabale fuerit profundus.
+
+--- thesis 6 -- Brown (line-break markers closed up):
+Tria magna dei nomina quaternaria quae sunt in secretis cabalistarum per mirabilem
+appropriationem tribus personis trinitatis ita debere attribui: ut nomen [gap for Greek
+or Hebrew word] sit patris. Nomen [gap for Greek or Hebrew word] sit filii. Nomen [gap
+for Greek or Hebrew word] sit spiritus sancti. intelligere potest qui in scientia
+cabalae fuerit profundus.
+
+--- thesis 7 -- Peterson:
+Nullus hebreus cabalista potest negare, quod nomen Jhesu, si eum secundum
+modum et principia Cabale interpretemur, hoc totum precise et
+nichil aliud signicat, id est, Deum, dei filium patrisque sapienciam per
+terciam divinitatis personam, que est ardentissimus
+amoris ignis, nature humane in unitate suppositi unitum.
+
+--- thesis 7 -- Brown (line-break markers closed up):
+Nullus hebreus cabalista potest negare quod nomen Iesu: si eum secundum modum et
+principia cabalae interpretemur hoc totum precise: et nihil aliud significat id est deum
+dei filium patrisque sapientiam per tertiam divinitatis personam quae est ardentissimus
+amoris ignis naturae humanae in unitate suppositi unitum.
+

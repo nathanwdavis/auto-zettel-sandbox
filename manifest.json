@@ -108,6 +108,9 @@
     "202609011541": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541",
     "202609011542": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542",
     "202609011543": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
+    "202609011801": "pico-conclusiones-sive-theses-dccccc--202609011801",
+    "202609011806": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806",
+    "202609011811": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -183,7 +186,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 113,
+  "note_count": 116,
   "notes": [
     {
       "id": "202609010113",
@@ -736,6 +739,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036.md"
     },
     {
+      "id": "202609011811",
+      "key": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "pico-conclusiones-sive-theses-dccccc--202609011801"
+        },
+        {
+          "relation": "source",
+          "target_id": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811.md",
+      "slug": "christian-kabbalism-claimed-kabbalah-compels-the-trinity",
+      "tags": [],
+      "title": "Christian kabbalism claimed Kabbalah compels the Trinity, not that it resembles it",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811.md"
+    },
+    {
       "id": "202608311143",
       "key": "compound-growth--202608311143",
       "links": [],
@@ -1098,6 +1130,10 @@
         {
           "relation": "contradicts",
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811"
         },
         {
           "relation": "source",
@@ -1701,6 +1737,39 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536.md"
+    },
+    {
+      "id": "202609011801",
+      "key": "pico-conclusiones-sive-theses-dccccc--202609011801",
+      "links": [],
+      "path": "reference/pico-conclusiones-sive-theses-dccccc--202609011801.md",
+      "slug": "pico-conclusiones-sive-theses-dccccc",
+      "tags": [],
+      "title": "Pico della Mirandola, Conclusiones sive Theses DCCCC",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pico-conclusiones-sive-theses-dccccc--202609011801.md"
+    },
+    {
+      "id": "202609011806",
+      "key": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811"
+        },
+        {
+          "relation": "source",
+          "target_id": "pico-conclusiones-sive-theses-dccccc--202609011801"
+        }
+      ],
+      "path": "literature/pico-makes-kabbalah-compel-the-catholic-trinity--202609011806.md",
+      "slug": "pico-makes-kabbalah-compel-the-catholic-trinity",
+      "tags": [],
+      "title": "Pico makes Kabbalah compel the Catholic Trinity",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/pico-makes-kabbalah-compel-the-catholic-trinity--202609011806.md"
     },
     {
       "id": "202609011505",

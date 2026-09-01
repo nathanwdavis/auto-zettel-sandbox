@@ -274,8 +274,49 @@ now cited only via the SEP.
 
 ## 2026-09-01 — Leads left open by the Kabbalah same-God cycle (inquiry 202609011526), for a later run. (1) The sefirot/Trinity comparison is drawn in permanent note 202609011543 as this repository's own inference and is flagged there as such; the actual historical debate is uncaptured -- the Christian kabbalists (Pico della Mirandola's Conclusiones, Reuchlin's De Arte Cabalistica) argued the sefirot conceal the Trinity, and Jewish polemicists answered. Capturing either side would let the note cite the dispute instead of constructing it; Reuchlin 1517 and Pico 1486 are old enough to be public domain. (2) The kabbalistic doctrine of gentile souls, and the Zohar's harsher passages about the nations, are not represented at all; the Ramban capture gives the tolerant reading (nations acknowledge the Most High) and the base currently has no counterweight from within the same tradition. (3) R. Jacob Emden's positive assessment of Christianity as a legitimate path for gentiles is frequently cited in this debate and was not sought this cycle. (4) Sefer Yetzirah and the main body of the Zohar remain uncaptured; only Tiqqunei ha-Zohar 17a-17b is in the base.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** maintenance-run (2026-09-01 ad-hoc cycle, inquiry 202609011526)
+- **2026-09-01 ~18:00 cycle progress (lead 1, half done):** the Christian side of
+  the sefirot/Trinity dispute is captured. Pico della Mirandola's *Conclusiones
+  cabalisticae numero LXXI, secundum opinionem propriam* (from the *Conclusiones
+  sive Theses DCCCC*, Rome 1486, public domain) is captured COMPLETE -- not as
+  excerpts -- to raw/202609011801-pico-conclusiones-cabalisticae.txt, collated
+  thesis by thesis from two independent digitizations: Joseph H. Peterson's
+  CC-BY 4.0 edition (esotericarchives.com) as base text and the Brown University
+  CDS / University of Bologna Pico Project diplomatic transcription of the 1486
+  editio princeps as cross-check witness. With
+  [[pico-conclusiones-sive-theses-dccccc--202609011801]],
+  [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], and
+  [[christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811]]. The
+  closing caution of [[internal-plurality-is-not-what-divides-the-monotheisms--202609011543]]
+  no longer says the dispute is uncaptured; it now points at Pico and marks his
+  argument as going far beyond what that note claims.
 
-(no further detail)
+  **One correction to this entry's own framing.** The entry says the Christian
+  kabbalists "argued the sefirot conceal the Trinity". Pico's text does not
+  quite do that. His thesis 5 claims that Kabbalah's *principles* compel assent
+  to the Catholic Trinity exactly ("cogitur inevitabiliter concedere ... sine
+  additione, diminutione, aut variatione"), and where he finally makes the
+  mapping concrete, at thesis 6, the triad he assigns to the three persons is
+  *sekhel* / *ha-maskil* / *ha-muskal* -- the intellect, the knower, the known --
+  which is a philosophical triad and not among the ten sefirot at all. A future
+  run should not assume the sefirot=Trinity form without checking which
+  Christian kabbalist actually argued it; Reuchlin (*De Arte Cabalistica*, 1517,
+  also public domain, uncaptured) is the obvious place to look next, and the
+  Latin is served by Emory's Pitts Digital Collections.
+
+  **Still open on lead (1):** Reuchlin 1517, and the whole Jewish-respondent
+  side. Both Jewish polemics worth capturing -- Leon Modena's *Ari Nohem*
+  (c. 1639) and Isaac of Troki's *Chizzuk Emunah* (c. 1593, Mocatta's 1851
+  English translation being public domain) -- were checked against Sefaria's
+  name API this cycle and Sefaria holds NEITHER, so the route that supplied
+  Ramban and Tiqqunei ha-Zohar does not reach them; they need another
+  digitization or a library copy. Until then the dispute is represented in this
+  base from the Christian side only, and every note above says so.
+
+  **Leads (2), (3), (4) not attempted this cycle.** One concrete finding for
+  whoever takes lead (4): Sefaria *does* serve Sefer Yetzirah (confirmed live
+  this cycle: "Sefer Yetzirah" and "Sefer Yetzirah Gra Version" both resolve),
+  so that capture is straightforwardly available by the same route the Ramban
+  and Tiqqunei ha-Zohar captures used.

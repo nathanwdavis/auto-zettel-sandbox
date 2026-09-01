@@ -931,5 +931,25 @@
     "publisher-place": "New York",
     "title": "Shituf: Critical and Constructive Reflections",
     "type": "chapter"
+  },
+  {
+    "URL": "https://esotericarchives.com/pico/conclus.htm",
+    "author": [
+      {
+        "family": "Pico della Mirandola",
+        "given": "Giovanni"
+      }
+    ],
+    "id": "202609011801",
+    "issued": {
+      "date-parts": [
+        [
+          1486
+        ]
+      ]
+    },
+    "publisher-place": "Rome",
+    "title": "Conclusiones sive Theses DCCCC publice disputandae",
+    "type": "book"
   }
 ]
