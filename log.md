@@ -228,3 +228,29 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T03:05:13Z` step 9: build_manifest — 44 notes indexed (+3: Schmidt reference/literature/permanent), --check clean
 - `2026-09-01T03:05:13Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; not re-attempted again ~1h after the previous cycle's re-confirmation); no inquiry status changes (none open)
 - `2026-09-01T03:05:13Z` remote_cycle: finish claude/affectionate-mendel-diqxel (skill-rev=effad78, refreshed from stale 7181e41 cache at cycle start via ci/setup-environment.sh; session-designated branch used instead of a zettel/run-* branch per this session's branch requirement; PR opened via GitHub MCP — gh unavailable in this container; lock released after push)
+- `2026-09-01T04:57:15Z` remote_cycle: start (holder=remote-session session=unknown branch=zettel/run-20260901045715)
+- `2026-09-01T04:58:24Z` remote_cycle: switched work to session-designated branch claude/affectionate-mendel-vquqr1 (per this session's branch requirement; run branch zettel/run-20260901045715 discarded unused)
+- `2026-09-01T05:04:27Z` step 2: read INBOX.md (2 open entries, both blocked on library/institutional access — Ahrens ch.6/9-11 gap [low], Hick/Volf same-God sources [normal]; dead ends re-confirmed three times on 2026-08-31/09-01, most recently ~2h before this cycle, so not re-attempted again); inquiries/: 1 file, status answered — none open
+- `2026-09-01T05:04:27Z` step 3: no open inquiries. Filled a gap against topic 'compound growth': the base asserted long-horizon institutional advantage ([[compounding-favors-horizons-longer-than-one-life--202609010205]]) but had no primary source of anyone actually building such a scheme. Captured the codicil (23 June 1789) to Franklin's will from the Smyth edition of the Writings, vol. X (Macmillan 1907), pp. 501-510 — complete Internet Archive OCR extract, public domain, no access restriction — to raw/202609010506-franklin-will-codicil-1789.txt, with the Franklin Institute transcription (explorepahistory.com) as a second capture block, itself cross-checked word-for-word against Wikisource and constitution.org. Wrote 1 reference + 1 literature + 1 permanent note ([[long-horizon-compounding-is-bounded-by-institutional-survival--202609010509]]), linked into the compound-growth MOC; the codicil's relend-to-fresh-borrowers loop also supports [[reinvested-returns-compound--202701010011]]
+- `2026-09-01T05:04:27Z` step 4: note-maintainer sweep (self, small run) — fleeting/ empty, proposed-links/ empty, no INBOX revision requests, all permanent notes resolve into a MOC (new note added to compound-growth MOC this cycle)
+- `2026-09-01T05:04:27Z` step 5: skipped — connector_cadence weekly, no serendipity_sweep entry in log.md yet (genesis 2026-08-31, due ~2026-09-07)
+- `2026-09-01T05:04:27Z` step 6: critic (self-review, agent not available in-session): all 9 quoted passages in the two new knowledge notes diffed character-by-character against the normalized Smyth block of raw/202609010506 (6 exact, 3 differing only by the OCR 'hi'-for-'in' misread, corrected per the stated policy) AND checked verbatim against the independent web-transcription block; both lineage variants ('and of all the utility' / 'hereinafter') recorded in capture, reference, and literature note, quotes follow Smyth. Verdicts — literature/franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508 groundedness 0.95 atomicity 0.9 clarity 0.9 own-words 0.9 PASS; permanent/long-horizon-compounding-is-bounded-by-institutional-survival--202609010509 groundedness 0.9 atomicity 0.9 clarity 0.9 link-quality 0.9 PASS (the beyond-Franklin generalization is explicitly marked as the note's own inference; no claim made about the funds' actual historical outcomes, which no captured source covers)
+- `2026-09-01T05:04:27Z` step 7: skipped — skill_smith_cadence monthly, not due
+- `2026-09-01T05:04:39Z` verify_refs: 14/14 verified
+- `2026-09-01T05:04:48Z` lint_citations: PASS
+- `2026-09-01T05:04:48Z` lint_links: PASS
+- `2026-09-01T05:04:48Z` build_manifest: 47 notes indexed
+- `2026-09-01T05:05:04Z` verify_refs: 14/14 verified
+- `2026-09-01T05:05:04Z` lint_citations: PASS
+- `2026-09-01T05:05:04Z` lint_links: PASS
+- `2026-09-01T05:05:04Z` build_manifest: 47 notes indexed
+- `2026-09-01T05:05:04Z` step 8: gates clean on first pass — verify_refs 14/14 (new Franklin reference verified raw-capture; a 1789 testamentary document in a 1907 edition has no ISBN/DOI, so capture-based verification is the documented path), lint_citations PASS, lint_links PASS
+- `2026-09-01T05:05:04Z` step 9: build_manifest — 47 notes indexed (+3: Franklin reference/literature/permanent), plus .bib/refs.json
+- `2026-09-01T05:05:04Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; dead ends re-confirmed ~2h earlier by the previous cycle, deliberately not re-attempted); no inquiry status changes (none open)
+- `2026-09-01T05:05:39Z` remote_cycle: lock released
+- `2026-09-01T05:06:50Z` build_manifest: 47 notes indexed
+- `2026-09-01T05:06:57Z` verify_refs: 14/14 verified
+- `2026-09-01T05:06:59Z` lint_citations: PASS
+- `2026-09-01T05:06:59Z` lint_links: PASS
+- `2026-09-01T05:07:00Z` lint_skills: PASS
+- `2026-09-01T05:07:06Z` remote_cycle: CI 'gates' failed on a87f321 (manifest.json out of date) — root cause: manifest built with stale cached skill 7181e41 while CI runs skill@main effad78; refreshed the cache to effad78, rebuilt manifest (+16 lines), re-ran all gates clean (verify_refs --offline 14/14, lint_citations, lint_links, lint_skills, build_manifest --check), pushing fix

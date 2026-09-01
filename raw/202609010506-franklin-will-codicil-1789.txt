@@ -1,0 +1,447 @@
+Verbatim capture of the codicil to Benjamin Franklin's last will and
+testament (signed 23 June 1789, proved 1790), in two blocks.
+
+BLOCK 1 is the Internet Archive OCR plain text (the *_djvu.txt file) of the
+codicil as printed in Albert Henry Smyth, ed., "The Writings of Benjamin
+Franklin", vol. X, 1789-1790 (New York: The Macmillan Company, 1907),
+pp. 501-510 (the will itself begins on p. 493; running heads read "THE LIFE
+OF BENJAMIN FRANKLIN"). Scan of the University of Toronto copy.
+Fetched 2026-09-01T05:00:00Z-05:02:00Z from
+https://archive.org/download/writingsofbenjam10franuoft/writingsofbenjam10franuoft_djvu.txt
+(item https://archive.org/details/writingsofbenjam10franuoft, HTTP 200, no
+access restriction; the edition is public domain, published 1907; the
+codicil itself is a 1789 public-domain document).
+
+OCR caveat, recorded honestly: this is machine OCR with double-spaced words,
+scattered misreads ("hi" for "in", "lif e" for "life", "[SEAL.]" marginal
+insertions), line-break hyphenation, and running heads/page numbers
+interleaved. Nothing has been corrected here - the capture is the OCR output
+verbatim, page headers included (they are what anchor the page locators used
+in notes). Quotations taken from this capture in notes normalize spacing,
+line-break hyphenation, and those OCR misreads only after cross-checking the
+wording word-for-word against the three independent web transcriptions in
+BLOCK 2's provenance note, and record that policy where they quote.
+
+BLOCK 2 is the transcription credited to The Franklin Institute, captured
+from ExplorePAhistory.com (WITF), fetched 2026-09-01T04:59:30Z from
+https://explorepahistory.com/odocument.php?docId=1-4-2DE (HTTP 200).
+Before capture, this transcription was checked word-for-word against two
+further independent web transcriptions of the same codicil - Wikisource
+(https://en.wikisource.org/wiki/Last_Will_and_Testament_of_Benjamin_Franklin,
+page version of 3 March 2017) and constitution.org
+(https://constitution.org/1-History/primarysources/lastwill.html) - and all
+ten passages quoted in notes matched exactly across all three sites. The
+three sites may share transcription lineage, which is why BLOCK 1 (a scanned
+published edition) is the primary capture. One substantive one-word variant
+between the lineages is on record: the web transcriptions read "and all the
+utility in life", where Smyth (p. 503) prints "and of all the utility in
+life"; quoting notes follow Smyth and flag the variant. The web
+transcriptions' "I hope, however, that is the inhabitants" is a shared
+typo for Smyth's "that if the inhabitants" and is not quoted.
+
+--- BEGIN BLOCK 1 VERBATIM (writingsofbenjam10franuoft_djvu.txt, OCR lines spanning pp. 501-510) ---
+THE  LIFE  OF  BENJAMIN  FRANKLIN  501 
+
+and  residue  of  all  my  estate,  real  and  personal,  not  herein 
+expressly  disposed  of,  I  do  give  and  bequeath  to  my  son  and 
+daughter,  Richard  and  Sarah  Bache. 
+
+I  request  my  friends,  Henry  Hill,  Esquire,  John  Jay, 
+Esquire,  Francis  Hopkinson,  Esquire,  and  Mr.  Edward 
+Duffield,  of  Benfield,  in  Philadelphia  County,  to  be  the 
+executors  of  this  my  last  will  and  testament;  and  I  hereby 
+nominate  and  appoint  them  for  that  purpose. 
+
+I  would  have  my  body  buried  with  as  little  expense  or 
+ceremony  as  may  be.  I  revoke  all  former  wills  by  me  made, 
+declaring  this  only  to  be  my  last. 
+
+In  witness  thereof,  I  have  hereunto  set  my 
+hand  and  seal,  this  seventeenth  day  of 
+[SEAL.]  July,  in  the  year  of  our  Lord  one  thou- 
+
+sand seven  hundred  and  eighty-eight. 
+B.  FRANKLIN. 
+
+Signed,  sealed,  published,  and  declared  by  the  above- 
+named  Benjamin  Franklin,  for  and  as  his  last  will  and  testa- 
+ment, in  the  presence  of  us. 
+
+ABRAHAM  SHOEMAKER, 
+
+JOHN  JONES, 
+
+GEORGE  MOORE. 
+
+CODICIL 
+
+I,  Benjamin  Franklin,  in  the  foregoing  or  annexed  last  will 
+and  testament  named,  having  further  considered  the  same,  do 
+think  proper  to  make  and  publish  the  following  codicil  or 
+addition  thereto. 
+
+It  having  long  been  a  fixed  political  opinion  of  mine,  that  in 
+a  democratical  state  there  ought  to  be  no  offices  of  profit,  for 
+
+
+502      THE  WRITINGS  OF  BENJAMIN  FRANKLIN 
+
+the  reasons  I  had  given  in  an  article  of  my  drawing  in  our 
+constitution,  it  was  my  intention  when  I  accepted  the  office 
+of  President,  to  devote  the  appointed  salary  to  some  public 
+uses.  Accordingly,  I  had  already,  before  I  made  my  will 
+in  July  last,  given  large  sums  of  it  to  colleges,  schools,  build- 
+ing of  churches,  etc. ;  and  in  that  will  I  bequeathed  two  thou- 
+sand pounds  more  to  the  State  for  the  purpose  of  making  the 
+Schuylkill  navigable.  But  understanding  since  that  such  a 
+sum  will  do  but  little  towards  accomplishing  such  a  work, 
+and  that  the  project  is  not  likely  to  be  undertaken  for  many 
+years  to  come,  and  having  entertained  another  idea,  that  I 
+hope  may  be  more  extensively  useful,  I  do  hereby  revoke  and 
+annul  that  bequest,  and  direct  that  the  certificates  I  have 
+for  what  remains  due  to  me  of  that  salary  be  sold,  towards 
+raising  the  sum  of  two  thousand  pounds  sterling,  to  be  dis- 
+posed of  as  I  am  now  about  to  order. 
+
+It  has  been  an  opinion,  that  he  who  receives  an  estate  from 
+his  ancestors  is  under  some  kind  of  obligation  to  transmit  the 
+same  to  their  posterity.  This  obligation  does  not  lie  on  me, 
+who  never  inherited  a  shilling  from  any  ancestor  or  relation. 
+I  shall,  however,  if  it  is  not  diminished  by  some  accident 
+before  my  death,  leave  a  considerable  estate  among  my 
+descendants  and  relations.  The  above  observation  is  made 
+merely  as  some  apology  to  my  family  for  making  bequests 
+that  do  not  appear  to  have  any  immediate  relation  to  their 
+advantage. 
+
+I  was  born  in  Boston,  New  England,  and  owe  my  first 
+instructions  in  literature  to  the  free  grammar-schools  estab- 
+lished there.  I  have,  therefore,  already  considered  these 
+schools  in  my  will.  But  I  am  also  under  obligations  to  the 
+State  of  Massachusetts  for  having,  unasked,  appointed  me 
+
+
+THE  LIFE  OF  BENJAMIN  FRANKLIN  503 
+
+formerly  their  agent  in  England,  with  a  handsome  salary, 
+which  continued  some  years;  and  although  I  accidentally 
+lost  in  their  service,  by  transmitting  Governor  Hutchinson's 
+letters,  much  more  than  the  amount  of  what  they  gave 
+me,  I  do  not  think  that  ought  in  the  least  to  diminish  my 
+gratitude. 
+
+I  have  considered  that,  among  artisans,  good  apprentices 
+are  most  likely  to  make  good  citizens,  and,  having  myself 
+been  bred  to  a  manual  art,  printing,  in  my  native  town,  and 
+afterwards  assisted  to  set  up  my  business  hi  Philadelphia  by 
+kind  loans  of  money  from  two  friends  there,  which  was  the 
+foundation  of  my  fortune,  and  of  all  the  utility  in  lif e  that  may 
+be  ascribed  to  me,  I  wish  to  be  useful  even  after  my  death,  if 
+possible,  hi  forming  and  advancing  other  young  men,  that 
+may  be  serviceable  to  their  country  hi  both  these  towns. 
+To  this  end,  I  devote  two  thousand  pounds  sterling,  of  which 
+I  give  one  thousand  thereof  to  the  inhabitants  of  the  town  of 
+Boston,  in  Massachusetts,  and  the  other  thousand  to  the 
+inhabitants  of  the  city  of  Philadelphia,  in  trust,  to  and  for 
+the  uses,  intents,  and  purposes  hereinafter  mentioned  and 
+declared. 
+
+The  said  sum  of  one  thousand  pounds  sterling,  if  accepted 
+by  the  inhabitants  of  the  town  of  Boston,  shall  be  managed 
+under  the  direction  of  the  selectmen,  united  with  the  ministers 
+of  the  oldest  Episcopalian,  Congregational,  and  Presbyterian 
+churches  hi  that  town,  who  are  to  let  out  the  sum  upon  interest, 
+at  five  per  cent,  per  annum,  to  such  young  married  artificers, 
+under  the  age  of  twenty-five  years,  as  have  served  an  appren- 
+ticeship in  the  said  town,  and  faithfully  fulfilled  the  duties 
+required  hi  their  indentures,  so  as  to  obtain  a  good  moral 
+character  from  at  least  two  respectable  citizens,  who  are 
+
+
+504        THE  WRITINGS  OF  BENJAMIN  FRANKLIN 
+
+willing  to  become  their  sureties,  in  a  bond  with  the  applicants, 
+for  the  repayment  of  the  moneys  so  lent,  with  interest,  accord- 
+ing to  the  terms  hereinafter  prescribed ;  all  which  bonds  are 
+to  be  taken  for  Spanish  milled  dollars,  or  the  value  thereof  in 
+current  gold  com ;  and  the  managers  shall  keep  a  bound  book 
+or  books,  wherein  shall  be  entered  the  names  of  those  who 
+shall  apply  for  and  receive  the  benefits  of  this  institution,  and 
+of  their  sureties,  together  with  the  sums  lent,  the  dates,  and 
+other  necessary  and  proper  records  respecting  the  business 
+and  concerns  of  this  institution.  And  as  these  loans  are  in- 
+tended to  assist  young  married  artificers  in  setting  up  their 
+business,  they  are  to  be  proportioned  by  the  discretion  of  the 
+managers,  so  as  not  to  exceed  sixty  pounds  sterling  to  one 
+person,  nor  to  be  less  than  fifteen  pounds ;  and  if  the  number 
+of  appliers  so  entitled  should  be  so  large  as  that  the  sum  will 
+not  suffice  to  afford  to  each  as  much  as  might  otherwise  not 
+be  improper,  the  proportion  to  each  shall  be  diminished  so 
+as  to  afford  to  every  one  some  assistance.  These  aids  may, 
+therefore,  be  small  at  first,  but,  as  the  capital  increases  by 
+the  accumulated  interest,  they  will  be  more  ample.  And  in 
+order  to  serve  as  many  as  possible  in  their  turn,  as  well  as  to 
+make  the  repayment  of  the  principal  borrowed  more  easy, 
+each  borrower  shall  be  obliged  to  pay,  with  the  yearly  interest, 
+one  tenth  part  of  the  principal,  which  sums  of  principal 
+and  interest,  so  paid  in,  shall  be  again  let  out  to  fresh 
+borrowers. 
+
+And,  as  it  is  presumed  that  there  will  always  be  found  in 
+Boston  virtuous  and  benevolent  citizens,  willing  to  bestow 
+a  part  of  their  time  in  doing  good  to  the  rising  generation,  by 
+superintending  and  managing  this  institution  gratis,  it  is 
+hoped  that  no  part  of  the  money  will  at  any  time  be  dead,  or 
+
+
+THE  LIFE  OF  BENJAMIN  FRANKLIN  505 
+
+be  diverted  to  other  purposes,  but  be  continually  augmenting 
+by  the  interest;  in  which  case  there  may,  in  time,  be  more 
+than  the  occasions  in  Boston  shall  require,  and  then  some 
+may  be  spared  to  the  neighbouring  or  other  towns  in  the  said 
+State  of  Massachusetts,  who  may  desire  to  have  it;  such 
+towns  engaging  to  pay  punctually  the  interest  and  the  por- 
+tions of  the  principal,  annually,  to  the  inhabitants  of  the  town 
+of  Boston. 
+
+If  this  plan  is  executed,  and  succeeds  as  projected  without 
+interruption  for  one  hundred  years,  the  sum  will  then  be 
+one  hundred  and  thirty-one  thousand  pounds;  of  which  I 
+would  have  the  managers  of  the  donation  to  the  town  of  Bos- 
+ton then  lay  out,  at  their  discretion,  one  hundred  thousand 
+pounds  in  public  works,  which  may  be  judged  of  most  general 
+utility  to  the  inhabitants,  such  as  fortifications,  bridges,  aque- 
+ducts, public  buildings,  baths,  pavements,  or  whatever  may 
+make  living  in  the  town  more  convenient  to  its  people,  and 
+render  it  more  agreeable  to  strangers  resorting  thither  for 
+health  or  a  temporary  residence.  The  remaining  thirty-one 
+thousand  pounds  I  would  have  continued  to  be  let  out  on 
+interest,  hi  the  manner  above  directed,  for  another  hundred 
+years,  as  I  hope  it  will  have  been  found  that  the  institution  has 
+had  a  good  effect  on  the  conduct  of  youth,  and  been  of  service 
+to  many  worthy  characters  and  useful  citizens.  At  the  end 
+of  this  second  term,  if  no  unfortunate  accident  has  prevented 
+the  operation,  the  sum  will  be  four  millions  and  sixty  one 
+thousand  pounds  sterling,  of  which  I  leave  one  million  sixty 
+one  thousand  pounds  to  the  disposition  of  the  inhabitants  of 
+the  town  of  Boston,  and  three  millions  to  the  disposition  of 
+the  government  of  the  state,  not  presuming  to  carry  my 
+views  farther. 
+
+
+5o6       THE  WRITINGS  OF  BENJAMIN  FRANKLIN 
+
+All  the  directions  herein  given,  respecting  the  disposition 
+and  management  of  the  donation  to  the  inhabitants  of  Boston, 
+I  would  have  observed  respecting  that  to  the  inhabitants  of 
+Philadelphia,  only,  as  Philadelphia  is  incorporated,  I  request 
+the  corporation  of  that  city  to  undertake  the  management 
+agreeably  to  the  said  directions ;  and  I  do  hereby  vest  them 
+with  full  and  ample  powers  for  that  purpose.  And,  having 
+considered  that  the  covering  a  ground  plot  with  buildings  and 
+pavements,  which  carry  off  most  of  the  rain  and  prevent  its 
+soaking  into  the  Earth  and  renewing  and  purifying  the  Springs, 
+whence  the  water  of  wells  must  gradually  grow  worse,  and  in 
+time  be  unfit  for  use,  as  I  find  has  happened  hi  all  old  cities,  I 
+recommend  that  at  the  end  of  the  first  hundred  years,  if  not 
+done  before,  the  corporation  of  the  city  Employ  a  part  of  the 
+hundred  thousand  pounds  in  bringing,  by  pipes,  the  water  of 
+Wissahickon  Creek  into  the  town,  so  as  to  supply  the  inhab- 
+itants, which  I  apprehend  may  be  done  without  great  diffi- 
+culty, the  level  of  the  creek  being  much  above  that  of  the  city, 
+and  may  be  made  higher  by  a  dam.  I  also  recommend  mak- 
+ing the  Schuylkill  completely  navigable.  At  the  end  of  the 
+second  hundred  years,  I  would  have  the  disposition  of  the 
+four  million  and  sixty  one  thousand  pounds  divided  between 
+the  inhabitants  of  the  city  of  Philadelphia  and  the  govern- 
+ment of  Pennsylvania,  in  the  same  manner  as  herein  directed 
+with  respect  to  that  of  the  inhabitants  of  Boston  and  the 
+government  of  Massachusetts. 
+
+It  is  my  desire  that  this  institution  should  take  place  and 
+begin  to  operate  within  one  year  after  my  decease,  for  which 
+purpose  due  notice  should  be  publickly  given  previous  to  the 
+expiration  of  that  year,  that  those  for  whose  benefit  this 
+establishment  is  intended  may  make  their  respective  applica- 
+
+
+THE  LIFE  OF  BENJAMIN  FRANKLIN  507 
+
+tions.  And  I  hereby  direct  my  executors,  the  survivors  or 
+survivor  of  them,  within  six  months  after  my  decease,  to  pay 
+over  the  said  sum  of  two  thousand  pounds  sterling  to  such 
+persons  as  shall  be  duly  appointed  by  the  Selectmen  of  Boston 
+and  the  corporation  of  Philadelphia,  to  receive  and  take 
+charge  of  their  respective  sums,  of  one  thousand  pounds 
+each,  for  the  purposes  aforesaid. 
+
+Considering  the  accidents  to  which  all  human  affairs  and 
+projects  are  subject  in  such  a  length  of  time,  I  have,  perhaps, 
+too  much  flattered  myself  with  a  vain  fancy  that  these  dis- 
+positions, if  carried  into  execution,  will  be  continued  with- 
+out interruption  and  have  the  effects  proposed.  I  hope, 
+however,  that  if  the  inhabitants  of  the  two  cities  should  not 
+think  fit  to  undertake  the  execution,  they  will,  at  least,  accept 
+the  offer  of  these  donations  as  a  mark  of  my  good  will,  a 
+token  of  my  gratitude,  and  a  testimony  of  my  earnest  desire 
+to  be  useful  to  them  after  my  departure. 
+
+I  wish,  indeed,  that  they  may  both  undertake  to  endeavour 
+the  execution  of  the  project,  because  I  think  that,  though 
+unforeseen  difficulties  may  arise,  expedients  will  be  found  to 
+remove  them,  and  the  scheme  be  found  practicable.  If  one 
+of  them  accepts  the  money,  with  the  conditions,  and  the 
+other  refuses,  my  will  then  is,  that  both  Sums  be  given  to  the 
+inhabitants  of  the  city  accepting  the  whole,  to  be  applied  to 
+the  same  purposes,  and  under  the  same  regulations  directed 
+for  the  separate  parts;  and,  if  both  refuse,  the  money  of 
+course  remains  in  the  mass  of  my  Estate,  and  is  to  be  disposed 
+of  therewith  according  to  my  will  made  the  Seventeenth  day 
+of  July,  1788. 
+
+I  wish  to  be  buried  by  the  side  of  my  wife,  if  it  may  be,  and 
+that  a  marble  stone,  to  be  made  by  Chambers,  six  feet  long, 
+
+
+5o8        THE  WRITINGS  OF  BENJAMIN  FRANKLIN 
+
+four  feet  wide,  plain,  with  only  a  small  moulding  round  the 
+upper  edge,  and  this  inscription : 
+Benjamin  "j 
+
+And       >   Franklin 
+Deborah  J 
+
+178- 
+
+to  be  placed  over  us  both.  My  fine  crab-tree  walking-stick, 
+with  a  gold  head  curiously  wrought  in  the  form  of  the  cap  of 
+liberty,  I  give  to  my  friend,  and  the  friend  of  mankind,  General 
+Washington.  If  it  were  a  Sceptre,  he  has  merited  it,  and 
+would  become  it.  It  was  a  present  to  me  from  that  excellent 
+woman,  Madame  de  Forbach,  the  dowager  Duchess  of 
+Deux-Ponts,  connected  with  some  verses  which  should  go 
+with  it.  I  give  my  gold  watch  to  my  son-in-law,  Richard 
+Bache,  and  also  the  gold  watch  chain  of  the  Thirteen  United 
+States,  which  I  have  not  yet  worn.  My  timepiece,  that 
+stands  in  my  library,  I  give  to  my  grandson  William  Temple 
+Franklin.  I  give  him  also  my  Chinese  gong.  To  my  dear 
+old  friend,  Mrs.  Mary  Hewson,  I  give  one  of  my  silver  tank- 
+ards marked  for  her  use  during  her  lif e,  and  after  her  decease 
+I  give  it  to  her  daughter  Eliza.  I  give  to  her  son,  William 
+Hewson,  who  is  my  godson,  my  new  quarto  Bible,  Oxford 
+edition,  to  be  for  his  family  Bible,  and  also  the  botanic  de- 
+scription of  the  plants  in  the  Emperor's  garden  at  Vienna,  in 
+folio,  with  coloured  cuts. 
+
+And  to  her  son,  Thomas  Hewson,  I  give  a  set  of  Spectators, 
+Tatlers,  and  Guardians  handsomely  bound. 
+
+There  is  an  error  in  my  will,  where  the  bond  of  William 
+Temple  Franklin  is  mentioned  as  being  four  thousand  pounds 
+sterling,  whereas  it  is  but  for  three  thousand  five  hundred 
+pounds. 
+
+
+THE  LIFE  OF  BENJAMIN-  FRANKLIN  509 
+
+I  give  to  my  executors,  to  be  divided  equally  among  those 
+that  act,  the  sum  of  sixty  pounds  sterling,  as  some  compensa- 
+tion for  their  trouble  in  the  execution  of  my  will;  and  I 
+request  my  friend,  Mr.  Duffield,  to  accept  moreover  my 
+French  wayweiser,  a  piece  of  clockwork  in  Brass,  to 
+be  fixed  to  the  wheel  of  any  carriage;  and  that  my 
+friend,  Mr.  Hill,  may  also  accept  my  silver  cream  pot, 
+formerly  given  to  me  by  the  good  Doctor  Fothergill,  with 
+the  motto,  Keep  bright  the  Chain.  My  reflecting  telescope, 
+made  by  Short,  which  was  formerly  Mr.  Canton's,  I  give 
+to  my  friend,  Mr.  David  Rittenhouse,  for  the  use  of  his 
+observatory. 
+
+My  picture,  drawn  by  Martin,  in  1767, 1  give  to  the  Supreme 
+Executive  Council  of  Pennsylvania,  if  they  shall  be  pleased 
+to  do  me  the  honour  of  accepting  it  and  placing  it  in  their 
+chamber.  Since  my  will  was  made  I  have  bought  some  more 
+city  lots,  near  the  centre  part  of  the  estate  of  Joseph  Dean. 
+I  would  have  them  go  with  the  other  lots,  disposed  of  in  my 
+will,  and  I  do  give  the  same  to  my  Son-in-law,  Richard  Bache, 
+to  his  heirs  and  assigns  forever. 
+
+In  addition  to  the  annuity  left  to  my  sister  in  my  will, 
+of  fifty  pounds  sterling  during  her  life,  I  now  add  thereto 
+ten  pounds  sterling  more,  in  order  to  make  the  Sum  sixty 
+pounds.  I  give  twenty  guineas  to  my  good  friend  and  physi- 
+cian, Dr.  John  Jones. 
+
+With  regard  to  the  separate  bequests  made  to  my  daughter 
+Sarah  in  my  will,  my  intention  is,  that  the  same  shall  be  for 
+her  sole  and  separate  use,  notwithstanding  her  coverture,  or 
+whether  she  be  covert  or  sole ;  and  I  do  give  my  executors  so 
+much  right  and  power  therein  as  may  be  necessary  to  render 
+my  intention  effectual  in  that  respect  only.  This  provision. 
+
+
+510        THE  WRITINGS  OF  BENJAMIN  FRANKLIN 
+
+for  my  daughter  is  not  made  out  of  any  disrespect  I  have  for 
+her  husband. 
+
+And  lastly,  it  is  my  desire  that  this,  my  present  codicil,  be 
+annexed  to,  and  considered  as  part  of,  my  last  will  and  testa- 
+ment to  all  intents  and  purposes. 
+
+In  witness  whereof,  I  have  hereunto  set  my  hand 
+and  Seal  this  twenty-third  day  of  June,  Anno 
+[SEAL.]       Domini  one  thousand  Seven  hundred  and  eighty 
+nine. 
+
+B.  FRANKLIN. 
+
+Signed,  sealed,  published,  and  declared  by  the  above 
+named  Benjamin  Franklin  to  be  a  codicil  to  his  last  will  and 
+testament,  in  the  presence  of  us. 
+
+FRANCIS  BAILEY, 
+
+THOMAS  LANG, 
+
+ABRAHAM  SHOEMAKER. 
+
+--- END BLOCK 1 ---
+
+--- BEGIN BLOCK 2 VERBATIM (explorepahistory.com transcription, credit "The Last Will and Testament of Benjamin Franklin," The Franklin Institute) ---
+CODICIL 
+
+I, Benjamin Franklin, in the foregoing or annexed last will and testament named, having further considered the same, do think proper to make and publish the following codicil or addition thereto. 
+
+It having long been a fixed political opinion of mine, that in a democratical state there ought to be no offices of profit, for the reasons I had given in an article of my drawing in our constitution, it was my intention when I accepted the office of President, to devote the appointed salary to some public uses. Accordingly, I had already, before I made my will in July last, given large sums of it to colleges, schools, building of churches, etc.; and in that will I bequeathed two thousand pounds more to the State for the purpose of making the Schuylkill navigable. But understanding since that such a work, and that the project is not likely to be undertaken for many years to come, and having entertained another idea, that I hope may be more extensively useful, I do hereby revoke and annul that bequest, and direct that the certificates I have for what remains due to me of that salary be sold, towards raising the sum of two thousand pounds sterling, to be disposed of as I am now about to order. 
+
+It has been an opinion, that he who receives an estate from his ancestors is under some kind of obligation to transmit the same to their posterity. This obligation does not lie on me, who never inherited a shilling from any ancestor or relation. I shall, however, if it is not diminished by some accident before my death, leave a considerable estate among my descendants and relations. The above observation is made as merely as some apology to my family for making bequests that do not appear to have any immediate relation to their advantage. 
+
+I was born in Boston, New England, and owe my first instructions in literature to the free grammar schools established there. I have, therefore, already considered these schools in my will. But I am also under obligations to the State of Massachusetts for having, unasked, appointed me formerly their agent in England, with a handsome salary, which continued some years; and although I accidentally lost in their service, by transmitting Governor Hutchinson's letters, much more that the amount of what they gave me, I do not think that ought in the least to diminish my gratitude. 
+
+I have considered that, among artisans, good apprentices are most likely to make good citizens, and, having myself been bred to a manual art, printing, in my native town, and afterwards assisted to set up my business in Philadelphia by kind loans of money from two friends there, which was the foundation of my fortune, and all the utility in life that may be ascribed to me, I wish to be useful even after my death, if possible, in forming and advancing other young men, that may be serviceable to their country in both these towns. To this end, I devote two thousand pounds sterling, of which I give one thousand thereof to the inhabitants of the town of Boston, in Massachusetts, and the other thousand to the inhabitants of the city of Philadelphia, in trust, to and for the uses, intents, and purposes herein after mentioned and declared. 
+
+The said sum of one thousand pounds sterling, if accepted by the inhabitants of the town of Boston, shall be managed under the direction of the selectmen, united with the ministers of the oldest Episcopalians, Congregational, and Presbyterian churches in that town, who are to let out the sum upon interest, at five per cent, per annum, to such young married artificers, under the age of twenty-five years, as have served an apprenticeship in the said town, and faithfully fulfilled the duties required in their indentures, so as to obtain a good moral character from at least two respectable citizens, who are willing to become their sureties, in a bond with the applicants, for the repayment of the moneys so lent, with interest, according to the terms hereinafter prescribed; all which bonds are to be taken for Spanish milled dollars, or the value thereof in current gold coin; and the managers shall keep a bound book or books, wherein shall be entered the names of those who shall apply for and receive the benefits of this institution, and of their sureties, together with the sums lent, the dates, and other necessary and proper records respecting the business and concerns of this institution. And as these loans are intended to assist young married artificers in setting up their business, they are to be proportioned by the discretion of the managers, so as not to exceed sixty pounds sterling to one person, nor to be less than fifteen pounds; and if the number of appliers so entitled should be so large as that the sum will not suffice to afford to each as much as might otherwise not be improper, the proportion to each shall be diminished so as to afford to every one some assistance. These aids may, therefore, be small at first, but, as the capital increases by the accumulated interest, they will be more ample. And in order to serve as many as possible in their turn, as well as to make the repayment of the principal borrowed more easy, each borrower shall be obliged to pay, with the yearly interest, one tenth part of the principal and interest, so paid in, shall be again let out to fresh borrowers. 
+
+And, as it is presumed that there will always be found in Boston virtuous and benevolent citizens, willing to bestow a part of their time in doing good to the rising generation, by superintending and managing this institution gratis, it is hoped that no part of the money will at any time be dead, or be diverted to other purposes, but be continually augmenting by the interest; in which case there may, in time, be more that the occasions in Boston shall require, and then some may be spared to the neighbouring or other towns in the said State of Massachusetts, who may desire to have it; such towns engaging to pay punctually the interest and the portions of the principal, annually, to the inhabitants of the town of Boston. 
+
+If this plan is executed, and succeeds as projected without interruption for one hundred years, the sum will then be one hundred and thirty-one thousand pounds; of which I would have the managers of the donation to the town of Boston then lay out, at their discretion, one hundred thousand pounds in public works, which may be judged of most general utility to the inhabitants, such as fortifications, bridges, aqueducts, public buildings, baths, pavements, or whatever may make living in the town more convenient to its people, and render it more agreeable to strangers resorting thither for health or a temporary residence. The remaining thirty-one thousand pounds I would have continued to be let out on interest, in the manner above directed, for another hundred years, as I hope it will have been found that the institution has had a good effect on the conduct of youth, and been of service to many worthy characters and useful citizens. At the end of this second term, if no unfortunate accident has prevented the operation, the sum will be four millions and sixty one thousand pounds sterling, of which I leave one million sixty one thousand pounds to the disposition of the inhabitants of the town of Boston, and three millions to the disposition of the government of the state, not presuming to carry my views farther. 
+
+All the directions herein given, respecting the disposition and management of the donation to the inhabitants of Boston, I would have observed respecting that to the inhabitants of Philadelphia, only, as Philadelphia is incorporated, I request the corporation of that city to undertake the management agreeably to the said directions; and I do hereby vest them with full and ample powers for that purpose. And, having considered that the covering a ground plot with buildings and pavements, which carry off most of the rain and prevent its soaking into the Earth and renewing and purifying the Springs, whence the water of wells must gradually grow worse, and in time be unfit for use, as I find has happened in all old cities, I recommend that at the end of the first hundred years, if not done before, the corporation of the city Employ a part of the hundred thousand pounds in bringing, by pipes, the water of Wissahickon Creek into the town, so as to supply the inhabitants, which I apprehend may be done without great difficulty, the level of the creek being much above that of the city, and may be made higher by a dam. I also recommend making the Schuylkill completely navigable. At the end of the second hundred years, I would have the disposition of the four million and sixty one thousand pounds divided between the inhabitants of the city of Philadelphia and the government of Pennsylvania, in the same manner as herein directed with respect to that of the inhabitants of Boston and the government of Massachusetts. 
+
+It is my desire that this institution should take place and begin to operate within one year after my decease, for which purpose due notice should be publickly given previous to the expiration of that year, that those for whose benefit this establishment is intended may make their respective applications. And I hereby direct my executors, the survivors or survivor of them, within six months after my decease, to pay over the sum of two thousand pounds sterling to such persons as shall be duly appointed by the Selectmen of Boston and the corporation of Philadelphia, to receive and take charge of their respective sums, of one thousand pounds each, for the purposes aforesaid. 
+
+Considering the accidents to which all human affairs and projects are subject in such a length of time, I have, perhaps, too much flattered myself with a vain fancy that these dispositions, if carried into execution, will be continued without interruption and have the effects proposed. I hope, however, that is the inhabitants of the two cities should not think fit to undertake the execution, they will, at least, accept the offer of these donations as a mark of my good will, a token of my gratitude, and a testimony of my earnest desire to be useful to them after my departure. 
+
+I wish, indeed, that they may both undertake to endeavour the execution of the project, because I think that, though unforeseen difficulties may arise, expedients will be found to remove them, and the scheme be found practicable. If one of them accepts the money, with the conditions, and the other refuses, my will then is, that both Sums be given to the inhabitants of the city accepting the whole, to be applied to the same purposes, and under the same regulations directed for the separate parts; and, if both refuse, the money of course remains in the mass of my Estate, and is to be disposed of therewith according to my will made the Seventeenth day of July, 1788…. 
+
+ In witness whereof, I have hereunto set my hand and Seal this twenty-third day of June, Anno Domini one thousand Seven hundred and eighty nine. 
+
+B. Franklin. 
+
+Signed, sealed, published, and declared by the above named Benjamin Franklin to be a codicil to his last will and testament, in the presence of us. 
+
+Francis Bailey, Thomas Lang, Abraham Shoemaker.
+--- END BLOCK 2 ---

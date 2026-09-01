@@ -32,7 +32,7 @@ verification:
   method: raw-capture
   source: raw/202609010202-price-appeal-national-debt.txt
   verified: true
-  date: '2026-09-01T02:05:02Z'
+  date: '2026-09-01T05:04:39Z'
 raw_capture: raw/202609010202-price-appeal-national-debt.txt
 links: []
 created: '2026-09-01'
