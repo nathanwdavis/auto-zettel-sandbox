@@ -248,3 +248,9 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T05:05:04Z` step 9: build_manifest — 47 notes indexed (+3: Franklin reference/literature/permanent), plus .bib/refs.json
 - `2026-09-01T05:05:04Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; dead ends re-confirmed ~2h earlier by the previous cycle, deliberately not re-attempted); no inquiry status changes (none open)
 - `2026-09-01T05:05:39Z` remote_cycle: lock released
+- `2026-09-01T05:06:50Z` build_manifest: 47 notes indexed
+- `2026-09-01T05:06:57Z` verify_refs: 14/14 verified
+- `2026-09-01T05:06:59Z` lint_citations: PASS
+- `2026-09-01T05:06:59Z` lint_links: PASS
+- `2026-09-01T05:07:00Z` lint_skills: PASS
+- `2026-09-01T05:07:06Z` remote_cycle: CI 'gates' failed on a87f321 (manifest.json out of date) — root cause: manifest built with stale cached skill 7181e41 while CI runs skill@main effad78; refreshed the cache to effad78, rebuilt manifest (+16 lines), re-ran all gates clean (verify_refs --offline 14/14, lint_citations, lint_links, lint_skills, build_manifest --check), pushing fix

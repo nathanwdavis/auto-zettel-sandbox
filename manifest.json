@@ -49,6 +49,22 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
+  "inquiries": [
+    {
+      "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
+      "path": "inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md",
+      "priority": "high",
+      "question": "How does mainstream evangelical Christian theology answer the question 'Who is God?', and how does that compare to other Abrahamic religions? Do they all actually share the same God, or different Gods with some common attributes?",
+      "result_notes": [
+        "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
+        "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
+        "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
+        "the-same-god-question-turns-on-reference-versus-description--202608311942"
+      ],
+      "status": "answered",
+      "updated": "2026-08-31"
+    }
+  ],
   "note_count": 47,
   "notes": [
     {
