@@ -1,0 +1,775 @@
+Bounded excerpt capture of Del Ratzsch and Jeffrey Koperski, "Teleological
+Arguments for God's Existence", The Stanford Encyclopedia of Philosophy
+(Summer 2023 Edition), Edward N. Zalta and Uri Nodelman (eds.), first
+published 2005-06-10, substantive revision 2023-04-05. Canonical URL:
+https://plato.stanford.edu/entries/teleological-arguments/ (fetched
+2026-09-01T09:59Z, minute precision, HTTP 200, from the SEP's own site;
+copyright 2023 by the authors). The SEP entry is an in-copyright scholarly
+work, so per this repository's excerpt policy for in-copyright sources (the
+Housel and Bush precedents) this capture is BOUNDED EXCERPTS, not the full
+entry: three contiguous blocks covering the spans the notes quote from,
+under half of the entry's text. The skipped sections (the rest of 2.2, 2.3
+abductive schema, 3.1-3.2 explaining away and indirect causation) and the
+bibliography are NOT captured; notes must not quote them, and cite them
+only as attributed summary. HTML was converted to plain text by dropping
+script/style blocks, stripping tags, and unescaping entities; whitespace
+runs collapsed; nothing else altered. Single-witness capture: the SEP is
+itself the canonical publisher of this born-digital text
+(Fordham-sourcebook precedent), so no second textual witness exists to
+cross-check; quotations must match this capture verbatim.
+
+BLOCK 1 -- entry preamble, table of contents, section 1 (Introduction),
+and section 2.1 (Analogical Design Arguments: Schema 1).
+
+
+
+Teleological Arguments for God’s Existence First published Fri Jun 10, 2005; substantive revision Wed Apr 5, 2023
+
+Some phenomena within nature exhibit such exquisiteness of structure,
+function or interconnectedness that many people have found it natural
+to see a deliberative and directive mind behind those phenomena. The
+mind in question is typically taken to be supernatural.
+Philosophically inclined thinkers have both historically and at
+present labored to shape the relevant intuition into a more formal,
+logically rigorous inference. The resultant theistic arguments, in
+their various logical forms, share a focus on plan, purpose,
+intention, and design, and are thus classified as teleological
+arguments (or, frequently, as arguments from or to design).
+
+Although enjoying some prominent defenders over the centuries, such
+arguments have also attracted serious criticisms from major historical
+and contemporary thinkers. Critics and advocates include not only
+philosophers but also scientists and thinkers from other disciplines
+as well. In the following discussion, major variant forms of
+teleological arguments will be distinguished and explored, traditional
+philosophical and other criticisms will be discussed, and the most
+prominent contemporary turns (cosmic fine tuning arguments,
+many-worlds theories, and the Intelligent Design debate) will be
+tracked. Discussion will conclude with a brief look at one
+historically important non-inferential approach to the issue.
+
+1. Introduction
+2. Design Inference Patterns
+
+2.1 Analogical Design Arguments: Schema 1
+2.2 Deductive Design Arguments: Schema 2
+2.3 Inferences to the Best Explanation/Abductive Design Arguments: Schema 3
+
+3. Alternative Explanation
+
+3.1 Explaining Away
+3.2 Indirect Causation, Design and Evidences
+
+4. Further Contemporary Design Discussions
+
+4.1 Cosmological: Fine-Tuning
+
+4.1.1 No explanation needed
+4.1.2 Rival explanations
+
+4.2 Biological: The “Intelligent Design” Movement
+
+5. The Persistence of Design Thinking
+6. Conclusion
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+
+1. Introduction
+
+It is not uncommon for humans to find themselves with the intuition
+that random, unplanned, unexplained accident just
+couldn’t produce the order, beauty, elegance, and
+seeming purpose that we experience in the natural world around us. As
+Hume’s interlocutor Cleanthes put it, we seem to see “the
+image of mind reflected on us from innumerable objects” in
+nature (Hume 1779 [1998], 35). And many people find themselves
+convinced that no explanation for that mind-resonance which
+fails to acknowledge a causal role for intelligence, intent and
+purpose in nature can be seriously plausible.
+
+Cosmological arguments often begin with the bare fact that there are
+contingently existing things and end with conclusions concerning the
+existence of a cause with the power to account for the
+existence of those contingent things. Others reason from the
+premise that the universe has not always existed to a cause that
+brought it into being. Teleological arguments (or arguments from
+design ) by contrast begin with a much more specialized catalogue
+of properties and end with a conclusion concerning the existence of a
+designer with the intellectual properties (knowledge,
+purpose, understanding, foresight, wisdom, intention) necessary to
+design the things exhibiting the special properties in
+question. In broad outline, then, teleological arguments focus upon
+finding and identifying various traces of the operation of a mind in
+nature’s temporal and physical structures, behaviors and paths.
+Order of some significant type is usually the starting point
+of design arguments.
+
+Design-type arguments are largely unproblematic when based upon things
+nature clearly could not or would not produce (e.g.,
+most human artifacts), or when the intelligent agency is itself
+‘natural’ (human, alien, etc.). Identifying designed
+traces of ‘lost’ human civilizations or even non-human
+civilizations (via SETI) could in principle be uncontroversial.
+Objections to design inferences typically arise only when the posited
+designer is something more exotic or perhaps supernatural.
+
+But despite the variety of spirited critical attacks they have
+elicited, design arguments have historically had and continue to have
+widespread intuitive appeal—indeed, it is sometimes claimed that
+design arguments are the most persuasive of all purely philosophical
+theistic arguments. Note that while design arguments have
+traditionally been employed to support theism over metaphysical
+naturalism, some might also be relevant for panentheism, panpsychism,
+and other views involving irreducible teleology.
+
+2. Design Inference Patterns
+
+The historical arguments of interest are precisely the potentially
+problematic ones—inferences beginning with some empirical
+features of nature and concluding with the existence of a designer. A
+standard but separable second step—the natural theology
+step—involves identifying the designer as God, often via
+particular properties and powers required by the designing in
+question. Although the argument wielded its greatest intellectual
+influence during the 18th and early 19th centuries, it goes back at
+least to the Greeks and in extremely clipped form comprises one of
+Aquinas’s Five Ways. It was given a fuller and quite nice early
+statement by Hume’s Cleanthes (1779 [1998], 15).
+
+The question remains, however, about the formal structure of such
+arguments. What sort of logic is being employed? As it turns out, that
+question does not have just a single answer. Several distinct answers
+are canvassed in the following sections.
+
+2.1 Analogical Design Arguments: Schema 1
+
+Design arguments are routinely classed as analogical
+arguments—various parallels between human artifacts and certain
+natural entities being taken as supporting parallel conclusions
+concerning operative causation in each case. The standardly ascribed
+schema is roughly thus:
+
+Schema 1 :
+
+Entity e within nature (or the cosmos, or nature itself)
+is like specified human artifact a (e.g., a machine)
+in relevant respects R .
+
+a has R precisely because it is a
+product of deliberate design by intelligent human agency.
+
+Like effects typically have like causes (or
+like explanations, like existence requirements,
+etc.)
+
+Therefore
+
+It is (highly) probable that e has R precisely
+because it too is a product of deliberate design by intelligent,
+relevantly human- like agency.
+
+2.1.1 Humean objections
+
+This general argument form was criticized quite vigorously by Hume, at
+several key steps. Against (1), Hume argued that the analogy is not
+very good—that nature and the various things in it are not
+very like human artifacts and exhibit substantial differences
+from them—e.g., living vs. not, self-sustaining vs. not. Indeed,
+whereas advocates of design arguments frequently cited similarities
+between the cosmos on the one hand and human machines on the other,
+Hume suggested that the cosmos much more closely resembled a living
+organism than a machine. (Contemporary cosmology strengthens
+Hume’s point, given the radical changes that have taken place
+since the Big Bang. The universe looks less stable and
+“machine-like” than when the design argument was at the
+height of its popularity.) But if the alleged resemblance is in
+relevant respects distant, then the inference in question will be
+logically fragile. And while (2) may be true in specific cases of
+human artifacts a , that fact is only made relevant to natural
+phenomena e via (3), which underpins the transfer of the key
+attribution. Against (3), Hume argued that any number of alternative
+possible explanations could be given of allegedly designed entities in
+nature—chance, for instance. Thus, even were (1) true
+and even were there important resemblances, the argument might confer
+little probabilistic force onto the conclusion.
+
+More generally, Hume also argued that even if something like the
+stated conclusion (4) were established, that left the arguer far from
+anything like a traditional conception of God. For instance, natural
+evils or apparently suboptimal designs might suggest e.g., an amateur
+designer or a committee of designers. And if phenomena instrumental to
+the production of natural evils (e.g., disease microorganisms)
+exhibited various of the R s, then they would presumably have
+to be laid at the designer’s door, further eroding the
+designer’s resemblance to the wholly good deity of tradition.
+And even the most impressive empirical data could properly establish
+only finite (although perhaps enormous) power and wisdom, rather than
+the infinite power and wisdom usually associated with divinity. But
+even were one to concede some substance to the design argument’s
+conclusion, that would, Hume suggested, merely set up a regress. The
+designing agent would itself demand explanation, requiring ultimately
+a sequence of prior analogous intelligences producing intelligences.
+And even were the existence of a designer of material things
+established, that did not yet automatically establish the existence of
+a creator of the matter so shaped. And since analogical
+arguments are a type of induction (see the entry on
+analogy and analogical reasoning ),
+the conclusion even if established would be established only to some,
+perhaps insignificant, degree of probability. Furthermore, we could
+not ground any induction concerning the cosmos itself upon a requisite
+fund of experiences of other cosmoi found to be both deliberately
+designed and very like ours in relevant respects—for
+the simple reason that this universe is our only sample. And finally
+the fraction of this one cosmos (both spatially and temporally)
+available to our inspection is extraordinarily small—not a
+promising basis for a cosmically general conclusion. Hume concluded
+that while the argument might constitute some limited grounds for
+thinking that “ the cause or causes of order in the universe
+probably bear some remote analogy to human intelligence ”
+(1779 [1998], 88) Hume’s emphasis)—and that is not a
+trivial implication—it established nothing else whatever.
+
+Historically, not everyone agreed that Hume had fatally damaged the
+argument. It is simply not true that explanatory inferences cannot
+properly extend beyond merely what is required for known effects. As a
+very general example, based on the few observations which humans had
+made during a cosmically brief period in a spatially tiny part of the
+cosmos, Newton theorized that all bits of matter at
+all times and in all places attracted all
+other bits of matter. There was nothing logically suspect here.
+Indeed, simplicity and uniformity considerations—which have
+considerable well-earned scientific clout—push in the direction
+of such generalizations.
+
+But Hume certainly identified important places within the argument to
+probe. Whether his suggestions are correct concerning the uncertain
+character of any designer inferred will depend upon the specific
+R s and upon what can or cannot be definitively said
+concerning requirements for their production.
+
+2.1.2 R Concerns: Round 1
+
+Key questions, then, include: what are the relevant R s
+typically cited? do those R s genuinely signal purpose and
+design? how does one show that either way? are there viable
+alternative accounts of the R s requiring no reference to
+minds? how does one show that either way? The specific
+R s in question are obviously central to design argument
+efforts. Although the underlying general category is, again, some
+special type of orderliness, the specifics have ranged rather widely
+historically. Among the more straightforwardly empirical are inter
+alia uniformity, contrivance, adjustment of means to ends,
+particularly exquisite complexity, particular types of functionality,
+delicacy, integration of natural laws, improbability, and the fitness
+(fine-tuning) of the inorganic realm for supporting life. Several
+problematic proposals that are empirically further removed and have
+axiological overtones have also been advanced, including the
+intelligibility of nature, the directionality of evolutionary
+processes, aesthetic characteristics (beauty, elegance, and the like),
+apparent purpose and value (including the aptness of our world for the
+existence of moral value and practice) and just the sheer niftiness of
+many of the things we find in nature.
+
+BLOCK 2 -- the opening of section 2.2 (Deductive Design Arguments:
+Schema 2), which carries the entry's main treatment of Paley's watch and
+its reading of Paley as arguing from marks of contrivance rather than by
+analogy. The remainder of 2.2 is not captured.
+
+
+
+2.2 Deductive Design Arguments: Schema 2
+
+But some advocates of design arguments had been reaching for a deeper
+intuition. The intuition they were attempting to capture involved
+properties that constituted some degree of evidence for design, not
+just because such properties happened to be often or even only
+produced by designing agents. Advocates were convinced that the
+appropriate R s in question were in their own right directly
+reflective of and redolent of cognition, that this directly suggested
+mind , that we could see nearly directly that they were the
+general sort of thing that a mind might or even
+would generate, and that consequently they did not depend for
+their evidential force upon previously established known instances of
+design. When we see a text version of the Gettysburg Address, that
+text says mind to us in a way totally unrelated to any
+induction or analogy from past encounters with
+written texts. It was that type of testimony to mind, to design, that
+some historical advocates of design arguments believed that they found
+in some R s observed in nature—a testimony having no
+dependency on induction or analogy. Beauty, purpose and in general
+value especially when conjoined with delicate complexity were
+popular underlying intuitive marks. Intricate, dynamic, stable,
+functioning order of the sort we encounter in nature was frequently
+placed in this category. Such order was taken to be suggestive of
+minds in that it seemed nearly self-evidently the sort of thing minds
+were prone to produce. It was a property whose
+mind-resonating character we could unhesitatingly attribute
+to intent.
+
+Despite Hume’s earlier demurs that things in nature are not
+really very like artifacts such as machines, most people who are most
+familiar with nature’s dazzling intricacies freely admit that
+nature abounds with things that look designed—that are
+intention- shaped . For instance, Francis Crick (no fan of
+design) issued a warning to his fellow biologists:
+
+Biologists must constantly keep in mind that what they see was not
+designed, but rather evolved. (Crick 1988, 138).
+
+Along with this perception of mind-suggestiveness went a further
+principle—that the mind-suggestive or design- like
+characteristics in question were too palpable to have been generated
+by non-intentional means.
+
+That allows specification of a second design inference pattern:
+
+Schema 2 :
+
+Some things in nature (or nature itself, the cosmos) are
+design-like (exhibit a cognition-resonating, intention-shaped
+character R )
+
+Design-like properties ( R ) are not producible by
+(unguided) natural means—i.e., any phenomenon exhibiting such
+R s must be a product of intentional design.
+
+Therefore
+
+Some things in nature (or nature itself, the cosmos) are products
+of intentional design, which in turn requires agency of some
+type.
+
+Notice that explicit reference to human artifacts has dropped
+out of the argument, and that the argument is no longer comparative
+but has become essentially deductive. Some arguments were historically
+intended as arguments of that type. William Paley famously sees no
+design-like properties in a stone, but finding a watch on the ground
+would be another matter. Unlike the stone, it could not always have
+been there. Why
+not? [ 1 ]
+
+For this reason, and for no other, namely, that when we come to
+inspect the watch, we perceive—what we could not discover in the
+stone—that its several parts are framed and put together for a
+purpose … [The requisite] mechanism being observed … the
+inference we think is inevitable, that the watch must have had a
+maker. ... Every observation which was made in our first chapter
+concerning the watch may be repeated with strict propriety concerning
+the eye, concerning animals, concerning plants, concerning, indeed,
+all the organized parts of the works of nature. … [T]he
+eye … would be alone sufficient to support the
+conclusion which we draw from it, as to the necessity of an
+intelligent Creator. …
+
+Although Paley’s argument is routinely construed as analogical,
+it contains an informal statement of the above variant argument type.
+Paley goes on for two chapters discussing the watch, discussing the
+properties in it which evince design, and destroying potential
+objections to concluding design in the watch. It is only then that
+entities in nature—e.g., the eye—come onto the horizon.
+Paley isn’t trying to persuade his readers that the watch is
+designed and has a designer. He is teasing out the bases and
+procedures from and by which we should and should not reason about
+design and designers. Thus Paley’s use of the term
+‘inference’ in connection with the watch’s
+designer. [ 2 ]
+
+Once having acquired the relevant principles, then in Chapter 3 of
+Natural Theology —“Application of the
+Argument”—Paley applies the same
+argument (vs. presenting us with the other half of the analogical
+argument) to things in nature. The cases of human artifacts and nature
+represent two separate inference instances:
+
+up to the limit, the reasoning is as clear and certain in the one case
+as in the other. (Paley 1802 [1963], 14)
+
+But the instances are instances of the same inferential
+move:
+
+there is precisely the same proof that the eye was made for
+vision as there is that the telescope was made for assisting it.
+(Paley 1802 [1963], 13)
+
+The watch does play an obvious and crucial role—but as a
+paradigmatic instance of design inferences rather than as the
+analogical foundation for an inferential comparison.
+
+Schema 2, not being analogically structured, would not be vulnerable
+to the ills of
+analogy, [ 3 ]
+and not being inductive would claim more than mere probability for
+its conclusion. That is not accidental. Indeed, it has been argued
+that Paley was aware of Hume’s earlier attacks on analogical
+
+
+BLOCK 3 -- section 4.1 (Cosmological: Fine-tuning), section 4.2
+(Biological: Intelligent Design), and section 5 (Conclusion). This is the
+entry's treatment of the fine-tuning argument, the Intelligent Design
+movement (Behe's irreducible complexity, Dembski's design inferences, and
+the entry's record of the scientific community's response), and the
+closing assessment.
+
+
+
+4.1 Cosmological: Fine-tuning
+
+Intuitively, if the laws of physics were different, the evolution of
+life would not have taken the same path. If gravity were stronger, for
+example, then flying insects and giraffes would most likely not exist.
+Contemporary physics provides significantly more drama to the story.
+Even an extraordinarily small change in one of many key parameters in
+the laws of physics would have made life impossible anywhere in the
+universe. Consider two examples:
+
+The expansion rate of the universe is represented by the
+cosmological constant Λ. If Λ were slighter greater,
+there would be no energy sources, such as stars. If it were slightly
+less, the Big Bang would have quickly led to a Big Crunch in which the
+universe collapsed back onto itself. For life to be possible, Λ
+cannot vary more than one part in 10 53 (Collins 2003)
+
+Life depends on, among other things, a balance of carbon and
+oxygen in the universe. If the strong nuclear force were different by
+0.4%, there would not be enough of one or the other for life to exist
+(Oberhummer, Csótó, and Schlattl 2000). Varying this
+constant either way “would destroy almost all carbon or almost
+all oxygen in every star” (Barrow 2002, 155).
+
+Many examples of fine-tuning have to do with star formation. Stars are
+important since life requires a variety of elements: oxygen, carbon,
+hydrogen, nitrogen, calcium, and phosphorus. Stars contain the only
+known mechanism for producing large quantities of these elements and
+are therefore necessary for life. Lee Smolin estimates that when all
+of the fine-tuning examples are considered, the chance of stars
+existing in the universe is 1 in 10 229 . “In my
+opinion, a probability this tiny is not something we can let go
+unexplained. Luck will certainly not do here; we need some rational
+explanation of how something this unlikely turned out to be the
+case” (Smolin 1999, 45). Smolin is not merely claiming that all
+improbable events require an explanation, but some improbable events
+are special. (In poker, every set of five cards dealt to the dealer
+has the same probability, assuming that the cards are shuffled
+sufficiently. If the dealer is dealt a pair on three successive hands,
+no special explanation is required. If the dealer is dealt a royal
+flush on three successive hands, an explanation would rightly be
+demanded, and the improbability of this case isn’t even close to
+the magnitude of the improbability that Smolin mentioned.) Physicists
+who have written on fine-tuning agree with Smolin that it cries out
+for an explanation. (What physicists in general think is, of course,
+harder to determine.) One explanation is that the universe appears to
+be fine-tuned for the existence of life because it literally has been
+constructed for life by an intelligent agent.
+
+There are two other types of responses to fine-tuning: (i) it does
+not, in fact, require a special explanation, and (ii) there are
+alternative explanations to theistic design. Let’s briefly
+consider these (also see the entry on
+fine-tuning ).
+
+4.1.1 No explanation needed
+
+Three approaches have been taken to undermine the demand for
+explanation presented by fine-tuning.
+
+4.1.1.1 Weak anthropic principle
+
+In a sense, it is necessary for the fine-tuned constants to have
+values in the life-permitting range: If those values were not within
+that range, people would not exist. The fine-tuned constants
+must take on the values that they have in order for
+scientists to be surprised by their discovery in the first place. They
+could not have discovered anything else. According to the weak
+anthropic principle, we ought not to be surprised by having made such
+a discovery, since no other observation was possible. But if we should
+not have been surprised to have made such a discovery, then there is
+nothing unusual here that requires a special explanation. The demand
+for explanation is simply misplaced.
+
+4.1.1.2 Observational selection effect
+
+Sober gives a related but stronger argument based on observational
+selection effects (Sober 2009, 77–80). Say that Jones nets a
+large number of fish from a local lake, all of which are over 10
+inches long. Let \(h_{\textrm{all}}\) = ‘all of the fish in the lake
+are over 10 inches long’ and \(h_{1/2}\) = ‘Half of the
+fish in the lake are over 10 inches long’. The evidence \(e\) is
+such that \(P(e|h_{\textrm{all}}) >
+P(e | h_{1/2})\). Now say that Jones discovers
+that his net is covered with 10 inch holes, preventing him from
+capturing any smaller fish. In that case, \(e\) does not favor one
+hypothesis over the other. The evidence \(e\) is an artifact of the net
+itself, not a random sample of the fish in the lake.
+
+When it comes to fine-tuning, Sober considers
+\(h_{\textrm{design}}\) = ‘the constants have been set in place by an
+intelligence, specifically God’, and
+\(h_{\textrm{chance}}\) = ‘the constants are what they are as a matter
+of mindless random chance’. While intuitively
+
+\(P(\textrm{constants are just right for life} | h_{\textrm{design}}) >\)
+\(\;\; P(\textrm{constants are just right for life} | h_{\textrm{chance}}) \)
+
+one has to consider the role of the observer, who is analogous to the
+net in the fishing example. Since human observers could only detect
+constants in the life-permitting range, Sober argues, the correct
+probabilities are
+
+\( P(\textrm{you observe that the constants are right} |
+h_{\textrm{design}} \amp \textrm{you exist}) =\)
+\(\;\; P(\textrm{you
+observe that the constants are right} | h_{\textrm{chance}} \amp
+\textrm{you exist}) \)
+
+Given this equality, fine-tuning does not favor \(h_{\textrm{design}}\)
+over \(h_{\textrm{chance}}\). The selection effect prevents any
+confirmation of design.
+
+Sober’s analysis is critiqued in Monton 2006 and Kotzen
+2012. Also see Jantzen 2014a (sec. 18.4). We should note that if
+Sober is correct, then the naturalistic explanations for fine-tuning
+considered below (4.1.2) are likewise misguided.
+
+4.1.1.3 Probabilities do not apply
+
+Let C stand for a fine-tuned parameter with physically
+possible values in the range [0, ∞). If we assume that nature is
+not biased toward one value of C rather than another, then
+each unit subinterval in this range should be assigned equal
+probability. Fine-tuning is surprising insofar as the life-permitting
+range of C is tiny compared to the full interval, which
+corresponds to a very small probability.
+
+As McGrew, McGrew & Vestrup argue (2001), there is a problem here
+in that, strictly speaking, mathematical probabilities do not apply in
+these circumstances. When a probability distribution is defined over a
+space of possible outcomes, it must add up to exactly 1. But for any
+uniform distribution over an infinitely large space, the sum of the
+probabilities will grow arbitrarily large as each unit interval is
+added up. Since the range of C is infinite, McGrew et
+al . conclude that there is no sense in which life-friendly
+universes are improbable; the probabilities are mathematically
+undefined.
+
+One solution to this problem is to truncate the interval of possible
+values. Instead of allowing C to range from [0, ∞), one
+could form a finite interval [0, N ], where N is very
+large relative to the life-permitting range of C . A
+probability distribution could then be defined over the truncated
+range.
+
+A more rigorous account employs measure theory. Measure is sometimes
+used in physics as a surrogate for probability. For example, there are
+many more irrational numbers than rational ones. In measure theoretic
+terms, almost all real numbers are irrational, where
+“almost all” means all but a set of zero measure. In
+physics, a property found for almost all of the solutions to an
+equation requires no explanation; it’s what one should expect.
+It’s not unusual, for instance, for a pin balancing on its tip
+to fall over. Falling over is to be expected. In contrast, if a
+property that has zero measure in the relevant space were actually
+observed to be the case, like the pin continuing to balance on its
+tip, that would demand a special explanation (Earman 1987, 315).
+Assuming one’s model for the system is correct, nature appears
+to be strongly biased against such behavior (Gibbons, Hawking &
+Stewart 1987, 736). The argument for fine-tuning can thus be recast
+such that almost all values of C are outside of the
+life-permitting range. The fact that our universe is life-permitting
+is therefore in need of explanation.
+
+The question of whether probabilities either do not apply or have been
+improperly applied to cosmological fine-tuning continues to draw
+interest. For more, see Davies 1992, Callender 2004, Holder
+2004, Koperski 2005, Manson 2009, Jantzen 2014a (sec. 18.3), and
+Sober 2019 (sec. 5.1). Manson (2018) argues that neither theism nor
+naturalism provides a better explanation for fine-tuning.
+
+4.1.2 Rival explanations
+
+Assuming that fine-tuning does require an explanation, there are
+several approaches one might take (Koperski 2015, section 2.4).
+
+4.1.2.1 Scientific progress
+
+That the universe is fine-tuned for life is based on current science.
+Just as current science explained or explained away many past
+anomalies, future science may explain or explain away fine-tuning.
+Science may one day find a naturalistic answer, eliminating the need
+for design. For suggestions along these lines, see Harnik, Kribs &
+Perez 2006, and Loeb 2014.
+
+While this is a popular stance, it is a promissory note rather than an
+explanation. The appeal to what might yet be discovered is not itself
+a rival hypothesis.
+
+4.1.2.2 Exotic life
+
+It’s conceivable that life could exist in a universe with
+parameter values that we do not typically believe are life-permitting.
+In other words, there may be exotic forms of life that could survive
+in a very different sort of universe. If so, then perhaps the
+parameter intervals that are in fact life-permitting are not
+fine-tuned after all.
+
+The main difficulty with this suggestion is that all life requires a
+means for overcoming the second law of thermodynamics. Life requires
+the extraction of energy from the environment. Any life-form
+imaginable must therefore have systems that allow for something like
+metabolism and respiration, which in turn require a minimal amount of
+complexity (e.g., there can be no single-molecule life forms). Many
+examples of fine-tuning do not allow for such complexity, however. If
+there were no stars, for example, then there would be no stable
+sources of energy and no mechanism for producing the heavier elements
+in the periodic table. Such a universe would lack the chemical
+building blocks needed for a living entity to extract energy from the
+environment and thereby resist the pull of entropy.
+
+4.1.2.3 Multiverse
+
+While the odds of winning a national lottery are low, your odds would
+obviously increase if you were to buy several million tickets. The
+same idea applies to the most popular explanation for fine-tuning: a
+multiverse. Perhaps physical reality consists of a massive array of
+universes each with a different set of values for the relevant
+constants. If there are many—perhaps infinitely
+many—universes, then the odds of a life-permitting universe
+being produced would seem to be much greater. While most of the
+universes in the multiverse would be unfit for life, so the argument
+goes, ours is one of the few where all of the constants have the
+required values.
+
+While the philosophical literature on the multiverse continues to grow
+(see Collins 2009, 2012, and Kraay 2014), many of the arguments
+against it share a common premise: a multiverse would not, by itself,
+be a sufficient explanation of fine-tuning. More would have to be
+known about the way in which universes are produced. By analogy, just
+because a roulette wheel has 38 spaces does not guarantee that the
+probability of Red 25 is 1/38. If the wheel is rigged in some
+way—by using magnets for example—to prevent that outcome,
+then the probability might be extremely small. If the table were
+rigged and yet Red 25 was the actual winner, that would
+require a special explanation. Likewise, one would have to know
+whether universe production within the multiverse is biased for,
+against, or is indifferent to the life-permitting values of the
+relevant constants. Depending on the outcome, the existence of a
+multiverse might or might not explain fine-tuning.
+
+A more pressing problem would be the proliferation of “Boltzmann
+brains” (BB) in a multiverse (Carroll 2020). BBs are intelligent
+beings produced by quantum fluctuations. The beliefs of such
+nonstandard observers are formed by random processes and therefore
+lack rational support. Since there would be many orders of magnitude
+more BBs than standard observers in a multiverse, it is statistically
+likely that you are not, in fact, a standard observer after all. This
+fact serves as a defeater for most of your beliefs, including your
+belief in a multiverse. Belief in a multiverse is therefore
+self-defeating.
+
+4.2 Biological: Intelligent Design
+
+A high-profile development in design arguments over the past 20 years
+or so involves what has come to be known as Intelligent Design (ID).
+Although there are variants, it generally involves efforts to
+construct design arguments taking cognizance of various contemporary
+scientific developments (primarily in biology, biochemistry, and
+cosmology)—developments which, as most ID advocates see it, both
+reveal the inadequacy of mainstream explanatory accounts (condition
+(a)) and offer compelling evidence for design in nature at some level
+(condition (e) again).
+
+ID advocates propose two specialized R s— irreducible
+complexity (Behe 1996) and specified complex information
+(Dembski 1998,
+2002). [ 11 ]
+Although distinctions are sometimes blurred and while ID arguments
+involving each of those R s tend to be gap arguments,
+an additional focus on mind-reflective aspects of nature is typically
+more visible in ID arguments citing specified complexity than in
+arguments citing irreducible complexity.
+
+The movement has elicited vociferous criticism and opposition (Pennock
+2000). Opponents have pressed a number of objections against ID
+including, inter alia contentions that ID advocates have
+simply gotten the relevant science wrong, that even where the science
+is right the empirical evidences cited by design advocates do not
+constitute substantive grounds for design conclusions, that the
+existence of demonstrably superior alternative explanations for the
+phenomena cited undercuts the cogency of ID cases, and that design
+theories are not legitimate science , but are just disguised
+creationism, God-of-the-gaps arguments, religiously motivated,
+etc.
+
+We will not pursue that dispute here except to note that even if the
+case is made that ID could not count as proper science, which is
+controversial, [ 12 ]
+that would not in itself demonstrate a defect in design arguments as
+such. Science need not be seen as exhausting the space of legitimate
+conclusions from empirical data. In any case, the floods of vitriol
+flowing from both
+
+sides in the current ID discussion suggest that much more than the
+propriety of selected inferences from particular empirical evidences
+is at issue.
+
+5. The Persistence of Design Thinking
+
+That question is: why do design arguments remain so durable if
+empirical evidence is inferentially ambiguous, the arguments logically
+controversial, and the conclusions vociferously disputed? One
+possibility is that they really are better arguments than most
+philosophical critics concede. Another possibility is that design
+intuitions do not rest upon inferences at all. The situation
+may parallel that of the existence of an external world, the existence
+of other minds, and a number of other familiar matters. The 18th
+century Scottish Common Sense philosopher Thomas Reid (and his
+contemporary followers) argued that we are simply so constructed that
+in certain normally-realized experiential circumstances we simply
+find that we in fact have involuntary convictions about such
+a world, about other minds, and so forth. That would explain why
+historical philosophical attempts to reconstruct the
+arguments by which such beliefs either arose or were justified were
+such notorious failures—failures in the face of which ordinary
+belief nonetheless proceeded happily and helplessly onward. If a
+similar involuntary belief-producing mechanism operated with respect
+to intuitions of design, that would similarly explain why
+argumentative attempts have been less than universally compelling but
+yet why design ideas fail to disappear despite the purported failure
+of such arguments.
+
+A number of prominent figures historically in fact held that we could
+determine more or less perceptually that various things in nature were
+candidates for design attributions—that they were in the
+requisite respects design- like . Some, like William Whewell,
+held that we could perceptually identify some things as more than mere
+candidates for design (1834, 344). Thomas Reid also held a view in
+this
+region, [ 13 ]
+as did Hume’s Cleanthes, and, more recently, Alvin Plantinga
+(2011, 263–264).
+
+If something like that were the operative process, then ID, in trying
+to forge a scientific link to design in the sense of
+inferences from empirically determined evidences would be
+misconstructing the actual basis for design belief, as would be design
+arguments more generally. It is perhaps telling, in this regard, that
+scientific theorizing typically involves substantial creativity and
+that the resultant theories are typically novel and unexpected. Design
+intuitions, however, do not seem to emerge as novel construals from
+creative grappling with data, but are embedded in our thinking nearly
+naturally—so much so that, again, Crick thinks that biologists
+have to be immunized against it.
+
+6. Conclusion
+
+Perception and appreciation of the incredible intricacy and the beauty
+of things in nature—whether biological or cosmic—has
+certainly inclined many toward thoughts of purpose and design in
+nature, and has constituted important moments of affirmation for those
+who already accept design positions. Regardless of what one thinks of
+the arguments at this point, so long as nature has the power to move
+us (as even Kant admitted that the ‘starry heavens above’
+did), design convictions and arguments are unlikely to disappear
+quietly.
+

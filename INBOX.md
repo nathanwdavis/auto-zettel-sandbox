@@ -161,3 +161,24 @@ the only OA locations are exactly these blocked ones (oa_status bronze,
 no repository fulltext). Conclusion: not obtainable from remote-session
 environments at all; needs the laptop path (real browser on a real
 network), library/institutional access, or a purchased copy. Left open.
+
+## 2026-09-01 — Follow-up: teleological-arguments ranking rests on Craig plus the SEP survey; broaden the evangelical-assessment base
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-01 cycle, inquiry 202609010930)
+
+The answer to inquiry 202609010930 ranks the top design arguments in
+evangelical natural theology on three captured sources: Paley (primary),
+the SEP survey (Ratzsch & Koperski 2023), and Craig 1990 (the one directly
+captured evangelical endorsement). A future run should capture a broader
+base of named evangelical assessments and revisit ranks 3-5 in
+particular: candidates include Plantinga ("Two Dozen (or so) Theistic
+Arguments" or Where the Conflict Really Lies), McGrath (A Fine-Tuned
+Universe), a BioLogos-versus-Discovery-Institute exchange on irreducible
+complexity (both sides publish openly on the web, so this should be
+capturable from a remote session), Robin Collins's fine-tuning chapter in
+the Blackwell Companion to Natural Theology (likely paywalled), and a
+primary Aquinas capture (Summa Theologiae I q.2 a.3, public-domain 1920
+Dominican translation, easily capturable) to ground the Fifth Way lineage
+now cited only via the SEP.

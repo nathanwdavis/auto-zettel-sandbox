@@ -65,6 +65,14 @@
     "202609010908": "darwin-on-the-origin-of-species--202609010908",
     "202609010909": "darwin-applies-malthus-with-manifold-force-to-all-life--202609010909",
     "202609010910": "universal-compounding-turns-bounded-room-into-selection--202609010910",
+    "202609011003": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003",
+    "202609011004": "paley-natural-theology--202609011004",
+    "202609011005": "craig-the-teleological-argument-and-the-anthropic-principle--202609011005",
+    "202609011010": "paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010",
+    "202609011011": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011",
+    "202609011012": "craig-restakes-teleology-on-anthropic-fine-tuning--202609011012",
+    "202609011015": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015",
+    "202609011016": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -92,8 +100,11 @@
       "path": "inquiries/what-are-the-top-5-teleological-arguments-for-an--202609010930.md",
       "priority": "normal",
       "question": "What are the top 5 teleological arguments for an evangelical view on the existence of God?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
+        "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+      ],
+      "status": "answered",
       "updated": "2026-09-01"
     },
     {
@@ -110,7 +121,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 70,
+  "note_count": 78,
   "notes": [
     {
       "id": "202609010113",
@@ -319,6 +330,10 @@
         {
           "relation": "supports",
           "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         },
         {
           "relation": "elaborates",
@@ -565,6 +580,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
+    },
+    {
+      "id": "202609011012",
+      "key": "craig-restakes-teleology-on-anthropic-fine-tuning--202609011012",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "craig-the-teleological-argument-and-the-anthropic-principle--202609011005"
+        }
+      ],
+      "path": "literature/craig-restakes-teleology-on-anthropic-fine-tuning--202609011012.md",
+      "slug": "craig-restakes-teleology-on-anthropic-fine-tuning",
+      "tags": [],
+      "title": "Craig restakes teleology on anthropic fine-tuning",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/craig-restakes-teleology-on-anthropic-fine-tuning--202609011012.md"
+    },
+    {
+      "id": "202609011005",
+      "key": "craig-the-teleological-argument-and-the-anthropic-principle--202609011005",
+      "links": [],
+      "path": "reference/craig-the-teleological-argument-and-the-anthropic-principle--202609011005.md",
+      "slug": "craig-the-teleological-argument-and-the-anthropic-principle",
+      "tags": [],
+      "title": "Craig, The Teleological Argument and the Anthropic Principle",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/craig-the-teleological-argument-and-the-anthropic-principle--202609011005.md"
     },
     {
       "id": "202609010909",
@@ -923,6 +967,10 @@
         {
           "relation": "shared-concept",
           "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         }
       ],
       "path": "permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md",
@@ -1064,6 +1112,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
     },
     {
+      "id": "202609011004",
+      "key": "paley-natural-theology--202609011004",
+      "links": [],
+      "path": "reference/paley-natural-theology--202609011004.md",
+      "slug": "paley-natural-theology",
+      "tags": [],
+      "title": "William Paley, Natural Theology (1802; 12th ed. 1809)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/paley-natural-theology--202609011004.md"
+    },
+    {
+      "id": "202609011010",
+      "key": "paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "paley-natural-theology--202609011004"
+        }
+      ],
+      "path": "literature/paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010.md",
+      "slug": "paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature",
+      "tags": [],
+      "title": "Paley reads contrivance off the watch and transfers it to nature",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010.md"
+    },
+    {
       "id": "202609010203",
       "key": "price-an-appeal-to-the-public-on-the-national-debt--202609010203",
       "links": [],
@@ -1111,6 +1188,35 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
+    },
+    {
+      "id": "202609011011",
+      "key": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003"
+        }
+      ],
+      "path": "literature/ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011.md",
+      "slug": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern",
+      "tags": [],
+      "title": "Ratzsch and Koperski sort design arguments by inference pattern",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011.md"
+    },
+    {
+      "id": "202609011003",
+      "key": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003",
+      "links": [],
+      "path": "reference/ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003.md",
+      "slug": "ratzsch-koperski-teleological-arguments-for-gods-existence",
+      "tags": [],
+      "title": "Ratzsch & Koperski, Teleological Arguments for God's Existence (SEP)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003.md"
     },
     {
       "id": "202701010011",
@@ -1340,6 +1446,72 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937.md"
     },
     {
+      "id": "202609011016",
+      "key": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "source",
+          "target_id": "paley-natural-theology--202609011004"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016.md",
+      "slug": "the-design-argument-concludes-to-a-maker-not-to-one-maker",
+      "tags": [],
+      "title": "The design argument concludes to a maker, not to one maker",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016.md"
+    },
+    {
+      "id": "202609011015",
+      "key": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "craig-the-teleological-argument-and-the-anthropic-principle--202609011005"
+        },
+        {
+          "relation": "source",
+          "target_id": "paley-natural-theology--202609011004"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
+        }
+      ],
+      "path": "permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md",
+      "slug": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics",
+      "tags": [],
+      "title": "The design argument's center of gravity moved from organisms to physics",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
+    },
+    {
       "id": "202608311933",
       "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
       "links": [
@@ -1387,6 +1559,10 @@
         {
           "relation": "source",
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         },
         {
           "relation": "source",

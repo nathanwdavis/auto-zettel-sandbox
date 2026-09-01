@@ -513,5 +513,114 @@
     "publisher-place": "London",
     "title": "On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life",
     "type": "book"
+  },
+  {
+    "URL": "https://plato.stanford.edu/entries/teleological-arguments/",
+    "author": [
+      {
+        "family": "Ratzsch",
+        "given": "Del"
+      },
+      {
+        "family": "Koperski",
+        "given": "Jeffrey"
+      }
+    ],
+    "container-title": "The Stanford Encyclopedia of Philosophy",
+    "edition": "Summer 2023",
+    "editor": [
+      {
+        "family": "Zalta",
+        "given": "Edward N."
+      },
+      {
+        "family": "Nodelman",
+        "given": "Uri"
+      }
+    ],
+    "id": "202609011003",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          5
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher": "Metaphysics Research Lab, Stanford University",
+    "title": "Teleological Arguments for God's Existence",
+    "type": "entry-encyclopedia"
+  },
+  {
+    "URL": "https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=A142&hitpage=1&viewtype=text",
+    "author": [
+      {
+        "family": "Paley",
+        "given": "William"
+      }
+    ],
+    "edition": "12th",
+    "id": "202609011004",
+    "issued": {
+      "date-parts": [
+        [
+          1809
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1802
+        ]
+      ]
+    },
+    "publisher": "Printed for J. Faulder",
+    "publisher-place": "London",
+    "title": "Natural Theology: or, Evidences of the Existence and Attributes of the Deity, Collected from the Appearances of Nature",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-teleological-argument-and-the-anthropic-principle",
+    "author": [
+      {
+        "family": "Craig",
+        "given": "William Lane"
+      }
+    ],
+    "collection-number": "24",
+    "collection-title": "Problems in Contemporary Philosophy",
+    "container-title": "The Logic of Rational Theism: Exploratory Essays",
+    "editor": [
+      {
+        "family": "Craig",
+        "given": "William Lane"
+      },
+      {
+        "family": "McLeod",
+        "given": "Mark S."
+      }
+    ],
+    "id": "202609011005",
+    "issued": {
+      "date-parts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "127-153",
+    "publisher": "Edwin Mellen",
+    "publisher-place": "Lewiston, N.Y.",
+    "title": "The Teleological Argument and the Anthropic Principle",
+    "type": "chapter"
   }
 ]

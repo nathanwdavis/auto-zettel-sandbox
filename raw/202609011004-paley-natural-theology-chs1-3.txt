@@ -1,0 +1,1564 @@
+Verbatim capture of William Paley, "Natural Theology: or, Evidences of the
+Existence and Attributes of the Deity, collected from the appearances of
+nature", Chapters I-III -- "State of the Argument" (the watch on the
+heath), "State of the Argument continued", and "Application of the
+Argument". First published 1802; both copies below are later editions of a
+public-domain work. The rest of the book is NOT captured here; both source
+copies are complete and public if a later run needs more.
+
+BLOCK 1 is the Darwin Online scholarly transcription of the 12th edition
+(London: Printed for J. Faulder, 1809; site record: "Paley, W. 1809.
+Natural Theology: or, Evidences of the Existence and Attributes of the
+Deity. 12th edition"; item A142, text digitized by and reproduced with the
+permission of the University of Michigan Digital Library Production
+Service), fetched 2026-09-01T10:00Z (minute precision) from
+https://darwin-online.org.uk/content/contentblock?basepage=1&itemID=A142&hitpage=1&viewtype=text
+(HTTP 200, no access restriction). The HTML was converted to plain text by
+dropping script/style blocks, stripping tags, and unescaping entities;
+whitespace runs collapsed; nothing else altered. Chapters I-III, printed
+pp. 1-48 of the 1809 edition; bracketed page markers (e.g. "[page] 8") are
+the transcription's own and anchor the page locators used in notes; where
+one falls mid-sentence the sentence continues after it, and quotations in
+notes may omit the interleaved "[page] N" markers but alter nothing else.
+THIS BLOCK IS THE QUOTATION ANCHOR: it is a clean keyed transcription, and
+notes quote its wording.
+
+BLOCK 2 is the Internet Archive OCR full text of a DIFFERENT edition --
+"Natural theology: or, Evidences of the existence and attributes of the
+Deity, collected from the appearances of nature. Illustrated by the
+plates, and by a selection from the notes of James Paxton, with additional
+notes, original and selected, for this edition, and a vocabulary of
+scientific terms, by John Ware" (New York: Sheldon & Company, 1879 print;
+IA identifier naturaltheologyo00pale, Princeton Theological Seminary
+copy), fetched 2026-09-01T10:00Z (minute precision) from
+https://archive.org/stream/naturaltheologyo00pale/naturaltheologyo00pale_djvu.txt
+(HTTP 200, public scan, no lending restriction on the full text). This is
+uncorrected OCR and visibly noisy (e.g. "In ci :ssing a heath" for "In
+crossing a heath"); it also interleaves the 1879 edition's editorial
+apparatus. It serves as the independent second witness: a quotation is
+treated as verified Paley text where BLOCK 1's wording is confirmed by
+BLOCK 2 wherever BLOCK 2's OCR is legible at that point, allowing for the
+editions' known accidentals (spelling/punctuation modernization, OCR
+noise). Where the two editions differ substantively, notes must flag it.
+Chapters I-III only, delimited by the OCR's own chapter headings.
+
+BLOCK 1 (Darwin Online, 1809 12th edition, chs. I-III, pp. 1-48)
+
+CHAPTER I. STATE OF THE ARGUMENT.
+IN crossing a heath, suppose I pitched my foot against a stone , and were asked how the stone came to be there; I might possibly answer, that, for any thing I knew to the contrary, it had lain there for ever: nor would it perhaps be very easy to show the absurdity of this answer. But suppose I had found a watch upon the ground, and it should be inquired how the watch happened to be in that place; I should hardly think of the answer which I had before given, that, for any thing I knew, the watch might have always been there. Yet why should not this answer serve for the watch as well as for the stone? why is it not as admissible in the second case, as in the first? For this reason,
+[page] 2 and for no other, viz. that, when we come to inspect the watch, we perceive (what we could not discover in the stone) that its several parts are framed and put together for a purpose, e. g. that they are so formed and adjusted as to produce motion, and that motion so regulated as to point out the hour of the day; that, if the different parts had been differently shaped from what they are, of a different size from what they are, or placed after any other manner, or in any other order, than that in which they are placed, either no motion at all would have been carried on in the machine, or none which would have answered the use that is now served by it. To reckon up a few of the plainest of these parts, and of their offices, all tending to one result:-- We see a cylindrical box containing a coiled elastic spring, which, by its endeavour to relax itself, turns round the box. We next observe a flexible chain (artificially wrought for the sake of flexure), communicating the action of the spring from the box to the fusee. We then find a series of wheels, the teeth of which catch in, and apply to, each other, conducting the motion from the fusee to the balance, and from the balance to the pointer; and at the same time, by the
+[page] 3 size and shape of those wheels, so regulating that motion, as to terminate in causing an index, by an equable and measured progression, to pass over a given space in a given time. We take notice that the wheels are made of brass in order to keep them from rust; the springs of steel, no other metal being so elastic; that over the face of the watch there is placed a glass, a material employed in no other part of the work, but in the room of which, if there had been any other than a transparent substance, the hour could not be seen without opening the case. This mechanism being observed (it requires indeed an examination of the instrument, and perhaps some previous knowledge of the subject, to perceive and understand it; but being once, as we have said, observed and understood), the inference, we think, is inevitable, that the watch must have had a maker: that there must have existed, at some time, and at some place or other, an artificer or artificers who formed it for the purpose which we find it actually to answer; who comprehended its construction, and designed its use.
+
+I. Nor would it, I apprehend, weaken the conclusion, that we had never seen a watch made; that we had never known an artist
+[page] 4 capable of making one; that we were altogether incapable of executing such a piece of workmanship ourselves, or of understanding in what manner it was performed; all this being no more than what is true of some exquisite remains of ancient art, of some lost arts, and, to the generality of mankind, of the more curious productions of modern manufacture. Does one man in a million know how oval frames are turned? Ignorance of this kind exalts our opinion of the unseen and unknown artist's skill, if he be unseen and unknown, but raises no doubt in our minds of the existence and agency of such an artist, at some former time, and in some place or other. Nor can I perceive that it varies at all the inference, whether the question arise concerning a human agent, or concerning an agent of a different species, or an agent possessing, in some respects, a different nature.
+
+II. Neither, secondly, would it invalidate our conclusion, that the watch sometimes went wrong, or that it seldom went exactly right. The purpose of the machinery, the design, and the designer, might be evident, and in the case supposed would be evident, in whatever way we accounted for the irregularity
+[page] 5 of the movement, or whether we could account for it or not. It is not necessary that a machine be perfect, in order to show with what design it was made: still less necessary, where the only question is, whether it were made with any design at all.
+
+III. Nor, thirdly, would it bring any uncertainty into the argument, if there were a few parts of the watch, concerning which we could not discover, or had not yet discovered, in what manner they conduced to the general effect; or even some parts, concerning which we could not ascertain, whether they conduced to that effect in any manner whatever. For, as to the first branch of the case; if by the loss, or disorder, or decay of the parts in question, the movement of the watch were found in fact to be stopped, or disturbed, or retarded, no doubt would remain in our minds as to the utility or intention of these parts, although we should be unable to investigate the manner according to which, or the connexion by which, the ultimate effect depended upon their action or assistance; and the more complex is the machine, the more likely is this obscurity to arise. Then, as to the second thing supposed, namely, that there were parts which might be spared, without prejudice to the
+[page] 6 movement of the watch, and that we had proved this by experiment,--these superfluous parts, even if we were completely assured that they were such, would not vacate the reasoning which we had instituted concerning other parts. The indication of contrivance remained, with respect to them, nearly as it was before.
+
+IV. Nor, fourthly, would any man in his senses think the existence of the watch, with its various machinery, accounted for, by being told that it was one out of possible combinations of material forms; that whatever he had found in the place where he found the watch, must have contained some internal configuration or other; and that this configuration might be the structure now exhibited, viz. of the works of a watch, as well as a different structure.
+V. Nor, fifthly, would it yield his inquiry more satisfaction to be answered, that there existed in things a principle of order, which had disposed the parts of the watch into their present form and situation. He never knew a watch made by the principle of order; nor can he even form to himself an idea of what is meant by a principle of order, distinct from the intelligence of the watch-maker.
+VI. Sixthly, he would be surprised to hear
+[page] 7 that the mechanism of the watch was no proof of contrivance, only a motive to induce the mind to think so:
+
+VII. And not less surprised to be informed, that the watch in his hand was nothing more than the result of the laws of metallic nature. It is a perversion of language to assign any law, as the efficient, operative cause of any thing. A law presupposes an agent; for it is only the mode, according to which an agent proceeds: it implies a power; for it is the order, according to which that power acts. Without this agent, without this power, which are both distinct from itself, the law does nothing; is nothing. The expression, "the law of metallic nature," may sound strange and harsh to a philosophic ear; but it seems quite as justifiable as some others which are more familiar to him, such as "the law of vegetable nature," "the law of animal nature," or indeed as "the law of nature" in general, when assigned as the cause of phænomena, in exclusion of agency and power; or when it is substituted into the place of these.
+VIII. Neither, lastly, would our observer be driven out of his conclusion, or from his confidence in its truth, by being told that he knew nothing at all about the matter. He
+[page] 8 knows enough for his argument: he knows the utility of the end: he knows the subserviency and adaptation of the means to the end. These points being known, his ignorance of other points, his doubts concerning other points, affect not the certainty of his reasoning. The consciousness of knowing little, need not beget a distrust of that which he does know.
+CHAPTER II. STATE OF THE ARGUMENT CONTINUED.
+SUPPOSE, in the next place, that the person who found the watch, should, after some time, discover that, in addition to all the properties which he had hitherto observed in it, it possessed the unexpected property of producing, in the course of its movement, another watch like itself (the thing is conceivable); that it contained within it a mechanism, a system of parts, a mould for instance, or a complex adjustment of lathes, files, and other tools, evidently and separately calculated for this purpose; let us inquire, what effect ought such a discovery to have upon his former conclusion.
+
+[page] 9 I. The first effect would be to increase his admiration of the contrivance, and his conviction of the consummate skill of the contriver. Whether he regarded the object of the contrivance, the distinct apparatus, the intricate, yet in many parts intelligible mechanism, by which it was carried on, he would perceive, in this new observation, nothing but an additional reason for doing what he had already done,--for referring the construction of the watch to design, and to supreme art. If that construction without this property, or which is the same thing, before this property had been noticed, proved intention and art to have been employed about it; still more strong would the proof appear, when he came to the knowledge of this further property, the crown and perfection of all the rest.
+
+II. He would reflect, that though the watch before him were, in some sense , the maker of the watch, which was fabricated in the course of its movements, yet it was in a very different sense from that, in which a carpenter, for instance, is the maker of a chair; the author of its contrivance, the cause of the relation of its parts to their use. With respect to these, the first watch was no cause at all to the second: in no such sense as this was it the author of the constitution and order, either
+[page] 10 of the parts which the new watch contained, or of the parts by the aid and instrumentality of which it was produced. We might possibly say, but with great latitude of expression, that a stream of water ground corn: but no latitude of expression would allow us to say, no stretch of conjecture could lead us to think, that the stream of water built the mill, though it were too ancient for us to know who the builder was. What the stream of water does in the affair, is neither more nor less than this; by the application of an unintelligent impulse to a mechanism previously arranged, arranged independently of it, and arranged by intelligence, an effect is produced, viz. the corn is ground. But the effect results from the arrangement. The force of the stream cannot be said to be the cause or author of the effect, still less of the arrangement. Understanding and plan in the formation of the mill were not the less necessary, for any share which the water has in grinding the corn: yet is this share the same, as that which the watch would have contributed to the production of the new watch, upon the supposition assumed in the last section. Therefore,
+
+III. Though it be now no longer probable, that the individual watch, which our observer had found, was made immediately by the hand
+[page] 11 of an artificer, yet doth not this alteration in anywise affect the inference, that an artificer had been originally employed and concerned in the production. The argument from design remains as it was. Marks of design and contrivance are no more accounted for now, than they were before. In the same thing, we may ask for the cause of different properties. We may ask for the cause of the colour of a body, of its hardness, of its head; and these causes may be all different. We are now asking for the cause of that subserviency to a use, that relation to an end, which we have remarked in the watch before us. No answer is given to this question, by telling us that a preceding watch produced it. There cannot be design without a designer; contrivance without a contriver; order without choice; arrangement, without any thing capable of arranging; subserviency and relation to a purpose, without that which could intend a purpose; means suitable to an end, and executing their office, in accomplishing that end, without the end ever having been contemplated, or the means accommodated to it. Arrangement, disposition of parts, subserviency of means to an end, relation of instruments to a use, imply the presence of intelligence and mind. No one, therefore, can
+
+[page] 12 rationally believe, that the insensible, inanimate watch, from which the watch before us issued, was the proper cause of the mechanism we so much admire in it;--could be truly said to have constructed the instrument, disposed its parts, assigned their office, determined their order, action, and mutual dependency, combined their several motions into one result, and that also a result connected with the utilities of other beings. All these properties, therefore, are as much unaccounted for, as they were before.
+
+IV. Nor is any thing gained by running the difficulty farther back, i. e. by supposing the watch before us to have been produced from another watch, that from a former, and so on indefinitely. Our going back ever so far, brings us no nearer to the least degree of satisfaction upon the subject. Contrivance is still unaccounted for. We still want a contriver. A designing mind is neither supplied by this supposition, nor dispensed with. If the difficulty were diminished the further we went back, by going back indefinitely we might exhaust it. And this is the only case to which this sort of reasoning applies. Where there is a tendency, or, as we increase the number of terms, a continual approach towards a limit, there , by supposing the number
+[page] 13 of terms to be what is called infinite, we may conceive the limit to be attained: but where there is no such tendency, or approach, nothing is effected by lengthening the series. There is no difference as to the point in question (whatever there may be as to many points), between one series and another; between a series which is finite, and a series which is infinite. A chain, composed of an infinite number of links, can no more support itself, than a chain composed of a finite number of links. And of this we are assured (though we never can have tried the experiment), because, by increasing the number of links, from ten for instance to a hundred, from a hundred to a thousand, &c. we make not the smallest approach, we observe not the smallest tendency, towards self-support. There is no difference in this respect (yet there may be a great difference in several respects) between a chain of a greater or less length, between one chain and another, between one that is finite and one that is infinite. This very much resembles the case before us. The machine which we are inspecting, demonstrates, by its construction, contrivance and design. Contrivance must have had a contriver; design, a designer; whether the machine immediately proceeded from another machine or
+[page] 14 not. That circumstance alters not the case. That other machine may, in like manner, have proceeded from a former machine: nor does that alter the case; contrivance must have had a contriver. That former one from one preceding it: no alteration still; a contriver is still necessary. No tendency is perceived, no approach towards a diminution of this necessity. It is the same with any and every succession of these machines; a succession of ten, of a hundred, of a thousand; with one series, as with another; a series which is finite, as with a series which is infinite. In whatever other respects they may differ, in this they do not. In all equally, contrivance and design are unaccounted for.
+
+The question is not simply, How came the first watch into existence? which question, it may be pretended, is done away by supposing the series of watches thus produced from one another to have been infinite, and consequently to have had no-such first , for which it was necessary to provide a cause. This, perhaps, would have been nearly the state of the question, if no thing had been before us but an unorganized, unmechanized substance, without mark or indication of contrivance. It might be difficult to show that such substance could
+[page] 15 not have existed from eternity, either in succession (if it were possible, which I think it is not, for unorganized bodies to spring from one another), or by individual perpetuity. But that is not the question now. To suppose it to be so, is to suppose that it made no difference whether we had found a watch or a stone. As it is, the metaphysics of that question have no place; for, in the watch which we are examining, are seen contrivance, design; an end, a purpose; means for the end, adaptation to the purpose. And the question which irresistibly presses upon our thoughts, is, whence this contrivance and design? The thing required is the intending mind, the adapting hand, the intelligence by which that hand was directed. This question, this demand, is not shaken off, by increasing a number or succession of substances, destitute of these properties; nor the more, by increasing that number to infinity. If it be said, that, upon the supposition of one watch being produced from another in the course of that other's movements, and by means of the mechanism within it, we have a cause for the watch in my hand, viz. the watch from which it proceeded. I deny, that for the design, the contrivance, the suitableness of means to an end, the adaptation of instruments to a use (all which
+[page] 16 we discover in the watch), we have any cause whatever. It is in vain, therefore, to assign a series of such causes, or to allege that a series may be carried back to infinity; for I do not admit that we have yet any cause at all of the phænomena, still less any series of causes either finite or infinite. Here is contrivance, but no contriver; proofs of design, but no designer.
+
+V. Our observer would further also reflect, that the maker of the watch before him, was, in truth and reality, the maker of every watch produced from it; there being no difference (except that the latter manifests a more exquisite skill) between the making of another watch with his own hands, by the mediation of files, lathes, chisels, &c. and the disposing, fixing, and inserting of these instruments, or of others equivalent to them, in the body of the watch already made in such a manner, as to form a new watch in the course of the movements which he had given to the old one. It is only working by one set of tools, instead of another.
+The conclusion of which the first examination of the watch, of its works, construction, and movement, suggested, was, that it must have had, for the cause and author of that construction, an artificer, who understood its
+[page] 17 mechanism, and designed its use. This conclusion is invincible. A second examination presents us with a new discovery. The watch is found, in the course of its movement, to produce another watch, similar to itself; and not only so, but we perceive in it a system or organization, separately calculated for that purpose. What effect would this discovery have, or ought it to have, upon our former inference? What, as hath already been said, but to increase, beyond measure, our admiration of the skill, which had been employed in the formation of such a machine? Or shall it, instead of this, all at once turn us round to an opposite conclusion, viz. that no art or skill whatever has been concerned in the business, although all other evidences of art and skill remain as they were, and this last and supreme piece of art be now added to the rest? Can this be maintained without absurdity? Yet this is atheism.
+CHAPTER III. APPLICATION OF THE ARGUMENT.
+THIS is atheism: for every indication of contrivance, every manifestation of design,
+[page] 18 which existed in the watch, exists in the works of nature; with the difference, on the side of nature, of being greater and more, and that in a degree which exceeds all computation. I mean that the contrivances of nature surpass the contrivances of art, in the complexity, subtility, and curiosity of the mechanism; and still more, if possible, do they go beyond them in number and variety; yet, in a multitude of cases, are not less evidently mechanical, not less evidently contrivances, not less evidently accommodated to their end, or suited to their office, than are the most perfect productions of human ingenuity.
+
+I know no better method of introducing so large a subject, than that of comparing a single thing with a single thing; an eye, for example, with a telescope. As far as the examination of the instrument goes, there is precisely the same proof that the eye was made for vision, as there is that the telescope was made for assisting it. They are made upon the same principles; both being adjusted to the laws by which the transmission and refraction of rays of light are regulated. I speak not of the origin of the laws themselves; but such laws being fixed, the construction, in both cases, is adapted to them. For instance; these laws require, in order to
+[page] 19 produce the same effect, that the rays of light, in passing from water into the eye, should be refracted by a more convex surface, than when it passes out of air into the eye. Accordingly we find that the eye of a fish, in that part of it called the crystalline lens, is much rounder than the eye of terrestrial animals. What plainer manifestation of design can there be than this difference? What could a mathematical-instrument-maker have done more, to show his knowledge of his principle, his application of that knowledge, his suiting of his means to his end; I will not say to display the compass or excellence of his skill and art, for in these all comparison is indecorous, but to testify counsel, choice, consideration, purpose?
+
+To some it may appear a difference sufficient to destroy all similitude between the eye and the telescope, that the one is a perceiving organ, the other an unperceiving instrument. The fact is, that they are both instruments. And, as to the mechanism, at least as to mechanism being employed, and even as to the kind of it, this circumstance varies not the analogy at all. For observe, what the constitution of the eye is. It is necessary, in order to produce distinct vision, that an image or picture of the object be formed at the bottom of the eye.
+[page] 20 Whence this necessity arises, or how the picture is connected with the sensation, or contributes to it, it may be difficult, nay we will confess, if you please, impossible for us to search out. But the present question is not concerned in the inquiry. It may be true, that, in this, and in other instances, we trace mechanical contrivance a certain way; and that then we come to something which is not mechanical, or which is inscrutable. But this affects not the certainty of our investigation, as far as we have gone. The difference between an animal and an automatic statue, consists in this,--that, in the animal, we trace the mechanism to a certain point, and then we are stopped; either the mechanism becoming too subtile for our discerment, or something else beside the known laws of mechanism taking place; whereas, in the automaton, for the comparatively few motions of which it is capable, we trace the mechanism throughout. But, up to the limit, the reasoning is as clear and certain in the one case, as in the other. In the example before us, it is a matter of certainty, because it is a matter which experience and observation demonstrate, that the formation of an image at the bottom of the eye is necessary to perfect vision. The image itself can be shown. Whatever affects
+[page] 21 the distinctness of the image, affects the distinctness of the vision. The formation then of such an image being necessary (no matter how) to the sense of sight, and to the exercise of that sense, the apparatus by which it is formed is constructed and put together, not only with infinitely more art, but upon the self-same principles of art, as in the telescope or the camera obscura. The perception arising from the image may be laid out of the question; for the production of the image, these are instruments of the same kind. The end is the same; the means are the same. The purpose in both is alike; the contrivance for accomplishing that purpose is in both alike. The lenses of the telescope, and the humours of the eye, bear a complete resemblance to one another, in their figure, their position, and in their power over the rays of light, viz. in bringing each pencil to a point at the right distance from the lens; namely, in the eye, at the exact place where the membrane is spread to receive it. How is it possible, under circumstances of such close affinity, and under the operation of equal evidence, to exclude contrivance from the one; yet to acknowledge the proof of contrivance having been employed, as the plainest and clearest of all propositions, in the other?
+
+[page] 22 The resemblance between the two cases is still more accurate, and obtains in more points than we have yet represented, or than we are, on the first view of the subject, aware of. In dioptric telescopes, there is an imperfection of this nature. Pencils of light, in passing through glass lenses, are separated into different colours, thereby tinging the object, especially the edges of it, as if it were viewed through a prism. To correct this inconvenience, had been long a desideratum in the art. At last it came into the mind of a sagacious optician, to inquire how this matter was managed in the eye; in which, there was exactly the same difficulty to contend with, as in the telescope. His observation taught him, that, in the eye, the evil was cured by combining lenses composed of different substances, i. e. of substances which possessed different refracting powers. Our artist borrowed thence his hint; and produced a correction of the defect by imitating, in glasses made from different materials, the effects of the different humours through which the rays of light pass before they reach the bottom of the eye. Could this be in the eye without purpose, which suggested to the optician the only effectual means of attaining that purpose?
+
+But further; there are other points, not
+[page] 23 so much perhaps of strict resemblance between the two, as of superiority of the eye over the telescope; yet of a superiority which, being founded in the laws that regulate both, may furnish topics of fair and just comparison. Two things were wanted to the eye, which were not wanted (at least in the same degree), to the telescope; and these were, the adaptation of the organ, first, to different degrees of light; and, secondly, to the vast diversity of distance at which objects are viewed by the naked eye, viz. from a few inches to as many miles. These difficulties present not themselves to the maker of the telescope. He wants all the light he can get; and he never directs his instrument to objects near at hand. In the eye, both these cases were to be provided for; and for the purpose of providing for them, a subtile and appropriate mechanism is introduced:
+
+I. In order to exclude excess of light, when it is excessive, and to render objects visible under obscurer degrees of it, when no more can be had, the hole or aperture in the eye, through which the light enters, is so formed, as to contract or dilate itself for the purpose of admitting a greater or less number of rays at the same time. The chamber of the eye is a camera obscura, which when the light is
+[page] 24 too small, can enlarge its opening; when too strong, can again contract it; and that without any other assistance than that of its own exquisite machinery. It is further also, in the human subject, to be observed, that this hole in the eye, which we call the pupil, under all its different dimensions, retains its exact circular shape. This is a structure extremely artificial. Let an artist only try to execute the same; he will find that his threads and strings must be disposed with great consideration and contrivance, to make a circle, which shall continually change its diameter, yet preserve its form. This is done in the eye by an application of fibres, i. e. of strings, similar, in their position and action, to what an artist would and must employ, if he had the same piece of workmanship to perform.
+
+II. The second difficulty which has been stated, was the suiting of the same organ to the perception of objects that lie near at hand, within a few inches, we will suppose, of the eye, and of objects which are placed at a considerable distance from it, that, for example of as many furlongs (I speak in both cases of the distance at which distinct vision can be exercised). Now this, according to the principles of optics, that is, according to the laws by which the transmission of light is regulated
+[page] 25 (and these laws are fixed), could not be done without the organ itself undergoing an alteration, and receiving an adjustment, that might correspond with the exigency of the case, that is to say, with the different inclination to one another under which the rays of light reached it. Rays issuing from points placed at a small distance from the eye, and which consequently must enter the eye in a spreading or diverging order, cannot, by the same optical instrument in the same state, be brought to a point, i. e. be made to form an image, in the same place with rays proceeding from objects situated at a much greater distance, and which rays arrive at the eye in directions nearly (and physically speaking) parallel. It requires a rounder lens to do it. The point of concourse behind the lens must fall critically upon the retina, or the vision is confused; yet, other things remaining the same, this point, by the immutable properties of light, is carried further back when the rays proceed from a near object, than when they are sent from one that is remote. A person who was using an optical instrument, would manage this matter by changing, as the occasion required, his lens or his telescope; or by adjusting the distance of his glasses with his hand or his
+[page] 26 screw: but how is it to be managed in the eye? What the alteration was, or in what part of the eye it took place, or by what means it was effected (for if the known laws which govern the refraction of light be maintained, some alteration in the state of the organ there must be), had long formed a subject of inquiry and conjecture. The change, though sufficient for the purpose, is so minute as to elude ordinary observation. Some very late discoveries, deduced from a laborious and most accurate inspection of the structure and operation of the organ, seem at length to have ascertained the mechanical alteration which the parts of the eye undergo. It is found, that by the action of certain muscles, called the straight muscles, and which action is the most advantageous that could be imagined for the purpose,--it is found, I say, that, whenever the eye is directed to a near object, three changes are produced in it at the same time, all severally contributing to the adjustment required. The cornea, or outermost coat of the eye, is rendered more round and prominent; the crystalline lens underneath is pushed forward; and the axis of vision, as the depth of the eye is called, is elongated. These changes in the eye vary its power over
+[page] 27 the rays of light in such a manner and degree as to produce exactly the effect which is wanted, viz. the formation of an image upon the retina , whether the rays come to the eye in a state of divergency, which is the case when the object is near to the eye, or come parallel to one another, which is the case when the object is placed at a distance. Can any thing be more decisive of contrivance than this is? The most secret laws of optics must have been known to the author of a structure endowed with such a capacity of change. It is as though an optician, when he had a nearer object to view, should rectify his instrument by putting in another glass, at the same time drawing out also his tube to a different length.
+
+Observe a new-born child first lifting up its eyelids. What does the opening of the curtain discover? The anterior part of two pellucid globes, which, when they come to be examined, are found to be constructed upon strict optical principles; the self-same principles upon which we ourselves construct optical instruments. We find them perfect for the purpose of forming an image by refraction; composed of parts executing different offices: one part having fulfilled its office upon the pencil of light, delivering it
+[page] 28 over to the action of another part; that to a third, and so onward: the progressive action depending for its success upon the nicest and minutest adjustment of the parts concerned; yet, these parts so in fact adjusted, as to produce, not by a simple action or effect, but by a combination of actions and effects, the result which is ultimately wanted. And forasmuch as this organ would have to operate under different circumstances, with strong degrees of light, and with weak degrees, upon near objects, and upon remote ones, and these differences demanded, according to the laws by which the transmission of light is regulated, a corresponding diversity of structure; that the aperture, for example, through which the light passes, should be larger or less; the lenses rounder or flatter, or that their distance from the tablet, upon which the picture is delineated, should be shortened or lengthened: this, I say, being the case and the difficulty, to which the eye was to be adapted, we find its several parts capable of being occasionally changed, and a most artificial apparatus provided to produce that change. This is far beyond the common regulator of a watch, which requires the touch of a foreign hand to set it: but it is not altogether unlike Harrison's contrivance
+[page] 29 for making a watch regulate itself, by inserting within it a machinery, which, by the artful use of the different expansion of metals, preserves the equability of the motion under all the various temperatures of heat and cold in which the instrument may happen to be placed. The ingenuity of this last contrivance has been justly praised. Shall, therefore, a structure which differs from it, chiefly by surpassing it, be accounted no contrivance at all? or, if it be a contrivance, that it is without a contriver!
+
+But this, though much, is not the whole; by different species of animals the faculty we are describing is possessed, in degrees suited to the different range of vision which their mode of life, and of procuring their food, requires. Birds , for instance, in general, procure their food by means of their beak; and, the distance between the eye and the point of the beak being small, it becomes necessary that they should have the power of seeing very near objects distinctly. On the other hand, from being often elevated much above the ground, living in air, and moving through it with great velocity, they require, for their safety, as well as for assisting them in descrying their prey, a power of seeing at a great distance; a power of which, in birds of
+[page] 30 rapine, surprising examples are given. The fact accordingly is, that two peculiarities are found in the eyes of birds, both tending to facilitate the change upon which the adjustment of the eye to different distances depends. The one is a bony, yet, in most species, a flexible rim or hoop, surrounding the broadest part of the eye; which, confining the action of the muscles to that part, increases the effect of their lateral pressure upon the orb, by which pressure its axis is elongated for the purpose of looking at very near objects. The other is an additional muscle, called the marsupium, to draw, on occasion, the crystalline lens back , and to fit the same eye for the viewing of very distant objects. By these means, the eyes of birds can pass from one extreme to another of their scale of adjustment, with more ease and readiness than the eyes of other animals.
+
+The eyes of fishes also, compared with those of terrestrial animals, exhibit certain distinctions of structure, adapted to their state and element. We have already observed upon the figure of the crystalline compensating by its roundness the density of the medium through which their light passes. To which we have to add, that the eyes of fish, in their natural and indolent state, appear
+[page] 31 to be adjusted to near objects, in this respect differing from the human eye, as well as those of quadrupeds and birds. The ordinary shape of the fish's eye being in a much higher degree convex than that of land-animals, a corresponding difference attends its muscular conformation, viz. that it is throughout calculated for flattening the eye.
+
+The iris also in the eyes of fish does not admit of contraction. This is a great difference, of which the probable reason is, that the diminished light in water is never too strong for the retina.
+In the eel , which has to work its head through sand and gravel, the roughest and harshest substances, there is placed before the eye, and at some distance from it, a transparent, horny, convex case or covering, which, without obstructing the sight, defends the organ. To such an animal, could any thing be more wanted, or more useful?
+Thus, in comparing the eyes of different kinds of animals, we see, in their resemblances and distinctions, one general plan laid down, and that plan varied with the varying exigences to which it is to be applied.
+There is one property however common, I believe, to all eyes, at least to all which
+[page] 32 have been examined( Note: The eye of the seal or sea-calf, I understand, is an exception. Mem. Acad. Paris. 1701, p. 123.), namely, that the optic nerve enters the bottom of the eye, not in the centre or middle, but a little on one side: not in the point where the axis of the eye meets the retina, but between that point and the nose. The difference which this makes is, that no part of an object is unperceived by both eyes at the same time.
+
+In considering vision as achieved by the means of an image formed at the bottom of the eye, we can never reflect without wonder upon the smallness, yet correctness, of the picture, the subtility of the touch, the fineness of the lines. A landscape of five or six square leagues is brought into a space of half an inch diameter; yet the multitude of objects which it contains, are all preserved; are all discriminated in their magnitudes, positions, figures, colours. The prospect from Hampstead-hill is compressed into the compass of a six-pence, yet circumstantially represented. A stage coach, travelling at its ordinary speed for half an hour, passes, in the eye, only over one-twelfth of an inch, yet is this change of place in the image distinctly perceived throughout its whole progress;
+[page] 33 for it is only by means of that perception that the motion of the coach itself is made sensible to the eye. If any thing can abate our admiration of the smallness of the visual tablet compared with the extent of vision, it is a reflection, which the view of nature leads us, every hour, to make, viz. that, in the hands of the Creator, great and little are nothing.
+
+Sturmius held, that the examination of the eye was a cure for atheism. Beside that conformity to optical principles which its internal constitution displays, and which alone amounts to a manifestation of intelligence having been exerted in the structure; besides this, which forms, no doubt, the leading character of the organ, there is to be seen, in every thing belonging to it and about it, an extraordinary degree of care, an anxiety for its preservation, due, if we may so speak, to its value and its tenderness. It is lodged in a strong, deep, bony socket, composed by the junction of seven different bones( Note: Heister, sect. 89.), hollowed out at their edges. In some few species, as that of the coatimondi( Note: Mem. R. Ac. Paris, p. 117.), the orbit is not bony throughout; but whenever this is the case, the upper, which is the deficient part, is supplied by a cartilaginous ligament;
+[page] 34 a substitution which shows the same care. Within this socket it is imbedded in fat, of all animal substances the best adapted both to its repose and motion. It is sheltered by the eyebrows; an arch of hair, which, like a thatched penthouse, prevents the sweat and moisture of the forehead from running down into it.
+
+But it is still better protected by its lid. Of the superficial parts of the animal frame, I know none which, in its office and structure, is more deserving of attention than the eyelid. It defends the eye; it wipes it; it closes it in sleep. Are there, in any work of art whatever, purposes more evident than those which this organ fulfils? or an apparatus for executing those purposes more intelligible, more appropriate, or more mechanical? If it be overlooked by the observer of nature, it can only be because it is obvious and familiar. This is a tendency to be guarded against. We pass by the plainest instances, whilst we are exploring those which are rare and curious; by which conduct of the understanding, we sometimes neglect the strongest observations, being taken up with others, which, though more recondite and scientific, are, as solid arguments, entitled to much less consideration.
+
+[page] 35 In order to keep the eye moist and clean (which qualities are necessary to its brightness and its use), a wash is constantly supplied by a secretion for the purpose; and the superfluous brine is conveyed to the nose through a perforation in the bone as large as a goose-quill. When once the fluid has entered the nose, it spreads itself upon the inside of the nostril, and is evaporated by the current of warm air, which, in the course of respiration, is continually passing over it. Can any pipe or outlet, for carrying off the waste liquor from a dye-house or a distillery, be more mechanical than this is? It is easily perceived, that the eye must want moisture: but could the want of the eye generate the gland which produces the tear, or bore the hole by which it is discharged,--a hole through a bone?
+
+It is observable, that this provision is not found in fish,--the element in which they live supplying a constant lotion to the eye.
+It were, however, injustice to dismiss the eye as a piece of mechanism, without noticing that most exquisite of all contrivances, the nictitating membrane, which is found in the eyes of birds and of many quadrupeds. Its use is to sweep the eye, which it does in an instant, to spread over it the lachrymal humour;
+[page] 36 to defend it also from sudden injuries: yet not totally, when drawn upon the pupil, to shut out the light. The commodiousness with which it lies folded up in the upper corner of the eye, ready for use and action, and the quickness with which it executes its purpose, are properties known and obvious to every observer: but what is equally admirable, though not quite so obvious, is the combination of two kinds of substance, muscular and elastic, and of two different kinds of action, by which the motion of this membrane is performed. It is not, as in ordinary cases, by the action of two antagonist muscles, one pulling forward and the other backward, that a reciprocal change is effected; but it is thus: The membrane itself is an elastic substance, capable of being drawn out by force like a piece of elastic gum, and by its own elasticity returning, when the force is removed, to its former position. Such being its nature, in order to fit it up for its office, it is connected by a tendon or thread with a muscle in the back part of the eye: this tendon or thread, though strong, is so fine, as not to obstruct the sight, even when it passes across it; and the muscle itself, being placed in the back part of the eye, derives from its situation the advantage, not only of being secure,
+[page] 37 but of being out of the way; which it would hardly have been in any position that could be assigned to it in the anterior part of the orb, where its function lies. When the muscle behind the eye contracts, the membrane, by means of the communicating thread, is instantly drawn over the fore-part of it. When the muscular contraction (which is a positive, and, most probably, a voluntary effort) ceases to be exerted, the elasticity alone of the membrane brings it back again to its position( Note: Phil. Trans. 1796.). Does not this, if any thing can do it, bespeak an artist, master of his work, acquainted with his materials? "Of a thousand other things," say the French Academicians, "we perceive not the contrivance, because we understand them only by the effects, of which we know not the causes: but we here treat of a machine, all the parts whereof are visible; and which need only be looked upon, to discover the reasons of its motion and action( Note: Memoirs for a Natural History of Animals, by the Royal Academy of Sciences at Paris, done into English by Order of the Royal Society, 1701, page 249.)."
+
+In the configuration of the muscle which, though placed behind the eye, draws the nictitating membrane over the eye, there is, what the authors, just now quoted, deservedly call
+[page] 38 a marvellous mechanism. I suppose this structure to be found in other animals; but, in the memoirs from which this account is taken, it is anatomically demonstrated only in the cassowary. The muscle is passed through a loop formed by another muscle: and is there inflected, as if it were round a pulley. This is a peculiarity; and observe the advantage of it. A single muscle with a straight tendon, which is the common muscular form, would have been sufficient, if it had had power to draw far enough. But the contraction, necessary to draw the membrane over the whole eye, required a longer muscle than could lie straight at the bottom of the eye. Therefore, in order to have a greater length in a less compass, the cord of the main muscle makes an angle. This, so far, answers the end; but, still further, it makes an angle, not round a fixed pivot, but round a loop formed by another muscle; which second muscle, whenever it contracts, of course twitches the first muscle at the point of inflection, and thereby assists the action designed by both.
+
+One question may possibly have dwelt in the reader's mind during the perusal of these observations, namely, Why should not the
+[page] 39 Deity have given to the animal the faculty of vision at once? Why this circuitous perception; the ministry of so many means; an element provided for the purpose; reflected from opaque substances, refracted through transparent ones; and both according to precise laws; then, a complex organ, an intricate and artificial apparatus, in order, by the operation of this element, and in conformity with the restrictions of these laws, to produce an image upon a membrane communicating with the brain? Wherefore all this? Why make the difficulty in order to surmount it? If to perceive objects by some other mode than that of touch, or objects which lay out of the reach of that sense, were the thing proposed; could not a simple volition of the Creator have communicated the capacity? Why resort to contrivance, where power is omnipotent? Contrivance, by its very definition and nature, is the refuge of imperfection. To have recourse to expedients, implies difficulty, impediment, restraint, defect of power. This question belongs to the other senses, as well as to sight; to the general functions of animal life, as nutrition, secretion, respiration; to the œconomy of vegetables; and indeed to almost all the operations of nature. The question, therefore, is
+[page] 40 of very wide extent; and amongst other answers which may be given to it; beside reasons of which probably we are ignorant, one answer is this: It is only by the display of contrivance, that the existence, the agency, the wisdom of the Deity, could be testified to his rational creatures. This is the scale by which we ascend to all the knowledge of our Creator which we possess, so far as it depends upon the phænomena, or the works of nature. Take away this, and you take away from us every subject of observation, and ground of reasoning; I mean as our rational faculties are formed at present. Whatever is done, God could have done without the intervention of instruments or means: but it is in the construction of instruments, in the choice and adaptation of means, that a creative intelligence is seen. It is this which constitutes the order and beauty of the universe. God, therefore, has been pleased to prescribe limits to his own power, and to work his end within those limits. The general laws of matter have perhaps the nature of these limits; its inertia, its re-action; the laws which govern the communication of motion, the refraction and reflection of light, the constitution of fluids non-elastic and elastic, the transmission of sound through the latter; the laws of
+[page] 41 magnetism, of electricity; and probably others, yet undiscovered. These are general laws; and when a particular purpose is to be effected, it is not by making a new law, nor by the suspension of the old ones, nor by making them wind, and bend, and yield to the occasion (for nature with great steadiness adheres to and supports them); but it is, as we have seen in the eye, by the interposition of an apparatus, corresponding with these laws, and suited to the exigency which results from them, that the purpose is at length attained. As we have said, therefore, God prescribes limits to his power, that he may let in the exercise, and thereby exhibit demonstrations of his wisdom. For then, i. e. such laws and limitations being laid down, it is as though one Being should have fixed certain rules; and, if we may so speak, provided certain materials; and, afterwards, have committed to another Being, out of these materials, and in subordination to these rules, the task of drawing forth a creation: a supposition which evidently leaves room, and induces indeed a necessity for contrivance. Nay, there may be many such agents, and many ranks of these. We do not advance this as a doctrine either of philosophy or of religion; but we say that the subject may safely be represented
+[page] 42 under this view, because the Deity, acting himself by general laws, will have the same consequences upon our reasoning, as if he had prescribed these laws to another. It has been said, that the problem of creation was, "attraction and matter being given, to make a world out of them:" and, as above explained, this statement perhaps does not convey a false idea.
+
+We have made choice of the eye as an instance upon which to rest the argument of this chapter. Some single example was to be proposed: and the eye offered itself under the advantage of admitting of a strict comparison with optical instruments. The ear, it is probable, is no less artificially and mechanically adapted to its office, than the eye. But we know less about it: we do not so well understand the action, the use, or the mutual dependency of its internal parts. Its general form, however, both external and internal, is sufficient to show that it is an instrument adapted to the reception of sound; that is to say, already knowing that sound consists in pulses of the air, we perceive, in the structure of the ear, a suitableness to receive impressions from this species of action, and to
+[page] 43 propagate thee impressions to the brain. For of what does this structure consist? An external ear (the concha), calculated, like an ear-trumpet, to catch and collect the pulses of which we have spoken; in large quadrupeds, turning to the sound, and possessing a configuration, as well as motion, evidently fitted for the office: of a tube which leads into the head, lying at the root of this outward ear, the folds and sinuses thereof tending and conducting the air towards it: of a thin membrane, like the pelt of a drum, stretched across this passage upon a bony rim: of a chain of moveable, and infinitely curious, bones, forming a communication, and the only communication that can be observed, between the membrane last mentioned and the interior channels and recesses of the skull: of cavities, similar in shape and form to wind instruments of music, being spiral or portions of circles: of the eustachian tube, like the hole in a drum, to let the air pass freely into and out of the barrel of the ear, as the covering membrane vibrates, or as the temperature may be altered: the whole labyrinth hewn out of a rock: that is, wrought into the substance of the hardest bone of the body. This assemblage of connected parts constitutes together an apparatus, plainly enough
+[page] 44 relative to the transmission of sound, or of the impulses received from sound, and only to be lamented in not being better understood.
+
+The communication within, formed by the small bones of the ear, is, to look upon, more like what we are accustomed to call machinery, than any thing I am acquainted with in animal bodies. It seems evidently designed to continue towards the sensorium the tremulous motions which are excited in the membrane of the tympanum, or what is better known by the name of the "drum of the ear." The compages of bones consists of four, which are so disposed, and so hinge upon one another, as that if the membrane, the drum of the ear, vibrate, all the four are put in motion together; and, by the result of their action, work the base of that which is the last in the series, upon an aperture which it closes, and upon which it plays, and which aperture opens into the tortuous canals that lead to the brain. This last bone of the four is called the stapes . The office of the drum of the ear is to spread out an extended surface, capable of receiving the impressions of sound, and of being put by them into a state of vibration. The office of the stapes is to repeat these vibrations. It is a repeating frigate, stationed more within the line. From
+[page] 45 which account of its action may be understood, how the sensation of sound will be excited, by any thing which communicates a vibratory motion to the stapes, though not, as in all ordinary cases, through the intervention of the membrana tympani. This is done by solid bodies applied to the bones of the skull, as by a metal bar holden at one end between the teeth, and touching at the other end a tremulous body. It likewise appears to be done, in a considerable degree, by the air itself, even when this membrane, the drum of the ear, is greatly damaged. Either in the natural or preternatural state of the organ, the use of the chain of bones is to propagate the impulse in a direction towards the brain, and to propagate it with the advantage of a lever; which advantage consists in increasing the force and strength of the vibration, and at the same time diminishing the space through which it oscillates: both of which changes may augment or facilitate the still deeper action of the auditory nerves.
+
+The benefit of the eustachian tube to the organ, may be made out upon known pneumatic principles. Behind the drum of the ear is a second cavity, or barrel, called the tympanum. The eustachian tube is a slender pipe, but sufficient for the passage of air,
+[page] 46 leading from this cavity into the back part of the mouth. Now, it would not have done to have had a vacuum in this cavity; for, in that case, the pressure of the atmosphere from without would have burst the membrane which covered it. Nor would it have done to have filled the cavity with lymph or any other secretion; which would necessarily have obstructed, both the vibration of the membrane, and the play of the small bones. Nor, lastly, would it have done to have occupied the space with confined air, because the expansion of that air by heat, or its contraction by cold, would have distended or relaxed the covering membrane, in a degree inconsistent with the purpose which it was assigned to execute. The only remaining expedient, and that for which the eustachian tube serves, is to open to this cavity a communication with the external air. In one word; it exactly answers the purpose of the hole in a drum.
+
+The membrana tympani itself likewise, deserves all the examination which can be made of it. It is not found in the ears of fish; which furnishes an additional proof of what indeed is indicated by every thing about it, that it is appropriated to the action of air, or of an elastic medium. It bears an obvious
+[page] 47 resemblance to the pelt or head of a drum, from which it takes its name. It resembles also a drum-head in this principal property, that its use depends upon its tension. Tension is the state essential to it. Now we know that, in a drum, the pelt is carried over a hoop, and braced as occasion requires, by the means of strings attached to its circumference. In the membrane of the ear, the same purpose is provided for, more simply, but not less mechanically, nor less successfully, by a different expedient, viz. by the end of a bone (the handle of the malleus) pressing upon its centre. It is only in very large animals that the texture of this membrane can be discerned. In the Philosophical Transactions for the year 1800 (vol. i.), Mr. Everard Home has given some curious observations upon the ear, and the drum of the ear of an elephant . He discovered in it, what he calls a radiated muscle, that is, straight muscular fibres, passing along the membrane from the circumference to the centre; from the bony rim which surrounds it towards the handle of the malleus to which the central part is attached. This muscle he supposes to be designed to bring the membrane into unison with different sounds: but then he also discovered, that this muscle itself cannot act,
+[page] 48 unless the membrane be drawn to a stretch, and kept in a due state of tightness, by what may be called a foreign force, viz. the action of the muscles of the malleus. Supposing his explanation of the use of the parts to be just, our author is well founded in the reflection which he makes upon it: "that this mode of adapting the ear to different sounds, is one of the most beautiful applications of muscles in the body; the mechanism is so simple, and the variety of effects so great. "
+
+In another volume of the Transactions above referred to, and of the same year, two most curious cases are related, of persons who retained the sense of hearing, not in a perfect, but in a very considerable degree, notwithstanding the almost total loss of the membrane we have been describing. In one of these cases, the use here assigned to that membrane, of modifying the impressions of sound by change of tension, was attempted to be supplied by straining the muscles of the outward ear. "The external ear," we are told, "had acquired a distinct motion upward and backward, which was observable whenever the patient listened to any thing which he did not distinctly hear: when he was addressed in a whisper, the ear was seen immediately to move; when the tone of voice" ""
+[page] 49 was louder, it then remained altogether motionless.
+
+It appears probable, from both these cases, that a collateral, if not principal, use of the membrane, is to cover and protect the barrel of the ear which lies behind it. Both the patients suffered from cold: one, "a great increase of deafness from catching cold;"the other, "very considerable pain from exposure to a stream of cold air." Bad effects therefore followed from this cavity being left open to the external air; yet, had the Author of nature shut it up by any other cover, than what was capable, by its texture, of receiving vibrations from sound, and, by its connexion with the interior parts, of transmitting those vibrations to the brain, the use of the organ, so far as we can judge, must have been entirely obstructed. 
+
+BLOCK 2 (Internet Archive OCR, Sheldon & Co. 1879 Paxton/Ware edition, chs. I-III)
+
+CHAPTER  I. 
+
+
+STATE    OF    THE    ARGUMENT. 
+
+
+In  ci  :ssing  a  heath,  suppose  I  pitched  my  foot  against 
+%  stoAe,  and  were  asked  how  the  stone  came  to  be  there; 
+i  might  possibly  answer,  that,  for  anything  1  knew  to  the 
+contrary,  it  had  lain  there  forever:  nor  would  it  perhaps 
+uc  very  easy  to  show  the  absurdity  of  this  answer.  But 
+suppose  I  had  found  a  watch  upon  the  ground,  and  it 
+should  be  inquired  how  the  watch  happened  to  be  in  that 
+place ;  I  should  hardly  think  of  the  answer  which  I  had  be- 
+fore given,  that,  for  anything  I  knew,  the  watch  might 
+have  always  been  there.  Yet  why  should  not  this  answer 
+seive  for  the  watch  as  well  as  for  the  stone?  Why  is  it 
+not  as  admissible  in  the  second  case,  as  in  the  first?  For 
+this  reason,  and  for  no  other,  viz.  that,  when  we  come  to 
+inspect  the  watch,  we  perceive  (what  we  could  not  dis- 
+cover in  the  stone)  that  its  several  parts  are  framed  and  put 
+together  for  a  purpose,  e.  g.  that  they  are  so  formed  and  ad- 
+justed as  to  produce  motion,  and  that  motion  so  regulated 
+19  to  point  out  the  hour  of  the  day ;  that  if  the  different 
+parts  had  been  differently  shaped  from  what  they  are,  of  a 
+different  size  from  what  they  are,  or  placed  after  any  other 
+manner,  or  in  any  other  order,  than  that  in  which  they 
+are  olaced,  either  no  motion  at  all  would  have  been  carried 
+on  in  the  machine,  or  none  which  would  have  answered  the 
+use  that  is  now  served  by  it.  To  reckon  up  a  few  of  the 
+plainest  of  these  parts,  and  of  their  offices,  all  tending  to  one 
+res.:  t:  [See  Plate  I.] — We  see  a  cylindrical  box  containing 
+h.  coiled  elastic  spring,  which,  by  its  endeavor  to  relax  itself, 
+turnis  round  the  box.  We  next  observe  a  flexible  chain  (ar- 
+tificially wrought  for  the  sake  of  flexure)  communicating  the 
+aetiou  of  the  s\  ring  from  the  box  to  the  fusee.     We  then 
+
+
+A* 
+
+
+b  STATE    OF    THE    ARGUMENT. 
+
+find  a  series  of  wheels,  the  teeth  of  which  catch  in,  and 
+apply  to  each  other,  conducting  the  motion  from  the  fusee 
+to  the  balance,  and  from  the  balance  to  the  pointer;  and  at 
+the  same  time,  by  the  size  and  shape  of  those  wheels,  so 
+regulating  that  motion,  as  to  terminate  in  causing  an  index 
+by  an  equable  and  measured  progression,  to  pass  over  a 
+given  space  in  a  given  time.  We  take  notice  that  the 
+wheels  are  made  of  brass  in  order  to  keep  them  from  rust ; 
+the  springs  of  steel,  no  other  metal  being  so  elastic;  that 
+over  the  face  of  the  watch  there  is  placed  a  glass,  a  material 
+employed  in  no  other  part  of  the  work;  but  in  the  room  of 
+which,  if  there  had  been  any  other  than  a  transparent  sub- 
+stance, the  hour  could  not  be  seen  without  opening  the 
+case.  This  mechanism  being  observed  (it  requires  indeed 
+an  examination  of  the  instrument,  and  perhaps  some  pre- 
+vious knowledge  of  the  subject,  to  perceive  and  understand 
+it;  but  being  once,  as  we  have  said,  observed  and  under- 
+stood,) the  inference,  we  think,  is  inevitable  ;  that  the 
+watch  must  have  had  a  maker;  that  there  must  have  exist- 
+ed, at  sometime,  and  at  some  place  or  other,  an  artificer  or 
+artificers,  who  formed  it  for  the  purpose  which  we  find  it 
+actually  to  answer  ;  who  comprehended  its  construction, 
+and  designed  its  use. 
+
+I.  Nor  would  it,  I  apprehend,  weaken  the  conclusion, 
+that  we  had  never  seen  a  watch  made:  that  we  had  never 
+known  an  artist  capable  of  making  one ;  that  we  were  alto- 
+gether incapable  of  executing  such  a  piece  of  workman- 
+ship ourselves,  or  of  understanding  in  what  manner  it  was 
+performed  ;  all  this  being  no  more  than  what  is  true  of  some 
+exquisite  remains  of  ancient  art,  of  some  lost  arts,  and,  to 
+the  generality  of  mankind,  of  the  more  curious  produc- 
+tions of  modern  manufacture.  Does  one  man  in  a  million 
+know  how  oval  frames  are  turned?  Ignorance  of  thir;  kind 
+exalts  our  opinion  of  the  unseen  and  unknown  artist's  skill, 
+if  he  be  unseen  and  unknown,  but  raises  no  doubt  in  our 
+minds  of  the  existence  and  agency  of  such  an  artist,  at 
+gome  former  time,  and  in  some  place  or  other.  Nor  can 
+I  perceive  that  it  varies  at  all  the  inference,  whether  the 
+question  arise  concerning  a  human  agent,  or  concerning  an 
+agent  of  a  different  species,  or  an  agent  possessing,  in 
+some  respects,  a  different  nature. 
+
+II.  Neither,   secondly,  would   it  invalidate   our  conclu 
+sion,  that  the  watch  sometimes  went  wrong,  or  that  it  sel- 
+dom went  exactly  right.     The  purpose  of  the  machinery, 
+*he  design  and  the  designer,  might  be  evident,  and  in  the 
+case  supposed  would  be  evident,  in  whatever  way  we  tw« 
+
+
+STATE    OF    THE    ARGUMENT 
+
+counted  for  the  irregularity  of  the  movement,  or  whethc* 
+we  could  accou.it  for  it  or  not.  It  is  not  necessary  that  ♦» 
+machine  be  perfect,  in  order  to  show  with  what  design  ii 
+was  made:  still  less  necessary,  where  the  only  question  is, 
+whether  it  were  made  with  any  design  at  all. 
+
+III.  Nor,  thirdly,  would  it  bring  any  uncertainty  into  the 
+argument,  if  there  were  a  few  parts  of  the  watch,  concern- 
+ing which  we  could  not  discover,  or  had  not  yet  discovered, 
+in  what  manner  they  conduced  to  the  general  effect;  or 
+even  some  parts,  concerning  which  we  could  not  ascer- 
+tain whether  they  conduced  to  that  effect  in  any  manner 
+whatever.  For,  as  to  the  first  branch  of  the  case ;  if  by 
+the  loss,  or  disorder,  or  decay  of  the  parts  in  question,  the 
+movement  of  the  watch  were  found  in  fact  to  be  stopped, 
+or  disturbed,  or  retarded,  no  doubt  would  remain  in  our 
+minds  as  to  the  utility  or  intention  of  these  parts,  although 
+we  should  be  unable  to  investigate  the  manner  according 
+to  which,  or  the  connexion  by  which,  the  ultimate  effect 
+depended  upon  their  action  or  assistance ;  and  the  more 
+complex  is  the  machine,  the  more  likely  is  this  obscurity  to 
+arise.  Then,  as  to  the  second  thing  supposed,  namely, 
+that  there  were  parts  which  might  be  spared,  without  pre- 
+judice to  the  movement  of  the  watch,  and  that  we  had  prov- 
+ed this  by  experiment — these  superfluous  parts,  even  if  we 
+were  completely  assured  that  they  were  such,  would  not 
+vacate  the  reasoning  which  we  had  instituted  concerning 
+other  parts.  The  indication  of  contrivance  remained,  with 
+respect  to  them,  nearly  as  it  was  before. 
+
+IV.  Nor,  fourthly,  would  any  man  in  his  senses  think 
+the  existence  of  the  watch,  with  its  various  machinery,  ac- 
+counted for,  by  being  told  that  it  was  one  out  of  possible 
+combinations  of  material  forms;  that  whatever  he  had 
+found  in  the  place  where  he  found  the  watch,  m-ist  have 
+contained  some  internal  configuration  or  other;  and  tha*. 
+this  configuration  might  be  the  structure  now  exhibited, 
+viz.  of  the  works  of  a  watch,  as  well  as  a  different  structure. 
+
+V.  Nor,  fifthly,  would  it  yield  his  inquiry  moie  satisfac- 
+tion to  be  answered,  that  there  existed  in  things  a  principle 
+of  order,  which  had  disposed  the  parts  of  tlie  watch  into 
+their  present  form  and  situation.     He  neve*  knew  a  watch 
+
+A 
+
+made  by  the  principle  of  order;  nor  can  Le  even  foim  to 
+himself  an  idea  of  what  is  meant  by  a  principle  of  order 
+distinct  from  the  intelligence  of  the  watchmaker. 
+
+VI.  Sixthly,  he  would  be  surprised  to  hear  that  the 
+mechanism  of  the  watch  was  no  proof  of  contrivance,  only 
+a  motive  t    induce  the  mind  to  think  so. 
+
+
+3  STATE    OF     THE    ARGUMENT. 
+
+VII.  And  not  less  surprised  to  be  informed,  that  the 
+v/atch  in  his  hand  was  nothing  more  than  the  result  of  the 
+laws  of  metallic  nature.  It  is  a  perversion  of  language  to 
+assign  any  law  as  the  efficient,  operative  cause  of  anything 
+A  law  presupposes  an  agent;  for  it  is  only  the  mode  ac- 
+cording to  which  an  agent  proceeds:  it  implies  a  power; 
+for  it  is  the  order,  according  to  which  that  power  acts 
+Without  this  agent,  without  this  power,  which  are  both  dis- 
+tinct from  itself,  the  law  does  nothing ;  is  nothing.  The 
+expression,  "the  law  of  metallic  nature,"  'xiay  sound  strange 
+and  harsh  to  a  philosophic  ear;  but  it  seems  quite  as  justi- 
+fiable as  some  others  which  are  more  familiar  to  him,  such 
+as  "the  law  of  vegetable  nature,"  "the  law  of  animal  na- 
+tire,"  or  indeed  as  "the  law  of  nature"  in  general,  when 
+assigned  as  the  cause  of  phenomena,  in  exclusion  of  agen- 
+cy and  power;  :>r  when  it  is  substituted  into  the  place  of 
+these. 
+
+VIII.  Neither,  lastly,  would  our  observer  be  driven  out 
+of  his  conclusion,  or  from  his  confidence  in  its  truth,  by 
+being  told  that  he  knew  nothing  at  all  about  the  matter. 
+He  knows  enough  for  his  argument.  He  knows  the  utility 
+of  the  end :  he  knows  the  subserviency  and  adaptation  of  the 
+means  to  the  end.  These  points  being  known,  his  igno- 
+rance of  other  points,  his  doubts  concerning  other  points, 
+affect  not  the  certainty  of  his  reasoning.  The  conscious- 
+ness of  knowing  little  need  not  beget  a  distrust  of  that 
+which  he  does  know. 
+
+
+CHAPTER  II. 
+
+STATE    OF    THE    ARGUMENT    CONTINUED. 
+
+Suppose,  in  the  next  place,  that  the  person  who  found 
+•he  watch,  should,  after  sometime,  discover,  that,  in  ad- 
+dition to  all  the  properties  which  he  had  hitherto  observed 
+(n  it,  it  possessed  the  unexpected  property  of  producing, 
+in  the  course  of  its  movement,  another  watch  like  itself, 
+(the  thing  is  conceivable ;)  that  it  contained  within  it  a 
+mechanism,  a  system  of  parts,  a  mould  for  instance,  or  a 
+complex  adjustment  of  lathes,  files,  and  other  tools,  evident- 
+ly and  separately  calculated  for  this  purpose;  let  us  in- 
+quire, what  effect  ought  such  a  discovery  to  have  uoonhis 
+forme    conclus'jn. 
+
+
+STATE    OF    THE    ARGUMENT.  9 
+
+I.  The  first  effect  would  be  to  increase  his  admiration 
+of  the  contrivance,  and  his  conviction  of  the  consummate 
+skill  of  *he  contriver.  Whether  he  regarded  the  ob- 
+ject of  t'.ie  contrivance,  the  distinct  apparatus,  the  intri- 
+cate, yet  in  many  parts  intelligible  mechanism,  by  which 
+it  was  carried  on,  he  would  perceive,  in  this  new  observa 
+tion,  nothing  but  an  additional  reason  for  doing  what  he 
+had  already  done, — for  referring  the  construction  of  the 
+watch  to  design,  and  to  supreme  art.  If  that  construction 
+without  this  property,  or,  which  is  the  same  thing,  before 
+this  property  had  been  noticed,  proved  intention  and  art 
+to  have  been  employed  about  it,  still  more  strong  would 
+the  proof  appear,  when  he  came  to  the  knowledge  of  this 
+farther  property,  the  crown  and  perfection  of  all  the  rest. 
+
+II.  He  would  reflect,  that  though  the  watch  before  him 
+were,  in  some  sense,  the  maker  of  the  watch  which  was 
+fabricated  in  the  course  of  its  movements,  yet  it  was  in  a 
+very  different  sense  from  that  in  which  a  carpenter,  for 
+instance,  is  the  maker  of  a  chair;  the  author  of  its  con- 
+trivance, the  cause  of  the  relation  of  its  parts  to  their  use. 
+With  respect  to  these,  the  first  watch  was  no  cause  at  all 
+to  the  second:  in  no  such  sense  as  this  was  it  the  author 
+of  the  constitution  and  order,  either  of  the  parts  which 
+the  new  watch  contained,  or  of  the  parts  by  the  aid  and 
+instrumentality  of  which  it  was  produced.  We  might  pos- 
+sibly say,  but  with  great  latitude  of  expression,  that  a 
+stream  of  water  ground  corn;  but  no  latitude  of  expres- 
+sion would  allow  us  to  say,  no  stretch  of  conjecture  could 
+lead  us  to  think,  that  the  stream  of  water  built  the  mill, 
+though  it  were  too  ancient  for  us  to  know  who  the  builder 
+was.  What  the  stream  of  water  does  in  the  affair,  is 
+neither  more  nor  less  than  this ;  by  the  application  of  an 
+unintelligent  impulse  to  a  mechanism  previously  arranged, 
+arranged  independently  of  it,  and  arranged  by  intelligence, 
+an  effect  is  produced,  viz.  the  corn  is  ground.  But  the 
+effect  results  from  the  arrangement.  The  force  of  the 
+stream  cannot  be  said  to  be  the  cause  or  author  of  tne 
+effect,  still  less  of  the  arrangement.  Understanding  and 
+plan  in  the  formation  of  the  mill  were  not  the  less  neces* 
+sary,  for  any  share  which  the  water  has  in  grinding  the 
+corn ;  yet  is  this  share  the  same  as  that  which  the  watch 
+would  have  contributed  to  the  production  of  the  new  watch, 
+upon  the  supposition  assumed  in  the  last  section.  There- 
+fore, 
+
+III.  Though  it  be  now  no  longer  probable,  that  the 
+individual  watch  which  our  (bserve*1  had  found  was  mad  a 
+
+
+10  STATE    OF    THE    ARGUMENT. 
+
+immediately  by  the  hand  of  an  artificer,  yet  doth  not  Lis 
+alteration  in  any-wise  affect  the  inference,  that  an  artificei 
+had  been  originally  employed  and  concerned  in  the  pro- 
+duction. The  argument  from  design  remains  as  it  was. 
+Marks  of  design  and  contrivance  are  no  more  accounted 
+for  n)w  than  they  were  before.  In  the  same  thing,  we 
+may  ask  for  the  cause  of  different  properties.  We  may 
+ask  for  the  cause  of  the  color  of  a  body,  of  its  hardness,  of 
+its  heat;  ai.d  these  causes  may  be  all  different.  We  arc 
+now  asking  for  the  cause  of  that  subserviency  to  a  :se, 
+that  relation  to  an  end,  which  we  have  remarked  in  the 
+watch  before  us.  No  answer  is  given  to  this  question  by 
+telling  us  that  a  preceding  watch  produced  it.  There  can- 
+not be  design  without  a  designer;  contrivance,  without  a 
+contriver;  order,  without  choice;  arrangement,  without 
+anything  capable  of  arranging;  subserviency  and  relation 
+to  a  purpose,  without  that  which  could  intend  a  purpose; 
+means  suitable  to  an  end,  and  executing  their  office  ir. 
+accomplishing  that  end,  without  the  end  ever  having  been 
+contemplated,  or  the  means  accommodated  to  it.  Arrange- 
+ment, disposition  of  parts,  subserviency  of  means  to  an  end, 
+relation  of  instruments  to  a  use,  imply  the  presence  of  in- 
+telligence and  mind.  No  one,  therefore,  can  rationally  be- 
+lieve, that  the  insensible,  inanimate  watch,  from  which  the 
+watch  before  us  issued,  was  the  proper  cause  of  the  me- 
+chanism we  so  much  admire  in  it; — could  be  truly  said  to 
+have  constructed  the  instrument,  disposed  its  parts,  assign 
+ed  their  otfice,  determined  their  order,  action,  and  mutual 
+dependency,  combined  their  several  motions  into  one  re- 
+sult, and  that  also  a  result  connected  with  the  utilities  of 
+other  being3.  All  these  properties,  therefore,  are  as  much 
+unaccounted  for  as  they  were  before. 
+
+IV.  Nor  is  anything  gained  by  running  the  difficulty 
+farther  back,  i.  e.  by  supposing  the  watch  before  us  to  have 
+)een  produced  from  another  watch,  that  from  a  former, 
+and  so  on  indefinitely.  Our  going  back  ever  so  far  brings 
+us  no  nearer  to  the  least  degree  of  satisfaction  upon  the 
+subject.  Contrivance  is  still  unaccounted  for.  We  still 
+want  a  contriver.  A  designing  mind  is  neither  supplied 
+by  this  supposition,  nor  dispensed  with.  If  the  difficulty 
+w<  re  diminished  the  farther  we  went  back,  by  going  back 
+indefinitely  we  might  exhaust  it.  And  this  is  the  only 
+case  to  which  this  sort  of  reasoning  applies.  Where  there 
+is  a  tendency,  or,  as  we  increase  the  number  of  terms,  a 
+continual  approach  towards  a  limit,  there,  Dy  supposing  the 
+number  of  terms  to  be  what  is  tailed  infinite,  we  may  con- 
+
+
+STATE    OF    THE    ARGUMENT  11 
+
+c*,ive  the  limit  to  be  attained:  but  where  there  is  n:  such 
+tendency,  or  approach,  nothing  is  effected  by  lengthening 
+the  series.  There  is  no  difference,  as  to  the  point  in  ques- 
+tion, (whatever  there  may  be  as  to  many  points,)  between 
+one  series  and  another;  between  a  series  which  is  finite, 
+and  a  series  which  is  infinite.  A  chain,  composed  of  an 
+infinite  number  of  links,  can  no  more  support  itself,  than 
+a  chain  composed  of  a  finite  number  of  links.  And  of  this 
+we  are  assured,  (though  we  never  can  have  tried  the  ex- 
+periment because,  by  inci  easing  the  number  of  links, 
+from  ten,  for  instance,  to  a  hundred,  from  a  hundred  to  g 
+thousand,  &c.  we  make  not  the  smallest  approach,. we  ob- 
+serve not  the  smallest  tendency,  towards  self-support. 
+There  is  no  difference  in  this  respect  (yet  there  may  bo 
+a  great  difference  in  several  respects)  between  a  chain  of 
+a  greater  or  less  length,  between  one  chain  and  another, 
+between  one  that  is  finite  and  one  that  is  infinite 
+This  very  much  resembles  the  case  before  us.  The 
+machine  which  we  are  inspecting  demonstrates,  by  its 
+construction,  contrivance  and  design.  Contrivance  must 
+have  had  a  contriver;  design,  a  designer;  whether  the 
+machine  immediately  proceeded  from  another  machine  or 
+not.  That  circumstance  alters  not  the  case.  That  other 
+machine  may,  in  like  manner,  have  proceeded  from  a  for- 
+mer machine:  nor  does  that  alter  the  case;  contrivance 
+must  have  had  a  contriver.  That  former  one  from  one 
+preceding  it:  no  alteration  still;  a  contriver  is  still  neces- 
+sary. No  tendency  is  perceived,  no  approach  towards  a 
+diminution  of  this  necessity.  It  is  the  same  with  any  and 
+every  succession  of  these  machines;  a  succession  of  ten, 
+of  a  hundred,  of  a  thousand;  with  one  series  as  with  an- 
+other; a  series  which  is  finite,  as  with  a  series  which  is 
+infinite.  In  whatever  other  respect*  they  may  differ,  in 
+this  they  do  not.  In  all,  equally,  ccntrivance  and  design 
+are  unaccounted  for. 
+
+The  question  is  not  simply,  How  came  the  first  watch 
+into  existence?  which  question,  it  may  be  pretended,  is 
+done  away  by  supposing  the  series  of  watches  thus  pro- 
+duced from  one  another  to  have  been  infinite,  and  conse- 
+quently tc  have  had  no  such  first,  for  which  it  was  neces- 
+sary to  provide  a  cause.  This,  perhaps,  would  have  been 
+nearly  the  state  of  the  question,  it' nothing  had  been  before 
+us  but  an  unorganized,  unmechanized  substance,  without 
+mark  or  indication  of  contrivance.  It  might  be  difficult  tc 
+show  that  such  substance  could  not  have  existed  from  eter- 
+nity, either  in  succession  (if  it  were  possible,  which  I  think 
+
+
+12  STATE    OF    THE    ARGUMENT. 
+
+it  is  viot,  for  unorganized  bodies  to  spring  from  one  another, 
+or  by  individual  perpetuity.  But  that  is  not  the  question 
+now.  To  suppose  it  to  be  so,  is  to  suppose  that  it  mad6 
+no  difference  whether  we  had  found  a  watch  or  a  stone. 
+As  it  is,  the  metaphysics  of  that  question  have  no  place; 
+for,  in  the  watch  which  we  are  examining,  are  seen  con- 
+trivance, design;  an  end,  a  purpose;  means  for  the  end, 
+adaptation  to  the  purpose.  And  the  question  which  ir- 
+resistibly presses  upon  our  thoughts,  is,  whence  this  con- 
+trivance and  design?  The  thing  required  is  the  intending 
+mind,  the  adapting  hand,  the  intelligence  by  which  that 
+hand  was  directed.  This  question,  this  demand,  is  lot 
+shaken  off,  by  increasing  a  number  or  succession  of  sub- 
+stances, destitute  of  these  properties;  nor  the  more,  by  in- 
+creasing that  number  to  infinity.  If  it  be  said,  that,  upon 
+the  supposition  of  one  watch  being  produced  from  another 
+in  the  course  of  that  other's  movements,  and  by  means  of 
+the  mechanism  within  it,  we  have  a  cause  for  the  watch  in 
+my  hand,  viz.  the  watch  from  which  it  proceeded:  I  deny, 
+that  for  the  design,  the  contrivance,  the  suitableness  of 
+means  to  an  end,  the  adaptation  of  instruments  to  a  use,  (all 
+which  we  discover  in  a  watch,)  we  have  any  cause  what- 
+ever. It  is  in  vain,  therefore,  to  assign  a  series  of  such 
+causes,  or  to  allege  that  a  series  may  be  carried  back  to 
+infinity ;  for  I  do  not  admit  that  we  have  yet  any  cause  at 
+all  of  the  phenomena,  still  less  any  series  of  causes  eithei 
+finite  or  infinite.  Here  is  contrivance,  but  no  contriver; 
+proofs  of  design,  but  no  designer. 
+
+V.  Our  observer  would  farther  also  reflect,  that  the 
+maker  of  the  watch  before  him,  was,  in  truth  and  reality, 
+the  maker  of  every  watch  produced  from  it;  there  being 
+no  difference  (except  that  the  latter  manifests  a  more  ex- 
+quisite skill)  between  the  making  of  another  watch  with 
+his  own  hands,  by  the  mediation  of  files,  lathes,  chisels,  &c. 
+and  the  disposing,  fixing,  and  inserting  of  these  instru- 
+ments, or  of  others  equivalent  to  them,  in  the  body  of  the 
+watch  already  made,  in  such  a  manner  as  to  form  a  new 
+watch  in  the  course  of  the  movements  which  he  had  given 
+to  the  old  one.  It  is  only  working  by  one  set  of  tools  in- 
+stead of  another. 
+
+The  conclusion  which  the  first  examination  of  the  watch, 
+of  its  works,  construction,  and  movement,  suggested,  was, 
+that  it  must  have  had,  for  the  cause  and  author  of  that  con- 
+struction, an  artificer,  who  understood  its  mechanism,  and 
+designed  its  use.  This  conclusion  is  invincible.  A  second 
+examination  presents  us  with  a  new  discovery      The  watch 
+
+
+APPLICATION    OF    THE    ARGUMENT  13 
+
+is  found,  in  the  course  of  its  movement,  to  produce  anoth- 
+er watch,  similar  to  itself:   and  not  only  so,  but  we  perceive 
+in  it  a  system  or  organization,  separately  calculated  for  thai 
+purpose.     What  effect  would  this  discovery  have  or  ought 
+it  to  bive,  upon  our  former  inference?     What,  as  hath  al- 
+ready been  said,  but  to  increase,  beyond  measure,  our  ad 
+miration  of  the  skill  which  had  been  employed  in  the  for- 
+mation of  such  a   machine!     Or   shall   it,  instead   of  Inis 
+all  at  once  turn  us  round  to  an  opposite  conclusion,   viz 
+that  no  art  or  skill   whatever  has   been   concerned   in   the 
+business,  although  all   other  evidences  of  art  and  skill  re- 
+main as  they  were,  and  this  last  and  supreme  piece  of  art 
+be  now  added  to  the  rest?     Can  this  be  maintained  with- 
+out absurdity?     Yet  this  is  atheism. 
+
+
+CHAPTER  III. 
+
+APPLICATION    OF    THE    ARGUMENT. 
+
+This  is  atheism:  for  every  indication  of  contrivance,  ev- 
+ery manifestation  of  design,  which  existed  in  the  watch,  ex- 
+ists in  the  works  of  nature;  with  the  difference,  on  the  side 
+of  nature,  of  beirg  greater  and  more,  and  that  in  a  degree 
+which  exceeds  all  computation.  I  mean,  that  the  contriv- 
+ances of  nature  surpass  the  contrivances  of  art,  in  the  com- 
+plexity, subtilty,  and  curiosity  of  the  mechanism;  and  still 
+more,  if  possible,  do  they  go  beyond  them  in  number  an'" 
+variety:  yet,  in  a  multitude  of  cases,  are  not  less  evidently 
+mechanical,  not  less  evidently  contrivances,  not  less  evi-  v 
+dently  accommodated  to  their  end,  or  suited  to  their  office, 
+than  are  the  most  perfect  productions  of  human  ingenuity. 
+
+I  know  no  better  method  of  introducing;  so  large  a  sub- 
+ject ,  than  that  of  comparing  a  single  thing  with  a  single  thing ; 
+an  eye,  for  example,  with  a  telescope.  As  far  as  the  ex- 
+amination of  the  instrument  go  as,  there  is  precisely  the 
+same  proof  that  the  eye  was  made  for  vision,  as  there  la 
+that  the  telescope  was  made  for  assisting  it.  They  are 
+made  upon  the  same  principles;  both  being  adjusted  to  the 
+laws  by  which  the  transmission  and  refraction  of  rays  of 
+light  are  regulated.  1  speak  not  of  the  origin  of  the  laws 
+themselves;  but  such  laws  being  fixed,  the  construction, 
+in  both  cases,  is  adapted  to  them.  For  instance;  these 
+laws  require,  in  order  to  produce  the  same  effect,  that  the 
+tays  of  light,  in  passing  from  water  into  the  eye,  should  bo 
+
+H 
+
+
+1*1  AFFLlCATlOfl    OF    THE    ARGUMENT 
+
+refracted  by  a  more  convex  surface  than  when  it  passes 
+out  of  air  into  the  eye.  Accordingly  we  find,  that  the  eye 
+of  a  fish,  in  that  part  of  it  called  the  crystalline  lens,  is  much 
+rounder  than  the  eye  of  terrestrial  animals.  [Plate  II.  fig.  1.] 
+What  plainer  manifestation  of  design  can  there  be  than  thi9 
+difference  ?  What  could  a  mathematical  instrument-make; 
+have  done  more,  to  snow  his  knowledge  of  his  principle, 
+his  application  of  that  knowledge,  his  suiting  of  his  means 
+to  his  end;  I  will  not  say  to  display  the  compass  or  excel- 
+lence of  his  skill  and  art,  for  in  these  all  comparison  is 
+indecorous,  but  to  testify  counsel,  choice,  consideration, 
+purpose  ? 
+
+To  some  it  may  appear  a  difference  sufficient  to  destroy 
+all  similitude  between  the  eye  and  the  telescope,  that  the 
+one  is  a  perceiving  organ,  the  other  an  unperceiving  instru- 
+ment. The  fact  is,  that  they  are  both  instruments.  And, 
+as  to  the  mechanism,  at  least  as  to  mechanism  being  em- 
+ployed, and  even  as  to  the  kind  of  it,  this  circumstance  va- 
+ries not  the  analogy  at  all.  For,  observe  what  the  consti- 
+tution of  the  eye  is.  [Plate  II.  fig.  2.]  It  is  necessary,  in 
+order  to  produce  distinct  vision,  that  an  image  or  picture  of 
+the  object  be  formed  at  the  bottom  of  the  eye.  Whence  this 
+necessity  arises,  or  how  the  picture  is  connected  with  the 
+sensation,  or  contributes  to  it,  it  may  be  difficult,  nay  we 
+"ft'ill  confess,  if  you  please,  impossible  for  us  to  search  out. 
+But  the  present  question  is  not  concerned  in  the  inquiry.  It 
+may  be  true,  that,  in  this,  and  in  other  instances,  we  trace 
+mechanical  contrivance  a  certain  way;  and  that  then  we 
+come  to  something  which  is  not  mechanical,  or  which  is  in- 
+scrutable. But  this  affects  not  the  certainty  of  our  inves- 
+tigation, as  far  as  we  have  gone.  The  difference  between 
+in  animal  and  an  automatic  statue,  consists  in  this, — that, 
+in  the  animal,  we  trace  the  mechanism  to  a  certain  point, 
+and  then  we  are  stopped ;  either  the  mechanism  becoming 
+foo  subtile  for  our  discernment,  or  something  else  beside 
+"iie  known  laws  of  mechanism  taking  place:  whereas,  in 
+:ie  automaton,  for  the  comparatively  few  motions  of  which 
+\  is  capahJe,  we  trace  the  mechanism  throughout.  But, 
+ap  to  the  limit,  the  reasoning  is  as  clear  and  certain  in  the 
+one  case  as  in  the  other.  In  the  example  before  us,  it  is  a 
+matter  of  certainty,  because  it  is  a  matter  which  experience 
+and  observation  demonstrate,  that  the  formation  of  an  lin- 
+age at  the  bottom  of  the  eye  is  necessary  to  perfect  vision 
+The  image  itself  can  be  shown.  Whatever  affects  the  dis- 
+tinctness of  the  image,  affects  the  distinctness  of  the  vision. 
+The  fo?mation  then  ot  such  an  image  being  necessary  (n*« 
+
+
+APPLICATION    OF    THE    ARGUMENT.  15 
+
+matter  how)  to  the  sense  of  sight,  ana  to  the  exercise  of 
+that  sense,  the  apparatus  by  which  it  is  formed  is  con- 
+structed and  put  together,  not  only  with  infinitely  more  art, 
+but  upon  the  selfsame  principles  of  art,  as  in  the  telescope 
+or  the  camera  obscura.  The  perception  arising  from  the 
+image  may  be  laid  out  of  the  question;  for  the  production 
+of  the  image,  these  are  instruments  of  the  same  kind. 
+The  end  is  the  same;  the  means  are  the  same.  The  pur- 
+pose in  both  is  alike,  the  contrivance  for  accomplishing 
+that  purpose  is  in  both  alike.*  The  lenses  of  the  telescope, 
+[Plate  II.  fig.  3,  4.]  and  the  humours  of  the  eye,  bear  a 
+complete  resemblance  to  one  another,  in  their  figure,  their 
+position,  and  in  their  power  over  the  rays  of  light,  viz.  ir 
+bringing  each  pencil  to  a  point  at  the  right  distance  from 
+the  lens;  namely,  in  the  eye,  at  the  exact  place  where  ihe 
+membrane  is  spread  to  receive  it.  How  is  it  possible,  un- 
+der circumstances  of  such  close  affinity,  and  under  the 
+operation  of  equal  evidence,  to  exclude  contrivance  from 
+the  one,  yet  to  acknowledge  the  proof  of  contrivance  hav- 
+ing been  employed,  as  the  plainest  and  clearest  of  all  pro- 
+positions, in  the  other? 
+
+The  resemblance  between  the  two  cases  is  still  more  ac- 
+curate, and  obtains  in  more  points  than  we  have  yet  repre- 
+sented, or  than  we  are,  on  the  first  view  of  the  subject, 
+aware  of.  In  dioptric  telescopes  there  is  an  imperfection 
+of  this  nature.  Pencils  of  light,  in  passing  through  glass 
+lenses,  are  separated  into  different  colors,  thereby  tinging 
+the  object,  especially  the  edges  of  it,  as  if  it  were  viewed 
+through  a  prism.  To  correct  this  inconvenience  had  been 
+long  a  desideratum  in  the  art.  At  last  it  came  into  the 
+mind  of  a  sagacious  optician,  to  inquire  how  this  matter 
+was  managed  in  the  eye;  in  which  there  was  exactly  the 
+same  difficulty  to  contend  with  as  in  the  telescope.  His 
+observation  taught  him,  that,  in  the  eye,  the  evil  was  cur- 
+ed by  combining  lenses  composed  of  different  substances, 
+i,  e.  of  substances  which  possessed  different  refracting 
+powers.  Our  artist  borrowed  thence  his  hint,  and  pro- 
+duced a  correction  of  the  defect  by  imitating,  in  glasses 
+
+*  The  comparison  with  the  lens  of  the  telescope  is  not  perfectly  exact 
+for  the  crystalline  lens  is  a  substance  composed  of  concentric  layers,  of 
+unequal  density,  the  hardness  of  which  increases  from  the  surface  to  th« 
+centre/  and  hence  possesses  a  more  refractive  power  than  any  artificial 
+lens.  Mr.  Ramsden  supposes  that  this  texture  tends  to  correct  the  aber- 
+ration occasioned  by  the  spherical  form  of  the  cornea,  and  the  focus  of 
+each  oblique  pencil  of  rays  falls  accurately  on  the  co  icaNe  surface  of 
+the  retiia  — Pax  ton 
+
+
+16  APPLICATION    OF    THE    ARGUMENT 
+
+made  from  different  materials,  the  effects  of  the  diffeiein 
+humours  through  which  the  rays  of  light  pass  before  they 
+.each  the  bottom  of  the  eye.  Could  this  be  in  the  eye 
+without  purpose,  which  suggested  to  the  optician  the  only 
+effectual  means  of  attaining  that  purpose?* 
+
+But  farther;  there  are  other  points,  not  so  much  perhaps 
+of  strict  resemblance  between  the  two,  as  of  superiority  ot 
+the  eye  over  the  telescope,  which  being  found  in  the  laws 
+that  regulate  both,  may  furnish  topics  of  fair  and  just  com- 
+parison. Two  things  were  wanted,  to  the  eye,  which 
+were  not  wanted  (at  least  in  the  same  degree)  to  the  teles 
+cope:  and  these  were  the  adaptation  of  the  organ,  first 
+to  different  degrees  of  light;  and,  secondly,  to  the  vast 
+diversity  of  distance  at  which  objects  are  viewed  by  the 
+naked  eye,  viz.  from  a  few  inches  to  as  many  miles.  These 
+difficulties  present  not  themselves  to  the  maker  of  the 
+telescope.  He  wants  all  the  light  he  can  get;  and  he 
+never  directs  his  instrument  to  objects  near  at  hand.  In 
+the  eye,  both  these  cases  were  to  be  provided  for;  and  for 
+the  purpose  of  providing  for  them  a  subtile  and  appropriate 
+mechanism  is  introduced: — 
+
+*  "  It  does  not  appear  that  the  hint  of  this  discovery  was  taken  by 
+Mr.  Dollond  from  the  structure  of  the  eye,  as  supposed  by  our  author, 
+but  was  obtained  in  a  different  manner.  This  circumstance  does  not 
+however  lessen  the  force  of  the  reasoning.  The  principle  thus  applied 
+in  the  construction  of  achromatic  telescopes,  has  been  since  carried  still 
+farther,  and  in  its  new  application,  illustrates  more  strongly,  if  possible, 
+the  point  so  well  insisted  on  by  Dr.  Paley,  namely,  the  resemblance  be- 
+tween the  eye  and  our  optical  instruments.  In  the  best  achromatic  tei?- 
+Bcopes,  composed  of  the  different  kinds  of  glass,  according  to  the  discov  • 
+ery  of  Mr.  Dollond,  white  or  luminous  objects  are  not  shown  perfectly  free 
+from  color,  their  edges  being  tinged  on  one  side  with  a  claret  colored, 
+and  on  the  other  with  a  greenish  fringe.  This  remaining  imperfection 
+has  been  got  rid  of  by  the  combination  of  solid  and  fluid  lenses  in  the 
+object  and  eye-glasses  of  telescopes.  For  this  beautiful  discovery  science 
+is  indented  to  Dr.  Blair  of  Edinburgh,  who  found  that  by  placing  a  con- 
+cave lens  of  muriatic  acid  with  a  metallic  solution,  between  two  convex 
+lenses  of  glass,  a  combined  lens  was  formed  which  refracted  rays  with 
+perfect  regularity  and  equality.  A  lens  like  this  has  been  used  with 
+great  advantage.  The  most  important  point  is,  however,  to  consider 
+this  improvement  in  its  application  to  the  argument,  and  it  will  be  seen 
+how  much  nearer  this  construction  brings  the  telescope  to  the  eye.  In 
+Dollond's  telescope  there  is  a  combination  of  solid  lenses  of  different 
+substances. — In  Blair's,  a  combination  of  fluid  and  solid  ;  which  is  ex- 
+actly the  case  in  the  human  eye.  The  only  difference  is,  that  in  the  eve 
+there  is  a  solid  lens  between  two  fluid  ones  ;  and  in  tn/3  telescope  a  fluid 
+between  two  solid.  The  combination  is  closely  similar,  ?nd  the  final  causo 
+in  both,  probably  the  same,  namely,  to  correct  the  unequal  refraction  of 
+light,  (see  Edinburgh  Journal  of  Science,  No.  VIII.,  p.  212,  and  Library 
+of  Useful  Knowledge,  Nos.  I.  and  II.)  Ed. 
+
+
+APPLICATION    OF    THE    ARGUMENT.  17 
+
+I.  In  order  to  exclude  excess  of  light,  when  it  is  ex 
+cessive,  and  to  render  objects  visible  under  obscurer  degrees 
+of  it,  when  no  more  can  be  had,  the  hole  or  aperture  in 
+the  eye,  through  which  the  light  enters,  is  so  formed,  as  to 
+contract  or  dilate  itself  for  the  purpose  of  admitting  a  great- 
+er or  less  number  of  rays  at  the  same  time.  The  cham- 
+ber of  the  eye  is  a  camera  obscura,*  which,  when  the  light 
+is  too  small,  can  enlarge  its  opening;  when  too  strong, 
+can  again  contract  it;  and  that  without  any  other  assist- 
+ance than  that  of  its  own  exquisite  machinery.  It  is  far- 
+ther abo,  in  the  human  subject,  to  be  observed,  that  this 
+hole  in  the  eye,  which  we  call  the  pupil,  under  all  its  dif- 
+ferent dimensions,  retains  its  exact  circular  shape.  Tr.ja 
+is  a  structure  extremely  artificial.  Let  an  artist  only  try 
+to  execute  the  same;  he  will  find  that  his  threads  and 
+strings  must  be  disposed  with  great  consideration  and  con- 
+trivance to  make  a  circle,  which  shall  continually  change 
+its  diameter,  yet  preserve  its  form.  This  is  done  in  the 
+eye  by  an  application  of  fibres,  i.  e.  of  strings,  similar,  in 
+their  position  and  action,  to  what  an  artist  would  and  must 
+employ,  if  he  had  the  same  piece  of  workmanship  to  per- 
+form.   [Plate  II.  Fig.  5  &  6.]  | 
+
+*  As  the  rays  of  light  flowing  from  all  the  points  of  an  object  through 
+(he  pupil  of  the  eye,  by  the  refraction  of  the  lens  and  humours  of  the 
+aye,  form  an  exact  representation  at  the  bottom  of  the  eye  on  the  retina  ; 
+bo  the  camera  obscura,  by  means  of  a  lens  refracting  the  rays,  exhibits  a 
+picture  of  the  scene  before  it  on  the  opposite  wall. — Paxton. 
+
+t  Some  eminent  anatomists  have  doubted  the  muscularity  of  the  iris, 
+and  have  given  very  different  explanations  of  its  motions,  attributing  the 
+contraction  and  dilatation  either  to  the  varied  impulse  of  the  blood  in  its 
+vessels,  or  to  its  own  vita  propria.  The  enlightened  physiologist  Magen- 
+die  affirms,  that  the  latest  researches  upon  the  anatomy  of  the  iris  proves 
+its  muscular  structure,  and  that  it  is  composed  of  two  layers  of  fibres,  the 
+external,  Plate  II.  (Fig.  5.)  radiated,  which  dilate  the  pupil,  the  other 
+(Fig.  6.)  circular,  which  contract  the  pupil.  The  external  circular 
+fibres  appear  to  be  supported  by  a  species  of  ring,  which  each  of  the  ra- 
+diated fibres  contribute  to  form,  and  in  which  they  slide  during  the-  alter- 
+nate contractions  and  relaxations  of  the  pupil. — Paxton. 
+
+There  is  a  curious  circumstance  in  the  way  in  which  light  produces  thp 
+contraction  of  the  opening  of  the  iris,  which  strengthens  very  much  the  ar 
+gurnent  derived  from  design  manifested  in  its  structure  and  adaptation  to  its 
+purpose.  The  object  of  the  iris,  it  is  to  be  observed,  has  reference  to  the 
+quantity  of  light  to  be  admitted  upon  the  retina  or  expansion  of  *he  optic 
+neive.  It  is  the  state  of  the  retina  then  which  regulates  the  motions  of  the 
+iris,  an  J  it  is  the  action  of  the  lijihton  the  retina  which  causes  those  mo- 
+tions and  not  its  action  upon  the  iris  itself  This  has  been  shown  by  a  very 
+delicate  experiment.  If  a  ray  of  light  be  accurately  thrown  in  such  a 
+diiection,  that  it  shall  fall  upon  the  circle  of  the  iris  itself,  and  not  pa* 
+through  its  aperture,  no  contraction  of  the  aperture  takes  place;  but  if  il 
+
+B* 
+
+
+IS  -APPLICATION     OF    rHE    ARGUMENT 
+
+II.  The  second  difficulty  which  has  been  stated,  was  the 
+suiting  of  the  same  organ  to  the  perception  of  objects  tha. 
+lie  near  at  hand,  within  a  few  inches,  we  will  suppose,  of 
+the  eye,  and  of  objects  which  are  placed  at  a  considerable 
+distance  from  it,  that,  for  example,  of  as  many  furlongs; 
+(I  speak  in  both  cases  of  the  distance  at  which  distinct 
+vision  can  be  exercised.)  Now  this,  according  to  the 
+principles  of  optics,  that  is,  according  to  the  laws  by  which 
+the  transmission  of  light  is  regulated,  (and  these  laws  are 
+fixed,)  could  not  be  done  without  the  organ  itself  under- 
+going an  alteration  and  receiving  an  adjustment,  that 
+might  correspond  with  the  exigency  of  the  case,  that  is  to 
+say,  with  the  different  inclination  to  one  another  under 
+which  the  rays  of  light  reached  it.  Rays  issuing  from  points 
+placed  at  a  small  distance  from  the  eye,  and  which  conse- 
+quently must  enter  the  eye  in  a  spreading  or  diverging 
+order,  cannot,  by  the  same  optical  instrument  in  the  same 
+state,  be  brought  to  a  point,  i.  e.  be  made  to  form  an  image, 
+in  the  same  place  with  rays  proceeding  from  objects  situat- 
+ed at  a  much  greater  distance,  and  which  rays  arrive  at  the 
+eye  in  directions  nearly  (and  physically  speaking)  parallel. 
+It  requires  a  rounder  lens  to  do  it.  The  point  of  concourse 
+behind  the  lens  must  fall  critically  upon  the  retina,  or  the 
+vision  is  confused;*  yet  other  things  remaining  the  same, 
+this  point,  by  the  immutable  properties  of  light,  is  carried 
+farther  back  when  the  rays  proceed  from  a  near  object  than 
+when  they  are  sent  from  one  that  is  remote.  A  person  who 
+was  using  an  optical  instrument,  would  manage  this  matter 
+by  changing,  as  the  occasion  required,  his  lens  or  his  tele- 
+scopes; or  by  adjusting  the  distance  of  his  glasses  with  hig 
+hand  or  his  screw:  but  how  is  it  to  be  managed  in  the  eye? 
+What  the  alteration  was,  or  in  what  part  of  the  eye  it  took 
+place,  or  by  what  means  it  was  effected,  (for  if  the  known 
+
+be  so  thrown  as  to  pass  through  the  aperture,  and  fall  upon  the  retini 
+without  touching  the  iris  at  all,  still  a  contraction  of  the  iris  immediately 
+takes  place.  So  that  light  upon  the  iris  alone  occasions  no  contraction, 
+although  it  is  the  part  which  really  contracts  when  the  same  light  falli 
+upon  a  distant  part.  The  design  here  is  too  obvious  to  need  being  en- 
+larged upon.  I  low  could  the  iris  acquire  the  power  of  contracting  when 
+light  falls  on  another  membrane,  for  the  protection  of  that  membrane  > 
+although  it  does  not  contract  when  the  light  falls  upon  itself  alone  ? — [Ed. 
+*  The  focus  of  the  refracted  rays  must  fall  exactly  on  the  retina,  sa 
+^hat  the  point  of  vision  may  be  neither  produced  beyond  it,  nor  shorten 
+ed  so  as  not  to  reach  it.  The  latter  defect  exists  in  short-sighted  per 
+sons,  from  too  great  convexity  of  the  cornea  or  lens.  The  former  is  tht 
+defect  cf  long-sighted  persons,  in  whom  there  is  an  opposite  confoinuu 
+tion  of  those  parts.-  Paxton. 
+
+
+APPLICATION    OF    THE    ARGUMENT.  19 
+
+s  which  govern  the  refraction  of  light  be  maintained, 
+some  alteration  in  the  state  of  the  organ  there  must  be,^ 
+had  long  formed  a  subject  of  inquiry  and  conjecture. 
+The  change,  though  sulhcient  for  the  purpose,  is  so  minute 
+as  to  elude  ordinary  observation.  Some  very  late  discove- 
+ries, deduced  from  a  "laborious  and  most  accurate  inspection 
+of  the  structure  and  operation  of  the  organ,  seem  at  length 
+to  have  ascertained  the  mechanical  alteration  which  tht» 
+parts  of  the  eye  undergo.  It  is  found,  that  by  the  action  of 
+certain  muscles  [PI.  II.  fig.  7.]  called  the  straight  muscles, 
+and  which  action  is  the  most  advantageous  that  could  be 
+imagined  for  the  purpose, — it  is  found,  I  say,  that  whenever 
+the  eye  isdirectedtoanear  object,  three  changes  are  produc- 
+ed in  it  at  the  same  time,  all  severally  contributing  to  the  ad  - 
+justment  required.  The  cornea,  or  outermost  coat  of  the 
+eye,  is  rendered  more  round  and  prominent;  the  crystalline 
+lens  underneath  is  pushed  forwards;  and  the  axis  of 
+vision,  as  the  depth  of  the  eye  is  called,  is  elongated 
+These  changes  in  the  eye  vary  its  power  over  the  rays  of 
+light  in  such  a  manner  and  degree  as  to  produce  exactly 
+the  effect  which  is  wanted,  viz.  the  formation  of  an  image 
+upon  the  retina,  whether  the  rays  come  to  the  eye  in  a 
+state  of  divergency,  which  is  the  case  when  the  object  is 
+near  to  the  eye,  or  come  parallel  to  one  another,  which  is 
+the  case  when  the  object  is  placed  at  a  distance.  Can  any- 
+thing be  more  decisive  of  contrivance  than  this  is?  The 
+most  secret  laws  of  optics  must  have  been  known  to  the 
+author  of  a  structure  endowed  with  such  a  capacity  of 
+change.  It  is  as  though  an  optician,  when  he  had  a 
+nearer  object  to  view,  should  rectify  his  instrument  by 
+putting  in  another  glass,  at  the  same  time  drawing  out 
+also  his  tube  to  a  different  length. 
+
+Observe  a  new-born  child  first  lifting  up  its  eyelids 
+What  does  the  opening  of  the  curtain  discover?  The  an- 
+terior part  of  two  pellucid  globes,  which,  when  they  come 
+to  be  examined,  are  found  to  be  constructed  upon  strict  op- 
+tical principles  ;  the  selfsame  principles  upon  which  we 
+ourselves  construct  optical  instruments.  We  find  them 
+perfect  for  the  purpose  of  forming  an  image  by  refraction; 
+composed  of  parts  executing  different  offices  ;  one  part 
+having  fulfilled  its  office  upon  the  pencil  of  light,  deliver- 
+ing it  over  to  the  action  of  another  part;  that  to  a  third, 
+and  so  onward;  the  progressive  action  depending  ror  ita 
+success  upon  the  nicest  and  minutest  adjustment  of  the 
+i>arts  concerned;   yet  these  parts  so  in  fact  adjusted    *s  t<? 
+
+
+20  APPLICATION    OF    THE    ARGUMENT. 
+
+produce,  not  by  a  simple  action  or  effect,  but  by  a  combi- 
+nation of  actions  and  effects,  the  result  which  is  ultimately 
+wanted.  And  forasmuch  as  this  organ  would  have  to  ope- 
+rate under  different  circumstances,  with  strong  degrees  ol 
+light  and  with  weak  degrees,  upon  near  objects,  and  upon 
+remote  ones,  and  these  differences  demanded,  according  tc 
+the  laws  by  which  the  transmission  of  light  is  regulated,  a 
+corresponding  diversity  of  structure  ;  that  the  aperture, 
+for  example,  through  which  the  light  passes,  should  be 
+larger  or  less  ;  the  lenses  rounder  or  flatter,  or  that  their 
+distance  from  the  tablet,  upon  which  the  picture  is  delinea- 
+ted, should  be  shortened  or  lengthened  :  this,  I  say,  being 
+the  case,  and  the  difficulty  to  which  the  eye  was  to  be 
+adapted,  we  find  its  several  parts  capable  of  being  occa- 
+sionally changed,  and  a  most  artificial  apparatus  provided 
+to  produce  that  change.  This  is  far  beyond  the  common 
+regulator  of  a  watch,  which  requires  the  touch  of  a  foreign 
+hand  to  set  it;  but  it  is  not  altogether  unlike  Harrison's  con- 
+trivance for  making  a  watch  regulate  itself,  by  inserting 
+within  it  a  machinery,  which,  by  the  artful  use  of  the  dif- 
+ferent expansion  of  metals,  preserves  the  equability  of  the 
+motion  under  all  the  various  temperatures  of  heat  and  cold 
+in  which  the  instrument  may  happen  to  be  placed.  The 
+ingenuity  of  this  last  contrivance  has  been  justly  praised. 
+Shall,  therefore,  a  structure  which  differs  from  it,  chiefly  by 
+surpassing  it,  be  accounted  no  contrivance  at  all  ?  or,  if  it 
+be  a  contrivance,  that  it  is  without  a  contriver? 
+
+But  this,  though  much,  is  not  the  whole  :  by  different 
+species  of  animals  the  faculty  we  are  describing  is  possess- 
+ed, in  degrees  suited  to  the  different  range  of  vision  which 
+their  mode  of  life,  and  of  procuring  their  food,  requires. 
+Birds,  for  instance,  in  general,  procure  their  food  by  means 
+of  their  beak;  and,  the  distance  between  the  eye  and  the 
+point  of  the  beak  being  small,  it  becomes  necessary  that 
+they  should  have  the  power  of  seeing  very  near  objects 
+distinctlv.  On  the  other  hand,  from  being  often  elevated 
+much  above  the  ground,  living  in  air,  and  moving  through 
+it  with  great  velocity,  they  require,  for  their  safety,  as  well 
+as  for  assisting  them  in  descrying  their  prey,  a  power 
+of  seeing  at  a  great  distance;  a  power,  of  which,  in  birds 
+of  rapine,  surprising  examples  are  given.  The  fact  ac- 
+cordingly is,  that  two  peculiarities  are  found  in  the  eyes 
+of  birds,  both  tending  to  facilitate  the  change  upon  which 
+the  adjustment  of  the  eye  to  different  distances  depends. 
+The  one  is  a  bony,  yet,  ii.  most  species,  a  flexible  rim  of 
+
+
+ArFLiC_;iON    OF    THE    ARGUMENT  2) 
+
+hoop,*  [Plate  III.  fig.  1,  2.]  surrounding  the  broadest  part 
+of  the  eye;  which,  confining  the  action  of  the  muscles  to 
+vhat  part,  increases  the  effect  of  their  lateral  pressure  upon 
+the  orb,  by  which  pressure  its  axis  is  elongated  for  the  pur- 
+pose of  looking  at  very  near  objects.  The  other  is  an  ad- 
+ditional muscle,  called  the  marsupium,  [Plate  III.  fig.  3,  4, 
+6.]  to  draw,  upon  occasion,  the  crystalline  lens  back,  and 
+to  fit  the  same  eye  for  the  viewing  of  very  distant  objects 
+By  these  means,  the  eyes  of  birds  can  pass  from  one  ex 
+treme  to  another  of  their  scale  of  adjustment,  with  more 
+ease  and  readiness  than  the  eyes  of  other  animals. 
+
+The  eyes  of  jishes  also,  compared  with  those  of  terres- 
+trial animals,  exhibit  certain  distinctions  of  structure  adap- 
+ted to  their  state  and  element.  We  have  already  ob- 
+served upon  the  figure  of  the  crystalline  compensating  by 
+its  roundness  the  density  of  the  medium  through  which 
+their  light  passes.  To  which  we  have  to  add,  that  the  eyes 
+of  fish,  in  their  natural  and  indolent  state,  appear  to  be 
+adjusted  to  near  objects,  in  this  respect  differing  from  the 
+human  eye,  as  well  as  those  of  quadrupeds  and  birds.  The 
+ordinary  shape  of  the  fish's  eye  being  in  a  much  higher 
+degree  convex  than  that  of  land  animals,  a  corresponding 
+difference  attends  its  muscular  conformation,  viz.  that  it  is 
+throughout  calculated  for  flattening  the  eye. 
+
+The  iris  also  in  the  eyes  of  fish  does  not  admit  of  con- 
+traction. This  is  a  great  difference,  of  which  the  proba- 
+ble reason  is,  that  the  diminished  light  in  water  is  never 
+too  strong  for  the  retina. 
+
+In  the  eel,  [Plate  III.  fig.  5.]  which  has  to  work  its  head 
+
+*  The  flexible  rim,  or  hoop,  consists  of  bony  plates,  which  in  all 
+birds  occupy  the  front  of  the  sclerotic;  lying  close  together  and  overlap- 
+ping each  other.  These  hony  plates  in  general  form  a  slightly  convex 
+ring,  Fig.  1,  but  in  the  accipitres  they  form  a  concave  ring,  as  in  Fig.  2, 
+the  bony  rim  of  a  hawk.  It  is  a  principle  in  optics,  that  the  rays  of  li^ht, 
+passing  through  a  lens,  will  be  refracted  to  a  point  or  focus  beyond  tho 
+lens,  and  this  focus  will  be  less  distant  in  proportion  as  the  lens  approach- 
+es to  a  sphere  in  shape.  This  principle  is  very  naturally  applied  to  the 
+explanation  of  the  use  of  this  apparatus.  These  scales  partly  lying  over 
+each  other,  so  as  to  allow  of  motion,  will,  on  the  contraction  of  the 
+straight  muscles  inserted  into  and  covering  them,  move  over  each  other, 
+and  diminish  the  circle  of  the  sclerotica;  and  thus  the  cornea,  which  ia 
+immediately  within  the  circle  made  by  these  scales,  must  be  pressed 
+forward*  and  rendered  more  convex,  from  the  focus  of  the  eye  becoming 
+altered,  ox  its  axis  being  elongated.  This  consequent  convexity  of  the 
+cornea  renders  small  objects  near  the  animal  very  distinct.  Without  this 
+structure  a  biro,  would  be  continually  liable  to  dash  itself  agaiust  tree 
+when  flving  in  .t  thick  forest,  and  would  be  unable  to  see  the  murV 
+•hjects  on  which  it  sometimes  feeds. —  Paxton. 
+
+
+22  APPLICATION    OF    THE    ARGUMENT. 
+
+througli  sand  and  gravel,  the  roughest  and  harshest  sub< 
+stances,  there  is  placed  before  the  eye,  and  at  some  dis- 
+tance from  it,  a  transparent,  horny,  convex  case  or  cover- 
+ing, which,  without  obstructing  the  sight,  defends  the  or- 
+gan. To  such  an  animal,  could  anything  be  more  wanted, 
+or  more  useful? 
+
+Thus,  in  comparing  the  eyes  of  different  kinds  of  ani- 
+mals, we  see,  in  their  resemblances  and  distinctions,  one 
+general  plan  laid  down,  and  that  plan  varied  with  the  vary- 
+ing exigencies  to  which  it  is  to  be  applied. 
+
+There  is  one  property,  however,  common,  I  believe,  to 
+all  eyes,  at  least  to  all  which  have  been  examined,*  namely, 
+ihat  the  optic  nerve  enters  the  bottom  of  the  eye,  not  in  the 
+centre  or  middle,  but  a  little  on  one  side;  not  in  the  point 
+where  the  axis  of  the  eye  meets  the  retina,  but  between 
+that  point  and  the  nose.  The  difference  which  this  makes 
+is,  that  no  part  of  an  object  is  unperceived  by  both  eyes  at 
+the  same  time. 
+
+In  considering  vision  as  achieved  by  the  means  of  an 
+image  formed  at  the  bottom  of  the  eye,  we  can  never  re- 
+flect without  wonder  upon  the  smallness,  yet  correctness, 
+of  the  picture,  the  subtilty  of  the  touch,  the  fineness  of  the 
+lines.  A  landscape  of  five  or  six  square  leagues  is  brought 
+into  a  space  of  half  an  inch  diameter;  y<i  the  multitude  of 
+objects  which  it  contains,  are  all  preserved;  are  all  discrim- 
+inated in  their  magnitudes,  positions,  figures,  colors.  The 
+prospect  from  Hampstead-hill  is  compressed  into  the  com- 
+pass of  a  sixpence,  yet  circumstantially  represented.  A 
+stage-coach,  travelling  at  its  ordinary  speed  for  half  an 
+hour,  passes,  in  the  eye,  only  over  one-twelfth  of  an  inch, 
+yet  is  this  change  of  place  in  the  image  distinctly  per- 
+ceived throughout  its  whole  progress;  for  it  is  only  by 
+means  of  that  perception  that  the  motion  of  the  coach  it- 
+self is  made  sensible  to  the  eye.  If  anything  can  abate 
+our  admiration  of  the  smallness  of  the  visual  tablet  compar- 
+ed with  the  extent  of  vision,  it  is  a  reflection,  which  the 
+view  of  nature  leads  us,  every  hour,  to  make,  viz.  that  in 
+he  hands  of  the  Creator,  great  and  little  are  nothing. 
+
+Sturmius  held,    that    the  examination    of  the  eye    was 
+a  cure  for   atheism.     Besides   that  conformity  to  optical 
+principles   which    its    internal    constitution    displays,    and 
+which  aione  amounts  to  a  manifestation  of  intelligence  hav 
+ing  been  exerted  in  the  structure ;  besides  this,  which  forms 
+
+*  The  eve  of  the  seal  or  sea-calf,  I  understand,  js.  an  exception  -^  Mem 
+Acad    Paris,  170] ,  p.  123. 
+
+
+APPLICATION    OF    THE    ARGUMENT.  23 
+
+no  doubt,  the  leading  character  of  the  organ,  there  is  to  be 
+seen,  in  everything  belonging  to  it  and  about  it,  an  ex- 
+traordinary degree  of  care,  and  anxiety  for  its  preservation, 
+due.  if  we  may  so  speak,  to  its  value  and  its  tenderness.  If 
+is  lodged  in  a  strong,  deep,  bony  socket,  composed  by  the 
+junction  of  seven  different  bones,*  hoik  wed  out  at  their 
+edges.  In  some  few  species,  as  that  of  the  coatimondi,"}' 
+the  orbit  is  not  bony  throughout;  but  whenever  this  is  the 
+case,  the  upper,  which  is  the  deficient  part,  is  supplied  by 
+a  cartilaginous  ligament ;  a  substitution  which  shows  the 
+same  care.  Within  this  socket  it  is  embedded  in  fat,  of 
+all  animal  substances  the  best  adapted  both  to  its  repose 
+and  motion.  It  is  sheltered  by  the  eyebrows;  an  arch  of 
+hair,  which,  like  a  thatched  penthouse,  prevents  the  sweat 
+fend  moisture  of  the  forehead  from  running  down  into  it. 
+
+But  it  is  still  better  protected  by  its  lid.  Oftiie  super- 
+ficial parts  of  the  animal  frame,  I  know  none  which,  in 
+its  office  and  structure,  is  more  deserving  of  attention  than 
+the  eyelid.  It  defends  the  eye;  it  wipes  it;  it  closes  it  in 
+sleop.J  Are  there,  in  any  work  of  art  whatever,  purposes 
+more  evident  than  those  which  this  organ  fulfils?  or  an 
+apparatus  for  executing  those  purposes  more  intelligible, 
+mo<e  appropriate,  or  more  mechanical  ?  If  it  be  overlooked 
+by  „he  observer  of  nature,  it  can  only  be  because  it  is  ob- 
+vious and  familiar.  This  is  a  tendency  to  be  guarded 
+against.  We  pass  by  the  plainest  instances,  whilst  we  are 
+exploring  those  which  are  rare  and  curious;  by  which  con- 
+duct of  the  u  iderstandino-  we  sometimes  neglect  the 
+strongest  observations,  being  taken  up  with  others,  which, 
+though  more  recondite  and  scientific,  are,  as  solid  argu- 
+ments, entitled  to  much  less  consideration. 
+
+In  order  to  keep  the  eye  moist  and  clean,  (which  qualities 
+are  necessary  to  its  brightness  and  its  use,)  a  wash  is  con- 
+stantly supplied  by  a  secretion  for  the  purpose;  and  tho 
+superfluous  brine  is  conveyed  to  the  nose  through  a  perfora- 
+tion in  the  bone  as  large  as  a  goose-quill.  [Plate  IV.  fig.  1 .] 
+When  once  the  fluid  has  entered  the  nose,  it  spreads  itself 
+upon  the  inside  of  the  nostril,  and  is  evaporated  by  the  cur- 
+rent of  warm  air,  which,  in  the  course  of  respiration,  is  con- 
+
+*  Heister,  sect   89.  t  Mem.  of  the  R.  Ac.  Paris,  p.  117. 
+
+t  The  muscles  which  accomplish  these  actions  are  seen  in  Tab.  XIV. 
+Fig.  1,  2.  The  eyelids  also  moderate  the  force  of  a  too  brilliant  light, 
+ath*  exclude,  by  a  partial  closure,  that  excess  of  it  which  would  offend 
+the  eye.  The  eyelashes  have  a  similar  office,  that  of  regulating  the 
+quantity  of  light :  and  it  is  believed,  that  they  protect  the  eye  from  the 
+•mail  particJ*  of  dust  that  float  in  the  air. — Paxton. 
+
+
+24  APPLICATION    OF    THE    ARGJMENT. 
+
+tinually  passing  over  it.  Can  any  pipe  or  outlet  for  cany 
+ing  off  the  waste  liquor  from  a  dye-house  or  a  distillery,  be 
+more  mechanical  than  this  is?  Tt  is  easily  perceived,  that 
+the  eye  must  want  moisture :  but  could  the  want  of  the  eye 
+generate  the  gland  which  produces  the  tear,  or  bore  the  hole 
+by  which  it  is  discharged, — a  hole  through  a  bone? 
+
+It  is  observable,  that  this  provision  is  not  found  in  fish; 
+the  element  in  which  they  live  supplying  a  constant  lotion 
+to  the  eye. 
+
+It  were,  however,  injustice  to  dismiss  the  eye  as  a  piece 
+of  mechanism,  without  noticing  that  most  exquisite  of  all 
+contrivances,  the  nictitating  membrane,  which  is  found  in 
+the  eyes  of  birds  and  of  many  quadrupeds.  [Plate  IV.  fig. 
+2.]  Its  use  is  to  sweep  the  eye,  which  it  does  in  an  in- 
+stant; to  spread  over  it  the  lachrymal  humour;  to  defend 
+it  also  from  sudden  injuries:  yet  not  totally,  when  drawn 
+upon  the  pupil,  to  shut  out  the  light.  The  commodious 
+ness  with  which  it  lies  folded  up  in  the  inner  corner  of 
+the  eye,  ready  for  use  and  action,  and  the  quickness  with 
+which  it  executes  its  purpose,  are  properties  known  and 
+obvious  to  every  observer:  but  what  is  equally  admirable, 
+though  not  quite  so  obvious,  is  the  combination  of  two 
+different  kinds  of  substance,  muscular  and  elastic,  and  or 
+two  different  kinds  of  action,  by  which  the  motion  of  this 
+membrane  is  performed.  It  is  not,  as  in  ordinary  cases, 
+by  the  action  of  two  antagonist  muscles,  one  pulling  for- 
+ward and  the  other  backward,  that  a  reciprocal  change  is 
+effected;  but  it  is  thus:  The  membrane  itself  is  an  elastic 
+substance,  capable  of  being  drawn  out  by  force  like  a  piec« 
+of  elastic  gum,  and  by  its  own  elasticity  returning,  when 
+the  force  is  removed,  to  its  former  position.  Such  being 
+its  nature,  in  order  to  fit  it  up  for  its  office,  it  is  connected 
+by  a  tendon  or  thread  with  a  muscle  in  the  back  part  of 
+the  eye:  this  tendon  or  thread,  though  strong,  is  so  fine 
+as  not  to  obstruct  the  sight,  even  when  it  passes  across  it; 
+and  the  muscle  itself,  being  placed  in  the  back  part  of  the 
+eye,  [Plate  IV.  fig.  3,  4,  and  5,]  derives  from  its  situation 
+the  advantage,  not  only  of  being  secure,  but  of  being  out 
+of  the  way;  which  it  would  hardly  have  been  in  any  posi- 
+tion that  could  be  assigned  to  it  in  the  anterior  part  of  the 
+orb,  where  its  function  lies.  When  the  muscle  behind  tfie 
+eye  contracts,  the  membrane,  by  means  of  the  communi- 
+cating thread,  is  instantly  drawn  over  the  fore-part  of  it. 
+When  the  muscular  contraction  (which  is  a  positive,  and, 
+most  probably,  a  voluntary  effort,)  ceases  to  be  exerted 
+the  elasticity  alone  of  the  membrane  brings  it  back  again 
+
+
+APPLICATION    OF    THE    ARGUMENT.  2.c, 
+
+jo  its  position.*  Does  not  this,  if  anything  can  lo  it,  be- 
+speak an  artist,  master  of  his  work,  acquainted  with  hig 
+materials?  "  Of  a  thousand  other  things,"  say  the  French 
+academicians,  "we  perceive  not  the  contrivance,  because 
+we  understand  them  only  by  the  effects,  of  which  we  Know 
+not  the  causes:  but  we  here  treat  of  a  machine,  all  the 
+parts  whereof  are  visible;  and  which  need  only  to  be 
+looked  upon  to  discover  the  reasons  of  its  motion  and  ac- 
+tion."! 
+
+In  the  configuration  of  the  muscle  which,  though  placed 
+behind  the  eye,  draws  the  nictitating  membrane  over  the 
+eye,  there  is,  what  the  authors  just  now  quoted,  deserved- 
+ly call  a  marvellous  mechanism.  I  suppose  this  structure 
+to  be  found  in  other  animals;  but,  in  the  memoirs  from 
+which  this  account  is  taken,  it  is  anatomically  demonstrat- 
+ed only  in  the  cassowary.  The  muscle  is  passed  through 
+a  loop  formed  by  another  muscle;  and  is  there  inflected, 
+as  if  it  were  round  a  pulley.  This  is  a  peculiarity;  and 
+observe  the  advantage  of  it.  A  single  muscle  with  a 
+straight  tendon,  which  is  the  common  muscular  form,  would 
+have  been  sufficient,  if  it  had  had  power  to  draw  far 
+enough.  But  the  contraction,  necessary  to  draw  the  mem- 
+brane over  the  whole  eye,  required  a  longer  muscle  than 
+could  lie  straight  at  the  bottom  of  the  eye.  Therefore, 
+in  order  to  have  a  greater  length  in  a  less  compass,  the 
+cord  of  the  main  muscle  makes  an  angle.  This,  so,  far, 
+answers  the  end;  but,  still  farther,  it  makes  an  angle, 
+»iot  round  a  fixed  pivot,  but  round  a  loop  formed  by  another 
+muscle;  which  second  muscle,  whenever  it  contracts,  oi 
+course  twitches  the  first  muscle  at  the  point  of  inflection 
+and  thereby  assists  the  action  designed  by  both. 
+
+One  question  may  possibly  have  dwelt  in  the  reader's 
+mind  during  the  perusal  of  these  observations,  namely,  Why 
+should  not  the  Deity  have  given  to  the  animal  the  faculty 
+of  vision  at  once'?  Why  this  circuitous  perception;  the 
+ministry  of  so  many  means;  an  element  provided  for  the 
+purpose;  reflected  from  opaque  substances,  refracted 
+throigh  transparent  ones;  and  both  according  to  precise 
+laws;  then,  a  complex  organ,  an  intricate  and  artificial  ap- 
+paratus, in  order,  by  the  operation  of  this  element,  and  in 
+conformity  with  the  restrictions  of  these  laws,  to  produce  an 
+image  upon  a  membrane  communicating  with  the  brain? 
+
+*  Phil.  Tran.  1796. 
+
+r  Memoirs  for  a  Natural  History  of  Anima/s  ^y  the  Royal  Academy 
+of  Sciences  at  Paris,  done  into  English  by  order  of  the  Royal  Society 
+1701,  p.  249. 
+
+
+26  APPLICATION    OF    THE    ARGUMENT. 
+
+Wherefore  all  this?  Why  make  the  difficulty  in  o^der 
+to  surmount  it?  If  to  perceive  objects  by  some  other 
+mode  than  that  of  touch,  or  objects  which  lay  out  of 
+the  reach  of  that  sense,  were  the  thing  purposed ;  coula  not 
+a  simple  volition  of  the  Creator  have  communicated  tie  ca- 
+pacity ?  Why  resort  to  contrivance,  where  power  is  omnip- 
+otent? Contrivance,  by  its  very  definition  and  nature,  is 
+the  refuge  of  imperfection.  To  have  recourse  to  expedi- 
+ents, implies  difficulty,  impediment,  restraint,  defect  of 
+power.  This  question  belongs  to  the  other  senses,  as  well 
+as  to  sights;  to  the  general  functions  of  animal  life,  as  nu- 
+trition, secretion,  respiration;  to  the  economy  of  vegeta- 
+bles; and  indeed  to  almost  all  the  operations  of  nature. 
+The  question,  therefore,  is  of  very  wide  extent;  and 
+amo*ngst  other  answers  which  may  be  given  to  it,  beside  rea 
+sons  of  which  probably  we  are  ignorant,  one  answer  is  this: 
+It  is  only  by  the  display  of  contrivance,  that  the  existence, 
+the  agency,  the  wisdom  of  the  Deity,  could  be  testified  to 
+his  rational  creatures.  This  is  the  scale  by  which  we  as- 
+cend to  all  the  knowledge  of  our  Creator  which  we  possess, 
+s  )  far  as  it  depends  upon  the  phenomena,  or  the  works  of  na- 
+f  are.  Take  away  this,  and  you  take  away  from  us  every  sub- 
+ject of  observation,  and  ground  of  reasoning;  I  mean  as  ou: 
+rational  faculties  are  formed  at  present.  Whatever  is  done 
+God  could  have  done  without  the  intervention  of  instru- 
+ments or  means:  but  it  is  in  the  construction  of  instru- 
+ments, in  the  choice  and  adaptation  of  means,  that  a  ere  a-" 
+tive  intelligence  is  seen.  It  is  this  which  constitutes  the 
+order  and  beauty  of  the  universe.  God,  therefore,  has 
+been  pleased  to  prescribe  limits  to  his  own  power,  and  to 
+work  his  ends  within  those  limits.  The  general  laws  of 
+matter  have  perhaps  the  nature  of  these  limits;  its  inertia, 
+its  reaction ;  the  laws  which  govern  the  communication  of 
+motion,  the  refraction  and  reflection  of  light,  the  constitu- 
+tion of  fluids  non-elastic  and  elastic,  the  transmission  of 
+Bound  through  the  latter;  the  laws  of  magnetism,  of  elec- 
+tricity; and  probably  others,  yet  undiscovered.  These  aro 
+general  laws;  and  when  a  particular  purpose  is  to  be  e£ 
+fected,  it  is  not  by  making  a  new  law,  nor  by  the  susper* 
+sion  of  the  old  ones,  nor  by  making  them  wind,  and  bend, 
+and  yield  to  the  occasion ;  (for  nature  with  great  steadiness 
+adheres  to  and  supports  them;)  but  it  is,  as  we  have  seen 
+n  the  eye,  by  the  interposition  of  an  apparatus,  correspond- 
+ing with  these  law  *,  and  suited  to  the  exigency  which  re- 
+Bults  from  them,  that  the  purpose  is  at  length  attained.  As 
+wa  have  said,  therefore,  God  proscrih~r  Mmits  to  his  power, 
+
+
+APPLICATION    OF    THE    ARGUMENT  21 
+
+thai  he  may  let  in  the  exercise,  and  thereby  exhibit  denion- 
+Btrations  of  his  wisdom.  For  then,  i.  c.  such  laws  and  lim- 
+itations being  laid  down,  it  is  as  though  one  Being  should 
+have  fixed  certain  rules;  and,  if  we  may  so  speak,  provid- 
+ed certain  materials;  and,  afterwards,  have  committed  to 
+another  Being  out  of  these  materials,  and  in  subordination 
+to  theso  rules,  the  task  of  drawing  forth  a  creation:  a  sup- 
+position which  evidently  leaves  room,  and  induces  indeed  a 
+necessity  for  contrivance.  Nay,  there  may  be  many  such 
+agents,  and  many  ranks  of  these.  We  do  not  advance  this 
+as  a  doctrine  either  of  philosophy  or  of  religion;  but  we  say 
+that  the  subject  may  safely  be  represented  under  this 
+view,  because  the  Deity,  acting  himself  by  general  laws, 
+will  have  the  same  consequences  upon  our  reasoning, 
+as  if  he  had  prescribed  these  laws  to  another.  It  has  been 
+said,  that  the  problem  of  creation  was,  "  attraction  and 
+matter  being  given,  to  make  a  world  out  of  them:"  and, 
+as  above  explained,  this  statement  perhaps  does  not  convey 
+a  false  idea. 
+
+
+We  have  made  choice  of  the  eye  as  an  instance  upon 
+which  to  rest  the  argument  of  this  chapter.  Some  single 
+example  was  to  be  proposed;  and  the  eye  offered  itself  un- 
+der the  advantage  of  admitting  of  a  strict  comparison  with 
+optical  instruments.  The  ear,  it  is  probable,  is  no  less 
+artificially  and  mechanically  adapted  to  its  office  than  the 
+eye.  But  we  know  less  about  it:  we  do  not  so  well  un- 
+derstand the  action,  the  use,  or  the  mutual  dependency  of 
+its  internal  parts.  Its  general  form,  however,  both  external 
+and  internal,  is  sufficient  to  show  that  it  is  an  instrument 
+adapted  to  the  reception  of  sound;  that  is  to  say,  already 
+knowing  that  sound  consists  in  pulses  of  the  air,  we  per- 
+ceive, in  the  structure  of  the  ear,  a  suitableness  to  receive  im- 
+pressions from  this  species  of  action,  and  to  propagate  these 
+impressions  to  the  brain.  For  of  what  does  this  structure 
+consist?  [PI.  V.  fig.  1.]  An  external  ear, (the  concha,)  calcu- 
+lated, like  an  ear-trumpet,  to  catch  and  collect  the  pulses  of 
+which  we  have  spoken;  in  large  quadrupeds,  turning  to 
+Lhe  sound,  and  possessing  a  configuration,  as  well  as  mo- 
+tion, evidently  fitted  for  the  office:  of  a  tube  which  leads 
+into  the  head,  lying  at  the  root  of  this  outward  ear,  the 
+folds  and  sinuses  thereof  tending  and  conducting  the  air 
+towards  it:  of  a  thin  membrane,  like  the  pelt  of  a  drum, 
+stretched  across  this  passage  upon  a  bonv  rim:  of  a  chain 
+of  moveable,  and  infinitely  curious  bones,  forming  a  com- 
+
+
+28  APPLICATION    OF    THE    ARGUMENT 
+
+munication,  and  the  only  communication  that  can  Le  ob- 
+served, between  the  membrane  last  mentioned  and  the  in- 
+terior channels  and  recesses  of  the  skull:  of  cavites,  sim- 
+ilar in  shape  and  form  to  wind  instruments  of  music,  being 
+spiral  or  portions  of  circles:  of  the  eustachian  tube,  like 
+the  hole  in  a  drum,  to  let  the  air  pass  freely  into  and  out  of 
+the  barrel  of  the  ear,  as  the  covering  membrane  vibrates,  or 
+as  the  temperature  may  be  altered:  the  whole  labyrinth 
+hewn  out  of  a  rock;  that  is,  wrought  into  the  substance  of 
+the  hardest  bone  of  the  body.  This  assemblage  of  con* 
+nected  parts  constitutes  together  an  apparatus,  plainly 
+enough  relative  to  the  transmission  of  sound,  or  of  the  im- 
+pulses received  from  sound,  and  only  to  be  lamented  in  not 
+being  better  understood. 
+
+The  communication  within,  formed  by  the  small  bones  of 
+the  ear,  is,  to  look  upon,  more  like  what  we  are  accustomed 
+to  call  machinery,  than  anything  I  am  acquainted  with  in 
+animal  bodies.  [PI.  V.  fig.  2.]  It  seems  evidently  designed 
+to  continue  towards  the  sensorium,  the  tremulous  motions 
+which  are  excited  in  the  membrane  of  the  tympanum,  or 
+what  is  better  known  by  the  name  of  the  "  drum  of  the  ear." 
+The  compages  of  bones  consists  of  four,  which  are  so  dis 
+posed,  and  so  hinge  upon  one  another,  as  that  if  the  mem- 
+brane, the  drum  of  the  ear,  vibrate,  all  the  four  are  put  in 
+motion  together;  and,  by  the  result  of  their  action,  work 
+the  base  of  that  which  is  the  last  in  the  series,  upon  an 
+aperture  which  it  closes,  and  upon  which  it  plays,  and 
+which  aperture  opens  into  the  tortuous  canals  that  lead  to 
+the  brain.  This  last  bone  of  the  four  is  called  the  stapes. 
+The  office  of  the  drum  of  the  ear  is  to  spread  out  an  ex- 
+tended surface,  capable  of  receiving  the  impressions  of 
+sound,  and  of  being  put  by  them  into  a  state  of  vibration. 
+The  office  of  the  stapes  is  to  repeat  these  vibrations.  It  is 
+a  repeating  frigate,  stationed  more  within  the  line.  From 
+which  account  of  its  action  may  be  understood,  how  the 
+sensation  of  sound  will  be  excited  by  anything  which 
+communicates  a  vibratory  motion  to  the  stapes,  though  not, 
+as  in  all  ordinary  cases,  through  the  intervention  of  the 
+membrana  tympani.  This  is  done  by  solid  bodies  applied 
+to  the  bones  of  the  skull,  as  by  a  metal  bar  held  at  one 
+end  between  the  teeth,  and  touching  at  the  other  end  a 
+tremulous  body.  It  likewise  appears  to  be  done,  in  a  con- 
+siderable degree,  by  the  air  itself,  even  when  this  mem- 
+brane, the  drum  of  the  ear,  is  greatly  damaged.  Either 
+in  the  natural  or  preternatural  state  of  the  organ,  the  use 
+pf  the  chain  cf  bones  is  to  pro  "agate  the  impulse  in  a  di 
+
+
+APPLICATION    OP    THE    ARGUMENT  SJ'J 
+
+reckon  towards  the  brain,  and  to  propagate  it  with  the  ad- 
+vantage of  a  lever;  which  advantage  consists  in  increasing 
+the  force  and  strength  of  the  vibration,  and  at  the  same 
+time  diminishing  the  space  through  which  it  oscillates; 
+30th  of  which  changes  may  augment  or  facilitate  the  stiil 
+deeper  action  of  the  auditory  nerves. 
+
+The  benefit  of  the  eustachian  tube  to  the  organ,  may  be 
+made  out  upon  known  pneumatic  principles.  Behind  tho 
+drum  of  the  ear  is  a  second  cavity,  or  barrel,  called  the 
+tympanum.  The  eustachian  tube  is  a  slender  pipe,  but 
+sufficient  for  the  passage  of  air,  leading  from  this  cavity 
+into  the  back  part  of  the  mouth.  Now,  it  would  not  have 
+done  to  have  had  a  vacuum  in  this  cavity;  for,  in  that  case, 
+the  pressure  of  the  atmosphere  from  without  would  have 
+burst  the  membrane  which  covered  it.  Nor  would  it  have 
+done  to  have  filled  the  cavity  with  lymph  or  any  other 
+secretion;  which  would  necessarily  have  obstructed,  both 
+the  vibration  of  the  membrane  and  the  play  of  the  small 
+bones.  Nor,  lastly,  would  it  have  done  to  have  occupied 
+the  space  with  confined  air,  because  the  expansion  of  that 
+air  by  heat,  or  its  contraction  by  cold,  would  have  distend- 
+ed or  relaxed  the  covering  membrane,  in  a  degree  inconsis- 
+tent with  the  purpose  which  it  was  assigned  to  execute. 
+The  only  remaining  expedient,  and  that  for  which  the 
+eustachian  tube  serves,  is  to  open  to  this  cavity  a  commu- 
+nication with  the  external  air.  In  one  word;  it  exactly 
+answers  the  purpose  of  the  hole  in  a  drum. 
+
+The  membrana  tympani  itself,  likewise,  deserves  all  the 
+examination  which  can  be  made  of  it.  It  is  not  found  in 
+the  ears  of  fish;  which  furnishes  an  additional  proof  of 
+v/hat  indeed  is  indicated  by  everything  about  it,  that  it  is 
+appropriated  to  the  action  of  air,  or  of  an  elastic  medium. 
+It  bears  an  obvious  resemblance  to  the  pelt  or  head  of  8 
+drum,  from  which  it  takes  its  name.  It  resembles  also  a 
+drum-head  in  this  principal  property,  that  its  use  depends 
+upon  its  tension.  Tension  is  the  state  essential  to  it.  Now 
+we  know  that,  in  a  drum,  the  pelt  is  carried  over  a  hoop, 
+and  braced,  as  occasion  requires,  by  the  means  of  strings 
+attached  to  its  circumference  In  the  membrane  of  the 
+ear,  the  same  purpose  is  provided  for,  more  simply,  but  not 
+less  mechanically,  nor  less  successfully,  by  a  different  ex 
+pedient,  viz.  by  the  end  of  a  bone  (the  handle  of  the  mul 
+leus)  pressing  upon  its  centre.  It  is  only  in  very  large 
+animals  that  the  texture  of  this  membrane  can  be  discern- 
+ed In  the  Philosophical  Transactions  for  the  year  1800, 
+ivol  i.)  Sir  Everard  Home  has  given  some  curious  observa 
+
+
+»jf  APPL  CATION    OF    THE    ARGUMENT. 
+
+(::ons  upon  the  ear,  and  the  drum  of  the  ear  of  an  elephant 
+
+[PI  v.  fig  4.]  He  discovered  in  it  what  he  calls  a  radiated 
+muscle,  that  is,  straight  muscular  fibres,  passing  along  the 
+membrane  from  the  circumference  to  the  centre;  from  the 
+bony  rim  which  surrounds  it  towards  the  handle  of  the 
+malleus  to  which  the  central  part  is  attached.  This  mus 
+cle  he  supposes  to  be  designed  to  bring  the  membrane  into 
+unison  with  different  sounds:  but  then  he  also  discovered, 
+that  this  muscle  itself  cannot  act,  unless  the  membrane  be 
+drawn  to  a  stretch,  and  kept  in  a  due  state  of  tightness, 
+by  what  miy  be  called  a  foreign  force,  viz.  the  action  ol 
+the  muscles  of  the  malleus.  Our  author,  supposing  his  ex- 
+planation of  the  use  of  the  parts  to  be  just,  is  well  founded 
+in  the  reflection  which  he  makes  upon  it:  "that  this  mode 
+of  adapting  the  ear  to  different  sounds,  is  one  of  the  most 
+beautiful  applications  of  muscles  in  the  body;  the  median" 
+ism  is  so  simple,  and  the  variety  of  effects  so  great."  * 
+
+In  another  volume  of  the  transactions  above  referred  to, 
+and  of  the  same  year,  two  most  curious  cases  are  related, 
+of  persons  who  retained  the  sense  of  hearing,  not  in  a 
+perfect,  but  in  a  very  considerable  degree,  notwithstanding 
+he  almost  total  loss  of  the  membrane  we  have  been  de- 
+scribing     In  one  of  these  cases,  the  use  here  assigned  to 
+
+*  A3  the  ear  of  man  and  fish  has  been  described,  it  may  not  be  im- 
+proper in  this  place  to  state,  that  the  other  classes  of  animals  are  no  less 
+admirably  provided  with  an  ear,  adapted  to  their  peculiar  habits  and 
+economy. 
+
+In  amphibious  animals  the  organ  of  hearing  has  an  intermediate  struc- 
+ture; in  some  species  of  this  class,  the  ear  resembling  fish,  in  others  it 
+more  resembles  the  formation  of  terrestrial  animals. 
+
+There  is  an  important  addition  to  this  organ  in  birds:  viz.  a  cochlea  atd 
+proper  tympanum. 
+
+In  quadrupeds  we  find  a  more  complicated  organization;  to  collect  the 
+vibrations  of  sound,  they  have  an  external  ear,  and  all  those  parts,  though 
+of  a  different  figure,  which  belong  to  the  human  ear. 
+
+The  capacity  for  enjoyment  of  music  is  mental,  but  all  the  cur'oui 
+varieties  of  sound,  which  are  the  source  of  this  enjoyment,  are  communi- 
+cated by  the  mechanical  provisions  of  the  ear.  We  are  astonished  at  the 
+varieties  of  sensation;  the  ear  is  capable  of  perceiving  four  or  five  hundred 
+variations  of  tone  in  sound. 
+
+**  Hence  we  may  conceive  a  prodigious  variety  in  the  same  tone, 
+arising  from  irregularities  of  it  occasioned  by  constitution,  figure,  situation 
+or  manner  of  striking  the  sonorous  body;  from  the  constitution  of  the 
+clastic  medium,  or  its  being  disturbed  by  other  motions;  and  from  the 
+constitution  of  the  ear  itself,  upon  which  the  impression  is  made.  A 
+rlute,  a  violin,  a  hautboy,  a  French  horn,  may  all  sound  the  same  tone, 
+and  be  easJy  distinguishable.  Nay,  if  twenty  human  voices  ^und  the 
+same  note,  and  with  equal  strength,  there  will  be  some  difference." 
+Reid's  Enquiry,  page  98. — Parton. 
+
+
+PLANTS    AND     ANIMALS.  3 
+
+.hat  membrane,  of  modifying  the  impressions  of  sound  b)> 
+change  of  tension,  was  attempted  to  be  supplied  by  strai 
+ing  the  muscles  of  the  outward  ear.  "  The  external  ear,  ' 
+we  are  told,  '*  had  acquired  a  distinct  motion  upward  and 
+backward,  which  was  observable  whenever  the  patient 
+istened  to  anything  which  he  did  not  distinctly  hear; 
+when  he  was  addressed  in  a  whisper,  the  ear  was  seen  im 
+mediately  to  move ;  when  the  tone  of  voice  was  louder, 
+it  then  remained  altogether  motionless." 
+
+It  appears  probable,  from  both  these  cases,  that  a  collate 
+ral,  if  not  principal,  use  of  the  membrane,  is  to  cover  and 
+protect  the  barrel  of  the  ear  which  lies  behind  it.  Both 
+the  patients  suffered  from  cold:  one,  "  a  great  increase  ol 
+deafness  from  catching  cold;"  the  other,  "  very  considera- 
+ble pain  from  exposure  to  a  stream  of  cold  air."  Bad  ef- 
+fects therefore  followed  from  this  cavity  being  left  open  to 
+the  external  air;  yet,  had  the  Author  of  nature  shut  it  up  by 
+any  other  cover,  than  what  was  capable,  by  its  texture,  o{ 
+receiving  vibrations  from  sound,  and,  by  its  connexion 
+with  the  interior  parts,  of  transmitting  those  vibrations  to 
+the  brain,  the  use  of  the  organ,  so  far  as  we  can  judgp 
+must  have  been  entirely  obstructed. 
+
+

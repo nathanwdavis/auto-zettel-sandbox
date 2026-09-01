@@ -23,6 +23,8 @@ links:
   relation: elaborates
 - target_id: shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943
   relation: shared-concept
+- target_id: the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

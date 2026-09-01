@@ -23,6 +23,8 @@ links:
   relation: elaborates
 - target_id: anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842
   relation: elaborates
+- target_id: the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016
+  relation: shared-concept
 created: '2026-08-31'
 updated: '2026-09-01'
 ---
