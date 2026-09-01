@@ -34,7 +34,7 @@ verification:
   method: raw-capture
   source: raw/202608311910-nae-statement-of-faith.txt
   verified: true
-  date: '2026-08-31T22:25:15Z'
+  date: '2026-09-01T05:04:39Z'
 raw_capture: raw/202608311910-nae-statement-of-faith.txt
 links: []
 created: '2026-08-31'

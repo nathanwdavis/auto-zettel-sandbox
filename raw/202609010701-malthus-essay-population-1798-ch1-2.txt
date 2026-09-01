@@ -1,0 +1,2222 @@
+Verbatim capture of [T. R. Malthus], "An Essay on the Principle of
+Population, as It Affects the Future Improvement of Society. With Remarks
+on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers"
+(London: printed for J. Johnson, in St. Paul's Church-Yard, 1798) — the
+anonymous first edition — in two blocks covering the front matter (title
+page, preface, table of contents) and Chapters I and II, the span that the
+notes built on this capture quote from. The rest of the book is NOT
+captured here; both source copies below are complete and public if a later
+run needs more.
+
+BLOCK 1 is the Project Gutenberg plain-text transcription, eBook #4239
+(release 2003-07-01, most recently updated 2020-12-27, produced by Charles
+Aldarondo), fetched 2026-09-01T06:58Z (minute precision) from
+https://www.gutenberg.org/cache/epub/4239/pg4239.txt (HTTP 200; the work
+is a 1798 publication, public domain; the Gutenberg header identifying the
+edition — "LONDON, PRINTED FOR J. JOHNSON, IN ST. PAUL'S CHURCH-YARD,
+1798." — is retained). Lines 1-635 of that file: the Gutenberg header,
+title page, preface, table of contents, and Chapters 1 and 2, ending
+before the "CHAPTER 3" heading. This is a human-keyed transcription with
+modernized long s and expanded "etc.", NOT an OCR; it carries no printed
+page numbers, so page locators in notes come from BLOCK 2.
+
+BLOCK 2 is the Internet Archive OCR plain text (the *_djvu.txt file) of
+the University of Toronto / Thomas Fisher Rare Book Library copy of the
+same 1798 first edition, item
+https://archive.org/details/essayonprincipl00malt (publisher metadata:
+"London, J. Johnson"), fetched 2026-09-01T06:59Z (minute precision) from
+https://archive.org/download/essayonprincipl00malt/essayonprincipl00malt_djvu.txt
+(HTTP 200, no access restriction; 1798 publication, public domain).
+Lines 1-1533 of the OCR file: covers the same span of the volume — title
+page through the end of Chapter II — ending before the body "CHAP. III"
+heading. OCR caveat, recorded honestly: this is machine OCR of 1798
+letterpress with the long s rendered as "f" throughout ("increafes",
+"fubfiftence"), occasional misreads ("Sublicence" for "Subsistence" on
+p. 14, "flill" for "still"), line-break hyphenation, and running heads
+with printed page numbers interleaved (e.g. "14 AN ESSAY ON THE") — those
+running heads are what anchor the page locators used in notes. Nothing
+has been corrected here; the capture is the OCR output verbatim.
+
+The two blocks are textually independent (a hand-keyed transcription and a
+machine OCR of a library scan of a different physical copy), so wording on
+which both agree is treated as verified 1798 first-edition text; quotations
+in notes normalize the OCR's long s, hyphenation, and misreads ONLY where
+the wording is confirmed word-for-word by the other block, and the quoting
+notes record that policy. Page numbers cited in notes (pp. 13-14, 25-26)
+are the printed page numbers visible in BLOCK 2's running heads.
+
+================================================================
+BLOCK 1: Project Gutenberg transcription (pg4239.txt, lines 1-635)
+================================================================
+The Project Gutenberg eBook of An Essay on the Principle of Population
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: An Essay on the Principle of Population
+
+Author: T. R. Malthus
+
+
+        
+Release date: July 1, 2003 [eBook #4239]
+                Most recently updated: December 27, 2020
+
+Language: English
+
+Other information and formats: www.gutenberg.org/ebooks/4239
+
+Credits: Produced by Charles Aldarondo.  HTML version by Al Haines.
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK AN ESSAY ON THE PRINCIPLE OF POPULATION ***
+
+
+
+
+Produced by Charles Aldarondo.  HTML version by Al Haines.
+
+
+
+
+
+
+
+
+
+An Essay on the Principle of Population
+
+Thomas Malthus
+
+
+
+1798
+
+
+
+
+
+AN ESSAY ON THE PRINCIPLE OF POPULATION, AS IT AFFECTS THE FUTURE
+IMPROVEMENT OF SOCIETY WITH REMARKS ON THE SPECULATIONS OF MR. GODWIN,
+M. CONDORCET, AND OTHER WRITERS.
+
+LONDON, PRINTED FOR J. JOHNSON, IN ST. PAUL'S CHURCH-YARD, 1798.
+
+
+
+
+Preface
+
+
+The following Essay owes its origin to a conversation with a friend, on
+the subject of Mr Godwin's essay on avarice and profusion, in his
+Enquirer. The discussion started the general question of the future
+improvement of society, and the Author at first sat down with an
+intention of merely stating his thoughts to his friend, upon paper, in
+a clearer manner than he thought he could do in conversation. But as
+the subject opened upon him, some ideas occurred, which he did not
+recollect to have met with before; and as he conceived that every least
+light, on a topic so generally interesting, might be received with
+candour, he determined to put his thoughts in a form for publication.
+
+The Essay might, undoubtedly, have been rendered much more complete by
+a collection of a greater number of facts in elucidation of the general
+argument. But a long and almost total interruption from very particular
+business, joined to a desire (perhaps imprudent) of not delaying the
+publication much beyond the time that he originally proposed, prevented
+the Author from giving to the subject an undivided attention. He
+presumes, however, that the facts which he has adduced will be found to
+form no inconsiderable evidence for the truth of his opinion respecting
+the future improvement of mankind. As the Author contemplates this
+opinion at present, little more appears to him to be necessary than a
+plain statement, in addition to the most cursory view of society, to
+establish it.
+
+It is an obvious truth, which has been taken notice of by many writers,
+that population must always be kept down to the level of the means of
+subsistence; but no writer that the Author recollects has inquired
+particularly into the means by which this level is effected: and it is
+a view of these means which forms, to his mind, the strongest obstacle
+in the way to any very great future improvement of society. He hopes it
+will appear that, in the discussion of this interesting subject, he is
+actuated solely by a love of truth, and not by any prejudices against
+any particular set of men, or of opinions. He professes to have read
+some of the speculations on the future improvement of society in a
+temper very different from a wish to find them visionary, but he has
+not acquired that command over his understanding which would enable him
+to believe what he wishes, without evidence, or to refuse his assent to
+what might be unpleasing, when accompanied with evidence.
+
+The view which he has given of human life has a melancholy hue, but he
+feels conscious that he has drawn these dark tints from a conviction
+that they are really in the picture, and not from a jaundiced eye or an
+inherent spleen of disposition. The theory of mind which he has
+sketched in the two last chapters accounts to his own understanding in
+a satisfactory manner for the existence of most of the evils of life,
+but whether it will have the same effect upon others must be left to
+the judgement of his readers.
+
+If he should succeed in drawing the attention of more able men to what
+he conceives to be the principal difficulty in the way to the
+improvement of society and should, in consequence, see this difficulty
+removed, even in theory, he will gladly retract his present opinions
+and rejoice in a conviction of his error.
+
+                                     7 June 1798
+
+
+
+
+CHAPTER 1
+
+Question stated--Little prospect of a determination of it, from the
+enmity of the opposing parties--The principal argument against the
+perfectibility of man and of society has never been fairly
+answered--Nature of the difficulty arising from population--Outline of
+the principal argument of the Essay
+
+
+The great and unlooked for discoveries that have taken place of late
+years in natural philosophy, the increasing diffusion of general
+knowledge from the extension of the art of printing, the ardent and
+unshackled spirit of inquiry that prevails throughout the lettered and
+even unlettered world, the new and extraordinary lights that have been
+thrown on political subjects which dazzle and astonish the
+understanding, and particularly that tremendous phenomenon in the
+political horizon, the French Revolution, which, like a blazing comet,
+seems destined either to inspire with fresh life and vigour, or to
+scorch up and destroy the shrinking inhabitants of the earth, have all
+concurred to lead many able men into the opinion that we were touching
+on a period big with the most important changes, changes that would in
+some measure be decisive of the future fate of mankind.
+
+It has been said that the great question is now at issue, whether man
+shall henceforth start forwards with accelerated velocity towards
+illimitable, and hitherto unconceived improvement, or be condemned to a
+perpetual oscillation between happiness and misery, and after every
+effort remain still at an immeasurable distance from the wished-for
+goal.
+
+Yet, anxiously as every friend of mankind must look forwards to the
+termination of this painful suspense, and eagerly as the inquiring mind
+would hail every ray of light that might assist its view into futurity,
+it is much to be lamented that the writers on each side of this
+momentous question still keep far aloof from each other. Their mutual
+arguments do not meet with a candid examination. The question is not
+brought to rest on fewer points, and even in theory scarcely seems to
+be approaching to a decision.
+
+The advocate for the present order of things is apt to treat the sect
+of speculative philosophers either as a set of artful and designing
+knaves who preach up ardent benevolence and draw captivating pictures
+of a happier state of society only the better to enable them to destroy
+the present establishments and to forward their own deep-laid schemes
+of ambition, or as wild and mad-headed enthusiasts whose silly
+speculations and absurd paradoxes are not worthy the attention of any
+reasonable man.
+
+The advocate for the perfectibility of man, and of society, retorts on
+the defender of establishments a more than equal contempt. He brands
+him as the slave of the most miserable and narrow prejudices; or as the
+defender of the abuses of civil society only because he profits by
+them. He paints him either as a character who prostitutes his
+understanding to his interest, or as one whose powers of mind are not
+of a size to grasp any thing great and noble, who cannot see above five
+yards before him, and who must therefore be utterly unable to take in
+the views of the enlightened benefactor of mankind.
+
+In this unamicable contest the cause of truth cannot but suffer. The
+really good arguments on each side of the question are not allowed to
+have their proper weight. Each pursues his own theory, little
+solicitous to correct or improve it by an attention to what is advanced
+by his opponents.
+
+The friend of the present order of things condemns all political
+speculations in the gross. He will not even condescend to examine the
+grounds from which the perfectibility of society is inferred. Much less
+will he give himself the trouble in a fair and candid manner to attempt
+an exposition of their fallacy.
+
+The speculative philosopher equally offends against the cause of truth.
+With eyes fixed on a happier state of society, the blessings of which
+he paints in the most captivating colours, he allows himself to indulge
+in the most bitter invectives against every present establishment,
+without applying his talents to consider the best and safest means of
+removing abuses and without seeming to be aware of the tremendous
+obstacles that threaten, even in theory, to oppose the progress of man
+towards perfection.
+
+It is an acknowledged truth in philosophy that a just theory will
+always be confirmed by experiment. Yet so much friction, and so many
+minute circumstances occur in practice, which it is next to impossible
+for the most enlarged and penetrating mind to foresee, that on few
+subjects can any theory be pronounced just, till all the arguments
+against it have been maturely weighed and clearly and consistently
+refuted.
+
+I have read some of the speculations on the perfectibility of man and
+of society with great pleasure. I have been warmed and delighted with
+the enchanting picture which they hold forth. I ardently wish for such
+happy improvements. But I see great, and, to my understanding,
+unconquerable difficulties in the way to them. These difficulties it is
+my present purpose to state, declaring, at the same time, that so far
+from exulting in them, as a cause of triumph over the friends of
+innovation, nothing would give me greater pleasure than to see them
+completely removed.
+
+The most important argument that I shall adduce is certainly not new.
+The principles on which it depends have been explained in part by Hume,
+and more at large by Dr Adam Smith. It has been advanced and applied to
+the present subject, though not with its proper weight, or in the most
+forcible point of view, by Mr Wallace, and it may probably have been
+stated by many writers that I have never met with. I should certainly
+therefore not think of advancing it again, though I mean to place it in
+a point of view in some degree different from any that I have hitherto
+seen, if it had ever been fairly and satisfactorily answered.
+
+The cause of this neglect on the part of the advocates for the
+perfectibility of mankind is not easily accounted for. I cannot doubt
+the talents of such men as Godwin and Condorcet. I am unwilling to
+doubt their candour. To my understanding, and probably to that of most
+others, the difficulty appears insurmountable. Yet these men of
+acknowledged ability and penetration scarcely deign to notice it, and
+hold on their course in such speculations with unabated ardour and
+undiminished confidence. I have certainly no right to say that they
+purposely shut their eyes to such arguments. I ought rather to doubt
+the validity of them, when neglected by such men, however forcibly
+their truth may strike my own mind. Yet in this respect it must be
+acknowledged that we are all of us too prone to err. If I saw a glass
+of wine repeatedly presented to a man, and he took no notice of it, I
+should be apt to think that he was blind or uncivil. A juster
+philosophy might teach me rather to think that my eyes deceived me and
+that the offer was not really what I conceived it to be.
+
+In entering upon the argument I must premise that I put out of the
+question, at present, all mere conjectures, that is, all suppositions,
+the probable realization of which cannot be inferred upon any just
+philosophical grounds. A writer may tell me that he thinks man will
+ultimately become an ostrich. I cannot properly contradict him. But
+before he can expect to bring any reasonable person over to his
+opinion, he ought to shew that the necks of mankind have been gradually
+elongating, that the lips have grown harder and more prominent, that
+the legs and feet are daily altering their shape, and that the hair is
+beginning to change into stubs of feathers. And till the probability of
+so wonderful a conversion can be shewn, it is surely lost time and lost
+eloquence to expatiate on the happiness of man in such a state; to
+describe his powers, both of running and flying, to paint him in a
+condition where all narrow luxuries would be contemned, where he would
+be employed only in collecting the necessaries of life, and where,
+consequently, each man's share of labour would be light, and his
+portion of leisure ample.
+
+I think I may fairly make two postulata.
+
+First, That food is necessary to the existence of man.
+
+Secondly, That the passion between the sexes is necessary and will
+remain nearly in its present state.
+
+These two laws, ever since we have had any knowledge of mankind, appear
+to have been fixed laws of our nature, and, as we have not hitherto
+seen any alteration in them, we have no right to conclude that they
+will ever cease to be what they now are, without an immediate act of
+power in that Being who first arranged the system of the universe, and
+for the advantage of his creatures, still executes, according to fixed
+laws, all its various operations.
+
+I do not know that any writer has supposed that on this earth man will
+ultimately be able to live without food. But Mr Godwin has conjectured
+that the passion between the sexes may in time be extinguished. As,
+however, he calls this part of his work a deviation into the land of
+conjecture, I will not dwell longer upon it at present than to say that
+the best arguments for the perfectibility of man are drawn from a
+contemplation of the great progress that he has already made from the
+savage state and the difficulty of saying where he is to stop. But
+towards the extinction of the passion between the sexes, no progress
+whatever has hitherto been made. It appears to exist in as much force
+at present as it did two thousand or four thousand years ago. There are
+individual exceptions now as there always have been. But, as these
+exceptions do not appear to increase in number, it would surely be a
+very unphilosophical mode of arguing to infer, merely from the
+existence of an exception, that the exception would, in time, become
+the rule, and the rule the exception.
+
+Assuming then my postulata as granted, I say, that the power of
+population is indefinitely greater than the power in the earth to
+produce subsistence for man.
+
+Population, when unchecked, increases in a geometrical ratio.
+Subsistence increases only in an arithmetical ratio. A slight
+acquaintance with numbers will shew the immensity of the first power in
+comparison of the second.
+
+By that law of our nature which makes food necessary to the life of
+man, the effects of these two unequal powers must be kept equal.
+
+This implies a strong and constantly operating check on population from
+the difficulty of subsistence. This difficulty must fall somewhere and
+must necessarily be severely felt by a large portion of mankind.
+
+Through the animal and vegetable kingdoms, nature has scattered the
+seeds of life abroad with the most profuse and liberal hand. She has
+been comparatively sparing in the room and the nourishment necessary to
+rear them. The germs of existence contained in this spot of earth, with
+ample food, and ample room to expand in, would fill millions of worlds
+in the course of a few thousand years. Necessity, that imperious all
+pervading law of nature, restrains them within the prescribed bounds.
+The race of plants and the race of animals shrink under this great
+restrictive law. And the race of man cannot, by any efforts of reason,
+escape from it. Among plants and animals its effects are waste of seed,
+sickness, and premature death. Among mankind, misery and vice. The
+former, misery, is an absolutely necessary consequence of it. Vice is a
+highly probable consequence, and we therefore see it abundantly
+prevail, but it ought not, perhaps, to be called an absolutely
+necessary consequence. The ordeal of virtue is to resist all temptation
+to evil.
+
+This natural inequality of the two powers of population and of
+production in the earth, and that great law of our nature which must
+constantly keep their effects equal, form the great difficulty that to
+me appears insurmountable in the way to the perfectibility of society.
+All other arguments are of slight and subordinate consideration in
+comparison of this. I see no way by which man can escape from the
+weight of this law which pervades all animated nature. No fancied
+equality, no agrarian regulations in their utmost extent, could remove
+the pressure of it even for a single century. And it appears,
+therefore, to be decisive against the possible existence of a society,
+all the members of which should live in ease, happiness, and
+comparative leisure; and feel no anxiety about providing the means of
+subsistence for themselves and families.
+
+Consequently, if the premises are just, the argument is conclusive
+against the perfectibility of the mass of mankind.
+
+I have thus sketched the general outline of the argument, but I will
+examine it more particularly, and I think it will be found that
+experience, the true source and foundation of all knowledge, invariably
+confirms its truth.
+
+
+
+
+CHAPTER 2
+
+The different ratio in which population and food increase--The
+necessary effects of these different ratios of increase--Oscillation
+produced by them in the condition of the lower classes of
+society--Reasons why this oscillation has not been so much observed as
+might be expected--Three propositions on which the general argument of
+the Essay depends--The different states in which mankind have been
+known to exist proposed to be examined with reference to these three
+propositions.
+
+
+I said that population, when unchecked, increased in a geometrical
+ratio, and subsistence for man in an arithmetical ratio.
+
+Let us examine whether this position be just. I think it will be
+allowed, that no state has hitherto existed (at least that we have any
+account of) where the manners were so pure and simple, and the means of
+subsistence so abundant, that no check whatever has existed to early
+marriages, among the lower classes, from a fear of not providing well
+for their families, or among the higher classes, from a fear of
+lowering their condition in life. Consequently in no state that we have
+yet known has the power of population been left to exert itself with
+perfect freedom.
+
+Whether the law of marriage be instituted or not, the dictate of nature
+and virtue seems to be an early attachment to one woman. Supposing a
+liberty of changing in the case of an unfortunate choice, this liberty
+would not affect population till it arose to a height greatly vicious;
+and we are now supposing the existence of a society where vice is
+scarcely known.
+
+In a state therefore of great equality and virtue, where pure and
+simple manners prevailed, and where the means of subsistence were so
+abundant that no part of the society could have any fears about
+providing amply for a family, the power of population being left to
+exert itself unchecked, the increase of the human species would
+evidently be much greater than any increase that has been hitherto
+known.
+
+In the United States of America, where the means of subsistence have
+been more ample, the manners of the people more pure, and consequently
+the checks to early marriages fewer, than in any of the modern states
+of Europe, the population has been found to double itself in
+twenty-five years.
+
+This ratio of increase, though short of the utmost power of population,
+yet as the result of actual experience, we will take as our rule, and
+say, that population, when unchecked, goes on doubling itself every
+twenty-five years or increases in a geometrical ratio.
+
+Let us now take any spot of earth, this Island for instance, and see in
+what ratio the subsistence it affords can be supposed to increase. We
+will begin with it under its present state of cultivation.
+
+If I allow that by the best possible policy, by breaking up more land
+and by great encouragements to agriculture, the produce of this Island
+may be doubled in the first twenty-five years, I think it will be
+allowing as much as any person can well demand.
+
+In the next twenty-five years, it is impossible to suppose that the
+produce could be quadrupled. It would be contrary to all our knowledge
+of the qualities of land. The very utmost that we can conceive, is,
+that the increase in the second twenty-five years might equal the
+present produce. Let us then take this for our rule, though certainly
+far beyond the truth, and allow that, by great exertion, the whole
+produce of the Island might be increased every twenty-five years, by a
+quantity of subsistence equal to what it at present produces. The most
+enthusiastic speculator cannot suppose a greater increase than this. In
+a few centuries it would make every acre of land in the Island like a
+garden.
+
+Yet this ratio of increase is evidently arithmetical.
+
+It may be fairly said, therefore, that the means of subsistence
+increase in an arithmetical ratio. Let us now bring the effects of
+these two ratios together.
+
+The population of the Island is computed to be about seven millions,
+and we will suppose the present produce equal to the support of such a
+number. In the first twenty-five years the population would be fourteen
+millions, and the food being also doubled, the means of subsistence
+would be equal to this increase. In the next twenty-five years the
+population would be twenty-eight millions, and the means of subsistence
+only equal to the support of twenty-one millions. In the next period,
+the population would be fifty-six millions, and the means of
+subsistence just sufficient for half that number. And at the conclusion
+of the first century the population would be one hundred and twelve
+millions and the means of subsistence only equal to the support of
+thirty-five millions, which would leave a population of seventy-seven
+millions totally unprovided for.
+
+A great emigration necessarily implies unhappiness of some kind or
+other in the country that is deserted. For few persons will leave their
+families, connections, friends, and native land, to seek a settlement
+in untried foreign climes, without some strong subsisting causes of
+uneasiness where they are, or the hope of some great advantages in the
+place to which they are going.
+
+But to make the argument more general and less interrupted by the
+partial views of emigration, let us take the whole earth, instead of
+one spot, and suppose that the restraints to population were
+universally removed. If the subsistence for man that the earth affords
+was to be increased every twenty-five years by a quantity equal to what
+the whole world at present produces, this would allow the power of
+production in the earth to be absolutely unlimited, and its ratio of
+increase much greater than we can conceive that any possible exertions
+of mankind could make it.
+
+Taking the population of the world at any number, a thousand millions,
+for instance, the human species would increase in the ratio of--1, 2,
+4, 8, 16, 32, 64, 128, 256, 512, etc. and subsistence as--1, 2, 3, 4,
+5, 6, 7, 8, 9, 10, etc. In two centuries and a quarter, the population
+would be to the means of subsistence as 512 to 10: in three centuries
+as 4096 to 13, and in two thousand years the difference would be almost
+incalculable, though the produce in that time would have increased to
+an immense extent.
+
+No limits whatever are placed to the productions of the earth; they may
+increase for ever and be greater than any assignable quantity, yet
+still the power of population being a power of a superior order, the
+increase of the human species can only be kept commensurate to the
+increase of the means of subsistence by the constant operation of the
+strong law of necessity acting as a check upon the greater power.
+
+The effects of this check remain now to be considered.
+
+Among plants and animals the view of the subject is simple. They are
+all impelled by a powerful instinct to the increase of their species,
+and this instinct is interrupted by no reasoning or doubts about
+providing for their offspring. Wherever therefore there is liberty, the
+power of increase is exerted, and the superabundant effects are
+repressed afterwards by want of room and nourishment, which is common
+to animals and plants, and among animals by becoming the prey of others.
+
+The effects of this check on man are more complicated. Impelled to the
+increase of his species by an equally powerful instinct, reason
+interrupts his career and asks him whether he may not bring beings into
+the world for whom he cannot provide the means of subsistence. In a
+state of equality, this would be the simple question. In the present
+state of society, other considerations occur. Will he not lower his
+rank in life? Will he not subject himself to greater difficulties than
+he at present feels? Will he not be obliged to labour harder? and if he
+has a large family, will his utmost exertions enable him to support
+them? May he not see his offspring in rags and misery, and clamouring
+for bread that he cannot give them? And may he not be reduced to the
+grating necessity of forfeiting his independence, and of being obliged
+to the sparing hand of charity for support?
+
+These considerations are calculated to prevent, and certainly do
+prevent, a very great number in all civilized nations from pursuing the
+dictate of nature in an early attachment to one woman. And this
+restraint almost necessarily, though not absolutely so, produces vice.
+Yet in all societies, even those that are most vicious, the tendency to
+a virtuous attachment is so strong that there is a constant effort
+towards an increase of population. This constant effort as constantly
+tends to subject the lower classes of the society to distress and to
+prevent any great permanent amelioration of their condition.
+
+The way in which, these effects are produced seems to be this. We will
+suppose the means of subsistence in any country just equal to the easy
+support of its inhabitants. The constant effort towards population,
+which is found to act even in the most vicious societies, increases the
+number of people before the means of subsistence are increased. The
+food therefore which before supported seven millions must now be
+divided among seven millions and a half or eight millions. The poor
+consequently must live much worse, and many of them be reduced to
+severe distress. The number of labourers also being above the
+proportion of the work in the market, the price of labour must tend
+toward a decrease, while the price of provisions would at the same time
+tend to rise. The labourer therefore must work harder to earn the same
+as he did before. During this season of distress, the discouragements
+to marriage, and the difficulty of rearing a family are so great that
+population is at a stand. In the mean time the cheapness of labour, the
+plenty of labourers, and the necessity of an increased industry amongst
+them, encourage cultivators to employ more labour upon their land, to
+turn up fresh soil, and to manure and improve more completely what is
+already in tillage, till ultimately the means of subsistence become in
+the same proportion to the population as at the period from which we
+set out. The situation of the labourer being then again tolerably
+comfortable, the restraints to population are in some degree loosened,
+and the same retrograde and progressive movements with respect to
+happiness are repeated.
+
+This sort of oscillation will not be remarked by superficial observers,
+and it may be difficult even for the most penetrating mind to calculate
+its periods. Yet that in all old states some such vibration does exist,
+though from various transverse causes, in a much less marked, and in a
+much more irregular manner than I have described it, no reflecting man
+who considers the subject deeply can well doubt.
+
+Many reasons occur why this oscillation has been less obvious, and less
+decidedly confirmed by experience, than might naturally be expected.
+
+One principal reason is that the histories of mankind that we possess
+are histories only of the higher classes. We have but few accounts that
+can be depended upon of the manners and customs of that part of mankind
+where these retrograde and progressive movements chiefly take place. A
+satisfactory history of this kind, on one people, and of one period,
+would require the constant and minute attention of an observing mind
+during a long life. Some of the objects of inquiry would be, in what
+proportion to the number of adults was the number of marriages, to what
+extent vicious customs prevailed in consequence of the restraints upon
+matrimony, what was the comparative mortality among the children of the
+most distressed part of the community and those who lived rather more
+at their ease, what were the variations in the real price of labour,
+and what were the observable differences in the state of the lower
+classes of society with respect to ease and happiness, at different
+times during a certain period.
+
+Such a history would tend greatly to elucidate the manner in which the
+constant check upon population acts and would probably prove the
+existence of the retrograde and progressive movements that have been
+mentioned, though the times of their vibrations must necessarily be
+rendered irregular from the operation of many interrupting causes, such
+as the introduction or failure of certain manufactures, a greater or
+less prevalent spirit of agricultural enterprise, years of plenty, or
+years of scarcity, wars and pestilence, poor laws, the invention of
+processes for shortening labour without the proportional extension of
+the market for the commodity, and, particularly, the difference between
+the nominal and real price of labour, a circumstance which has perhaps
+more than any other contributed to conceal this oscillation from common
+view.
+
+It very rarely happens that the nominal price of labour universally
+falls, but we well know that it frequently remains the same, while the
+nominal price of provisions has been gradually increasing. This is, in
+effect, a real fall in the price of labour, and during this period the
+condition of the lower orders of the community must gradually grow
+worse and worse. But the farmers and capitalists are growing rich from
+the real cheapness of labour. Their increased capitals enable them to
+employ a greater number of men. Work therefore may be plentiful, and
+the price of labour would consequently rise. But the want of freedom in
+the market of labour, which occurs more or less in all communities,
+either from parish laws, or the more general cause of the facility of
+combination among the rich, and its difficulty among the poor, operates
+to prevent the price of labour from rising at the natural period, and
+keeps it down some time longer; perhaps till a year of scarcity, when
+the clamour is too loud and the necessity too apparent to be resisted.
+
+The true cause of the advance in the price of labour is thus concealed,
+and the rich affect to grant it as an act of compassion and favour to
+the poor, in consideration of a year of scarcity, and, when plenty
+returns, indulge themselves in the most unreasonable of all complaints,
+that the price does not again fall, when a little rejection would shew
+them that it must have risen long before but from an unjust conspiracy
+of their own.
+
+But though the rich by unfair combinations contribute frequently to
+prolong a season of distress among the poor, yet no possible form of
+society could prevent the almost constant action of misery upon a great
+part of mankind, if in a state of inequality, and upon all, if all were
+equal.
+
+The theory on which the truth of this position depends appears to me so
+extremely clear that I feel at a loss to conjecture what part of it can
+be denied.
+
+That population cannot increase without the means of subsistence is a
+proposition so evident that it needs no illustration.
+
+That population does invariably increase where there are the means of
+subsistence, the history of every people that have ever existed will
+abundantly prove.
+
+And that the superior power of population cannot be checked without
+producing misery or vice, the ample portion of these too bitter
+ingredients in the cup of human life and the continuance of the
+physical causes that seem to have produced them bear too convincing a
+testimony.
+
+But, in order more fully to ascertain the validity of these three
+propositions, let us examine the different states in which mankind have
+been known to exist. Even a cursory review will, I think, be sufficient
+to convince us that these propositions are incontrovertible truths.
+
+
+
+
+
+================================================================
+BLOCK 2: Toronto/Fisher copy OCR (essayonprincipl00malt_djvu.txt, lines 1-1533)
+================================================================
+Wk 
+
+
+an  )ls     I  flucA    . ."  I  ha.  i )  i  i^  \  LcLfi. 
+
+
+i&  (zrornwuM^es -tfowriecost 
+
+
+^J/u>  CJu&  iPcHm/ky, 
+
+
+yfe  Ostd' sens yA^Ucic^?t&  s$ie<s{c3d  c&u/^edsvTJ/ 
+
+
+.  I 
+
+
+AN 
+
+
+ESSAY 
+
+
+ON    THE 
+
+
+PRINCIPLE,  OF  POPULATION, 
+
+
+AS    IT    AFFECTS 
+
+
+THE  FUTURE  IMPROVEMENT  OF  SOCIETY. 
+
+
+WITH    REMARKS 
+
+
+ON  THE  SPECULATIONS  OF  MR.  GODWIN, 
+
+
+M.  CQNDORCET, 
+
+
+AND  OTHER  WRITERS. 
+
+
+LONDON 
+
+
+PRINTED    FOR    J.    JOHNSON,    IN    ST.    F.AUl/ft 
+
+CHURCH-YARD, 
+
+
+*i 
+
+
+t 
+
+
+PREFACE. 
+
+
+The  following  Eflay  owes  its  origin 
+to  a  converfation  with  a  friend,  on  the 
+fubject  of  Mr.  Godwin's  Effay,  on  ava- 
+rice and  profufion,  in  his  Enquirer.  The 
+difcufsion,  flarted  the  general  queftion 
+of  the  future  improvement  of  fociety; 
+and  the  Author  at  firft  fat  down  with  an 
+intention  of  merely  ftating  his  thoughts 
+to  his  friend,  upon  paper,  in  a  clearer 
+manner  than  he  thought  he  could  do,  in 
+converfation.  But  as  the  fubjecl  opened 
+upon  him,  fome  ideas  occurred,  which 
+he  did  not  recollect  to  have  met  with 
+before ;  and  as  he  conceived,  that  every, 
+the  lead  light,  on  a  topic  fo  generally 
+interefting,  might  be  received  with  can- 
+dour, he  determined  to  put  his  thoughts 
+in  a   form  for   publication. 
+
+A  The 
+
+
+ii  PREFACE. 
+
+The  eflay    might,   undoubtedly,  have 
+been  rendered  much  more  complete  by 
+a  collection  of  a  greater  number  of  fa6ts 
+in  elucidation  of  the  general  argument. 
+But  a    long  and   almoft    total  interrup- 
+tion, from  very  particular  bufinefs,  joined 
+to  a   defire  (perhaps  imprudent)  of  not 
+delaying   the  publication    much  beyond 
+the    time    that  he    originally   propofed, 
+prevented    the   Author    from  giving   to 
+the  fubje<5t  an    undivided  attention.     He 
+prefumes,   however,   that  the  fadls  which 
+he  has  adduced,  will  be  found,  to  form 
+no  inconfiderable  evidence  for  the  truth 
+of  his  opinion  refpe<5ling  the  future  im- 
+provement of  mankind.     As  the  Author 
+contemplates    this    opinion    at    prefent, 
+little  more  appears  to  him  to  be  necef- 
+fary  than  a  plain  flatement,  in  addition 
+to  the  moft  curfory  view  of  fociety,  to 
+e'ftablifh  it. 
+
+
+It 
+
+
+f&EFACE.  iii 
+
+It  is  ail  obvious  truth,  which  has  been 
+taken  notice  of  by  many  writers.,  that 
+population  muft 'always  be  kept  down 
+to  the  level  of  the  means  of  fubfiitence ; 
+but  no  writer,  that  the  Author  recollects, 
+has  inquired  particularly  into  the  means 
+by  which  this  level  is  eftecSred :  and 
+it  is  Ji  view  of  thefe  means;  which 
+forms,  to  his  mind,  the  ftrongefr  ob« 
+ftacle  in  the  way  to  any  very  great  fu- 
+ture improvement  of  focicty.  He  hopes  It 
+will  appear,  that}  in  the  difciifsion  of 
+this  interefting  fubjectj  he  is  actuated 
+folely  by  a  love  of  truth  ;  and  not  by 
+any  prejudices  againft  any  particular  fet 
+6f  men,  or  of  opinions.  He  profeiTes  to 
+have  read  fome  of  the  {peculations  on 
+the  future  improvement  of  fociety,  in  a 
+temper  very  different  from  a  wifh  to  find 
+•  them  vifionary;  but  he  has  not  acquired 
+that  command  over  his  underflanding 
+which  would  enable  him  to  believe  what 
+j  A  2  he 
+
+
+iv  PREFACE. 
+
+he  wifhes,  without  evidence,  or  to  refufe 
+his  aflent  to  what  might  be  unpleafing, 
+when  accompanied  with  evidence. 
+
+The  view  which  he  has  given  of  human 
+life  has  a  melancholy  hue  ;  but  he  feels 
+confcious,  that  he  has  drawn  thefe  dark 
+tints,  from  a  convidlion  that  they  are 
+really  in  the  picture ;  and  not  from  a 
+jaundiced  eye,  or  an  inherent  fpleen  of 
+difpofition.  The  theory  of  mind  which 
+he  has  fketched  in  the  two  laft  chapters, 
+accounts  to  his  own  underftanding,  in  a 
+fatisfaftory  manner,  for  the  exiftence  of 
+mod  of  the  evils  of  life ;  but  whether  it 
+will  have  the  fame  effect  upon  others, 
+muft  be  left  to  the  judgment  of  his 
+readers. 
+
+If  he  ihould  fucceed  in  drawing  the 
+attention  of  more  able  men,  to  what  he 
+conceives  to  be  the  principal  difficulty  in 
+
+the 
+
+
+PREFACE. 
+
+the  way  to  the  improvement  of  fociety, 
+and  fhould,  in  confequence,  fee  this  dif- 
+ficulty removed,  even  in  theory,  he  will 
+gladly  retraft  his  prefent  opinions,  and 
+rejoice  in  a  conviction  of  his  error. 
+
+June  7,  1798. 
+
+
+A  S  CON« 
+
+
+CONTENTS 
+
+
+CHAR    I. 
+
+^ueflion  Jlated. — Little  profpecl  of  a  determination  of 
+it)  from  the  enmity  of  the  oppofing  parties. — The  prin- 
+cipal argument  againft  the  per f edibility  of  man  andvf 
+fociety  has  never  been  fairly  anfwered. — Nature  of  the 
+difficulty  arifing  from  population. — Outline  of  the 
+principal  argument  of  the  effay,  page  I. 
+
+CHAP.  II. 
+
+The  different  ratios  in  which  population  and  food  in- 
+creafe. — -The  necejfary  effects  of  thefe  different  ratios 
+of  increafe.— Of  dilation  produced  by  them  in  the  con- 
+dition of  the  lower  claffes  of  fociety. — Reafons  why 
+this  ofcillation  has  not  been  fo  much  obferved  as  might 
+be  expected.— 'Three  propofttions  on  which  the  general 
+argument  of  the  efjay  depends. -—The  different  ftates 
+in  which  mankind  have  been  known  to  ex  ft  propofed 
+to  be  examined  with  reference  to  thefe  three  pro- 
+poftions.  p.  i8i 
+
+A  4  CHAP, 
+
+
+ii  CONTENTS. 
+
+
+CHAP.  III. 
+
+
+Thefavage  or  hunter  ft  ate  fhortly  reviewed. —  The  Jhep- 
+herdftate^or  the  tribes  of  barbarians  that  overran  the 
+Roman  Empire.— The  fuperiority  of  the  power  of  po- 
+pulation to  the  means  of  fubfiftencey  the  caufe  of  the 
+great  tide  of  Northern  Emigration.  p.  39. 
+
+CHAP.    IV. 
+
+State  of  civilized  nations.— Probability  that  Europe  is 
+much  more  populous  now  than  in  the  time  of  Julius 
+Cafar. — Beft  criterion  of  population. — Probable  error 
+of  Hume  in  one  of  the  criterions  that  he  propofes  as  af- 
+ftfting  in  an  eftimate  of  population. — Slow  increafe  of 
+population  atprefent  in  moft  oftheftates  of  Europe. — The 
+two  principal  checks  to  population. — Thefrfty  or  preven~  ^ 
+true  check,  examined  with  regard  to  England,   p.  53. 
+
+CHAP.    V. 
+
+Thefeeond,  or  pofitive  check  to  population  examined^   in 
+England. — The  true  caufe  why  the  immenfe  fum  col- 
+lected in  England  for  the  poor  does  not  better  their  con- 
+dition* 
+
+
+\y 
+
+
+CONTENTS.  iii 
+
+(lit ion. — The  powerful  tendency  of  the  poor  laws  to  de- 
+feat their  own  purpofe. — Palliative  of  the  diftrejfes  of 
+the  poor  propofed. — 'The  abfolute  impofsibility  from  the 
+fixed  laws  of  our  nature,  that  the  prejjure  of  want  can 
+ever  be  completely  removed  from  the  lower  claffes  of  fo- 
+ciety. — All  the  checks  to  population  may  bt  refolvtd  into 
+mifery  or  vice,  p.  7 1. 
+
+CHAP.    VI. 
+
+New  colonies. — Reafons  of  their  rapid  increafe. — North 
+American  Colonies '.— Extraordinary  inftance  of  increafe 
+in  the  back  fettlements.— Rapidity  with  which  even  old 
+ft  ate  s  recover  the  ravages  of  war,  pejiilence,  famine,  or 
+the  convulftons  of  nature.  p.  ioi„ 
+
+CHAP.  VII. 
+
+A  probable  caufe  of  epidemics.— Extratls  from  Mr.  Suf 
+milch' s  tables.— Periodical  returns  of  fickly  feafons  to 
+be  expecled  in  certain  cafes.— Proportion  of  births  to 
+burials  for  Jhort  periods  in  any  country  an  inade- 
+quate criterion  of  the  real  average  increafe  of  popula- 
+tion.—Befl  criterion  of  a  permanent  increafe  of  popu- 
+lation.—Great  frugality  of  living  one  of  the  caufe s  of 
+
+the 
+
+
+iv  CONTENTS. 
+
+the  famines  of  China  and  Indojian. — Evil  tendency  of' 
+one  of  the  claufes  in  Mr.  Pitt's  Poor  Bill — Only  one 
+proper  way  of  encouraging  population. — Caufes  of  the 
+frappinefs  of  nations. — Famine,  the  lafi  and  mojl  dread- 
+ful mode  by  which  nature  repreffes  a  redundant  popula- 
+tion.— The  three  proportions  conftdered  as  eftablijhed. 
+
+
+CHAP.     VIII. 
+
+Mr.  Wallace. — Error  of  fuppojtng  that  the  difficulty 
+arifmg  from  population  is  at  a  great  dijlance. — Mr. 
+Condor  ce?  s  Jketch  of  the  progrefs  of  the  human  mind. — 
+Period  when  the  ofcillation}  mentioned  by  Mr.  Con- 
+dor'cet,    ought  to  be  applied  to  the  human  race.     p.  142. 
+
+CHAP.  IX. 
+
+Mr.  Condorcefs  conjecture  concerning  the  organic  per- 
+feclibility  of  man,  and  the  indefinite  prolongation  of 
+human  life^ — Fallacy  of  the  argument,  which  infers 
+en  unlimited  progrefs  from  a  partial  improvement, 
+the  limit  of  which  cannot  be  afcertained,  illuftrated 
+in  the  breeding  of  animals,  and  the  cultivation  of 
+plants.  p.  155, 
+
+CHAP, 
+
+
+CONTENTS.  v 
+
+CHAP.    X. 
+
+Mr.  Godwin's  fyftem  of equality.  —  Error  of  attributing 
+all  the  vices  of  mankind  to  human  inftitutions. — Mr. 
+Godwin' 's  fir 'ft  anfwer  to  the  difficulty  arifingfrom  po- 
+pulation totally  inefficient. — Mr.  Godwin's  beautiful 
+fyftem  of  equality  fuppofed  to  be  realized. — It's  utter 
+defer uction  fimply  from  the  principle  of  population  info 
+fhort  a  tima  as  thirty  years.  p.  173' 
+
+CHAP.  XL 
+
+Mr.  Godwins  conjeclure  concerning  the  future  extinc- 
+tion of  the  paffton  between  the  fexes. — Little  apparent 
+grounds  for  fuch  a  conjeclure. — Paffton  of  love  not 
+inconfiflent  either  with  reafon  or  virtue.  p.  210. 
+
+CHAP.     XII. 
+
+■Mr.  Godwin's  conjecture  concerning  the  indefinite  prolon- 
+gation of  human  life.— Improper  inference  drawn  from 
+the  effects  of  mental Jlimulants  on  the  human  frame  ^  il- 
+luftrated  in  various  inftances. — Conjectures  not  founded 
+on  any  indications  in  the  paft^  not  to  be  confidered  as 
+philofophical  conjectures. — Mr.    Godwin's  and  Mr. 
+
+Con- 
+
+
+vi  CONTENTS. 
+
+Condorcet's  conjecture  refpecting  the  approach  of  man 
+towards  immortality  on  earthy  a  curious  inftance 
+of  the  inconfiftency  of  fcepticifm,  p.  2 1 9. 
+
+CHAP.     XIII. 
+
+Error  of  Mr.  Godwin  in  confidering  man  too  much  in 
+the  light  of  a  being  merely  rational.—- In  the  com- 
+pound beings  man,  the  pajfions  will  always  aft  as 
+dijlurbing  forces  in  the  decifeons  of  the  underftand- 
+ing. — Reafonings  of  Mr,  Godwin  on  the  fubject  of 
+coercion. — Some  truths  of  a  nature  not  to  be  commu- 
+nicated from  one  man  to  another,  p.  250. 
+
+CHAP.  XIV. 
+
+Mr.  Godwin's  five  proportions  refpefting  political  truths 
+on  which  his  whole  work  hinges,  not  eftablijhed.—Rea- 
+fons  we  have  for  fuppofing,  from  the  diftrefs  occafioned 
+by  the  principle  of  population,  that  the  vices,  and 
+moral  weaknefs  of  man  can  never  be  wholly  eradicated. 
+-—Perfeclibility,  in  the  fenfe  in  which  Mr.  Godwin 
+ufes  the  term,  not  applicable  to  man. — Nature  of  the 
+real  perfeclibility  of  man  illuftrated.  p.  264, 
+
+CHAP. 
+
+
+CONTENTS.  -  Tii 
+
+
+CHAP.    XV. 
+
+
+Models  too  perfecl^  may  fometimes  rather  impede  than  pro- 
+mote improvement. — Mr.  Godwin's  ejfay  on  avarice  and 
+profufion. — Impoffibility  of  dividing  the  necejjary  labour 
+of  a  fociety  amicably  among  all. — Invectives  againft  la- 
+bour may  produce  prefent  evil,  with  little  or  no  chance 
+of  producing  future  good. — An  accefsion  to  the  mafs  of 
+agricultural  labour  muft  always  be  an  advantage  to  the 
+labourer.  p.  279. 
+
+
+CHAP.    XVI. 
+
+Probable  error  of  Dr.  Adam  Smith  in  reprefenting  every 
+increafe  of  the  revenue  orftock  of  a  fociety  as  an  increafe 
+in  the  funds  for  the  maintenance  of  labour. — Inftances 
+where  an  increafe  of  wealth  can  have  no  tendency  to 
+better  the  condition  of  the  labouring  poor. — England 
+has  increafed  in  riches  without  a  proportional  increajs 
+in  the  funds  for  the  maintenance  of  labour.— The  ft  ate 
+if  the  poor  in  China  would  not  be  improved  by  an  in- 
+creafe of  wealth  from  manufiJfures.  p.  303.  r 
+
+CHAP. 
+
+
+viii  CONTENTS. 
+
+CHAP.  XVII. 
+
+$>ueJlion  of  the  proper  definition  of  the  wealth  of  a  flate. 
+— Reafon  given  by  the  French  (Economics  for  confider- 
+ing  all  manufacturers  as  unproductive  labourers,  not 
+the  true  reafon. —  The  labour  of  artificers  and  manu- 
+facturers fufficiently  productive  to  individuals,  though 
+not  to  the  flate, — A  remarkable  paffage  in  Dr,  Price* s 
+two  volumes  of  obfervations. — Error  of  Dr.  Price  in 
+attributing  the'  happinefs  and  rapid  population  of  Ame- 
+rica, chiefly,  to  its  peculiar  Jl ate  of  civiTizatiori.—Nt 
+advantage  can  be  expecledfrom  Jhutting  our  eyes  to  the 
+difficulties  in  the  way  to  the  improvement  of fociety .  p.327. 
+
+CHAP.  XVIII. 
+
+The  conjlant  pre/Jure  of  diflrefs  on  man,  from  the  principle 
+of  population,  feems  to  direct  our  hopes  to  the  future, 
+-—State  of  trial  inconfiflent  with  our  ideas  of  the  fore- 
+knowledge of  God. — The  world,  probably,  a  mighty 
+procefs  for  awakening  matter  into  mind—Theory  of  the 
+forwiation  of  mind.— Excitements  from  the  wants  of  the 
+body.— -Excitements  from  the  operation  of  general  laws, 
+^Excitements  from  the  difficulties  of  life  arifing  from 
+the  principle  of  population,  p.  348. 
+
+CHAP. 
+
+
+CONTENTS.  ix 
+
+CHAP.   XIX. 
+
+The  forroivs  of  life  necejfary  'to  foften  and  humanize  the 
+heart. — The  excitements  of  foci  al  fympathy  often  pro- 
+duce  characters    of  a   higher   order    than    the  mere 
+poffcjfors  of  talents. — Moral  evil  probably  necejfary  to 
+the  produclion  of  moral  excellence. — Excitemerits  from 
+intellectual  wants  continually    kept  up  by   the   bifnite 
+variety  of  nature,  and  the  obfeurity  that  involves  me- 
+•  taphyfical  fubjecls.—  The   difficulties   in  Revelation  to 
+be  accounted  for   upon   this  principle. — The  degree  of 
+evidence  which  the  fcriptures  contain,  probably,  heft 
+futted  to  the  improvement  of  the  human  faculties,  and 
+the  moral  amelioration  of  mankind. —  The  idea   that 
+mind  is  created  by  excitements,  feems  to  account  for  the 
+gxiftetics  if  natural  end  moral  evil.  p.  372. 
+
+
+AN  ESSAY 
+
+
+» 
+
+ERRATA. 
+
+Page. 
+
+Line. 
+
+41 
+
+13 
+
+For  half  the,  read  half  0 
+
+156 
+
+18 
+
+For  naural,  read  natural 
+
+249 
+
+*9 
+
+For  If3  read  if 
+
+AN 
+
+
+ESS  A,  Y' 
+
+
+ON    THE 
+
+
+Principle  of  population. 
+
+
+CHAPTER    I. 
+
+Queflion  ft  ate  d. — Little  profpecl  of  a  determination  of 
+it ,  from  the  enmity  of  the  oppoftng  parties* — The  prin- 
+cipal  argument  againfl  the  perfectibility  of  man  and  of 
+fociety  has  never  been  fairly  anfwered. — Nature  of  the 
+difficulty  arijing  from  population. — Outline  of  the 
+principal  argument  of  the  ejfay. 
+
+The  great  and  unlooked  for  difcoveries 
+that  have  taken  place  of  late  years  in 
+natural  philofophy;  the  increafing  dif- 
+fufion  of  general  knowledge  from  the  ex- 
+tension of  the  art  of  printing  ;  the  ardent 
+and  unfhackled  fpirit  of  inquiry  that  pre- 
+vails throughout  the  lettered,  and  even  un- 
+lettered world ;  the  new  and  extraordinary 
+B  light? 
+
+
+2  AN  ESSAY  ON  THE 
+
+lights  that  have  been  thrown  on  political 
+fubje6ts,  which  dazzle,  and  aftonifh  the 
+underftanding ;  and  particularly  that  tre- 
+mendous phenomenon  in  the  political 
+horizon  the  French  revolution,  which, 
+like  a  blazing  comet,  feems  deftined  either 
+to  infpir'e  with  frefh  life  and  vigour,  or  to 
+fcorch  up  and  deftroy  the  fhrinking  in- 
+habitants of  the  earth,  have  all  concurred 
+to  lead  many  able  men  into  the  opinion, 
+that  we  were  touching  on  a  period  big 
+with  the  moll  important  changes,  changes 
+that  would  in  fome  meafure  be  decifive  of 
+the  future  fate  of  mankind. 
+
+It  has  been  laid,  that  the  great  queftioii 
+is  now  at  iffue,  whether  man  fhall  hence- 
+forth flart  forwards  with  accelerated  ve- 
+locity towards  illimitable,  and  hitherto 
+imconceived  improvement ;  or  be  con- 
+demned to  a  perpetual  ofcillation  between 
+happinefs  and   mifery,    and    after   every 
+
+effort 
+
+
+PRINCIPLE  OF  POPULATION.  3 
+
+effort    remain    ftill   at   an   immeafurable 
+diftance  from  the  wiftied-for  goal. 
+
+Yet,  anxiouily  as  every  friend  of  man- 
+kind muft  look  forwards  to  the  termina- 
+tion of  this  painful  fufpenfe  ;  and,  eagerly 
+&s  the  inquiring  mind  would  hail  every 
+ray  of  light  that  might  afsift  its  view  into 
+futurity,  it  is  much  to  be  lamented,  that 
+the  writers  on  each  fide  of  this  momentous 
+queftion  ftill  keep  far  aloof  from  each 
+other.  Their  mutual  arguments  do 
+not  meet  with  a  candid  examination. 
+The  queftion  is  not  brought  to  reft  on 
+Fewer  points ;  and  even  in  theory  fcarcely 
+feems  to  be  approaching  to  a  decifion. 
+
+The  advocate  for  the  prefent  order  of 
+things,  is  apt  to  treat  the  fe6l  of  fpe- 
+culative  philofphers,  either  as  a  fet  of 
+artful  and  defigning  knaves,  who  preach 
+Up  ardent  benevolence,  and  draw  capti- 
+B  2  mating 
+
+
+*  AN   ESSAY    ON   THE 
+
+rating  pictures  of  a  happier  ftate  of  fo- 
+ciety, only  the  better  to  enable  them  to 
+deftroy  the  prefent  eftablifhments,  and  to- 
+forward  their  own  deep-laid  fchemes  of 
+ambition :  or,  as  wild  and  mad-headed 
+enthufiafts,  whofe  filly  fpeculations,  and 
+abfurd  paradoxes,  are  not  worthy  the  at- 
+tention of  any  reafonable  man* 
+
+The  advocate  for  the  perfectibility  of 
+man,  and  of  fociety,  retorts  on  the  de- 
+fender of  eftablifhments  a  more  than 
+equal  contempt.  He  brands  him  as  the 
+flave  of  the  moft  miferable,  and  narrow 
+prejudices ;  or,  as  the  defender  of  the 
+abufes  of  civil  fociety,  only  becaufe  he 
+profits  by  them.  He  paints  him  either  as 
+a  character  who  proftitutes  his  under- 
+ftanding  to  his  intereft  ;  or  as  one  whofe 
+powers  of  mind  are  not  of  a  fize  to  grafp 
+any  thing  great  and  noble ;  who  cannot 
+fee  above  five  yards  before  him  ;  and  who 
+
+mud 
+
+
+PRINCIPLE  OF  POPULATION.  5 
+
+muft  therefore  be  utterly  unable  to  take 
+in  the  views  of  the  enlightened  benefacfior 
+of  mankind. 
+
+In  this  unamicable  conteft,  the  caufe  of 
+truth  cannot  but  fuffer.  The  really  good 
+arguments  on  each  fide  of  the  queflion  are 
+not  allowed  to  have  their  proper  weight. 
+Each  purfues  his  own  theory,  little  foli- 
+citous  to  correct,  or  improve  it,  by  an  at- 
+tention to  what  is  advanced  by  his  op- 
+ponents. 
+
+The  friend  of  the  prefcnt  order  of 
+tilings  condemns  all  political  fpec illations 
+in  the  grofs.  He  will  not  even  condefcend 
+to  examine  the  grounds  from  which  the 
+perfectibility  of  fociety  is  inferred.  Much 
+iefs  will  he  give  himfclf  the  trouble  in 
+a  fair  and  candid  manner  to  attempt  aa 
+expoiition  of  their  fallacy. 
+
+B  3  TM 
+
+
+)  AN    ESSAY    ON   THE 
+
+The  fpeculative  philofopher  equally 
+offends  againft  the  caufe  of  truth.  With 
+eyes  fixed  on  a  happier  ftate  of  fociety, 
+the  blefsings  of  which  he  paints  in  the 
+moft  captivating  colours,  he  allows  him- 
+felf  to  indulge  in  the  moft  bitter  in- 
+ve6tives  againft  every  prefent  eftablifh- 
+ment,  without  applying  his  talents  to  con- 
+fider  the  beft  and  fafeft  means  of  removing 
+abufes,  and  without  feeming  to  be  aware 
+of  the  tremendous  obftacles  that  threaten, 
+even  in  theory,  to  oppofe  the  progrefs  of 
+man  towards  perfection. 
+
+It  is  an  acknowledged  truth  in  philo-* 
+fophy,  that  a  juft  theory  will  always  be 
+confirmed  by  experiment.  Yet  fo  much 
+fri6tion,  and  fo  many  minute  circum- 
+ftances  occur  in  practice,  which  it  is  next 
+to  impofsibje  for  the  moft  enlarged  and 
+penetrating  mind  to  forefee,  that  on  few 
+fubjcCts   can  any  theory  be  pronounced 
+
+
+PRINCIPLE  OF  POPULATION. 
+
+juft,  that  has  not  flood  the  teft  of  ex- 
+perience. But  an  untried  theory  cannot 
+fairly  be  advanced  as  probable,  much  lcfs 
+as  juft,  till  all  the  arguments  againft  it, 
+have  been  maturely  weighed,  and  clearly 
+and  confidently  refuted. 
+
+1  have  read  forne  of  the  fpeculations  on 
+the  perfe6tibility  of  man  and  of  fociety, 
+with  great  pleafure.  I  have  been  warmed 
+and  delighted  with  the  enchanting  pic- 
+ture which  they  hold  forth.  I  ardently 
+wifh  for  fuch  happy  improvements.  But 
+I  fee  great,  and,  to  my  underftanding, 
+unconquerable  difficulties  in  the  way  to 
+them.  Thefe  difficulties  it  is  my  prefcnt 
+purpofe  to  ftate  ;  declaring,  at  the  fame 
+time,  that  fo  far  from  exulting  in  them, 
+as  a  caufe  of  triumph  over  the  friends  of 
+innovation,  nothing  would  give  me  greater 
+pleafure  than  to  fee  them  completely  re- 
+moved, 
+
+B  4  Th? 
+
+
+S  AN    ESSAY    ON   THE 
+
+The  moft  important  argument  that  I 
+fhall  adduce  is  certainly  not  new.  The 
+principles  on  which  it  depends  have  been 
+explained  in  part  by  Hume,  and  more  at 
+large  by  Dr.  Adam  Smith.  It  has  been 
+advanced  and  applied  to  the  prefent  fub- 
+je6t,  though  not  with  its  proper  weight,  or 
+in  the  moft  forcible  point  of  view,  by  Mr. 
+Wallace  :  and  it  may  probably  have  been 
+ftated  by  many  writers  that  I  have  never 
+met  with.  I  fhould  certainly  therefore 
+not  think  of  advancing  it  again,  though  I 
+mean  to  place  it  in  a  point  of  view  in 
+fome  degree  different  from  any  that  I 
+have  hitherto  feen,  if  it  had  ever  been 
+fairly  and  fatisfaftorily  anfwered. 
+
+The  caufe  of  this  negle6t  on  the  part  of 
+the  advocates  for  the  perfectibility  of  man- 
+kind, is  not  eafily  accounted  for.  I  cannot 
+doubt  the  talents  of  fuch  men  as  Godwin  and 
+Condprcpt.     I  am  unwilling  to  doubt  their 
+
+can- 
+
+
+PRINCIPLE  OF  POPULATION.  9 
+
+candour.  To  my  underftanding,  and  pro- 
+bably to  that  of  mod  others,  the  difficulty 
+appears  infurmountable.  Yet  thefe  men 
+of  acknowledged  ability  and  penetration, 
+fcarcely  deign  to  notice  it,  and  hold  on 
+their  courfe  in  fuch  fpeculations,  with 
+unabated  ardour,  and  uijidiminifhed  con- 
+fidence. I  have  certainly  no  right  to  fay 
+that  they  purpofely  fhut  their  eyes  to  fuch 
+arguments.  I  ought  rather  to  doubt  the 
+validity  of  them,  when  negle6ted  by  fuch 
+men,  however  forcibly  their  truth  may 
+flrike  my  own  mind.  Yet  in  this  refpeft 
+it  muft  be  acknowledged  that  we  are  all 
+of  us  too  prone  to  err.  If  I  faw  a  glafs  of 
+wine  repeatedly  prefented  to  a  man,  and 
+he  took  no  notice  of  it,  1  fliould  be  apt  to 
+think  that  he  was  blind  or  uncivil.  A 
+jufter  philofophy  might  teach  me  rather 
+to  think  that  my  eyes  deceived  me,  and 
+that  the  offer  wras  not  really  what  I  con- 
+ceived it  to  be. 
+
+In 
+
+
+10  AN  ESS,A.Y    ON  THl 
+
+In  entering  upon  the  argument  I  mull 
+premife  that  I  put  out  of  the  queftion,  at 
+prefent,  all  mere  conjectures ;  that  is,  all 
+fuppofitions,  the  probable  realization  of 
+which  cannot  be  inferred  upon  any  juft 
+philofophical  grounds,  A  writer  may  telj 
+me  that  he  thinks  man  will  ultimately  lye- 
+come  an  oftrich.  I  cannot  properly  con- 
+tradict him.  But  before  he  can  expe6t  to 
+bring  any  reafonable  perfon  over  to  his 
+opinion,  he  ought  to  fhevv,  that  the  necks 
+of  mankind  have  been  gradually  elon- 
+gating ;  that  the  lips  have  grown  harder, 
+and  more  prominent ;  that  the  legs  and 
+feet  are  daily  altering  their  fhape  ;  and 
+that  the  hair  is  beginning  to  change  into 
+ftubs  of  feathers.  And  till  the  probability 
+of  fo  wonderful  a  converfion  can  be  fliewn, 
+it  is  furely  loft  time  and  loft  eloquence 
+to  expatiate  on  the  happinefs  of  man  in 
+fuch  a  ftate  ;  to  drfcribe  his  powers,  both 
+of  running  and  flying;  to  paint  him  in 
+
+a  con- 
+
+
+FRINCIPLE    OF    POPULATION.  l\ 
+
+a  condition  where  all  narrow  luxuries 
+would  be  contemned ;  where  he  would 
+be  employed  only  in  collecting  the  necef- 
+faries  of  life ;  and  where,  consequently, 
+each  man's  iliare  of  labour  would  be 
+light,  and  his  portion  of  leifure  ample* 
+
+I  think  I  may  fairly  make  two  poftu* 
+lata. 
+
+Firft,  That  food  is  neceflary  to  the 
+exiftence  of  man. 
+
+Secondly,  That  the  pafsion  between 
+the  fexes  is  neceflary,  and  will  remain 
+nearly  in  its  prefent  ilatc. 
+
+Thefe  two  laws  ever  fmce  we  have  had 
+any  knowledge  of  mankind,  appear  to 
+have  been  fixed  Jaws  of  our  nature ; 
+and,  as  we  have  not  hitherto  feen  any 
+alteration   in   them,    we   have   no  right 
+
+to 
+
+
+12  AN    ESSAY    ON    THE 
+
+to  conclude  that  they  will  ever  ceafe 
+to  be  what  they  now  are,  without  an 
+immediate  act  of  power  in  that  Being 
+who  firfl  arranged  the  fyfiem  of  the 
+tiniverfe  ;  and  for  the  advantage  of  his 
+creatures,  ftill  executes,  according  to 
+fixed   laws,   all   its  various   operations. 
+
+I  do  not  know  that  any  writer  has 
+fuppofed  that  on  this  earth  man  will 
+ultimately  be  able  to  live  without  food. 
+But  Mr.  Godwin  has  conjectured  that 
+the  pafsion  between  the  fexes  may  in 
+time  be  extingui/hed.  As,  however,  he 
+calls  this  part  of  his  work,  a  deviation 
+into  the  land  of  conjecture,  I  will  not 
+dwell  longer  upon  it  at  prefent,  than 
+to  fay,  that  the  beft  arguments  for  the 
+perfectibility  of  man,  are  drawn  from  a 
+contemplation  of  the  great  progrefs  that 
+he  has  already  made  from  the  favage 
+ftate,  and  the  difficulty  of  faying  where 
+
+he 
+
+
+PRINCIPLE    OF    POPULATION.  13 
+
+he  is  to  flop.  But  towards  the  extinc- 
+tion of  the  pafsion  between  the  fexes, 
+no  progrefs  whatever  has  hitherto  been 
+made.  It  appears  to  exift  in  as  much 
+force  at  prefent  as  it  did  two  thoufand, 
+or  four  thoufand  years  ago.  There  are 
+individual  exceptions  now  as  there  al- 
+ways have  been.  But,  as  thefe  excep- 
+tions do  not  appear  to  increafe  in  num- 
+ber, it  would  furely  be  a  very  unphi- 
+lofophical  mode,  of  arguing,  to  infer 
+merely  from  the  exifience  of  an  excep- 
+tion, that  the  exception  would,  in  time, 
+become  the  rule,  and  the  rule  the  ex- 
+ception. 
+
+Afluming  then,  my  poftulata  as  granted, 
+I  fay,  that  the  power  of  population  is 
+indefinitely  greater  than  the  power  in  the 
+earth   to  produce  lubfiftence  for  man. 
+
+Fopu- 
+
+
+14  AN    ESSAY    ON    THE 
+
+Population,  when  unchecked,  increases 
+in  a  geometrical  ratio.  Sublicence  in- 
+creafes  only  in  an  arithmetical  ratio, 
+A  flight  "acquaintance  with  numbers  will 
+fhew  the  immenfity  of  the  firft  power 
+in  comparifon  of  the  fecond* 
+
+By  that  law  of  our  nature  which 
+makes  food  neceffary  to  the  life  of  man, 
+the  effects  of  thefe  two  unequal  powers 
+mull:  be  kept  equal. 
+
+This  implies  a  ftrorig  and  conftantly 
+operating  check  on  population  from  the 
+difficulty  of  fubfiftence.  This  difficulty 
+muft  fall  fome  where  ;  and  muft  necef- 
+farily  be  feverely  felt  by  a  large  portion 
+of  mankind. 
+
+Through  the  animal  and  vegetable 
+kingdoms,   nature  has  fcattered  the  feeds 
+
+of 
+
+
+PRINCIPLE    OF    POPULATION.  15 
+
+of    life    abroad    with    the    mod  profufe 
+and   liberal  hand.      She  has  been    com- 
+paratively fparing  in  the  room,  and  the 
+nourifhment     neceflary    to    rear   them. 
+The     cerms    of  exiftence    contained    in 
+this  fpot  of  earth,  with  ample  food,  and 
+ample    room    to    expand  in,   would  fill 
+millions  of  worlds  in  the  courfe  of  a  few 
+thoufand    years.     Necefsity,    that    impe- 
+rious  all   pervading  law  of  nature,  ref- 
+trains  them  within  the  prefcribed  bounds. 
+The    race  of    plants,    and    the    race    of 
+animals   fhrink    under  this  great  reftric- 
+iive   law.      And    the   race  of  man  can- 
+not,   by    any    efforts  of    reafon,    efcapc 
+from   it,     Among  plants  and  animals  its 
+effects  are   wafle  of   feed,    ficknefs,    and 
+premature     death.        Among     mankind, 
+mifery  and   vice.     The    former,  mifery, 
+is  an   abfolutely    neceflary    confequence 
+of  it.     Vice    is   a    highly  probable   con- 
+fequence, and  we  therefore  fee  it  abun- 
+2  dantlv 
+
+
+16  fcN    ESSAY    ON    trfE 
+
+dantly  prevail ;  but  it  ought  not,  per- 
+haps, to  be  called  an  abfolutely  necef- 
+fary  confequence.  The  ordeal  of  virtue 
+is  to  refift  all  temptation  to  evil. 
+
+This  natural  inequality  of  the  two  powers 
+of  population,  and  of  production  in  the 
+earth,  and  that  great  law  of  our  nature 
+which  mud  conftantly  keep  their  effects 
+equal,  form  the  great  difficulty  that  tome 
+appears  infurmountable  in  the  way  to 
+the  perfectibility  of  fociety.  AH  other 
+arguments  arc  of  flight  and  fubordinate 
+confideration  in  comparifon  of  this.  I 
+fee  no  way  by  which  man  can  ef- 
+cape  from  the  weight  of  this  lawr  which 
+pervades  all  animated  nature.  No  fan- 
+cied equality,  no  agrarian  regulations 
+in  their  utmoft  extent,  could  remove 
+the  preffure  of  it  even  for  a  fingle  cen- 
+tury. And  it  appears,  therefore,  to  be 
+decifive  againft  the  pofsible  exiftence  of 
+
+a  fociety, 
+
+
+PRINCIPLE    OF    POPULATION.  1? 
+
+a  fociety,  aH  the  members  of  which, 
+fliould  live  in  eafe,  happinefs,  and 
+comparative  leifure;  and  feel  no  anxiety 
+about  providing  the  means  of  fubfift- 
+ence  for   themfelveS  and   families. 
+
+Confequently,  if  the  premifes  are 
+juft,  the  argument  is  conclufive  againft 
+the  perfectibility  of  the  mafs  of  man- 
+kind. 
+
+I  have  thus  fketched  the.  general  out- 
+line of  the  argument ;  but  I  will  ex* 
+amine  it  more  particularly  ;  and  I  think 
+it  will  be  found  that  experience,  the 
+true  fource  and:- foundation  of  all  know- 
+ledge, invariably  confirms  its  truth. 
+
+
+CHAP, 
+
+
+18  AN    ESSAY    ON    THE 
+
+
+CHAP.  IL 
+
+The  different  ratios  in  which  population  and  food  in*> 
+creafe.—Tke  neceffary  effects  of  thefe  different  ratios 
+of  increafe. -—Of dilation  produced  by  them  in  the  con* 
+dition  of  the  lower  claffes  of  fociety. — Reafons  why 
+this  ofcillatioit  has  not  been  fo  much  obferved  as  might 
+be  expected.-*>Three  proportions  on  which  the  general 
+argument  of  the  effay  depends.— The  different  ftates 
+In  w^hich  maitklrid  have  been  known  to  exift  propofed 
+to  be  examined  with  reference  to  thefe  three  pro- 
+pofitions. 
+
+I  said  that  population,  When  un- 
+checked,* increafed  in  a  geometrical 
+ratio  %  and  fubfiftence  for  man  in  an 
+arithmetical  ratio. 
+
+Let  us  examine  whether  this  pofi- 
+tion  be  juft. 
+
+I  think  it  will  be  allowed,  that  no 
+flate  has  hitherto  exifted  (at  leaft  that 
+we  have  any   account    of)    where  the 
+
+manners 
+
+
+PRINCIPLE  OF  POPULATION.  19 
+
+hianners  were  fo  pure  and  fimple,  and 
+the  means  of  fubfiftence  fo  abundant^ 
+that  no  check  whatever  has  exifted  to 
+fearly  marriages ;  amortg  the  lower  clafles^ 
+from  a  fear  of  ilot  providing  well  for 
+their  families ;  or  among  the  higher 
+claffes,  from  a  fear  of  lowering  their  con- 
+dition in  life.  Confequently  in  no  ftate 
+that  we  have  yet  known,  has  the  power 
+bf  population  been  left  to  exert  itfelf 
+with  perfe6t  freedom. 
+
+Whether  the  law  of  marriage  be  in* 
+ftituted,  or  not,  the  di6tate  of  nature 
+and  virtue,  feems  to  be  an  early  attach- 
+ment to  one  woman.  Suppofing  a  liberty 
+of  changing  in  the  cafe  of  an  unfortu- 
+nate choice,  this  liberty  would^not  affect 
+population  till  it  arofe  to  a  height  greatly 
+vicious ;  and  we  are  now  fuppofing  the 
+exiftence  of  a  fociety  where  vice  is 
+fcarcely  known, 
+
+C2  In 
+
+
+20  An  essAy  ofr  the 
+
+In  a  itate  therefore  of  great  equality 
+and  virtue,  where  pure  and  fimple  man* 
+ners  prevailed*  and  where  the  means  of 
+fubfiftence  were  fo  abundant,  that  no 
+part  of  the  foeiety  could  have  any  fears 
+about  providing  amply  for  a  family,  the 
+power  of  population  being  left  to  exert 
+itfelf  unchecked,  the  increafe  of  the 
+human  fpecies  would  evidently  be  much 
+greater  than  any  increafe  that  has  been 
+hitherto  known* 
+
+In   the    tJnited     States     of    America, 
+
+Where   the    means    of    fubfiftence    have 
+
+been  more  ample,    the  manners  of  the 
+
+j 
+people  more  pure,  arid  confequently  the 
+
+checks  to  early  marriages  fewer,  than  in 
+
+any  of  the  modern  ftates  of  Europe,  the 
+
+population    has    been    found    to    double 
+
+itfelf  in  twenty-five  years. 
+
+This  ratio  of    increafe,    though    fliorf 
+of  the  utmoft  power  of  population,  yet 
+
+as 
+
+
+PRINCIPLE  OF  POPULATION.  21 
+
+as   the  refult  of  aftual   experience,    we 
+will  take  as  our  rule  ;  and  fay, 
+
+That  population,  when  unchecked, 
+goes  on  doubling  itfelf  .every  twenty-five 
+years,  or  increafes  in  a  geometrical 
+ratiq. 
+
+Let  us  now  take  any  fpot  of  earth, 
+this  Ifland  for  inftance,  and  fee  in  what 
+ratio  the  fubfiftence  it  affords  can  be 
+fuppofed  to  increafe.  We  will  begin 
+with  it  under  its  prefent  flatc  of  culti* 
+vation. 
+
+If  I  allow  that  by  the  beft  pofsible 
+policy,  by  breaking  up  more  land,  and 
+by  great  encouragements  to  agriculture, 
+the  produce  of  this  Ifland  may  be 
+doubled  in  the  firft- twenty-five  years,  I 
+think  it  will  be  allowing  as  much  as 
+SUvy  perfon  can  well  demand, 
+
+C  3  In 
+
+
+22  AN   ESSAY  ON    THE 
+
+In  the  next  twenty-five  years,  it  is 
+impofsible  to  fuppofe  that  the  produce 
+could  be  quadrupled*  It  would  be 
+contrary  to  all  our  knowledge  of  the 
+qualities  of  land.  The  very  utmoft  that 
+we  can  conceive,  is,  that  the  increafe  in 
+the  fecond  twenty-five  years  might  equal 
+the  prefent  produce.  Let  us  then  take 
+this  for  our  rule,  though  certainly  far 
+beyond  the  truth';  and  allow  that  by 
+great  exertion,  the  whole  produce  of  the 
+Illand  might  be  increafed  every  twenty- 
+five  years,  by  a  quantity  of  fubfiftence 
+equal  to  what  it  at  prefent  produces. 
+The  moft  ejithufiaftic  {peculator  cannot 
+Juppofe  a  greater  increafe  than  this. 
+In  a  few  centuries  it  wpuld  make  every 
+acre  of  land  in  the  Ifland  like  a  garden. 
+
+Yet  this  ratio  of  increafe  is  evidently 
+arithmetical. 
+
+It 
+
+
+PRINCIPLE  OF  POPULATION.  25 
+
+It  may  be  fairly  faid,  therefore,  that 
+the  means  of  fubfiftence  increafe  in  an 
+arithmetical  ratio. 
+
+Let  us  now  bring  the  effects  of  thefe 
+two  ratios  together. 
+
+The  population  of  the  Ifland  is  com- 
+puted to  be  about  feven  millions ;  and 
+we  will  fuppofe  the  prefent  produce 
+equal  to  the  fupport  of  fuch  a  number. 
+In  the  firft  twenty-five  years  the  popu- 
+lation would  be  fourteen  millions ;  and 
+the  food  being  alfo  doubled,  the  means 
+of  fubfiftence  would  be  equal  to  this 
+increafe.  In  the  next  twenty-five  years 
+the  population  would  be  twenty-eight 
+millions ;  and  the  means  of  fubfiftence 
+only  equal  to  the  fupport  of  twenty-one 
+millions.  In  the  next  period,  the  popu-* 
+iation  would  be  fifty-fix  millions,  and 
+the  means  of  fubfiftence  juft  fufficient  for 
+C  *  hah 
+
+
+£4-  AN    ESSAY    ON    THE       v 
+
+half  that  number.  And  at  the  conclu- 
+iion  of  the  firft  century,  the  population 
+would  be  one  hundred  and  twelve  mil- 
+lions, and  the  means  of  fubfiftence  only 
+equal  to  the  fupport  of  thirty-five  mil- 
+lions ;  which  would  leave  a  population  of 
+feventy-feven  millions  totally  unprovided 
+for. 
+
+A  great  emigration  neceffarily  implies 
+unhappinefs  of  fome  kind  or  other  in  the 
+country  that  is  deferted.  For  few  per- 
+fons  will  leave  their  families,  connec- 
+tions, friends,  and  native  land,  to  feck 
+a  fettlement  in  untried  foreign  climes, 
+without  fome  ftrong  fubfifting  caufes  of 
+uneafinefs  where  they  are,  or  the  hope 
+of  fome  great  advantages  in  the  place  to 
+which  they  are  going. 
+
+
+But  to  make  the  argument  more  ge- 
+neral,  and  lefs  interrupted  by  the  par- 
+tial 
+
+
+PRINCIPLE  OF  POPULATION.  25 
+
+tial  views  of  emigration,  let  us  take  the 
+whole  earth,  inftead  of  one  fpot,  and 
+fuppofe  that  the  restraints  to  population 
+were  univerfally  removed.  If  the  fubr 
+fiftence  for  man  that  the  earth  affords 
+was  to  be  increafed  every  twenty-five 
+years  by  a  quantity  equal  to  what  the 
+whole  world  at  prefent  produces ;  this 
+would  allow  the  power  of  production  in 
+the  earth  to  be  absolutely  unlimited,  and 
+its  ratio  of  increafe  much  greater  thai} 
+we  can  conceive  that  any  pofsible  exer? 
+tions  of  mankind  could  make  it. 
+
+Taking  the  population  of  the  world  at 
+any  number,  a  thoufand  millions,  for 
+inftance,  the  human  fpecies  would  in- 
+creafe in  the  ratio  of — 1,  2,  4,  8,/ 16, 
+32,  64,  128,/256,  512,  &c.  and  fub- 
+fiftence  as — 1,  2,  3,  4,/ 5,  6,  7,  $J 9, 
+10,  &c.  In  two  centuries  and  a  quarter, 
+the  population  would  be  to  the  means  of 
+
+fub- 
+
+
+2tf  AN    ESSAY    ON    THE 
+
+fubfiftence  as  512  to  10:  in  three  cen- 
+turies as  4096  to  13;  and  in  two  thou- 
+fand  years  the  difference  would  be  almoft 
+incalculable,  though  the  produce  in  that 
+time  would  have  increafed  to  an  immenfe 
+extent. 
+
+No  limits  whatever  are  placed  to  the 
+productions  of  the  earth  ;  they  may  in- 
+crease for  ever  and  be  greater  than  any 
+afsignabje  quantity ;  yet  ftill  the  power 
+of  population  being  a  power  of  a  fuperior 
+order,  the  increafe  of  the  human  fpecies 
+can  only  be  kept  commenfurate  to  the 
+Increafe  of  the  means  of  fubfiftence,  by 
+the  conftant  operation  of  the  ftrong  law 
+pf  necefsity  a&ing  as  a  check  upon  the 
+greater  power. 
+
+The  eifedts  of  this  check  remain  now 
+to  be  considered, 
+
+Among; 
+
+
+PRINCIPLE  OF  POPULATION,  27 
+
+Among  plants  and  animals  the  view  of 
+the  fubjedt  is  fimple.  They  are  all  im* 
+pelled  by  a  powerful  inftinft  to  the  in- 
+creafe  of  their  fpecies ;  and  this  inftinft 
+is  interrupted  by  no  reafoning,  or  doubts 
+about  providing  for  their  offspring. 
+Wherever  therefore  there  is  liberty,  the 
+power  of  increafe  is  exerted ;  and  the 
+Superabundant  effefts  are  reprefled  after- 
+wards by  want  of  room  and  nourifhment, 
+which  is  common  to  animals  and  plants ; 
+and  among  animals,  by  becoming  the 
+prey  of  others. 
+
+The  effects  of  this  checjf  on  man  are 
+more  complicated. 
+
+Impelled  to  the  increafe  of  his  fpecies 
+by  an  equally  powerful  inftinft,  reafon 
+interrupts  his  career,  and  afks  him 
+whether  he  may  not  bring  beings  into 
+the  world,  for  whom  he  cannot  provide 
+
+
+28  AN    ESSAY    ON    THE 
+
+the  means  of  fubfiftence.  In  a  ftate  of 
+equality,  this  would  be  the  fimple  qucf- 
+tion.  In  the  prefent  ftate  of  fociety, 
+other  confideratjons  occur.  Will  he  not 
+lower  his  rank  in  life  ?  Will  he  not  fub- 
+}e£t  himfelf  to  greater  difficulties  than 
+he  at  prefent  feels  ?  Will  he  not  be 
+obliged  tp  labour  harder  ?  and  if  he  has 
+a  large  family,  will  his  utmoft  exertions 
+enable  him  to  fijpport  them  ?  May  he  not 
+fee  his  offspring  in  rags  and  mifery,  and 
+clamouring  for  breacj  that  he  cannot  give 
+them  ?  And  may  he  not  be  reduced  to 
+the  grating  necefsity  of  forfeiting  his  in- 
+dependence, and  of  being  obliged  to  the 
+fparing  hand  of  charity  for  fupport  ? 
+
+Thefe  confiderations  are  calculated  to 
+prevent,  and  certainly  do  prevent,  a  very 
+great  number  in  all  civilized  nations  from 
+purfuing  the  dictate  of  nature  in  an  early 
+attachment  to  one    woman.     And    this 
+
+reftraint 
+
+
+"PRINCIPLE  OF  POPULAf  IC-tt.  29 
+
+reftraint  almoft  rieeeffarily,  though  not 
+abfolutely  fo,  produces  vice.  Yet  in  all 
+focieties,  even  thofe  that  are  moft  vici- 
+ous, the  tendency  to  a  virtuous  attach- 
+ment is  fo  ftrong,  that  there  is  a  con- 
+stant effort  towards  an  increafe  of  popu- 
+lation, This  conftant  effort  as  conftaotly 
+tends  to  fubjedt  the  lower  claffes  of  the 
+fociety  to  diftrefs,  and  to  prevent  any- 
+great  permanent  amelioration  of  their 
+condition* 
+
+The  way  in  which  thefe  effects    aim 
+produced  feems  to  fee  this. 
+
+We  will  fuppofe  the  means  of  fufo- 
+fiftence  in  any  country  juft  equal  to  the 
+eafy  fupport  of  its  inhabitants.  The 
+conftant  effort  towards  population,  which 
+is  found  to  act  even  in  the  moft  viciom 
+focieties,  incrcafes  the  number  of  people 
+before  the  means  of  fubfiftence  are  in- 
+3  creafecL 
+
+
+id  AN    ESSAY    tiN    THE 
+
+creafed.  The  food  therefore  Which  be- 
+fore Supported  feven  millions;  muft  now 
+be  divided  among  fetefi  millions  and  a 
+half  or  eight  millions  The  poor  conse- 
+quently muft  live  much  vtorfe,  and  many 
+of  them  be  reduced  to  fevere  diftfefs. 
+The  number  of  labourers  aifo  being 
+above  "the  proportion  of  the  work  irr  the 
+Market,  the  price  of  l'abfftfr  muft  tefrd 
+toward  adectfeafe  ;  while  the  price  of  pr6* 
+vifions  would  at  the  fame  time  tead  to  rife. 
+The  labourer  therefore  muft  work  harder 
+to  earn  tlie  fame  as  he  did  befole.  Dur- 
+ing this  feafon  of  diftrefs,  the  difcourage- 
+ments  to  marriage,  and  the  difficulty  of 
+rearing  a  family  are  fo  great,  that  popu- 
+lation is  at  a  ftand.  In  the  rrteaft  time 
+the  cheapnefs  of  labour,  the  plenty  of 
+labourers,  and  the  necefsity  of  an  in- 
+creafed  induftry  amongft  them,  encourage 
+cultivators  to  employ  more  labour  upon1 
+their  land  ;  to  turn  up  frefli  foil,  and  to 
+
+.manure 
+
+
+PRINCIPLE  OF  POPULATION.  31 
+
+manure  and  improve  more  completely 
+what  is  already  in  tillage ;  till  ultimately 
+the  means  of  fubfiftence  become  in  the 
+lame  proportion  to  the  population  as  at 
+the  period  from  which  we  fet  out.  The 
+Situation  of  the  labourer  being  then  again 
+tolerably  comfortable,  the  reftraints  to 
+population  are  in  fome  degree  loofened  ; 
+and  the  fame  retrograde  and  progrefsive 
+movements  with  refpect  to  happinefs  are 
+repeated. 
+
+This  fort  of  ofcillation  will  not  be  re- 
+marked by  fuperficial  obfervers ;  and  it 
+may  be  difficult  even  for  the  moft  pene- 
+trating mind  to  calculate  its  periods. 
+Yet  that  in  all  old  Hates  fome  fuch  vi- 
+bration does  exift  ;  though  from  various 
+tranfverfe  caufes,  in  a  much  lefs  marked, 
+and  in  a  much  more  irregular  manner 
+than  I  have  defcribcd  it,    no  rqfledting 
+
+man 
+
+
+32  A&    ESSAY    ON    THE 
+
+man  who  confiders  the  fubjeft  deeply  car* 
+well  doubt. 
+
+Many  reafons  ticciir  why  this  ofcilla- 
+tion  has  been  lefs  obvious,  and  lefs  de- 
+cidedly confirmed  by  experience^  than 
+might  naturally  be  expected; 
+
+One  principal  reafon  is,  that  the  his- 
+tories of  mankind  that  we  poflefs,  are 
+hiftories  only  of  the  higher  clafTes.  We 
+have  but  few  accounts  that  can  be  de- 
+pended upon  of  the  manners  and  cuftoms 
+of  that  part  of  mankind,  where  thefe 
+retrograde  and  progrefsive  movements 
+chiefly  take  place.  A  fatisfaftory  hif- 
+tory  of  this  kind,  of  one  people,  and  of 
+one  period,  would  require  the  conftant 
+and  minute  attention  of  an  obferving 
+mind  during  a  long  life.  Some  of  the 
+obje6ls  of  enquiry  would  be,  in  what 
+proportion  to  the  number  of  adults  was 
+
+the 
+
+
+PRINCIPLE  OF  POPULATION.  S3 
+
+the  number  of  marriages :  to  what  ex- 
+tent vicious  cuftoms  prevailed  in  confe- 
+quence  of  the  reftraints  upon  matrimony  : 
+wh.-t  was  the  comparative  mortality 
+among  the  children  of  the  moll  diurefTed 
+part  of  the  community,  and  thofe  who 
+lived  rather  more  at  their  eafe  :  what 
+were  the  variations  in  the  real  price  of 
+labour  :  and  what  were  the  obfervable 
+differences  in  the  ftate  of  the  lower  claries 
+
+4 
+
+of  fociety,  with  refpeel  to  eafe  and  hap- 
+pinefs,  at  different  times  during  a  certain 
+period. 
+
+Such  a  hiftory  would  tend  greatly  to 
+elucidate  the  manner  in  which  the  con- 
+fiant  check  upon  population  acts ;  and 
+would  probably  prove  the  exiftence 
+of  the  retrograde  and  progrefsive  move- 
+ments that  have  been  mentioned  ;  though 
+the  times  of  their  vibration,  muft  necef- 
+farily  be  rendered  irregular,  from  the 
+J>  opera- 
+
+
+3$  AN    ESSAY    ON    THE 
+
+operation  of  many  interrupting  caufes  * 
+fuch  as,  the  introduction  or  failure  of 
+certain  manufa6tures :  ,  a  greater  or  lefs 
+prevalent  fpkit  of  agricultural  enterprize  : 
+years  of  plenty,  or  years  of  fcarcity : 
+wars  and  peftilence :  poor  laws :  the  in- 
+vention of  procefles  for  lhortening  labour 
+without  the  proportional  extenfion  of  the 
+market  for  the  commodity :  and,  par- 
+ticularly, the  difference  between  the 
+nominal  and  real  price  of  labour ;  a  cir- 
+eumftance,  which  has  perhaps  more  than. 
+any  other,  contributed  to  conceal  this- 
+ofcillation  from  common  view* 
+
+It  very  rarely  happens  that  the  nomi- 
+nal price  of  labour  univerfally  falls ; 
+but  we  wrell  know  that  it  frequently 
+xemains  the  fame,  while  the  nominal 
+price  of  provifions  has  been  gradually 
+increasing.  This  is,  in  effect,  a  real  fall 
+in  the  price  of  labour  ;  and  during  this 
+
+period, 
+
+
+PRINCIPLE  OF  POPULATION,  3j 
+
+period,  the  condition  of  the  lower  orders 
+of  the  community  muft  gradually  grow 
+worfe  and  worfe.  But  the  farmers  and  capi- 
+talifts  are  growing  rich  from  the  real  cheap- 
+nefs  of  labour.  Their  increafed  capitals  en- 
+able them  to  employ  a  greater  number  of 
+men.  Work  therefore  may  be  plentiful ; 
+and  the  price  of  labour  would  confe- 
+quently  rife.  But  the  want  of  freedom 
+in  the  market  of  labour,  which  occurs 
+more  or  lefs  in  all  communities,  either 
+from  parifh  laws,  or  the  more  general 
+caufe  of  the  facility  of  combination 
+among  the  rich,  and  its  difficulty  among 
+the  poor,  operates  to  prevent  the  price 
+of  labour  from  rifing  at  the  natural 
+period,  and  keeps  it  down  fome  time 
+longer ;  perhaps,  till  a  year  of  fcarcity, 
+when  the  clamour  is  too  loud,  and  the 
+necessity  too  apparent  to  be  refitted. 
+
+D2  The 
+
+
+36  AN    ESSAY    ON    TtfE 
+
+The  true  caufe  of  the  advance  in  ths 
+price  of  labour  is  thus  concealed  ;  and 
+the  rich  affe6t  to  grant  it  as  an  a6t  of 
+compafsion  and  favour  to  the  poor,  in 
+confideration  of  a  year  of  fcarcity  ;  and 
+when  plenty  returns,  indulge  themfelves 
+in  the  moft  unreafonable  of  all  com- 
+plaints, that  the  price  does  not  again 
+fall ;  when  a  little  reflection  would  mew 
+them,  that  it  muit  have  rifen  long  be- 
+fore, but  from  an  unjult  confpiracy  of 
+their  own. 
+
+But  though  the  rich  by  unfair  combi- 
+nations, contribute  frequently  to  prolong 
+a  feafon  of  diitrefs  among  the  poor  ;  yet 
+no  pofsible  form  of  fociety  could  pre- 
+vent the  almolt  conftant  a6tion  of  mifery, 
+upon  a  great  part  of  mankind,  if  hi 
+a  ftate  of  inequality,  and  upon  .all,  if 
+all  were  equal. 
+
+*       The 
+
+
+PRINCIPLE  OF  POPULATION,  37 
+
+The  theory,  on  which  the  truth  of  this 
+pofition  depends,  appears  to  me  fo  ex* 
+tremely  clear  ;  that  I  feel  at  a  lofs  to 
+conjecture  what  part  of  it  can  be  de- 
+nied. 
+
+That  population  cannot  increafe  with- 
+out the  means  of  fubfiftence,  is  a  propo- 
+sition fo  evident,  that  it  needs  no  illuf- 
+tration. 
+
+That  population  does  invariably  in- 
+creafe, where  there  are  the  means  of 
+fubfiftence,  the  hiftory  of  every  people 
+that  have  ever  exifted  will  abundantly 
+prove. 
+
+And,  that  the  fuperior  power  of 
+population  cannot  be  checked,  without 
+producing  mifery  or  vice,  the  ample 
+portion  of  thefe  too  bitter  ingredients  in 
+the  cup  of  human  life,  and  the  con- 
+D  3  ti nuance 
+
+
+3$  AN"    ESSAY    ON    THE 
+
+tinuance  of  the  phyfical  caufes  that  feem 
+to  have  produced  them,  bear  too  con- 
+vincing a  teftimony. 
+
+But  in  order  more  fully  to  afcertain 
+the  validity  of  thefe  three  propofitions, 
+let  us  examine  the  different  ftates  in 
+which  ipankind  have  been  lfnown  to 
+exifh  Even  a  curfory  review  will,  I 
+think,  be  fufficient  to  convince  us,  that 
+thefe  propofitions  are  incontrovertible 
+truths* 
+
+
+CHAP, 
+
+
+JRINCIPLE    OF    POPULATION,  3$ 
+
+

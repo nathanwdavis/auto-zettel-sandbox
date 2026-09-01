@@ -299,7 +299,7 @@
         "given": "Albert Henry"
       }
     ],
-    "id": "202609010406",
+    "id": "202609010507",
     "issued": {
       "date-parts": [
         [
@@ -307,11 +307,190 @@
         ]
       ]
     },
+    "original-date": {
+      "date-parts": [
+        [
+          1789
+        ]
+      ]
+    },
     "page": "493-510",
     "publisher": "The Macmillan Company",
     "publisher-place": "New York",
-    "title": "Franklin's Last Will and Testament",
+    "title": "Last Will and Testament, with Codicil",
     "type": "chapter",
     "volume": "10"
+  },
+  {
+    "URL": "https://archive.org/details/gu_newmethodmaki00lock",
+    "author": [
+      {
+        "family": "Locke",
+        "given": "John"
+      }
+    ],
+    "id": "202609010602",
+    "issued": {
+      "date-parts": [
+        [
+          1706
+        ]
+      ]
+    },
+    "publisher": "J. Greenwood",
+    "publisher-place": "London",
+    "title": "A New Method of Making Common-Place-Books",
+    "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/essayonprincipl00malt",
+    "author": [
+      {
+        "family": "Malthus",
+        "given": "Thomas Robert"
+      }
+    ],
+    "id": "202609010702",
+    "issued": {
+      "date-parts": [
+        [
+          1798
+        ]
+      ]
+    },
+    "publisher": "J. Johnson",
+    "publisher-place": "London",
+    "title": "An Essay on the Principle of Population, as It Affects the Future Improvement of Society. With Remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+    "author": [
+      {
+        "family": "Bush",
+        "given": "Vannevar"
+      }
+    ],
+    "container-title": "The Atlantic Monthly",
+    "id": "202609010800",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1945,
+          7
+        ]
+      ]
+    },
+    "page": "101-108",
+    "title": "As We May Think",
+    "type": "article-magazine",
+    "volume": "176"
+  },
+  {
+    "URL": "https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp",
+    "author": [
+      {
+        "literal": "Anselm of Canterbury"
+      }
+    ],
+    "id": "202609010830",
+    "issued": {
+      "date-parts": [
+        [
+          1903
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1078
+        ]
+      ]
+    },
+    "publisher": "The Open Court Publishing Company",
+    "publisher-place": "Chicago",
+    "title": "Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilo; and Cur Deus Homo",
+    "translator": [
+      {
+        "family": "Deane",
+        "given": "Sidney Norton"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "URL": "https://www.thecatholicthing.org/2015/12/17/do-muslims-and-christians-worship-the-same-god/",
+    "author": [
+      {
+        "family": "Beckwith",
+        "given": "Francis J."
+      }
+    ],
+    "container-title": "The Catholic Thing",
+    "id": "202609010831",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          17
+        ]
+      ]
+    },
+    "title": "Do Muslims and Christians Worship the Same God?",
+    "type": "article-newspaper"
+  },
+  {
+    "URL": "https://www.thecatholicthing.org/2016/01/07/why-muslims-and-christians-worship-the-same-god/",
+    "author": [
+      {
+        "family": "Beckwith",
+        "given": "Francis J."
+      }
+    ],
+    "container-title": "The Catholic Thing",
+    "id": "202609010832",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          7
+        ]
+      ]
+    },
+    "title": "Why Muslims and Christians Worship the Same God",
+    "type": "article-newspaper"
+  },
+  {
+    "DOI": "10.5840/faithphil201741178",
+    "URL": "https://place.asburyseminary.edu/faithandphilosophy/vol34/iss2/3/",
+    "author": [
+      {
+        "family": "Bogardus",
+        "given": "Tomas"
+      },
+      {
+        "family": "Urban",
+        "given": "Mallorie"
+      }
+    ],
+    "container-title": "Faith and Philosophy",
+    "id": "202609010833",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "page": "176-200",
+    "title": "How to Tell Whether Christians and Muslims Worship the Same God",
+    "type": "article-journal",
+    "volume": "34"
   }
 ]

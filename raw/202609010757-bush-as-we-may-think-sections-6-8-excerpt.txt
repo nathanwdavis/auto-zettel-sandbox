@@ -1,0 +1,214 @@
+Verbatim excerpt capture of Vannevar Bush, "As We May Think", The Atlantic
+Monthly 176, no. 1 (July 1945): 101-108 — the passages of sections 6, 7,
+and 8 on artificial indexing, association, the memex, and trails, in two
+blocks from two textually independent copies.
+
+This is NOT the full article. The article is under copyright (The
+Atlantic, 1945) and is not freely republishable; these are bounded
+excerpts (about 700 words per block out of an ~8,000-word article),
+reproduced for citation-grounding/commentary purposes, following this
+base's excerpt policy for in-copyright works (cf.
+raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt). Both
+copies excerpted here are themselves legitimately published: block 1 is
+the copyright holder's own web text, and block 2 is a transcription that
+states it is reproduced with The Atlantic's permission.
+
+BLOCK 1 is extracted from The Atlantic's own full-text web publication,
+https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+fetched 2026-09-01T07:57:10Z (HTTP 200, no paywall interstitial on the
+fetched HTML; article body present in the served page). Extraction:
+HTML tags stripped, paragraph breaks kept at </p>, whitespace collapsed,
+lines re-wrapped at 74 columns. No wording changed.
+
+BLOCK 2 is extracted from the ASCII transcription by Denys Duchier
+(April 1994), hosted by the W3C at
+https://www.w3.org/History/1945/vbush/vbush.txt, fetched
+2026-09-01T07:57:41Z (HTTP 200). The transcription's own header states
+"It is reproduced here with their [The Atlantic Monthly's] permission."
+Extraction: the same eight passages, whitespace collapsed, re-wrapped at
+74 columns; the transcription's ``...'' quote marks left as-is. No
+wording changed.
+
+The two copies are textually independent transcriptions of the same July
+1945 article (The Atlantic's web copy vs. a 1994 hand transcription; the
+6-page PDF widely mirrored, e.g. at web.mit.edu/STS.035/www/PDFs/think.pdf,
+is a re-typesetting of this same Duchier transcription, so it is NOT a
+third witness). Wording on which both blocks agree word-for-word is
+treated as reliable; quoting notes quote ONLY such agreed text, except
+where a variant is explicitly recorded.
+
+VARIANT READINGS between the two blocks, recorded here and unresolved (no
+independent third witness was accessible to this run; the July 1945 print
+scan on Internet Archive/HathiTrust is lending-restricted):
+ 1. sec. 6: ATL "Selection by association, rather than indexing, may yet
+    be mechanized" / DUC "... rather than by indexing ...".
+ 2. sec. 6: ATL "It needs a name, and, to coin one at random" / DUC
+    "It needs a name, and to coin one at random" (comma only).
+ 3. sec. 7: ATL "gathered together from widely separated sources and
+    bound together to form a new book" / DUC "gathered together to form
+    a new book".
+ 4. sec. 7: ATL "the outraged Europeans" / DUC "the outranged Europeans"
+    (Bush's bow-and-arrow example; "outranged" fits the archery context,
+    but neither reading is independently confirmed).
+ 5. sec. 8: ATL "skip trail which stops only on the salient items" / DUC
+    "... stops only at the salient items".
+Plus typographic apostrophe/quote-mark differences, not counted as
+variants.
+
+Page anchors: the article ran at The Atlantic Monthly 176(1):101-108; the
+web copy and transcription carry no page breaks, so notes cite by section
+number (6, 7, 8), which both witnesses mark.
+
+======================================================================
+BLOCK 1 — The Atlantic web text (sections 6-8 excerpts)
+======================================================================
+
+The real heart of the matter of selection, however, goes deeper than a lag
+in the adoption of mechanisms by libraries, or a lack of development of
+devices for their use. Our ineptitude in getting at the record is largely
+caused by the artificiality of systems of indexing. When data of any sort
+are placed in storage, they are filed alphabetically or numerically, and
+information is found (when it is) by tracing it down from subclass to
+subclass. It can be in only one place, unless duplicates are used; one has
+to have rules as to which path will locate it, and the rules are
+cumbersome. Having found one item, moreover, one has to emerge from the
+system and re-enter on a new path.
+
+The human mind does not work that way. It operates by association. With
+one item in its grasp, it snaps instantly to the next that is suggested by
+the association of thoughts, in accordance with some intricate web of
+trails carried by the cells of the brain. It has other characteristics, of
+course; trails that are not frequently followed are prone to fade, items
+are not fully permanent, memory is transitory. Yet the speed of action,
+the intricacy of trails, the detail of mental pictures, is awe-inspiring
+beyond all else in nature.
+
+Man cannot hope fully to duplicate this mental process artificially, but
+he certainly ought to be able to learn from it. In minor ways he may even
+improve, for his records have relative permanency. The first idea,
+however, to be drawn from the analogy concerns selection. Selection by
+association, rather than indexing, may yet be mechanized. One cannot hope
+thus to equal the speed and flexibility with which the mind follows an
+associative trail, but it should be possible to beat the mind decisively
+in regard to the permanence and clarity of the items resurrected from
+storage.
+
+Consider a future device for individual use, which is a sort of mechanized
+private file and library. It needs a name, and, to coin one at random,
+“memex” will do. A memex is a device in which an individual stores all his
+books, records, and communications, and which is mechanized so that it may
+be consulted with exceeding speed and flexibility. It is an enlarged
+intimate supplement to his memory.
+
+All this is conventional, except for the projection forward of present-day
+mechanisms and gadgetry. It affords an immediate step, however, to
+associative indexing, the basic idea of which is a provision whereby any
+item may be caused at will to select immediately and automatically
+another. This is the essential feature of the memex. The process of tying
+two items together is the important thing.
+
+Thereafter, at any time, when one of these items is in view, the other can
+be instantly recalled merely by tapping a button below the corresponding
+code space. Moreover, when numerous items have been thus joined together
+to form a trail, they can be reviewed in turn, rapidly or slowly, by
+deflecting a lever like that used for turning the pages of a book. It is
+exactly as though the physical items had been gathered together from
+widely separated sources and bound together to form a new book. It is more
+than this, for any item can be joined into numerous trails.
+
+And his trails do not fade. Several years later, his talk with a friend
+turns to the queer ways in which a people resist innovations, even of
+vital interest. He has an example, in the fact that the outraged Europeans
+still failed to adopt the Turkish bow. In fact he has a trail on it. A
+touch brings up the code book. Tapping a few keys projects the head of the
+trail. A lever runs through it at will, stopping at interesting items,
+going off on side excursions. It is an interesting trail, pertinent to the
+discussion. So he sets a reproducer in action, photographs the whole trail
+out, and passes it to his friend for insertion in his own memex, there to
+be linked into the more general trail.
+
+The historian, with a vast chronological account of a people, parallels it
+with a skip trail which stops only on the salient items, and can follow at
+any time contemporary trails which lead him all over civilization at a
+particular epoch. There is a new profession of trail blazers, those who
+find delight in the task of establishing useful trails through the
+enormous mass of the common record. The inheritance from the master
+becomes, not only his additions to the world’s record, but for his
+disciples the entire scaffolding by which they were erected.
+
+======================================================================
+BLOCK 2 — Duchier/W3C ASCII transcription (same passages)
+======================================================================
+
+The real heart of the matter of selection, however, goes deeper than a lag
+in the adoption of mechanisms by libraries, or a lack of development of
+devices for their use. Our ineptitude in getting at the record is largely
+caused by the artificiality of systems of indexing. When data of any sort
+are placed in storage, they are filed alphabetically or numerically, and
+information is found (when it is) by tracing it down from subclass to
+subclass. It can be in only one place, unless duplicates are used; one has
+to have rules as to which path will locate it, and the rules are
+cumbersome. Having found one item, moreover, one has to emerge from the
+system and re-enter on a new path.
+
+The human mind does not work that way. It operates by association. With
+one item in its grasp, it snaps instantly to the next that is suggested by
+the association of thoughts, in accordance with some intricate web of
+trails carried by the cells of the brain. It has other characteristics, of
+course; trails that are not frequently followed are prone to fade, items
+are not fully permanent, memory is transitory. Yet the speed of action,
+the intricacy of trails, the detail of mental pictures, is awe-inspiring
+beyond all else in nature.
+
+Man cannot hope fully to duplicate this mental process artificially, but
+he certainly ought to be able to learn from it. In minor ways he may even
+improve, for his records have relative permanency. The first idea,
+however, to be drawn from the analogy concerns selection. Selection by
+association, rather than by indexing, may yet be mechanized. One cannot
+hope thus to equal the speed and flexibility with which the mind follows
+an associative trail, but it should be possible to beat the mind
+decisively in regard to the permanence and clarity of the items
+resurrected from storage.
+
+Consider a future device for individual use, which is a sort of mechanized
+private file and library. It needs a name, and to coin one at random,
+``memex'' will do. A memex is a device in which an individual stores all
+his books, records, and communications, and which is mechanized so that it
+may be consulted with exceeding speed and flexibility. It is an enlarged
+intimate supplement to his memory.
+
+All this is conventional, except for the projection forward of present-day
+mechanisms and gadgetry. It affords an immediate step, however, to
+associative indexing, the basic idea of which is a provision whereby any
+item may be caused at will to select immediately and automatically
+another. This is the essential feature of the memex. The process of tying
+two items together is the important thing.
+
+Thereafter, at any time, when one of these items is in view, the other can
+be instantly recalled merely by tapping a button below the corresponding
+code space. Moreover, when numerous items have been thus joined together
+to form a trail, they can be reviewed in turn, rapidly or slowly, by
+deflecting a lever like that used for turning the pages of a book. It is
+exactly as though the physical items had been gathered together to form a
+new book. It is more than this, for any item can be joined into numerous
+trails.
+
+And his trails do not fade. Several years later, his talk with a friend
+turns to the queer ways in which a people resist innovations, even of
+vital interest. He has an example, in the fact that the outranged
+Europeans still failed to adopt the Turkish bow. In fact he has a trail on
+it. A touch brings up the code book. Tapping a few keys projects the head
+of the trail. A lever runs through it at will, stopping at interesting
+items, going off on side excursions. It is an interesting trail, pertinent
+to the discussion. So he sets a reproducer in action, photographs the
+whole trail out, and passes it to his friend for insertion in his own
+memex, there to be linked into the more general trail.
+
+The historian, with a vast chronological account of a people, parallels it
+with a skip trail which stops only at the salient items, and can follow at
+any time contemporary trails which lead him all over civilization at a
+particular epoch. There is a new profession of trail blazers, those who
+find delight in the task of establishing useful trails through the
+enormous mass of the common record. The inheritance from the master
+becomes, not only his additions to the world's record, but for his
+disciples the entire scaffolding by which they were erected.
