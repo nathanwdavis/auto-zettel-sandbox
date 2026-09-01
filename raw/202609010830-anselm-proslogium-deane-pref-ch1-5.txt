@@ -1,0 +1,273 @@
+Verbatim capture (excerpt) for reference 202609010830.
+Source page: Internet Medieval Sourcebook (Fordham University),
+"Anselm (1033-1109): Proslogium", https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp
+Translation: Sidney Norton Deane (Chicago: The Open Court Publishing Company, 1903, reprinted 1926).
+Public-domain translation; etext via Christian Classics Ethereal Library, spellings modernized by the Sourcebook.
+Fetched: 2026-09-01T08:22:00Z to 2026-09-01T08:23:00Z via curl through the session's egress proxy;
+HTML converted to plain text (tags stripped), whitespace preserved as extracted.
+Excerpt scope: Preface and Chapters I-V (the ontological argument and the attribute chapters
+immediately following). The rest of the page (Chapters VI-XXVI, source note) was fetched but only
+the source note is appended below. The fool's-response material (Gaunilo) is on a separate page
+and was not captured.
+--------------------------------------------------------------------------------
+   PREFACE.
+
+  In this brief work the author aims at proving in a single argument the existence of
+    God, and whatsoever we believe of God. --The difficulty of the task. --The author writes
+    in the person of one who contemplates God, and seeks to understand what he believes. To
+    this work he had given this title: Faith Seeking Understanding. He finally named it
+    Proslogium, --that is, A Discourse.
+
+  AFTER I had published, at the solicitous entreaties of certain brethren, a brief work
+    (the Monologium) as an example of meditation on the grounds of faith, in the person
+    of one who investigates, in a course of silent reasoning with himself, matters of which he
+    is ignorant; considering that this book was knit together by the linking of many
+    arguments, I began to ask myself whether there might be found a single argument which
+    would require no other for its proof than itself alone; and alone would suffice to
+    demonstrate that God truly exists, and that there is a supreme good requiring nothing
+    else, which all other things require for their existence and well-being; and whatever we
+    believe regarding the divine Being.
+
+  Although I often and earnestly directed my thought to this end, and at some times that
+    which I sought seemed to be just within my reach, while again it wholly evaded my mental
+    vision, at last in despair I was about to cease, as if from the search for a thing which
+    could not be found. But when I wished to exclude this thought altogether, lest, by busying
+    my mind to no purpose, it should keep me from other thoughts, in which I might be
+    successful; then more and more, though I was unwilling and shunned it, it began to force
+    itself upon me, with a kind of importunity. So, one day, when I was exceedingly wearied
+    with resisting its importunity, in the very conflict of my thoughts, the proof of which I
+    had despaired offered itself, so that I eagerly embraced the thoughts which I was
+    strenuously repelling.
+
+  Thinking, therefore, that what I rejoiced to have found, would, if put in writing, be
+    welcome to some readers, of this very matter, and of some others, I have written the
+    following treatise, in the person of one who strives to lift his mind to the contemplation
+    of God, and seeks to understand what he believes. In my judgment, neither this work nor
+    the other, which I mentioned above, deserved to be called a book, or to bear the name of
+    an author; and yet I thought they ought not to be sent forth without some title by which
+    they might, in some sort, invite one into whose hands they fell to their perusal. I
+    accordingly gave each a title, that the first might be known as, An Example of Meditation
+    on the Grounds of Faith, and its sequel as, Faith Seeking Understanding. But, after, both
+    had been copied by many under these titles, many urged me, and especially Hugo, the
+    reverend Archbishop of Lyons, who discharges the apostolic office in Gaul, who instructed
+    me to this effect on his apostolic authority --to prefix my name to these writings. And
+    that this might be done more fitly, I named the first, Monologium, that is, A
+    Soliloquy; but the second, Proslogium, that is, A Discourse.
+
+   
+
+   CHAPTER I.
+
+  Exhortation of the mind to the contemplation of God. --It casts aside cares, and
+    excludes all thoughts save that of God, that it may seek Him. Man was created to see God.
+    Man by sin lost the blessedness for which he was made, and found the misery for which he
+    was not made. He did not keep this good when he could keep it easily. Without God it is
+    ill with us. Our labors and attempts are in vain without God. Man cannot seek God, unless
+    God himself teaches him; nor find him, unless he reveals himself. God created man in his
+    image, that he might be mindful of him, think of him, and love him. The believer does not
+    seek to understand, that he may believe, but he believes that he may understand: for
+    unless he believed he would not understand.
+
+  Up now, slight man! flee, for a little while, your occupations; hide yourself, for a
+    time, from your disturbing thoughts. Cast aside, now, your burdensome cares, and put away
+    your toilsome business. Yield room for some little time to God; and rest for a little time
+    in him. Enter the inner chamber of your mind; shut out all thoughts save that of God, and
+    such as can aid you in seeking him; close your door and seek him. Speak now, my whole
+    heart! speak now to God, saying, I seek your face; your face, Lord, will I seek (Psalms
+    xxvii. 8). And come you now, O Lord my God, teach my heart where and how it may seek you,
+    where and how it may find you.
+
+  Lord, if you are not here, where shall I seek you, being absent? But if you are
+    everywhere, why do I not see you present? Truly you dwell in unapproachable light. But
+    where is unapproachable light, or how shall I come to it? Or who shall lead me to that
+    light and into it, that I may see you in it? Again, by what marks, under what form, shall
+    I seek you? I have never seen you, O Lord, my God; I do not know your form. What, 0 most
+    high Lord, shall this man do, an exile far from you? What shall your servant do, anxious
+    in his love of you, and cast out afar from your face? He pants to see you, and your face
+    is too far from him. He longs to come to you, and your dwelling-place is inaccessible. He
+    is eager to find you, and knows not your place. He desires to seek you, and does not know
+    your face. Lord, you are my God, and you are my Lord, and never have I seen you. It is you
+    that hast made me, and has made me anew, and has bestowed upon me all the blessing I
+    enjoy; and not yet do I know you. Finally, I was created to see you, and not yet have I
+    done that for which I was made.
+
+  0 wretched lot of man, when he has lost that for which he was made! 0 hard and terrible
+    fate! Alas, what has he lost, and what has he found? What has departed, and what remains?
+    He has lost the blessedness for which he was made, and has found the misery for which he
+    was not made. That has departed without which nothing is happy, and that remains which, in
+    itself, is only miserable. Man once did eat the bread of angels, for which he hungers now;
+    he eateth now the bread of sorrows, of which he knew not then. Alas! for the mourning of
+    all mankind, for the universal lamentation of the sons of Hades! He choked with satiety,
+    we sigh with hunger. He abounded, we beg. He possessed in happiness, and miserably forsook
+    his possession; we suffer want in unhappiness, and feel a miserable longing, and alas! we
+    remain empty.
+
+  Why did he not keep for us, when he could so easily, that whose lack we should feel so
+    heavily? Why did he shut us away from the light, and cover us over with darkness? With
+    what purpose did he rob us of life, and inflict death upon us? Wretches that we are,
+    whence have we been driven out; whither are we driven on? Whence hurled? Whither consigned
+    to ruin? From a native country into exile, from the vision of God into our present
+    blindness, from the joy of immortality into the bitterness and horror of death. Miserable
+    exchange of how great a good, for how great an evil! Heavy loss, heavy grief heavy all our
+    fate!
+
+  But alas! wretched that I am, one of the sons of Eve, far removed from God! What have I
+    undertaken? What have I accomplished? Whither was I striving? How far have I come? To what
+    did I aspire? Amid what thoughts am I sighing? I sought blessings, and lo! confusion. I
+    strove toward God, and I stumbled on myself. I sought calm in privacy, and I found
+    tribulation and grief, in my inmost thoughts. I wished to smile in the joy of my mind, and
+    I am compelled to frown by the sorrow of my heart. Gladness was hoped for, and lo! a
+    source of frequent sighs!
+
+  And you too, O Lord, how long? How long, O Lord, do you forget us; how long do you turn
+    your face from us? When will you look upon us, and hear us? When will you enlighten our
+    eyes, and show us your face? When will you restore yourself to us? Look upon us, Lord;
+    hear us, enlighten us, reveal yourself to us. Restore yourself to us, that it may be well
+    with us, --yourself, without whom it is so ill with us. Pity our toilings and strivings
+    toward you since we can do nothing without you. You do invite us; do you help us. I
+    beseech you, O Lord, that I may not lose hope in sighs, but may breathe anew in hope.
+    Lord, my heart is made bitter by its desolation; sweeten you it, I beseech you, with your
+    consolation. Lord, in hunger I began to seek you; I beseech you that I may not cease to
+    hunger for you. In hunger I have come to you; let me not go unfed. I have come in poverty
+    to the Rich, in misery to the Compassionate; let me not return empty and despised. And if,
+    before I eat, I sigh, grant, even after sighs, that which I may eat. Lord, I am bowed down
+    and can only look downward; raise me up that I may look upward. My iniquities have gone
+    over my head; they overwhelm me; and, like a heavy load, they weigh me down. Free me from
+    them; unburden me, that the pit of iniquities may not close over me.
+
+  Be it mine to look up to your light, even from afar, even from the depths. Teach me to
+    seek you, and reveal yourself to me, when I seek you, for I cannot seek you, except you
+    teach me, nor find you, except you reveal yourself. Let me seek you in longing, let me
+    long for you in seeking; let me find you in love, and love you in finding. Lord, I
+    acknowledge and I thank you that you has created me in this your image, in order that I
+    may be mindful of you, may conceive of you, and love you; but that image has been so
+    consumed and wasted away by vices, and obscured by the smoke of wrong-doing, that it
+    cannot achieve that for which it was made, except you renew it, and create it anew. I do
+    not endeavor, O Lord, to penetrate your sublimity, for in no wise do I compare my
+    understanding with that; but I long to understand in some degree your truth, which my
+    heart believes and loves. For I do not seek to understand that I may believe, but I
+    believe in order to understand. For this also I believe, --that unless I believed, I
+    should not understand.
+
+   
+
+   CHAPTER II.
+
+  Truly there is a God, although the fool has said in his heart, There is
+    no God.
+
+  AND so, Lord, do you, who do give understanding to faith, give me, so far as you
+    knowest it to be profitable, to understand that you are as we believe; and that you are
+    that which we believe. And indeed, we believe that you are a being than which nothing
+    greater can be conceived. Or is there no such nature, since the fool has said in his
+    heart, there is no God? (Psalms xiv. 1). But, at any rate, this very fool, when he hears
+    of this being of which I speak --a being than which nothing greater can be conceived
+    --understands what be hears, and what he understands is in his understanding; although he
+    does not understand it to exist.
+
+  For, it is one thing for an object to be in the understanding, and another to
+    understand that the object exists. When a painter first conceives of what he will
+    afterwards perform, he has it in his understanding, but be does not yet understand it to
+    be, because he has not yet performed it. But after he has made the painting, be both has
+    it in his understanding, and he understands that it exists, because he has made it.
+
+  Hence, even the fool is convinced that something exists in the understanding, at least,
+    than which nothing greater can be conceived. For, when he hears of this, he understands
+    it. And whatever is understood, exists in the understanding. And assuredly that, than
+    which nothing greater can be conceived, cannot exist in the understanding alone. For,
+    suppose it exists in the understanding alone: then it can be conceived to exist in
+    reality; which is greater.
+
+  Therefore, if that, than which nothing greater can be conceived, exists in the
+    understanding alone, the very being, than which nothing greater can be conceived, is one,
+    than which a greater can be conceived. But obviously this is impossible. Hence, there is
+    doubt that there exists a being, than which nothing greater can be conceived, and it
+    exists both in the understanding and in reality.
+
+   
+
+   CHAPTER III.
+
+  God cannot be conceived not to exist. --God is that, than which nothing greater can be
+    conceived. --That which can be conceived not to exist is not God.
+
+  AND it assuredly exists so truly, that it cannot be conceived not to exist. For, it is
+    possible to conceive of a being which cannot be conceived not to exist; and this is
+    greater than one which can be conceived not to exist. Hence, if that, than which nothing
+    greater can be conceived, can be conceived not to exist, it is not that, than which
+    nothing greater can be conceived. But this is an irreconcilable contradiction. There is,
+    then, so truly a being than which nothing greater can be conceived to exist, that it
+    cannot even be conceived not to exist;. and this being you are, O Lord, our God.
+
+  So truly, therefore, do you exist, O Lord, my God, that you can not be conceived not to
+    exist; and rightly. For, if a mind could conceive of a being better than you, the creature
+    would rise above the Creator; and this is most absurd. And, indeed, whatever else there
+    is, except you alone, can be conceived not to exist. To you alone, therefore, it belongs
+    to exist more truly than all other beings, and hence in a higher degree than all others.
+    For, whatever else exists does not exist so truly, and hence in a less degree it belongs
+    to it to exist. Why, then, has the fool said in his heart, there is no God (Psalms xiv.
+    1), since it is so evident, to a rational mind, that you do exist in the highest degree of
+    all? Why, except that he is dull and a fool?
+
+   
+
+   CHAPTER IV.
+
+  How the fool has said in his heart what cannot be conceived. --A thing may be conceived
+    in two ways: (1) when the word signifying it is conceived; (2) when the thing itself is
+    understood As far as the word goes, God can be conceived not to exist; in reality he
+    cannot.
+
+  BUT how has the fool said in his heart what he could not conceive; or how is it that he
+    could not conceive what he said in his heart? since it is the same to say in the heart,
+    and to conceive.
+
+  But, if really, nay, since really, he both conceived, because he said in his heart; and
+    did not say in his heart, because he could not conceive; there is more than one way in
+    which a thing is said in the heart or conceived. For, in one sense, an object is
+    conceived, when the word signifying it is conceived; and in another, when the very entity,
+    which the object is, is understood.
+
+  In the former sense, then, God can be conceived not to exist; but in the latter, not at
+    all. For no one who understands what fire and water are can conceive fire to be water, in
+    accordance with the nature of the facts themselves, although this is possible according to
+    the words. So, then, no one who understands what God is can conceive that God does not
+    exist; although he says these words in his heart, either without any or with some foreign,
+    signification. For, God is that than which a greater cannot be conceived. And he who
+    thoroughly understands this, assuredly understands that this being so truly exists, that
+    not even in concept can it be non-existent. Therefore, he who understands that God so
+    exists, cannot conceive that he does not exist.
+
+  I thank you, gracious Lord, I thank you; because what I formerly believed by your
+    bounty, I now so understand by your illumination, that if I were unwilling to believe that
+    you do exist, I should not be able not to understand this to be true.
+
+   
+
+   CHAPTER V.
+
+  God is whatever it is better to be than not to be; and he, as the only self-existent
+    being, creates all things from nothing.
+
+  WHAT are you, then, Lord God, than whom nothing greater can be conceived? But what are
+    you, except that which, as the highest of all beings, alone exists through itself, and
+    creates all other things from nothing? For, whatever is not this is less than a thing
+    which can be conceived of. But this cannot be conceived of you. What good, therefore, does
+    the supreme Good lack, through which every good is? Therefore, you are just, truthful,
+    blessed, and whatever it is better to be than not to be. For it is better to be just than
+    not just; better to be blessed than not blessed.
+
+   
+
+
+[Appended from the same page:]
+  Source.
+
+  St. Anselm: Proslogium; Monologium: An Appendix In Behalf Of The Fool By Gaunilo;
+    And Cur Deus Homo, Translated From The Latin By Sidney Norton Deane, B. A. With An
+    Introduction, Bibliography, And Reprints Of The Opinions Of Leading Philosophers And
+    Writers On The Ontological Argument, (Chicago, The Open Court Publishing Company,, 1903,
+    reprinted 1926)
+
+  Etext (with permission) from the Christian Classics
+    Ethereal Library, here modernized in some spellings.

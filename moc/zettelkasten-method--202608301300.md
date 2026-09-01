@@ -23,5 +23,7 @@ updated: '2026-09-01'
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
 - [[a-slip-box-surprises-only-after-critical-mass--202609010113]]
 - [[serendipity-in-a-note-web-rides-on-shortcut-links--202609010304]]
+- [[topic-head-filing-optimizes-retrieval-not-connection--202609010604]]
+- [[storing-links-as-objects-makes-association-durable-and-shareable--202609010802]]
 
 See also: [[compound-growth--202608311143]]

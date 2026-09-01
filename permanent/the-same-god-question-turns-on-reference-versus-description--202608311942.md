@@ -19,8 +19,12 @@ links:
   relation: source
 - target_id: shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943
   relation: elaborates
+- target_id: anselms-formula-identifies-god-by-description-alone--202609010840
+  relation: elaborates
+- target_id: anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842
+  relation: elaborates
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One

@@ -1,0 +1,15 @@
+Verbatim capture for reference 202609010833 (ABSTRACT ONLY -- full text not accessible from this environment).
+Tomas Bogardus and Mallorie Urban, "How to Tell Whether Christians and Muslims Worship the Same God",
+Faith and Philosophy 34, no. 2 (2017): 176-200. DOI 10.5840/faithphil201741178.
+Abstract captured verbatim from the publisher's page (Philosophy Documentation Center),
+which lists it as "ONLINE FIRST, published on April 12, 2017":
+https://www.pdcnet.org/faithphil/content/faithphil_2017_0999_4_11_78
+Fetched: 2026-09-01T08:28:00Z to 2026-09-01T08:29:00Z via curl through the session's egress proxy;
+HTML converted to plain text and whitespace collapsed.
+The article is open access at Faith and Philosophy's official repository
+(https://place.asburyseminary.edu/faithandphilosophy/vol34/iss2/3/), but that PDF and the
+PhilPapers/PhilArchive mirrors sit behind a Cloudflare bot challenge this environment cannot pass,
+and the Wayback Machine copy is blocked by the egress policy. Abstract-only grounding, like the
+Tachin and Vroom captures already in this repository.
+--------------------------------------------------------------------------------
+Do Muslims and Christians worship the same God? We answer: it depends. To begin, we clear away some specious arguments surrounding this issue, to make room for the central question: What determines the reference of a name, and under what conditions do names shift reference? We’ll introduce Gareth Evans’s theory of reference, on which a name refers to the dominant source of information in that name’s “dossier,” and we then develop the theory’s notion of dominance. We conclude that whether Muslims’ use of “Allah” co-refers with Christians’ use of “God” depends on how much weight is given to what type of information in the dossiers of these two names, and we offer a two-part test by which the reader can determine whether Muslim and Christian uses of the divine names co-refer: If Christianity were true and Islam false, might “Allah” still refer to God? And: If Islam were true and Christianity false, might “God” still refer to Allah? We explain the implications of your answers to those questions, and we close with a few reflections about what, in addition to reference, might be required for worship, and whether, from a Christian perspective, salvation turns on this issue.

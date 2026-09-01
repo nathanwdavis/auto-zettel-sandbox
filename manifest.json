@@ -39,15 +39,38 @@
     "202609010302": "schmidt-niklas-luhmanns-card-index--202609010302",
     "202609010303": "schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303",
     "202609010304": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
-    "202609010406": "franklin-last-will-and-testament-with-codicil--202609010406",
-    "202609010407": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407",
-    "202609010408": "compounding-is-an-operation-someone-must-keep-performing--202609010408",
+    "202609010507": "franklin-last-will-and-testament-and-codicil--202609010507",
+    "202609010508": "franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508",
+    "202609010509": "long-horizon-compounding-is-bounded-by-institutional-survival--202609010509",
+    "202609010602": "locke-a-new-method-of-making-common-place-books--202609010602",
+    "202609010603": "locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603",
+    "202609010604": "topic-head-filing-optimizes-retrieval-not-connection--202609010604",
+    "202609010702": "malthus-an-essay-on-the-principle-of-population--202609010702",
+    "202609010703": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703",
+    "202609010704": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704",
+    "202609010800": "bush-as-we-may-think--202609010800",
+    "202609010801": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801",
+    "202609010802": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
+    "202609010830": "anselm-proslogium--202609010830",
+    "202609010831": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831",
+    "202609010832": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832",
+    "202609010833": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833",
+    "202609010835": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835",
+    "202609010836": "beckwith-argues-classical-theism-permits-only-one-god--202609010836",
+    "202609010837": "beckwith-locates-co-reference-in-general-revelation--202609010837",
+    "202609010838": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838",
+    "202609010840": "anselms-formula-identifies-god-by-description-alone--202609010840",
+    "202609010841": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841",
+    "202609010842": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
     "202701010011": "reinvested-returns-compound--202701010011",
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
-    "202701010013": "time-horizon-dominates-rate--202701010013"
+    "202701010013": "time-horizon-dominates-rate--202701010013",
+    "202609010406": "franklin-last-will-and-testament-with-codicil--202609010406",
+    "202609010407": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407",
+    "202609010408": "compounding-is-an-operation-someone-must-keep-performing--202609010408"
   },
   "inquiries": [
     {
@@ -63,9 +86,22 @@
       ],
       "status": "answered",
       "updated": "2026-08-31"
+    },
+    {
+      "key": "what-can-we-infer-about-the-same-god-question-from-st--202609010821",
+      "path": "inquiries/what-can-we-infer-about-the-same-god-question-from-st--202609010821.md",
+      "priority": "normal",
+      "question": "What can we infer about the same-God question from St Anselm's ontological argument for the existence of God?",
+      "result_notes": [
+        "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
+        "anselms-formula-identifies-god-by-description-alone--202609010840",
+        "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+      ],
+      "status": "answered",
+      "updated": "2026-09-01"
     }
   ],
-  "note_count": 47,
+  "note_count": 70,
   "notes": [
     {
       "id": "202609010113",
@@ -134,7 +170,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -198,6 +234,95 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202609010835",
+      "key": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        }
+      ],
+      "path": "literature/anselm-argues-from-a-description-even-the-fool-grasps--202609010835.md",
+      "slug": "anselm-argues-from-a-description-even-the-fool-grasps",
+      "tags": [],
+      "title": "Anselm argues from a description even the fool grasps",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/anselm-argues-from-a-description-even-the-fool-grasps--202609010835.md"
+    },
+    {
+      "id": "202609010830",
+      "key": "anselm-proslogium--202609010830",
+      "links": [],
+      "path": "reference/anselm-proslogium--202609010830.md",
+      "slug": "anselm-proslogium",
+      "tags": [],
+      "title": "Anselm of Canterbury, Proslogium (trans. Deane)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/anselm-proslogium--202609010830.md"
+    },
+    {
+      "id": "202609010842",
+      "key": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "source",
+          "target_id": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842.md",
+      "slug": "anselmian-co-reference-holds-only-if-the-description-does-the-referring",
+      "tags": [
+        "contested"
+      ],
+      "title": "Anselmian co-reference holds only if the description does the referring",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842.md"
+    },
+    {
+      "id": "202609010840",
+      "key": "anselms-formula-identifies-god-by-description-alone--202609010840",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "supports",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md",
+      "slug": "anselms-formula-identifies-god-by-description-alone",
+      "tags": [],
+      "title": "Anselm's formula identifies God by description alone",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md"
     },
     {
       "id": "202608311038",
@@ -264,6 +389,126 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202609010836",
+      "key": "beckwith-argues-classical-theism-permits-only-one-god--202609010836",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831"
+        }
+      ],
+      "path": "literature/beckwith-argues-classical-theism-permits-only-one-god--202609010836.md",
+      "slug": "beckwith-argues-classical-theism-permits-only-one-god",
+      "tags": [],
+      "title": "Beckwith argues classical theism permits only one God",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/beckwith-argues-classical-theism-permits-only-one-god--202609010836.md"
+    },
+    {
+      "id": "202609010831",
+      "key": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831",
+      "links": [],
+      "path": "reference/beckwith-do-muslims-and-christians-worship-the-same-god--202609010831.md",
+      "slug": "beckwith-do-muslims-and-christians-worship-the-same-god",
+      "tags": [],
+      "title": "Beckwith, Do Muslims and Christians Worship the Same God?",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/beckwith-do-muslims-and-christians-worship-the-same-god--202609010831.md"
+    },
+    {
+      "id": "202609010837",
+      "key": "beckwith-locates-co-reference-in-general-revelation--202609010837",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832"
+        }
+      ],
+      "path": "literature/beckwith-locates-co-reference-in-general-revelation--202609010837.md",
+      "slug": "beckwith-locates-co-reference-in-general-revelation",
+      "tags": [],
+      "title": "Beckwith locates co-reference in general revelation",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/beckwith-locates-co-reference-in-general-revelation--202609010837.md"
+    },
+    {
+      "id": "202609010832",
+      "key": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832",
+      "links": [],
+      "path": "reference/beckwith-why-muslims-and-christians-worship-the-same-god--202609010832.md",
+      "slug": "beckwith-why-muslims-and-christians-worship-the-same-god",
+      "tags": [],
+      "title": "Beckwith, Why Muslims and Christians Worship the Same God",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/beckwith-why-muslims-and-christians-worship-the-same-god--202609010832.md"
+    },
+    {
+      "id": "202609010838",
+      "key": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833"
+        }
+      ],
+      "path": "literature/bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838.md",
+      "slug": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance",
+      "tags": [],
+      "title": "Bogardus and Urban make co-reference turn on dossier dominance",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838.md"
+    },
+    {
+      "id": "202609010833",
+      "key": "bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833",
+      "links": [],
+      "path": "reference/bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833.md",
+      "slug": "bogardus-urban-how-to-tell-whether-christians-and-muslims",
+      "tags": [],
+      "title": "Bogardus and Urban, How to Tell Whether Christians and Muslims Worship the Same God",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833.md"
+    },
+    {
+      "id": "202609010800",
+      "key": "bush-as-we-may-think--202609010800",
+      "links": [],
+      "path": "reference/bush-as-we-may-think--202609010800.md",
+      "slug": "bush-as-we-may-think",
+      "tags": [],
+      "title": "Bush, As We May Think",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bush-as-we-may-think--202609010800.md"
+    },
+    {
+      "id": "202609010801",
+      "key": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bush-as-we-may-think--202609010800"
+        },
+        {
+          "relation": "supports",
+          "target_id": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802"
+        }
+      ],
+      "path": "literature/bush-makes-the-stored-trail-the-unit-of-selection--202609010801.md",
+      "slug": "bush-makes-the-stored-trail-the-unit-of-selection",
+      "tags": [],
+      "title": "Bush makes the stored trail the unit of selection",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/bush-makes-the-stored-trail-the-unit-of-selection--202609010801.md"
     },
     {
       "id": "202608311143",
@@ -392,6 +637,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407.md"
     },
     {
+      "id": "202609010507",
+      "key": "franklin-last-will-and-testament-and-codicil--202609010507",
+      "links": [],
+      "path": "reference/franklin-last-will-and-testament-and-codicil--202609010507.md",
+      "slug": "franklin-last-will-and-testament-and-codicil",
+      "tags": [],
+      "title": "Franklin, Last Will and Testament, with Codicil (1789)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/franklin-last-will-and-testament-and-codicil--202609010507.md"
+    },
+    {
       "id": "202609010406",
       "key": "franklin-last-will-and-testament-with-codicil--202609010406",
       "links": [],
@@ -402,6 +659,31 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/franklin-last-will-and-testament-with-codicil--202609010406.md"
+    },
+    {
+      "id": "202609010508",
+      "key": "franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "compounding-favors-horizons-longer-than-one-life--202609010205"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-last-will-and-testament-and-codicil--202609010507"
+        },
+        {
+          "relation": "supports",
+          "target_id": "reinvested-returns-compound--202701010011"
+        }
+      ],
+      "path": "literature/franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508.md",
+      "slug": "franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding",
+      "tags": [],
+      "title": "Franklin stakes a two-century bequest on uninterrupted compounding",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508.md"
     },
     {
       "id": "202608311927",
@@ -474,6 +756,72 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/linear-growth-lacks-a-feedback-loop--202701010012.md"
     },
     {
+      "id": "202609010602",
+      "key": "locke-a-new-method-of-making-common-place-books--202609010602",
+      "links": [],
+      "path": "reference/locke-a-new-method-of-making-common-place-books--202609010602.md",
+      "slug": "locke-a-new-method-of-making-common-place-books",
+      "tags": [],
+      "title": "Locke, A New Method of Making Common-Place-Books",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/locke-a-new-method-of-making-common-place-books--202609010602.md"
+    },
+    {
+      "id": "202609010603",
+      "key": "locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "locke-a-new-method-of-making-common-place-books--202609010602"
+        },
+        {
+          "relation": "supports",
+          "target_id": "topic-head-filing-optimizes-retrieval-not-connection--202609010604"
+        }
+      ],
+      "path": "literature/locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603.md",
+      "slug": "locke-files-each-entry-under-a-head-keyed-by-two-letters",
+      "tags": [],
+      "title": "Locke files each entry under a head keyed by two letters",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603.md"
+    },
+    {
+      "id": "202609010509",
+      "key": "long-horizon-compounding-is-bounded-by-institutional-survival--202609010509",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "compounding-favors-horizons-longer-than-one-life--202609010205"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-last-will-and-testament-and-codicil--202609010507"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-stakes-a-two-century-bequest-on-uninterrupted-compounding--202609010508"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/long-horizon-compounding-is-bounded-by-institutional-survival--202609010509.md",
+      "slug": "long-horizon-compounding-is-bounded-by-institutional-survival",
+      "tags": [],
+      "title": "Long-horizon compounding is bounded by institutional survival, not arithmetic",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/long-horizon-compounding-is-bounded-by-institutional-survival--202609010509.md"
+    },
+    {
       "id": "202609010111",
       "key": "luhmann-communicating-with-slip-boxes--202609010111",
       "links": [],
@@ -536,6 +884,82 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-mishneh-torah-yesodei-hatorah--202608311922.md"
     },
     {
+      "id": "202609010702",
+      "key": "malthus-an-essay-on-the-principle-of-population--202609010702",
+      "links": [],
+      "path": "reference/malthus-an-essay-on-the-principle-of-population--202609010702.md",
+      "slug": "malthus-an-essay-on-the-principle-of-population",
+      "tags": [],
+      "title": "Malthus, An Essay on the Principle of Population (1798)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/malthus-an-essay-on-the-principle-of-population--202609010702.md"
+    },
+    {
+      "id": "202609010703",
+      "key": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "malthus-an-essay-on-the-principle-of-population--202609010702"
+        },
+        {
+          "relation": "supports",
+          "target_id": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704"
+        }
+      ],
+      "path": "literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md",
+      "slug": "malthus-pits-a-doubling-population-against-incremental-subsistence",
+      "tags": [],
+      "title": "Malthus pits a doubling population against incremental subsistence",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md"
+    },
+    {
+      "id": "202609010841",
+      "key": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "anselm-proslogium--202609010830"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
+          "relation": "source",
+          "target_id": "beckwith-do-muslims-and-christians-worship-the-same-god--202609010831"
+        },
+        {
+          "relation": "source",
+          "target_id": "beckwith-why-muslims-and-christians-worship-the-same-god--202609010832"
+        },
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate--202608311924"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        }
+      ],
+      "path": "permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md",
+      "slug": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer",
+      "tags": [
+        "contested"
+      ],
+      "title": "Maximal greatness has at most one bearer, so perfect-being worshippers co-refer",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md"
+    },
+    {
       "id": "202608311930",
       "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
       "links": [
@@ -571,6 +995,43 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nae-statement-of-faith--202608311920.md"
+    },
+    {
+      "id": "202609010704",
+      "key": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "long-horizon-compounding-is-bounded-by-institutional-survival--202609010509"
+        },
+        {
+          "relation": "source",
+          "target_id": "malthus-an-essay-on-the-principle-of-population--202609010702"
+        },
+        {
+          "relation": "source",
+          "target_id": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "reinvested-returns-compound--202701010011"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704.md",
+      "slug": "no-linear-supply-can-permanently-outpace-a-compounding-demand",
+      "tags": [],
+      "title": "No linear supply can permanently outpace a compounding demand",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704.md"
     },
     {
       "id": "202608311924",
@@ -775,6 +1236,10 @@
           "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
           "relation": "source",
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
         },
@@ -788,7 +1253,7 @@
       "tags": [],
       "title": "Shared Abrahamic descent does not settle whether the referent is shared",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943.md"
     },
     {
@@ -802,6 +1267,39 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shema-deuteronomy-6-4-5--202608311921.md"
+    },
+    {
+      "id": "202609010802",
+      "key": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bush-as-we-may-think--202609010800"
+        },
+        {
+          "relation": "source",
+          "target_id": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "topic-head-filing-optimizes-retrieval-not-connection--202609010604"
+        }
+      ],
+      "path": "permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md",
+      "slug": "storing-links-as-objects-makes-association-durable-and-shareable",
+      "tags": [],
+      "title": "Storing links as objects makes association durable and shareable",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md"
     },
     {
       "id": "202608311925",
@@ -891,6 +1389,14 @@
       "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
           "relation": "source",
           "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
         },
@@ -918,7 +1424,7 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
@@ -987,6 +1493,39 @@
       "type": "permanent",
       "updated": "2027-01-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/titles-stated-as-claims-force-clarity--202701010003.md"
+    },
+    {
+      "id": "202609010604",
+      "key": "topic-head-filing-optimizes-retrieval-not-connection--202609010604",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "locke-a-new-method-of-making-common-place-books--202609010602"
+        },
+        {
+          "relation": "source",
+          "target_id": "locke-files-each-entry-under-a-head-keyed-by-two-letters--202609010603"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304"
+        }
+      ],
+      "path": "permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md",
+      "slug": "topic-head-filing-optimizes-retrieval-not-connection",
+      "tags": [],
+      "title": "Topic-head filing optimizes retrieval, not connection",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md"
     },
     {
       "id": "202608311926",

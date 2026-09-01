@@ -1,0 +1,40 @@
+Verbatim capture for reference 202609010831 (COMPLETE ARTICLE BODY).
+Francis J. Beckwith, "Do Muslims and Christians Worship the Same God?",
+The Catholic Thing, December 17, 2015.
+https://www.thecatholicthing.org/2015/12/17/do-muslims-and-christians-worship-the-same-god/
+Fetched: 2026-09-01T08:24:00Z to 2026-09-01T08:25:00Z via curl through the session's egress proxy;
+HTML converted to plain text (tags stripped). Article body only; site chrome, editors' fundraising
+note, and comment/subscription sections omitted.
+This capture SUPERSEDES raw/202609010831-beckwith-2015-same-god.txt, which was truncated by an
+extraction error (its end marker matched the first occurrence of "philosophical distinctions",
+early in the article, instead of the last): that file ends at "...we have to make some important
+philosophical distinctions." and omits the argument that follows. The truncated file is retained
+unmodified because raw/ is immutable; nothing should cite it. Both files derive from the same
+2026-09-01 fetch. Truncation found by the critic review of run zettel/run-20260901082152.
+--------------------------------------------------------------------------------
+On December 15, Wheaton College, an Evangelical school in suburban Chicago, placed one of its tenured political science faculty members on administrative leave. The school’s official press release states that the college placed Dr. Larcyia Hawkins on leave “in response to significant questions regarding the theological implications of statements that. . . [she] has made about the relationship of Christianity to Islam.” What were those statements?
+
+According to a report in Christianity Today, Dr. Hawkins drew international attention after she publicly announced on Facebook that she would don the Muslim hijab as part of her Advent worship in order to “stand in religious solidarity with Muslims because they, like [her], a Christian, are people of the book. And as Pope Francis stated last week, we worship the same God.”
+
+In order to make sure that the wearing of the hijab by a non-Muslim woman would not offend Muslims, Hawkins sought advice from the Council on American Islamic Relations (CAIR), which told her that it was permissible. Wheaton is not concerned, however, about her change in wardrobe. As its president, Phillip Ryken, notes, “The College has no stated position on the wearing of headscarves as a gesture of care and concern for those in Muslim or other religious communities that may face discrimination or persecution.”
+
+It is clear then that what concerns the school is Professor Hawkins’ theological statements about Muslims being “people of the book” with whom “we worship the same God,” the latter of which was called “unbelievable” and “really jaw-dropping” by Denny Burk, a well-known Evangelical Biblical studies professor.
+
+Before I go on to show why Dr. Hawkins is right about Muslims and Christians worshiping the same God, and thus should not be dismissed from the Wheaton faculty for implicitly denying the school’s Statement of Faith, it’s important to point out that she’s wrong about Christians and Muslims being “people of the book.”
+
+First, the vast majority of Christians do not think of their faith in that way. Catholics, for example, though believing in the authority of Scripture, do not understand their faith as one founded on a book. As the Catholic Catechism explicitly states, “[T]he Christian faith is not a `religion of the book.’ Christianity is the religion of the ‘Word’ of God, ‘not a written and mute word, but incarnate and living.’ If the Scriptures are not to remain a dead letter, Christ, the eternal Word of the living God, must, through the Holy Spirit, ‘open (our) minds to understand the Scriptures.’”
+
+Dr. Larcyia Hawkins
+Second, in Islamic theology, the phrase “people of the book” refers only to followers of other Abrahamic religions (such as Jews and Christians) and not to Muslims themselves. This is similar to the sort of error made when non-Catholics mistake the Immaculate Conception for the Virgin Birth.
+
+Just as it can be confusing when a religion based on a book (the Qur’an) refers to historical predecessors that rely on a book (The Torah, the Bible) as people of the book, it can be confusing when two terms applied to the relationship between two individuals (Jesus and Mary) each refers to something strangely miraculous about one or the other’s prenatal existence.
+
+Now on to the big question: Do Muslims and Christians worship the same God? To answer it well, we have to make some important philosophical distinctions. First, what does it mean for two terms to refer to the same thing? Take, for example, the names “Muhammed Ali” and “Cassius Clay.” Although they are different terms, they refer to the same thing, for each has identical properties. Whatever is true of Ali is true of Clay and vice versa. (By the way, you can do the same with “Robert Zimmerman” and “Bob Dylan,” or “Norma Jean Baker” and “Marilyn Monroe”).
+
+So the fact that Christians may call God “Yahweh” and Muslims call God “Allah” makes no difference if both “Gods” have identical properties. In fact, what is known as classical theism was embraced by the greatest thinkers of the Abrahamic religions: St. Thomas Aquinas (Christian), Moses Maimonides (Jewish), and Avicenna (Muslim). Because, according to the classical theist, there can only in principle be one God, Christians, Jews, and Muslims who embrace classical theism must be worshipping the same God. It simply cannot be otherwise.
+
+But doesn’t Christianity affirm that God is a Trinity while Muslims deny it? Wouldn’t this mean that they indeed worship different “Gods”? Not necessarily. Consider this example. Imagine that Fred believes that the evidence is convincing that Thomas Jefferson (TJ) sired several children with his slave Sally Hemings (SH), and thus Fred believes that TJ has the property of “being a father to several of SHs children.” On the other hand, suppose Bob does not find the evidence convincing and thus believes that TJ does not have the property of “being a father to several of SHs children.”
+
+Would it follow from this that Fred and Bob do not believe that the Third President of the United States was the same man? Of course not. In the same way, Abraham and Moses did not believe that God is a Trinity, but St. Augustine, St. Thomas Aquinas, and Billy Graham do. Does that mean that Augustine, Aquinas, and Graham do not worship the same God as Abraham and Moses? Again, of course not. The fact that one may have incomplete knowledge or hold a false belief about another person – whether human or divine – does not mean that someone who has better or truer knowledge about that person is not thinking about the same person.
+
+For these reasons, it would a real injustice if Wheaton College were to terminate the employment of Professor Hawkins simply because those evaluating her case cannot make these subtle, though important, philosophical distinctions.

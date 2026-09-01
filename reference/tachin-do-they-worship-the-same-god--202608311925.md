@@ -41,7 +41,7 @@ verification:
   source: https://doi.org/10.35285/ucc3.1.2017.art11
   verified: true
   identifier_check: confirmed
-  date: '2026-08-31T22:27:48Z'
+  date: '2026-09-01T08:32:11Z'
 raw_capture: raw/202608311912-tachin-2017-abstract.txt
 links: []
 created: '2026-08-31'
