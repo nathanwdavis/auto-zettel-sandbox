@@ -10,7 +10,7 @@ tags:
 - moc
 links: []
 created: '2026-08-30'
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 # Zettelkasten method
 
@@ -21,5 +21,6 @@ updated: '2026-08-31'
 - [[titles-stated-as-claims-force-clarity--202701010003]]
 - [[a-trusted-structure-frees-attention-from-willpower--202608311142]]
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
+- [[a-slip-box-surprises-only-after-critical-mass--202609010113]]
 
 See also: [[compound-growth--202608311143]]

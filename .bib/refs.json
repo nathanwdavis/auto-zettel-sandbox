@@ -190,5 +190,49 @@
     },
     "title": "Do Christians And Muslims Worship The Same God?",
     "type": "article-newspaper"
+  },
+  {
+    "ISBN": "3531115332",
+    "URL": "https://luhmann.surge.sh/communicating-with-slip-boxes",
+    "author": [
+      {
+        "family": "Luhmann",
+        "given": "Niklas"
+      }
+    ],
+    "container-title": "Öffentliche Meinung und sozialer Wandel",
+    "editor": [
+      {
+        "family": "Baier",
+        "given": "Horst"
+      },
+      {
+        "family": "Kepplinger",
+        "given": "Hans Mathias"
+      },
+      {
+        "family": "Reumann",
+        "given": "Kurt"
+      }
+    ],
+    "id": "202609010111",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "original-title": "Kommunikation mit Zettelkästen: Ein Erfahrungsbericht",
+    "publisher": "Westdeutscher Verlag",
+    "publisher-place": "Opladen",
+    "title": "Communicating with Slip Boxes: An Empirical Account",
+    "translator": [
+      {
+        "family": "Kuehn",
+        "given": "Manfred"
+      }
+    ],
+    "type": "chapter"
   }
 ]
