@@ -10,7 +10,7 @@ tags:
 - moc
 links: []
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 # Compound growth
 
@@ -20,5 +20,6 @@ updated: '2026-08-31'
 - [[linear-growth-lacks-a-feedback-loop--202701010012]]
 - [[time-horizon-dominates-rate--202701010013]]
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
+- [[compounding-favors-horizons-longer-than-one-life--202609010205]]
 
 See also: [[zettelkasten-method--202608301300]]

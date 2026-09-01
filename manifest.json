@@ -33,6 +33,9 @@
     "202609010111": "luhmann-communicating-with-slip-boxes--202609010111",
     "202609010112": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112",
     "202609010113": "a-slip-box-surprises-only-after-critical-mass--202609010113",
+    "202609010203": "price-an-appeal-to-the-public-on-the-national-debt--202609010203",
+    "202609010204": "price-contrasts-compound-and-simple-interest-with-one-penny--202609010204",
+    "202609010205": "compounding-favors-horizons-longer-than-one-life--202609010205",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -56,7 +59,7 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 38,
+  "note_count": 41,
   "notes": [
     {
       "id": "202609010113",
@@ -267,8 +270,41 @@
       ],
       "title": "Compound growth",
       "type": "moc",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/compound-growth--202608311143.md"
+    },
+    {
+      "id": "202609010205",
+      "key": "compounding-favors-horizons-longer-than-one-life--202609010205",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
+          "relation": "source",
+          "target_id": "price-an-appeal-to-the-public-on-the-national-debt--202609010203"
+        },
+        {
+          "relation": "source",
+          "target_id": "price-contrasts-compound-and-simple-interest-with-one-penny--202609010204"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "reinvested-returns-compound--202701010011"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "time-horizon-dominates-rate--202701010013"
+        }
+      ],
+      "path": "permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md",
+      "slug": "compounding-favors-horizons-longer-than-one-life",
+      "tags": [],
+      "title": "Compounding favors horizons longer than one life",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
     },
     {
       "id": "202608311940",
@@ -513,6 +549,43 @@
       "type": "permanent",
       "updated": "2027-01-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
+    },
+    {
+      "id": "202609010203",
+      "key": "price-an-appeal-to-the-public-on-the-national-debt--202609010203",
+      "links": [],
+      "path": "reference/price-an-appeal-to-the-public-on-the-national-debt--202609010203.md",
+      "slug": "price-an-appeal-to-the-public-on-the-national-debt",
+      "tags": [],
+      "title": "Price, An Appeal to the Public, on the Subject of the National Debt",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/price-an-appeal-to-the-public-on-the-national-debt--202609010203.md"
+    },
+    {
+      "id": "202609010204",
+      "key": "price-contrasts-compound-and-simple-interest-with-one-penny--202609010204",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
+        },
+        {
+          "relation": "source",
+          "target_id": "price-an-appeal-to-the-public-on-the-national-debt--202609010203"
+        },
+        {
+          "relation": "supports",
+          "target_id": "reinvested-returns-compound--202701010011"
+        }
+      ],
+      "path": "literature/price-contrasts-compound-and-simple-interest-with-one-penny--202609010204.md",
+      "slug": "price-contrasts-compound-and-simple-interest-with-one-penny",
+      "tags": [],
+      "title": "Price contrasts compound and simple interest with one penny",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/price-contrasts-compound-and-simple-interest-with-one-penny--202609010204.md"
     },
     {
       "id": "202608311923",
