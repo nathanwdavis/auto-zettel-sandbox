@@ -18,6 +18,8 @@ links:
   relation: elaborates
 - target_id: a-trusted-structure-frees-attention-from-willpower--202608311142
   relation: analogous
+- target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
@@ -49,4 +51,11 @@ century-scale returns inherit the mortality statistics of institutions.
 is this note's inference.) It is the dark twin of
 [[a-trusted-structure-frees-attention-from-willpower--202608311142]]: there
 a durable structure replaces willpower; here the structure's durability is
-itself the load-bearing, failure-prone part.
+itself the load-bearing, failure-prone part. The same operational reading
+carries across the analogy in
+[[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]:
+on the note-taking side too, the loop compounds only while someone keeps
+performing the reinvestment step — Franklin's codicil makes that step
+concrete by naming its operators (borrowers repaying into the fund,
+volunteer managers relending) rather than assuming reinvestment happens by
+itself.

@@ -760,6 +760,10 @@
           "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
+        {
           "relation": "elaborates",
           "target_id": "compounding-favors-horizons-longer-than-one-life--202609010205"
         },
