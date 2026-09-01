@@ -30,10 +30,10 @@ chicago_bib: Beckwith, Francis J. “Do Muslims and Christians Worship the Same 
 citation_renderer: pandoc
 verification:
   method: raw-capture
-  source: raw/202609010831-beckwith-2015-same-god.txt
+  source: raw/202609010843-beckwith-2015-same-god-full.txt
   verified: true
-  date: '2026-09-01T08:32:05Z'
-raw_capture: raw/202609010831-beckwith-2015-same-god.txt
+  date: '2026-09-01T08:45:12Z'
+raw_capture: raw/202609010843-beckwith-2015-same-god-full.txt
 links: []
 created: '2026-09-01'
 updated: '2026-09-01'
@@ -46,4 +46,10 @@ outlet rather than a journal -- hence `reputable-secondary`, not
 Hawkins, and cited in this repository as the clearest short statement of the
 classical-theist co-reference argument: only one God is in principle possible,
 so classical theists of different traditions cannot be worshipping different
-ones. Full article body captured verbatim.
+ones. Full article body captured verbatim in
+raw/202609010843-beckwith-2015-same-god-full.txt. An earlier capture from the
+same fetch (raw/202609010831-beckwith-2015-same-god.txt) is truncated a
+quarter of the way in by an extraction error -- its end marker matched the
+first occurrence of "philosophical distinctions" rather than the last -- and
+was superseded before merge after the critic review caught it; it is retained
+unmodified because raw/ is immutable, and nothing cites it.

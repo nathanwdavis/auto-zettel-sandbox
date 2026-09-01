@@ -15,15 +15,19 @@ links:
   relation: source
 - target_id: beckwith-why-muslims-and-christians-worship-the-same-god--202609010832
   relation: source
+- target_id: nostra-aetate--202608311924
+  relation: source
 - target_id: anselms-formula-identifies-god-by-description-alone--202609010840
+  relation: elaborates
+- target_id: anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842
   relation: elaborates
 - target_id: shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943
   relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
-"That than which nothing greater can be conceived" cannot have two bearers:
-superlative greatness, like any superlative, admits at most one. Anselm draws
+Anselm's "a being than which nothing greater can be conceived" cannot have
+two bearers: superlative greatness, like any superlative, admits at most one. Anselm draws
 the uniqueness himself -- "whatever else there is, except you alone, can be
 conceived not to exist," and the being of the formula is "the highest of all
 beings," which "alone exists through itself, and creates all other things from
@@ -34,14 +38,22 @@ question. It supplies not a genealogy and not a doctrinal comparison but a
 *cardinality constraint*: if each of two worshippers directs worship at
 whatever satisfies the maximal description, there is no second candidate for
 either of them to have hit instead. Beckwith runs exactly this inference for
-classical theism, whose Anselmian God was shared by Aquinas, Maimonides, and
-Avicenna: "there can only in principle be one God," so classical theists of
-the three traditions "must be worshipping the same God. It simply cannot be
-otherwise" (see [[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]]).
+classical theism -- a tradition he says was shared by Aquinas, Maimonides, and
+Avicenna, and whose God answers to Anselm's formula (that last identification
+is this note's synthesis, not Beckwith's; he never names Anselm): "there can
+only in principle be one God," so classical theists of the three traditions
+"must be worshipping the same God. It simply cannot be otherwise" (see
+[[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]]).
 His Superman analogy makes the same point through essence: Lois and Lana love
 one man under incompatible descriptions because "there is only one being that
 is essentially Kal-El," and likewise "there is only one being that is
 essentially God" (see [[beckwith-why-muslims-and-christians-worship-the-same-god--202609010832]]).
+
+The route has ecclesial standing on the Catholic side: the affirmation
+Beckwith invokes is Nostra Aetate's, that Muslims "adore the one God, living
+and subsisting in Himself... the Creator of heaven and earth" (see
+[[nostra-aetate--202608311924]]) -- an affirmation of a shared object of
+worship made while expressly recording the doctrinal difference.
 
 On this route, doctrinal disagreement -- even doctrinal error -- cannot split
 the referent, because splitting requires a second referent and the description

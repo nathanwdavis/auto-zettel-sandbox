@@ -55,3 +55,10 @@ the chapter that derives the divine attributes from the same formula (V) --
 and the page's own source note. Gaunilo's reply and Anselm's response are on a
 separate Sourcebook page and were not captured; nothing here cites them.
 `original-date` 1078 marks composition; the `issued` date is the translation's.
+
+Known etext defect (critic finding, 2026-09-01): in ch. 2's final sentence the
+Sourcebook transcription reads "Hence, there is doubt that there exists a
+being..." where Deane's printed text reads "there is no doubt" -- the argument's
+own conclusion makes the dropped "no" obvious. The capture preserves the defect
+verbatim because raw/ records what was actually fetched; notes should not quote
+that sentence without flagging it.

@@ -22,7 +22,7 @@ retrieved in this environment (see the reference note), so this records the
 paper's stated framework and conclusion, not its internal argumentation.
 
 To "Do Muslims and Christians worship the same God?" the authors answer: *it
-depends*. They set aside what they call specious arguments on both sides to
+depends*. They set aside "some specious arguments surrounding this issue" to
 isolate the question that actually decides the matter: what determines the
 reference of a name, and when do names shift reference? Their tool is Gareth
 Evans's theory of reference, on which a name refers to the *dominant source of

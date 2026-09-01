@@ -22,7 +22,7 @@ Hawkins (while correcting her "people of the book" claim, which he notes is a
 Qur'anic category for Jews and Christians, not a Christian self-description).
 
 Beckwith's positive argument runs through reference. Different terms can pick
-out one thing -- "Muhammad Ali" and "Cassius Clay" -- so "Yahweh" and "Allah"
+out one thing -- "Muhammed Ali" [sic] and "Cassius Clay" -- so "Yahweh" and "Allah"
 naming different Gods does not follow from the names differing; it would have
 to follow from the properties differing. He then plays the classical-theist
 card: Aquinas, Maimonides, and Avicenna -- one thinker per Abrahamic tradition

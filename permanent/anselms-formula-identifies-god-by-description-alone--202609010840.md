@@ -12,13 +12,17 @@ links:
   relation: source
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: elaborates
+- target_id: maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841
+  relation: supports
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
 The ontological argument's subject is introduced by a bare definite
 description -- "a being than which nothing greater can be conceived" -- and by
-nothing else. No proper name, no lineage, no scriptural deed, no creed appears
-anywhere in the proof: everything Anselm concludes, from existence (ch. 2)
+nothing else. Proper names, lineage, scriptural deeds, and creeds do no work
+in the inference (the treatise is framed as a prayer to "Lord" and cites
+Psalm 14, but neither enters a premise): everything Anselm concludes, from
+existence (ch. 2)
 through necessary existence (ch. 3) to the attribute list of ch. 5 ("whatever
 it is better to be than not to be"), is squeezed out of that one phrase (see
 [[anselm-proslogium--202609010830]]).
@@ -35,7 +39,7 @@ way of aiming at God that different traditions -- and even the fool -- can
 share without sharing any doctrine beyond the formula itself.
 
 The argument's own limit is visible in Anselm's text. The proof concludes
-about "that than which nothing greater can be conceived"; only then does
+about "that, than which nothing greater can be conceived"; only then does
 Anselm add, in prayer, "and this being you are, O Lord, our God" (ch. 3).
 Identifying the being reached by description with the God a community
 actually worships is a further step the argument does not perform -- and that

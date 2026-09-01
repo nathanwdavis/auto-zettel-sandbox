@@ -36,7 +36,7 @@ the disagreement lives entirely in the rival special revelations.
 
 The reference theory is made explicit by the Superman case: Lois Lane loves
 Kal-El and thinks him non-human; Lana Lang loves Clark Kent and thinks him
-human; they love the same man, "because there is only one being that is
+human; they love the same man, because "there is only one being that is
 essentially Kal-El." Likewise "there is only one being that is essentially
 God." Reference rides on the essence being unique, not on the lovers'
 descriptions being correct.

@@ -14,8 +14,10 @@ links:
   relation: source
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: supports
+- target_id: maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841
+  relation: shared-concept
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-01'
 ---
 The premise that the three traditions descend from a common Abrahamic root is
 accepted on both sides of the same-God dispute, and both sides reason from it to
