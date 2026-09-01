@@ -89,3 +89,17 @@ kabbalist cited here draws it; whether the sefirot are God's essence or His
 instruments is an open dispute the captured passage does not settle; and the
 term *Ein Sof* does not appear in the captured folios at all -- it is the
 tradition's designation for the One they address, not their word.
+
+Added 2026-09-01 (~18:30 cycle), a further limit on point 4 above. Sefer
+Yetzirah, named in the framing paragraph as part of the esoteric corpus, has
+since been captured (chapter 1 complete,
+[[sefer-yetzirah--202609011825]]), and it does not support the intra-divine
+reading of the sefirot that point 4 relies on: its ten run outward from God's
+spirit through the elements to the six directions, under a Lord who "has no
+second" and is not one of them (see
+[[the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840]]).
+Point 4 stands as a claim about *Patach Eliyahu*, which is the passage it was
+built from; it may not be extended backwards to the oldest text of the
+vocabulary. The answer to this inquiry is otherwise unchanged, and the new note
+is deliberately not added to `result_notes`: it concerns the history of a term,
+not how Kabbalists answer the same-God question.

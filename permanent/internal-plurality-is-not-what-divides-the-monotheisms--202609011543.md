@@ -23,6 +23,8 @@ links:
   relation: shared-concept
 - target_id: christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811
   relation: elaborates
+- target_id: the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840
+  relation: elaborates
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
@@ -48,6 +50,14 @@ essentialist sense, which is why it is tagged contested; on the
 instrumentalist reading the contrast with Maimonides below narrows sharply,
 though it does not vanish, since even instruments are ten and named (see
 [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]]).
+A further limit, established after this note was written: the reading above
+holds for *Patach Eliyahu*, but not for the source *Patach Eliyahu* cites. In
+*Sefer Yetzirah*, where the word *sefirot* first appears, the ten are a series
+running outward from God's spirit through the elements to the six directions,
+governed by a Lord who "has no second" and is not one of them (see
+[[the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840]]).
+The intra-divine sense this note relies on is therefore a later development of
+the vocabulary, and nothing here may borrow antiquity from the age of the word.
 
 Set that beside the Maimonidean formulation the earlier note used as the Jewish
 side -- a oneness "unified in a manner which [surpasses] any unity that is

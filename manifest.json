@@ -111,6 +111,9 @@
     "202609011801": "pico-conclusiones-sive-theses-dccccc--202609011801",
     "202609011806": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806",
     "202609011811": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811",
+    "202609011825": "sefer-yetzirah--202609011825",
+    "202609011830": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830",
+    "202609011840": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -186,7 +189,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 116,
+  "note_count": 119,
   "notes": [
     {
       "id": "202609010113",
@@ -1152,6 +1155,10 @@
           "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840"
+        },
+        {
           "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
         }
@@ -1970,6 +1977,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303.md"
     },
     {
+      "id": "202609011825",
+      "key": "sefer-yetzirah--202609011825",
+      "links": [],
+      "path": "reference/sefer-yetzirah--202609011825.md",
+      "slug": "sefer-yetzirah",
+      "tags": [],
+      "title": "Sefer Yetzirah",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sefer-yetzirah--202609011825.md"
+    },
+    {
+      "id": "202609011830",
+      "key": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah--202609011825"
+        }
+      ],
+      "path": "literature/sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830.md",
+      "slug": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions",
+      "tags": [],
+      "title": "Sefer Yetzirah counts ten from the spirit out to the six directions",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830.md"
+    },
+    {
       "id": "202609010304",
       "key": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
       "links": [
@@ -2528,6 +2564,31 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
+    },
+    {
+      "id": "202609011840",
+      "key": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah--202609011825"
+        },
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830"
+        }
+      ],
+      "path": "permanent/the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840.md",
+      "slug": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god",
+      "tags": [],
+      "title": "The sefirot vocabulary does not begin as articulation within God",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840.md"
     },
     {
       "id": "202608311931",
