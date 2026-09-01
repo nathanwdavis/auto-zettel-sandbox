@@ -2,17 +2,21 @@ Verbatim capture of Chapter XIII, "Franklin's Last Will and Testament"
 (the complete will of July 17, 1788, and the codicil of June 23, 1789),
 from The Writings of Benjamin Franklin, collected and edited by Albert
 Henry Smyth, Volume X (1789-1790) (New York: The Macmillan Company, 1907),
-pp. 493-509. Internet Archive OCR plain text (the *_djvu.txt file) of the
+pp. 493-510. Internet Archive OCR plain text (the *_djvu.txt file) of the
 University of Toronto library scan.
 Fetched 2026-09-01T04:00:00Z to 2026-09-01T04:01:00Z from
 https://archive.org/download/writingsofbenjam10franuoft/writingsofbenjam10franuoft_djvu.txt
 (item https://archive.org/details/writingsofbenjam10franuoft, HTTP 200,
 no access restriction; the edition is public domain, published 1907).
 This capture is the chapter's contiguous region of that OCR file (the
-lines from the "CHAPTER XIII" heading through the codicil's witness
-signatures), extracted verbatim with no character altered; the running
-heads and page numbers the OCR interleaves are left in place, which is
-what lets quotations cite Smyth's page numbers.
+lines from the "CHAPTER XIII" heading through the codicil's third and
+last witness signature, "ABRAHAM SHOEMAKER."), extracted verbatim with no
+character altered; the running heads and page numbers the OCR interleaves
+are left in place, which is what lets quotations cite Smyth's page
+numbers. (This file was re-extracted before merge: the first extraction
+in this PR ended two lines early, cutting the second and third witness
+names, and its header misstated the chapter's end page as 509 where the
+OCR's own running head shows the text continuing onto p. 510.)
 
 OCR caveat, recorded honestly: this is machine OCR of a 1907 letterpress
 book, with scattered character noise (e.g. "hi" for "in", "lif e" for
@@ -676,5 +680,9 @@ named  Benjamin  Franklin  to  be  a  codicil  to  his  last  will  and
 testament,  in  the  presence  of  us. 
 
 FRANCIS  BAILEY, 
+
+THOMAS  LANG, 
+
+ABRAHAM  SHOEMAKER. 
 
 --- END VERBATIM ---

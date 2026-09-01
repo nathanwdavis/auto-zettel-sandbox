@@ -21,7 +21,7 @@ csl_json:
     given: Albert Henry
   container-title: The Writings of Benjamin Franklin
   volume: '10'
-  page: 493-509
+  page: 493-510
   publisher: The Macmillan Company
   publisher-place: New York
   URL: https://archive.org/details/writingsofbenjam10franuoft
@@ -47,15 +47,17 @@ updated: '2026-09-01'
 ---
 Bibliographic record. Benjamin Franklin's last will and testament (dated
 July 17, 1788) together with the codicil of June 23, 1789, as printed in
-the standard Smyth edition of Franklin's writings, vol. 10, pp. 493–509 —
-the codicil (pp. 501–509) is the primary text establishing the two
+the standard Smyth edition of Franklin's writings, vol. 10, pp. 493–510 —
+the codicil (pp. 501–510) is the primary text establishing the two
 200-year compound-interest loan funds for Boston and Philadelphia, and the
 second primary source behind this base's "compound growth" topic after
 Price 1772.
 
 The raw capture is the contiguous Chapter XIII region of the Internet
 Archive OCR plain text of the University of Toronto scan of Smyth vol. 10
-(public domain; no access restriction), with running heads and page
+(public domain; no access restriction; re-extracted before merge after the
+first extraction cut the last two witness names and misstated the end page
+as 509), with running heads and page
 numbers left in place so quotations can cite Smyth's pagination. The OCR
 carries scattered character noise ("hi" for "in", "WELL" for "WILL" in
 the chapter heading); quotations in notes built on this reference

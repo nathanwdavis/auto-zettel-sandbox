@@ -8,7 +8,7 @@ type: literature
 title: Franklin directs two cities to compound a bequest for two centuries
 tags: []
 reference: franklin-last-will-and-testament-with-codicil--202609010406
-locator: pp. 501-509 (codicil; quotations pp. 503-505)
+locator: pp. 501-510 (codicil; quotations pp. 503-505)
 links:
 - target_id: franklin-last-will-and-testament-with-codicil--202609010406
   relation: source
@@ -19,7 +19,7 @@ links:
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
-Own-words summary of the codicil (pp. 501–509) in
+Own-words summary of the codicil (pp. 501–510) in
 [[franklin-last-will-and-testament-with-codicil--202609010406]]: Franklin
 leaves £1,000 sterling each to Boston and Philadelphia, not as gifts to
 spend but as loan funds to be compounded for two hundred years. The money

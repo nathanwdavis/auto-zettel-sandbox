@@ -245,3 +245,9 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T04:07:59Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; not re-attempted ~1h after the previous cycle's re-confirmation); no inquiry status changes (none open)
 - `2026-09-01T04:07:59Z` remote_cycle: finish claude/affectionate-mendel-onxyo9 (skill-rev=effad78; session-designated branch used instead of a zettel/run-* branch per this session's branch requirement; lock released after push)
 - `2026-09-01T04:07:59Z` remote_cycle: PR for claude/affectionate-mendel-onxyo9 must be opened by the session (GitHub CLI not installed in this container)
+- `2026-09-01T04:13:20Z` verify_refs: 14/14 verified
+- `2026-09-01T04:13:21Z` build_manifest: 47 notes indexed
+- `2026-09-01T04:13:22Z` lint_citations: PASS
+- `2026-09-01T04:13:22Z` lint_links: PASS
+- `2026-09-01T04:13:22Z` lint_skills: PASS
+- `2026-09-01T04:13:34Z` step 11 (review fix, PR #12): Copilot review found two real defects in this cycle's capture, both verified against the IA OCR before fixing: (a) the extraction ended two lines early, cutting the codicil's second and third witness names (THOMAS LANG, ABRAHAM SHOEMAKER) while labeled "complete"; (b) the chapter's end page is 510, not 509 — the OCR's own running head ("510 THE WRITINGS...") falls inside the codicil text. Re-extracted the capture through the last witness signature (the capture had not merged, so this corrects this PR's own unmerged extraction, not standing raw/ evidence — the re-extraction is disclosed in the capture header itself), and corrected the page range to 493-510 (codicil 501-510) in the capture header, the reference note (csl_json page + prose), and the literature note locator/prose. Quotation pages (503-505) unaffected; all 7 quotes re-verified against the re-extracted capture. Gates re-run clean: verify_refs 14/14, build_manifest 47 (--check clean), lint_citations/lint_links/lint_skills PASS.
