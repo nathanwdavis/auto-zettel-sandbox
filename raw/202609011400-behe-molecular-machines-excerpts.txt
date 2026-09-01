@@ -1,0 +1,303 @@
+Bounded excerpt capture of Michael J. Behe, "Molecular Machines:
+Experimental Support for the Design Inference," published on the
+Discovery Institute's own website (Behe is a senior fellow of its
+Center for Science and Culture), dated March 1, 1998, at
+https://www.discovery.org/a/54/
+(fetched 2026-09-01T13:59Z, minute precision, HTTP 200; HTML page,
+151,259 bytes). The page's closing Editor's Note (captured in BLOCK 5)
+describes the article as an overview of the key ideas of Behe's book
+Darwin's Black Box: The Biochemical Challenge to Evolution (Free
+Press, 1996). The article is an in-copyright essay served free by the
+organization the author is a fellow of (the Craig/Reasonable Faith
+precedent for publisher-served open text), so per this repository's
+excerpt policy the capture is BOUNDED EXCERPTS, not the full article:
+five blocks, 26 of the article's 52 body paragraphs (roughly half the
+text), covering the spans the notes quote from. The skipped sections
+("A Series of Eyes", "The Calvin and Hobbes Approach", "Proteins",
+"The Eyesight of Man", "To Explain Life", "A Non-Mechanical Example",
+and "The Study of 'Molecular Evolution'") and the skipped paragraphs
+within captured sections are NOT captured; notes must not quote them,
+and cite them only as attributed summary.
+
+Text was extracted from the page's article-body HTML container
+(<center class="article-center">): paragraph and heading elements
+only, HTML tags stripped, entities decoded, whitespace within
+paragraphs collapsed to single spaces. The page's <figure> elements
+are NOT captured: each is either an illustration (e.g. the Figure 1
+mousetrap and Figure 2 cilium drawings, referenced parenthetically in
+the captured prose) or a layout pull-quote repeating -- in two cases
+condensing -- sentences of the body text; the pull-quotes are
+typography, not additional prose, and notes must not cite them.
+Character normalizations applied throughout and recorded here:
+typographic (curly) quotes to straight quotes, em and en dashes to
+"--", typographic ellipses to "...", and non-breaking spaces to
+plain spaces. Nothing else was altered. Note one artifact preserved
+as published: the page renders some hyphenated asides with a bare
+hyphen (e.g. "data itself-not from sacred books",
+"a supernatural event-the creation"); these are the page's own
+characters, not a capture error. Superscript note markers, if any,
+did not occur in the captured spans. Single-witness capture (the
+publishing organization's own page); quotations must match this
+capture verbatim.
+
+Elisions WITHIN a block are marked with a bracketed line
+"[ ... paragraphs omitted ... ]" and described in the block preamble;
+an unmarked paragraph boundary means the paragraphs are contiguous in
+the original.
+
+========================================================================
+BLOCK 1 -- head matter and the opening section, "Darwinism's
+Prosperity": its first paragraph and its last (thesis) paragraph. One
+elision: three paragraphs (evolution displacing the rival creation
+theory; a successful theory is not necessarily correct; the
+Newton-to-Einstein example) between the two.
+
+Molecular Machines
+Experimental Support for the Design Inference
+Michael J. Behe
+March 1, 1998
+
+Darwinism's Prosperity
+
+Within a short time after Charles Darwin published The Origin of Species
+the explanatory power of the theory of evolution was recognized by the
+great majority of biologists. The hypothesis readily resolved the
+problems of homologous resemblance, rudimentary organs, species
+abundance, extinction, and biogeography. The rival theory of the time,
+which posited creation of species by a supernatural being, appeared to
+most reasonable minds to be much less plausible, since it would have a
+putative Creator attending to details that seemed to be beneath His
+dignity.
+
+[ ... paragraphs omitted ... ]
+
+Similarly, Darwin's theory of evolution prospered by explaining much of
+the data of his time and the first half of the 20th century, but my
+article will show that Darwinism has been unable to account for
+phenomena uncovered by the efforts of modern biochemistry during the
+second half of this century. I will do this by emphasizing the fact that
+life at its most fundamental level is irreducibly complex and that such
+complexity is incompatible with undirected evolution.
+
+========================================================================
+BLOCK 2 -- the "Irreducible Complexity" section, complete (six
+paragraphs): Darwin's Origin criterion, the definition of irreducible
+complexity, the natural-selection consequence, and the mousetrap
+example.
+
+Irreducible Complexity
+
+In The Origin of Species Darwin stated: "If it could be demonstrated
+that any complex organ existed which could not possibly have been formed
+by numerous, successive, slight modifications, my theory would
+absolutely break down."
+
+A system which meets Darwin's criterion is one which exhibits
+irreducible complexity. By irreducible complexity I mean a single system
+which is composed of several interacting parts that contribute to the
+basic function, and where the removal of any one of the parts causes the
+system to effectively cease functioning. An irreducibly complex system
+cannot be produced directly by slight, successive modifications of a
+precursor system, since any precursor to an irreducibly complex system
+is by definition nonfunctional.
+
+Since natural selection requires a function to select, an irreducibly
+complex biological system, if there is such a thing, would have to arise
+as an integrated unit for natural selection to have anything to act on.
+It is almost universally conceded that such a sudden event would be
+irreconcilable with the gradualism Darwin envisioned. At this point,
+however, "irreducibly complex" is just a term, whose power resides
+mostly in its definition. We must now ask if any real thing is in fact
+irreducibly complex, and, if so, then are any irreducibly complex things
+also biological systems?
+
+Consider the humble mousetrap (Figure 1). The mousetraps that my family
+uses in our home to deal with unwelcome rodents consist of a number of
+parts. There are: 1) a flat wooden platform to act as a base; 2) a metal
+hammer, which does the actual job of crushing the little mouse; 3) a
+wire spring with extended ends to press against the platform and the
+hammer when the trap is charged; 4) a sensitive catch which releases
+when slight pressure is applied, and 5) a metal bar which holds the
+hammer back when the trap is charged and connects to the catch. There
+are also assorted staples and screws to hold the system together.
+
+If any one of the components of the mousetrap (the base, hammer, spring,
+catch, or holding bar) is removed, then the trap does not function. In
+other words, the simple little mousetrap has no ability to trap a mouse
+until several separate parts are all assembled.
+
+Because the mousetrap is necessarily composed of several parts, it is
+irreducibly complex. Thus, irreducibly complex systems exist.
+
+========================================================================
+BLOCK 3 -- from the "Molecular Machines" section: the opening
+question and the four concluding paragraphs that review the cilium
+and draw the argument's inference. One elision: four paragraphs
+(proteins as machine components; what cilia are; axoneme anatomy;
+the dynein walking mechanism) between the opening and the review.
+
+Molecular Machines
+
+Now, are any biochemical systems irreducibly complex? Yes, it turns out
+that many are.
+
+[ ... paragraphs omitted ... ]
+
+Now, let us sit back, review the workings of the cilium, and consider
+what it implies. Cilia are composed of at least a half dozen proteins:
+alpha-tubulin, beta-tubulin, dynein, nexin, spoke protein, and a central
+bridge protein. These combine to perform one task, ciliary motion, and
+all of these proteins must be present for the cilium to function. If the
+tubulins are absent, then there are no filaments to slide; if the dynein
+is missing, then the cilium remains rigid and motionless; if nexin or
+the other connecting proteins are missing, then the axoneme falls apart
+when the filaments slide.
+
+What we see in the cilium, then, is not just profound complexity, but it
+is also irreducible complexity on the molecular scale. Recall that by
+"irreducible complexity" we mean an apparatus that requires several
+distinct components for the whole to work. My mousetrap must have a
+base, hammer, spring, catch, and holding bar, all working together, in
+order to function. Similarly, the cilium, as it is constituted, must
+have the sliding filaments, connecting proteins, and motor proteins for
+function to occur. In the absence of any one of those components, the
+apparatus is useless.
+
+The components of cilia are single molecules. This means that there are
+no more black boxes to invoke; the complexity of the cilium is final,
+fundamental. And just as scientists, when they began to learn the
+complexities of the cell, realized how silly it was to think that life
+arose spontaneously in a single step or a few steps from ocean mud, so
+too we now realize that the complex cilium can not be reached in a
+single step or a few steps.
+
+But since the complexity of the cilium is irreducible, then it can not
+have functional precursors. Since the irreducibly complex cilium can not
+have functional precursors it can not be produced by natural selection,
+which requires a continuum of function to work. Natural selection is
+powerless when there is no function to select. We can go further and say
+that, if the cilium can not be produced by natural selection, then the
+cilium was designed.
+
+========================================================================
+BLOCK 4 -- from the "Detection of Design" section: the elephant
+paragraph, the design-from-data paragraph, the definition of design,
+and the two closing caution paragraphs. Two elisions: the opening
+detective parable before the captured span, and the two-paragraph
+jungle vine-trap example within it.
+
+Detection of Design
+
+[ ... paragraphs omitted ... ]
+
+There is an elephant in the roomful of scientists who are trying to
+explain the development of life. The elephant is labeled "intelligent
+design." To a person who does not feel obliged to restrict his search to
+unintelligent causes, the straightforward conclusion is that many
+biochemical systems were designed. They were designed not by the laws of
+nature, not by chance and necessity. Rather, they were planned. The
+designer knew what the systems would look like when they were completed;
+the designer took steps to bring the systems about. Life on earth at its
+most fundamental level, in its most critical components, is the product
+of intelligent activity.
+
+The conclusion of intelligent design flows naturally from the data
+itself-not from sacred books or sectarian beliefs. Inferring that
+biochemical systems were designed by an intelligent agent is a humdrum
+process that requires no new principles of logic or science. It comes
+simply from the hard work that biochemistry has done over the past forty
+years, combined with consideration of the way in which we reach
+conclusions of design every day.
+
+What is "design"? Design is simply the purposeful arrangement of parts.
+The scientific question is how we detect design. This can be done in
+various ways, but design can most easily be inferred for mechanical
+objects.
+
+[ ... paragraphs omitted ... ]
+
+Intelligent design is a good explanation for a number of biochemical
+systems, but I should insert a word of caution. Intelligent design
+theory has to be seen in context: it does not try to explain everything.
+We live in a complex world where lots of different things can happen.
+When deciding how various rocks came to be shaped the way they are a
+geologist might consider a whole range of factors: rain, wind, the
+movement of glaciers, the activity of moss and lichens, volcanic action,
+nuclear explosions, asteroid impact, or the hand of a sculptor. The
+shape of one rock might have been determined primarily by one mechanism,
+the shape of another rock by another mechanism.
+
+Similarly, evolutionary biologists have recognized that a number of
+factors might have affected the development of life: common descent,
+natural selection, migration, population size, founder effects (effects
+that may be due to the limited number of organisms that begin a new
+species), genetic drift (spread of "neutral," nonselective mutations),
+gene flow (the incorporation of genes into a population from a separate
+population), linkage (occurrence of two genes on the same chromosome),
+and much more. The fact that some biochemical systems were designed by
+an intelligent agent does not mean that any of the other factors are not
+operative, common, or important.
+
+========================================================================
+BLOCK 5 -- the "Conclusion" section, complete (seven paragraphs
+of body text plus the page's closing Editor's Note; the third
+paragraph is Behe's block quotation of A. S. Eddington).
+
+Conclusion
+
+It is often said that science must avoid any conclusions which smack of
+the supernatural. But this seems to me to be both bad logic and bad
+science. Science is not a game in which arbitrary rules are used to
+decide what explanations are to be permitted. Rather, it is an effort to
+make true statements about physical reality. It was only about sixty
+years ago that the expansion of the universe was first observed. This
+fact immediately suggested a singular event-that at some time in the
+distant past the universe began expanding from an extremely small size.
+
+To many people this inference was loaded with overtones of a
+supernatural event-the creation, the beginning of the universe. The
+prominent physicist A.S. Eddington probably spoke for many physicists in
+voicing his disgust with such a notion:
+
+Philosophically, the notion of an abrupt beginning to the present order
+of Nature is repugnant to me, as I think it must be to most; and even
+those who would welcome a proof of the intervention of a Creator will
+probably consider that a single winding-up at some remote epoch is not
+really the kind of relation between God and his world that brings
+satisfaction to the mind.
+
+Nonetheless, the big bang hypothesis was embraced by physics and over
+the years has proven to be a very fruitful paradigm. The point here is
+that physics followed the data where it seemed to lead, even though some
+thought the model gave aid and comfort to religion. In the present day,
+as biochemistry multiplies examples of fantastically complex molecular
+systems, systems which discourage even an attempt to explain how they
+may have arisen, we should take a lesson from physics. The conclusion of
+design flows naturally from the data; we should not shrink from it; we
+should embrace it and build on it.
+
+In concluding, it is important to realize that we are not inferring
+design from what we do not know, but from what we do know. We are not
+inferring design to account for a black box, but to account for an open
+box. A man from a primitive culture who sees an automobile might guess
+that it was powered by the wind or by an antelope hidden under the car,
+but when he opens up the hood and sees the engine he immediately
+realizes that it was designed. In the same way biochemistry has opened
+up the cell to examine what makes it run and we see that it, too, was
+designed.
+
+It was a shock to the people of the 19th century when they discovered,
+from observations science had made, that many features of the biological
+world could be ascribed to the elegant principle of natural selection.
+It is a shock to us in the twentieth century to discover, from
+observations science has made, that the fundamental mechanisms of life
+cannot be ascribed to natural selection, and therefore were designed.
+But we must deal with our shock as best we can and go on. The theory of
+undirected evolution is already dead, but the work of science continues.
+
+Editor's Note: This article presents an overview of the key ideas in
+biochemist Michael Behe's book Darwin's Black Box: The Biochemical
+Challenge to Evolution. A more detailed discussion of these ideas can be
+found in the book itself. Those interested in the debate over
+intelligent design in biology should also check out Michael Behe's
+extensive responses to various critics.

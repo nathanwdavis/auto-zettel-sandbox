@@ -167,6 +167,20 @@ network), library/institutional access, or a purchased copy. Left open.
 - **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** maintenance-run (2026-09-01 cycle, inquiry 202609010930)
+- **2026-09-01 ~14:00 cycle progress:** the Behe-specific irreducible-complexity
+  capture flagged by the ~13:00 cycle is done — Behe's own overview essay
+  "Molecular Machines: Experimental Support for the Design Inference"
+  (discovery.org/a/54, dated 1998-03-01; the page's Editor's Note describes it
+  as an overview of *Darwin's Black Box*) captured as bounded excerpts to
+  raw/202609011400, with [[behe-molecular-machines--202609011400]],
+  [[behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405]],
+  and
+  [[the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410]];
+  inquiry 202609010930's rank-3 caveat updated in place. Still open: Plantinga
+  ("Two Dozen (or so) Theistic Arguments" or *Where the Conflict Really Lies*),
+  McGrath (*A Fine-Tuned Universe*), and Collins (Blackwell Companion chapter),
+  all likely paywalled; and the BioLogos web critiques remain 429-blocked from
+  remote sessions. Entry stays in-progress.
 - **2026-09-01 ~13:00 cycle progress:** the remote-capturable candidate is done —
   the BioLogos-versus-Discovery-Institute exchange is captured as the published
   PSCF pair (both PDFs served openly by the ASA itself): Venema, "Seeking a

@@ -90,6 +90,9 @@
     "202609011315": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315",
     "202609011316": "meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316",
     "202609011320": "the-information-design-argument-turns-on-where-selection-begins--202609011320",
+    "202609011400": "behe-molecular-machines--202609011400",
+    "202609011405": "behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405",
+    "202609011410": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -151,7 +154,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 95,
+  "note_count": 98,
   "notes": [
     {
       "id": "202609010113",
@@ -554,6 +557,39 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/beckwith-why-muslims-and-christians-worship-the-same-god--202609010832.md"
+    },
+    {
+      "id": "202609011405",
+      "key": "behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "behe-molecular-machines--202609011400"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410"
+        }
+      ],
+      "path": "literature/behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405.md",
+      "slug": "behe-grounds-the-design-inference-in-irreducible-molecular-complexity",
+      "tags": [],
+      "title": "Behe grounds the design inference in irreducible molecular complexity",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405.md"
+    },
+    {
+      "id": "202609011400",
+      "key": "behe-molecular-machines--202609011400",
+      "links": [],
+      "path": "reference/behe-molecular-machines--202609011400.md",
+      "slug": "behe-molecular-machines",
+      "tags": [],
+      "title": "Behe, Molecular Machines",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/behe-molecular-machines--202609011400.md"
     },
     {
       "id": "202609010838",
@@ -1843,6 +1879,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-information-design-argument-turns-on-where-selection-begins--202609011320"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410"
         }
       ],
       "path": "permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md",
@@ -1921,6 +1961,10 @@
         },
         {
           "relation": "shared-concept",
+          "target_id": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410"
+        },
+        {
+          "relation": "shared-concept",
           "target_id": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315"
         },
         {
@@ -1935,6 +1979,31 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-information-design-argument-turns-on-where-selection-begins--202609011320.md"
+    },
+    {
+      "id": "202609011410",
+      "key": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "behe-molecular-machines--202609011400"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-information-design-argument-turns-on-where-selection-begins--202609011320"
+        }
+      ],
+      "path": "permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md",
+      "slug": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function",
+      "tags": [],
+      "title": "The irreducible-complexity argument denies selection a continuum of function",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md"
     },
     {
       "id": "202608311933",

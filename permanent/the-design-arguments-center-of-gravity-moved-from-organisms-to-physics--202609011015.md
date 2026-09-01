@@ -22,6 +22,8 @@ links:
   relation: shared-concept
 - target_id: the-information-design-argument-turns-on-where-selection-begins--202609011320
   relation: shared-concept
+- target_id: the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

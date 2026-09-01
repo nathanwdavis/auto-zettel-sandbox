@@ -68,6 +68,20 @@ end).
    scientific grounds inside the ASA's own journal. A Behe-specific
    irreducible-complexity capture is still lacking -- the BioLogos side's
    web articles on it are bot-blocked (HTTP 429) from remote sessions.)*
+   *(2026-09-01 ~14:00 cycle: the Behe-specific capture is now done --
+   his own overview essay "Molecular Machines: Experimental Support for
+   the Design Inference" (discovery.org, 1998; the page's Editor's Note
+   describes it as an overview of Darwin's Black Box) is captured to
+   raw/202609011400, with [[behe-molecular-machines--202609011400]],
+   [[behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405]],
+   and
+   [[the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410]],
+   which documents the argument's logical shape -- selection needs a
+   continuum of function; irreducible complexity is defined to break it
+   -- and locates it against ranks 1 and 3's positions on where
+   selection operates. This rank's proponent side is now grounded in a
+   primary capture rather than the SEP's summary alone; the BioLogos
+   web critiques of it remain uncapturable from remote sessions.)*
 
 4. **Order/lawfulness arguments (the Fifth Way lineage).** From the
    ordered regularity of nature as such rather than any particular
