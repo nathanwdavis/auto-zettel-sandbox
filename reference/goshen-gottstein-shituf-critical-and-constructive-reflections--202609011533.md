@@ -33,10 +33,11 @@ chicago_bib: 'Goshen-Gottstein, Alon. “Shituf: Critical and Constructive Refle
   Macmillan US, 2016. https://doi.org/10.1007/978-1-137-45528-4_9.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609011533-goshen-gottstein-shituf-abstract.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1007/978-1-137-45528-4_9
   verified: true
-  date: '2026-09-01T18:05:43Z'
+  identifier_check: confirmed
+  date: '2026-09-01T15:34:30Z'
 raw_capture: raw/202609011533-goshen-gottstein-shituf-abstract.txt
 links: []
 created: '2026-09-01'

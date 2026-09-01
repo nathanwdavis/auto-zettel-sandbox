@@ -320,3 +320,41 @@ now cited only via the SEP.
   this cycle: "Sefer Yetzirah" and "Sefer Yetzirah Gra Version" both resolve),
   so that capture is straightforwardly available by the same route the Ramban
   and Tiqqunei ha-Zohar captures used.
+
+## 2026-09-01 — Tooling: `verify_refs.py --offline` silently downgrades verification provenance on notes it did not need to touch
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-01 ~18:00 cycle, critic finding)
+
+A cycle that runs `verify_refs.py --repo . --offline` rewrites the
+`verification:` block of EVERY reference note, not just the ones whose state
+changed. Where a previous live run had recorded
+`method: raw-capture+openlibrary`, the Open Library or Crossref URL in
+`source:`, and `identifier_check: confirmed`, the offline pass replaces all
+three with a bare `method: raw-capture` whose `source:` is the local capture
+path, and stamps a fresh `date:`. The identifier check is not re-run and not
+found wanting — its record is simply overwritten with the weaker fact that a
+raw capture exists.
+
+Hit this cycle on 8 notes (ahrens 202608301000, bogardus-urban 202609010833,
+goshen-gottstein 202609011533, housel 202608311036, luhmann 202609010111,
+plantinga 202609011500, tachin 202608311925, vroom 202608311926), all restored
+from the pre-cycle commit before the branch was finished; nothing reached main
+in the downgraded state. It is invisible to the gates, because a bare
+raw-capture verification passes lint_citations perfectly well — which is what
+makes it worth fixing rather than remembering.
+
+Two things a future run should weigh. (1) The obvious workaround is to pass
+`--mailto` and let the run verify live, but that trades a provenance
+regression for a network dependency and puts a contact address into every
+scheduled cycle; it does not fix the underlying behaviour. (2) The behaviour
+looks wrong rather than merely inconvenient: an offline pass should either
+leave an existing stronger verification record alone, or downgrade it
+explicitly (e.g. keeping the prior method and marking it `stale`), so that
+"verified offline today" stays distinguishable from "never checked against an
+authority". Note that CI runs the same command with `--offline --no-render` on
+a throwaway checkout, so CI never commits the downgrade — only a session does.
+This is a `zettel-bootstrap` skill-repo issue, not a content-repo one, so it
+needs a change in the skill repo (`scripts/verify_refs.py`) and is out of
+scope for a content-repo maintenance cycle to fix itself.
