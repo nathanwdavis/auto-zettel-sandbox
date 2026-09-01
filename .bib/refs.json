@@ -283,5 +283,42 @@
     "title": "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
     "type": "article-journal",
     "volume": "12"
+  },
+  {
+    "URL": "https://archive.org/details/writingsofbenjam10franuoft",
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "Benjamin"
+      }
+    ],
+    "container-title": "The Writings of Benjamin Franklin",
+    "editor": [
+      {
+        "family": "Smyth",
+        "given": "Albert Henry"
+      }
+    ],
+    "id": "202609010507",
+    "issued": {
+      "date-parts": [
+        [
+          1907
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1789
+        ]
+      ]
+    },
+    "page": "493-510",
+    "publisher": "The Macmillan Company",
+    "publisher-place": "New York",
+    "title": "Last Will and Testament, with Codicil",
+    "type": "chapter",
+    "volume": "10"
   }
 ]
