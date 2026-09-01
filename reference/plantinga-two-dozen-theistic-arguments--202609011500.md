@@ -39,11 +39,10 @@ chicago_bib: 'Plantinga, Alvin. “Appendix: Two Dozen (or so) Theistic Argument
   2007. https://andrewmbailey.com/ap/TwoDozen.pdf.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+openlibrary
-  source: https://openlibrary.org/isbn/9780521855310
+  method: raw-capture
+  source: raw/202609011500-plantinga-two-dozen-excerpts.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-01T15:12:35Z'
+  date: '2026-09-01T15:17:01Z'
 raw_capture: raw/202609011500-plantinga-two-dozen-excerpts.txt
 links: []
 created: '2026-09-01'
