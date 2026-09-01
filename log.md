@@ -359,3 +359,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T09:09:58Z` step 10: INBOX — Bogardus & Urban entry updated with the browser-attempt findings and stays open (not obtainable from remote-session environments; needs laptop path or library access); Ahrens and Hick/Volf entries unchanged (blocked on access, dead ends re-confirmed by earlier cycles today, not re-attempted); no inquiry status changes (none open)
 - `2026-09-01T09:10:30Z` remote_cycle: lock released
 - `2026-09-01T09:10:30Z` remote_cycle: finish claude/affectionate-mendel-9zjdwd (session-designated branch used instead of a zettel/run-* branch per this session's branch requirement; lock released before commit so the release is recorded in this cycle's own PR; PR to be opened via GitHub MCP — gh unavailable in this container)
+- `2026-09-01T09:12:02Z` build_manifest: 70 notes indexed
+- `2026-09-01T09:12:02Z` verify_refs: 22/22 verified
+- `2026-09-01T09:12:05Z` lint_citations: PASS
+- `2026-09-01T09:12:05Z` lint_links: PASS
+- `2026-09-01T09:12:19Z` ci-fix: gates check failed on PR #18 at "Manifest is current" — this container's cached skill copy is stale (7181e41) while CI runs main (effad78), and the effad78 generator emits additional manifest fields. Reproduced with a fresh clone of the skill repo at main, rebuilt manifest.json with the effad78 generator, re-ran ALL gates at that version (verify_refs 22/22 offline, lint_citations PASS, lint_links PASS, build_manifest --check clean; verify churn on pre-existing references reverted as before), pushing the rebuilt manifest
