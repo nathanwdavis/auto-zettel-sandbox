@@ -951,5 +951,24 @@
     "publisher-place": "Rome",
     "title": "Conclusiones sive Theses DCCCC publice disputandae",
     "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Sefer_Yetzirah.1",
+    "author": [
+      {
+        "literal": "Anonymous"
+      }
+    ],
+    "id": "202609011825",
+    "issued": {
+      "date-parts": [
+        [
+          1884
+        ]
+      ]
+    },
+    "publisher-place": "Warsaw",
+    "title": "Sefer Yetzirah",
+    "type": "book"
   }
 ]

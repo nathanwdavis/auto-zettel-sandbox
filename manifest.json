@@ -111,6 +111,9 @@
     "202609011801": "pico-conclusiones-sive-theses-dccccc--202609011801",
     "202609011806": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806",
     "202609011811": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811",
+    "202609011825": "sefer-yetzirah--202609011825",
+    "202609011830": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830",
+    "202609011840": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -118,75 +121,7 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
-  "inquiries": [
-    {
-      "key": "how-do-kabbalists-answer-the-same-god-question--202609011526",
-      "path": "inquiries/how-do-kabbalists-answer-the-same-god-question--202609011526.md",
-      "priority": "high",
-      "question": "How do Kabbalists answer the same-God question?",
-      "result_notes": [
-        "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
-        "kabbalah-separates-acknowledging-god-from-addressing-him--202609011540",
-        "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542",
-        "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
-      "path": "inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md",
-      "priority": "high",
-      "question": "How does mainstream evangelical Christian theology answer the question 'Who is God?', and how does that compare to other Abrahamic religions? Do they all actually share the same God, or different Gods with some common attributes?",
-      "result_notes": [
-        "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
-        "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
-        "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
-        "the-same-god-question-turns-on-reference-versus-description--202608311942"
-      ],
-      "status": "answered",
-      "updated": "2026-08-31"
-    },
-    {
-      "key": "what-are-the-top-5-teleological-arguments-for-an--202609010930",
-      "path": "inquiries/what-are-the-top-5-teleological-arguments-for-an--202609010930.md",
-      "priority": "normal",
-      "question": "What are the top 5 teleological arguments for an evangelical view on the existence of God?",
-      "result_notes": [
-        "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
-        "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "what-can-we-infer-about-the-same-god-question-from-st--202609010821",
-      "path": "inquiries/what-can-we-infer-about-the-same-god-question-from-st--202609010821.md",
-      "priority": "normal",
-      "question": "What can we infer about the same-God question from St Anselm's ontological argument for the existence of God?",
-      "result_notes": [
-        "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
-        "anselms-formula-identifies-god-by-description-alone--202609010840",
-        "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030",
-      "path": "inquiries/what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030.md",
-      "priority": "normal",
-      "question": "What does the doctrine of the knowability of God have in common with the various teleological arguments for the existence of God?",
-      "result_notes": [
-        "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041",
-        "knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040",
-        "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    }
-  ],
-  "note_count": 116,
+  "note_count": 119,
   "notes": [
     {
       "id": "202609010113",
@@ -1152,6 +1087,10 @@
           "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840"
+        },
+        {
           "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
         }
@@ -1970,6 +1909,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303.md"
     },
     {
+      "id": "202609011825",
+      "key": "sefer-yetzirah--202609011825",
+      "links": [],
+      "path": "reference/sefer-yetzirah--202609011825.md",
+      "slug": "sefer-yetzirah",
+      "tags": [],
+      "title": "Sefer Yetzirah",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sefer-yetzirah--202609011825.md"
+    },
+    {
+      "id": "202609011830",
+      "key": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah--202609011825"
+        }
+      ],
+      "path": "literature/sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830.md",
+      "slug": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions",
+      "tags": [],
+      "title": "Sefer Yetzirah counts ten from the spirit out to the six directions",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830.md"
+    },
+    {
       "id": "202609010304",
       "key": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
       "links": [
@@ -2528,6 +2496,31 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
+    },
+    {
+      "id": "202609011840",
+      "key": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah--202609011825"
+        },
+        {
+          "relation": "source",
+          "target_id": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830"
+        }
+      ],
+      "path": "permanent/the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840.md",
+      "slug": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god",
+      "tags": [],
+      "title": "The sefirot vocabulary does not begin as articulation within God",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840.md"
     },
     {
       "id": "202608311931",

@@ -321,6 +321,48 @@ now cited only via the SEP.
   so that capture is straightforwardly available by the same route the Ramban
   and Tiqqunei ha-Zohar captures used.
 
+- **2026-09-01 ~18:30 cycle progress (lead 4, the Sefer Yetzirah half done):**
+  taken up on the previous cycle's finding. Chapter 1 -- the whole of the book's
+  treatment of the ten *Sefirot Belimah* -- is captured complete to
+  raw/202609011825-sefer-yetzirah-chapter-1.txt from four witnesses: two Hebrew
+  digitizations collated verse by verse (Sefaria's Warsaw 1884 text from the NLI
+  copy, and Hebrew Wikisource `ספר יצירה א` rev. 2870897, probably a different
+  recension) and two independent English renderings (the Sefaria Community
+  Translation, CC0, and Isidor Kalisch's published translation of 1877, public
+  domain, Internet Archive `1877-kalisch-sepher-yezirah`). With
+  [[sefer-yetzirah--202609011825]],
+  [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]],
+  and [[the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840]].
+
+  **What it changed, which is not what was expected.** The capture does not
+  corroborate this base's sefirot notes; it limits them. *Sefer Yetzirah*
+  enumerates its ten as a descent -- God's spirit, then wind, water, fire, then
+  the six directions -- under a Lord who "has no second" and who governs them
+  "from His Holy Abode", that is, who is not one of them. Nine of the ten are
+  elements, formed things, or dimensions of space. So the intra-divine reading
+  of the sefirot that
+  [[internal-plurality-is-not-what-divides-the-monotheisms--202609011543]] rests
+  on is a later development of the vocabulary and cannot borrow the age of the
+  word; 202609011543 now carries that limit in its closing paragraph. The
+  translator of the version quoted says the same thing independently, refusing
+  to gloss this book's ten by the Bahir's and the Zohar's.
+
+  **Still open on lead (4):** the main body of the Zohar, and *Sefer ha-Bahir*,
+  which this cycle's permanent note names as the obvious next capture since it
+  is the missing link between Sefer Yetzirah's cosmogonic ten and the zoharic
+  intra-divine ten. Neither was attempted. Leads (2) and (3) still not attempted.
+
+  **One concrete finding for whoever takes lead (1)** (Reuchlin, *De Arte
+  Cabalistica*, 1517): the Emory/Pitts route the last cycle suggested was not
+  needed to establish availability -- the Internet Archive serves two Wellcome
+  Collection scans of the 1517 Latin edition (identifiers `b13135004_0001` and
+  `b13135004_0002`, 188 and 180 pages), each with a `_djvu.txt` OCR layer, and
+  the 1983 English translation (`onartofkabbalahd0000reuc`) is there too but in
+  copyright. Availability is therefore not the obstacle; OCR quality of 1517
+  Latin type is, and a run taking this on should budget for collating the two
+  scans against each other before quoting a single line, exactly as the Pico
+  capture did with its two digitizations.
+
 ## 2026-09-01 — Tooling: `verify_refs.py --offline` silently downgrades verification provenance on notes it did not need to touch
 
 - **status:** new        <!-- new | in-progress | answered | archived -->

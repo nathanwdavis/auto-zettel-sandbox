@@ -1,0 +1,492 @@
+Verbatim capture of Sefer Yetzirah, chapter 1 (complete), for reference 202609011825.
+
+WHAT THIS IS. Sefer Yetzirah ('Book of Formation'). Two descriptions of its standing
+are commonly made and this file does not adopt either as fact: Sefaria's catalogue
+entry for the book (read from its index API at fetch time, and not reproduced in
+full below) calls it "the earliest extant book of Jewish esoteric" speculation,
+and the E1
+translator's note in Section F says it "is the first place in all of Jewish literature
+where to word sefirot appears". The second of those is the one this repository leans
+on, and it is quoted below in the translator's own words rather than asserted here.
+Chapter 1 is the whole of the book's treatment of the ten Sefirot Belimah;
+chapters 2-6, which concern the twenty-two letters, are NOT captured here and nothing
+in this repository may be claimed about them from this file. Date and provenance are
+contested and no note here rests on a date: the work is variously placed between the
+2nd and the 6th-9th centuries CE, and the earliest manuscripts are 10th-century.
+
+WITNESSES. Three independent digitizations were fetched, two Hebrew and one English,
+plus a second English rendering, so that no phrase this repository quotes rests on a
+single transcription:
+
+  W1  Hebrew. 'Sefer Yetzirah, Warsaw 1884', digitized by Sefaria from the National
+      Library of Israel copy (NNL_ALEPH001310968); Sefaria marks it Public Domain.
+      https://www.sefaria.org/api/v3/texts/Sefer_Yetzirah.1?version=hebrew
+  W2  Hebrew. Hebrew Wikisource, page 'ספר יצירה א', revision 2870897 of
+      2024-08-04T13:58:25Z, a different recension from W1 (the Wikisource project page
+      lists the Warsaw 1884 'nusach ha-Ari' separately as another version).
+      https://he.wikisource.org/wiki/ספר_יצירה_א
+  E1  English. 'Sefaria Community Translation', licensed CC0, served with W1. This is
+      an open community translation, not a named published one; it is heavily
+      annotated by its translator, and its annotations are opinionated scholarship
+      rather than source text. Its footnotes are removed from Section C below and one
+      of them is reproduced separately, marked as the translator's, in Section F.
+  E2  English. Isidor Kalisch, trans., *Sepher Yezirah: A Book on Creation; or, The
+      Jewish Metaphysics of Remote Antiquity* (New York: L. H. Frank, 1877), a
+      published translation in the public domain, scanned at the Internet Archive
+      (identifier 1877-kalisch-sepher-yezirah, OCR text layer; the scan carries a
+      hebrewbooks.org stamp on its title page, so the chain is 1877 print -> that
+      digitization -> the Internet Archive item fetched here). A named published
+      translation made 149 years before this capture and wholly independent of E1,
+      used here only as a corroborating witness to sense.
+
+Fetched 2026-09-01, 18:25-18:35 UTC, over the session's egress proxy (curl and
+urllib; every request HTTP 200 except where noted in the run log).
+
+EDITORIAL MARKS. Section headers, the [1:N] verse markers, and this header are file
+structure, not source text. In Section C the E1 translator's SMALL-CAPS convention for
+'SEFIROT BELIMAH' and the em-dashes are the translation's own. In Section D the OCR
+text of E2 is reproduced as the scanner produced it, including its errors ('threo',
+'tho', 'De established', '808100'); whole lines that were more than 30% Hebrew
+characters (the facing Hebrew plates, which OCR badly) and bare running-head lines
+were dropped, and that filter is imperfect - residual garbled Hebrew-plate OCR remains
+in the section and is not source English. Nothing was corrected, reordered, or
+harmonised anywhere in this file.
+
+================================================================================
+SECTION A. Hebrew, witness W1 (Sefaria / Warsaw 1884).
+================================================================================
+
+[1:1] בשלשים ושתים נתיבות פליאות חכמה חקק יה יהוה צבאות אלהי ישראל אלהים חיים ומלך עולם אל שדי רחום וחנון רם ונשא שוכן עד מרום וקדוש שמו וברא את עולמו בשלשה ספרים בספר וספר וספור:
+
+[1:2] עשר ספירות בלי מה ועשרים ושתים אותיות יסוד שלש אמות ושבע כפולות ושתים עשרה פשוטות:
+
+[1:3] עשר ספירות בלימה מספר עשר אצבעות חמש כנגד חמש וברית יחיד מכוונת באמצע כמלת הלשון וכמילת מעור:
+
+[1:4] עשר ספירות בלימה עשר ולא תשע, עשר ולא אחת עשרה, הבן בחכמה וחכם בבינה, בחון בהם וחקור מהם והעמד דבר על בוריו והשב יוצר על מכונו:
+
+[1:5] עשר ספירות בלי מה מדתן עשר שאין להם סוף עומק ראשית ועומק אחרית עומק טוב ועומק רע עומק רום ועומק תחת עומק מזרח ועומק מערב עומק צפון ועומק דרום אדון יחיד אל מלך נאמן מושל בכולם ממעון קדשו ועד עדי עד:
+
+[1:6] עשר ספירות בלי מה צפייתן כמראה הבזק ותכליתן אין להן קץ ודברו בהן ברצוא ושוב ולמאמרו כסופה ירדופו ולפני כסאו הם משתחוים:
+
+[1:7] עשר ספירות בלי מה נעוץ סופן בתחלתן ותחלתן בסופן כשלהבת קשורה בגחלת שאדון יחיד ואין לו שני ולפני אחד מה אתה סופר:
+
+[1:8] עשר ספירות בלימה בלום פיך מלדבר ולבך מלהרהר ואם רץ לבך שוב למקום שלכך נאמר והחיות רצוא ושוב. ועל דבר זה נכרת ברית:
+
+[1:9] עשר ספירות בלימה, אחת רוח אלהים חיים ברוך ומבורך שמו של חי העולמים קול ורוח ודבור וזהו רוח הקדש:
+
+[1:10] שתים רוח מרוח חקק וחצב בה עשרים ושתים אותיות יסוד שלש אמות ושבע כפולות ושתים עשרה פשוטות ורוח אחת מהן:
+
+[1:11] שלש מים מרוח חקק וחצב בהן תהו ובהו רפש וטיט חקקן כמין ערוגה הציבן כמין חומה סככם כמין מעזיבה:
+
+[1:12] ארבע אש ממים חקק וחצב בה כסא הכבוד שרפים ואופנים וחיות הקודש ומלאכי השרת ומשלשתן יסד מעונו שנאמר עושה מלאכיו רוחות משרתיו אש לוהט:
+
+[1:13] (חמש שלש אותיות מן הפשוטות חתם רום ברר שלש וקבען בשמו הגדול יה"ו. וחתם בהם שש קצוות) [הנוסחא הנכונה: בירר ג' אותיות מן הפשוטות בסוד ג' אמות אמ"ש וקבען בשמו הגדול וחתם בהם ו' קצוות, חמש חתם רום] ופנה למעלה וחתמו ביה"ו. שש חתם תחת ופנה למטה וחתמו ביו"ה. שבע חתם מזרח ופנה לפניו וחתמו בהי"ו. שמנה חתם מערב ופנה לאחריו וחתמו בהו"י. תשע חתם דרום ופנה לימינו וחתמו בוי"ה. עשר חתם צפון ופנה לשמאלו וחתמו בוה"י:
+
+[1:14] אלו עשר ספירות בלימה אחת רוח אלהים חיים ורוח מרוח ומים מרוח ואש ממים ורום מעלה ותחת מזרח ומערב וצפון ודרום [בדפוס מנטובה (שכ"ב) הגי' כמ"ש באוצר ה' וברמ"ב]:
+
+================================================================================
+SECTION B. Hebrew, witness W2 (Hebrew Wikisource rev. 2870897).
+================================================================================
+
+[1:1] בשלשים ושתים נתיבות פליאות חכמה חקק י"ה יהו"ה צבאות אלקי ישראל אלקים חיים ומלך עולם אל שדי רחום וחנון רם ונשא שוכן עד וקדוש שמו, וברא את עולמו בשלשה ספרים, בספר וספר וספור:
+
+[1:2] עשר ספירות בלי מה ועשרים ושתים אותיות יסוד, שלש אמות ושבע כפולות ושתים עשרה פשוטות:
+
+[1:3] עשר ספירות בלימה במספר עשר אצבעות, חמש כנגד חמש, וברית יחיד מכוונת באמצע כמלת הלשון וכמילת המעור:
+
+[1:4] עשר ספירות בלימה עשר ולא תשע, עשר ולא אחת עשרה, הבן בחכמה וחכם בבינה, בחון בהם וחקור מהם והעמד דבר על בוריו והושב יוצר על מכונו:
+
+[1:5] עשר ספירות בלימה, מדתן עשר שאין להם סוף, עומק ראשית ועומק אחרית, עומק טוב ועומק רע, עומק רום ועומק תחת, עומק מזרח ועומק מערב, עומק צפון ועומק דרום. אדון יחיד אל מלך נאמן מושל בכולם, ממעון קדשו ועד עדי עד:
+
+[1:6] עשר ספירות בלימה, צפייתן כמראה הבזק ותכליתן אין להם קץ, דברו בהן ברצוא ושוב, ולמאמרו כסופה ירדופו, ולפני כסאו הם משתחוים:
+
+[1:7] עשר ספירות בלימה, נעוץ סופן בתחילתן ותחילתן בסופן כשלהבת קשורה בגחלת. שאדון יחיד ואין לו שני. ולפני אחד מה אתה סופר:
+
+[1:8] עשר ספירות בלימה, בלום פיך מלדבר ולבך מלהרהר, ואם רץ לבך שוב למקום, שלכך נאמר והחיות רצוא ושוב. ועל דבר זה נכרת ברית:
+
+[1:9] עשר ספירות בלימה, אחת רוח אלהים חיים ברוך ומבורך שמו של חי העולמים, קול ורוח ודבור וזהו רוח הקדש:
+
+[1:10] שתים רוח מרוח, חקק וחצב בה עשרים ושתים אותיות יסוד, שלש אמות ושבע כפולות ושתים עשרה פשוטות, ורוח אחת מהן:
+
+[1:11] שלש מים מרוח, חקק וחצב בהן תהו ובהו רפש וטיט, חקקן כמין ערוגה, חצבן כמין חומה, סיבבם כמין מעזיבה. ויצק מים עליהן ונעשו עפר שנאמר כי לשלג יאמר הוי ארץ:
+
+[1:12] ארבע אש ממים, חקק וחצב בה כסא הכבוד, אופנים ושרפים וחיות הקודש ומלאכי השרת, ומשלשתן יסד מעונו, שנאמר עושה מלאכיו רוחות משרתיו אש לוהט:
+
+[1:13] חמש חתם רום, בירר שלש אותיות מן הפשוטות, וקבען בשמו הגדול יה"ו וחתם בהם שש קצוות, ופנה למעלה וחתמו ב-יה"ו, שש חתם תחת ופנה למטה וחתם ב-יו"ה, שבע חתם מזרח ופנה לפניו וחתמו ב-הי"ו, שמנה חתם מערב ופנה לאחוריו ב-הו"י, תשע חתם דרום ופנה לימינו וחתמו ב-וי"ה, עשר חתם צפון ופנה לשמאלו וחתמו ב-וה"י:
+
+[1:14] אלו עשר ספירות בלימה, אחת רוח אלקים חיים, שתים רוח מרוח, שלש מים מרוח, ארבע אש ממים, רום ותחת מזרח ומערב וצפון ודרום:
+
+================================================================================
+SECTION C. English, witness E1 (Sefaria Community Translation, CC0), footnotes removed.
+================================================================================
+
+[1:1] YAH, ADONAI of Hosts, God of Israel, Living God and King of the World, EL SHADDAI, Merciful and Gracious, High and Exalted, Dwelling Ever Above, Holy Is His Name—He carved and created His World in Thirty-Two Wondrous Ways of Wisdom , with three linguistic tools: with Counting, with Writing, and with Speech.
+
+[1:2] Ten SEFIROT BELIMAH and Twenty-Two Letters of Foundation: Three Mothers, Seven Pairs, and Twelve Simple Letters.
+
+[1:3] Ten SEFIROT BELIMAH—The count of ten fingers, five against five, with the Covenant of the Unique One established in the center, like a word of the tongue and circumcision of the genitals.
+
+[1:4] Ten SEFIROT BELIMAH—Ten and not nine, ten and not eleven. Understand with Wisdom and become wise with Understanding; test with them and probe of them. Make a thing stand in assembly before its Creators; return the Maker to His Site.
+
+[1:5] Ten SEFIROT BELIMAH—Their measure is ten; they have no edge. Depth of Beginning, Depth of End; Depth of Good, Depth of Evil; Depth of Above, Depth of Below; Depth of East, Depth of West; Depth of North, Depth of South. The Unique Lord EL, the faithful king, governs them all from His Holy Abode, forever and ever and ever.
+
+[1:6] Ten SEFIROT BELIMAH—Their visage is as the look of lightning, and their limit has no edge. His Word is in them, running and returning. By His word they pursue like a whirlwind; before His throne they bow.
+
+[1:7] Ten SEFIROT BELIMAH—Their end is attached to their start, like the flame-tongue is bound to the coal. For the Lord is unique, He has no second—before one, what can you count?
+
+[1:8] Ten SEFIROT BELIMAH—Keep your mouth from speaking and your heart from conceiving. If your heart should run, return to the place of which is said, “running and returning”. Upon this matter the covenant was cut.
+
+[1:9] Ten SEFIROT BELIMAH—One—The Wind of the Living GOD, Blessed and Happy is His Name, He Who Lives Forever. Voice and Wind and Speech—this is the Holy Wind.
+
+[1:10] Two—He carved Wind from Wind, and with it He hewed Twenty-Two Letters of Foundation: Three Mothers, Seven Pairs, and Twelve Simple Letters. And Wind is the first of them.
+
+[1:11] Three—He carved Water from Wind and with them He hewed tohu and bohu, mud and clay. He carved them like a garden bed, erected them like a wall, screened them like ceiling plaster.
+
+[1:12] Four—He carved Fire from Water, and with it He hewed the Throne of the Glory, and the Wheels, and the Fiery Serpents, and the Holy Creatures, and the Ministering Angels. And from the three of them He founded His Abode, as is said, “He makes the winds His angels and burning fire His ministers”.
+
+[1:13] ([According to the 1562 Mantua print, the edition as written in the Otzer Hashem and in Rambam:] Five—Three of the Simple Letters—He sealed Wind by means of three and fixed them within His Great Name, Yod-Heh-Waw.) [The correct version:] He chose 3 of the simple letters with the secret of the 3 Mothers, Alef-Mem-Shin, and He fixed them within His Great Name. With them He sealed 6 Edges. Five—He sealed Above and faced upwards and sealed it with Yod-Heh-Waw. Six—He sealed Below and faced downwards and sealed it with Yod-Waw-Heh. Seven—He sealed East and faced forwards and sealed it with Heh-Yod-Waw. Eight—He sealed West and faced backwards and sealed it with Heh-Waw-Yod. Nine—He sealed South and faced to His right and sealed it with Waw-Yod-Heh. Ten—He sealed North and faced to His left and sealed it with Waw-Heh-Yod.]
+
+[1:14] These are the Ten SEFIROT BELIMAH: One, the Wind of the Living God; and Wind from Wind, and Water from Air, and Fire from Water; and Up Above and Below, and East and West, and North and South.
+
+================================================================================
+SECTION D. English, witness E2 (Kalisch 1877), chapter I as OCR'd.
+================================================================================
+
+E2 divides the chapter into 9 sections where W1/W2/E1 have 14 mishnayot. The mapping,
+established by comparing the texts and recorded here rather than smoothed away, is:
+E2 §1 = 1:1-1:2, §2 = 1:3, §3 = 1:4, §4 = 1:5, §5 = 1:6, §6 = 1:7, §7 = 1:8,
+§8 = 1:9-1:13, §9 = 1:14. So the sentence this repository leans on, 1:7, is E2 §6.
+
+CHAPTER I.
+SECTION 1.
+
+Yah, the Lord of hosts, the living God, King of
+the Universe, Omnipotent, All-Kind and Merciful,
+Supreme and Extolled, who is Eternal, Sublime
+and Most-Holy, ordained (formed) and created the
+"Universe in thirty-two? mysterious paths? of wisdom
+by three‘ Sepharim, namely: 1) S’for "£5; 2) Sip-
+pur “ED; and 3) Sapher "EG which are in Him one and
+the same. They consist of a decade out of nothing?
+and of twenty-two fundamental letters. He divided
+the twenty-two consonants into three divisions: 1)
+three MIYAN mothers, fundamental letters or first ele-
+ments; 2) seven double; and 3) twelve simple con-
+
+sonants.
+SECTION 2.
+
+The decade’ out of nothing is analogous to that of
+the ten fingers (and toes) of the human body, five
+parallel to five, and in the centre of which is the
+covenant with the only One, by the word of the
+tongue and the rite of Abraham.
+
+SECTION 3.
+
+Ten are the numbers out of nothing, and not the
+number nine, ten and not eleven. Comprehend this
+great wisdom, understand this’ knowledge, inquire
+into it and ponder on it, render it evident and lead®
+` the Creator back to His throne again.
+
+1) Bee Notes commencing on Page 47.
+
+02025 7
+Cn? pst? wy on ra minab py‏
+
+MIDNA‏ ה.
+on NDI veo ITT ADDI Tox‏ משפחוים:
+
+עֲשֶׂר IDn mona pio yaya 7272 NITED‏
+naby? e‏ קשורהי ra TM AN! nono‏
+
+T "Am D
+722 2750 rg Dia npa niveo ֲשֶׂר‎
+nan b שב‎ wi) pir ow BP Opa?
+iD maim
+
+bns שורה‎ nandyis
+
+SECTION 4.
+The decade out of nothing has the following ten
+infinitudes:
+1) The beginning? infinite. 6) The depth infinite.
+
+2) “ end 6 7) “ East i
+3) 66 good tt 8) 66 West 66
+4) " evil? 66 9) > North “
+b) “ height = 10) * South “
+
+and the only Lord God, the faithful King, rules over
+all from His holy habitation for ever and ever.
+
+SECTION 5.
+
+The appearance of the ten spheres out of nothing
+is like a flash of lightning, being without an end, His
+word is in them, when they go and return; they run
+by His order like a whirlwind and humble them-
+selves before His throne.
+
+SECTION 6.
+
+'The decade of existence out of nothing has its end
+linked to its beginning and its beginning linked to
+its end, just as the flame is wedded to the live coal;
+because the Lord is one and there is not a second
+one, and before one what wilt thou count?!
+
+SECTION 7.
+
+Concerning the number ten of the spheres of ex-
+istence out of nothing keep thy tongue from speak-
+ing and thy mind from pondering on it, and if thy
+mouth urges thee to speak, and thy heart to think
+about it, return! as it reads: “And the living creatures
+ran and returned," (Ezekiel 6,14.) and upon this" was
+the covenant made.
+
+Sw iow ym "rm‏ חַי madiya‏ קול Mim‏
+Nios Wow TID? nns eme DWY ma 2m‏
+miy ong nie» yau‏ פשוטוֹת NAN nmm‏
+ro‏ שלש D'So ppn nno p»‏
+pos "aen Tung‏ חוֹמָה AWE pos CH‏
+KKK‏
+EE‏
+וקכעם Dn we od onm om iowa‏ :
+
+(I‏ יש subuh nya m Bnn pin‏
+
+SECTION 8.
+
+The following are the ten categories of existence
+out of nothing:
+
+1) The spirit of the living God, praised and glori-
+fied be the name of Him who lives to all eternity.
+The articulate word of creative power, the spirit and
+the word are what we call the holy spirit.
+
+2) Air emanated from the spirit by which He
+formed and established twenty-two consonants, sta-
+mina. Three of them, however, are fundamental
+letters, or mothers, seven double and twelve simple
+consonants; hence the spirit is the first one.
+
+3) Primitive water emanated from the air. He
+formed and established by it Bohu (water, stones)
+mud and loam, made them like a bed, put them up
+like a wall, and surrounded them as with a rampart,
+put coldness upon them and they became dust, as it
+reads: “He says to the snow (coldness) be thou
+earth." (Job 37, 6.)
+
+4) Fire or ether emanated from the water. De
+established by it the throne of glory, the Seraphim
+and Ophanim, tho holy living creatures and the angels,
+and of these threo He formed His habitation, as it
+reads: *Who made His angels spirits, His ministers
+a flaming fire." (Psalm 104, 4.) He selected three
+consonants from tho simple ones which are in the
+hidden secret of three mothers or first elements:
+א''מ''ש,‎ air, water and ether or fire. He sealed them
+with spirit and fastened them to His great name and
+sealed with it six dimensions.!5
+
+שש denm nep? n3 nmn onm‏ בהן
+mp | Won) 32 nog mm onn yat‏
+Ort nj anya onn nia‏ והי
+ppm irpo ni ni onn von‏ | ביוה
+Za‏ עשר DIAN OM rg na niveo‏
+mw m an‏ מים NANTON ovo dw mne‏
+
+SS Gë) סוד‎ rima DOE mwy
+
+5) He sealed the height and turned towards
+
+above, and sealed it with יהו‎
+6) He sealed the depth, turned towards below and
+sealed it with היו‎
+7) He sealed the east and turned forward, and
+scaled it with ויה‎
+8) He sealed the west and turned backward, and
+sealed it with והי‎
+9) He sealed tho south and turned to the right and
+sealed it with יוה‎
+10) He 808100 the north and turned to the left and
+sealed it with הוי‎
+SECTION 9.
+
+These are the ten spheres of existence out of
+nothing. From the spirit of the living God emana-
+ted air, from the air, water, from the water, fire or
+ether, from the ether, the height and the depth, the
+East and West, the North and South.
+
+================================================================================
+SECTION E. Collation of the two Hebrew witnesses, verse by verse.
+================================================================================
+
+Compared after normalising away vowel points, cantillation, punctuation and quotation
+marks; 'W1' and 'W2' below give the differing words as each witness has them.
+
+[1:1] agree except:
+        W1: 'יה יהוה'   W2: 'י ה יהו ה'
+        W1: 'אלהי'   W2: 'אלקי'
+        W1: 'אלהים'   W2: 'אלקים'
+        W1: 'מרום'   W2: ''
+
+[1:2] identical, word for word.
+
+[1:3] agree except:
+        W1: 'מספר'   W2: 'במספר'
+        W1: 'מעור'   W2: 'המעור'
+
+[1:4] agree except:
+        W1: 'והשב'   W2: 'והושב'
+
+[1:5] agree except:
+        W1: 'בלי מה'   W2: 'בלימה'
+
+[1:6] agree except:
+        W1: 'בלי מה'   W2: 'בלימה'
+        W1: 'להן'   W2: 'להם'
+        W1: 'ודברו'   W2: 'דברו'
+
+[1:7] agree except:
+        W1: 'בלי מה'   W2: 'בלימה'
+        W1: 'בתחלתן ותחלתן'   W2: 'בתחילתן ותחילתן'
+
+[1:8] identical, word for word.
+
+[1:9] identical, word for word.
+
+[1:10] identical, word for word.
+
+[1:11] agree except:
+        W1: 'הציבן'   W2: 'חצבן'
+        W1: 'סככם'   W2: 'סיבבם'
+        W1: ''   W2: 'ויצק מים עליהן ונעשו עפר שנאמר כי לשלג יאמר הוי ארץ'
+
+[1:12] agree except:
+        W1: 'שרפים ואופנים'   W2: 'אופנים ושרפים'
+
+[1:13] agree except:
+        W1: ''   W2: 'חתם רום בירר'
+        W1: 'חתם רום ברר שלש'   W2: ''
+        W1: 'הנוסחא הנכונה בירר ג אותיות מן הפשוטות בסוד ג אמות אמ ש וקבען בשמו הגדול וחתם בהם ו קצוות חמש חתם רום'   W2: ''
+        W1: 'ביה'   W2: 'ב יה'
+        W1: 'וחתמו ביו'   W2: 'וחתם ב יו'
+        W1: 'בהי'   W2: 'ב הי'
+        W1: 'לאחריו וחתמו בהו'   W2: 'לאחוריו ב הו'
+        W1: 'בוי'   W2: 'ב וי'
+        W1: 'בוה'   W2: 'ב וה'
+
+[1:14] agree except:
+        W1: 'אלהים'   W2: 'אלקים'
+        W1: 'ורוח'   W2: 'שתים רוח'
+        W1: 'ומים'   W2: 'שלש מים'
+        W1: 'ואש'   W2: 'ארבע אש'
+        W1: 'ורום מעלה'   W2: 'רום'
+        W1: 'בדפוס מנטובה שכ ב הגי כמ ש באוצר ה וברמ ב'   W2: ''
+
+Reading of the collation. The three verses this repository quotes - 1:4, 1:5 and 1:7 -
+agree word for word between the two witnesses apart from orthography: 'beli mah' as one
+word or two (a variation the E1 translator's note in Section F says the manuscripts
+themselves make), plene vs defective spelling in 'be-tehillatan', and 'we-hashev' vs
+'we-hoshev'. None of those touches sense. 1:2, 1:8, 1:9 and 1:10 are identical outright.
+The witnesses diverge substantively only from 1:11 onward - W2 carries a closing clause
+at 1:11 that W1 lacks, and 1:13-1:14 differ in recension, W1 printing a bracketed
+'correct version' where W2 prints a single continuous text. This repository quotes
+nothing from 1:11-1:14.
+
+================================================================================
+SECTION F. One footnote of the E1 translator, verbatim, on the term 'Sefirot Belimah'.
+================================================================================
+
+Reproduced because this repository relies on it for a limiting statement, not for a
+claim: it is the translator's own scholarly opinion, not source text.
+
+The meaning of סְפִירוֹת בְּלִי[]מָה Sefirot Beli(-)mah is very difficult. The SY is the first place in all of Jewish literature where to word sefirot appears, and though this term is now familiar to readers through the works of the medieval Kabbalists and later, the use of the term in the SY differs significantly from later texts̄. It never appears on its own in the SY, being found only in the fixed expression Sefirot Belimah. The word sefirot by itself is the plural action noun of סָפַר safar 'to count', thus meaning literally 'countings'. It should probably be understood on one level as a reference to the ten digits of the decimal numeral system, though as we shall see, these Sefirot Belimah are imbued with metaphysical significance beyond mere numerals. The expression בְּלִי[]מָה beli[-]mah can be understood as either one word or two, with both readings being plausible and perhaps intended, and manuscripts commonly varying between the one- and two-word renditions. If it is read as one word, it must be the action noun of בָּלַם balam 'to restrain, withhold, keep (from)'; see SY 1:8. The ‘Ten Sefirot Belimah’ would then be the ‘Ten Numbers of Restraint’. In this interpretation, they are ten elemental entities or properties which bind or restrain primordial תֹּהוּ tohu, 'chaos, void, waste(land)' [Genesis 1:2], allowing structure and order to exist in creation. On the other hand, if בְּלִי מָה is to be read as two words, it represents the expression beli mah, literally 'without what'. This enigmatic expression appears only once in the Tanakh, in [Job 26:7], where in a harkening back to [Genesis 1:2] it serves as a parallelism of primarial tohu. It might best be calqued as 'whatlessness', meaning 'having no essence', and thus the ‘Ten Sefirot Belimah’ would be the ‘Ten Essenceless/Whatless Numbers'. The SY is fond of this sort of grammatical playfulness, as already seen above in the peculiar use of the three roots of spr in SY 1:1 and as will be seen later in playful expressions like וְעָשָׂה אֵינוֹ יֶשְׁנוֹ ve'asa eino yeshno 'and He made isn't-ness into is-ness' (SY 2:6). Later interpretors have, of course, explicitly linked the Ten Sefirot Belimah with the now-familiar Ten Sefirot found in later texts like the Bahir and Zohar, but I have generally refrained from alluding to them, as it is not at all clear that the SY ascribes the same symbolic significance to the Ten Sefirot Belimah as latter Kabbalistic texts do.
+
+================================================================================
+SECTION G. Opening of the E2 translator's preface, verbatim, on the book's date.
+================================================================================
+
+Captured because this repository states that the date of Sefer Yetzirah is contested
+and should ground that statement rather than assert it. Kalisch is a witness to the
+state of the question in 1877, not an authority on its present state; the same
+filtering and OCR caveats as Section D apply.
+
+PREFACE.
+
+This metaphysical essay, called “Sepher Yezirah,”
+(book on creation, or cosmogony,) which I have en-
+deavored to render into English, with explanatory :
+notes, is considered by all modern literati as the first
+philosophical book that ever was written in the He-
+brew language. But the time of its composition and
+the name of its author have not yet been ascertained,
+despite of the most elaborate researches of renowned
+archaeologists. Some maintain that this essay is
+mentioned in the Talmud treatise Sanhedrin, p. 66 b.
+and ibid. 67 b. which passage is according to the com-
+mentary of Rashi, to treatise Erubin, p. 63 a., a re-
+liable historical notice. Hence this book was known
+already in the second or at the beginning of the third
+century of the Christian Era. The historian, Dr.
+Graetz, tries to show very ingeniously in his work,
+entitled “Gnosticism,” p. 104 and 110, that it was
+written in the early centuries of the Christian Church,
+especially when the ideas and views of the Gnostics
+were in vogue. This opinion, however, he afterwards
+revoked. (See Dr. Graetz’s “History of the Jews,”
+Vol. V, p. 315 in a note.)
+
+Dr. Zunz, the Nestor of the Jewish Rabbis in
+Europe, maintains that we have to look for the gen-
+esis of the book “Yezirah” in the Geonic period, (700
+—1000), and that it was consequently composed in
+a post-talmudical time. Butif so, it is very strange
+
+PREFACE. 4
+
+that Saadjah Gaon, who lived in the tenth, and Judah
+Halevi, who lived in the twelfth century, represented
+tho book “Yezirah” as a very ancient work. There-
+fore it seems to me, that Dr. Graetz had no sufficient
+cause to repudiate his assertion concerning tho age
+of this book; because all the difficulties which ho
+himself and others raised against his supposition,
+fall to the ground, when we consider that the most
+ancient works, holy as well as profane, had ono and
+the same fate, namely, that from age to age more or
+less interpolations were made by copyists and com-
+mentators. Compare also Prof. Tenneman's "Grond.
+riss der Geschichte der Philosophie," improved by
+Prof. Wendt, p. 207.
+
+Tradition, which ascribes the authorship of this
+book to the patriarch Abraham, is fabulous, as can
+be proved by many reasons; but the idea that Rabbi
+Akiba, who lived about the beginning of the second
+century, composed the book “Yezirah,” is very likely
+possible. Be thisas it may, it is worth while to know
+the extravagant hypotheses which ancient Jewish
+philosophers and theologians framed as soon as they
+began to contemplate and to reason, endeavoring to
+combine oriental and Greek theories. Although there
+is an exuberance of weeds, we will find, nevertheless,
+many germs of truisms, which are of the greatest im-
+portance. A Christian theologian, Johann Friedrich
+von Meyer D. D., remarked very truly in his German
+preface to the book “Yezirah,” published in Leipzig,
+1830: “This book isfor two reasons highly important:
+in the first place, that the real Cabala, or mystical
+
+b PREFACE.
+
+doctrine of the Jews, which must be carefully dis-
+tinguished from its excrescences, is in close connec-
+Don and perfect accord with the O
