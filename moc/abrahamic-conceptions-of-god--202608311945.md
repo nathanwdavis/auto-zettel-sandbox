@@ -33,9 +33,23 @@ under which that settles anything.
 - [[maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841]]
 - [[anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842]]
 
+## The teleological route
+
+What design arguments contribute: an a posteriori path from nature to a
+designer -- strongest today in its fine-tuning form -- that argues for a
+maker's existence but, unlike Anselm's description, does not by itself
+secure uniqueness or identification with the God a tradition worships.
+Surveyed for inquiry 202609010930 (top design arguments in evangelical
+natural theology).
+
+- [[the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015]]
+- [[the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
 [[nostra-aetate--202608311924]], [[anselm-proslogium--202609010830]]. Scholarship: [[tachin-do-they-worship-the-same-god--202608311925]], [[vroom-do-all-religious-traditions-worship-the-same-god--202608311926]],
 [[bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833]]. The public dispute:
 [[gjelten-do-christians-and-muslims-worship-the-same-god--202608311927]], [[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]], [[beckwith-why-muslims-and-christians-worship-the-same-god--202609010832]].
+Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003]], [[craig-the-teleological-argument-and-the-anthropic-principle--202609011005]]
+(literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]]).
