@@ -167,6 +167,23 @@ network), library/institutional access, or a purchased copy. Left open.
 - **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** maintenance-run (2026-09-01 cycle, inquiry 202609010930)
+- **2026-09-01 ~13:00 cycle progress:** the remote-capturable candidate is done —
+  the BioLogos-versus-Discovery-Institute exchange is captured as the published
+  PSCF pair (both PDFs served openly by the ASA itself): Venema, "Seeking a
+  Signature" (PSCF 62.4, 2010) and Meyer, "Of Molecules and (Straw) Men" (PSCF
+  63.3, 2011), with [[venema-seeking-a-signature--202609011310]],
+  [[meyer-of-molecules-and-straw-men--202609011311]], two literature notes, and
+  [[the-information-design-argument-turns-on-where-selection-begins--202609011320]];
+  the inquiry's rank-3 "direct captures still lacking" caveat is updated in
+  place. Note: biologos.org itself hard-blocks this environment class (HTTP 429
+  on every path tried, with backoff), so the irreducible-complexity-specific
+  BioLogos web articles (e.g. Venema's flagellum series) were NOT capturable;
+  the PSCF exchange — same critic, same opposing institution, peer-edited — is
+  the accessible instance of the requested debate. Still open: Plantinga,
+  McGrath, Collins (likely paywalled), a Behe-specific irreducible-complexity
+  capture (discovery.org is reachable from remote sessions; a Behe essay there
+  is a candidate for a future cycle), and revisiting ranks 3-5 on the broader
+  base. Entry stays in-progress.
 - **2026-09-01 (later cycle) progress:** the easiest candidate is done — Aquinas,
   Summa Theologiae I q.2 a.3 (Fifth Way) captured complete in the public-domain
   1920 Dominican translation from two independent digitizations (Project

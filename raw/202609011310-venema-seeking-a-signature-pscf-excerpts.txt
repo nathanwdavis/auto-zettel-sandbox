@@ -1,0 +1,315 @@
+Bounded excerpt capture of Dennis R. Venema, "Seeking a Signature"
+(essay review of Stephen C. Meyer, Signature in the Cell: DNA and the
+Evidence for Intelligent Design), Perspectives on Science and Christian
+Faith 62, no. 4 (December 2010): 276-83. Captured from the journal's own
+PDF, served openly by the publisher (the American Scientific
+Affiliation) at
+https://www.asa3.org/ASA/PSCF/2010/PSCF12-10Venema.pdf
+(fetched 2026-09-01T12:59Z, minute precision, HTTP 200; 8-page PDF,
+128,614 bytes). The article is an in-copyright journal essay served free
+by the copyright holder's own site (the Craig/Reasonable Faith precedent
+for publisher-served open text), so per this repository's excerpt policy
+the capture is BOUNDED EXCERPTS, not the full article: three contiguous
+blocks, roughly 45 percent of the text, covering the spans the notes
+quote from. The skipped sections (the middle of "Abiogenesis: God's Last
+Gap?" on the RNA world, "What of Common Ancestry?", most of "Odds and
+Ends", the endnotes, the author biography box, and an unrelated
+conference announcement on the final page) are NOT captured; notes must
+not quote them, and cite them only as attributed summary.
+
+Text was extracted from the PDF with pdfminer.six and hand-reflowed:
+end-of-line hyphenation rejoined, line breaks within paragraphs
+removed, running headers/footers ("Essay Review / Seeking a Signature",
+"Dennis R. Venema", "Perspectives on Science and Christian Faith",
+volume/page furniture) dropped, and the opening drop-cap ("S tephen")
+rejoined; superscript endnote numerals are preserved inline as plain
+digits where they occur in the captured spans. Character
+normalizations applied throughout and recorded here: typographic
+(curly) quotes to straight quotes, em dashes to "--", and typographic
+ellipses to "...". Nothing else was altered. The two-column layout scrambles word order at a few points in
+the UNCAPTURED sections (e.g. in the common-ancestry passage); every
+captured paragraph below was checked programmatically against the
+extraction. One span required a documented reconstruction: in
+"for his pronouncement that it will never succeed" (Concluding
+Thoughts), pdfminer displaced the word "that" onto a stray line; a
+second extractor (pypdf) run on the same PDF reads the line as
+transcribed here, confirming the reconstruction.
+Single-witness capture (publisher's own PDF); quotations must match
+this capture verbatim.
+
+Elisions WITHIN a block are marked with a bracketed line
+"[ ... paragraphs omitted ... ]" and described in the block preamble;
+an unmarked paragraph boundary means the paragraphs are contiguous in
+the original.
+
+BLOCK 1 -- head matter, bibliographic block, the review's opening
+paragraph, and Venema's summary of Meyer's core argument (article pp.
+276-7, ending at note 4's sentence). One elision: the
+"Signature in the Cell--Overview" heading and its chapter-by-chapter
+walkthrough (chaps. 1-20, epilogue, appendices) between the opening
+paragraph and the "core of Meyer's argument" paragraph.
+
+Essay Review
+
+Seeking a Signature
+
+Dennis R. Venema
+
+SIGNATURE IN THE CELL: DNA and the Evidence for Intelligent Design by
+Stephen C. Meyer. New York: Harper Collins Publishers, 2009. viii + 613
+pages. Hardcover; $28.99. ISBN: 9780061472787.
+
+Stephen C. Meyer's recent tome Signature in the Cell (hereafter,
+Signature) represents the "state of the art" for the intelligent design
+(ID) movement with respect to the origin of biological information.
+With Signature, Meyer claims to have established ID as the best
+scientific explanation for information in DNA, and thus, to have
+established the presence of a designing intelligence at the origin of
+life. The book is a landmark for the ID movement, and, in light of its
+claims, is of significant interest to Christians in the sciences. If
+Meyer's claims indeed are found to have scientific support, they would
+represent perhaps the most significant scientific advance in the last
+several hundred years, and at the same time, provide no less than "a
+blueprint for twenty-first-century biological science."1
+
+[ ... paragraphs omitted: the "Signature in the Cell--Overview"
+chapter-by-chapter walkthrough ... ]
+
+The core of Meyer's argument can be found in chapter 7. Here he
+proposes three criteria for establishing ID as the best explanation for
+the origin of biological information: evidence that the cause was (1)
+present at the required time, (2) known to be causally adequate for the
+effect in question, and (3) the "absence of evidence (despite a
+thorough search) ... of ... other possible causes." Meyer also argues
+that the first criterion can be met if there is only one possible cause
+of the effect in question:
+
+If there is only one possible cause of a salient piece of evidence,
+then clearly the presence of that evidence establishes the past
+existence of its cause.3
+
+This, in a nutshell, is the argument of the entire book. The second
+criterion (that intelligence can be the origin of information) is taken
+as a given. All that remains is for Meyer to establish with a "thorough
+search" that intelligence is the only possible source of biological
+information. In so doing, he will argue that ID qualifies as the best
+scientific inference for the information we find in DNA. Of course, the
+power of this argument lies squarely in the quality of his "thorough
+search" for alternate causes.4
+
+BLOCK 2 -- "Rationale for a Thorough Scientific Critique", excerpts of
+the "No Biological Information by Natural Means?" section, and the
+opening paragraph of "Abiogenesis: God's Last Gap?" (article pp.
+277-80). One elision inside the middle section: the detailed
+experimental-design critique of Axe's protein work, the structural
+biology and comparative genomics (insulin) paragraphs, the
+computer-simulation paragraphs (with Meyer's quotes at notes 15-16),
+and the natural-selection-as-hindsight paragraph, between "... not
+their evolutionary isolation." and the antibody example.
+
+Rationale for a Thorough Scientific Critique
+
+So, does Meyer's scientific case hold together? I would say no. It
+suffers from what I perceive as fatal flaws that scuttle Meyer's case
+for a design inference as the best explanation for the origin of
+biological information. While there is much that could be said about
+less important issues in Signature (e.g., Is ID "scientific
+creationism"? Poor theology?), I will focus this review on the core of
+Meyer's scientific case for design. Meyer claims to have achieved a
+scientifically robust argument that establishes intelligent
+intervention as the best scientific explanation for the information
+content of DNA. Accordingly, this argument should be evaluated on its
+scientific merit. However, be forewarned: in what follows, I focus on
+what I see as serious scientific flaws in Signature, and leave what
+praise I have for the book (and there is some) left unsaid. I do this
+not out of disrespect, but rather out of respect. Meyer has presented
+his case, and he deserves to have this case thoroughly tested. If it
+can stand, so be it. If it cannot, then this critique may be useful to
+him in the future as he continues his work. In either case, my
+platitudes will avail nothing; only scientific critique has lasting
+merit.
+
+No Biological Information by Natural Means?
+
+The first fatal flaw, as I see it, is that Meyer claims there is no
+known natural mechanism that can add information to DNA. This claim is
+key to the entire argument, since Meyer cannot claim information as the
+direct action of a designing intelligence at the origin of life unless
+he rules out all natural causes that may add information to DNA. In
+doing so, he has to deny natural selection as such a mechanism:
+
+Since the case for intelligent design as the best explanation for the
+origin of biological information necessary to build novel forms of life
+depends, in part, upon the claim that functional (information-rich)
+genes and proteins cannot be explained by random mutation and
+selection, this design hypothesis implies that selection and mutation
+will not suffice to produce genetic information and that, consequently,
+functional sequences of amino acids within protein-sequence space will
+be extremely rare rather than common. Axe's mutagenesis experiments
+have tested, and continue to test, this prediction of ID theory.9
+
+Meyer's main argument for the inability of random mutation coupled with
+natural selection (hereafter, "RM + NS") to add information to DNA is
+based on the research of Douglas Axe, a scientist currently working at
+the Discovery Institute's Biologic Institute.10 Meyer claims that Axe's
+work demonstrates that proteins are rare in sequence space--and argues
+therefore that functional proteins cannot be converted to different
+functions through RM + NS due to the intervening nonfunctional space
+between islands of function. There are several reasons why Axe's work
+cannot be used as evidence for such an assertion.
+
+The most obvious issue is that the rarity or commonality of function in
+protein sequence space is irrelevant to the discussion. What counts is
+whether functional sequences in protein space are isolated from each
+other in a way RM + NS cannot bridge.11 This, as far as I can tell, is,
+in fact, what Meyer is arguing, though he does not appear to understand
+the distinction and conflates the two ideas in Signature. Even if one
+accepts Axe's work uncritically, it only attempts to evaluate the
+rarity of functional sequences, not their evolutionary isolation.
+
+[ ... paragraphs omitted: the experimental-design critique of Axe's
+work, structural biology and comparative genomics evidence, and the
+computer-simulation / natural-selection-as-hindsight paragraphs ... ]
+
+I happened to be teaching an upper-level class on immunology while I
+was reading Signature. The differences between Meyer's arguments
+against RM + NS as a generator of information and the process by which
+the human body produces specific antibodies stood in sharp contrast for
+me. An overview of this process recently appeared in this journal,17
+and I was pleased to see that this issue was raised on the ASA blog
+discussing Signature.18 Antibodies are generated through successive
+rounds of mutation and selection. In the first instance, antibody gene
+segments are spliced together to form a coding sequence for the
+variable tip of the antibody; this process also includes the addition
+of random nucleotides in the joints between the segments. Each
+antibody-producing cell (a B cell) makes one antibody through this
+process. Of the vast numbers of antibodies produced, the few that bind
+foreign material trigger the selective reproduction of the B cells that
+harbor them. This replication is accompanied by further random mutation
+of the originally selected antibody sequence, and the resulting cells
+with the strongest-binding antibodies are selected (and the process may
+repeat if the same pathogen attacks the host again in the future).
+Through this process of repetitive mutation and selection, an antibody
+progresses from relatively weak affinity to very strong affinity--a
+feature that greatly improves its function as an agent to fight
+infection. By any reasonable definition, this is an increase in
+biological information, but it proceeds effectively (a) through random
+mutation and a form of natural selection, and (b) with no planned
+target in mind, only repetitive selection for the best variants at any
+given time. What "creates" the information is the environment: the
+presence of the specific pathogen elects certain B cells and excludes
+others. By Meyer's definition, the pathogen is the antibody designer.
+
+While antibody generation is a particularly compelling case of natural
+processes increasing biological information, the same principles are
+seen time and again with RM + NS at the population level. For example,
+the work of Richard Lenski and colleagues on long-term evolution of E.
+coli has documented numerous mutations that have increased biological
+fitness within their experimental populations which have arisen through
+spontaneous mutations.19 Other examples abound: the mutation and
+selection of the nylonase enzyme (which allowed its host to metabolize
+nylon),20 the production of an antifreeze protein in fish from an
+enzyme gene,21 and other examples of proteins arising de novo through
+mutation.22
+
+Therefore, the demonstration that RM + NS can add information to DNA
+without the intervention of a designer means that Meyer's argument for
+the exclusivity of intelligence in producing biological information
+fails. As such, RM + NS now becomes a candidate for the origin of
+biological information from nonliving precursors. What is required, of
+course, is a plausible pathway leading from nonliving precursors to a
+replicating entity capable of variation on which natural selection can
+act.
+
+Abiogenesis: God's Last Gap?
+
+While Meyer is correct that no complete mechanism for abiogenesis has
+yet been put forward, his argument here suffers from additional major
+flaws: he focuses disproportionately on outdated, discarded
+origin-of-life hypotheses, gives current science on the issue short
+shrift, and does not fairly represent the science he does discuss. For
+example, the major model favored by many scientists is the "RNA world"
+hypothesis, yet Meyer spends little time on it. Other current models,
+such as "metabolism first" hypotheses,23 receive no attention at all.
+This seriously compromises Meyer's argument, since his conclusion of
+design depends on his assertion that he has performed a "thorough
+search" to exclude all natural alternatives to intelligent intervention
+at the origin of life. Yet his search is not extensive, but selective
+and misleading at several key points.
+
+BLOCK 3 -- the closing paragraph of "Odds and Ends" and the
+"Concluding Thoughts" section (article pp. 281-2, ending at the
+review's final sentence).
+
+Now, these issues in and of themselves would not be a serious problem
+for Signature, if not for the fact that the strength of Meyer's
+argument rests entirely on his assertion that he has made a thorough
+search through all proposed mechanisms for generating biological
+information through natural means and found them lacking. Meyer is
+asking his audience to trust him that his analysis is thorough and
+sound. However, that Meyer's understanding of molecular biology appears
+to be at or below a first-year college level should give even the most
+pro-ID reader pause here. It means that Meyer, well intentioned though
+he may be, is simply not equipped to grapple with these issues beyond
+an introductory textbook level. Nor has Meyer sought the advice of
+those who are able to do so. And as we have seen, Meyer has made
+neither a thorough search for the origin of biological information by
+natural mechanisms, nor a fair assessment of current origin-of-life
+research.
+
+Concluding Thoughts
+
+In some ways, the disappointment for me in reading Signature was its
+too obvious weaknesses. An ID argument with some scientific teeth to it
+would be intellectually invigorating, and I expected Signature would
+deliver more than it did. It has no theory of design, and no vigorous
+hypotheses to advance the movement. As Randy Isaac noted in an ASA
+blog, Meyer's predictions do not distinguish between ID and other
+hypotheses:
+
+It is laudable that Meyer takes the step to explore predictions that ID
+would make. Predictions that are testable are a vital part of the
+scientific process. But just making a prediction isn't sufficient to
+indicate viable science. Astrologers and tasseologists can also make
+predictions and sometimes they may be right. Predictions must also be
+based on causal factors that are understood independently to exist and
+whose adequacy can be independently verified. The predictions must
+clearly differentiate between competing hypotheses. It is unfortunate
+that this set of dozen predictions is very weak on all counts.37
+
+Effectively, Meyer requests that we trade pursuing an ongoing area of
+productive research for his pronouncement that it will never succeed.
+Not so. Biologists know full well that natural mechanisms can add
+functional information to DNA sequences, and it thus makes good sense
+to look for pathways that exploit these mechanisms at the origin of
+life. True, research in this field has not solved the origin-of-life
+problem, and there are several competing hypotheses on the table, all
+with some experimental support. Quite a lot has been accomplished in
+this area in the last few decades, and it is a reasonable expectation
+that further research will continue to pay dividends. To halt research
+in this field and to label it "design" (and therefore unsolvable)
+accomplishes nothing scientifically, especially when there is no
+workable theory of design to guide future work.
+
+While popular-level books written by nonspecialists can be very helpful
+to a lay audience if they are carefully reviewed by experts and adhere
+to consensus science, Signature is not such a book. Like Edge of
+Evolution before it, Signature in the Cell represents a layman's
+attempt to overturn an entire field of research based on a
+surface-level understanding (and, at times, significant
+misunderstanding or ignorance) of the relevant science, published in a
+form that bypasses review by qualified peers, and that is marketed
+directly to a nonspecialist audience. This is not good science, nor
+science in any meaningful sense. If ID is going to advance as an
+intellectual framework, it simply must do better. I, for one, would be
+fascinated by a scientifically plausible design argument. It would
+demonstrate that something is fundamentally wrong with the
+interpretation of very wide swaths of data across numerous disciplines.
+That would not be a scientific problem, but rather a monumental
+scientific opportunity that would reshape research for decades to come.
+Such times are the occasions of scientific legend--careers to be made,
+Nobel prizes to be won. Alas, Signature is not that argument. I do
+recommend it for those who follow the ID literature, for it represents
+the current state-of-the-art in ID thought for an important area of
+biology. However, for those of us waiting for the science behind ID, it
+looks as if the wait goes on.
