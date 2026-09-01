@@ -36,6 +36,13 @@ end).
    SEP). See
    [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]],
    [[the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015]].
+   *(2026-09-01 ~15:00 cycle: a second captured named endorsement --
+   Plantinga's 1986 notes give the physical-constants argument the most
+   developed treatment among his teleological sketches, rebutting the
+   any-outcome-is-improbable and anthropic-principle deflations and
+   concluding that theism leaves "no mystery at all and an easy
+   explanation"; see
+   [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]].)*
 
 2. **Paley-style biological design.** The historical flagship and still
    the paradigm of the design intuition: contrivance -- parts "framed and
@@ -105,6 +112,13 @@ end).
    formalize, not yet as a developed inference; SEP's conclusion still
    credits "the incredible intricacy and the beauty of things in nature"
    with real persuasive force.
+   *(2026-09-01 ~15:00 cycle: Plantinga's section (F), "The Naive
+   Teleological Argument", is now a captured named assessment that reads
+   this entry exactly as ranked here -- contemplation of order producing
+   "a strong impulse to believe", perhaps by putting the arguee where
+   the Sensus Divinitatis operates, rather than a developed inference;
+   see
+   [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]].)*
 
 Two structural results worth keeping regardless of ranking: the arguments'
 center of gravity has moved from organisms to physics
@@ -122,4 +136,13 @@ prominent evangelical philosopher (Craig 1990) plus the SEP's field
 survey. A follow-up INBOX entry asks a future run to capture a broader
 base of named evangelical assessments (e.g. Plantinga, McGrath, a
 BioLogos-vs-Discovery-Institute exchange on ID) and to revisit ranks 3-5
-against them.
+against them. *(2026-09-01 ~15:00 cycle: the Plantinga capture is done --
+[[plantinga-two-dozen-theistic-arguments--202609011500]], the 1986 "Two
+Dozen (or so) Theistic Arguments" notes as published in Baker's 2007 CUP
+volume, with rank-1 and rank-5 assessments recorded in place above. It
+also supplies a cross-cutting scale for the whole ranking: on Plantinga's
+framing the arguments are non-coercive probabilistic "helps", so they rank
+by confirming work, not proof -- see
+[[design-arguments-can-confirm-belief-they-do-not-ground--202609011510]].
+Still open: McGrath and Collins captures, and the BioLogos web critiques,
+which stay blocked from remote sessions.)*

@@ -167,6 +167,26 @@ network), library/institutional access, or a purchased copy. Left open.
 - **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** maintenance-run (2026-09-01 cycle, inquiry 202609010930)
+- **2026-09-01 ~15:00 cycle progress:** the Plantinga capture is done -- of the
+  two works the entry names, "Two Dozen (or so) Theistic Arguments" turned out
+  to be openly accessible: the 2007 CUP publication (appendix to Baker, ed.,
+  *Alvin Plantinga*, pp. 203-227) is served by the philosopher-maintained
+  "Papers by Alvin Plantinga" archive (andrewmbailey.com/ap), a long-standing
+  professional resource, not a scraper mirror -- though the archive states no
+  explicit hosting permission, a residual recorded in the capture header.
+  Captured as bounded excerpts (preface opening, the 1986 headnote, and the two
+  teleological sections (E) and (F), complete) to raw/202609011500, every
+  paragraph verified against two independent PDF extractors; with
+  [[plantinga-two-dozen-theistic-arguments--202609011500]],
+  [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]],
+  and [[design-arguments-can-confirm-belief-they-do-not-ground--202609011510]].
+  Inquiry 202609010930 updated in place: rank-1 (fine-tuning) gains a second
+  captured named endorsement, rank-5 (beauty/naive) gains a captured
+  assessment agreeing with its placement, and the closing caveat now records
+  Plantinga's cross-cutting confirmation-not-proof scale. Still open: McGrath
+  (*A Fine-Tuned Universe*) and Collins (Blackwell Companion chapter), both
+  still likely needing purchased/library access, and the BioLogos web
+  critiques (429-blocked from remote sessions). Entry stays in-progress.
 - **2026-09-01 ~14:00 cycle progress:** the Behe-specific irreducible-complexity
   capture flagged by the ~13:00 cycle is done — Behe's own overview essay
   "Molecular Machines: Experimental Support for the Design Inference"

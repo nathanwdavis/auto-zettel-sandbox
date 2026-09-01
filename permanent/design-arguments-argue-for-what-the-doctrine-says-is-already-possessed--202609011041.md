@@ -18,6 +18,8 @@ links:
   relation: shared-concept
 - target_id: calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036
   relation: shared-concept
+- target_id: design-arguments-can-confirm-belief-they-do-not-ground--202609011510
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

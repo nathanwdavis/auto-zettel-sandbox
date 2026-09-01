@@ -93,6 +93,9 @@
     "202609011400": "behe-molecular-machines--202609011400",
     "202609011405": "behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405",
     "202609011410": "the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410",
+    "202609011500": "plantinga-two-dozen-theistic-arguments--202609011500",
+    "202609011505": "plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505",
+    "202609011510": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -154,7 +157,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 98,
+  "note_count": 101,
   "notes": [
     {
       "id": "202609010113",
@@ -680,6 +683,10 @@
         {
           "relation": "supports",
           "target_id": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
         }
       ],
       "path": "literature/calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036.md",
@@ -813,6 +820,10 @@
         },
         {
           "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "shared-concept",
           "target_id": "hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037"
         },
         {
@@ -831,6 +842,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041.md"
+    },
+    {
+      "id": "202609011510",
+      "key": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037"
+        },
+        {
+          "relation": "source",
+          "target_id": "plantinga-two-dozen-theistic-arguments--202609011500"
+        }
+      ],
+      "path": "permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md",
+      "slug": "design-arguments-can-confirm-belief-they-do-not-ground",
+      "tags": [],
+      "title": "Design arguments can confirm belief they do not ground",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
     },
     {
       "id": "202608311940",
@@ -921,6 +961,10 @@
         {
           "relation": "supports",
           "target_id": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
         },
         {
           "relation": "source",
@@ -1497,6 +1541,39 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010.md"
+    },
+    {
+      "id": "202609011505",
+      "key": "plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "plantinga-two-dozen-theistic-arguments--202609011500"
+        }
+      ],
+      "path": "literature/plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505.md",
+      "slug": "plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs",
+      "tags": [],
+      "title": "Plantinga makes theistic arguments probabilistic helps, not proofs",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505.md"
+    },
+    {
+      "id": "202609011500",
+      "key": "plantinga-two-dozen-theistic-arguments--202609011500",
+      "links": [],
+      "path": "reference/plantinga-two-dozen-theistic-arguments--202609011500.md",
+      "slug": "plantinga-two-dozen-theistic-arguments",
+      "tags": [],
+      "title": "Plantinga, Two Dozen (or so) Theistic Arguments",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/plantinga-two-dozen-theistic-arguments--202609011500.md"
     },
     {
       "id": "202609010203",
