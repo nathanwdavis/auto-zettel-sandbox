@@ -23,5 +23,6 @@ updated: '2026-09-01'
 - [[compounding-favors-horizons-longer-than-one-life--202609010205]]
 - [[long-horizon-compounding-is-bounded-by-institutional-survival--202609010509]]
 - [[no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704]]
+- [[universal-compounding-turns-bounded-room-into-selection--202609010910]]
 
 See also: [[zettelkasten-method--202608301300]]

@@ -145,3 +145,19 @@ purchased copy.
 - **asked_by:** human
 
 (no further detail)
+
+**2026-09-01 ~09:00 attempt (maintenance-run, browser-equipped remote
+session):** this container ships pinned Chromium + Playwright, so the
+"browser access" path was tried directly — and it cannot work from this
+environment class: the session's egress proxy closes the tunnel on
+Chromium's TLS ClientHello for EVERY https host (ws_closed_mid_exchange;
+disabling the post-quantum key share did not help), so the browser never
+completes a single handshake. Fallbacks all hit Cloudflare 403: curl on
+place.asburyseminary.edu/cgi/viewcontent.cgi (landing page loads,
+article=2450 PDF blocked), PhilPapers/PhilArchive mirrors (correct
+archive id is TOMHTT, not BOGHTT), the r.jina.ai reader relay, and the
+server-side WebFetch tool. Semantic Scholar and OpenAlex both confirm
+the only OA locations are exactly these blocked ones (oa_status bronze,
+no repository fulltext). Conclusion: not obtainable from remote-session
+environments at all; needs the laptop path (real browser on a real
+network), library/institutional access, or a purchased copy. Left open.
