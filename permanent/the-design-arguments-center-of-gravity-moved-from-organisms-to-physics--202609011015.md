@@ -18,6 +18,8 @@ links:
   relation: shared-concept
 - target_id: knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040
   relation: shared-concept
+- target_id: the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

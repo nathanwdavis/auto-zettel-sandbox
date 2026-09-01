@@ -64,6 +64,12 @@ end).
    Ways." In evangelical use it typically appears as a frame for
    argument 1 (why are there elegant laws at all?) rather than as a
    free-standing proof; no primary Aquinas capture yet.
+   *(2026-09-01 later cycle: primary capture done -- ST I q.2 in the 1920
+   Dominican translation, two witnesses; see
+   [[aquinas-summa-theologiae-i-q2--202609011201]] and
+   [[the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211]],
+   which grounds this rank's contrast between regularity and
+   contrivance.)*
 
 5. **Beauty and intelligibility.** The intuition SEP places at the root
    of the whole family -- that accident "couldn't produce the order,

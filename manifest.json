@@ -82,6 +82,9 @@
     "202609011040": "knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040",
     "202609011041": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041",
     "202609011042": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042",
+    "202609011201": "aquinas-summa-theologiae-i-q2--202609011201",
+    "202609011206": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
+    "202609011211": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -143,7 +146,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 87,
+  "note_count": 90,
   "notes": [
     {
       "id": "202609010113",
@@ -381,6 +384,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md"
+    },
+    {
+      "id": "202609011206",
+      "key": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q2--202609011201"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211"
+        }
+      ],
+      "path": "literature/aquinas-makes-god-demonstrable-only-from-effects--202609011206.md",
+      "slug": "aquinas-makes-god-demonstrable-only-from-effects",
+      "tags": [],
+      "title": "Aquinas makes God demonstrable only from effects",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-makes-god-demonstrable-only-from-effects--202609011206.md"
+    },
+    {
+      "id": "202609011201",
+      "key": "aquinas-summa-theologiae-i-q2--202609011201",
+      "links": [],
+      "path": "reference/aquinas-summa-theologiae-i-q2--202609011201.md",
+      "slug": "aquinas-summa-theologiae-i-q2",
+      "tags": [],
+      "title": "Aquinas, Summa Theologica I q.2 (Dominican trans., 1920)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q2--202609011201.md"
     },
     {
       "id": "202608311038",
@@ -1713,6 +1749,10 @@
           "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
         }
@@ -1748,6 +1788,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211"
         }
       ],
       "path": "permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md",
@@ -1757,6 +1801,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
+    },
+    {
+      "id": "202609011211",
+      "key": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q2--202609011201"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        }
+      ],
+      "path": "permanent/the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211.md",
+      "slug": "the-fifth-way-infers-a-director-from-regularity-not-contrivance",
+      "tags": [],
+      "title": "The fifth way infers a director from regularity, not contrivance",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211.md"
     },
     {
       "id": "202609011038",

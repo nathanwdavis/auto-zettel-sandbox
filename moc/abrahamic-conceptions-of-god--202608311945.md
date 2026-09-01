@@ -44,6 +44,7 @@ natural theology).
 
 - [[the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015]]
 - [[the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016]]
+- [[the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211]]
 
 ## Knowability and the design arguments
 
@@ -62,7 +63,7 @@ Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronom
 [[nostra-aetate--202608311924]], [[anselm-proslogium--202609010830]]. Scholarship: [[tachin-do-they-worship-the-same-god--202608311925]], [[vroom-do-all-religious-traditions-worship-the-same-god--202608311926]],
 [[bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833]]. The public dispute:
 [[gjelten-do-christians-and-muslims-worship-the-same-god--202608311927]], [[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]], [[beckwith-why-muslims-and-christians-worship-the-same-god--202609010832]].
-Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003]], [[craig-the-teleological-argument-and-the-anthropic-principle--202609011005]]
-(literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]]).
+Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003]], [[craig-the-teleological-argument-and-the-anthropic-principle--202609011005]], [[aquinas-summa-theologiae-i-q2--202609011201]]
+(literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]], [[aquinas-makes-god-demonstrable-only-from-effects--202609011206]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
 (literature: [[calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036]], [[hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037]], [[the-general-revelation-passages-describe-a-wordless-disclosure--202609011038]]).

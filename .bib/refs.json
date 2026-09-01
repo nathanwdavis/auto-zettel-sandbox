@@ -678,5 +678,39 @@
     "title": "Systematic Theology",
     "type": "book",
     "volume": "1"
+  },
+  {
+    "URL": "https://www.gutenberg.org/ebooks/17611",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "edition": "2nd rev.",
+    "id": "202609011201",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1274
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologica, Part I (Prima Pars)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
+    "type": "book"
   }
 ]

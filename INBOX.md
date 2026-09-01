@@ -164,9 +164,21 @@ network), library/institutional access, or a purchased copy. Left open.
 
 ## 2026-09-01 — Follow-up: teleological-arguments ranking rests on Craig plus the SEP survey; broaden the evangelical-assessment base
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** maintenance-run (2026-09-01 cycle, inquiry 202609010930)
+- **2026-09-01 (later cycle) progress:** the easiest candidate is done — Aquinas,
+  Summa Theologiae I q.2 a.3 (Fifth Way) captured complete in the public-domain
+  1920 Dominican translation from two independent digitizations (Project
+  Gutenberg #17611 anchor + New Advent cross-check) to
+  raw/202609011201-aquinas-summa-i-q2-existence-of-god.txt, with
+  [[aquinas-summa-theologiae-i-q2--202609011201]],
+  [[aquinas-makes-god-demonstrable-only-from-effects--202609011206]], and
+  [[the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211]];
+  the inquiry's rank-4 "no primary Aquinas capture yet" caveat is updated in
+  place. Still open: Plantinga, McGrath, the BioLogos-vs-Discovery exchange
+  (capturable from a remote session), and Collins (likely paywalled); ranks 3-5
+  not yet revisited on a broader base, so the entry stays open.
 
 The answer to inquiry 202609010930 ranks the top design arguments in
 evangelical natural theology on three captured sources: Paley (primary),
@@ -185,7 +197,17 @@ now cited only via the SEP.
 
 ## 2026-09-01 — User request (2026-09-01, recorded by the knowability ad-hoc cycle): run the connector (serendipity sweep + adjudication) and the skill-smith (one proposal + A/B trial) in this cycle, running both regardless of their configured cadences for this run only. [Correction, same cycle, critic finding: config.yml currently sets connector_cadence=daily and skill_smith_cadence=weekly, not the weekly/monthly this entry first claimed - the values were quoted from a stale read of config.yml before another cycle changed them.] Cadences in config.yml are unchanged by this run. Skill-smith promotion remains human-only (FR-36): any proposal is left for the user to promote or reject via scripts/skill_review.py.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** Fulfilled by the cycle that recorded it (branch
+  zettel/run-20260901103000, merged as PR #22). log.md for that cycle records
+  both: the connector ran the serendipity sweep (10 proposals) and adjudicated
+  them (7 accepted with reciprocal typed links written into both notes, 3
+  rejected as MOC-membership bookkeeping), and the skill-smith proposed
+  source-access-triage (202609011101) with its A/B trial run and honestly
+  recorded as a loss (with=0.92, without=0.963, n=3) in skill-impact.md. The
+  proposal awaits the human promote/reject decision via
+  scripts/skill_review.py (FR-36); nothing further for a maintenance run to
+  do here.
 - **priority:** normal
 - **asked_by:** human
 
