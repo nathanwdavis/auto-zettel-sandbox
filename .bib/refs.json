@@ -362,5 +362,29 @@
     "publisher-place": "London",
     "title": "An Essay on the Principle of Population, as It Affects the Future Improvement of Society. With Remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers",
     "type": "book"
+  },
+  {
+    "URL": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+    "author": [
+      {
+        "family": "Bush",
+        "given": "Vannevar"
+      }
+    ],
+    "container-title": "The Atlantic Monthly",
+    "id": "202609010800",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1945,
+          7
+        ]
+      ]
+    },
+    "page": "101-108",
+    "title": "As We May Think",
+    "type": "article-magazine",
+    "volume": "176"
   }
 ]

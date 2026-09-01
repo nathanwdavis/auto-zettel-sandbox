@@ -48,6 +48,9 @@
     "202609010702": "malthus-an-essay-on-the-principle-of-population--202609010702",
     "202609010703": "malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703",
     "202609010704": "no-linear-supply-can-permanently-outpace-a-compounding-demand--202609010704",
+    "202609010800": "bush-as-we-may-think--202609010800",
+    "202609010801": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801",
+    "202609010802": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -71,7 +74,7 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 53,
+  "note_count": 56,
   "notes": [
     {
       "id": "202609010113",
@@ -270,6 +273,39 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202609010800",
+      "key": "bush-as-we-may-think--202609010800",
+      "links": [],
+      "path": "reference/bush-as-we-may-think--202609010800.md",
+      "slug": "bush-as-we-may-think",
+      "tags": [],
+      "title": "Bush, As We May Think",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bush-as-we-may-think--202609010800.md"
+    },
+    {
+      "id": "202609010801",
+      "key": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bush-as-we-may-think--202609010800"
+        },
+        {
+          "relation": "supports",
+          "target_id": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802"
+        }
+      ],
+      "path": "literature/bush-makes-the-stored-trail-the-unit-of-selection--202609010801.md",
+      "slug": "bush-makes-the-stored-trail-the-unit-of-selection",
+      "tags": [],
+      "title": "Bush makes the stored trail the unit of selection",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/bush-makes-the-stored-trail-the-unit-of-selection--202609010801.md"
     },
     {
       "id": "202608311143",
@@ -911,6 +947,39 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shema-deuteronomy-6-4-5--202608311921.md"
+    },
+    {
+      "id": "202609010802",
+      "key": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bush-as-we-may-think--202609010800"
+        },
+        {
+          "relation": "source",
+          "target_id": "bush-makes-the-stored-trail-the-unit-of-selection--202609010801"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "topic-head-filing-optimizes-retrieval-not-connection--202609010604"
+        }
+      ],
+      "path": "permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md",
+      "slug": "storing-links-as-objects-makes-association-durable-and-shareable",
+      "tags": [],
+      "title": "Storing links as objects makes association durable and shareable",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md"
     },
     {
       "id": "202608311925",
