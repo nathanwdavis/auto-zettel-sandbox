@@ -712,5 +712,55 @@
       }
     ],
     "type": "book"
+  },
+  {
+    "ISSN": "0892-2675",
+    "URL": "https://www.asa3.org/ASA/PSCF/2010/PSCF12-10Venema.pdf",
+    "author": [
+      {
+        "family": "Venema",
+        "given": "Dennis R."
+      }
+    ],
+    "container-title": "Perspectives on Science and Christian Faith",
+    "id": "202609011310",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    },
+    "page": "276-283",
+    "title": "Seeking a Signature: Essay Review of Signature in the Cell: DNA and the Evidence for Intelligent Design, by Stephen C. Meyer",
+    "type": "article-journal",
+    "volume": "62"
+  },
+  {
+    "ISSN": "0892-2675",
+    "URL": "https://www.asa3.org/ASA/PSCF/2011/PSCF9-11Meyer.pdf",
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Stephen C."
+      }
+    ],
+    "container-title": "Perspectives on Science and Christian Faith",
+    "id": "202609011311",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          9
+        ]
+      ]
+    },
+    "page": "171-182",
+    "title": "Of Molecules and (Straw) Men: A Response to Dennis Venema's Review of Signature in the Cell",
+    "type": "article-journal",
+    "volume": "63"
   }
 ]

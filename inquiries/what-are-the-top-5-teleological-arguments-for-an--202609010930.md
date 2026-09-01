@@ -56,6 +56,18 @@ end).
    records the "vociferous criticism and opposition" it drew, including
    the charge that it argues from gaps. (Direct captures of evangelical
    critics and defenders are still lacking -- see INBOX.)
+   *(2026-09-01 later cycle: partly filled -- the openly published PSCF
+   exchange between Venema (BioLogos-affiliated critic) and Meyer
+   (Discovery Institute defender) over the specified-information form of
+   the argument is now captured; see
+   [[venema-seeking-a-signature--202609011310]],
+   [[meyer-of-molecules-and-straw-men--202609011311]], and
+   [[the-information-design-argument-turns-on-where-selection-begins--202609011320]],
+   which documents that this rank's "contested even among believing
+   scientists" is a dispute over where selection's writ begins, argued on
+   scientific grounds inside the ASA's own journal. A Behe-specific
+   irreducible-complexity capture is still lacking -- the BioLogos side's
+   web articles on it are bot-blocked (HTTP 429) from remote sessions.)*
 
 4. **Order/lawfulness arguments (the Fifth Way lineage).** From the
    ordered regularity of nature as such rather than any particular

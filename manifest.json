@@ -85,6 +85,11 @@
     "202609011201": "aquinas-summa-theologiae-i-q2--202609011201",
     "202609011206": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
     "202609011211": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211",
+    "202609011310": "venema-seeking-a-signature--202609011310",
+    "202609011311": "meyer-of-molecules-and-straw-men--202609011311",
+    "202609011315": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315",
+    "202609011316": "meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316",
+    "202609011320": "the-information-design-argument-turns-on-where-selection-begins--202609011320",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -146,7 +151,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 90,
+  "note_count": 95,
   "notes": [
     {
       "id": "202609010113",
@@ -1222,6 +1227,48 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md"
     },
     {
+      "id": "202609011316",
+      "key": "meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "meyer-of-molecules-and-straw-men--202609011311"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-information-design-argument-turns-on-where-selection-begins--202609011320"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315"
+        }
+      ],
+      "path": "literature/meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316.md",
+      "slug": "meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information",
+      "tags": [],
+      "title": "Meyer confines Signature's argument to the prebiotic origin of information",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316.md"
+    },
+    {
+      "id": "202609011311",
+      "key": "meyer-of-molecules-and-straw-men--202609011311",
+      "links": [
+        {
+          "relation": "historical-connection",
+          "target_id": "venema-seeking-a-signature--202609011310"
+        }
+      ],
+      "path": "reference/meyer-of-molecules-and-straw-men--202609011311.md",
+      "slug": "meyer-of-molecules-and-straw-men",
+      "tags": [],
+      "title": "Meyer, Of Molecules and (Straw) Men (PSCF 63.3)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/meyer-of-molecules-and-straw-men--202609011311.md"
+    },
+    {
       "id": "202608311930",
       "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
       "links": [
@@ -1792,6 +1839,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-information-design-argument-turns-on-where-selection-begins--202609011320"
         }
       ],
       "path": "permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md",
@@ -1851,6 +1902,39 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-general-revelation-passages-describe-a-wordless-disclosure--202609011038.md"
+    },
+    {
+      "id": "202609011320",
+      "key": "the-information-design-argument-turns-on-where-selection-begins--202609011320",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316"
+        },
+        {
+          "relation": "source",
+          "target_id": "meyer-of-molecules-and-straw-men--202609011311"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315"
+        },
+        {
+          "relation": "source",
+          "target_id": "venema-seeking-a-signature--202609011310"
+        }
+      ],
+      "path": "permanent/the-information-design-argument-turns-on-where-selection-begins--202609011320.md",
+      "slug": "the-information-design-argument-turns-on-where-selection-begins",
+      "tags": [],
+      "title": "The information design argument turns on where selection begins",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-information-design-argument-turns-on-where-selection-begins--202609011320.md"
     },
     {
       "id": "202608311933",
@@ -2052,6 +2136,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/universal-compounding-turns-bounded-room-into-selection--202609010910.md"
+    },
+    {
+      "id": "202609011315",
+      "key": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "the-information-design-argument-turns-on-where-selection-begins--202609011320"
+        },
+        {
+          "relation": "source",
+          "target_id": "venema-seeking-a-signature--202609011310"
+        }
+      ],
+      "path": "literature/venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315.md",
+      "slug": "venema-finds-no-thorough-search-behind-signatures-design-inference",
+      "tags": [],
+      "title": "Venema finds no thorough search behind Signature's design inference",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315.md"
+    },
+    {
+      "id": "202609011310",
+      "key": "venema-seeking-a-signature--202609011310",
+      "links": [],
+      "path": "reference/venema-seeking-a-signature--202609011310.md",
+      "slug": "venema-seeking-a-signature",
+      "tags": [],
+      "title": "Venema, Seeking a Signature (PSCF 62.4)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/venema-seeking-a-signature--202609011310.md"
     },
     {
       "id": "202608311926",

@@ -1,0 +1,324 @@
+Bounded excerpt capture of Stephen C. Meyer, "Of Molecules and (Straw)
+Men: A Response to Dennis Venema's Review of Signature in the Cell",
+Perspectives on Science and Christian Faith 63, no. 3 (September 2011):
+171-82 (an "Author Exchange" piece answering Venema's essay review in
+PSCF 62, no. 4). Captured from the journal's own PDF, served openly by
+the publisher (the American Scientific Affiliation) at
+https://www.asa3.org/ASA/PSCF/2011/PSCF9-11Meyer.pdf
+(fetched 2026-09-01T12:59Z, minute precision, HTTP 200; 12-page PDF,
+180,115 bytes). The article is an in-copyright journal essay served
+free by the copyright holder's own site, so per this repository's
+excerpt policy the capture is BOUNDED EXCERPTS, not the full article:
+five contiguous blocks, roughly a third of the text, covering the spans
+the notes quote from. The skipped sections ("From the Horse's Mouth"
+except its closing paragraphs, most of "Relevant (but inadequate)
+Critiques", "Problems with the RNA-World Hypothesis", "Direct Template
+Models of the Origin of the Genetic Code" with its figure, the
+endnotes, and the author biography box) are NOT captured; notes must
+not quote them, and cite them only as attributed summary.
+
+Text was extracted from the PDF with pdfminer.six and hand-reflowed:
+end-of-line hyphenation rejoined, line breaks within paragraphs
+removed, running headers/footers ("Author Exchange", the article title,
+"Stephen C. Meyer", journal/volume/page furniture) dropped, and the
+opening drop-cap ("A s a longtime") rejoined; superscript endnote
+numerals are preserved inline as plain digits where they occur in the
+captured spans. Character normalizations applied throughout and
+recorded here: typographic (curly) quotes to straight quotes, em dashes
+to "--", and typographic ellipses to "...". The two-column layout
+displaces the occasional short word or phrase onto a stray line (a
+floating "for" belonging to the subtitle of Signature in the Cell in
+the opening paragraph; "throughout most of his review," displaced
+around "Unfortunately," in "Missing a Basic Distinction"; a floating
+"approach," in the final paragraph). Every captured paragraph below was
+checked programmatically against the pdfminer extraction, and each of
+the three displaced-word reconstructions was confirmed against an
+independent second extraction of the same PDF with pypdf, which reads
+those lines in the order transcribed here. Nothing else was altered. Single-witness capture (publisher's own PDF); quotations must
+match this capture verbatim.
+
+Elisions WITHIN a block are marked with a bracketed line
+"[ ... paragraphs omitted ... ]" and described in the block preamble;
+an unmarked paragraph boundary means the paragraphs are contiguous in
+the original.
+
+BLOCK 1 -- title, byline, and the response's opening statement of its
+two theses (article p. 171).
+
+Of Molecules and (Straw) Men: A Response to Dennis Venema's Review of
+Signature in the Cell
+
+Stephen C. Meyer
+
+As a longtime ASA member, I was obviously pleased to see Perspectives
+on Science and Christian Faith (PSCF) devote a review essay in its
+December 2010 issue to an assessment of my recent book, Signature in
+the Cell: DNA and the Evidence for Intelligent Design (HarperOne 2009).
+I also welcomed the general approach of PSCF's designated reviewer
+Dennis Venema. Unlike some critics, Venema at least attempted to assess
+the issues raised in Signature in the Cell by appealing to scientific
+evidence rather than merely dismissing the idea of intelligent design
+with pejorative labels (such as "scientific creationism") or a priori
+philosophical judgments (such as "intelligent design is not science").1
+
+Nevertheless, Venema argued that the scientific evidence does not
+support my argument for intelligent design, and he offered several
+lines of evidence in an attempt to refute it. And, of course, I
+disagree with his arguments. In this response, I will show why. I will
+demonstrate that Venema did not refute the argument of Signature in the
+Cell and that he failed to do so for two main reasons:
+
+(1) The balance of his review is spent refuting an argument that
+Signature in the Cell does not make and, thus, the evidence he cites is
+irrelevant to the main argument of the book; in short, Venema "refutes"
+a straw man;
+
+(2) The relevant scientific proposals that Venema does cite as evidence
+against the thesis of the book are deeply flawed. In particular,
+
+(a) The RNA-world hypothesis has not solved the problem of the origin
+of life or the origin of biological information.
+
+(b) The "direct templating" model of the origin of the genetic code
+fails to explain both the origin of the code and the origin of
+sequence-specific genetic information.
+
+Let us consider each of these problems in turn.
+
+BLOCK 2 -- the "Venema's Straw Man" section (article p. 172).
+
+Venema's Straw Man
+
+After beginning with a reasonably accurate (though incomplete)
+chapter-by-chapter summary of the argument of the book, Venema makes an
+abrupt disconnect with his own exposition and proceeds to critique an
+argument wholly different from the one he has just summarized. Whereas
+my book attempts to establish intelligent design as the best
+explanation for the information necessary to produce the first life,
+Venema critiques the claim that natural selection and random mutation
+cannot produce the information necessary to produce new forms of life
+from preexisting forms of life. While the book presents intelligent
+design as an alternative to chemical evolutionary theory, Venema
+critiques it as if it had presented a critique of neo-Darwinism--i.e.,
+biological evolutionary theory.
+
+To establish that Venema failed in the main to address my argument, it
+might be helpful to summarize the actual argument of Signature in the
+Cell for those who have not yet read it.
+
+BLOCK 3 -- the closing paragraphs of "From the Horse's Mouth: The
+Argument of Signature in the Cell" (article pp. 173-4), stating the
+book's negative and positive theses. The section's earlier paragraphs
+(the DNA enigma, Shannon versus functional information, inference to
+the best explanation, causal adequacy and Lyell's "causes now in
+operation") are not captured.
+
+To do so, Signature in the Cell argues, first, that no purely
+undirected physical or chemical process--whether those based upon
+chance, law-like necessity, or the combination of the two--has provided
+an adequate causal explanation for the ultimate origin of the
+functionally specified biological information. In making that claim, I
+specifically stipulate that I am talking about undirected physical or
+chemical processes, not processes (such as random genetic mutation and
+natural selection) that commence only once life has begun. (Clearly,
+material processes that only commence once life has begun cannot be
+invoked to explain the origin of the information necessary to produce
+life in the first place). Nevertheless, I do examine the leading
+naturalistic attempts to account for the ultimate origin of biological
+information, including chance-based theories, self-organizational
+theories, theories of prebiotic natural selection, including the
+RNA-world hypothesis and DNA-first, protein-first, and metabolism-first
+theories. As a result of this analysis, I show that attempts to account
+for the origin of specified biological information starting "from
+purely physical or chemical antecedents" have repeatedly failed.
+
+On the other hand, I further argue, based upon our uniform and repeated
+experience, we do know of a cause--a type of cause--that has
+demonstrated the power to produce functionally specified information
+from physical or chemical constituents. That cause is intelligence, or
+mind, or conscious activity. As information theorist Henry Quastler
+observed, "The creation of information is habitually associated with
+conscious activity."12 Indeed, whenever we find specified
+information--whether embedded in a radio signal, carved in a stone
+monument, etched on a magnetic disc, or produced by a genetic algorithm
+or ribozyme engineering experiment--and we trace it back to its source,
+invariably we come to a mind, not merely a material process. And, as
+origin-of-life research itself has helped to demonstrate, we know of no
+other cause capable of producing functional specified information
+starting, again, from a purely physical or chemical state. Thus, the
+discovery of functionally specified, digitally encoded information in
+the DNA of even the simplest living cells provides compelling positive
+evidence for the activity of a prior designing intelligence at the
+point of the origin of the first life.
+
+BLOCK 4 -- the "Missing a Basic Distinction" section (article pp.
+174-5), through its common-ancestry paragraphs.
+
+Missing a Basic Distinction
+
+To refute a best-explanation argument, Venema correctly understands
+that he must cite an alternative explanation with equal or superior
+explanatory power. That means he must show that some other process or
+cause (other than intelligence) has demonstrated the power to produce
+the effect in question. Unfortunately, throughout most of his review,
+Venema equivocates in his description of that effect (i.e., what needs
+to be explained). He fails to distinguish between the ultimate origin
+of the biological information necessary to produce the first life and
+the addition of information necessary to produce new forms of life (or
+new proteins) from preexisting genetic information and living
+organisms. Instead, he spends much of his review attempting to
+establish that natural selection and random genetic mutations can add
+new genetic information to preexisting organisms, apparently unaware
+that he is defending at length a claim that my book does not challenge.
+Thus, Venema incorrectly insists that "Meyer's main argument" concerns
+"the inability of random mutation and selection to add information to
+DNA" (p. 278, emphasis mine).
+
+I happen to think--but do not argue in Signature in the Cell--that
+there are significant grounds for doubting that mutation and selection
+can add enough new information to account for various
+macro-evolutionary innovations. Nevertheless, the book that Venema was
+reviewing, Signature in the Cell, does not address the issue of
+biological evolution, nor does it challenge whether mutation and
+selection can add new information to DNA. That is simply not what the
+book is about. Instead, it argues that no undirected chemical process
+has demonstrated the capacity to produce the information necessary to
+generate life in the first place. The book addresses the subject of
+chemical evolution and the origin of life, not biological evolution and
+its subsequent diversification. To imply otherwise, as Venema does, is
+simply to critique a straw man.
+
+To those unfamiliar with the particular problems faced by
+origin-of-life research, the distinction between prebiotic and
+postbiotic information generation might seem like hairsplitting. After
+all, it might be argued that if natural selection can generate new
+information in living organisms, why can it also not do so in a
+prebiotic environment? Yet the distinction between a biotic and
+prebiotic context is crucially important. The process of natural
+selection classically understood presupposes the differential
+reproduction of living organisms and thus a preexisting mechanism of
+self-replication. Yet, self-replication in all extant cells depends
+upon functional (and therefore, sequence-specific, information-rich)
+proteins and nucleic acids. Yet the origin of such information-rich
+molecules is precisely what origin-of-life research needs to explain.
+For this reason, Theodosius Dobzhansky insisted, "Pre-biological
+natural selection is a contradiction in terms."13 Or as Christian de
+Duve has explained, theories of prebiotic natural selection fail
+because they "need information which implies they have to presuppose
+what is to be explained in the first place."14
+
+Of course, some origin-of-life researchers, in particular those
+advocating the RNA-world hypothesis, have attempted to extend the
+concept of natural selection and differential reproduction to nonliving
+molecules. In particular, some researchers have proposed that
+self-replicating RNA molecules might establish something akin to
+natural selection in a prebiotic context. Nevertheless, I critique this
+proposal at length in my book (see summary below). Yet Venema neither
+acknowledges nor refutes that critique. Instead, he conflates the
+problems of generating information via biological and prebiological
+natural selection, and in so doing, fails to grapple with the critical
+difficulties in origin-of-life research that partly underscore the
+cogency of my argument.
+
+In addition to "refuting" claims I do not make, Venema devotes an
+entire section of his review to criticizing the book for failing to
+discuss common ancestry.15 Nevertheless, the theory of universal common
+descent is part of the theory of biological evolution--both classical
+Darwinism and the neo-Darwinian synthesis. Since Signature in the Cell
+does not challenge either of these two theories, there was no reason
+for it to address the evidence for (or against) universal common
+descent. Needless to say, common ancestry does not become an issue
+until life has arisen. And again, my book is about the origin of life,
+not its subsequent development.16
+
+BLOCK 5 -- the opening paragraphs of "Relevant (but inadequate)
+Critiques: Metabolism First and the RNA World" (article p. 175), and,
+after a marked elision of the sections on metabolism-first theories,
+the RNA world, and the Yarus direct-templating work, the "Conclusion"
+section (article p. 179).
+
+Relevant (but inadequate) Critiques: Metabolism First and the RNA World
+
+After spending most of his critique of Signature in the Cell defending
+a mechanism of biological evolution, Venema does at last return to
+evaluating the claims of the book itself, however briefly. When he
+does, he grudgingly acknowledges that "Meyer is correct that no
+complete mechanism for abiogenesis has yet been put forward" (p. 280).
+Nevertheless, he then faults the book for
+
+focus[ing] disproportionately on outdated, discarded origin-of-life
+hypotheses, giv[ing] current science on the issue short shrift ... for
+example, the major model favored by many scientists is the "RNA world"
+hypothesis, yet Meyer spends little time on it. Other current models,
+such as "metabolism first" hypotheses, receive no attention at all.
+This seriously compromises Meyer's argument, since his conclusion of
+design depends on his assertion that he has performed a "thorough
+search" to exclude all natural alternatives to intelligent intervention
+at the origin of life ... Of this section [critiquing naturalistic
+models], the only current origin-of-life model (the RNA world) merits a
+slim chapter of twenty-eight pages. (p. 280)
+
+It is important when encountering such critique to keep an eye on the
+ball. Discerning readers will notice that Venema did not offer what
+would have been necessary to refute the thesis of the book, namely, a
+causally adequate alternative explanation for the origin of the
+information necessary to produce the first life. Instead, he
+effectively concedes the main argument of the book by acknowledging
+that "no such mechanism ... has been put forward" (p. 280). He does not
+argue, for example, that either the RNA-world hypothesis or the
+metabolism-first model explains either the origin of life or the origin
+of the information necessary to produce it. Instead, his critique
+merely distracts attention from the central issue of the ultimate
+origin of biological information by quibbling about the length of my
+chapters, my "lack of depth in modern origin-of-life research" (p.
+280), and my "rookie errors" (p. 281)!17
+
+[ ... paragraphs omitted: the balance of "Relevant (but inadequate)
+Critiques", "Problems with the RNA-World Hypothesis", and "Direct
+Template Models of the Origin of the Genetic Code" with its figure and
+the bulleted summary of Meyer and Nelson's critique of Yarus ... ]
+
+Conclusion
+
+I appreciate the opportunity to address the issues raised in Dennis
+Venema's review. Yet, clearly, Venema did not refute the argument of
+Signature in the Cell. The origin-of-life scenarios that Venema cites
+as alternatives to intelligent design lack biochemical plausibility and
+do not account for the ultimate origin of biological information.
+Moreover, Venema failed to recognize the importance of an elementary
+distinction between chemical and biological evolution in his assessment
+of my thesis. In this regard, his review followed a curious, but
+all-too-familiar pattern. Since he is unable to point to any chemical
+evolutionary mechanism that can account for the ultimate origin of
+information, Venema--like other critics of Signature in the Cell such
+as Darrel Falk and Francisco Ayala--attempts to demonstrate with
+various examples that the neo-Darwinian mechanism can generate (at
+least) some new information--albeit in each case starting from a
+preexisting organism. And so, he spends the balance of his review
+rebutting a book on biological evolution that I did not write.
+
+Even so, readers should beware of his confident assertions about the
+alleged creative power of natural selection and random mutation as a
+mechanism of biological evolution. He claims (following Falk and
+various ASA bloggers), for example, that the immune system demonstrates
+the power of the neo-Darwinian mechanism to produce novel genetic
+information. Yet recently, immunologist Donald Ewert has shown that (a)
+the immune system produces only a limited amount of new biological
+information (and clearly not enough information, or the right kind of
+information, to accomplish major evolutionary transformations) and (b)
+that the immune system in no way models the random and undirected
+neo-Darwinian process of mutation and selection. Instead, it is
+preprogrammed to allow only certain types of mutations within certain
+portions of certain genes, and it uses a carefully controlled and
+regulated goal directed process of selection.33 In a similar vein,
+protein engineer Doug Axe has decisively rebutted Arthur Hunt's
+critique of Axe's work,34 which Venema recycled uncritically in his
+review of my book.
+
+In any case, Venema's review of Signature in the Cell is compromised by
+his misrepresentation of the thesis of the book, by his citation of
+sources that do not support his critique, and by a superficial
+discussion of alternative theories of the origin of life. Though I
+appreciate his intended evidential approach, the execution of his
+analysis leaves much to be desired. Accordingly, I encourage PSCF
+readers to consider the merits of Signature in the Cell for themselves.
