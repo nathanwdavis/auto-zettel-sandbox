@@ -256,5 +256,32 @@
     "publisher-place": "London",
     "title": "An Appeal to the Public, on the Subject of the National Debt",
     "type": "book"
+  },
+  {
+    "DOI": "10.6092/issn.1971-8853/8350",
+    "ISSN": "1971-8853",
+    "URL": "https://sociologica.unibo.it/article/view/8350",
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "Johannes F.K."
+      }
+    ],
+    "container-title": "Sociologica",
+    "id": "202609010302",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          26
+        ]
+      ]
+    },
+    "page": "53-60",
+    "title": "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
+    "type": "article-journal",
+    "volume": "12"
   }
 ]
