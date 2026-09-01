@@ -492,5 +492,26 @@
     "title": "How to Tell Whether Christians and Muslims Worship the Same God",
     "type": "article-journal",
     "volume": "34"
+  },
+  {
+    "URL": "https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html",
+    "author": [
+      {
+        "family": "Darwin",
+        "given": "Charles"
+      }
+    ],
+    "id": "202609010908",
+    "issued": {
+      "date-parts": [
+        [
+          1859
+        ]
+      ]
+    },
+    "publisher": "John Murray",
+    "publisher-place": "London",
+    "title": "On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life",
+    "type": "book"
   }
 ]
