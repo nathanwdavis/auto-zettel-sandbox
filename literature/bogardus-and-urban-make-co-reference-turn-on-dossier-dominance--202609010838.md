@@ -12,6 +12,8 @@ locator: abstract (Faith and Philosophy 34.2, pp. 176-200)
 links:
 - target_id: bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833
   relation: source
+- target_id: anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842
+  relation: supports
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

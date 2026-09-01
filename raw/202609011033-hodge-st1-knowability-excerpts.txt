@@ -1,0 +1,1051 @@
+Verbatim capture (three excerpts) for reference 202609011033.
+Charles Hodge, Systematic Theology, Volume I (New York: Scribner, Armstrong,
+and Co., 1872-73). Public domain. Etext: Christian Classics Ethereal Library,
+https://www.ccel.org/ccel/hodge/theology1.html (plain-text cache:
+https://www.ccel.org/ccel/h/hodge/theology1/cache/theology1.txt).
+Fetched: 2026-09-01T10:32:00Z to 2026-09-01T10:33:00Z via curl through the
+session's egress proxy.
+Excerpt A: Part I, ch. I ("Origin of the Idea of God"), sections 1-3 -- the
+knowledge of God as innate, not due to a process of reasoning, not due
+exclusively to tradition.
+Excerpt B: Part I, ch. II ("Theism"), opening of section 3 ("The Teleological
+Argument") -- its nature and syllogistic statement.
+Excerpt C: Part I, ch. IV ("The Knowledge of God"), section 1 ("God can be
+known") complete, including "Our Knowledge of God Partial"; the excerpt ends
+where section 2 ("God cannot be fully known") begins.
+The [EXCERPT ...] markers are file structure, not source text.
+--------------------------------------------------------------------------------
+[EXCERPT A]
+   § 1. The Knowledge of God is Innate.
+
+   A. What is meant by Innate Knowledge.
+
+   By innate knowledge is meant that which is due to our constitution, as
+   sentient, rational, and moral beings. It is opposed to knowledge
+   founded on experience; to that obtained by ab extra instruction; and to
+   that acquired by a process of research and reasoning.
+
+   It cannot be doubted that there is such knowledge, i.e., that the soul
+   is so constituted that it sees certain things to be true immediately in
+   their own light. They need no proof. Men need not be told or taught
+   that the things thus perceived are true. These immediate perceptions
+   are called intuitions, primary truths, laws of belief, innate
+   knowledge, or ideas. Provided we understand what is meant, the
+   designation is of minor importance. The doctrine of innate knowledge,
+   or intuitive truths, does not imply that the child is born with
+   knowledge in conscious exercise in the mind. As knowledge is a form or
+   state of the intelligence, and as that is a state of consciousness,
+   knowledge, in the sense of the act of knowing, must be a matter of
+   consciousness; and, therefore, it is said, cannot be innate. The
+   new-born child has no conscious conviction of the existence of God. But
+   the word knowledge is sometimes used in a passive sense. A man knows
+   what lies dormant in his mind. Most of our knowledge is in that state.
+   All the facts of history stored in the memory, are out of the domain of
+   consciousness, until the mind is turned to them. It is not
+   inconceivable, therefore, that the soul as it comes into the world may
+   be stored with these primary truths which lie dormant in the mind,
+   until roused by the due occasion. This, however, is not what is meant
+   by innate knowledge. The word innate simply indicates the source of the
+   knowledge. That source is our nature; that which is born with us. Nor
+   does the doctrine of innate knowledge imply that the mind is born with
+   ideas, in the sense of "patterns, phantasms, or notions," as Locke
+   calls them; nor that it is furnished by nature with a set of abstract
+   principles, or general truths. All that is meant is, that the mind is
+   so constituted that it perceives certain things to be true without
+   proof and without instruction.
+
+   These intuitive truths belong to the several departments of the senses,
+   the understanding, and our moral nature. In the first place, all our
+   sense perceptions are intuitions. We apprehend their objects
+   immediately, and have an irresistible conviction of their reality and
+   truth. We may draw erroneous conclusions from our sensations; but our
+   sensations, as far as they go, tell us the truth. When a man feels
+   pain, he may refer it to the wrong place, or to a wrong cause; but he
+   knows that it is pain. If he sees an object, he may be mistaken as to
+   its nature; but he knows that he sees, and that what he sees is the
+   cause of the sensation which he experiences. These are intuitions,
+   because they are immediate perceptions of what is true. The conviction
+   which attends our sensations is due not to instruction but to the
+   constitution of our nature.
+
+   In the second place, there are intuitions of the intellect. That is,
+   there are certain truths which the mind perceives to be true
+   immediately, without proof or testimony. Such are the axioms of
+   geometry. No man needs to have it proved to him that the part of a
+   thing is less than the whole; or that a straight line is the shortest
+   distance between two given points. It is an intuitive truth that
+   "nothing" cannot be a cause; that every effect must have a cause. This
+   conviction is not founded on experience, because experience is of
+   necessity limited. And the conviction is not merely that every effect
+   which we or other men have observed has had a cause; but that in the
+   nature of things there can be no effect without an adequate cause. This
+   conviction is said to be an innate truth, not because the child is born
+   with it so that it is included in its infant consciousness, nor because
+   the abstract principle is laid up in the mind, but simply because such
+   is the nature of the mind, that it cannot but see these things to be
+   true. As we are born with the sense of touch and sight, and take
+   cognizance of their appropriate objects as soon as they are presented;
+   so we are born with the intellectual faculty of perceiving these
+   primary truths as soon as they are presented.
+
+   In the third place, there are moral truths which the mind intuitively
+   recognizes as true. The essential distinction between right and wrong;
+   the obligation of virtue; responsibility for character and conduct;
+   that sin deserves punishment; are examples of this class of truths. No
+   man needs to be taught them. No one seeks for further evidence of their
+   being truths than that which is found in their nature.
+
+   There is another remark to be made in reference to the intuitions of
+   the mind. The power of intuitional perception is capable of being
+   increased. It is in fact greater in one man than in other men. The
+   senses of some persons are far more acute than those of others. The
+   senses of hearing and touch are greatly exalted in the case of the
+   blind. It is the same with the intellect. What is self-evident to one
+   man, has to be proved to another. It is said that all the propositions
+   of the First Book of Euclid were as plain at first sight to Newton as
+   the axioms. The same is true in our moral and religious nature. The
+   more that nature is purified and exalted, the clearer is its vision,
+   and the wider the scope of its intuitions. It is not easy to see,
+   therefore, why Sir William Hamilton should make simplicity a
+   characteristic of intuitive truths. If a proposition be capable of
+   resolution into simpler factors, it may still to a powerful intellect
+   be seen as self-evidently true. What is seen immediately, without the
+   intervention of proof, to be true, is, according to the common mode of
+   expression, said to be seen intuitively.
+
+   It is, however, only of the lower exercises of this power that we can
+   avail ourselves in our arguments with our fellow men. Because a truth
+   may be self-evident to one mind, it does not follow that it must be so
+   to all other minds. But there is a class of truths so plain that they
+   never fail to reveal themselves to the human mind, and to which the
+   mind cannot refuse its assent. Hence the criteria of those truths which
+   are accepted as axioms, and which are assumed in all reasoning, and the
+   denial of which renders all faith and all knowledge impossible, are
+   universality and necessity. What all believe, and what all men must
+   believe, is to be assumed as undeniably true. These criteria indeed
+   include each other. If a truth be universally admitted, it must be
+   because no man can rationally call it to question. And if it be a
+   matter of necessary belief it must be accepted by all who possess the
+   nature out of the constitution of which the necessity arises.
+
+   B. Proof that the Knowledge of God is Innate.
+
+   The question now is, Whether the existence of God is an intuitive
+   truth? Is it given in the very constitution of our nature? Is it one of
+   those truths which reveal themselves to every human mind, and to which
+   the mind is forced to assent? In other words, has it the
+   characteristics of universality and necessity? It should be remarked
+   that when universality is made a criterion of intuitive truths, it is
+   intended to apply to those truths only which have their foundation or
+   evidence in the constitution of our nature. As to the external world,
+   if ignorance be universal, error may be universal. All men, for
+   example, for ages believed that the sun moves round the earth; but the
+   universality of that belief was no evidence of its truth.
+
+   When it is asked, Whether the existence of God is an intuitive truth,
+   the question is equivalent to asking, Whether the belief in his
+   existence is universal and necessary? If it be true that all men do
+   believe there is a God, and that no man can possibly disbelieve his
+   existence, then his existence is an intuitive truth. It is one of those
+   given in the constitution of our nature; or which, our nature being
+   what it is, no man can fail to know and to acknowledge.
+
+   Such has been the common opinion in all ages. Cicero [130] says: "Esse
+   Deos, quoniam insitas eorum, vel potius innatas cognitiones habemus."
+   Tertullian [131] says of the heathen of his day, that the common people
+   had a more correct idea of God than the phtilosophers. Calvin [132]
+   says "Hoc quidem recte judicantibus semper constabit, insculptum
+   mentibus humanis esse divinitatis sensum, qui deleri nunquam potest."
+   The whole tendency in our day is, to make the existence of God so
+   entirely a matter of intuition as to lead to the disparagement of all
+   argument in proof of it. This extreme, however, does not justify the
+   denial of a truth so important as that God has not left any human being
+   without a knowledge of his existence and authority.
+
+   The word God, however, is used in a very wide sense. In the Christian
+   sense of the word, "God is a spirit, infinite, eternal, and
+   unchangeable, in his being, wisdom, power, holiness, justice, goodness,
+   and truth." This sublime idea of God no human mind ever attained either
+   intuitively or discursively, except under the light of a supernatural
+   revelation. On the other hand, some philosophers dignify motion, force,
+   or the vague idea of the infinite, with the name of God. In neither of
+   these senses of the word is the knowledge of God said to be innate, or
+   a matter of intuition. It is in the general sense of a Being on whom we
+   are dependent, and to whom we are responsible, that the idea is
+   asserted to exist universally, and of necessity, in every human mind.
+   It is true that if this idea is analyzed, it will be found to embrace
+   the conviction that God is a person, and that He possesses moral
+   attributes, and acts as a moral governor. Nothing is asserted as to how
+   far this analysis is made by uneducated and uncivilized men. All that
+   is maintained is that this sense of dependence and accountability to a
+   being higher than themselves exists in the minds of all men.
+
+   The Knowledge of God is Universal.
+
+   In proof of this doctrine, reference may be made --
+
+   1. To the testimony of Scripture. The Bible asserts that the knowledge
+   of God is thus universal. This it does both directly and by necessary
+   implication. The Apostle directly asserts in regard to the heathen as
+   such without limitation, that they have the knowledge of God, and such
+   knowledge as to render their impiety and immorality inexcusable.
+   "Because that when they knew God," he says, "they glorified him not as
+   God, neither were thankful." (Rom. i. 19-21.) He says of the most
+   depraved of men, that they know the righteous judgment of God, that
+   those who commit sin are worthy of death. (Rom. i. 32.) The Scripture
+   everywhere addresses men as sinners; it calls upon them to repent; it
+   threatens them with punishment in case of disobedience: or promises
+   pardon to those who turn from their sins. All this is done without any
+   preliminary demonstration of the being of God. It assumes that men know
+   that there is a God, and that they are subject to his moral government.
+   It is true that the Bible at times speaks of the heathen as not knowing
+   God, and says that they are without God. But this, as explained by the
+   context in which such declarations appear, and by the general teaching
+   of the Scriptures, only means that the heathen are without correct, or
+   saving knowledge of God; that they are without his favour, do not
+   belong to the number of his people, and of course are not partakers of
+   the blessedness of those whose God is the Lord. In teaching the
+   universal sinfulness and condemnation of men: their inexcusableness for
+   idolatry and immorality, and in asserting that even the most degraded
+   are conscious of guilt and just exposure to the divine judgment, the
+   Bible takes for granted that the knowledge of God is universal, that it
+   is written on the heart of every man.
+
+   This is still more apparent from what the Bible teaches of the law as
+   written on the heart. The Apostle tells us that those who have a
+   written revelation, shall be judged by that revelation; that those who
+   have no externally revealed law, shall be judged by the law written on
+   the heart. That the heathen have such a law, he proves first, from the
+   fact that "they do by nature the things contained in the law," i. e.,
+   they do under the control of their nature the things which the law
+   prescribes; and secondly, from the operations of conscience. When it
+   condemns, it pronounces something done, to be contrary to the moral
+   law; and when it approves, it pronounces something to be conformed to
+   that law. (Rom. ii. 12-16.) The recognition of God, therefore, that is,
+   of a being to whom we are responsible, is involved in the very idea of
+   accountability. Hence every man carries in the very constitution of his
+   being as a moral agent, the evidence of the existence of God. And as
+   this sense of sin and responsibility is absolutely universal, so must
+   also, according to the Bible, be the knowledge of God.
+
+   2. The second argument in favor of the universality of this knowledge,
+   is the historical one. History shows that the religious element of our
+   nature is just as universal as the rational or social one. Wherever men
+   exist, in all ages and in all parts of the world, they have some form
+   of religion. The idea of God is impressed on every human language. And
+   as language is the product and revelation of human consciousness, if
+   all languages have some name for God, it proves that the idea of God,
+   in some form, belongs to every human being.
+
+   Objections to the Assumption that the Knowledge of God is Universal.
+
+   There are two objections often urged against the doctrine that the
+   knowledge of God results from the very constitution of our nature, and
+   is therefore universal. The one is, that travellers and missionaries
+   report the existence of some tribes so degraded that they could
+   discover in them no traces of this knowledge. Even if the fact be
+   admitted that such tribes have no idea of God, it would not be
+   conclusive. Should a tribe of idiots be discovered, it would not prove
+   that reason is not an attribute of our nature. If any community should
+   come to light in which infanticide was universal, it would not prove
+   that parental love was not one of the instincts of humanity. But the
+   probability is that the fact is not as reported. It is very difficult
+   for foreigners to get acquainted with the interior life of those who
+   differ from themselves so much in their intellectual and moral
+   condition. And besides, Christians attach such an exalted meaning to
+   the word God, that when they see no evidence of the presence of that
+   exalted conception in the minds of the heathen, they are apt to
+   conclude that all knowledge of God is wanting. Unless such people show
+   that they have no sense of right and wrong, no consciousness of
+   responsibility for character and conduct, there is no evidence that
+   they have no knowledge of such a being as God.
+
+   The other objection is drawn from the case of the deaf and dumb, who
+   sometimes say that previous to instruction, the idea of God never
+   entered their minds. To this the same answer may be given. The
+   knowledge obtained by Christian instruction so much surpasses that
+   given by intuition, that the latter seems as nothing. It is hardly
+   conceivable that a human soul should exist in any state of development,
+   without a sense of responsibility, and this involves the idea of God.
+   For the responsibility is felt to be not to self, nor to men, but to an
+   invisible Being, higher than self, and higher than man.
+
+   The Belief in God Necessary.
+
+   But if it be admitted that the knowledge of God is universal among men,
+   is it also a necessary belief? Is it impossible for the mind to
+   dispossess itself of the conviction that there is a God? Necessity, as
+   remarked above, may be considered as involved in universality, at least
+   in such a case as this. There is no satisfactory way of accounting for
+   the universal belief in the existence of God, except that such belief
+   is founded on the very constitution of our nature. Nevertheless, these
+   two criteria of intuitive truths are generally distinguished, and are
+   in some aspects distinct.
+
+   The question then is, Is it possible for a sane man to disbelieve in
+   the existence of God? This question is commonly answered in the
+   negative. It is objected, however, that facts prove the contrary. No
+   man has ever been found, who denies that two and two make four, whereas
+   atheists abound in every age and in every part of the world.
+
+   There, are, however, different kinds of necessary truths.
+
+   1. Those the opposite of which is absolutely unthinkable. That every
+   effect must have a cause, that a part of a given thing is less than the
+   whole, are propositions the opposites of which cannot have any meaning.
+   When a man says that something is nothing, he expresses no thought. He
+   denies what he affirms, and therefore says nothing.
+
+   2. There are truths concerning external or material things, which have
+   a power to constrain belief different from that power which pertains to
+   truths concerning the mind. A man cannot deny that he has a body; and
+   he cannot rationally deny that he has a will. The impossibility in both
+   cases may be equal, but they are of different kinds, and affect the
+   mind differently.
+
+   3. Again, there are truths which cannot be denied without doing
+   violence to the laws of our nature. In such cases the denial is forced,
+   and can only be temporary. The laws of our nature are sure sooner or
+   later to assert themselves, and constrain an opposite belief. A
+   pendulum when at rest hangs perpendicularly to the horizon. It may by
+   extraneous force be made to hang at any degree of inclination. But as
+   soon as such force is removed, it is sure to swing back to its normal
+   position. Under the control of a metaphysical theory, a man may deny
+   the existence of the external world, or the obligation of the moral
+   law; and his disbelief may be sincere, and for a time persistent; but
+   the moment the speculative reasons for his disbelief are absent from
+   his mind, it of necessity reverts to its original and natural
+   convictions. It is also possible that a man's hand may be so hardened
+   or cauterized as to lose the sense of touch. But that would not prove
+   that the hand in man is not normally the great organ of touch. So it is
+   possible that the moral nature of a man may be so disorganized by vice
+   or by a false philosophy as to have its testimony for the existence of
+   God effectually silenced. This, however, would prove nothing as to what
+   that testimony really is. Besides this, insensibility and the
+   consequent unbelief cannot last. Whatever rouses the moral nature,
+   whether it be danger, or suffering, or the approach of death, banishes
+   unbelief in a moment. Men pass from skepticism to faith, in many cases,
+   instantaneously; not of course by a process of argument, but by the
+   existence of a state of consciousness with which skepticism is
+   irreconcilable, and in the presence of which it cannot exist. This fact
+   is illustrated continually, not only in the case of the uneducated and
+   superstitious, but even in the case of men of the highest culture. The
+   simple fact of Scripture and experience is, that the moral law as
+   written upon the heart is indelible; and the moral law in its nature
+   implies a lawgiver, one from whom that law emanates, and by whom it
+   will be enforced. And, therefore, so long as men are moral creatures,
+   they will and must believe in the existence of a Being on whom they are
+   dependent, and to whom they are responsible for their character and
+   their conduct. To this extent, and in this sense, therefore, it is to
+   be admitted that the knowledge of God is innate and intuitive; that men
+   no more need to be taught that there is a God, than they need to be
+   taught there is such a thing as sin. But as men are ignorant of the
+   nature and extent of sin, while aware of its existence, until
+   instructed by the Word of God, and enlightened by his Spirit; so they
+   greatly need the same sources of instruction to give them any adequate
+   knowledge of the nature of God, and of their relations to him.
+     __________________________________________________________________
+
+   [130] De Natura Deorum, i. 17.
+
+   [131] Testimonium Animæ.
+
+   [132] Institutio, 1. iii. 3.
+     __________________________________________________________________
+
+   § 2. The Knowledge of God is not due to a Process of Reasoning.
+
+   Those who are unwilling to admit that the idea of God is innate as
+   given in the very constitution of man, generally hold that it is a
+   necessary, or, at least, a natural deduction of reason. Sometimes it is
+   represented as the last and highest generalization of science. As the
+   law of gravitation is assumed to account for a large class of the
+   phenomena of the universe, and as it not only does account for them,
+   but must be assumed in order to understand them; so the existence of an
+   intelligent first cause is assumed to account for the existence of the
+   universe itself, and for all its phenomena. But as such generalizations
+   are possible only for cultivated minds, this theory of the origin of
+   the idea of God, cannot account for belief in his existence in the
+   minds of all men, even the least educated.
+
+   Others, therefore, while regarding this knowledge to be the result of a
+   course of reasoning, make the process far more simple. There are many
+   things which children and illiterate persons learn, and can hardly
+   avoid learning, which need not be referred to the constitution of their
+   nature. Thus the existence of God is so obviously manifested, by
+   everything within and around us, the belief in that existence is so
+   natural, so suited to what we see and what we need, that it comes to be
+   generally adopted. We are surrounded by facts which indicate design; by
+   effects which demand a cause. We have a sense of the infinite which is
+   vague and void, until filled with God. We have a knowledge of ourselves
+   as spiritual beings, which suggests the idea of God, who is a spirit.
+   We have the consciousness of moral qualities, of the distinction
+   between good and evil, and this makes us think of God as a being of
+   moral perfections. All this may be very true, but it is not an adequate
+   account of the facts of the case. It does not give a satisfactory
+   reason for the universality and strength of the conviction of the
+   existence of God. Our own consciousness teaches us that this is not the
+   ground of our own faith. We do not thus reason ourselves into the
+   belief that there is a God; and it is very obvious that it is not by
+   such a process of ratiocination, simple as it is, that the mass of the
+   people are brought to this conclusion.
+
+   Moreover, the process above described does not account for the origin
+   of our belief in God, but only gives the method by which that belief is
+   confirmed and developed. Very little is given by intuition in any case,
+   at least to ordinary minds. What is thus discovered needs to be
+   expanded, and its real contents unfolded. If this be true with the
+   intuitions of sense and of the understanding, why should it not be so
+   of our religious nature?
+
+   The truth is, that all the faculties and feelings of our minds and
+   bodies have their appropriate objects; and the possession of the
+   faculties supposes the existence of those objects. The senses suppose
+   the existence and reality of the objects of sense. The eye, in its very
+   structure, supposes that there is such an element as light; the sense
+   of hearing would be unaccountable and inconceivable without sound; and
+   the sense of touch would be inconceivable were there no tangible
+   objects. The same is true of our social affections; they necessitate
+   the assumption that there are relations suited to their exercises. Our
+   moral nature supposes that the distinction between right and wrong is
+   not chimerical or imaginary. In like manner, our religious feelings,
+   our sense of dependence, our consciousness of responsibility, our
+   aspirations after fellowship with some Being higher than ourselves, and
+   higher than anything which the world or nature contains, necessitates
+   the belief in the existence of God. It is indeed said that if this
+   belief is intuitive and necessary, there is no virtue in it. This
+   objection overlooks the fact that the moral character of our feelings
+   depends on their nature and not on their origin. They may spring from
+   the constitution of our nature, and yet be good or evil as the case may
+   be. A mother's love for her child is instinctive; the absence of the
+   maternal affection in a mother is something unnatural and monstrous,
+   the object of universal condemnation. The sense of pity, of justice,
+   the feelings of benevolence, are instinctive, but none the less
+   virtuous. The same is true of our religious feelings, and of the belief
+   which they involve. We cannot help feeling that we are responsible, and
+   it is right that we should feel so. The man who has brought himself to
+   a state of insensibility to all moral obligation, is what the
+   Scriptures call a "reprobate." Adam believed in God the moment he was
+   created, for the same reason that he believed in the external world.
+   His religious nature, unclouded and undefiled, apprehended the one with
+   the same confidence that his senses apprehended the other. It is of
+   great importance that men should know and feel that they are by their
+   very nature bound to believe in God; that they cannot emancipate
+   themselves from that belief, without derationalizing and demoralizing
+   their whole being.
+     __________________________________________________________________
+
+   § 3. Knowledge of God not due exclusively to Tradition.
+
+   There are some theologians who are unable to believe that the knowledge
+   of God can be referred either to the constitution of our nature, or to
+   any process of reasoning. Not only the exalted view of the Divine Being
+   presented in the Bible, but the simple and perverted apprehensions of
+   his nature prevailing among the heathen, they say must be referred to
+   an original supernatural revelation. Such a revelation was made to our
+   first parents and from them passed over to their descendants. When the
+   knowledge thus communicated began to die out among men, God again
+   revealed himself to Abraham, and made him and his posterity the
+   depositaries of the truth. Either, therefore, from the remains of the
+   primitive revelation, or by radiation from the chosen people, all the
+   knowledge of God existing in the world has been derived. The attempt is
+   made to show that the more remote any people were from the Jews, the
+   less did they know of God; and the more any nation enjoyed of
+   intercourse with the people to whom God had committed his oracles, the
+   more correct and extended was their knowledge.
+
+   This view, although arising from reverence for the Word of God, is
+   evidently extreme. It is true that the further we go back in the
+   history of the world, the nearer we approach the primal revelation, the
+   purer is the knowledge concerning Him. It may also be true, as a
+   general rule, that the more any people were brought under the influence
+   of the truth as held by the chosen people of God, the more enlightened
+   they became. It may further be conceded that those who with the Bible
+   in their hands reject its teachings, and give themselves up to their
+   own speculations, turn, as the Apostle expresses it, "the truth of God
+   into a lie," losing all knowledge of the living and true God. All this,
+   however, does not prove that the knowledge of God is not written on the
+   heart. Our intuitive perceptions need to be cherished, developed, and
+   interpreted. We know from Scripture that the law is written in
+   characters which cannot be obliterated, upon the souls of all men, and
+   yet it has been perverted, misinterpreted, or disregarded by men in
+   every age and in every part of the world.
+     __________________________________________________________________
+
+   § 4. Can the Existence of God be proved?
+
+   A large class of theologians and philosophers deny that the existence
+   of God is susceptible of proof. This is done on different grounds.
+
+   First. It is said that the knowledge of God being intuitive, it is not
+   a proper subject of proof. This is the position taken by that class of
+   theologians who resolve all religion into feeling, and by the modern
+   school of speculative philosophers, who make such a wide distinction
+
+[EXCERPT B]
+   § 3. The Teleological Argument.
+
+   A. Its Nature.
+
+   This argument also admits of being stated in a syllogistic form. Design
+   supposes a designer. The world everywhere exhibits marks of design.
+   Therefore the world owes its existence to an intelligent author.
+
+   By design is intended, -- (1.) The selection of an end to be attained.
+   (2.) The choice of suitable means for its attainment. (3.) The actual
+   application of those means for the accomplishment of the proposed end.
+
+   Such being the nature of design, it is a self-evident truth, or, even
+   an identical proposition, that design is indicative of intelligence,
+   will, and power. It is simply saying that intelligence in the effect
+   implies intelligence in the cause.
+
+   It is moreover true that the intelligence indicated by design is not in
+   the thing designed. It must be in an external agent. The mind indicated
+   in a book is not in the book itself, but in the author and printer. The
+   intelligence revealed by a calculating machine, or any similar work of
+   art, is not in the material employed, but in the inventor and artist.
+   Neither is the mind indicated in the structure of the bodies of plants
+   and animals, in them, but in Him who made them. And in like manner the
+   mind indicated in the world at large must be in an extramundane Being.
+   There is, indeed, this obvious difference between the works of God and
+   the works of man. In every product of human art dead materials are
+   fashioned and united to accomplish a given end; but the organized works
+   of nature are animated by a living principle. They are fashioned as it
+   were from within outward. In other words, they grow; they are not
+   constructed. In this respect there is a great difference between a
+   house and a tree or the human body. But, nevertheless, in both cases,
+   the mind is external to the thing produced; because the end, the
+   thought, is prior to the product. As the thought or idea of a machine
+   must be in the mind of the mechanist, before the machine is made; so
+   the idea or thought of the eye must be anterior to its formation. "It
+   is a simple and pregnant conclusion," says Trendelenburg, [153] "that
+   so far as design is realized in the world, thought as its ground has
+   preceded it." And this thought, he goes on to say, is not dead, as a
+   figure or model, it is connected with will and power. It is, therefore,
+   in the mind of a person who has the ability and purpose to carry it
+   out. He further says, "tiefsinnige Zweckmässigkeit bewustlos und
+   blind," cannot be imagined, i.e., a blind and unconscious adaptation of
+   means to an end is inconceivable.
+
+   As the conviction that design implies an intelligent agent is intuitive
+   and necessary, it is not limited to the narrow sphere of our
+   experience. The argument is not, Every house, ship, telescope, or other
+   instrument or machine, we ever saw had an intelligent maker, therefore
+   we may take it for granted that any similar work of art was not formed
+   by chance or by the operation of blind, unconscious forces. The
+   argument rather is, Such is the nature of design, that it of necessity
+   implies an intelligent agent; and, therefore, where ever, or whenever
+   we see evidence of design we are convinced that it is to be referred to
+   the operation of mind. On this ground we not only authorized, but
+   compelled to apply the argument from design far beyond the limits of
+   experience, and to say: It is just as evident that the world had an
+   intelligent creator, as that a book had an author. If a man can believe
+   that a book was written by chance, or by blind, unconscious force,
+   then, and not otherwise, can he rationally deny the validity of the
+   argument from design in proof of the existence of a personal God.
+
+   B. Evidences of Design in the World.
+
+   This is a boundless subject. One of the most important and valuable of
+   the "Bridgewater Treatises," the volume by Dr. Charles Bell, is devoted
+   to "The Hand, its mechanism and vital endowments as evincing design."
+   Hundreds of volumes would not be sufficient to exhibit the evidence of
+   the intelligent adaptation of means to an end, which the world
+   everywhere affords. In the few pages now at command all that can be
+   attempted, is an indication of the nature of this evidence. [154]
+
+   Design in Single Organs.
+
+   1. No work of human art can compare with the nicety and completeness of
+   the separate organs of organized bodies for the purpose for which they
+   are designed. In the eye, for example, there is the most perfect
+   optical instrument constructed in accordance with the hidden laws of
+   light. We find there the only nerve in the body susceptible of the
+   impressions of light and color. That nerve is spread out on the retina.
+   The light is admitted through an orifice in the ball, which opening by
+   the most delicate arrangement of muscles is enlarged or contracted,
+   according to the degree of light which falls on the retina, which
+   enlargement or contraction is not dependent on the will, but on the
+   stimulus of the light itself. Light, however, merely passing through an
+   orifice would make no image of the object from which it was reflected.
+   It is, therefore, made to pass through lenses perfect in form so to
+   refract the rays as to bring them to a proper focus on the retina. If
+   the inner chamber of the eye were white, it would so reflect the rays
+   entering the pupil at every angle as to render vision impossible. That
+   chamber, and that alone, is lined with a black pigment. By a delicate
+   muscular arrangement the eye is enabled to adapt itself to the distance
+   of external objects so that the proper focus may be preserved. These
+   are a small part of the wonders exhibited by this single organ of the
+   body. This organ was fashioned in th darkness of the womb, with a
+   self-evident reference to the nature and properties of light, of which
+   the creature for whose use it was fashioned had neither knowledge or
+   experience. If the eye, therefore, does not indicate the intelligent
+   adaptation of means to an end, no such adaptation can be found in any
+   work of human ingenuity.
+
+[EXCERPT C]
+  THE KNOWLEDGE OF GOD
+
+   Having considered the arguments in favor of the doctrine that God is,
+   and also the various systems opposed to Theism, we come now to consider
+   the question, Can God be known? and if so, How? that is, How does the
+   mind proceed in forming its idea of God, and, How do we know that God
+   really is what we believe Him to be?
+     __________________________________________________________________
+
+   § 1. God can be known.
+
+   It is the clear doctrine of the Scriptures that God can be known. Our
+   Lord teaches that eternal life consists in the knowledge of God and of
+   Jesus Christ, whom He hath sent. The Psalmist says, "In Judah is God
+   known" (Ps. lxxvi. 1). Isaiah predicts, that "the earth shall be full
+   of the knowledge of the Lord" (Is. xi. 9). Paul says even of the
+   heathen, that they knew God, but did not like to retain that knowledge
+   (Rom. i. 19, 20, 21, 28).
+
+   A. State of the Question.
+
+   It is, however, important distinctly to understand what is meant when
+   it is said, God can be known.
+
+   1. This does not mean that we can know all that is true concerning God.
+   There were some among the ancient philosophers who taught that the
+   nature of God can be as fully understood and determined as any other
+   object of knowledge. The modern speculative school teaches the same
+   doctrine. Among the propositions laid down by Spinoza, we find the
+   following: "Cognitio æternæ et infinitæ essentiæ Dei, quam unaquæque
+   idea involvit, est adæquata et perfecta." [325] Hegel says, that God
+   is, only so far as He is known. The sin against the Holy Ghost,
+   according to Hegel, is to deny that He can be known. [326] Cousin holds
+   the same doctrine. "God in fact," he says, "exists to us only in so far
+   as He is known." [327]
+
+   According to Schelling, God is known in his own nature by direct
+   intuition of the higher reason. He assumes that there is in man a power
+   which transcends the limits of the ordinary consciousness (an
+   Anschauungs Vermögen), which takes immediate cognizance of the
+   Infinite. Hegel says that "Man knows God only so far as God knows
+   Himself in man; this knowledge is God's self-consciousness, but
+   likewise a knowledge of the same by man, and this knowledge of God by
+   man is the knowledge of man by God." [328] Cousin finds this knowledge
+   in the common consciousness of men. That consciousness includes the
+   knowledge of the Infinite as well as of the finite. We know the one
+   just as we know the other, and we cannot know the one without knowing
+   the other. These philosophers all admit that we could not thus know God
+   unless we were ourselves God. Self-knowledge, with them, is the
+   knowledge of God. Reason in man, according to Cousin, does not belong
+   to his individuality. It is infinite, impersonal, and divine. Our
+   knowledge of God, therefore, is only God knowing Himself. Of course it
+   is in no such sense as this that the Scriptures and the Church teach
+   that God can be known.
+
+   God Inconceivable.
+
+   2. It is not held that God, properly speaking, can be conceived of;
+   that is, we cannot form a mental image of God. "All conception," says
+   Mr. Mansel, [329] "implies imagination." To have a valid conception of
+   a horse, he adds, we must be able "to combine" the attributes which
+   form "the definition of the animal" into "a representative image."
+   Conception is defined by Taylor in the same manner, as "the forming or
+   bringing an image or idea into the mind by an effort of the will." In
+   this sense of the word it must be admitted that the Infinite is not an
+   object of knowledge. We cannot form an image of infinite space, or of
+   infinite duration, or of an infinite whole. To form an image is to
+   limit, to circumscribe. But the infinite is that which is incapable of
+   limitation. It is admitted, therefore, that the infinite God is
+   inconceivable. We can form no representative image of Him in our minds.
+   The word, however, is often, and perhaps commonly, used in a less
+   restricted sense. To conceive is to think. A conception is therefore a
+   thought and not necessarily an image. To say, therefore, that God is
+   conceivable, in common language, is merely to say that He is thinkable.
+   That is, that the thought (or idea) of God involves no contradiction or
+   impossibility. We cannot think of a round square, or that a part is
+   equal to the whole. But we can think that God is infinite and eternal.
+
+   God Incomprehensible.
+
+   3. When it is said that God can be known, it is not meant that He can
+   be comprehended. To comprehend is to have a complete and exhaustive
+   knowledge of an object. It is to understand its nature and its
+   relations. We cannot comprehend force, and specially vital force. We
+   see its effect, but we cannot understand its nature or the mode in
+   which it acts. It would be strange that we should know more of God than
+   of ourselves, or of the most familiar objects of sense. God is past
+   finding out. We cannot understand the Almighty unto perfection. To
+   comprehend is (1.) To know the essence as well as the attributes of an
+   object. (2.) It is to know not some only, but all of its attributes.
+   (3.) To know the relation in which these attributes stand to each other
+   and to the substance to which they belong. (4.) To know the relation in
+   which the object known stands to all other objects. Such knowledge is
+   clearly impossible in a creature, either of itself or of anything out
+   of itself. It is, however, substantially thus that the
+   transcendentalists claim to know God.
+
+   Our Knowledge of God Partial.
+
+   4. It is included in what has been said, that our knowledge of God is
+   partial and inadequate. There is infinitely more in God than we have
+   any idea of; and what we do know, we know imperfectly. We know that God
+   knows; but there is much in his mode of knowing, and in its relation to
+   its objects, which we cannot understand. We know that He acts; but we
+   do not know how He acts, or the relation which his activity bears to
+   time, or things out of Himself. We know that He feels; that He loves,
+   pities, is merciful, is gracious; that He hates sin. But this emotional
+   element of the divine nature is covered with an obscurity as great, but
+   no greater, than that which rests over his thoughts or purposes. Here
+   again our ignorance, or rather, the limitation of our knowledge
+   concerning God, finds a parallel in our ignorance of ourself. There are
+   potentialities in our nature of which, in our present state of
+   existence, we have no idea. And even as to what we are now, we know but
+   little. We know that we perceive, think, and act; we do not know how.
+   It is perfectly inscrutable to us how the mind takes cognizance of
+   matter; how the soul acts on the body, or the body on the mind. But
+   because our knowledge of ourselves is thus partial and imperfect, no
+   sane man would assert that we have no self-knowledge.
+
+   The common doctrine on this subject is clearly expressed by Des Cartes:
+   [330] "Sciri potest, Deum esse infinitum et omnipotentem, quanquam
+   anima nostra, utpote finita, id nequeat comprehendere sive concipere;
+   eodem nimirum modo, quo montem manibus tangere possumus, sed non ut
+   arborem, aut aliam quampiam rem brachiis nostris non majorem amplecti:
+   comprehendere enim est cogitatione complecti; ad hoc autem, ut sciamus
+   aliquid, sufficit, ut illud cogitatione attingamus."
+
+   Even Spinoza [331] says: "Ad quæstionem tuam, an de Deo tam claram,
+   quam de triangulo habeam ideam, respondeo affirmando. Non dico, me Deum
+   omnino cognoscere; sed me quædam ejus attributa, non autem omnia, neque
+   maximam intelligere partem, et certum est, plurimorum ignorantiam,
+   quorundam eorum habere notitiam, non impedire. Quum Euclidis elementa
+   addiscerem, primo tres trianguli angulos duobus rectis æquari
+   intelligebam; hancque trianguli proprietatem clare percipiebam, licet
+   multarum aliarum ignarus essem."
+
+   While, therefore, it is admitted not only that the infinite God is
+   incomprehensible, and that our knowledge of Him is both partial and
+   imperfect; that there is much in God which we do not know at all, and
+   that what we do know, we know very imperfectly; nevertheless our
+   knowledge, as far as it goes, is true knowledge. God really is what we
+   believe Him to be, so far as our idea of Him is determined by the
+   revelation which He has made of Himself in his works, in the
+   constitution of our nature, in his word, and in the person of his Son.
+   To know is simply to have such apprehensions of an object as conform to
+   what that object really is. We know what the word Spirit means. We know
+   what the words infinite, eternal, and immutable, mean. And, therefore,
+   the sublime proposition, pregnant with more truth than was ever
+   compressed in any other sentence, "God is a Spirit, infinite, eternal,
+   and immutable," conveys to the mind as distinct an idea, and as true
+   (i.e., trustworthy) knowledge, as the proposition "The human soul is a
+   finite spirit." In this sense God is an object of knowledge. He is not
+   the unknown God, because He is infinite. Knowledge in Him does not
+   cease to be knowledge because it is omniscience; power does not cease
+   to be power because it is omnipotence; any more than space ceases to be
+   space because it is infinite.
+
+   B. How do we know God?
+
+   How does the mind proceed in forming its idea of God? The older
+   theologians answered this question by saying that it is by the way of
+   negation, by the way of eminence, and by the way of causality. That is,
+   we deny to God any limitation; we ascribe to Him every excellence in
+   the highest degree; and we refer to Him as the great First Cause every
+   attribute manifested in his works. We are the children of God, and,
+   therefore, we are like Him. We are, therefore, authorized to ascribe to
+   Him all the attributes of our own nature as rational creatures, without
+   limitation, and to an infinite degree. If we are like God, God is like
+   us. This is the fundamental principle of all religion. This is the
+   principle which Paul assumed in his address to the Athenians (Acts
+   xvii. 29): "Forasmuch then as we are the offspring of God, we ought not
+   to think that the Godhead is like unto gold, or silver, or stone,
+   graven by art and man's device." For the same reason we ought not to
+   think that He is simple being, or a mere abstraction, a name for the
+   moral order of the universe, or the unknown and unknowable cause of all
+   things, -- mere inscrutable force. If we are his children, He is our
+   Father, whose image we bear, and of whose nature we partake. This, in
+   the proper sense of the word, is Anthropomorphism, a word much abused,
+   and often used in a bad sense to express the idea that God is
+   altogether such a one as ourselves, a being of like limitations and
+   passions. In the sense, however, just explained, it expresses the
+   doctrine of the Church and of the great mass of mankind. Jacobi [332]
+   well says: "We confess, therefore, to an Anthropomorphism inseparable
+   from the conviction that man bears the image of God; and maintain that
+   besides this Anthropomorphism, which has always been called Theism, is
+   nothing but atheism or fetichism."
+
+   C. Proof that this Method is Trustworthy.
+
+   That this method of forming an idea of God is trustworthy, is proved,
+   --
+
+   1. Because it is a law of nature. Even in the lowest form of fetichism
+   the life of the worshipper is assumed to belong to the object which he
+   worships. The power dreaded is assumed to possess attributes like our
+   own. In like manner under all the forms of polytheism, the gods of the
+   people have been intelligent personal agents. It is only in the schools
+   of philosophy that we find a different method of forming an idea of the
+   Godhead. They have substituted to hon for ho on, to theion for ho
+   Theos, to agathon for ho agathos. It is here as with regard to the
+   knowledge of the external world. The mass of mankind believe that
+   things are what they perceive them to be. This philosophers deny. They
+   affirm that we do not perceive the things themselves, but certain
+   ideas, species, or images of the things; that we have, and can have, no
+   knowledge of what the things themselves really are. So they say we can
+   have no knowledge of what God is; we only know that we are led to think
+   of Him in a certain way, but we are not only not authorized to believe
+   that our idea corresponds to the reality, but, say they, it is certain
+   that God is not what we take Him to be. As the people are right in the
+   one case, so are they in the other. In other words, our conviction that
+   God is what He has revealed Himself to be, rests on the same foundation
+   as our conviction that the external world is what we take it to be.
+   That foundation is the veracity of consciousness, or the
+   trustworthiness of the laws of belief which God has impressed upon our
+   nature. "Invincibility of belief," according to Sir William Hamilton,
+   "is convertible with the truth of belief," [333] although, unhappily,
+   on this subject, he did not adhere to his own principle, "That what is
+   by nature necessarily believed to be, truly is." [334] No man has more
+   nobly or more earnestly vindicated this doctrine, which is the
+   foundation of all science and of all faith. "Consciousness," he says,
+   "once convicted of falsehood, an unconditioned scepticism, in regard to
+   the character of our intellectual being, is the melancholy but only
+   rational result. Any conclusion may now with impunity be drawn against
+   the hopes and the dignity of human nature. Our personality, our
+   immateriality, our moral liberty, have no longer an argument for their
+   defence. Man is the dream of a shadow.' God is the dream of that
+   dream." [335] The only question, therefore, is, Are we invincibly led
+   to think of God as possessing the attributes of our rational nature?
+   This cannot be denied; for universality proves invincibility of belief.
+   And it is a historical fact that men have universally thus thought of
+   God. Even Mr. Mansel [336] exclaims against the transcendentalists,
+   "Fools, to dream that man can escape from himself, that human reason
+   can draw aught but a human portrait of God." True, he denies the
+   correctness of that portrait; or, at least, he asserts that we cannot
+   know whether it is correct or not. But this is not now the question. He
+   admits that we are forced by the constitution of our nature thus to
+   think of God. And by the fundamental principle of all true philosophy,
+   what we are forced to believe must be true. It is true, therefore, that
+   God really is what we take Him to be, when we ascribe to Him the
+   perfections of our own nature, without limitation, and to an infinite
+   degree.
+
+   Our Moral Nature demands this Idea of God.
+
+   2. It has already been shown, when speaking of the moral argument for
+   the existence of God, that all men are conscious of their
+   accountability to a being superior to themselves, who knows what they
+   are and what they do, and who has the will and purpose to reward or
+   punish men according to their works. The God, therefore, who is
+   revealed to us in our nature, is a God who knows, and wills, and acts;
+   who rewards and punishes. That is, He is a person; an intelligent,
+   voluntary agent, endowed with moral attributes. This revelation of God
+   must be true. It must make known to us what God really is, or our
+   nature is a lie. All this Mr. Mansel, who holds that God can not be
+   known, admits. He admits that a sense of dependence on a superior power
+   is "a fact of the inner consciousness;" that this superior power is
+   "not an inexorable fate, or immutable law, but a Being having at least
+   so far the attributes of personality, that He can show favour or
+   severity to those dependent upon Him, and can be regarded by them with
+   the feelings of hope, and fear, and reverence, and gratitude." [337] No
+   man, however, is, or can be grateful to the sun, or to the atmosphere,
+   or to unintelligent force. Gratitude is a tribute of a person to a
+   person. Again, the same author admits that "the moral reason, or will,
+   or conscience of man, call it by what name we please, can have no
+   authority save as implanted in him by some higher spiritual Being, as a
+   law emanating from a law-giver." [338] "We are thus compelled," he
+   says, "by the consciousness of moral obligation, to assume the
+   existence of a moral [and of course of a personal] Deity, and to regard
+   the absolute standard of right and wrong as constituted by the nature
+   of that Deity." [339] Our argument from these facts is, that if our
+   moral nature compels us to believe that God is a person, He must be a
+   person, and consequently that we arrive at a true knowledge of God by
+   attributing to Him the perfections of our own nature.
+
+   Our Religious Nature makes the same Demand.
+
+   3. The argument from our religious, as distinct from our moral nature,
+   is essentially the same. Morality is not all of religion. The one is as
+   much a law and necessity of our nature as the other. To worship, in the
+   religious sense of the word, is to ascribe infinite perfection to its
+   object. It is to express to that object out acknowledgments for the
+   blessings we enjoy, and to seek their continuance; it is to confess,
+   and praise, and pray, and to adore. We cannot worship the law of
+   gravity, or unconscious force, or the mere order of the universe. Our
+   religious nature, in demanding an object of supreme reverence, love,
+   and confidence, demands a personal God, a God clothed with the
+   attributes of a nature like our own; who can hear our confessions,
+   praises, and prayers; who can love, and be loved; who can supply our
+   wants, and fill all our capacities for good. Thus again it appears that
+   unless our whole nature is a contradiction and a falsehood, we arrive
+   at a true knowledge of God when we ascribe to Him the perfections of
+   our own nature.
+
+   Mr. Mansel admits that our nature does demand a personal and moral
+   Deity; but, he says, "the very conception of a moral nature is in
+   itself the conception of a limit, for morality is the compliance with a
+   law; and a law, whether imposed from within or from without, can only
+   be conceived to operate by limiting the range of possible actions."
+   [340] In like manner he says, "The only human conception of personality
+   is that of limitation." Therefore, if God be infinite, he can neither
+   be a person, nor possess moral attributes. This is the argument of
+   Strauss, and of all other pantheists, against the doctrine of a
+   personal God. Mr. Mansel admits the force of the argument, and says we
+   must renounce all hope of knowing what God is, and be content with
+   "regulative knowledge," which teaches not what God really is, but what
+   He wills us to think Him to be. We are thus forbidden to trust to our
+   necessary beliefs. We must not regard as true what God by the
+   constitution of our nature forces us to believe. This is to subvert all
+   philosophy and all religion, and to destroy the difference between the
+   rational and the irrational. Why is this contradiction between reason
+   and conscience, between our rational and moral nature, assumed to
+   exist? Simply because philosophers choose to give such a definition of
+   morality and personality that neither can be predicated of an infinite
+   Being. It is not true that either morality or personality imply any
+   limitation inconsistent with absolute perfection. We do not limit God
+   when we say He cannot be irrational as well as rational, unconscious as
+   well as conscious, finite as well as infinite, evil as well as good.
+   The only limitation admitted is the negation of imperfection. Reason is
+   not limited when we say it cannot be unreason; or spirit, when we say
+   that it is not matter; or light, when we say it is not darkness; or
+   space, when we say it is not time. We do not, therefore, limit the
+   Infinite, when we exalt Him in our conceptions from the unconscious to
+   the conscious, from the unintelligent to the intelligent, from an
+   impersonal something to the absolutely perfect personal Jehovah. All
+   these difficulties arise from confounding the ideas of infinite and
+   all.
+
+   4. The fourth argument on this subject is, that if we are not justified
+   in referring to God the attributes of our own nature, then we have no
+   God. The only alternative is anthropomorphism (in this sense) or
+   Atheism. An unknown God, a God of whose nature and of whose relation to
+   us we know nothing, to us is nothing. It is a historical fact that
+   those who reject this method of forming our idea of God, who deny that
+   we are to refer to Him the perfections of our own nature, have become
+   atheists. They take the word "spirit," and strip from it consciousness,
+   intelligence, will, and morality; and the residue, which is blank
+   nothing, they call God. Hamilton and Mansel take refuge from this
+   dreadful conclusion in faith. They say that reason forbids the
+   ascription of these, or of any other attributes, to the Infinite and
+   Absolute, but that faith protests against this conclusion of the
+   reason. Such protest, however, is of no account, unless it be rational.
+   When Kant proved that there was no rational evidence of the existence
+   of God, and fell back from the speculative to the practical reason
+   (i.e., from reason to faith), his followers universally gave up all
+   faith in a personal God. No man can believe in the impossible. And if
+   reason pronounces that it is impossible that the Infinite should be a
+   person, faith in His personality is an impossibility. This Mr. Mansel
+   does not admit. For while he says that it is a contradiction to affirm
+   the Infinite to be a person, or to possess moral attributes, he
+   nevertheless says that, "Anthropomorphism is the indispensable
+   condition of all human theology;" [341] and he quotes from Kant [342]
+   this passage: "We may confidently challenge all natural theology to
+   name a single distinctive attribute of the Deity, whether denoting
+   intelligence or will, which, apart from anthropomorphism, is anything
+   more than a mere word, to which not the slightest notion can be
+   attached, which can serve to extend our theoretical knowledge." It is
+   greatly to be lamented that men should teach that the only way in which
+   it is possible for us to form an idea of God, leads to no true
+   knowledge. It does not teach us what God is, but what we are forced
+   against reason to think He is.
+
+   Argument from the Revelation of God in Nature.
+
+   5. A fifth argument is from the fact that the works of God manifest a
+   nature like our own. It is a sound principle that we must refer to a
+   cause the attributes necessary to account for its effects. If the
+   effects manifest intelligence, will, power, and moral excellence, these
+   attributes must belong to the cause. As, therefore, the works of God
+   are a revelation of all these attributes on a most stupendous scale,
+   they must belong to God in an infinite degree. This is only saying that
+   the revelation made of God in the external world agrees with the
+   revelation which He has made of himself in the constitution of our own
+   nature. In other words, it proves that the image of himself which He
+   has enstamped on our nature is a true likeness.
+
+   Argument from Scripture.
+
+   6. The Scriptures declare God to be just what we are led to think He
+   is, when we ascribe to Him the perfections of our own nature in an
+   infinite degree. We are self-conscious, so is God. We are spirits, so
+   is He. We are voluntary agents, so is God. We have a moral nature,
+   miserably defaced indeed, God has moral excellence in infinite
+   perfection. We are persons, so is God. All this the Scriptures declare
+   to be true. The great primal revelation of God is as the "I am," the
+   personal God. All the names and titles given to Him; all the attributes
+   ascribed to Him; all the works attributed to Him, are revelations of
+   what He truly is. He is the Elohim, the Mighty One, the Holy One, the
+   Omnipresent Spirit; He is the creator, the preserver, the governor of
+   all things. He is our Father. He is the hearer of prayer; the giver of
+   all good. He feeds the young ravens. He clothes the flowers of the
+   field. He is Love. He so loved the world as to give his only begotten
+   Son, that whosoever believeth on Him might not perish but have
+   everlasting life. He is merciful, long-suffering, abundant in goodness
+   and truth. He is a present help in every time of need; a refuge, a high
+   tower, an exceeding great reward. The relations in which, according to
+   the Scriptures, we stand to God, are such as we can sustain only to a
+   being who is like ourselves. He is our ruler, and father, with whom we
+   can commune. His favour is our life, his loving-kindness better than
+   life. This sublime revelation of God in his own nature and in his
+   relation to us is not a delusion. It is not mere regulative truth, or
+   it would be a deceit and mockery. It makes God known to us as He really
+   is. We therefore know God, although no creature can understand the
+   Almighty unto perfection.
+
+   Argument from the Manifestation of God in Christ.
+
+   7. Finally, God has revealed Himself in the person of his Son. No man
+   knoweth the Father but the Son; and he to whom the Son shall reveal
+   Him. Jesus Christ is the true God. The revelation which He made of
+   Himself was the manifestation of God. He and the Father are one. The
+   words of Christ were the words of God. The works of Christ were the
+   works of God. The love, mercy, tenderness, the forgiving grace, as well
+   as the holiness, the severity and power manifested by Christ, were all
+   manifestations of what God truly is. We see, therefore, as with our own
+   eyes, what God is. We know that although infinite and absolute, He can
+   think, act, and will; that He can love and hate; that He can hear
+   prayer and forgive sins, that we can have fellowship with Him, as one
+   person can commune with another. Philosophy must veil her face in the
+   presence of Jesus Christ, as God manifest in the flesh. She may not
+   presume in that presence to say that God is not, and is not known to
+   be, what Christ himself most clearly was. This doctrine that God is the
+   object of certain and true knowledge lies at the foundation of all
+   religion, and therefore must never be given up.
+     __________________________________________________________________
+
+   [325] Ethices, ii. prop. xlvi. edit. Jena, 1803, vol. ii. p. 119.
+
+   [326] See Mansel's Limits of Religious Thought, Boston, 1859, p. 301.
+
+   [327] Sir William Hamilton's Discussions, p. 16. Princeton Review on
+   Cousin's Philosophy, 1856.
+
+   [328] Werke, xii. p. 496, edit. Berlin, 1840.
+
+   [329] Prolegomena Logica, edit. Boston, 1860, p. 34.
+
+   [330] Epistolæ, I., cx., edit. Amsterdam, 1682.
+
+   [331] Epistola, lx., vol. i. p. 659, edit. Jena, 1802.
+
+   [332] "Von den göttlichen Dingen," Werke, iii. pp. 422, 423, edit.
+   Leipzig, 1816.
+
+   [333] Philosophy, edit. Wight, New York, 1854, p. 233.
+
+   [334] Ibid. p. 226.
+
+   [335] Ibid. p. 234.
+
+   [336] Limits of Religious Thought, edit. Boston, 1859, pp. 56, 57.
+
+   [337] Limits of Religious Thought, etc., p. 120.
+
+   [338] Ibid. p. 121.
+
+   [339] Ibid. p. 122.
+
+   [340] Limits of Religious Thought, etc., p. 127.
+
+   [341] Limits of Religious Thought, etc., p. 261.
+
+   [342] "Kritik der Praktischen Vernunft." Works, edit. Rosenkranz, vol.
+   viii. p. 282.
+     __________________________________________________________________

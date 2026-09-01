@@ -16,6 +16,8 @@ links:
   relation: source
 - target_id: the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016
   relation: shared-concept
+- target_id: knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

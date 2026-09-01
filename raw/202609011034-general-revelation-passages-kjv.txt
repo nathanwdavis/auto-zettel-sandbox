@@ -1,0 +1,20 @@
+Verbatim capture for reference 202609011034 (scripture, FR-9).
+Romans 1:18-21 and Psalm 19:1-4, King James Version (public domain).
+Fetched: 2026-09-01T10:35:00Z to 2026-09-01T10:36:00Z from bible-api.com
+(https://bible-api.com/romans+1:18-21?translation=kjv and
+https://bible-api.com/psalms+19:1-4?translation=kjv) via curl through the
+session's egress proxy. Verse text as served, whitespace normalized to one
+line per verse.
+--------------------------------------------------------------------------------
+
+Romans 1:18-21 (King James Version)
+Romans 1:18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;
+Romans 1:19 Because that which may be known of God is manifest in them; for God hath shewed it unto them.
+Romans 1:20 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
+Romans 1:21 Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.
+
+Psalms 19:1-4 (King James Version)
+Psalms 19:1 The heavens declare the glory of God; and the firmament sheweth his handywork.
+Psalms 19:2 Day unto day uttereth speech, and night unto night sheweth knowledge.
+Psalms 19:3 There is no speech nor language, where their voice is not heard.
+Psalms 19:4 Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,

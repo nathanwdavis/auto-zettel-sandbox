@@ -19,6 +19,8 @@ links:
   relation: elaborates
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: elaborates
+- target_id: bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838
+  relation: shared-concept
 created: '2026-09-01'
 updated: '2026-09-01'
 ---
