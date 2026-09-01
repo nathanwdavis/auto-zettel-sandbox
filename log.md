@@ -370,3 +370,6 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T09:11:49Z` lint_citations: PASS
 - `2026-09-01T09:11:49Z` lint_links: PASS
 - `2026-09-01T09:11:49Z` lint_skills: PASS
+- `2026-09-01T09:12:45Z` lint_citations: PASS
+- `2026-09-01T09:12:45Z` lint_links: PASS
+- `2026-09-01T09:12:45Z` step 14 (push race, PR #12): while step 13's merge was being validated, copilot-swe-agent (responding to a '@copilot resolve the merge conflicts' comment on the PR) pushed its own textual merge of main (3da0d08) that kept this branch's duplicate Franklin notes alongside main's #13 set. Reconciled by merging its commit and keeping step 13's resolution for all four conflicted files: the one-reference-per-source dedup stands (this branch's Franklin raw/reference/literature/permanent stay removed), both cycles' log records remain in chronological order, and manifest/.bib were verified current (--check clean) after the reconcile. No content unique to the copilot merge existed to preserve — its only inputs were the same two parents step 13 already merged in full.
