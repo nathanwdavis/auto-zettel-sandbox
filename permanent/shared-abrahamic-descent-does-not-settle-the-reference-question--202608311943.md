@@ -16,6 +16,8 @@ links:
   relation: supports
 - target_id: maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841
   relation: shared-concept
+- target_id: kabbalah-separates-acknowledging-god-from-addressing-him--202609011540
+  relation: shared-concept
 created: '2026-08-31'
 updated: '2026-09-01'
 ---

@@ -1,0 +1,109 @@
+Verbatim capture (two consecutive folios) for reference 202609011531.
+Tiqqunei ha-Zohar, second introduction ("Patach Eliyahu" / "Elijah opened"),
+folios 17a-17b. Aramaic original traditionally ascribed to the circle of the
+Zohar, late 13th-early 14th c.; first printed Mantua 1557.
+English: "Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press;
+Melbourne, 2024", as served by Sefaria under a CC-BY-NC licence.
+Source: https://www.sefaria.org/Tikkunei_Zohar.17a and .17b
+Publisher of the translation: https://margalya.com/products/tz
+Fetched: 2026-09-01T15:35:00Z via urllib through the session's egress proxy.
+The translator's sigla are preserved as they arrive from the API: the infinity
+sign marks a transliterated Hebrew/Aramaic term following its rendering
+(e.g. "radiance*zohar" appears as "radiance" + sign + "zohar"), the sun sign
+marks an interpolated sefirah identification, and roman-numeral or triangle
+marks are the translator's own notes. Sefaria's HTML markup has been stripped.
+That formatting is the translation's, not this file's; the wording is unaltered.
+The [FOLIO ...] markers are file structure, not source text.
+--------------------------------------------------------------------------------
+[FOLIO 17a]
+Another Introduction to Tiqqunei ha-Zohar For Rosh Ḥodesh Elul, Day 1
+
+(Gen. 1:1) In the beginning, ELQYM created... etc.
+
+It is written: (Dan. 12:3) The wise shall radiate∞yazhiru, like the radiance∞zohar of the firmament... etc.
+
+These are Rabbi Shim’on ben Yoḥai and his companions: Rabbi El’azar his son, and Rabbi Abba, and Rabbi Yosse, and Rabbi Ḥiya, and Rabbi Yitzḥaq, and the rest of the companions, who radiate radiance [Var. who are radiating] above, ... like the radiance of the firmament.
+
+What is meant by ‘like the radiance’? But when they made this composition, it was agreed to on high, and they called it The Book of Radiance∞Sepher ha-Zohar.
+
+(ibid.) ... and those who bring the many to righteousness – through it, may they be many!
+
+(ibid.) ... like the stars forever – that their light never be darkened, for ever and ever and ever.
+
+At that time, when this composition was composed, permission was granted to Elijah to acquiesce with them in it, and to all the Masters of the Academy above and below, and all the forces of the higher angels, and higher souls, to be with them in agreement and friendship as one.
+
+Elijah opened began, and he said: Master of the Worlds! For You are He that is One – but not in number.
+
+You are high above all the high-ones, hidden, beyond all that is hidden, no thought apprehends You at all.
+
+You are He that has produced ten ‘constructs’∞tiqqunin – and we call them ‘the ten sephirot ’iSee Bemidbar Rabbah 14:11 and Sepher Yetzirah 1:2 – with which to direct hidden worlds that are not revealed, and worlds that are revealed. And in them You are concealed [Var. it is concealed], from humans.
+
+And You are He that binds them, and unites them, and, because You are within them, anyone who separates one from its companion, of these ten, is considered as though he had caused separation in You.
+
+And these ten sephirot, they are going according to their order: one long, and one short, and one intermediate.
+
+And You are He that directs them, and there is none who direct You, – not above, and not below, and not from any side.
+
+Garments have You fixed for them, from which fly-forth souls for [Var. of] human beings. And many bodies You have fixed for them, – which are called ‘body’, relative to the ‘garments’ which cover them.
+
+And they are called in this arrangement: Ḥesed – right arm, Gevurah – left arm, Tipheret – body, Netzaḥ and Hod – two thighs, and Yesod – end of the body, – sign of the holy covenant. Malkhut – ‘mouth’ – we call it ‘Oral Torah’.
+
+The brain is Ḥokhmah, it is inner thought. Binah is the heart, and with it the heart understands. And upon these two it is written: (Deut. 29:28) The hidden things are for Y”Y our God....
+
+Higher Keter, it is the ‘crown of sovereignty’, and upon it is stated: (Is. 46:10) He tells the end from the beginning... And it is ‘the skull of phylacteries’ [Var. ‘the skull that does not lay phylacteries’iiBT Rosh HaShanah 17a ]. Inside it is YOD QE VAV QE△45, which is ‘the way of emanation’.
+
+It is the watering of the tree, with its arms and its branches, [Var. and its faces] like water, which irrigates a tree, and it grows through that watering.
+
+Master of the worlds! You are ‘the Cause of causes’, the Reason of reasons, Who waters the tree – with that fountain!
+
+And that fountain is like a soul to the body, which is the body’s life-force. And yet of You, there is no imagining, and there is no likeness, of anything that is inside or out.
+
+And You created heaven and earth, and You produced from them the sun and the moon, and stars and constellations. And on the earth: trees, and grasses, and the Garden of Eden, [and herbs] and beasts, and birds, and fish, and people, so that higher-ones would be recognised through them, and how high-ones and low-ones are directed through them, and how they are recognised from higher and lower – and there is none that knows of You at all.
+
+--------------------------------------------------------------------------------
+[FOLIO 17b]
+And outside of You, there is no uniqueness [Var. unity] among the higher and the lower, and You are known as ‘Lord over All’.
+
+And all the sephirot, each one has its own name, and with them, angels are called. But You have no specific Name, for You are He that fills all Names, and You are the completeness of everything. And when You withdraw from them, all those names are left like a body without a soul.
+
+You are ‘wise’, but not with any specific ‘wisdom’. You are He that ‘understands’, but not from any specific ‘understanding’. You have no specific ‘place’, other than to make known Your strength and Your power to humans, and to show them how the world is governed, – through judgement and through mercy, which are ‘righteousness and justice’ – according to the deeds of people.
+
+‘Judgement’ is Gevurah, Justice is ‘the Middle Pillar’☉Tipheret, Righteousness∞tzedeq is ‘the holy kingdom’☉Malkhut, (Lev. 19:36) Scales of righteousness... – ‘two pillars of truth’☉Netzaḥ-Hod, ... the ‘hin’  of righteousness... – ‘sign of the covenant’☉Yesod. All are to show how the world is governed.
+
+But not that You have any specific righteousness – which is ‘judgement’, and no specific justice – which is ‘mercy’. And none of any of these attributes at all.
+
+Rise Rabbi Shim’on! And may words be innovated by your hand! For behold you have permission [Var. it is given to you], to reveal hidden secrets by your hand, that for which permission to reveal was not given to any person, until now.
+
+Arose Rabbi Shim’on. He opened and said: (1 Chron. 29:11) To You, Y”Y, is the greatness and the might... etc.
+
+Hear O high-ones! Those sleepers of Hebron, and the Faithful Shepherd! Wake up from your slumber!
+
+(Is. 26:19) ... Wake up and rejoice! O dwellers of the dust... These are the righteous-ones, who are from the aspect of whom it is stated: (Song. 5:2) I am asleep, and my heart is awake... And they are not dead. And thus, it is said of them: (Is. 26:19) ... Wake up and rejoice... etc.
+
+Awake O Faithful Shepherd! Be aroused, you and the Patriarchs, for the arousal of the Shekhinah, Who is sleeping in exile, for until now the righteous have all been reposing, and slumber is in their nostrils.
+
+Immediately, the Shekhinah gives [Var. there are aroused] three ‘voices’, towards the Faithful Shepherd, and says to him: ‘Rise O Faithful Shepherd! For about you it is stated: (Song. 5:2) ... the voice of my beloved is knocking... towards Me – with His four letters.’
+
+And He shall say through them: ‘... open-up for Me, My sister, My beloved, My dove, My‘completion’∞tam...’ For behold: (Lam. 4:22) Completed∞tam is your sin, O daughter of Zion, He will not exile you again...’
+
+(Song. 5:2) ... for my head is full of dew....iiiSee Shemot Rabbah 33:3 What is the meaning of full of dew? But the blessed Holy One said: ‘Do you think that since the day the Temple was destroyed, that I have entered My house, and that I have entered in settlement? Not so! For I do not enter all the while you are in exile.’ivSee BT Ta’anit 5a
+
+Behold you have a sign:... for my head is full of ‘dew’∞tal△39. H-Ei❖ה־א is the Shekhinah in exile. Her perfection, and Her life is tal∞dew△39. And this is Y-O-D H-Ei V-A-V△39. And H-Ei❖ה־א△6 is the Shekhinah, Who is not counted of ‘the 39’∞Ta-L.
+
+But YOD QEi VAV, whose letters add up numerically to 39, is He that fills the Shekhinah, from the fountain of all higher sources.
+
+Immediately, the Faithful Shepherd rose, and the holy Patriarchs with him.
+
+Until here is ‘the mystery of unity’. From here onwards is the first passage of ‘the secrets of the Torah’.
+
+Until here.
+
+Opened Rabbi Shim’on and said: (Gen. 1:1) In the beginning, ELQYM created... (Ps. 25:14) The ‘secret’ of Y”Y is with those who fear Him, and His covenant is to let them know it.
+
+The ‘secret’∞sod△70 – these are seventy times [Var. faces], that the word Be-REiShYT∞In-the-beginning is explained in this passage.
+
+First Tiqun For Day 2
+
+(Gen. 1:1) In the beginning∞Be-REiShYT ... The letter Beiyt❖ב△2 and the word REiShYT∞beginning.
+
+(Ps. 118:20) This is the gate to Y”Y, the righteous shall enter therein, This is the gate [Var. fear] of ‘the righteous’, who have permission to enter there, [and others] and those who are not

@@ -21,6 +21,8 @@ links:
   relation: elaborates
 - target_id: bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838
   relation: shared-concept
+- target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
+  relation: supports
 created: '2026-09-01'
 updated: '2026-09-01'
 ---

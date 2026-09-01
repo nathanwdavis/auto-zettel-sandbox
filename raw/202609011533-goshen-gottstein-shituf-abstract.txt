@@ -1,0 +1,27 @@
+ABSTRACT-ONLY capture for reference 202609011533. The full chapter was NOT
+obtained; nothing beyond the text below may be quoted or paraphrased from it.
+Alon Goshen-Gottstein, "Shituf: Critical and Constructive Reflections", ch. 9
+of Same God, Other god: Judaism, Hinduism, and the Problem of Idolatry
+(New York: Palgrave Macmillan US, 2016), 93-106.
+DOI: 10.1007/978-1-137-45528-4_9  ISBN: 9781137455284 / 9781349571895
+Fetched: 2026-09-01T15:36:00Z.
+Access ladder tried, in the order the house source-access-triage skill sets:
+  (a) publisher page link.springer.com/chapter/10.1007/978-1-137-45528-4_9 --
+      303 redirect to idp.springer.com/authorize; a cookie-jar retry with a
+      browser user-agent still returned only the 3 KB authorization shell,
+      no abstract and no body.
+  (b) Unpaywall by DOI -- is_oa: false, best_oa_location: null. The two
+      published reviews (10.1086/703369 Journal of Religion; 10.1353/sho.2017.0017
+      Shofar) are likewise closed.
+  (c) author / institutional -- the Elijah Interfaith Institute, which
+      Goshen-Gottstein directs, serves a related 2021 article PDF, but the
+      request entered a redirect loop (curl error 47, 50 redirects) and the
+      chapter itself is not posted there.
+  (d) no public-domain etext exists: the book is in copyright.
+  (e) Wayback -- egress-blocked in this environment (recorded 2026-09-01).
+Recovered instead from OpenAlex's abstract_inverted_index for the DOI, which
+carries the publisher-deposited author abstract; it is reconstructed word by
+word from that index and reproduced verbatim below.
+--------------------------------------------------------------------------------
+[PUBLISHER ABSTRACT]
+Shituf provides the basis for the few contemporary efforts at recognizing Hinduism as a valid spiritual path for its followers. While appreciating the application of this category to the context of a new religious encounter and recognizing the possibility that such application offers for contemporary interfaith relations, we must also consider whether this category really does justice to and describes adequately the views of the religion it seeks to describe. My own sense is that Shituf is a useful internal category, but one that does not do justice to the theological nuances of the religions it seeks to describe. The category may therefore remain useful for future discussion as a purely internal one by means of which Jews come to terms with another religion. But if we chose to employ it in order to make gains in relation to Hinduism, as previously made in relation to Christianity, we still ought to consider how adequate it really is to a description of Hindu religious reality. We may therefore have to reconsider and reinterpret it or, at the very least, use it with awareness of the discrepancy between our own internal theological and halachic categories and what should be an adequate description of the religious reality of other religions.
