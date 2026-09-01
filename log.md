@@ -538,3 +538,5 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T14:57:03Z` lint_links: PASS
 - `2026-09-01T14:57:03Z` lint_skills: PASS
 - `2026-09-01T14:57:25Z` check_skill_sandbox: PASS
+- `2026-09-01T14:57:38Z` remote_cycle: finish zettel/run-20260901145441 (skill-rev=9f2fc67; lock released after push)
+- `2026-09-01T14:57:38Z` remote_cycle: PR for zettel/run-20260901145441 must be opened by the session (GitHub CLI not installed in this container)
