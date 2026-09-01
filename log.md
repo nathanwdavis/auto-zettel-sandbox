@@ -206,3 +206,4 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-01T02:05:21Z` step 9: build_manifest — 41 notes indexed (+3: Price reference/literature/permanent), --check clean
 - `2026-09-01T02:05:21Z` step 10: INBOX unchanged — both open entries stay `new` (blocked on library/institutional access; deliberately not re-attempted an hour after the previous cycle re-confirmed the dead ends); no inquiry status changes (none open)
 - `2026-09-01T02:05:50Z` remote_cycle: finish claude/affectionate-mendel-qsyvxs (skill-rev=effad78; session-designated branch used instead of a zettel/run-* branch per this session's branch requirement; PR to be opened via GitHub MCP — gh unavailable in this container)
+- `2026-09-01T02:06:18Z` remote_cycle: lock released
