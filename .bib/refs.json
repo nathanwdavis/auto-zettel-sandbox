@@ -234,5 +234,27 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://archive.org/details/appealtopublicon00pric",
+    "author": [
+      {
+        "family": "Price",
+        "given": "Richard"
+      }
+    ],
+    "edition": "2",
+    "id": "202609010203",
+    "issued": {
+      "date-parts": [
+        [
+          1772
+        ]
+      ]
+    },
+    "publisher": "T. Cadell",
+    "publisher-place": "London",
+    "title": "An Appeal to the Public, on the Subject of the National Debt",
+    "type": "book"
   }
 ]

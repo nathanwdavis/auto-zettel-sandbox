@@ -1,0 +1,6701 @@
+Verbatim capture of the Internet Archive OCR plain text (the *_djvu.txt file)
+of Richard Price, "An Appeal to the Public, on the Subject of the National
+Debt", THE SECOND EDITION (London: Printed for T. Cadell, in the Strand,
+M.DCC.LXXII [1772]). Scan of the John Carter Brown Library copy
+(call number D772 .P946a).
+Fetched 2026-09-01T01:59:00Z to 2026-09-01T02:00:00Z from
+https://archive.org/download/appealtopublicon00pric/appealtopublicon00pric_djvu.txt
+(item https://archive.org/details/appealtopublicon00pric, HTTP 200,
+no access restriction; the work is public domain, published 1772).
+
+OCR caveat, recorded honestly: this is machine OCR of an 18th-century
+letterpress book set with the long s, so the text below systematically
+renders long s as "f" (e.g. "intereft" for "interest"), breaks hyphenated
+words across lines, and contains scattered character noise. Nothing has been
+corrected here — the capture is the OCR output verbatim. Quotations taken
+from this capture in notes normalize the long s and line-break hyphenation
+only after cross-checking the wording word-for-word against an independent
+scan of the 1772 first edition (Internet Archive item
+price-an-appeal-to-the-public, fulltext_djvu.txt, fetched in the same
+window), and record that normalization where they quote.
+
+--- BEGIN VERBATIM (appealtopublicon00pric_djvu.txt, complete) ---
+#■  .  '  O' 
+
+AN 
+
+P  P  E  A  L 
+
+T  O 
+
+THE  PUBLIC, 
+
+On  the  Subject  of  the 
+
+NATIONAL  DEBT. 
+
+
+The  SECOND  EDITION. 
+
+WITH 
+
+An  APPENDIX,  containing  Explanatory 
+Observations  and  Tables-,  and  an 
+Account  of  the  prefenc  State  of  Popula¬ 
+tion  in  Norfolk. 
+
+
+By  RICHARD  PRICE,  D.D.  F.R.S. 
+
+
+LONDON: 
+
+Printed  for  T.  Cadell,  in  the  Strand. 
+
+M.DCC.LXXir. 
+
+[  Price  Two  Shillings.  ] 
+
+
+t 
+
+
+■  ♦I 
+
+
+-A, 
+
+
+/  4 
+
+
+'•,  '■'i 
+
+
+P'./i.V'-  ■*, 
+
+
+'’:A' *■ v  ^ 
+
+V  '  /*  ' 
+
+
+A  **4^  V  ^  ^  w  (T 
+
+'  v:-;  ■.'■•  '•  t 
+
+^  '*  •■  ’  ■‘'''  ■*•  ■'*  H  W'  f- 
+
+
+/* 
+
+
+^ '  \.,«»  ■■  HT'k,  .  •  v,i  ■  .■:*  *• 
+
+
+-Jis.3 
+
+
+1  ^ 
+
+
+•.  ' 
+
+
+!  . 
+
+
+■T  • 
+
+V: ' 
+
+v  ,  ,' 
+
+;•  ■  -  r-  / 
+
+i,>r  V 
+
+‘ 
+
+■%  .'■ 
+
+.  ..^ 
+
+•  *  ^ 
+
+0  9  %  ., 
+
+r  • 
+
+N 
+
+•  .  • 
+
+-  '■*♦ 
+
+4- 
+
+.1  '.'...  ■.* 
+
+1  '  \ 
+
+•  ky  </•>»■ 
+
+4  ; 
+
+--.  '■  '  •  ♦  - 
+
+Ax  r 
+
+*  k 
+
+f' 
+
+i..  ’JkS^..  •  4 
+
+i  r  -f 
+
+44  «l!  k  - 
+
+AV.  *1^ 
+
+•  to  J> 
+
+■  --A.  {> 
+
+.4 
+
+i 
+
+4.  1  'i'A 
+
+_  A  *  f  •♦iki. 
+
+•.A  ,  .\r- 
+
+■  '  '  :  : 
+
+■  '  j"  ■ 
+
+
+I  M 
+
+
+-l.'tV 
+
+
+\' 
+
+
+¥ 
+
+
+*'  w'V'  *'  .  - 
+
+■ . ,  ■  .  *  r  tf  ‘ / 
+
+•  .-  -  ,  h'<' 
+
+
+■^v. 
+
+
+-t: 
+
+
+>1  JL 
+
+
+rv; 
+
+
+-\ 
+
+
+t1 
+
+
+■i 
+
+
+«  4 
+
+
+•  --A 
+
+
+'7 
+
+■kF  B^K  UF*A^ 
+
+'■  V«k-  , 
+
+■  '  'V  ' 
+
+^  ‘  J"'-  *•  * 
+
+-«k..  <V' 
+
+ift 
+
+^  ‘0  '' 
+
+-  -‘At 
+
+»»  •  ’ 
+
+4  w 
+
+'''-ir  ^ 
+
+■  "frl  # 
+
+V  '•■1^  *  f 
+
+'-  .  •  ’ 
+
+A  A 
+
+0 
+
+—  .  -  .1^  ‘«y "g  "^^  "~*  ^  ” 
+
+— .0^ 
+
+t 
+
+, 
+
+■-  ■  V  : 
+
+•  ’  i 
+
+iV 
+
+
+•  * 
+
+
+>-.-.  V  >-.  ■  -  .-'^rrr  ■  ;  t.  ^"'M  • 
+
+'  ■  "V..  .  r.m^‘ 
+
+
+.  .«  •  '*  ■  *  .  -♦  ’^••-  *‘  /':** 
+
+
+'•fi' 
+
+
+'  '^•.- 
+
+
+‘1  f 
+
+
+,» 
+
+
+•  •  •  ' 
+
+
+’.,  ..  •  <- 
+
+V  /  j  ■  'v*  * 
+
+
+<> 
+
+
+i^-  ^  ♦ 
+
+
+i  (.7  A  '  !  ft 
+
+
+J. 
+
+
+•>  T 
+
+
+iJ« 
+
+
+4%  •**'• 
+
+
+*.^'4 1  I 
+
+,-*.  ’  »'»  •''  r'V  t  -* 
+
+.  .  •  .  «  •  ^  V.  f  V  j»'-l  k  i 
+
+
+^  ?  J!  -A  -  ^  .  f  j 
+
+^  w  .  •  •A  ^ 
+
+
+4  •> 
+
+
+'} 
+
+
+.‘I 
+
+
+I  ’ 
+
+
+,  /  .- 
+
+
+V'  Vi  -IL 
+
+
+1 
+
+
+•  -♦ 
+
+
+P  R  E  F 
+
+
+TO  T  H 
+
+
+'^C,  E 
+
+
+X 
+
+
+>:  t 
+
+'  V 
+
+
+S  E  C  O  N  D  E  D  I  T  I  O  nT 
+
+
+IN  perufing  this  Appeal  to  the  Public,  it 
+will  be  found,  that  one  of  my  chief  pur- 
+vpofes  in  it  has  been  to  prove  the  following 
+propolition  :  “  That  to  alienate  a  fund,  ap- 
+propriated  to  the  payment  of  public  debts, 
+**  while  it  can  be  avoided,  by  borrowing 
+“  money  at  Ample  intereft  on  new  taxes  or 
+“  favings,  is  a  moft  pernicious  meafure.” 
+And  it  may  be  depended  upon,  that,  if  there 
+is  any  certainty  in  numbers,  this  has  been 
+proved  beyond  the  poffibiiity  of  reafonable 
+doubt. 
+
+Dr.  Davenant,  in  the  reign  of  King 
+William,  warned  the  kingdom  of  the  danger 
+which  would  attend  breaking  into  appro¬ 
+priated  funds.  He  was  difregarded ;  and 
+the  public  debts  increafed  fo  much  as  to  be 
+generally  thought,  in  the  year  1716,  infup- 
+fortable.  This  gave  occcalion  to  the  efta- 
+blifhment,  in  that  year,  of  a  general  faving 
+under  the  name  of  the  Sinking  Fund  ; 
+which  repeated  laws  declared  fhould  be  ap- 
+
+
+A  2 
+
+
+(  ) 
+
+plied  to  the  payment  of  the  public  debts, 
+and  to  no  other  piirpofe  whatever.  This  fund 
+foon  became  the  only  hope  of  the  kingdom ; 
+and,  could  it  have  been  defended  againft  alie¬ 
+nation,  it  would,  in  a  few  years,  have  ac- 
+compliflied  all  that  was  expeded  from  it. 
+Notice  was  given  of  this,  in  the  year  1726,  by 
+a  writer  of  great  abilities  (^) ;  and  the  public 
+was  zfecond  time  warned  of  the  fatal  confe- 
+quences  which  would  follow  alienations. 
+But  this  warning  was  alfo  negledled ;  and, 
+in  confequence  of  this,  our  debts,  inftead  of 
+being  annihilated,  as  they  might  have  been, 
+have  increafed  from  17  millions,  their  amount 
+in  i6^q,  and  from  ^2  millions,  their  amount 
+in  1726,  to  140  millions,  their  amount 
+
+nearly  in  the  prefent  year. - There  is  now 
+
+one  farther  attempt  made  to  bring  back  the 
+State  to  the  path  of  redtitude  and  fafety  by  a 
+wiitei  indeed  of  much  lefs  weight,  but  pof- 
+fefled  of  the  fame  good  intentions.  He  knows 
+that  he  cannot  expedl  xo  be  regarded.  The 
+fame  meafures  will  be  purfued  /  and  it  is  eafy 
+to  forefee  in  what  they  will  terminate. 
+
+In  Jrakce  the  cuflom  of  borrowing 
+on  t  unds,  inftead  of  levying  money  for 
+the  neceffary  fupplies  Vvdthin  the  year, 
+was  begun  in  1678.  M.  Colbert  per¬ 
+ceived  the  tendency  of  it ;  and  after  re- 
+monftiating  againft  it  in  vain,  he  told  the 
+minifters  who  advifed  it,  that  they  fliould 
+
+(^)  See  Page  30,  &c.  of  this  Treatiie,  and  the  ex- 
+tiacts  111  tllc  Appendix. 
+
+5 
+
+
+anfvver 
+
+
+{  V  ) 
+
+“  anfvver  to  God  for  the  mifchief  they  would 
+“  do  to  the  king  and  the  date,  by  introduc- 
+
+“  ing  fo  pernicious  a  pradice  [a).” - The 
+
+managers  of  our  affairs  will  have  more  to 
+anfwer  for.  They  have  not  only  introduced 
+this  pernicious  pradice ;  but  they  have  de¬ 
+feated  the  effed  of  an  eftablidiment,  which 
+would  have  preferved  us  from  all  the  dangers 
+attending  it. — The  greateft  fufferers  by  this 
+pradice  will  in  the  end  be  the  moneyed  peo¬ 
+ple  themfelves ;  or  thofe  creditors  of  the 
+public,  who  are  now  maintained  by  the  con¬ 
+tributions  of  the  poor,  and  the  labour  of  the 
+induftrious. — It  is  impoffible  that  debts  al¬ 
+ways  increafing,  fliould  not  in  time  fink  the 
+kingdom.  They  have  already  done  us  un- 
+fpeakable  mifchief.  A  conliderable  part  of 
+our  people  is  loft.  By  extending  the  influence 
+of  the  crown,  they  have  undermined  the 
+foundation  of  our  liberties.  It  is  doubtful  alfo, 
+whether  they  have  not  turned  the  balance  of 
+trade  againft  us,  by  railing  the  price  of  our 
+manufadures,  and  carrying  out  of  the  king¬ 
+dom  about  a  million  and  a  half  every  year,  in 
+payments  of  dividends  to  foreigners.  The  late 
+augm.entation  of  the  navy,  though  probably 
+a  right  meafure,  has,  by  taking  a  large  an¬ 
+nual  fum  from  the  Sinking  Fund,  removed 
+us  to  a  greater  diftance  than  ever  from  the 
+pofftbility  of  difcharging  them.  An  unfa¬ 
+vourable  turn  of  events  in  the  Raji-lndies, 
+
+(a)  I  have  related  this  fa£t  from  the  moll  refpeflable 
+authority. 
+
+
+or 
+
+
+vmju 
+
+
+am 
+
+
+(  vi  ) 
+
+or  any  confiderable  deficiencies  in  tHe  res. 
+venue,  .might  deftroy  our  ability  of  paying' 
+even  the  intereft  of  them.  At  leafty  it  is  to 
+be  feared,  that  another  war  would  exhauft 
+our  refources,  and  bring  our  affairs  to  a  crifis. 
+
+In  thefe  circumftances  ;  fome  vigorous 
+meafures  for  our  own  prefervation,  ought  to 
+be  entered  into  imipediately.  More  efpe- 
+cially,  it  feems  to  be  time  for  the  public 
+creditors  to  think  of  fecuring  their  capital. 
+The  law  once  gave  them  the  Sinking  Fund 
+as  a  lacred  and  unalienable  fecurity.  Would 
+it  be  wrong  to  require  a  rejiitution  of  it  j  and 
+to  make  this  a  condition  of  future  loans  ? 
+
+Upon  the  whole.  It  is  my  fincere  con- 
+vidlion,  that  a  policy,  too  narrow  and  felfifh, 
+has  brought  us  into  threatning  circumftances. 
+I  have  written  under  this  convidtion  •,  and,  if 
+my  feelings  have  drawn  from  me  any  language 
+improperly  fevere,  I  hope  I  fliall  be  excufed. 
+
+I  will  only  add,  that  I  think  myfelf  much 
+obliged  to  the  civility  of  fome  who  have 
+addreffed  remarks  to  me.  But  their  objec¬ 
+tions  have  not  yet  led  me  to  any  change  of 
+fentiments. — Whenever  I  am  made  fenfible 
+of  having  fallen  into  any  material  miftakes, 
+
+I  fliall  think  myfelf  bound  to  acknowledffe 
+and  retradt  them.  In  the  mean  time,  I  muft 
+beg  leave  to  avoid  difputes  ;  and  to  refer  in 
+lilence  all  I  have  written  to  the  decifion  of 
+the  public. 
+
+
+▲ 
+
+
+CON- 
+
+
+CONTENTS. 
+
+
+PART  I. 
+
+Containing  an  Account  of  Nature  and 
+Powers  of  Sinking  Fund;  and  the 
+fatal  Confequences  of  alienating  it.  Page  i 
+
+PART  II. 
+
+Containing  the  History  of  the  Sinking 
+Fund;  and  an  Account  of  the  Dangers  at¬ 
+tending  the  National  Debt.  p.  21 
+
+
+APPENDIX, 
+
+Containing  explanatory  Observations,  and 
+Tables,  and  an  Account  of  the  prefent 
+State  of  Population  in  Norfolk,  a?id 
+fame  of  the  adjoining  Counties.  —  p.  5^ 
+
+J  V 
+
+
+•  ':-r’  V  V  V  V*  V  V'  V‘  V”  V'  V' V' V'  V' V'  V'  *'^^-'^ 
+
+••'  '*•  ••'  j-*'  '••••■  ''v*'  '*•..••*  *'•..••■  v*  \  ..•■  \y*Xy*\x'\y*\^.>'\  y\y-\  "Si* 
+
+
+*S-  •••  •••  •••  •••  Z*^  *M  .•«  **  >  ♦  •  V  •  V  V  •  •  %  *•  •*  •• 
+
+__•*  V*  v/X-*  V'  '*■  •■  ’••••*  "v  \  .•*••  .*••.  *?2* 
+
+
+A  N 
+
+
+A  P  P  E  A 
+
+
+T  O 
+
+
+THE  PUBLIC 
+
+
+5 
+
+
+On  the  Subject  of  the 
+
+
+NATIONAL  DEBT. 
+
+
+PART  I. 
+
+IN  a  late  Treatife  on  Reverfionary  Payments, 
+Annuity- Schemes,  and  Population,  I  have 
+offered  to  the  public  feveral  obfervations 
+on  a  fubjedl,  now  highly  interefting  to  this 
+kingdom  :  I  mean,  the  National  Debt. 
+Thefe  obfervations  appeared  to  me  impor¬ 
+tant  ;  and  in  this  opinion  of  them  I  have 
+been  fince  confirmed  by  the  concurring 
+opinions  of  fome  of  the  befl  judges.  But 
+they  have  not  yet,  as  far  as  I  know,  been 
+favoured  with  the  attention  of  the  managers 
+
+B  "  of 
+
+
+(  2  )  . 
+
+ol  our  affairs ;  and  this  is  one  of  the  reafons 
+of  the  prefent  Appeal  to  the  Public.  Could 
+our  Governors  be  engaged  to  take  them  into 
+confideration,  they  would  perhaps  fee  them 
+to  be  worth  their  regard.  Be  this,  however, 
+as  it  will,  I  cannot  make  myfelf  eafy,  with¬ 
+out  begging  from  the  Public  one  further 
+hearing  on  this  fubjedl. 
+
+I  have  obferved,  in  page  163  of  the 
+Treatife  I  have  mentioned,  that  in  order  to 
+juflify  the  Alienation  of  the  Sinking  Fund, 
+it  has  been  ufual  to  plead,  that  when  money 
+is  wanted,  it  makes,  no  difference,  whether 
+it  is  taken  from  hence,  or  procured  by  mak¬ 
+ing  a  new  loan  charged  on  new  funds.  I 
+have  called  this  a  Sophism  j  and  afferted  in 
+oppofition  to  it,  that  the  difference  between 
+thefe  two  ways  of  procuring  money  is  no  lefs 
+than  infinite.  Thofe  who  have  entered  into 
+my  ideas  cannot  poffibly  want  any  other 
+proof  of  this  affertion  than  I  have  given.  But, 
+as  it  is  a  point  of  particular  confequence,  and 
+fome  have  objeded  to  it,  I  fliall  hei-e  give  as 
+diflind  and  clear  an  explanation  of  it  as  I  can. 
+
+A  Sinking  Fund,  according  to,  the  mod 
+general  idea  of  it,  fignifies  .“  any  Saving  or' 
+Surplus,  fet  apart  from  the  red  of  an  an¬ 
+nual  income,  and  appropriated  to  thepurpofe 
+of  paying  off  er  linking  debts.” 
+
+Tliere  are  three  'ways  in  which  a  kingdom 
+may  apjily  fuch  a  laving. 
+
+5  - 
+
+
+(  3  ) 
+
+\Jl.  The  mterejis  difengaged  from  time  to 
+time  by  the  payments  made  with  it,  may  be 
+themfelves  applied  to  the  payment  of  the 
+public  debts. 
+
+Or,  2dly,  They  may  be  fpent  on  current 
+fervices. 
+
+Or,  They  may  be  immediately  an¬ 
+
+nihilated  by  abolifhing  the  taxes  charged 
+with  them. 
+
+In  the  firft  way  of  employing  a  Sinking 
+Fund,  it  becomes  a  fund  always  increaling 
+itfelf.  Every  new  interejl  difengaged  by  it, 
+containing'  the  fame  powers  with  it,  and 
+joining  its'  operation  to  it ; .  and  the  fame 
+being  true  of  every  i'ntereft  difengaged  by 
+every  intereft,  it  muft  aft,  not  merely  with 
+an  increajing  force,  but  with  a  force  the 
+increafe  of  which  is  continually  accelerated  j 
+and  which,  therefore,  however  fmall  at 
+firft,'  muft  in  time  become  equal  to  any 
+
+effeft.- - In  the  fecond  way  of  applying 
+
+a  Sinking  Fund,  it  admits  of  no  increafe,  and 
+
+muft  aft  for  ever  with  the  fame  force. - In 
+
+•  other  words.  A  Sinking  Fund,  according  to 
+the  firft  method  of  applying  it,  is,  if  I  may 
+be  allowed  the  comparifon,  like  a  grain  of 
+corn  fown,  which,  by  having  its  produce 
+fown  and  the  produce  of  that  produce  and  fo 
+on,  is  capable  of  an  increafe  that  will  foon 
+
+ftock  a  province  or  fupport  a  kingdom. - 
+
+On  the  contrary.  A  Sinking  Fund,  accord¬ 
+ing  to  the  fecond  way  of  applying  it,  is  like 
+a  feed  the  produce  of  which  is  confumed ; 
+
+B  2  and 
+
+
+•■A. 
+
+
+lit- 
+
+
+V' t  .  '^-r.  •  « 
+
+
+(  4  ) 
+
+
+and  which,  therefore,  can  be  of  no  farther 
+ule,  and  has  all  .its  powers  deftroyed. 
+
+The  former,  be  its  income  at  Hrft  ever  fo 
+much  exceeded  by  the  new  debts  incurred 
+annually,  will  foon  become  fuperior  to  them, 
+and  cancel  them - The  latter,  if  at  firft 
+
+
+inferior  to  the  new  debts  incurred  annually, 
+will  for  ever  remain  fo ;  and  a  ftate  that  has 
+no  other  provifion  for  the  payment  of  its 
+debts,  will  be  always  accumulating  them  till 
+it  links. 
+
+What  has  been  now  faid  of  the  fecond 
+mode  of  applying  a  fund  is  true  in  a  higher 
+degree  of  the  third.  For  in  this  cafe,  the 
+difengaged-  interefts,  inftead  of  being  either 
+added  to  the  fund,  or  fpent  from  year  to  year 
+on  ufeful  fervices,  are  immediately  given 
+up. 
+
+In  Ihort.  A  fund  of  the  JirJl  fort  is  money 
+bearing  compound  intereft - A  fund  of  the 
+
+
+J'econd  lort  is  money  bearing  Jimple  intereft 
+And  a  fund  of  the  third  fort  is  money 
+
+- The  difference  be- 
+
+
+bearing  no  intereft 
+
+
+tween  them  is,  therefore,  properly  infinite : 
+And  this  is  lb  evident,  that  I  cannot  go  on 
+with  this  explanation  without  fome  reluc¬ 
+tance.  I  will,  however,  rely  on  the  candour 
+of  thofe  who  muft  be  already  abundantly 
+convinced,  while  I  endeavour  to  illuftrate  thefe 
+obfervations  by  the  following  example. 
+
+
+Let  us  fuppofe  a  nation  to  he  capable  of 
+fetting  apart  the  annual  fum  of  200,000 1. 
+
+
+as 
+
+
+r, .  \ 
+
+
+7. 
+
+
+K‘i 
+
+
+(  5  ) 
+
+as  a  fund  for  keeping  the  debts  it  is  con¬ 
+tinually  incurring  in  a  courfe  of  redemption; 
+and  let  us  confider  what  its  operation  will 
+be,  in  the  three  ways  of  applying  it  which 
+I  have  defcribed,  fuppofing  the  public  debts 
+to  bear  an  interefl;  of  5  per  cent,  and  the 
+period  of  operation  86  years. 
+
+A  debt  of  200,000  /.  difcharged  the  firft 
+year,  will  difengage  for  the  public  an  an¬ 
+nuity  of  10,000/.  If  this  annuity,  inftead 
+of  being  fpent.on  current  fervices,  is  added 
+to  the  fund,  and  both  employed  in  paying 
+debts,  an  annuity  of  10,500/.  will  be  difen - 
+gaged  th.Q  fecond  year,  or  of  20,500/.  in  both 
+years.  And  this  again,  added  to  the  fund 
+the  third  year,  will  increafe  it  to  220,500/; 
+with  which  an  annuity  will  be  then  difen- 
+gaged  of  11,025/;  and  the  fum  oi  the  difen - 
+gaged  annuities  will  be  31,525/.*  which, 
+added  to  the  fund  the  fourth  year,  will  in¬ 
+creafe  it  to  231,525/.  and  enable  it  then  to 
+difengage  an  annuity  of  11,576/.  5  r.  and 
+render  the  fum  of  the  difengaged  annuities, 
+in  four  years,  43,101/.  5^. — ^ — Let  any  one 
+proceed  in  this  way,  and  he  may  fatisfy  him- 
+felf,  that  the  original  Fund,  together  with  the 
+fum  of  the  annuities  difengaged,  will  increafe 
+fafter  and  fafler  every  year,  till,  in  86  years, 
+the  fund  becomes  13,283,414/,  and  theyaw 
+of  the  difengaged  annuities  13,083,414/.  {a) 
+—  The  full  value,  therefore,  at  5  per  cent. 
+
+(a)  See  Appendix,  note  A,  Table  I. 
+
+of 
+
+
+% 
+
+
+i 
+
+
+(  6  ) 
+
+of  an  annuity  of  13,083,414/.  will  have 
+been  paid  in  86  years ;  that  is,  very  nearly, 
+262  millions  of  debt :  And,  confequently,  it 
+appears,  that  tho’  the  ftate  had  been  all  along 
+adding  every  year  to  its  debts  three  millions; 
+that  is,  tho’  in  the  time  fuppofed  it  had  con- 
+trafted  a  debt  of  258  millions,  it  would  have 
+been  more  than  difeharged,  at  no  greater  ex¬ 
+pence  than  an  annual  faving  of  200,000/.-: _ 
+
+But-if  the  fame  fund  had  been  employed  in 
+thcjecom^  of  the  three  ways  I  have  c  eferibed, 
+the  annuity  difengaged  by  it  would  have  been 
+every  year  1 0,000/;  and  the  fum  of  the  an¬ 
+nuities  dilengaged  would  have  been  86  times 
+
+10,000/,  or  860,000/; - The  difeharged 
+
+debt,  therefore,  would  have  been  no  more 
+than  the  value  of  fuch  an  annuity,  or 
+i7>2co,ooo/.  But  belides  this,  it  mult 
+be  confidered,  that  there  will  be  an  expence 
+fa^edy  in  confequence  of  applying  every  year 
+the  difengaged  annuities  to  current  fer vices, 
+for  which  otherwife  equivalent  lums  muft 
+have  been  provided  by  new  taxes  or  aiTell- 
+ments.  10,000/,  will  be  laved  at  the  begin- 
+ning  oi  tht  fecond  yezvy  20,000/.  at  the  be¬ 
+ginning  of  the  third-,  30,000/.  at  the  begin¬ 
+ning  of  the  fourth  and  8 50,000  /.  at  the 
+beginning  of  the  86th  year  {a)-,  and  the  funi  ‘ 
+of  all  thefe  favings  is  36,550,000/.  which, 
+
+(a)  THis  is  an  Arithmetical  Progreffion  ;  and  the  fum 
+of  every  fuch  progreffion  is  found  by  multiplying  the 
+fum  of  the  firft  and  Jaft  terms  by  half\\\c  number  of  terms ; 
+or,  in  the  prefeiit  cafe,  by  ntultiplying  86q,ooo  by  ^2^. 
+
+added 
+
+
+/ 
+
+
+(  7  ) 
+
+■added  to  17,200,000/.  the  debt  dijcharged, 
+makes  53,750,000/.  Subftra(fl  the  laft  I'um 
+from  262  millions,  and  208,250,000/.  will  be 
+■  the  complete  lofs  of  the  public  arifing,  in  86 
+years,  from  employing  an  annual  fum  of 
+200,000/.  in  the  fecond  way  rather  than  the 
+£rft. 
+
+Little  need  be  faid  of  the  effeil  of  the  fame 
+fund  applied  in  the  third  way.  It  is  obvious 
+that  the  whole  advantage  derived  from  it, 
+would  be  the  difcharge  of  a  debt  of  200,000/. 
+annually  •,  or  of  17,200,000/.  in  all. 
+
+Similar  deductions  might  be  made  on  the 
+fuppofition  of  low'er  rates  of  intereft  and 
+
+fhorter  periods. - Thus  j  let  a  date  be  fup- 
+
+pofed  to  run  in  debt  two  millions  annually, 
+for  which  it  pays  4  per  cent,  intereft.  In  70 
+years,  a  debt  of  140  millions  would  be  in¬ 
+curred.  But  an’ appropriation  of  400,000/. 
+perann.,  if  employed  in  the  firji  way,  would, 
+at  the  end  of  this  term,  leave  the  nation  be¬ 
+forehand,  fix  millions ;  whereas,  if  applied 
+•in  the  fecond  way,  the  nation  would  be  left 
+in  debt,  73  millions ;  and  in  the  third  way, 
+112  millions. 
+
+It  is  an  obfervation  of  particular  importance 
+here,  that  there  can  be  no  reafon  for  em¬ 
+ploying  a  fund  in  the  fecond  of  the  ways  I 
+have  mentioned,  rather  than  the  firf.  In 
+both  cafes,  the  taxes  are  continued  durin 
+the  operation  of  the  fund.  In  the  former, 
+
+difengaged  tax  or  annuity  is  employed  to  pay 
+
+debts ; 
+
+
+/ 
+
+
+p  Ctq 
+
+
+t 
+
+
+(  8  ) 
+
+debts ;  and  in  the  latter,  it  is  employed  to 
+jQve  debts  which  muft  have  been  otherwife 
+incurred.  If  employed  to  debts  it  will 
+obtain  for  the  public  other  annuities,  and 
+thofe  others  m  infinitum.  But  if  it  is  em¬ 
+ployed  to  debts  j  or,  which  in  the  pre- 
+fent  cafe  is  the  fame,  the  tnterefis  of  debts, 
+as  thofe  interefls  would  not  themfelves' 
+have  borne  intereft,  no  farther  profit  could 
+
+arife - In  fhort,  in  the  one  cafe  the  difen- 
+
+pged  annuity  is  prolific,  and  contains  in 
+itfelf  a  number  continually  growing  of  other 
+annuities - In  the  other  cafe,  it  is  a  bar¬ 
+ren  annuity. - To  employ  a  fund,  there¬ 
+
+fore,  in  the  latter  way  rather  than  the  former, 
+is  preferring  an  exemption  from  the  burden 
+of  ONE  annuity,  to  an  exemption  from 
+MANY;  and  fubjecling  a  kingdom  to  the 
+lofs  of  208  millions  in  the  firfi  example,  and 
+79  millions  in  the  fecond,  only  for  the  fake 
+of  avoiding  one  expence  by  continuing  an¬ 
+other  equal  expence. 
+
+In  the  third  or  laft  way  of  employing  a 
+Fund,  the  Public  will  obtain  fome  advan¬ 
+tage  by  the  abolition  of  taxes.  But  it  is  an 
+advantage  unfpeakably  overbalanced  by  dif- 
+advantages.— — In  the  firfi  example,  we 
+have  feen,  that  it  is  gaining  36  millions  and 
+a  half  at  the  expence  of  262  millions;  or, 
+in  other  words,  procuring  an  eafe  from 
+taxes  which,  in  86  years,  .  vvould  have 
+been  increafed  to  ^ ^0,000 L  per  annum,  at  the 
+expence  of  a  Fund  that,  in  the  fame  time, 
+
+would 
+
+
+(  9  ) 
+
+wduld  have  eafed  the  Public  of  above  thir¬ 
+teen  MILLIONS  per  annum  in  taxes. — But 
+I  need  not  infift  on  the  folly  of  this,  the. 
+abolition  of  taxes  being,  what  we  have  hi¬ 
+therto  known  little  of  in  this  country. 
+
+It  muft  have  been  obferved,  that  a  Fund 
+of  the  fecond  fort  is  a  greater  cheek  on  the 
+increafe  of  public  debts,  than  a  Fund  of  the 
+third  fort.  But  the  difference  is  not  con- 
+liderable,  and  there  is  one  circumftance 
+which,  I  think,  reduces  it  alnioft  to  nothing. 
+—It  fuppofes  a  flridt  and  inviolable  appli¬ 
+cation  of  the  perpetuated  annuities  to  the 
+purpofe  of  faving  equivalent  debts.  But 
+fuch  an  application  of  them  is  fcarcely  prac¬ 
+ticable.  When  fmall,  they  would  be  neg¬ 
+lected  ;  and,  when  large,  they  would,  like 
+the  favings  of  perfons  in  private  life,  only 
+occafion  an  abatement  of  frugality  :  and, 
+for  this  reafon,  if  a  Fund  is  not  applied  in 
+the  firft  way,  it  might,  for  ought  I  know, 
+be  belt  that  it  fhould  be  employed  in  the 
+laft  way  ;  for  a  kingdom  would  then  be  fure 
+of  receiving  fame  relief,  whereas  otherwife 
+it  might  receive  none. 
+
+Perhaps,  indeed,  one  might  obferve,  in 
+general,  that  if  a  Sinkmg  Fund  is  not  em¬ 
+ployed  in  the  firlt  way,  and  rendered  abfo- 
+lutely  inacceffible  and  unalienable,  it  would 
+be  moft  for  the  beneht  of  a  State  to  be  with¬ 
+out  any  fuch  provilion.  For,  in  thefe  circum- 
+Itances,  tho’  incapable  of  doing  much  good, 
+it  might  do  much  harm  by  encouraging  ex- 
+
+C  travagance. 
+
+
+(  10  ) 
+
+travagance,  and  fupplying  Miniilers  of  State 
+with  more  m6ney  to  be  fpent  in  maintaining 
+undue  influence  and  corruption. 
+
+But  it  is  time  to  enter  into  a  more  ex¬ 
+plicit  confutation  of  the  plea  commonly  ufed 
+to  juftify  the  alienation  of  the  Sinking  Fundi 
+and  which  has  been  mentioned  at  the  begin¬ 
+ning  of  this  Eflay. 
+
+This  alienation,  it  is  well  known,  is  be¬ 
+come  a -fixed  meafure  of  Government  among 
+us.  We  owe  to  it  our  prefent  heavy  debt, 
+and  if  continued  much  longer,  there  will,  I 
+am  afraid,  be  no  poflibility  of  efcaping  fome 
+of  the  worfl;  calamities.  It  is,  therefore, 
+neceflary  that  the  reafon  on  which  it  has 
+been  grounded,  fliould  be  particularly  ex¬ 
+amined  and  refuted.  And  in  order  to  do 
+this,  I  mufl;  beg  leave  to  bring  again  to  view 
+fome  of  the  preceding  obfervations. 
+
+There  is,  let  us  fuppofe,  a  million  wanted 
+for  the  neceflary  fupplies  of  the  year.  It 
+lies  ready  in  the  Sinking  Fund,  and  a  mini- 
+fler,  in  order  to  obtain  leave  to  feize  it, 
+pieads,  “  That,  fince  fuch  a'fum  muft  be 
+“  had,  it  is  indifferent  whether  it  is  taken 
+“  from  hence,  or  procured  by  making  a 
+“  new  loan.-  If  the  former  is  done,  an  old 
+“  debt  will  be  continued.  If  the  latter  is 
+
+done,  an  equal  new  debt  will  be  incurred, 
+“  which  would  have- been  otherwife  faved  ; 
+“  and  he  public  interell:  can  be  no  more 
+“  affeded  by  one  of  thefe  than  the  other. 
+
+A.  “  Bat 
+
+
+(  ^  I  ) 
+
+“  But  the  former  is  eafieft.  And  it  will 
+“  fave  the  difagreeable  necedity  of  laying 
+“  on  a  new  tax.” — This  argument  appears 
+plaufible ;  and  it  has  never  yet  ■  failed  of- 
+fuccefs. — But  what  muft  prove  the  confe- 
+quence  ?  —  If  fuch  reafoning  is  good  one 
+year,  it  is  good  every  year ;  and  warrants  a 
+total  alienation  of  the  Sinking  Fund,  if  the 
+annual  expences  of  Government  are  fuch  as 
+always  to  require  a  fum  equal  to  its  income. 
+And.  thus,  it  will  lofe  its  whole  efficacy ; 
+and  a  Fund  that,  if  not  alienated,  would 
+have  been  omnipotent,  will  be  converted 
+into  juft  fuch  a  feeble  and  barren  one,  as 
+the  fecond  or  third  in  the  former  account. 
+
+,  The  fallacioufnefs  of  this  argument  con- 
+lifts  in  the  fuppolition,  that  no  iofs  can  arife 
+to  the  Public  from  continuing  an  old  debt, 
+when  it  cannot  be  difeharged  without  in¬ 
+curring  an  equal  new  debt.—l  have  demon- 
+flrated  this  to  be  a  miflake  ;  and  that  by 
+prailifing  upon  it,  or  alienating  rather  than 
+borrowmg,  an  infinite  lofs  may  be  fuf- 
+
+tained. - Agreeably  to  this,  I  have  in  the 
+
+Treatifeon  Annuities,  pag.  339.  ffiewn,  that 
+had  but  400,000/.  fer  annum  of  the  Sinking 
+Fund  been  applied,  from  the  year  1716,  in¬ 
+violably,  THREE  MILLIONS  per  a7muni  of  our 
+taxes  might  now  have  been  annihilated. 
+
+I  will  here  add,  that  had  the  whole  pro¬ 
+duce  of  it  been  thus  employed  faj,  we 
+
+(a)  An  explanation  and  proof  of  this  may  be  found 
+in  the  Appendix,  Note  B. 
+
+C  2  might 
+
+
+(  12  ) 
+
+might  now  have  been  in  polTeffion  of  a  very 
+conliderable  surplus,  inftead  of  being  in 
+
+debt,  A  HUNDRED  AND  FORTY  MILLIONS. 
+
+— ‘But  I  will  go  farther. -r- Had  even  the 
+money  that,  at  different  times,  has  been 
+employed  in  paying  off  our  debtsj  been  ap¬ 
+plied  but  in  a  different  manner  (b)  that  is, 
+had  it  been  made  the  produce  of  a  Sinking 
+Fund,  which,  from  1716  to  the  prefent. 
+year,  had  never  been  alienated  ;  above 
+HALF  our  prefent  debts  would  have  been 
+cancelled. — Such  is  the  importance  of  mere¬ 
+ly  the  MANNER  of  applying  money. —  Such 
+is  the  prodigious  difference,  in  the  prefent 
+cafe,  between  borrowing  and  alienating.-^ 
+Nor  is  there  any  thing  in  this  myflerious. 
+The  reafon  has  been  fufficiently  explained. 
+— When  a  ftate  borrows,  it  pays,  I  have 
+laid,  only  Jitnple  jntereft  for  money.  When 
+it  alienates  a  Fund  appropriated  to  the 
+payment  of  its  debts,  it  lofes  the  advantage 
+pf  money,  that  would  have  been  otherwife 
+improved  neceffarily  at  compound  intereft  (c). 
+
+{h)  \  reckon  that  about  20  millions  of  the  income  of 
+the  Sinking  Fund  have,  at  different  times  and  in  different 
+ways,  been  employed  in  paying  public  debts.  Fifty-fix 
+yearly  payments  pf  357,006/.  make  nearly  this  fum ; 
+and,  had  it  been  divided  into  fuch  payments  and  inviol¬ 
+ably  applied  in  the  manner  I  have  explained,  from  the 
+vear  1716;  Seventy-cne  Millions  of  debt,  bearing 
+4  per  cent,  interclf,  would  now  have  been  difeharged. — . 
+I  hope  it  will  be  remembered,  that  in  mentioning  the 
+refults  of  calculations  of  this  kind,  I  generally  give  the 
+iiearefl  round  numbers,  my  defign  not  requiring  greater 
+exac^dnels. 
+
+(c)  I  muff  beg  the  reader,  if  he  has  here  any  doubt, 
+to  coiuult  Note  C,  in  the  Appendix. 
+
+And 
+
+
+(  13  ) 
+
+And  can  there  be  any  circumftances  of  a 
+State  which  can  render  the  latter  of  thefc 
+preferable  to  the  former?  Or  can  the  incon¬ 
+veniences,  which  may  attend  the  impofition 
+of  a  new  tax,  deferve  in  this  cafe  to  be  men¬ 
+tioned  ?  What  a  barbarous  policy  is  that 
+which  runs  a  Kingdom  in  debt.  Millions, 
+in  order  to  fave  Thousands  ;  which  robs 
+the  Public  of  the  power  of  annihilating  all 
+taxes,  in  order  to  avoid  a  fmall  prefent  in- 
+creafe  of  taxes  ? — This,  in  truth,  has  been  . 
+our  policy;  and  it  would  be  affronting  com¬ 
+mon  fenfe  to  attempt  a  vindication  of  it. 
+
+I  confefs  myfelf  incapable  of  fpeaking  on 
+this  fubjedl  with  calmnefs. — Let  the  Reader 
+think  of  the  fads  I  have  mentioned  :  let 
+him  confider  the  difference  in  our  favour, 
+which  an  inviolable  application  of  the  Sink¬ 
+ing  Fund  would  have  made :  Let  him  com¬ 
+pare  what,  in  that  cafe,  we  Jhould  have  been, 
+with  what  we  are ;  and  let  him,  if  he  can, 
+be  unmoved. 
+
+I  have,  hitherto,  argued  on  the  fuppo-: 
+fition  of  a  total  ot  conjtant  alienation'  of  the 
+Sinking  Fund.  It  may  be  proper  juft  <o 
+mention  the  effedt  of  a  partial  alienation 
+
+of  it.  ,  .  j  • 
+
+Let  us  then  fuppofe,  that  its  produce  is 
+
+taken  from  it  only  every  other  year.  Moft 
+perfons  will,  perhaps,  be  ready  to  pronounce, 
+that  this  could  only  take  from  it,  in  any 
+given  time,  half  its  effedl.  But  the  truth 
+
+IS » 
+
+
+(  H  ) 
+
+is,  that  fuch  an  interruption  might  deftroy 
+
+almoft  its  whole  efFedl. - An  annual  Fund 
+
+of  200,000/.  would  (it  has  been,fliewn)  in 
+eighty-fix  years,  pay  off  262  millions,  bear¬ 
+ing  intereft  at  5  per  cent.  But  if  its  pro¬ 
+duce  is  taken  from  it  every  other  year,  it 
+would,  in  the  fame  time,  pay  off  no  more 
+than  twenty-eight  millions. 
+
+In  like  manner;  a  Fund  of  a  million  per 
+annuniy  which  commenced  at  the  time  of 
+the  eflablifhment  of  our  Sinking  Fund,  would 
+by  this  time,  (that  is,  in  fifty-lix  years)  have 
+paid  off  Two  HUNDRED  MILLIONS  bearing 
+interefi:  at  4  per  cent.  But  if  alienated  every 
+other  year,  it  could  not  have  paid  off  above 
+FIFTY  MILLIONS,  (a)  And,  if  alienated 
+two  years  in  every  three,  it  could  not  have 
+paid  off  TWENTY-SEVEN  MILLIONS. 
+
+I  mean  this  on  the  fuppofition  of  a  faith¬ 
+ful  application  of  its  whole  growing  produce, 
+in  the  years  when  it  is  not  alienated.  But 
+this  is  a  fuppofition  which,  when  applied  to 
+the  management  of  our  Sinking  Fund,  is 
+much  too  favourable.  It  has  feldom  hap¬ 
+pened  that,  in  any  one  year,  its  whole  pro- 
+dijce  has  been  applied  to  its  proper  ufe.  In 
+mofl  years,  it  has  been  wholly  alienated; 
+and  in  fome  years,  anticipated  and  mort¬ 
+gaged. — Can  we  then  w'onder,  that  it  has 
+done  us  fo  little  fervice  ^ 
+
+(aj  See  the  Appendix.  Note  D. 
+
+
+F  rom 
+
+
+(  i5  ) 
+
+^  * 
+
+From  thefe  obfervations  the  truth  of  th^ 
+
+following  alTertion  will  be  very  evident. 
+
+“  A  State  may,  without  difficulty,  redeem 
+“  all  its  debts  by  borrowing  money  for  that 
+purpofe,  at  an  equal  or  even  any  higher 
+“  intereft  than  the  debts  bear ;  and  with- 
+out  providing  any  other  Funds  than  fuch 
+“  fmall  ones,  as  ffiall  from  year  to  year  be- 
+come  neceffary  to  pay  the  intereft  of  the 
+fums  borrowed.” 
+
+For  Example.  Suppofe  our  Parliament^ 
+56  years  ago,  had  refolved  to  borrow  half  a 
+million  annually  for  the  purpofe  of  redeem¬ 
+ing  the  debts  of  the  kingdom.  The  N^a- 
+tional  Gairii  fuppoling  the  money  applied, 
+without  interruption,  to  the  redemption  of 
+debts  bearing  4  per  cent,  intereft,  would 
+have  been  a  hundred  millions,  being 
+debt  redeemed,  or  the  fum  nearly  to  which 
+an  annuity  of  half  a  million  will  accumulate, 
+in  56  years.— ‘-"^On  the  other  hand*  The 
+Nationa  I  Lofs  would  have  been,  twenty- 
+eight  MILLIONS  -y  being  debt  inciirredy  or 
+the  fum  of  all  the  loans. — -^The  ba¬ 
+lance,  therefore,  in  favour  of  the  nation, 
+would  have  been'(^)  seventy-two  mil- 
+
+LIONSs 
+
+It  Teems  to  me  fcarcely  proper  to  take  into  this  ac¬ 
+count,  the  produce  of  the  taxes  laid  to  pay  the  intereft  of 
+the  debts  contradled  from  year  to  year.  Let  this,  how¬ 
+ever,  be  charo-ed. - The  produce  of  the  taxes  laid  to 
+
+pay  the  intereft  of  the  firft  half  million,  will  be  55  times 
+^  20,000 /, 
+
+
+‘  I! 
+
+
+(  i6  ) 
+
+LIONS. - -During  this  whole  period,  the 
+
+revenue  account  would  have  been  the  fame 
+that  it  has  been,  except  that  it  would  have 
+been  charged,  towards  paying  the  interelh 
+of  the  money  borrowed,  with  an  annuity 
+increallng  at  the  rate  of  20,000/.  every 
+year.  In  the  prefent  year,  therefore,  this 
+annuity  would  have  been  55  times  20,000/, 
+or  1,100,000/.  But  it  lliould  be  remem¬ 
+bered,  that  100  millions  having  been  re¬ 
+deemed,  the  kingdom  might  have  been 
+now  eafed  of  the  annual  expence  of four  mil¬ 
+lions. 
+
+Again.  Suppofe  only  half  a  million  an¬ 
+nually  to  be  now  capable  of  being  fpared 
+from  the  Sinking  Fund.  This,  if  applied  to 
+the  redemption  of  the  3  per  cents,  at  par, 
+would  pay  olf  no  more  than  61  millions  in  52 
+years.  But  let  half  a  million  be  borrowed 
+annually,  for  only  23  years  to  come  j  and 
+99  millmis  will  be  redeemed  in  the  fame 
+time,  (a)  That  is;  38  millions  more  than 
+
+could 
+
+20,000/,  or  1,100,000/.  For  the  fecond,  third,  fourth, 
+&c.  half-millions,  the  payment  of  taxes  will  be  54, 
+53,  52,  &c.  times  20,000/.  And  the  fiirn  of  all  thefe 
+payments  will  be  30,800,000/.  Add  this  fum  to  28 
+millions;  and  58,800,0000/.  will  be  the  whole  national 
+hjs :  which  dedu61cd  from  99,902,770  (the  exa5i  na^ 
+tional gain)  leaves  41,102,770.'^.  the  balance  in  favour  of 
+the  public.  See  the  Appendix,  Note  C. 
+
+(a)  Such  a  feheme  as  is  here  propofed  might  be  more 
+helped  than  can  well  be  imagined  by  various  kinds  of  ma^ 
+nagement  ;  and,  particularly,  when  the  Jiock^  are  under 
+by  purchafing  them  for  the  public  at  the  prizes  in 
+
+the 
+
+
+(  17  ) 
+
+could  have  been  othervvife  redeemed,  at  the 
+extraordinary  expence  of  only  eleven  millions 
+iind  a  half. 
+
+War,  while  fuch  a  fcheme  was  going  on, 
+would  ihcreafe  its  efficiency  ^  and  any  fuf- 
+penfion  of  it  then,  would  be  the  madnefs  of 
+giving  it  a  mortal  ftab,  at  the  very  time  it  was 
+making  the  quickeft  progrefs  towards  the 
+accomplifhment  of  its  end. — — Suppofe,  for 
+inflance,  that,  within  the  period  I  have 
+mentioned,  two  wars  ffiould  happen  ^  one  to 
+begin  five  years  hence,  and  to  laft  io  years  ; 
+the  other  to  begin  35  years  hence,  and  to  lad 
+alfo  10  years,  and  both  raifing  the  iriterefi: 
+of  money  in  the  Funds  (^)  to  4!  per  cciit. 
+It  may  be  eafily  calculated,  that  on  thefe 
+fuppofitions  145  millions^  inllead  of  99  mil¬ 
+lions,  would  be  paid  off  by  fuch  a  fcherne. 
+But,  ffiould  it  be  fufpended  during  the  con¬ 
+tinuance  of  the  two  wars,  it  would  in  the 
+fame  time  (that  is,  in  52  years)  pay  off  no 
+more  than  40  millions. 
+
+.  I  know  thele  Obfervations  will  look  more 
+like  vijions  than  reahtiesy  to  thofe  \yho  have 
+never  turned  their  thoughts  to  thefe  fubjedts ; 
+
+
+the  Alley. - There  are  no  fums  fo  trifling,  as  not  to  be 
+
+capable  in  this  way,  of  being  applied  to  the  payinent  of  the 
+
+public  debts. - The  fmalleji  gleanings  of  a  fund  might 
+
+be  thus  improved,  in  a  better  manner  than  any  other 
+parts  of  it. 
+
+,  fZ>>That  is  ;  fo  high  as  that  it  fliall  be  an  advantage 
+to  the  Proprietors  of  the  3  cents^  to  difpofe  of  them  at, 
+about  67. 
+
+}  I  • 
+
+
+D 
+
+
+or 
+
+
+f 
+
+
+(  18  ) 
+
+bf  who. have  not  duly  attended  to  the  amaz¬ 
+ing  increafe  of  moneys  bearing  compound 
+intereft.-^= — The  duration  of  the  lives  of 
+individuitls  is  confined  within  limits  fo  narrow^ 
+as  not  to  admitj  in  any  great  degree^  of  the 
+advantages  that  may  be  derived  from  this  in¬ 
+creafe.  But  a  period  of  50  of  60  or  loo  years 
+being  little  in  the  duration  of  kingdoms,  they 
+are  capable  of  fecuring  them  in  almofl  any 
+degree  i  And  if  no  kingdoms  fhould  ever  do 
+this  ;  if,  in  particular,  a  nation  in  fuch  cir- 
+cumfiances  as  burs,  fhould  continue  to  neg- 
+ledl  availing  itfelf  of  them  :  one  fadt  will 
+be  added  to  the  many  in  the  political  worlds 
+■which,  tho’  they  cannot  Jurprize  a  philofb- 
+phical  perfon,  he  inufi;  confider  with  concern 
+and  regret. 
+
+
+Money  bearing  compound  intefeft  in-^ 
+creafes  at  firfi:  flov/ly,  But,  the  fate  of  in¬ 
+creafe  being  continually  accelerated,  it  be¬ 
+comes  in  fonie  time  fo  rapid,  as  to  mock  all 
+
+the  powers  of  the  imagination. - One 
+
+PENNY,  put  out  at  our  Saviour’s  birth  to  5 
+per  cent,  compound  interefi:,  would,  before 
+this  time,  have  increafed  to  a  greater  fum, 
+than  would  be  contained  in  a  hundred  and 
+Fifty  millions  of  earths,  all  folid 
+
+gold  (c).— - Bat  if  put  out  to  Jhiiple  interefi:, 
+
+it  would,  in  the  fame  time,  have  amounted 
+
+(c)  See  Treatife  on  Reverllonary  Payments,  &c.  Intro* * 
+dudtion,  page  J3. 
+
+tD 
+
+
+1  .  •  t 
+
+
+i 
+
+i,- 
+
+*  's, 
+
+
+(  >9  ) 
+
+to  no  ttiore'tjian  feve7i  Jlnliings  and font-  pence 
+half-penny goverfinient  has  hitherto 
+chofcn  tp  improve  money  in  the  laf,  rather 
+than  the  frjl  of  thefe  ways. 
+
+'  *  '  I 
+
+,  .  .. 
+
+,  Many  fchemes  have  at  different  times  been 
+pjropofed  for  paying-  off  the  National  Debt. 
+But  the  inventors  of  them  might  have  fpared 
+their  labour.  Their  fchemes  could  not  de- 
+ferve  the  leaft  notice.’  Th.e  beft  I'cheme  has 
+been  long  known.  It  has  been  eftablijhed  •, 
+but,  unhappily  for  this  kingdom,  it  was 
+crufhed  in  its  infancy.  Still,  however,  if 
+our  deliverance  is  poffible,  it  muff  be  derived 
+from  hence.  The  ftrideff  mathematical 
+evidence  proves,  that  the  natures  of  things 
+don’t  admit  of  any  method  of  redeeming 
+
+public  debts  fo  expeditious  and  effedtual. - - 
+
+Restore,  then,  ths  Sinking  Fund. 
+And  if  the  whole  of  it  cannot  be  unaliena¬ 
+bly  applied  to  its  original  ufe,  let  some  part 
+of  it  be  fo  applied ;  that  the  nation  may,  at 
+leaft,  enjoy  a  chance  of  being  faved. — “  The 
+Sinking  Fund,  (fays  a  great  writer)  is  the 
+laft  relbrt  of  the  nation  j  its  only  domeftic 
+“  refpurce,  on  which  muft  chiefly  depend  all 
+**  the  hopes  we  can  entertain  of  ever  dif- 
+“  charging  or  moderating  our  incumbrances. 
+“  And,  therefore,  the  prudent  application 
+“  of  the  large  fums  now  ariling  from  this 
+fund,  is  a  point  of  the  utmoft  importance, 
+and  well  worthy  the  ferious  attention  of 
+
+P  2  “  Parliament.” 
+
+
+(  20  ) 
+
+“  Parliament.”(^/) — I  fhould  offer  an  injury, 
+to  truth,  were  I  to  fay  no  more,  than  that 
+I  have  pointed  out  the  moft  prudent  ap¬ 
+plication  of  this  fund.  I  am  perfuaded  that 
+I  have  pointed  out  the  only  application  of 
+it,  that  can  do  us  any  effential  fervice.'  Time 
+mull:  difcover  whether  the  Parliament 
+will  think  it  worthy  of  any  attention. 
+
+{d)  See  Mr.  Juftice  Blackstone’s  Commentaries 
+'on  the  J^aws  of  England;,  Vol.  I.  page  329. 
+
+
+PART 
+
+
+(  21  ) 
+
+
+PART  II. 
+
+
+I  Have  frequently  fpoken  on  the  fuppoh- 
+tion  that  the  Sinking  Fund,  as  it  was 
+originally  eftablifhed  by  the  Legiflature,  was 
+fuch  a  fund  as  I  have  explained  in  the  pre¬ 
+ceding  pages.  The  following  brief  account 
+of  the  origin  of  this  Jund,  and  of  the  mea- 
+fures  of  Government  with  refpedt  to  it,  will, 
+I  think,  prove  this  and  at  the  fame  time, 
+perhaps,  convince  every  perfon,  that  this  is 
+a  fubjedl  on  which  the  nation  has  indeed  no 
+fmall  reafon  for  complaint. 
+
+Before  the  eftablifhment  of  this  fund,  there 
+had  exifted  many  fmaller  funds  of  the,  fame 
+nature.  That  is  j  fuch  duties  or  taxes  had 
+been  provided,  for  paying  the  intereils  of 
+particular  loans,  as  afforded  furpluffes  by 
+which  the  principal  itfelf  was  to  be  gradually 
+redeemed.  This  feems  to  have  been  the  com¬ 
+mon  practice  in  the  reigns  of  King  William 
+and  Queen  Anne.  MofI;  of  the  public  duties 
+
+were 
+
+
+I’  ^  I 
+
+
+(  22  ) 
+
+were  given  for  terms  of  years  j  and  at  the 
+end  of  thofe  terms  they  ceafed  of  courfe,  un-. 
+lefs  continued  for  farther  terms  by  new  adls 
+®f  F nflidniciit ,  And,  in  genera],  it  was  pro¬ 
+vided,  when  any  money  was  raifed,  that  the 
+principal  fhould  be  cancelled  either  by  ttme^ 
+as  in  the  cafe  of  the  fale  of  long  and  fhort 
+annuities,  or  by  the  furpluffes  of  the  duties 
+charged  with  the  payment  of  the  intereft. 
+This  was  certainly  an  excellent  plan.  But 
+it  was  by  no  means  carried  fleadily  into  ex¬ 
+ecution. - In  the  year  1720,  moil  of  the 
+
+long  and  fliort  annuities  were  converted  into 
+redeemable  perpetuities,  at  the  expence  of 
+above  three  millions ;  and  the  furpluiTes  of 
+the  duties,  charged  with  particular  loans, 
+were  often  fo  broke  into,  by  being  either 
+charged  with  new  loans  before  they  had  can¬ 
+celled  the  old,  or  fpent  on  current  fervices, 
+as  to  be  rendered  incapable  of  anfwerinpr  the 
+end  intended  by  them  — In  cLfe- 
+
+quence 
+
+Dr.  Davenant,  in  his  ElTayon  the  prohable  Me- 
+thod  of  making  People  Gainers  in  the  Balance  of  Trade,  pub- 
+Ji(ned  in  1699^  complains  of  this  in  eery  llrong  language 
+and  reprefeius  it  as  lull  of'danger  to  the  trade  and  liberties 
+
+cf  the  kingdom.- - “  A  fufficient  provifion  (fays  he)  is 
+
+“  not  made  againft  diverting  the  public  treafure,  and 
+
+“  agairift  breaking  into  appropriated  finds. - The  laws 
+
+“  have  not  made  this  crimiaa]  enough. _ The  Ex¬ 
+
+chequer  fhould  be  fenced  about  with  all  poflibJe  Ikill. 
+
+-Stopping  the  principal,  tho’  the  payments  of  in¬ 
+tereft  are  continued,  may  prove  fttal. - More  dan¬ 
+
+ger  may  arile  lo  our  liberties  fronj  breaking  into  old 
+
+
+t  .  ■  Xv-,- 
+
+
+(  23  ) 
+
+quence  partly  of  this  bad  management,  our 
+debts  at  the  acce{}ion  of  the  prefent  Royal 
+Family  were  fo  much  increafed,  as  to  be  ge¬ 
+nerally  reckoned  infupportable  •,  and  their  re- 
+dud:ion  was  made  one  of  the  firft  objects  of 
+parliamentary  attention.  This  gave  rife,  in 
+the  year  1716,  to  the  inftitution  of  the  fund 
+of  which  1  am  giving  an  account;  t\ve.  father 
+of  which,  as  is  well  known,  was  Sir  Robert 
+
+Walpole. - All  the  taxes  charged  with 
+
+the  National  Debt  were  now  made  perpetual, 
+and  digefted  into  three  funds  called  the  Ag¬ 
+gregate,  the  South-fea  and  the  general  funds. 
+
+_ l-At  the  fame  time  a  confiderable  faving 
+
+was  obtained,  by  the  redudtion  of  interelt 
+from  6  to  5  per  cent ;  and  this  faving,  toge¬ 
+ther  with  former  favings,  and  all  that  fhould 
+afterwards  arife,  were  to  be  colledled  into 
+a  fourth  fund,  dillinguifhed  under  the  name 
+of  the  Sinking  Fund,  the  account  of  which 
+was  to  be  kept  feparate,  and  the  whole  pro¬ 
+duce  of  which  was  to  be  appropriated  invio¬ 
+lably  to  the  payment  of  the  National  Debt. 
+
+“  funds  appropriated,  than  from  making  new  and  forced 
+
+levies  on  the  fubjea.” - -The  realon  he  gives  for 
+
+thefe  affertions  is,  “  that  in  confequence  of  fuch  dt- 
+verfions  of  the  public  fumh  the  public  debts  (then  elh- 
+“  mated  bv  him  at  17  millions)  would  increafe,  and 
+“  minifters"  come  in  time  to  be  fupplied  with  a  revenue 
+“  fo  large  as  would  enable  them,  with  the  help  of  a 
+“  ftanding  army,  to  make  Parliaments-  ufelefs  and  to 
+“  overthrL  the  conftitution.” - VVhat  would  this  ex- 
+
+
+cellent  writer  (ay  were  he  now  living  r  bee  Davenant  s 
+works  lately  publilhed  by  SirGuARLEs  Whitworth, 
+vol.  2d.  page  286,  &c. 
+
+
+. 
+
+I 
+
+■  ^ » 
+
+I 
+
+.r-_ 
+
+t  • 
+
+if  ,*  1 
+
+1 
+
+"  »* 
+
+'jm-  * 
+
+I  i 
+
+
+t 
+
+
+(  24 
+
+
+N 
+
+
+A  confiderate  perfon  might  have  fufpeded, 
+that  the  fame  caufes  that  had  rendered  for¬ 
+mer  partial  appropriations  ineifedtual,  would 
+deftroy  the  efficacy  of  this.  There  feemed, 
+however,  to  be  reafon  for  hoping  the  con¬ 
+trary.  Foi’, 
+
+In  the  firft  place.  The  future  happinefs 
+and  glory  of  the  Kingdom  were  conlidered 
+as  depending  on  this  appropriation ;  and  the 
+law  which  eftabliffied  it  was  declared  to  be 
+a  fundamental  law  of  the  realm. 
+
+In  conformity  to  this,  fecondly.  The  words 
+of  the  law  were  made  as  ftrong  as  they  could 
+well  be  {^).  For,  concerning  all  the  Surpluffes 
+to  arife  from  time  to  time  in  the  three  Funds 
+I  have  mentioned,  it  declares,  that  they  Jhall 
+be  appropriated,  referved  and  employed  to  and 
+for  the  difcharge  of  the  principal  and  interejl 
+of  fuch  national  debts  and  incumbrances  as 
+•were  incurred  before  the  z^th  of  December 
+1716,  and  to  and  for  no  other  life,  intent  or 
+
+purpofe  whatever. - It  was,  therefore,  im- 
+
+poffible,  that  any  alienation  of  thefe  Sur¬ 
+pluffes  ffiould  take  place,  without  a  diredt 
+breach  of  this  law. 
+
+Again.  One  of  the  confiderations,  that 
+induced  the  public  creditors  to  accept  of  an 
+intereff  of  5  inffead'  of  6  per  cent,  was  the 
+fecurity  given  to  their  principal  by  this  ap¬ 
+propriation.  It  was  a  facred  Depofit  or 
+
+Tiis  law  was  afterwards  repealed  in  an  adl  of  the 
+5th  of  George  1.  chap.  3.  ; 
+
+3  Pledge 
+
+
+i 
+
+
+(  25  •  )• 
+
+.pledge  made  over  to  them ;  and  at  that  time 
+4t  was,  I  believe,  univerlally  reckoned,  that 
+no  alienation  of  it  could  take  place,  wi  th- 
+out  injuflice  to  the  public  creditors,  and  a 
+violation  of  the  faith  and  honour  of  Parlia¬ 
+ment. 
+
+Particular  notice  flaould  be  taken  of  the 
+words  of  the  of  Parliament.,  as  they 
+have  been  juft  recited.  It  is  evident,  that 
+they  make  this  Fund  fuch  a  Fund  as  that 
+upon  which  I  have  all  along  argued.  The 
+public  taxes  were  made  perpetual ;  and  all 
+the  furpluftes  were  to  be  applied  to  the  dii- 
+eharge  of  the  public  debts,  and  to  no  other 
+purpofe  whatever.  When,  therefore,  a  debt 
+^had  been  paid  off,  the  addition  ariftng  from 
+that  payment  to  the  furpluftes,  or  the  annuity 
+difengaged  by  it,  became  a  part  of  the  Fund, 
+and,  together  with  it,  was  to  be  employed 
+in  difeharging  farther  debts.  And,  the  fame 
+being  true  of  every  fucceftive  annuity  dif- 
+engaged  by  every  payment,  the  Fund  was 
+.rendered  fuch  an  increaftng  Fund  as  the 
+firft  I  have  deferibed  j  or  a  Fund,  which, 
+if  never  mifapplied,  muft  have  operated 
+in  finking  the  public  debt,  in  the  fame 
+way  that  money  accumulates,  when  put  out 
+to  bear  compound  intereft.  And  in  this 
+way  this  Fund  did  in  fadt  operate  for  a  few 
+vears.—Whilc  in  its  infancy,  it  was  watched 
+over  with  great  care.  The-  improvement 
+and  the  inviolable  application  of  it  were  rc- 
+
+E  commended 
+
+
+-a 
+
+
+(  26  ) 
+
+commended  in  moft  of  the  Speeches  from 
+the  Throne,  and  echoed  back  in  the  Ad- 
+dreffes  of  the  Houje  of  Commons  — In 
+
+confequence  of  the  increafe  of  public  credit 
+
+occalioned 
+
+(a)  King’s  Speech  at  opening  the  Parliament,  Fe¬ 
+bruary  20,  1717. - You  are  all  fenfible  of  the  in- 
+
+Jupportahle  weight  of  the  National  Debt,  &c.” - 
+
+Anfwer  of  the  Commom  : — We  are  all  but  too  fenfible 
+of  the  infupportable  weight  of  the  National  Debt;  and, 
+therefore,  will  not  neglecft  to  apply  ourfelves,  with  all 
+poflible  diligence  and  attention,  to  t\\Q  great  andnecej- 
+Jary  work  of  reducing  and  leiTening  by  degrees  this 
+heavy  burthen,  which  may  prove  the  moll  effedlual 
+‘‘  means  of  preferving  to  the  Public  Funds  a  real  and 
+
+certain  fecurity,  5cc.” - King’s  Anfwer.— Your 
+
+refolution  of  applying  yourfelves  to  eafe  my  people,  by 
+‘‘  gradually  reducing  the  heavy  load  of  the  Public'Debts, 
+
+deferves  my  hearty  thanks,  ^ - King’s  Speech, 
+
+May  6,  1717-  — I  muft  recommend  to  you,  as  I  did  at 
+the  beginning  of  the  Seflion,  to  take  all  proper  me- 
+
+thods  of  reducing  the  Public  Debts»” - Anfwer  of 
+
+the  Commom. — “  We  are  truly  fenfible,  how  much  the 
+eafe  and  profperity  of  your  fubjedls,  depends  on  the 
+accomplifhing  that  great  and  neceiTary  work  of  re- 
+ducing  the  Public  Debts,  and  are  refolved  to  carry  it 
+
+on  in  the  mofl:  effedlual  manner.” - King’s  Speech, 
+
+lyiS. - I  have  the  pleafure  to  obferve  to  you,  that 
+
+‘‘  the  appropriated  for  finking  the  Public  Debts, 
+
+have  anfwered  above  expedlation.” - Add  refs  of 
+
+the  Commons  on  prefenting  a  Money  Bill,  1722. — They 
+have  omitted  no  opportunity  of  eafing  the  Public  in- 
+cumbrances,  and  of  putting  the  National  Debt  into  a 
+“  method  of  payment.  For  no  fooner  had  your  Ma- 
+jelly,  by  the  vigilance  of  your  Councils,  and  the  fuc- 
+eefs  of  your  arms,  reflored  and  fecured  the  public 
+peace,  but  your  Commons  immediately  found  means 
+to  reduce  the  intcrefl  of  the  National  Debt,  and 
+thereby  fet'  a-part  a  Fund,  which,  by  a  farther  rt- 
+
+du<5lion 
+
+
+occafioned  by  it,  a  Jecond  reduction  of  in- 
+tereft  from  5.  to  4  per  cent,  took  place  in 
+the  year  1727,  and  near  400,000/.  per  ann. 
+.  .  was 
+
+
+dudion  of  intereft  fince  made  by  youx  Commons, 
+
+‘‘  will,  in  a  few  years,  be  confiderably  increafed,  and 
+
+the  payment  of  the  Principal  become  pradicable.” - - 
+
+King’s  Speech,  January  9,  1724. — 1  muft,  in  a  par- 
+‘‘  ticular  manner^  recommend  to  your  care  the  Public 
+Debts  of  this  Kingdom,  as  the  most  national 
+
+CONCERN  YOU  CAN  POSSIBLY  TAKE  INTO  YOUR 
+CONSIDERATION.  I  am  peiiuaded  it  muft  be  a  great 
+‘‘  fatisfadion  to  all  mv  faithful  Sabje61:s,  to  fee  the 
+Sinking  Pund  improved  and  augmented,  and  tne  Debt 
+of  the  Nation  thereby  put  into  a  method  of  being  fo 
+
+‘‘  much  the  fooner  reduced  and  paid  off.”- - -Reply 
+
+of  the  Commons. - V/e  are  highly  fenlible  of 
+
+your  Majefty’s  goodnefs  to  all  your  people,  in  rccom- 
+mending,  particularly,  at  this  time,  to  our  confide- 
+ration  the  Public  Debts  of  the  Kingdom,  which  are 
+fo  heavy  a  load  and  fo  much  a  national  concern^  that 
+we  fiiould  be  wanting  to  ourfelves,  if  we  did  not' 
+afiure  your.Majefty,  that  we  will  ufe  our  utmoft  en- 
+deavours  to  improve  and  augment  the  Sinking  Fund^ 
+and  therebv  put  the  National  Debt  into  a  method  of 
+being  gradually  reduced  and  paid.  And  as  your  Ma- 
+jefty  is  pleafed  to  encourage  our  undertaking  fo  great 
+and  noble  a  defign,  fo  we  are  fully  perfuaded,  that 
+the  wifdom  and  Jhadlnef.  of  your  Majefty’s  Govern- 
+ment  will  enable  us  to  perfei^  this  great  undertak- 
+
+4c  incr.” _ -  Reprefentation  made  by  the  Commons  in 
+
+lyzSt  about  the  National  Debt. - The  National 
+
+Debt,  contradled  in  carrying  on  two  long  and  ex- 
+penfive  wars,  as  it  was  a  matter  of  the  lafi  confequcnce 
+‘‘  to  the  Nation,  was  become  the  care  and  concern  of 
+««  all  who  wilhed  well  to  our  prefent  and  future  profpe- 
+rity.  This  produced  feveral  confultations  in  Parba- 
+
+menu  to  find  out  and  fettle  fome  means  of  putting 
+’  F  9  this 
+
+
+(  28  ) 
+
+was  added  to  its  income. — So  far  were  our 
+minifters  from  being  then  deceived  by  the 
+fophifm  which  has  hnce  done  fo  much  inif- 
+chief,  that,  whenever  money  was  wanted  for 
+defraying  the  necelfary  expences  of  Govern- 
+
+this  great  Debt  into  a  method  of  being  gradually  re- 
+duccd  ;  and  the  Sinking  Fund  was  at  laft  happily  efta- 
+‘‘  bliflied,  to  a  general  fatisfadtion.  This  Fund  became 
+immediately  a  favourite  article  in  all  parliamentary 
+coniultations  relating  to  the  public  revenues,  and 
+v/as  confidered  as  a  national  intereft,  worthy  of  the 
+higheft  regard  and  attention,  vjhich  was  by  all  pofftble 
+means  to  he  cherijhed and  improved^  and  the  produce  of 
+‘‘  IT  SET  A-PART  AND  KEPT  DISTINCT  FROM  ALU 
+OTHER  SERVICES  AND  PURPOSES,  and  was  appropri- 
+ated  by  Parliament  to  pay  olF  and  difcharge  National 
+Debts  incurred  before  the  25th  Day  of  December, 
+
+1716. - From  this  happy  event  arofe  fuch  general 
+
+fatisfaQion  to  all  degrees  of  people,  that  though  the 
+intereft  of  the  Public  Debts  was  reduced,  and  the 
+proprietors  ,received  a  lefs  income  from  them  than 
+“  before  \  yet,  their  fecurity  for  their  capital  being  fo 
+much  mended,  the  rate  or  price  for  the  purchafe  of 
+thefe  debts  foon  advanced  to  a  inuch^  higher  value 
+
+“  than  they  were  at  before  the  reduction.” - The 
+
+King’s  Anlwer.— The  provifion  made  for  gradually 
+difcharging  the  National  Debt  is  now  become  fo  cer- 
+tain  and  confiderable,  that  nothing  but  fome  unfore- 
+feen  event  can  alter  or  diminifli  it  ;  which  gives  us 
+the  fairefi:  pi  ofpedf  of  feeing  the  old  debts  difeharged  ; 
+‘‘  and  you  may  be  afiured,  that  it  fliall  be  my 'particular 
+care  and  ftudy  to  maintain  public  credit,  io  improve 
+
+the  Sinking  Fund^  &c.”- - Who,  at  this  time, 
+
+could  have  thought,  that  the  very  adminidration  which 
+declared  all  this  anxiety  about  improving  and  cherijhing^ 
+by  all  pojjible  tnenns^  the  Sinking  Fund^  would  introduce 
+the  pradlige  of  plundering  it  ? 
+
+
+ment, 
+
+
+C  29  > 
+
+ment,  it  was  always  (/J)  borrowed,  and  never 
+taken  from  hence. 
+
+It  deferves  to  be  particularly  mentioned 
+here,  that  in  1726,  an  opinion  had  been 
+propagated,  that,  notwithftanding  the  efta- 
+blifhment  of  this  Fund,  the  public  debts  had 
+
+been 
+
+•  5of»995 
+
+5OO5OOO 
+I5OOO5OOO 
+
+500,000 
+370,000 
+1,750,000 
+1,230,000 
+550,000 
+1,200,000 
+500,000 
+
+The  Sinking  Fund  might  have  fupplied  all  this  money; 
+but  rather  than  take  any  Turns  from  it,  the  Land-tax  was 
+in  the  year  1726  raifed  from  2x.  to  45.  in  the  pound;  the 
+nation  being  then  under  the  apprehenfions  of  a  war. — ~ 
+In  1727,  thefe  apprehenfions  continuing,  the  King  in  his 
+fpeech  at  the  opening  of  the  Parliament,  after  con¬ 
+gratulating  them  on  the  great  addition  that  would  be 
+made  that  year  to  the  Sinking  Fund^  warns  them  againft 
+being  led  by  the  necessities  of  the  nation  to  a  di- 
+
+verfion  of  it. - Let  all  that  wifti  well  to  the  peace 
+
+and  quiet  of  my  Government,  have  the  fatisfadfion  to 
+‘‘  fee,  that  our  PRESENT  necessities  fhall  make  no  in- 
+‘‘  terruptipn  in  the  progrefs  of  that  defirable  work  of 
+gradually  difcharging  the  National  Debt.  I  hope, 
+therefore,  you  will  make  a  provifion  for  the  immediate 
+‘‘  application  of  the  produce  of  the  Sinking  Fund  to  the 
+ufes  for  which  it  was  fo  wifely  contrived,  and  to  which 
+
+it  ftands  now  appropriated.” - Reply  of  the  Commons, 
+
+that  all  that  wifti  well  to  the  peace  and  quiet  of 
+
+your 
+
+
+w 
+
+In  1718  was  borrowed  towards  the  Supplies 
+
+1719  -  -  - - 
+
+1720  - -  - -  - - 
+
+1721  — : —  - -  - — ■ 
+
+1725  -  - -  - 
+
+1726  -  -  - 
+
+,727  -  -  - 
+
+1728  —  -  ■  '  ■ 
+
+1729  _  —  —  _ 
+
+1730  -  - -  - - 
+
+1731  _  _  _ 
+
+
+i 
+
+
+i 
+
+i 
+
+
+(  30  ) 
+
+been  for  fome  years  increafing  rather  than 
+decreafing.  This  occafioned  the  publication 
+of  a  very  curious  and  important  pamphlet, 
+in  defence  of  the  Sinking  Fund  and  the  Mi- 
+niftry,  entitled.  An  Effliy  on  the  Public  Debts 
+of  this  Kingdom.  I  have  now  by  me  the 
+fourth  edition  of  this  pamphlet,  and  I  with 
+I  could  put  it  into  every  hand  in  the  king¬ 
+dom  (a).  It  contains  an  excellent  account 
+
+of 
+
+your  Majefty’s  government,  may  have  the  fatisfa^lion 
+to  fee,  that  our  present  necessities  fhall  make 
+no  interruption  in  the  progrefs  of  that  defirable  work 
+of  gradually  reducing  the  National  Debt,  we  will  con- 
+fiderof  the  mofl:  proper  method  for  immediately  apply- 
+ing  the  produce  ot  the  Sinking  Fund  to  the  ufes  for 
+which  it  was  fo  wifely  contrived,  and  to  which  it 
+fi:ands  now  appropriated.’’ 
+
+In  the  following  year  the  Houfe  of  Commons  voted,  that 
+the  monies  ifTued  towards  dlfcharging  the  National  Debt, 
+from  1716  to  Lady-day  1728,  were  6,648,000/. 
+
+In  1729,  the  nation  being  ftill  threatened  with  a  war, 
+extraordinary  fupplies  were  wanted  ;  and  the  Sinking 
+Fund  would  have  afforded  all  that  was  neceffary.  But 
+the  King  in  his  fpeech,  at  the  opening  of  the  Seffions, 
+recommended  it  to  the  care  of  the  Houfe  of  Commons  to 
+‘‘  apply  it  to  its  proper  ufe.”  And  the  Commons^  in  their 
+reply,  affured  him  that  it  fhould  be  fo  applied. - Ac¬ 
+
+cordingly  a  million  of  the  South- fea  Annuities  was 
+
+ordered  to  be  paid  off. - At  this  time,  how’ever,  the 
+
+zeal  of  the  miniftry  for  the  prefervation  of  \\\^  Sinking 
+Fund  was  much  abated,  and  indeed  meant  no  more,  than 
+that  it  ffould  not  be  robbed  of  any  grofs  fums.  In  the 
+preceding  year,  the  furpluffes  belonging  to  it  had  been 
+charged  with  the  intereft  of  the  money  then  borrowed  ; 
+and  the  fame  was  done  this  year. 
+
+(t?)  This  pamphlet  cannot,  I  fuppofe,  be  now  eafly 
+
+procured.-- — It  was  anfw^ered  in  a  pamphlet,  entitled,  A 
+^  State 
+
+
+5 
+
+
+(  SI  ) 
+
+•of  the  importance  of  difcharging  the  public 
+debts,  and  of  the  provifion  made  for  that 
+purpofe  by  the  inftitutioii  of  the  linking 
+Fund.  It  proves  particularly,  in  pppofition 
+
+to 
+
+
+State  of  the  National  Debt ;  and  this  produced  a  fecond 
+pamphlet  by  the  author  of  the  Essay,  entitled,  A  Defence 
+of  an  Efjay  on  the  Public  Debts  of  this  Kingdom^  in  Anfwer 
+
+to  a  Pamphlet.^  entitled.^  A  State  of  the  National  Debt. - - 
+
+From  the  following  words  in  this  Defejice^  I  conclude, 
+that  fome  reference  had  been  made  to  the  Essay,  in  one 
+
+of  the  King’s  Speeches. - The  fuccefs  of  my 
+
+‘‘  on  the  Public  Debts.,  and  the  fatisfa6tion  of  hearino;  from 
+the  throne,  that  my  zeal  for  the  prefervation  of  the 
+Sinking  Fund  cannot  have  been  difagreeable  to  his  Ma- 
+“  jefty,  gives  me  a  pleaiure  that  alone  is  an  ample  re- 
+ward  for  my  attempts  to  ferve  my  country.”  p.  64. 
+The  following  extra^f,  from  Vol.  7.  of  Hijiory  and 
+Proceedings  of  the  Houfe  of  Commons.^  will  perhaps  fhew 
+
+who  the  writers  were  in  this  coniroverfy.^ - ‘‘  Feb. 
+
+“  23.  1 727-28.  the  Committee  of  Supply  refolved  to  raife 
+1,750,000/.  on  the  coal  duty.  Hereupon  Mr.  PuL- 
+‘‘  TENEY  obferved,  that  the  Ihifting  of  funds  was  but 
+‘‘  perpetuating  taxes,  and  putting ofF  the  evil  day;  and 
+that  notwithfianding  the  great  merit  that  fome  had 
+built  on  the  Sinking  Fundy  it  appeared  that  the  National 
+‘‘  Debt  had  been  increafed  fince  the  fetting  up  of  that 
+POMPOUS  PROJECT.  On  which  Sir  Nathanael 
+Gould,  an  eminent  merchant,  faid,  he  apprehended 
+‘‘  that  Gentleman  had  his  notions  out  of  a  Treatife,  en- 
+“  titled  A  State  of  the  National  Debty  fuppofed  to  be  writ- 
+■  ‘‘  ten  by  that  very  Gentleman  ;  but,  that  if  he  underftood 
+any  thing,  it  was  numbers,  and  he  durft  pawn  his  credit 
+‘‘  to  prove  that  author’s  calculations  and  inferences  to  be 
+
+‘‘  falfe. - To  this  Mr.  Pulteney  replied,  that  he 
+
+took  them  to  be  right,  and  he  would  likewife  pawn 
+his  credit  to  make  good  his  affertion. — -Upon  this  Sir 
+
+“  Robert 
+
+
+(  32  ) 
+
+to  the  opinion  I  have  mentioned,  that  the 
+public  debts  had  decreafed ;  and  that  of  the 
+52  millions  then  due,  50  millions  would,  in 
+28  years,  [/>)  be  extinguiihed  by  the  Sinking 
+Fundi  The  fame  explanation  is  given  of  the 
+nature  of  this  Fund  with  that  which  I  have 
+given.  The  fame  reprefen tation  is  made  of 
+its  powers ;  .and  the  fame  arguments  ufed 
+to  demonftrate  the  evil  of  alienating  it,  in 
+order  to  avoid  making  new  loans  charged  on 
+new  Funds. — And,  in  anfvyer  to  a  fulpicion 
+which  was  then  entertained,  that  the  prac¬ 
+tice  of  alienating  it  would  be  introduced 
+by  our  minifters,  he  obferves,  that  this  would 
+be  to  purfue  a  meafure  which  would  deftroy 
+all  probability  of  the  payment  of  our  debts  j 
+and,  therefore,  he  pronounces  that,  “  as  long 
+“  as  the  public  welfare  was  in  the  leaft  re- 
+
+Robert  Walpole  took  up  the  cudgels,  and  faid  he 
+would  maintain  what  Sir  Nathanael  Gould  had 
+
+V  advanced. - Several  warm  exprefTions  having  palTed 
+
+on  both  Tides,  Mr.  Hungerford  interpofed  in  a  jocular 
+fpeech,  that  put  the  houTe  in  good  humour;  and  To  the 
+difpute  ended.” 
+
+It  is  a  reflec^Tion  which  in  my  enquiries  into  the  Hiftory 
+of  the  Sinking  Fund,  has  occurred  tome  with  pain;  that, 
+while  a  minilteriai  meafure,  .it  was  no  objedl  of  the  zeal 
+of  the  Patriotic  Party,  But  as  Toon  as  it  came  to  be  de- 
+ferted  by  the  miniftry,  they  took  it  up  warmly. 
+
+(^)  Mr.  Smart  alfo  publilhed,  at  this  time,  calcula¬ 
+tions  of  the  fame  kind.  See  his  Tables  of  Interest, 
+dedicated  to  the  Governor'  and  Directors  of  the 
+Bank  of  Fngland,  ^age  98,  99. 
+
+Hi 
+
+
+■ 
+
+
+tc 
+
+
+a 
+
+
+( ( 
+
+
+iC 
+
+
+€i 
+
+
+{  33  ) 
+
+garded,  the  nation  might  confidently  cx- 
+pe£t,-  that  no  perfon  into  whole  hands  the  ‘ 
+adminiftration  of  its  afiairs  might  fall, 
+would  ever  approve  of  or  recommend 
+any  fuch  meafure,  ht  any' pojjible  exigence 
+of^  our  a^atrs.”  Pag.  46.  (12)  —  After  this 
+
+
+to-  a 
+
+
+he  goes'  on  in  the  following  vrords.  P  _  _ 
+
+— 1— There  is  another  ’  objedion  to  the 
+probability  of  the  payment  of  our  public 
+debts,  which,  if  I  did  not  frequently  meet 
+with  it,  I  fhould  chufe '  not  to  mention, 
+from  my  apprehenfion  that  in  ftating  it, 
+as  I  have  met  with  it,  I  fliould  be  obliged 
+to  mention  my  fuperiors  with  lefs  decen¬ 
+cy,  than  that  grateful  fenfe  of  the  happi- 
+nefs  we  enjoy  under  the  prefent  reign, 
+would,  on  all  other  occafions,  lead  me  to. 
+The  objedion  I  mean  is,  that  the  continu¬ 
+ance  of  our  public  debts  is  and  always 
+muft  be  the  intereft  of  the  perfons  in  the 
+adminiftration  (Jj)  ^  that  the  great  profits 
+of  their  employments  arifes  from  hence 
+and  that  the  neceftary  power  and  influ-^ 
+ence  to  fuppoft  themfelves  in  their  em¬ 
+ployments  depend  greariy  on  their  having 
+referved  to  themfelves  the  difpofition  of 
+the  various  offices  and  employments  in. 
+
+[a)  See  the  Extradts  in  the  Appendix. 
+
+Apprehenfions  of  this  kind  were  entertained  litce- 
+
+wife  in  ‘Dr.  Da ven ant’s  time. - Some  modern 
+
+politicians  (fays  he)  have  run  upon  another  notion, 
+and  feveral  perfons  have  thought,  that  the  more  funds 
+are  ereded,  the  more  people  are  engaged  to  preferve 
+the  prefent  Government Davcnant’s  Works,  Vol. 
+II.  page  297. 
+
+P  collecting 
+
+
+a 
+
+
+(( 
+
+
+€C 
+
+
+€C 
+
+
+<6 
+
+
+(  c 
+
+
+6  6 
+
+
+(C 
+
+
+if, 
+
+
+ii 
+
+
+iC 
+
+
+it 
+
+
+ii 
+
+
+ii 
+
+
+V'. 
+
+
+(  34  ) 
+
+“  colleftlng  and  applying  the  Revenue  ap¬ 
+propriated  to  the  payment  of  the  public 
+
+“  debts,” - In  anfwering  this  objedlion, 
+
+this  writer  acquaints  the  public,  that  what¬ 
+ever  truth  there  might  be  in  it,  nothing  can 
+have  been  or  will  be  more  lincerely  endea¬ 
+voured  by  the  fervants  of  the  crown,  than 
+the  difeharge  of  the  public  debts.  He  takes 
+notice  of  the  remotenefs  of  thofe  views  of 
+intereft  which  might  render  our  minifters 
+unwilling  to  give  up  the  public  debts ;  and 
+then  concludes  with  this  general  inference 
+from  all  his  obfervations — “  That  the  pro- 
+“  vifion  which  had  been  made  of  the  Sinking 
+“  Fund,  was  an  expedient,  from  which  the 
+“  full  and  effedlual  payment  of  the  principal 
+“  of  the  national  debt,  in  a  few  years,  might, 
+with  great  alfurance,  be  expedled.” 
+
+Such  was  the  language,  and  fuch  were  the 
+fentiments  of  the  rniniftry  and  its  friends, 
+in  the  year  1726. — Would  to  God  they  had 
+continued  in  thefe  fentiments.  But  they  foon 
+changed ;  and  it  appeared  that  the  fufpicions 
+which  this  writer  had  taken  pains  to  remove, 
+and  which  (in  Pag.  62.)  he  had  called  inde¬ 
+cent  jealoujies,  were  but  too  well  grounded. 
+
+Charging  the  income  of  the  Sinking  Fund 
+with  the  payment  of  the  intereft  of  new 
+loans,  is  an  encroachment  upon  it,  no  lefs 
+fubverlive  oi  its  efticacy,  than  depriving  it 
+of  grofs  fums ;  there  being  evidently  no  dif¬ 
+ference  between  taking  from  it  the  a7inual 
+interef,  of  a  fum,  and  that  fum  itfelf. — This 
+
+writer 
+
+
+(  35  ) 
+
+writer  faw  this,  and  therefore  declared, 
+“  that,  in  his  opinion,  it  was  impossible 
+“  it  fhould  ever  be  done.”  Pag.  50.  —  But 
+how  miferably  was  he  deceived  by  the  con¬ 
+fidence  he  placed  in  his  friends  in  power  ? — 
+In  a  little  time  after  this,  that  alienation 
+which  he  thought  could  never  be  propofed, 
+much  lefs  fucceeded  in,  was  begun  in  the 
+very  manner  that  he  had  declared  to  be  im¬ 
+possible.  Between  the  year  ly^y*  ^od 
+1732,  feveral  new  loans  were  made;  and 
+furpluffes,  that  of  right  belonged  to  the  Sink- 
+Fund,  were  charged  with  them.  This 
+reduced  its  income  confiderably  below  what 
+it  fliould  have  been.  But,  being  an  encroach¬ 
+ment  of  a  lefs  open  nature,  it  cud  not,  as  far  as 
+I  can  find,  produce  any  particular  oppofition. 
+
+_ From  this  period,  however,  we  muft  date 
+
+the  ruin  of  the  Sinking  Fund.—~'F\\Q  finifliing 
+blow  was  given  it  on  the  following  occa- 
+
+fion. 
+
+In  the  year  1732,  the  land-tax  had  been 
+reduced  to  i  s.  in  the  pound  ;  and,  in  order 
+to  fupply  the  deficiency  arifing  from  hence, 
+half  a  million  had  been  procured  for  tlie 
+current  fervice,  by  the  revival  of  the  falt-du- 
+ties,  which,  but  two  years  before,  had  been 
+repealed,  becaufe  reckoned  too  burthenfome 
+on  the  poor. — ■ — In  the  year  I733»  older 
+to  keep  the  land-tax  as  low  as  it  had  been 
+the  year  before,  it  was  neceffary  either  to 
+borrow  another  half  million,  or  to  take  it 
+
+from  the  Sinking  Fund.  The  lafl  method 
+
+F  2  'vas 
+
+
+was  chofen  ;  and  propofed  by  Sir  Robert 
+Walpole  to  the  Hoiife  of  Commons. — ^ 
+JLong  and  warm  debates  enfued  (^)— A  pro- 
+pofal  to  alienate,  in  a  time  of  profound  peace, 
+a  fund  which  the  law  had  made  facred,  and 
+the  alienation  of  which  no  poffible  exigence 
+of  public  ajffairs  could  juftify,  only  for  the 
+fake  of  keeping  the  land-tax  for  one  year  at 
+IS.  in  the  pound,  juftly  kindled  the  indigna¬ 
+tion  of  the  Patriotic  Party,  They  urged  the 
+prohibition  of  the  law,  the  faith  of  Parlia¬ 
+ment,  and  the  fecurity  of  the  kingdom.  The 
+propofer  of  the  alienation  was  reminded  of  his 
+inconfudency  and  treachery,  in  endeavouring 
+to  beat  down  that  very  monument  of  Glory 
+which  he  had  boafted  of  haying  eredled  for 
+himfelf;  and  Sir  John  Barnard  warned 
+him,  that  he  was  drawing  upon  himfelf  the 
+curfes  of  pofterity.^ — -But  all  arguments  were 
+
+vain. 
+
+(^)  See  Vol.  viii.  of  the  Hiflory  and  Proceedings  of 
+iiouje  of  Commons,  Or,  XhQ  Mif  or i cal  Regift ej\  Vol. 
+
+page  218. - In  the  account  of  this  debate  I  don’t 
+
+hnd  the  argument,  on  which  alienations  have  been  fince 
+grounded,  once  intimated.  After  the  publication  I  have 
+liicntioned,  it  could  fcarcejy  deceive  any  perfon  :  Nor, 
+indeed,  in  the  prefent  cafe,  could  it  have  been  urged  vvith 
+any  tolerable  decency  ;  for  there  was  no  public  exigence 
+which  rendered  an  extraordinary  fupply  neceffary. 
+
+^  In  the  Houfe  of  Lords  alfo  this  alienation  was 
+warmly  oppofed.  Lord  Carteret,  Lord  Bathurst, 
+and  others,  infiRed,  that  the  application  of  the  Sinking 
+.J’ und  to  any  other  ufe  than  the  payment  of  the  public 
+<lebts,  vvas  robbing  the  public  creditors,  bccaufe  it  was 
+depriving  them  ot  their  fecurity  for  their  principal  ; 
+and  doing  injuftice  to  the  whole  people  of  England,  he- 
+
+
+JHmJiUU  •  iMli*  <n 
+
+
+(  37  ) 
+
+vain. — The  mlniftry  pleaded  that  the  landed 
+intereft  wanted  eafe  ^  that  there  was  no  oc- 
+cafion  for  being  in  a  hurry  to  pay  the  Na¬ 
+tional  Debt;  and  that  the  circumftances  of 
+the  kingdom  had  altered  fo  much  fince  the 
+eftabliilnnent  of  the  Sinking  Fund,  that  the 
+
+caiife  it  was  taking  from  them  the  only  means,  by  which 
+they  could  expect  to  be  freed  from  the  taxes  under  which 
+they  groaned.  See  The  Hljhry  and  Proceedings  of  the 
+Boufe  of  Lords,  VoL  4th,  pag.  155,  &c.  ‘‘  It  is  true, 
+
+that  after  a  certain  provifion  had  been  made  for  pay- 
+ing  off  the  principal,  in  a  term  within  every  man’s 
+view,  it  began  to  be  a  conteft  among  the  public  credi- 
+tors,  who  fhould  be  Inft  paid  off.  But  if  two  or  three 
+more  mifapplications  fhould  be  ma<Je,  the  only  conteft 
+will  be,  who  fhall  be  firft  paid  off ;  becaufe  every  man 
+‘‘  will  begin  to  be  afraid,  that  an  entire  ffop  will  be  put 
+‘‘  to  the  annuity,  as  well  as  the  payment  of  the  princi- 
+“  pal,  before  the  laft  creditors  could  be  paid  off'.”  Ibid, 
+
+p.  51 1.- - — When  any  additional  tax  is  impofed, 
+
+the  public  feel  the  wTight  of  the  annual  public  ex- 
+pence.  i  his  puts  them  upon  enquiring  into  the  ne- 
+cefTity  for  that  expence  ;  and  when  they  can  fee  no  ne- 
+ceffity  for  it,  they  murmur,  and  thofe  murmurs  become  . 
+dangerous  to  the  miniffers.  Whereas  no  man  feels 
+what  is  taken  from  the  Sinking  Fund  ;  therefore  no 
+man  enquires  into  the  necellity  of  that  expence,  which 
+occaffons  its  being  plundered  ;  and  for  this  reafon  it 
+will  be  aly/ays  looked  upon  by  miniffers  as  a  fund 
+‘‘  which  they  may  fquander  with  fafety.  But  this  may, 
+and  will  probably  at  laff,  fall  heavy  on  fome  prince  of 
+his  majeffy’s  family.  At  the  fame  time  that  he  will 
+lee  almoft  all  the  revenues  in  the  kingdom  mortgaged 
+for  old  debts,  he  may  find  himfelf  engaged  in  a  war  as 
+expenfive  as  was  that  war  which  occafioned  tbefe 
+debts.  And  this  is  fo  melancholy  a  profpedi,  that  thq 
+mere  poffibility  of  its  exiffing  muff  give  the  moff  af-  ^ 
+fe6fing  foi  rovv  to  every  man  vaho  has  the  fecurity  and 
+honour  of  the  prefent  Royal  Family  at  heart.”  Ibid, 
+p.  5 1 1.— -See  Note  E,  Jpl'cndix, 
+
+
+com- 
+
+
+(  38  ) 
+
+competition  then  among  the  public  creditor's 
+was,  not  who  fliould  be  firfi,  but  who  (hould 
+be  lafi  paid.  Thus  argued  among  others 
+Sir  Robert  Walpole.  His  reafons  pre¬ 
+vailed  ;  and  the  Houfe  of  Commons,  not  ufed 
+to  refufe  him  any  thing,  confented. 
+
+The  praftice  of  alienating  the  Sinking 
+Fund  having  been  thus  begun,  it  went  on 
+of  courfe.  In  the  next  year,  or  1734, 
+1,200,000/.  was  taken  from  it.  In  1735, 
+it  was  even  anticipated  and  mortgaged. 
+
+Thus  then  expired,  after  an  exiftcnce  of 
+about  eleven  years,  the  Sinking  Fund — that 
+facred  Bleffing  —  Once  the  Nation’s  only 
+hope, — prematurely  and  cruelly  deftroyed  by 
+
+its  own  parent. - Could  it  have  efcaped  the 
+
+hands  of  violence,  it  would  have  made  us 
+the  envy  and  the  terror  of  the  world,  by 
+leaving  us  at  this  time,  not  only  Tax-free, 
+but  in  poffeffion  of  a  treafure,  greater  per¬ 
+haps  than  was  ever  enjoyed  by  any  kingdom. 
+
+- But,  let  me  not  dwell  on  a  recollec¬ 
+tion  fo  grievous. 
+
+It  is  unavoidable  here  to  enquire,  how  the 
+conduct  of  om Parliame?tts  or  Mmijicrs,  in  this 
+
+inftance,  can  be  accounted  for - Were  they 
+
+indeed  ignorant  of  the  powers  of  the  Sinking 
+
+Fund? - 1  doubt  not  but  this  has  been  true 
+
+of  moft  of  our  late  minillers.  But  that  reci¬ 
+tal  of  fadls  which  I  have  given  proves,  that, 
+in  the  period  of  which  1  am  fpeaking,  it 
+
+(i)  See  Page  12. 
+
+
+could 
+
+
+(  39  ) 
+
+/ 
+
+could  not  have  been  true. — —I  am  afraid 
+therefore,  that  the  moft  candid  will,  on  this 
+occafion,  find  themfelves  under  a  neceffity  of 
+giving  way  to  the  fufpicion,  which  the  excel¬ 
+lent  author  I  have  fo  often  quoted,  has  called 
+an  indecent  jealoufy.  The  powers  of  the 
+Sinking  Fund  were,  perhaps,  but  too  well 
+known.  It  had  been  ■  demonflrated,  as  we 
+have  fecn,  in  a  performance  generally  read 
+and  even  referred  to  from  the  throne,  that,  in 
+a  few  years,  it  would  have  annihilated  the 
+whole  National  Debt.  In  confequence  of 
+having  been  carefully  nurfed  and  cherifhed 
+for  eleven  years,  it  had  acquired  a  vigour, 
+that  promifed  much  more  than  was  ever  ex- 
+pedled  from  it.  .The  lofs,  therefore,  of  the 
+dependence  created  by  the  National  Debt,  and 
+of  the  fecurity  it  gave  to  the  Hanoverian 
+fuccefllon  and  the  adminiftration,  was 
+brought  in  too  near  view.  And  in  thefe 
+circumftances,  it  is  not  ftrange,  that  the 
+policy  of  our  Governors  fhould  take  a 
+new  turn,  and  that  the  rum  of  the  Sinking 
+Fund  fhould  become  no  lefs  a  meafure  of 
+date,  than  its  improvement  had  been.— — — 
+My  confcience  obliges  me  to  take  this  op¬ 
+portunity  to  add,  that  fimilar  meafures  were, 
+at  this  time,  purfued  in  another  inflance  of 
+no  lefs  importance.  For  like  reafons,  and 
+w'ith  like  views,  a  pernicious  influence 
+was  maintained  and  promoted  in  the  Houfe  of 
+Commons,  which  has  lapped  the  confti- 
+
+4  tution  i 
+
+
+(  4°  )  . 
+
+tution ;  and  which  may  in  time  ertablifl) 
+among  us  a  tyranny  of  the  moft  intolerable 
+kind  ;  a  tyranny  attended  with  the  mockery 
+of  all  the  forms  of  liberty;  a  tyranny  created, 
+fupported  and  fanctihed  by  a  Parli  at^ent.' 
+— — This  is,  in  truth,  the  fundamental  griev¬ 
+ance  of  the  kingdom ;  and  that  Patriotifm, 
+the  firft  object  of  which,  is  net  the  removal 
+of  it,  can  be  nothing  but  an  impofture.  To 
+this  grievance  we  owe,  among  other  evils,  the 
+lofs  of  the  Sinking  Fund.  Had  the  guardians 
+of  the  State  been  under  no  undue  influence,, 
+they  would  have  been  more  faithful ;  and 
+could  not  have  given  up  this  great  fecurify 
+
+of  the  kingdom. - Unhappy  Britain  — 
+
+How  long  art  thou  to  lie  thus  bleeding? - - 
+
+How  long  are  thy  deareft  rights  to  be  facri- 
+ficed  to  temporary  expedients,  and  a  narrow 
+and  felfifh  policy  ?  — — —  When  lhall  thy 
+Parliaments  recover  independence  and 
+dignity,  and  become  once  more  awful  to 
+Minifters  of  State  ? 
+
+But  I  am  in  danger  of  digreffing  too  far. 
+
+
+I  have  been  frequently  obliged  to  refer  to 
+the  Obfervations  on  the  National  Debt  in 
+my  Treatife  on  Annuities.  Indeed,  one  of 
+my  defigns  in  this  Appeal,  is  to  engage  at¬ 
+tention  to  thole  Obfervations  ;  and,  therefore, 
+I  will  here  beg  leave  to  recapitulate  fome  of 
+the  chief  of  them,  that  all  who  will  look 
+
+into 
+
+
+na 
+
+
+tafM 
+
+
+(  4'  ) 
+
+into  this  Pamplilet  may  be  able  to'  judge 
+how  far  tliey  delerve  notice. 
+
+Firfl',  Such  a  Fimd  as  I  have  propofed  in 
+that  1  reatilc,  and  here  more  fully  explained, 
+would  difcharge  tlie  largeji  debts  that  a  State 
+could  have  occafion  to  contradt,  at  a  fmall 
+expence,  and  in  as  little  time  as  its  intercft 
+could  poffibly  require.— For  example.  An 
+annual  faving  of  200,000/.  applied,  without 
+hiterruption,  from  the  year  1700,  would, 
+long  before  this  time,  have-  difcharged  above 
+eighty  millions  of  our  debts  gradually 
+and  infenfibly,  and  without  interfering  with 
+any  of  the  other  meafures  or  refources  of 
+
+Government. - K  tax  on  celibacy  alone 
+
+might,  in  this  way,  have  been  made  the 
+means  of  bearing  mod:  of  the  Public  Ex- 
+pences  \  at  the  fame  time  that,  by  promot-; 
+ing  population,  it  increafed  the  number  of 
+our  people. — Fund  yielding  i/.  per  cent. 
+furplus  annexed  to  a  loan  at  6  per  cent^ 
+would,  befides  paying  the  interefl,  difcharge 
+the  principal  in  thirty -three  years.  A  Fund 
+
+(a)  In  this  year  it  would  have  paid  off  96  millions 
+and  a  half,  and  difengaged  3?555?ooo/,  of  the  public 
+taxes.  And  (in  pag.  6.)  it  is  fhewn,  that  in  eighty- 
+fix  years,  fuppofing  it  all  along  applied  to  the  redemp¬ 
+tion  of  debts  bearing  5  per  cent,  intercft,  it  would  pay 
+
+off  262  millions. - In  fbort  ;  there  is  not  a  Penny 
+
+wafted  in  the  manatfement  of  the  Revenue,  or  ivorfe 
+than  wafted,  by  being  given  to  hungry  dependents,  which 
+miorht  not  be  made  a  mine  of  inexhauftible  wealth  to  the 
+
+C5 
+
+Kingdom.  See  pag.  19. 
+
+G 
+
+
+producing 
+
+
+ma 
+
+
+(  42  ) 
+
+
+producing  the  fame  furplus  annexed  to  a  loan 
+at  5  per  cent,  would  difchargc  the  principal, 
+in  thirty-feven  years;  at  4  per  cent^  in  forty- 
+
+one  years. - A  faving  of  a  million  and  a 
+
+half  per  annum  continued  for  tvv^enty  years, 
+(or  only  for  eighteen-  years,  fuppofing  ma¬ 
+nagement  ufed,  or  a  war  to  come)  might, 
+(with  the  help  of  a  faving  of  200,000  A 
+which  will  arife  in  1781,  from  the  redudlion 
+of  the  4  per  cents)  be  fo  improved  as  to  eafe 
+the  Nation,  at  the  end  of  that  term,  of  a 
+MILLION  AND  A  HALF  per  annum  of  the 
+moft  oppreflive  taxes ;  and,  at  the  end  of 
+forty-one  years,  of  three  millions  per 
+annum  more  in  taxes  (^) :  And  the  nation,  if 
+capable  of  bearing  its  increafing  burdens  for 
+
+fomc 
+
+
+[a)  See  Treatife  on  Annuities,  p.  156. - Were  the 
+
+managers  of  our  affairs  to  enter  with  zeal  into  fuch  a 
+propofal  as  this,  they  might  probably  find  means  of  im¬ 
+proving  the  Sinking  Fund  fo  far,  as  to  make  it  capable  of 
+yielding  the  whole  annual  fum  here  mentioned,  over 
+and  above  all  the  fums  neceflary  for  fupplying  the  defi¬ 
+ciencies  of  the  peace  eftablifhment. - Let  this,  how¬ 
+
+ever,  be  granted  to  be  impoflible  ;  and  let  the  fums  it 
+wants  of  fuch  a  furplus  be  borrowed  every  year.  From 
+pag.  17.  it  may  be  inferred,  that  this  (fuppofing  the 
+fums  borrowed  not  to  exceed  half  a  million  annually) 
+would  make  no  great  difference  in  the  efficiency  of  the 
+fcheme  :  And,  at  the  fame  time,  by  providing  for  the 
+public  creditors  a  way  of  returning  part  of  the  money 
+annually  paid  them,  it  would  be  attended  with  fomc 
+
+advantages. - Every  fuch  meafure  is,  I  have  fhewn, 
+
+only  a  courfe  of  borrowing  fums  at  fmple  intereff,  in 
+order  to  improve  them  at  compound  i“tcreft :  And,  as  the 
+
+A  benefits 
+
+
+(  43  ) 
+
+fbme  time  longer,  would  be  then  completely 
+extricated. 
+
+2dly,  Such  a  Fund  would  render  it  of 
+little  or  no  confcquence  what  intered;  a  State 
+paid  for  any  loans. - Concerning  reduc¬ 
+
+tions  of  intered:  it  has  been  proved,  that 
+they  are  not  attended  with  the  advantages 
+commonly  imagined ;  and  that,  as  hitherto 
+managed  among  us,  they  have  been  indeed 
+only  expied'mtts  which  have  pojipmed  a  public 
+
+benefits  hence  arifing  become  in  time  infinite,  there 
+
+IS  NOTHING  THAT  A  STATE  MAY  NOT  DO  BY  IT. 
+
+— - With  the  effect  of  fuch  a  fcheme,  compare  the 
+
+effect  of  paying  ofi:'  a  tniUion^  or  a  million  and  a  half^ 
+
+now  and  then,  in  a  time  of  peace  only. - This  is  the 
+
+paltry  plan  wc  arc  purfuing. - With  a  Sinking  Fund 
+
+which,  at  an  average,  has  for  feveral  of  the  laft  years 
+yielded  iwd)  millions  arid  a  quarter  \  and  with  the  land- 
+tax  alfo  at  4.S.  and  35.  in  the  pound  ;  we  have,  during 
+a  peace  of  near  ten  years,  paid  ofi'  about  eight  millions  ; 
+and,  in  this  way  of  going  on,  we  fliall,  if  the  peace 
+lafts  NINETY  YEARS,  reduce  our  debts  to  the  ftate  they 
+
+were  in  eighteen  years  ago. - Flave  fuch  meafures  any 
+
+tendency  to  fave  us  ?  Is  there  any  probability,  that  the 
+■payment  of  even  Hvo  millions  annually,  from  this  time  to 
+the  commencement  of  another  war,  would  do  us  any 
+
+o;reat  fervice? - Miferable  refle^lion  ! — That  it  fhould 
+
+be  poffible  for  our  minifiers,  in  defiance  of  a  law  which 
+has  efiablifhed  the  moff  efficacious  of  all  plans,  and  the 
+
+kingdom  finking;  to  go  on  in  fuch  a  way. - Had  the 
+
+fcheme  here  propofed  been  begun  as  foon  as  the  lall  war 
+ended,  w^e  fhould  now  have  feen  ourfelves,  within  a  tew 
+years  of  the  extinction  of  a  third  of  all  the  taxes  that 
+pay  the  intereft  of  the  National  Debt.  The  3  per  cents 
+alfo  would  now  have  been  near  par;  and  when  a  war 
+came  (fuppofino;  the  kino^dom  convinced  that  no  more 
+alienations  would  take  place)  all  the  money  neceiiary  to 
+carry  it  on  might  hav-e  been  procured  on  eaiy  terms. 
+
+G  2  bank- 
+
+
+j 
+
+
+(  44  ) 
+
+bankruptcy,  by  lejjening  the poljibtlity  oi  avoids 
+ingit(^). 
+
+3dly,  A  war  would  either  have  710  ejffedl 
+.on  the  public  Funds;  or,  if  it  had,  would 
+accelerate  the  payment  of  the  public  debts, 
+in  proportion  to  that  effedl  (c). 
+
+4thly,  That  fludtuation  in  the  Stocks 
+would  be  prevented,  which  now  lays  the 
+foundation  of  fo  much  evil ;  and  which 
+(with  the  help  oi a7inual Lotteries)  is  likely  in 
+time  to  deftroy  all  honeft  induftry  among  us, 
+and  to  convert  us  into  a  nation  of  gamblers. 
+
+5^hly,  Public  credit  would  be  always 
+kept  firm  and  flourifiiing  by  fuch  a  Fund  ; 
+and  all  thofe  dangers  which  attend  our  pre- 
+fent  exorbitant  debt  would  be  removed. 
+
+6thly,  It  is  not  poflible,  there  fhould  be 
+any  method  of  difcharging  public  debts  fo 
+
+cheap  and  effedlual.  - - All  methods  of, 
+
+paying  debts  or  raifing  money  by  Life- 
+Annuities  arc,  in  particular,  ihewn  to  be 
+wafteful,  the  lame  ends  being  equally  attain¬ 
+able  with  lefs  trouble,  and  at  near  half  the 
+expence. - Should,  therefore,  the  mana¬ 
+
+gers  of  our  affairs  ever  determine  to  enter 
+into  vigorous  mcafures  for  reducing  our 
+debts,  they  will  be  eafed  of  all  trouble  in 
+examining  fchemes.  They  have  nothing  to 
+do,  but  to  carry  into  execution  a  fcheme 
+
+{h)  Treatife  on  Annuities,  pag.  140,  kc. 
+
+ff)  Ibtd.  p,  15J,  &c.  See  alio,  p,  17.  of  this  Appeal. 
+
+which 
+
+
+(  45  ). 
+
+which  lies  before  them,  and  which  the  law 
+
+
+has  long  fince  eftablifhed. 
+
+Among  the  evils  produced  by  the  National 
+Debt,  there  is  one  of  which  the  Public  has 
+not  been  yet  fufficiently  apprized;  and  which, 
+therefore,  I  muft  here  beg  leave  particularly 
+to  mention.  I  mean ;  that  Depopulation 
+which  has  been  going  on  among  us,  ever 
+lince  it  began.  A  Depopulation  fo  great, 
+as  to  have  reduced  the  number  of  inhabi¬ 
+tants  in  England  and  Wales,  near  a 
+Quarter  in  eighty  years ;  or  from  about 
+
+SIX  MILLIONS,  to  about  FOUR  MILLIONS 
+AND  A  HALF.  Ill  the  Supplement  to  the 
+Treatife  on  Annuities,  p.  ^^g,6cc.  I  have  given 
+an  account  of  the  fails  which  prove  this  (a); 
+and  there  is  nothing  that  ought  to  alarm 
+more,  or  to  engage  more  the  immediate  at¬ 
+tention  of  Government. — Among  the  caufes 
+of  it,.  I  have  mentioned  the  engroffing  of 
+farms  ;  the  emigrations  to  our  fettlements 
+in  the  and  Weji  Indies ;  and  the  great 
+increafe,  lince  the  Revolution,  of  our 
+continental  connexions,  of  our  navy  and 
+army,  and  of  commerce  and  luxury. — But 
+the  National  Debt  is  likewife  to  be  reckoned 
+one  of  its  principal  caufes.  Its  neceflary 
+
+tendency  is  to  produce  this  elfeil- - It  is  a 
+
+common  obfervation,  and  probably  not  very 
+far  from  the  truth,  that  ha!fi\\Q  price  of  all 
+the  articles  of  confumption  is  caufed  by 
+
+[a)  See  the  conclufion  of  the  Appendix. 
+
+
+f 
+
+
+(  ) 
+
+our  taxes.  They  double,  therefore,  the  price 
+of  every  thing  j  and,  by  increafing  the  dif¬ 
+ficulties  of  fupporting  a  family,  they  dif- 
+.  courage  marriage  and  promote  licentioufnefi. 
+
+■ - There  is  no  political  maxim  more  cer¬ 
+
+tain,  than  that  population  thrives  in  a  coun¬ 
+try,  in  proportion  to  the  eafe  with  which  the 
+means  of  fubfiftence  can  be  procured.  In  a 
+country,  therefore,  where  they  are  all  loaded 
+
+with  taxes,  population  muft  decline. - It 
+
+has,  I  know,  been  afl'erted  in  anfwer  to  this, 
+that  though  taxes  increafe  the  price  of  the 
+means  of  fubfiftence,  they  increafe  alfo  in 
+an  equal  proportion  the  price  of  labour;  and, 
+confequently,  cannot  render  the  fupport  of  a 
+family  lefs  eafy.  But  no  obfervation  can  be 
+more  groundlefs  than  this.  It  is  true  only 
+of  an  increafe  in  the  price  of  the  means  of 
+fubfiftence,  produced  by  the  importation  of 
+money  into  a  country.  As  far  as  it  is  pro¬ 
+duced  by  taxes,  it  has  exadlly  the  fame  effect 
+with  a  fear  city. - When  there  is  an  in¬ 
+
+creafe,  of  money  in  a  country,  it  will  by 
+degrees  get  into  the  hands  of  all,  and  there¬ 
+fore,  all  will  be  as  well  able  to  pay  more  for 
+every  neceftary  of  life,  as  they  were  before 
+able  to  pay  lefs.  But  this  cannot  be  the 
+cafe  if  more  muft  be  paid,  and  yet  the  quan¬ 
+tity  of  money  remains  the  fame.  In  this 
+cafe,  poverty  and  difficulties  muft  be  intro¬ 
+duced  :  And  thefe  will  be  increafed,  if  lux¬ 
+ury  co-operates  with  taxes,  by  producing  a 
+greater  number  of  wants,  and  rendering 
+
+more 
+
+
+(  47  ) 
+
+more  of  the  articles  of  confuniptiori  necef- 
+
+fary. - Moderate  taxes  may,  by  quickening 
+
+induftry,  be  fo  far  an  advantage :  But  they 
+always  check  population.  And  there  is  a 
+limit  which,  when  they  exceed,  they  muft 
+
+produce  ruih.^-^ - In  a  word  ;  not  only  the 
+
+prefervation  of  our  Trade  and  Libera- 
+
+ties  5 
+
+
+(a)  Nothing,  in  my  opinion,  can  be  more  replete 
+with  mifehief  to  a  free  people,  than  fuch  a  debt  as  ours 
+
+is. - 1  have  mentioned  (in  the  Trcatife  on  Annuities, 
+
+pag.  1 6 1.)  the  danger  to  which  it  expofes  us  from  fo¬ 
+reign  enemies^  by  making  us  fearful  of  war  ;  and  from 
+domejiic  enemies^  by  making  us  fearful  of  the  confequen- 
+ces  of  oppofition  to  arbitrary  meafures.  Indeed,  I  look 
+upon  the  public  creditors  as  little  better  than  a  band  of 
+penfioners  to  the  Government ;  and  it  is  more  than  pro^ 
+bable,  that  had  the  nation  been  encumbered  with  our 
+■prefent  debts  in  the  reigns  of  King  Charles  the  1ft.  or 
+James  thelld.  the  former  would  never  have  loft  his  Vfe^ 
+
+nor  the  latter  his  crown. - Thus  much  ffays 
+
+Mr.  Juftice  Blackstone  in  his  Commentaries^  vol.  i. 
+book  I.  chap.  8.)  is  indifputably  certain,  that  the  pre- 
+fent  magnitude  of  our  national  incumbrances  very  far 
+exceeds  all  calculations  of  commercial  benefit,  and  is 
+produeSlive  of  the  greateft  inconveniencies.  For  ift. 
+The  enormous  taxes,  that  are  raifed  upon  the  necef- 
+faries  of  life  for  the  payment  of  the  intereft  of  this 
+debt,  are  a  hurt  both  to  trade  and  manufadures,  by 
+raifing  the  price  as  well  of  the  artificer’s  fubfiftence, 
+as  of  the  raw  material,  and  of  courfe,  in  a  much 
+greater  proportion,  the  price  of  the  commodity  itfelf. 
+Secondly,  If  part  of  this  debt  be  owing  to  foreigners, 
+either  they  draw  out  of  the  kingdom  annually  a  con- 
+fiderable  quantity  of  fpecie  for  the  intereft  ;  or  elfe  it 
+«  is  made  an  argument  to  grant  them  unreafonable 
+privileges  in  order  to  induce  them  to  refide  here. 
+Thirdly,  If  the  whole  be  owing  to  fubjeds  only,  it 
+
+is  then  charging  the  a6Iive  and  induftrious  fubjcdl, 
+°  ‘‘  who 
+
+
+II 
+
+
+(  48  ) 
+
+TIES;  but  the  very  Being  of  the  State 
+
+depends  at  prefent  on  the  redudion  of  our 
+debts. 
+
+i 
+
+There  is  one  objedion  which,  probably, 
+has  been  often  offering  itfelf  to  every  reader ; 
+
+and 
+
+‘‘  who  pays  his  fhare  of  the  taxes,  to  maintain  the  idle 
+and  indolent  creditor  who  receives  them.  Laftly  and 
+principally,  It  weakens  the  internal  ftrength  of  a 
+State,  by  anticipating  thofe  refources  which  fhould  be 
+“  referved  to  defend  it  in  cafe  of  neceility.  The  interefl 
+we  now  pay  for  our  debts  would  be  nearly  fufHcient 
+to  maintain  any  war,  that  any  national  motives  could 
+lequire.  And  if  our  anceftors  in  King  J'VillldTn  s  time 
+had  annually  paid,  fo  long  as  their  exigencies  lafted, 
+even  a  lefs  fum  than  we  now  annually  raife  upon  their 
+accounts,  they  would  in  the  time  of  war  have  born 
+‘‘  no  greater  burdens  than  they  have  bequeathed  to  and 
+fettled  upon  their  pofterity  in  time  of  peace  ;  and  might 
+
+have  been  eafed  the  inftant  the  exigence  washover. — . 
+
+But  (befides  thefe  inconveniencies)  our  National  Debt 
+and  taxes  have,  in  their  natural  confequences,  thrown 
+fuch  a  weight  of  power  into  the  executive  fcale  of 
+‘‘  government,  as  we  cannot  think  was  intended  by  our 
+patriot  ancehors,  who  glorioufly  ftruggled  for  the  abo- 
+lition  of  the  then  formidable  parts  of  the  prerogative, 
+‘‘  and  by  an  unaccountable  want  of  forefight  eilablifhed 
+this  fyftem  in  their  ftead.  The  entire  colledfion  and 
+“  management  of  fo  vafl:  a  revenue,  being  placed  in  the 
+hands  of  the  crown,  have  given  rife  to  fuch  a  multitude 
+‘‘  of  new  ofEcers,  cieated  by  and  removeable  at  the  royal 
+pleafure,  that  they  have  extended  the  influence  of  go- 
+vernment  to  every  corner  of  the  nation.  Witnefs  the 
+commiflioners,  and  the  multitude  of  dependents  on  the 
+cuftoms  in  every  port  of  the  kingdom  ;  the  comniif- 
+fioncrs  of  excife,  and  their  numerous  fubaltcrns,  in 
+
+every 
+
+
+.  m 
+
+
+t 
+
+
+(  49 
+
+and  wnich,  tho  I  cannot  anfwer  it,  I  mud: 
+riiention.  “  Snppofe,”  it  will  he  faid, 
+“  inch  a  Jund  eftablidied,  as  has  been  here 
+deferibed;  or,  which  is  the  fame,  “  fuppole 
+
+“  the 
+
+
+every  inland  diftria;  the  poftmafters  and  their  fer- 
+vants,  planted  in  every  town,  and  upon  every  public 
+road  ;  the  commiffioncrs  of  the  ftamps,  and  their  diC- 
+tnbutors,  which  are  full  as  fcattered  and  full  as  nume- 
+rous;  the  officers  of  the  fait  duty,  which,  tho’  a  fpecies 
+t)  excife^  and  conduced  in  the  fame  manner,  are  yet 
+^  made  a  oiuincSl  corps  from  the  ordinary  manai^ers  of 
+^  that  revenue  ;  the  furveyors  of  houfes  and  winJov/s  ; 
+
+the  receivers  of  the  land-tax  ;  the  managers  of  lot- 
+^  teries;  and  the  commilBoners  of  hackney  coaches  ;  all 
+^  v\hich  are  either  mediately  or  immediately  appointed 
+by  the  crown,  and  removeable  at  pleafure  without  any 
+reafon  afligned  :  Thefe,  it  requires  but  little  penetra- 
+tion  to  fee,  muff  give  ^that  power,  on  which  they  dc- 
+pend  for  fubfiftence,  an  influence  moll  amazingly  ex- 
+tenfive.  To  this  may  be  added  the  frequent  opportu- 
+nities  of  conferring  particular  obligations,  by  prefer- 
+ence  in  loans,  fubfcriptions,  tickets,  remittances,  and 
+other  money  tfanladiions,  which  v/ill  greatly  incrcafe 
+this  influence;  and  ovar  thofc  perfons  whole  attaLh^ 
+ment,on  account  of  their  wealth,  is  frequently  moft  de- 
+firable.  All  this  is  the  natural,  tho’  perhaps  the  un- 
+foreleen,  confequence  of  eredfing  our  funds  of  credit, 
+and  to  lupport  them  efl-ablifhing  our  prefent  perpetual 
+taxes :  he  Vv'hole  of  which  is  entirely  new  fince  the 
+
+refioration  in  1660,  and  by  far  the  greatefl  part  fince 
+the  revolution  in  1688.  And  the  fame  may  be  faid 
+with  regard  to  the  olliccrs  in  our  numerous  army,  and 
+the  places  which  the  army  has  created.  All  which 
+put  together  gives  the  executive  pov/er  fo  perfuafive 
+‘‘  an  energy  with  refpedt  to  the  perfons  tliemfelves,  and 
+fo  prevailing  an  intereil:  with  their  friends  and  families, 
+as  will  amply  make  amends  for  the  lofs  of  cxiernal 
+prerogative* 
+
+
+H 
+
+
+‘‘  But 
+
+
+(  5*^  ) 
+
+“  the  Sinking  Fund  reftored.  What  fe- 
+“  curity  can  be  obtained  for  the  faithful  and 
+
+“  inviolable  application  of  it?” - Were  I 
+
+to  propofe,  in  anfwer  to  this  enquiry,  guard¬ 
+ing 
+
+
+But  tho’  this  profufion  of  offices  fhould  have  no  effedl 
+‘‘  on  individuals,  there  is  ftill  another  newly  acquired 
+branch  of  power;  and  that  is,  not  the  influence  only, 
+
+“  but  the  force  of  a  difciplined  army:  paid  indeed  ulti- 
+matelv  by  the  people,  but  immediately  by  the  crown, 
+
+“  raifed  by  the  crown,  officered  by  the  crown,  com- 
+mandcd  by  the  crown.  They  are  kept  on  foot  it  is 
+“  true  only  from  year  to  year,  and  thafby  the  power  of 
+‘‘  Parliament:  but  during  that  year  they  muft,  by  the 
+nature  of  our  conflitution,  if  raifed  at  all,  be  at  the  ab-, 
+folute  difpofal  of  the  crowm.  And  there  need  but  few 
+‘‘  words  to  demonftrate,  how  great  a  trufl:  is  thereby  re- 
+“  pofed  in  the  prince  by  his  people.  A  trufl,  that  is 
+more  than  equivalent  to  a  thoufand  little  troublefome 
+
+prerogatives. - Add  to  all  this,  that,  befides  the  civil 
+
+lift,  die  immenfe  revenue  of  feven  millions  fterling, 
+which  is  annually  paid  to  the  creditors  of  the  public, 
+‘‘  or  carried  to  the  Sinking  Fund,  is  firft  depofited  in  the 
+Royal  Exchequer,  and  thence  iflued  out  to  the  refpec- 
+tive  offices  of  payment.  Iffiis  revenue  the  people  can 
+never  lefufe  to  raife,  becaufe  it  is  made  perpetual  by  aa 
+“  of  Parliament:  which  alfo,  when  w’cll  confidered,  wil 
+appear  to  be  a  trufl  of  great  delicacy  and  high  impor- 
+
+tance. _ Upon  the  whole,  therefore,  1  think  it  is 
+
+clear,  that  whatever  may  have  become  of  the  7io7ninal^ 
+cc  ^he  r^’al  power  of  the  crown  has  not  been  too  far  weak¬ 
+en  ened^by  any  tranfadVions  in  the  laft  century  Much 
+is  indeed  given  up;  but  much  is  alfo  acquired.  1  he 
+ftern  commands  of  prerogative  have  yielded  to 
+‘‘  milder  voice  of  influence;  the  flavifh  and  exploded  doc- 
+^  trii-e  of  non-refiflance  has  given  way  to  a  military  efla- 
+‘  blifliment  by  law;  and  to  the  difule  of  parliaments  has 
+fucceeded  a  parliamentary  trufl  of  an  immenfe  perpe- 
+tual  revenue.  When,  indeed,  by  the  free  t)pcrations^of 
+
+
+(  51  ) 
+
+ing  tht  Sinking  Fund,  by  pains  and  penalties  • 
+and  making  all  encroachments  upon  it  no 
+lets  TREASON  than  an  attempt  to  kill*  the 
+
+‘‘the  Sinking  Fund,  our  National  Debts  (hall  be  Jef- 
+fened;  when  the  pofture  of  foreign  affairs,  and  the  u„ 
+
+‘‘  verfal  introduc^on  of  a  well-planned  and  natiZl 
+ir.ilitia,  v\ill  fluffier  our  formidable  army  to  be  thinned 
+
+t^xesTlrbl  of  all)  our 
+
+taxes  fhall  be  gradually  reduced  ;  this  adventitious 
+
+“  povver  of  the  crovva  will  flovvly  and  imperceptibly  di- 
+
+«  imperceptibly  arofe.  But  till 
+
+will  be  our  efpecial  duty,  as  good 
+fubjeas  and  good  Englifltmen,  ro  reverence  the  croTn 
+
+<C  againft  corrupt  and  fervile  influence 
+
+front  thoie  who  are  intrufted  with  it’s  authority;  to  be 
+
+^  ^  •  •  I  ^  and  yet  independent ;  and 
+
+above  every  thing  to  hope  that  we  may  long,  very  ong 
+
+‘‘  continue  to  be  governed  by  a  fovereign,^  who^n  aU 
+
+«  ‘u  Pcrfonally  proceeded  from 
+
+‘‘  h.mfelf,  hath  manifefted  the  higheft  venerati.  n  for  the 
+free  conftitution  of  Britain;  hath  already  in  more  than 
+one  triftan^ce  remarkably  ftrengtheiied  it’s  outworks : 
+and  will  therefore  never  harbour  a  thought  or  adopt  a  '' 
+
+perDafion,  in  any  the  remoteft  degree  detrimental  to 
+public  liberty.” 
+
+I  hope  I  fhall  be  excufed  the  length  of  this  ci notation. 
+
+It  confirms  fo  muchyf  what  I  have  (aid,  and  contains  an 
+admonition  to  the  kingdom  of  fuch  moment,  that  1  could 
+
+not  prevail  on  myfelf  to  fupprefs  any  part  of  it. - If  any 
+
+one  would  know  more  of  the  evil  of  the  National  Debt 
+let  him  confult  Mr.  Hume’s  Effay  on  this  fubjed,  in  his 
+J  olitical  Eiiays;  and  to  crown  all,  let  him  add  the  faft 
+above  mentioned;  or  the  quick  progrefs  it  is  making 
+
+towards  annihilating  us  by  depopulation. - With  re- 
+
+fpedt  to  this  laft  evil,  however,  1  muff  acknowledcre, 
+that,  when  united  to  fome  of  the  other  evils  infepa- 
+Mble  from  the  National  Debt,  it  lofes  much  of  its  nature. 
+Eor,  when  liberty  is  leaving  a  kingdom,  it  becomes  of 
+|els  cpnfequence  how  foon  it  is  reduced  to  nothino-. 
+
+H  2  King ; 
+
+
+<c 
+
+
+rfiiwna  ,.  M  i 
+
+
+/ 
+
+
+(  52  ) 
+
+King ;  I  fliould  be  confcious  of  making  a 
+very  vain  propofal.  For  fuch  a  fecurity 
+would  be  only  tbe  fecurity  of  law  ;  and  this 
+has  been  already  given  without  eiTed.  Par- 
+liaments  can  give  no  defence  again  ft  thera- 
+felves.  Nor  is  there  any  thing  that  one  Parr 
+liament  can  do,  which  a  fucceeding  Par¬ 
+liament,  or  even  the  fame  Parliament,  may 
+not  wido. — ^ — This,  however,  is  an  objedion 
+which  our  Statefmen  cannot  make  with  any 
+decency;  becaufe  it  implies  a  confcffion, 
+that  they  muft  not  be  expeded  to  continue 
+
+faithful  "  to  the  public  intereft.^ - And  if 
+
+this  be  indeed  true ;  if  a  fucceffion  of  fuch 
+wife  and  honeft  adminiftrations  is  impoffible, 
+as  is  neceffary  to  execute  a  plan  that  requires 
+fteadinefs  of  counfel  for  a  courfe  of  years ; 
+and  if,  on  this  account,  the  kingdom  muft 
+defpair  of  ever  feeing  the  Sinking  Fund 
+permanently  and  efficacioufly  reftored  ^  • 
+
+then,  in  the  name  of  juftice  and  humanity, 
+let  it  be  expunged  from  our  public 
+accounts;  and  let  us  not  be  any  longer 
+mocked  vdth  the  shadow  of  an  invaluable 
+bleffinu,  once  folemnly  promiled  us;  but 
+whichht  feems,  for  want  of  public  virtue, 
+
+we  can  tzever  enjoy.  _  ,  .  ^  i  •  n. 
+
+But  it  is  time  to  difmifs  this  fubject. 
+
+I  have  written  freely  the  fentiments  of  ray 
+heart ;  and  the  public  is  now  left  to  judge. 
+
+_ _ With  the  defire,  but  not  with  much  tope 
+
+of  fuccefs,  I  have  ftepped  forth  to  convey 
+
+3 
+
+
+(  53  ) 
+
+iny  country  an  information,  which  all  who 
+will  confidcr  it  muft  fee  to  be  of  gieat  im¬ 
+portance.  Should  it  be  entirely  negleded, 
+the  pain  I  thall  feel  will  not  be  on  my  own 
+account.  1  know  I  have  meant  to  ad  the 
+part  of  a  good  citizen ;  and  I  fhall  return  to 
+pbfeurity  and  filence,  fatisfied  with  this  re- 
+hexion ;  and  happy  in  the  confeioufnefs  of 
+
+wanting  nothing  this  world  can  give  me, 
+
+* 
+
+
+A  P  P  E  N 
+
+
+* 
+
+
+■■r  .-r, 
+
+
+<7^- 
+
+
+i  . 
+
+
+i 
+
+
+f  .if 
+
+
+'■‘i,n<^'ia  ri 
+.  :■ 
+
+
+■O- 
+
+
+:n  li 
+
+
+•  r 
+
+
+>  Tr.  jj'  '  •  ‘  ^ 
+
+
+'  •*  »•  i .  >  i.  i  > 
+
+
+>  -V  ».  i4. 
+
+
+1  '/Vr; 
+
+
+,  >  •>  f  ^  ^ 
+
+
+j  -^7 r 
+
+
+.  '  .  *  *"  '  Y ^nu  7:Uv3  ' 
+
+■;  ^  V  i-':-  n:  7Pqii/i'  r,r.\  r  * 
+
+f  f  •.aX,  1.  -  I  K 
+
+r-t''y  '  -p  V  t 
+
+'  ‘  ^  ■  //  ?•  1-  .  v  J  •  ^  •  .  M  , 
+
+
+•  •  f 
+
+t  ».  ^  i  J  i  J  T  ■  >  '^'  ‘  ■ 
+
+»  *"»*•(* 
+
+
+y  • » 
+
+
+i 
+
+
+I  <* 
+
+
+ST- .  4- 
+
+
+i  i|  ^ 
+
+
+^•ws 
+
+
+• '  -s 
+
+
+■*  ■'  'I  •  ''-'I 
+
+
+'  it 
+
+
+>'  />»■■- 
+
+
+.  ^ 
+
+
+iiv . 
+
+
+'. 't 
+
+
+T  it. 
+
+
+V.1 
+
+
+,  T 
+
+
+J 
+
+
+V  ^*t  .i 
+
+
+4.1k 
+
+
+.  V  .  . 
+
+
+■r.% 
+
+
+•>  - 
+
+
+/  ■ 
+
+
+•V»  •'•r 
+
+
+-’ll'  vi.  *.  '  r  A-  i'-  '^'''  :  ■  I 
+
+
+•  '  t 
+
+4.  •'  '.■  '  ■» 
+
+•,k’ 
+
+
+V  'V  •,  '■  .  ,k.  -i 
+
+•  -  <v  >  .  t*-'- 
+
+
+1 
+
+
+ly  .t 
+
+
+^  y  t 
+
+
+>•  -V  '  ( 
+
+4 
+
+
+>  ^ 
+
+
+( 
+
+
+ft .  t  0^ 
+
+I  * 
+
+
+»  t 
+
+
+tLiiiSi^kmA 
+
+
+'h  '%t 
+
+
+A  P  P  E  N  D  I  X. 
+
+Note  (A).  See  Page  5. 
+
+TABLE  1. 
+
+Shewing  the  Prosrefs  of  a  Fund  of  200,000/.  per  Jnnum^ 
+applied  unalienably  to  the  Payment  of  public  Debts, 
+
+
+;  1 
+
+
+1 
+
+Yrs.  r. 
+g' 
+
+1 
+
+roduce  of  iheri 
+und  at  the  be*  p: 
+nning  of  every  gi 
+tar.  y 
+
+otai  of  debts  j 
+
+lid  at  the  be-  j, 
+nning  of  every  | 
+ear. 
+
+,Pr( 
+
+y.  iFU 
+
+ifrs.  1 
+
+gm 
+
+ye? 
+
+1 
+
+£■ 
+
+200,000 
+Add  10,000 
+
+£■ 
+
+0.200,000 
+
+12 
+
+2 
+
+210,000 
+Add  10,500 
+
+0.410,000 
+
+13 
+
+3 
+
+220,500 
+Add  11,025 
+
+0.630,500 
+
+H 
+
+4 
+
+■ 
+
+2315525 
+
+Add  11,576 
+
+0.862,025 
+
+15 
+
+&c. 
+
+5 
+
+243,101 
+
+12,155 
+
+1.105,126 
+
+- 
+
+30 
+
+&c. 
+
+6 
+
+255,256 
+
+12,763 
+
+1.360,382 
+
+50 
+
+&c. 
+
+1 
+
+1  " 
+
+:  7 
+
+268,019 
+
+13,401 
+
+1.628,401 
+
+£. 
+
+8 
+
+281,420 
+
+14,071 
+
+1.909,821 
+
+86 
+
+1  ^ 
+
+295,491 
+
+U,775 
+
+2.205,312 
+
+1 
+
+he. 
+
+1C 
+
+310,266 
+
+J555'3 
+
+2.515,578 
+
+i  100 
+
+1 1 
+
+325.779 
+
+16,28c 
+
+2.841.357 
+
+) 
+
+■  1 
+
+Total  ot  debts  paid] 
+
+at  the  beginning 
+
+
+34.2, o&b 
+
+i7>io3 
+
+
+359>i7i 
+
+17^959 
+
+
+377^130 
+
+18,856 
+
+
+0.395,986 
+&c. 
+
+
+£. 
+
+3.i«3.425 
+
+
+3.542,596 
+
+
+3.919,726 
+
+
+4.3I5>7J2 
+
+&c. 
+
+
+0.823,227 
+
+
+2.184,266 
+
+
+5-795.509 
+
+
+12.650,870 
+
+
+13.287,769 
+
+41.869,600 
+
+
+ii7.705>702 
+
+
+13-283, 414 
+
+
+25.047,858 
+
+
+261.668,284 
+
+
+274'95i5^9^ 
+
+
+522.005,020 
+
+
+(■  . 
+
+h 
+
+
+e: 
+
+
+wr-iCV 
+
+
+•PvT 
+
+
+(  56  ) 
+
+•I  ^  , 
+
+N.  B.  The  whole  profit,-  in  i6o  years,  by  this 
+
+iund,  fuppofing  it  alienated  every  year,  to  avoid 
+
+borrowing  at  5  per  cent,  Ample  intereft  fums  equal 
+
+to  Its  produce,  would  be  69.500,000/.  includina 
+
+tne  principal  funis  borrowed,  together  with  all  their 
+interefts. 
+
+The  WHOLE  PROFIT  by  it,  if  never  alienated, 
+would.  It  appears,  be,  in  the  fame  time,  522  millions. 
+1  he  COMPLETE  LOSS,  therefore,  by  alienation, 
+would  be  452  millions  and  a  half.  In  pao-e  7  k 
+IS  fliewn,  that,  in  86  years,  the  lofs  would ’be 
+208.250,000/.  And  this  forms  the  ftriifteft  de- 
+monftration,  that,  while  there  is  a  poflibility  of 
+avoiding  alienation,  by  borrowing  money  at  fimplc 
+mtereft,  it  muft  be,  in  the  highefi  degree,  perni¬ 
+cious  to  a  ftate  not  to  do  it.  But  this  will  be  far¬ 
+ther  explained  in  the  following  notes. 
+
+
+Note 
+
+
+(  57  ) 
+
+
+Note  (B).  See  Page  12. 
+
+
+I  Here  fuppofe  the  operation  of  the  fund  to  be¬ 
+gin  at  Midfummer,  1717?  and  to  be  applied 
+from  that  time  to  Midfummer,  1727,  to  the  pay¬ 
+ment  of  debts  bearing  5  per  centi  intereft.  From 
+1727  to  1756^  1  fuppofe  it  applied  to  the  payment 
+of  debts  bearing  4  per  cent,  intereft  *,  and  from. 
+1756  to  Midfummer  1772,  **0  the  payment  of 
+debts  bearing  3  per  cent,  intereit.  1  further  fuppofe 
+the  produce  of  the  fund  to  have  been,  from  the 
+firff,  1,200^000  per  dnn, - In  the  firft  of  thefc 
+
+
+periods,  fuch  a  fund,  unalienably  applied,  would 
+have  paid  off  17  millions.  In  the  lecond  period, 
+or  the  next  29  years,  it  would  have  paid  off  126 
+millions.  And  in  the  laft  16  years,  it  would  have 
+paid  off  129  millions.  In  all  then,  255  millions 
+might  have  been  paid  ^  or  1 1 5  millions  more  than 
+our  prefent  debt; 
+
+In  this  calculation  no  account  is  taken  of  the 
+benefit  derived  from  the  alienations  of  the  Sinking 
+Fund,  Let  thefe  be  fiippofed  to  have  been  equi¬ 
+valent  to  a  million  per  Ann,  which  the  public  muft 
+have  otherwife  borrowed,  arid  paid  intereft  for,  at 
+per  cent,  from  Midluminer,  1733,  Midfum¬ 
+mer,  J771. - By  the  alienation  in  1733,  the 
+
+
+public  would  have  been  faved  a  million,  together 
+with  38  annual  payments  of  intereft  money.  In 
+1734,  1735,  1736,  &c;  it  would  have  been  faved 
+the  fame  funi,  together  with  27,  26,  25,  &c.  an¬ 
+imal  payments  of  intereft  moriey.  It  may  be  eafily 
+found,  that  all  thefe  favings  added  together,  will 
+amount  nearly  to  68  millions.  And  this  fum  I 
+jreckon  much  more  than  equivalent  to  the  profits 
+
+I  we 
+
+
+'T-J 
+
+
+Tis*-- 
+
+
+V' 
+
+
+(  J-S  ) 
+
+we  have  made  by  alienations.  But  it  has  appeared  - 
+that,  had  there  been  no  alienations,  255  millions 
+would  have  been  paid  off.  Subtract:  then,  from 
+this  lum,  68  millions,  and  alio  the  prefent  debt, 
+eftimated  at  140  millions  *,  and  the  remainder,  or 
+47  millions,  will  be  the  Surplus,  which  the  pub¬ 
+lic  muff  have  been  now  poffeffed  of,  after  dilcharg- 
+ing,  not  only  all  the  prefent  debts,  but  likewife, 
+alt  the  extraordinary  expences^  including  inter  eft  monies^ 
+v;hich  mult  have  been  incurred  by  avoidino-  alien¬ 
+ations.  ^ 
+
+Some  will  probably  think,  that  this  furplus 
+ought  to  be  further  dimini ffed  by  the  amount  of 
+the  debts  that  have  been  aftually  paid  off.  1  have 
+luppofed  thefe  about  20  millions,  but  let  them  be 
+27  millions  ;  and  ftill  there  will  be  left  a  furplus 
+of  20  millions. 
+
+In  fhort.  Let  any  one  calculate  on  any  fuppo- 
+fitions  that  he  may  think  neareft  to  the  truth  ;  and 
+he  will  find  the  Ioffes,  occafioned  by  the  dlverfions 
+which  have  been  made  of  the  Sinking  Fund^  to  be 
+at  leaft  equal  to  the  whole  of  our  prefent  debts  ^ 
+Ioffes,  1  niuft  add,  which  there  could  be  no  occa- 
+fion  for  incurring;  which  have  had  no  advantages 
+ro  balance  them  ;  and  which  I  have  fliewn,  in  the 
+laft  part  of  this  pamphlet,  to  haye  been  brought 
+upon  us,  in  oppofition  to  the  authority  of  an  ex- 
+prefs  law. 
+
+I  have  luppofed  the  income  of  the  finking  fund 
+to  have  been  equivalent  to  i. 200,000/.  per  ann. 
+from  the  year  when  it  was  firft  effabliihed.  It  is 
+of  no  particular  confequence,  whether  this  fuppo- 
+fitionj^  exactly  right  or  not.  The  probability 
+ieems  to  be,  that  it  falls  Ihort  of  the  truth  ;  for  it 
+ihould  be  remembered,  that  the  Sinking  Fund  has 
+been  plundered  in  more  ways  than  by  taking  trona 
+it  grofs  fums^ — iff.  Many  ikvings  have  been  kept 
+i  "  *  '  from 
+
+
+(  59  ) 
+
+from  It,  which  fliould  have  been  brought  into  it- 
+And  2dly,  d  he  income  of  it  has,  in  many  inftances, 
+been  charged  with 'the  payment  of  the  intereft  of 
+new  loans.  Had  no  alienations  of  any  kind  been 
+pradifed,  and  the  intention  of  the  law  lacredly  ob- 
+•ierved,  its  income  would  have  been  confiderablv 
+greater  than  it  has  been,  and  the  furplus  we  flioiiid 
+have  been  now  poflefied  of,  after  paying  all  our 
+debts,  would  have  been  greater  than  can  well  be 
+eftimated.  What  its  aftual  income  has  been,  will 
+appear  from  the  following  account. 
+
+Medium  of  the  annual  produce  of  the  Sinking  Fund^ 
+from  its  commencement, 
+
+to  1726  —  —  c.577,614 
+
+From  1727  to  1736,  both  inclufive  1.132,251 
+1737  to  1746  —  —  1.062,170 
+
+1747  to  1756  —  —  1.356,578 
+
+i757;to  1766  —  —  2.059,406 
+
+The  chief  reafon  of  the  increafe  after  the  years 
+1726  and  1756,  was  the  redudions  of  intereft 
+which  then  took  place. 
+
+
+I  2 
+
+
+Note 
+
+
+Note  (C.)  See  Page  13. 
+
+
+Every  one  who  has  attended  to  my  reafon- 
+ings,  muft  fee,  that  when  a  ftate  borrows  to 
+avoid  alienating,  I  always  fuppofe  the  interefts  of 
+the  fums  borrowed  to  be  paid  either  by  a  new  tax, 
+or  by  creating  fome  new  faving.  If  the  interefts 
+of  the  fums  borrowed  are  taken  from  the  Sinking 
+Fund,  its  efficacy  will  be  as  effeaually  deftroyed, 
+as  if  thofe  fums  themfelves  had  been  taken  from 
+it ;  the  powers  of  the  fund  depending  entirely  on 
+the  interefts  difengaged  from  time  to  time  being 
+fuffered  to  remain  there,  in  order  to  carry  intereft 
+by  being  employed  in  paying  debts,  and  confe- 
+quently  in  difengaging/iir/l>^r  interefts. 
+
+The  two  following  tables  will,  I  hope,  explain 
+this  fufficiently. 
+
+
+6i 
+
+
+TABLE  11. 
+
+
+I 
+
+'if 
+
+
+4  ■ 
+
+
+Shewing  the  Progrefs  of  two  Funds;  one  alienated 
+
+O  O  ' 
+
+every  Year,  by  taking  from  it  gross  Sums  equal 
+to  its  Produce  :  And  the  other  unalienable. 
+
+
+I. 
+
+Yrs. 
+
+II. 
+
+Annual  pro¬ 
+duce  of  the 
+Fund. 
+
+111. 
+
+Debts  paid 
+off  bearing 
+4  per  cent, 
+intereft. 
+
+IV. 
+
+Gain  by  Ali¬ 
+enation,  be¬ 
+ing  the  totals, 
+to  the  beginning 
+of  every  year,  of 
+the  fums  alienat¬ 
+ed,  together  with 
+the  totals  of  the 
+intereft s  at  4  per 
+cent,  which  muft: 
+have  been  paid 
+for  thofe  fums, 
+had  they  been 
+borrowed. 
+
+V. 
+
+GwMn  by  Non- 
+Ac  ien  AT  ION, 
+being  the  totals  of 
+the  debts  paid  off 
+at  the  beginning 
+of  every  >ear,  in 
+confequence  cf  a- 
+voiding  alienation 
+
+Vi. 
+
+Balance,  atl 
+the  beginning  of, 
+every  year,  in  fa¬ 
+vour  of  non- alie¬ 
+nation,  being  the 
+excefs  of  the 
+numbers  in  co¬ 
+lumn  V.  above 
+thofe  in  column 
+IV. 
+
+1 
+
+£■ 
+
+1 .000,000 
+
+1 .000,000 
+
+1 .000,000 
+
+C- 
+
+0.000,000 
+
+2 
+
+1 .000,000 
+
+m  %  S  % 
+
+2,040,000 
+
+2.040,000 
+
+0.000,000 
+
+3 
+
+1.000,000 
+
+•  »  •  • 
+
+3. 120,000 
+
+3  121,600 
+
+0.001 ,6''o 
+
+4 
+
+i  .000,000 
+
+•  •  •  • 
+
+4.240,000 
+
+4.246,^64 
+
+G. 006,464 
+
+5 
+
+1 .000,000 
+
+•  •  •  • 
+
+5.400,000 
+
+5'4>i5,323 
+
+0.016,323 
+
+6 
+
+I  .000,000 
+
+•  •  • 
+
+6.600,000 
+
+6.632,975 
+
+0.032,975 
+
+7 
+
+1 .000,000 
+
+•  •  •  ♦ 
+
+7.840,000 
+
+7.898,294 
+
+0.058,2941 
+
+8 
+
+1 .000,000 
+
+•  •  •  • 
+
+9.  I  20,000 
+
+9.2  14,226 
+
+0.094,226 
+
+9 
+
+1 .000,000 
+
+•  •  •  • 
+
+10.440,000 
+
+10.582,795 
+
+0.142,795; 
+
+!0 
+
+1.000,000 
+
+•  •  •  * 
+
+I  1 .800,000 
+
+12.006,107 
+
+0.206,107, 
+
+&C. 
+
+5^ 
+
+1.000,000 
+
+•  •  •  • 
+
+I  17.600,000 
+
+199.805,540 
+
+82.205,540’, 
+
+70 
+
+1 .000,000 
+
+*  •  •  • 
+
+166.600,000 
+
+364.290,459 
+
+197.690,459 
+
+100 
+
+1 .000,000 
+
+•  •  •  • 
+
+2q3  000,000 
+
+I  237-623,700 
+
+939.623,700; 
+
+TABLE 
+
+
+TABLE 
+
+
+III. 
+
+
+Shewing  the  Progrefs  cf  two  Funds ;  one  alienated 
+every  Year,  by  taking  from  it  the  interefes  at  4 
+pen  cent,  ot  grofs  Sums,  equal  to  its  Produce  i 
+And  the  other  unalienable. 
+
+
+'1. 
+
+Yrs. 
+
+li. 
+
+Annual  pro¬ 
+duce  of  the 
+fund. 
+
+lit. 
+
+Ueets  paic 
+off  bearing  4 
+per  cent,  in- 
+tereft. 
+
+iV. 
+
+Gan  by  the 
+fund  to  the  be¬ 
+ginning  of  every 
+year,  being  the 
+totalsotthefums 
+paid  off,  together 
+with  the  totals 
+of  the  interefls 
+taken  from  the 
+fund  to  avoid  cre¬ 
+ating  new  taxes. 
+
+V. 
+
+1  Gain,  to  the 
+!  beginning  of  e- 
+.  very  year,  by 
+i  non-aJienation, 
+
+VI. 
+
+Balance  at 
+the  beginning  of 
+every  year,  in  fa¬ 
+vour  of  non-alie¬ 
+nation,  being  the 
+difTcrence  be¬ 
+
+tween  the  num¬ 
+bers  in  column 
+IV.  and  V. 
+
+f 
+
+L- 
+
+e- 
+
+4- 
+
+J 
+
+* 
+
+I  •.  000,000 
+
+1.000,00c 
+
+1,000,000 
+
+1 .000,000 
+
+0.000,000 
+
+i  .000,000 
+
+I  000,000 
+
+2. 040. coo 
+
+2.040,000 
+
+0,000,000 
+
+3 
+
+1  000,000 
+
+1 .000,000 
+
+3.1 20.000 
+
+3.  I  2  I  ,600 
+
+0.001,600 
+
+4 
+
+1  .000,000 
+
+1  .000,000 
+
+4.240,000 
+
+4.246  464 
+
+0.006,464 
+
+5 
+
+I  .OCO,OOC 
+
+1 .000,000 
+
+5.400,000 
+
+5.416,323 
+
+0.016,323 
+
+6 
+
+1 .000,000 
+
+i  .000,000 
+
+6.600,000 
+
+6.632  gy; 
+
+0.032,975 
+
+/ 
+
+1.000,000 
+
+I  000,000 
+
+7.840,000 
+
+7.898,294 
+
+0.058,294 
+
+8 
+
+1 
+
+1 .000,000 
+
+{  .000,000 
+
+9.  I  20,000 
+
+9.214,226 
+
+0.094,226 
+
+9l 
+
+I  .000,000 
+
+!  .OCO5OOO 
+
+10.440.000 
+
+10. 582,793 
+
+0.142,795 
+
+10 
+
+1 .000,000 
+
+'  .000,000 
+
+I  1 .800,000 
+
+I  2.006, 1 07 
+
+0.206,  107 
+
+<‘^c. 
+
+&c. 
+
+&c. 
+
+&c. 
+
+&c.' 
+
+1. 000,000 
+
+1  .000,000 
+
+1 17.600,000 
+
+ig9.f!o5,54o 
+
+82.203,540 
+
+VC. 
+
+c^C. 
+
+&c. 
+
+&c. 
+
+Sec. 
+
+&c. 
+
+70 
+
+{  000,000 
+
+/  .000,000' 
+
+166.600,000  ! 
+
+- — '■  - - 
+
+364.290,4  39 
+
+197-690,4^9  1 
+
+The  numbers  in  the  5th  columns  of  thefe  Tables, 
+are  calculated  in  the  iame  manner  with  the  numbers 
+in  the  third  columns  of  Tabic  I.  page  55:  and  the 
+numbers  in  the  fourth  columns,  in  the  manner  ex¬ 
+plained 
+
+
+(  ^3  ) 
+
+plained  in  page  6.  The  former  numbers  exhibit  the 
+amount  of  a  million  per  ami.  bearing  4  per  cert, 
+COMPOUND  intereft;  and  the  latter  numbers  exhi¬ 
+bit  the  amount  of  the  fame  annual  lum  bearing 
+per  cent,  simple  intereft.  It  appears,  therefore, 
+undeniably,  from  thefe  Tables,  that  the  fuperior 
+efficacy  of  an  unalienable  fund,,  depends  on  the  im¬ 
+provement  of  money  in  it  at  compound  intereft ; 
+and  that  to  divert  the  produce  of  a  fund,  appro¬ 
+priated  to  the  payment  of  debts,  in  order  to  avoid 
+making  new  loans,  and  providing  new  favings  for 
+paying  the  intereft  of  thofe  loans,  is  the  very  fame 
+with  taking  money  from  compound  intereft,  in  order 
+
+to  put  it  out  xo  fimple  intereft. - It  appears,  like- 
+
+wile,  that  the  lolTes  arifing  from  hence,  though  at 
+firft  fmall,  foon  become  very  great ;  and  that, 
+confequently,  the  reafon  which  has  been  ufed  to 
+juftify  this  pradtice,  is,  indeed,  what  I  have  repre- 
+fented  it,  a  dangerous  Sophism.  In  no  loner 
+time,  it  will  probably,  it  no  vigorous  meafures  afe, 
+foon  entered  into,  coft  this  nation  all  the  troubles' 
+of  a  public  bankruptcy. 
+
+It  may  deferve  to  be  mentioned,  that  the  fums 
+fuppofed  to  be  borrowed  every  year  in  conlequence 
+of  non-alienation,  being  balanced  by  equal  fums 
+paid  every  year ;  the  total  of  thefe  fums,  to  the 
+beginning  of  every  year,  may  be  dedudled  from 
+the  fums  in  the  4th  and  5th  columns*,  and  there 
+will  remain  in  the  4th  column,  the  produce  of  all 
+the  taxes  impofed  to  pay  off  the  debts  in  the  5th 
+
+column. - Thus  from  117.600,000/.  in  the  4th 
+
+column,  and  alfo  from  199.805,540/.  in  the  5th 
+column,  dedudl  56  millions,  and  the  remainders 
+will  (hew,  that  at  the  expence  of  taxes  or  affefi- 
+ments,  all  the  payments  of  which  would,  in  56 
+years,  make  61.600,000/.  the  public  would  pay 
+pff  143.805.540/.  Or,  (which  comes  to  the 
+
+famiCj 
+
+
+I 
+
+
+(  64  ) 
+
+fame)  that  at  the  expence  of  taxes,  beginning 
+with  40,000/.  per  ann.  and  increafing  gradually 
+till  the  laft  annual  payment  became  2.200,000/; 
+the  public  might  cafe  itfelf,  at  the  end  of  55 
+years,  not  only  of  all  thefe  extraordinary  taxes,  but 
+alfo  of^  other  taxes  to  the  amount  of  5.752,000.^. 
+
+- The  Sinkwg  Fund  then,  had  its  income  from* 
+
+the  firfl:  been  only  a  million  per  ann.  might,  by 
+this  time,  befides  paying  off  a  fum  equat  to  the 
+whole  prefent  amount  of  the  national  debt,  have 
+paid  otF  56  millions  principal  money  borrowed  to 
+avoid  alienation  ;  and  alfo,  a  part  of  61.600,000/. 
+contributed  by  the  public  from  time  to  time  to 
+pay  the  intereft  of  the  money  borrowed.  Has  not 
+then  alienation  been  a  pernicious  meafure  ?  Can  it 
+be  poffible,  that  an  enlightened  kingdom,  v/ith 
+ruin  before  it  as  the  confequence,  fhould  go  on 
+with  fuch  a  meafure  ^ 
+
+Thefe  Tables  exhibit  only  the  efftcls  of  conflant 
+alienations.  If  thele  are  pernicious,  partial  alien¬ 
+ations  muft  be  alio  pernicious.  In  what  deo'ree 
+they  are  fo,  will  appear  in  the  next  note.  ° 
+
+It  is  necelTary  I  fhotild  obferve  farther,  with  re- 
+fped  to  thefe  Tables,  that  the  4th  column  in 
+Table  II.  fiiews  exaftly  the  whole  lofs  the  public 
+would  fuftain,  by  borrowing  a  million  annually  at 
+4  per  cent.,  including  the  whole  produce  of  etery  tax 
+for  faying  the  intcrejl  of  every  loan  ;  and  column,  tlie 
+5th  lliews  the  gain  arifing  from  employing  that 
+annual  fum  in  the  payment  of  debts  bearing  the 
+fame  intereft.  Thefe  Tables,  therefore,  explain 
+and  demonllrate  the  obfervations  in  p.age  16  and 
+
+17- 
+
+
+Were 
+
+
+(  155  ) 
+
+Were  it  indifrcrenr,  when  any  fums  are  wanted, 
+whether  they  are  procured  by  new  loans  charcred 
+on  new  taxes,  or  by  alienating  an  appropriated 
+fund,  the  gain  by  a  fund  always  alienated  for  cur¬ 
+rent  fervices,  would  be  the  fame,  in  every  period 
+of  its  progrefs,  with  the  gain  by  an  equal  fund 
+never  alienated  ;  and  confequenfly  the  gain  by  a 
+million  fpent  annually  on  current  fervices,  would 
+(by  column  5,  Table  II.)  be  equivalent,  in  a  hun¬ 
+dred  years,  to  1257  triiUions  :  And  the  gain  by  a 
+fenny  fpent  at  our  Saviour’s  birth,  equivalent  to 
+150  millions  of  earths,  all  folid  gold  ;  for  to  this 
+fum  (as  obferved  in  page  19.)  would  a  penny, 
+bearing  ^  fer  cent,  iritereft,  in  an  unalienable  fund, 
+have  by  this  time  amounted. 
+
+Upon  the  whole.  It  is  not  in  my  powder  to 
+imagine  more  than  the.  following  cafes,  in  which 
+alienations  can  be  excufable.  ift.  After  a  fund 
+has  operated  its  full  time,  it  may  be  right  to  em¬ 
+ploy  it  in  defraying  the  expences  of  any  fervices 
+that  may  happen  tl?en  to  be  necefiary.  For  exam¬ 
+ple.  Our  Sinking  Fund^  had  it  been  preferved 
+from  alienation,  would,  in  the  prefent  year,  have 
+extinguilhed  all  our  debts,  and  given  the  public 
+the  command  of  an  income  ot  at  leaf!;  feven  or 
+eight  millions  per  ann.  And,  had  a  war  become 
+now  unavoidable,  no  inconveniences  could  have 
+arifen  from  employing  this  income  in  bearing  the 
+expences  of  the  war.  This  would  have  enabled 
+the  kingdom  to  carry  it  on  without  making  any 
+addition 'to  its  incumbrances;  and  when  a  peace 
+came,  all  the  perpetual  taxes  might  be  abolifhed  : 
+and  the  eftablifhment  of  a  fmall  new^  fund,  at  the 
+commencentent  of  any  fubfequent  war,  would  be 
+fufficient  for  ever  to  keep  the  public  debts  within 
+the  bounds  of  fafety.  » 
+
+
+K 
+
+
+Secondly. 
+
+
+(  66  ) 
+
+Secondly.  The  alienation  of  a  fund  is  excuf- 
+able,  when  a  ftate  cannot  borrow  money  at  any 
+rate  of  fimple  intereft ;  or,  which  comes  to  the 
+fame,  when  no  taxes  or  favings  can  be  procured 
+for  paying  the  intereft  of  new  loans,  but  fuch  as 
+either  neceflarily  mujl^  or  certainly  would  have  been 
+brought  into  the  fund,  and  improved  there  at  com¬ 
+pound  intereft,  whether  there  had  been  any  new 
+
+loans  or  not. - Every  one  muft  fee,  that  this  is  a 
+
+cafe  which  cannot  happen  while  a  ftate  has  the  power 
+of  creating  taxes  or  favings,  that  neither  mujl^  nor 
+probably  would  have  been  created,  had  it  not  been 
+for  the  emergency  that  occafions  them. — It  may, 
+indeed,  be  faid  concerning  every  tax  or  faving, 
+created  to  avoid  alienating  a  fund,  that  it  might  at 
+that  time  have  been  created,  and  likewife  brought 
+into  the  fund,  though  the  realon  for  creating  it 
+had  not  exifted.  But  if,  though  it  mighty  it  either 
+certainly  or  probably  would  not,  the  Ioffes  by  alie¬ 
+nation  remain  the  fame. - It  is  very  abfurd  to 
+
+aflert  concerning  any  meafure,  that  it  would  have 
+been  taken,  though  the  reafon  for  it  had  not  ex¬ 
+ifted.  The  contrary  may  be  always  depended 
+upon.  With  refpeeft  to  our  own  government  in 
+particular,  we  know,  that  it  has  never  yet,  with 
+any  permanency,  improved  money  at  compound 
+intereft.  Nor  has  there  been  ever  a  time,  when  it 
+could  have  been  faid  with  truth,  that,  had  it  avoided 
+alienation,  the  very  tax  ncceffary  in  that  cafe  to  pay 
+the  intereft  of  the  furn  which  muft  have  been  bor¬ 
+rowed,  would  have  been  provided,  and  made  a 
+part  of  an  unalienable  fund.  But  this  leads  me  to 
+mention 
+
+Thirdly,  That  the  alienation  of  a  fund  would 
+be  excufable,  were  a  new  tax  or  laving,  producing 
+the  intereft  of  the  fum  alienated,  always  created, 
+and  immediately  brought  into  the  fund,  to  be  im- 
+4  proved 
+
+
+(  6;  ) 
+
+proved  there  in  the  fame  manner  with  the  reft  of 
+us  produce.— —This  is,  likewife,  a  cafe  that  has 
+never  happened  in  this  kingdom,  alienations  hav¬ 
+ing  been  praclned  among  us,  on  ftirpofe  to  avoid 
+new  taxes. 
+
+It  deleryes  to  be  here  mentioned,  that  a  wife 
+ftate  will,  it  poffible,  put  even  fuch  alienatibns  as 
+thele  out  or  the  power  of  the  managers  of  its  af¬ 
+fairs  for,  the  facility  of  obtaining  money  in  this 
+way,  might  tempt  to  alienation,  when  ferviccs  ab- 
+lolutely  neceftary  did  not  call  for  money;  and  the 
+new  taxes  neceftary  to  replace  the  intereft  of  the 
+lums  alienated,  might  often  be  poftponed,  or  prove 
+dcncient  •,  in  all  which  cafes,  iofies  would  be  in¬ 
+curred,  and  the  efficiency  of  a  fund  .might  be  fo 
+much  leffened,  as  to  be  rendered  ufelefs. 
+
+Laftly.  Alienations  might  be  juftified,  were  a 
+kingdom  got  to  its  utmoft  limit  in  taxation,  and 
+io  ts-V  cxlmuil'cd  tis  to  be  inccip3.ble  of  ma,king  aiiv 
+new  fayings  for  paying  the  intereft  of  new  loans. 
+
+CircuiTiftsnccs,  nccclTiry  iisving  no  Iciw^  it 
+might  be  right  to  take  from  a  fund,  any  fums 
+which  the  lalvation  of  the  kingdom  required.  But 
+this,  likewife,  is  a  cafe  that  cannot  be  our  own,  till 
+all  the  reduftions  poffible  have  been  made  in  the 
+number  of  places  and  penfions,  in  the  pay  of  the 
+great  officers  of  ftate,  and  in  the  colledion  and 
+
+expenditure  of  the  revenue. - Perhaps,  indeed, 
+
+we  cannot  go  much  further  in  taxatmi.  An  addi¬ 
+tion  to  an  old  tax,  might  deftroy  its  own  effeft  by 
+diminifhing  confumption.  The  impofidon  of  a 
+new  tax  might  alfo  deftroy  its  own  efted:  by  claffi- 
+ing  with  Ibme  old  tax.  And  the  effect  of  a  general 
+prodvMhe  increafe  of  taxes,  could  it  be  accom- 
+plifhed,  would  moft  probably  deftroy  its  own 
+fource  by  accelerating  depopulation.-^ — Some  think 
+this  not  to  be  a  very  wrong  account  of  our  prefent 
+
+K  2  ftate 
+
+
+d 
+
+
+(  68  ) 
+
+ftatc  with  refpedt  to  taxation.  But  I  hppe  they 
+are  miftaken. 
+
+It  gives  me  much  concern  to  be  obliged  to  be 
+fo  minute  and  tedious  as  I  have  been  in  this  note. 
+But  the  common  and  ftrong  prejudices  in  favour 
+of  alienations,  and  the- objedlions  of  fome  very  re- 
+fpeftable  perfons,  have  convinced  me,  that  there 
+is  more  occafion  for  this  minutenefs  than  I  once 
+imagined ;  and  that,  though  fupported  by  de- 
+monftration,  I  ought  not  to  omit  even  the  argument 
+taken  from  the  authority  of  thofe  who  have  writ 
+before  me  on  this  fubjeft.  It  is  for  this  reafon, 
+that  I  have,  with  great  reluftance,  crouded  this 
+Appendix  with  the  extradls  which  are-p  follow 
+the  next  note. 
+
+
+I 
+
+) 
+
+
+) 
+
+
+\ 
+
+t  V 
+
+I  ‘ 
+
+
+-  ^ 
+
+
+(  69  ) 
+
+
+Note  (D).  See  Page  14. 
+
+TABLE  IV, 
+
+Shewing  the  whole  EfFcft,  in  56  Years,  of  a  Fund 
+yielding  a  Million  per  Ann.  appropriated  to  the 
+Payment  of  Debts  bearing  4  per  cent.  Intereft, 
+but  alienated  every  other  Year. 
+
+
+Midfum- 
+
+iper. 
+
+Produce  of  the 
+fund  at  Mid- 
+fummer  every 
+year. 
+
+Total  of  the  debts 
+jaid  from  Mid¬ 
+summer,  1717,  to 
+the  beginning  of 
+every  year. 
+
+Sums  alienated 
+every  other 
+
+year. 
+
+Expence  faved  | 
+by  alienation, 
+being  the  fum 
+alienated,  toge¬ 
+ther  with  all  its 
+interefts  from 
+the  year  of  alie¬ 
+nation,  to  Mid- 
+fummer,  1^771* 
+
+1. 
+
+£■ 
+
+£- 
+
+1717 
+
+I.OOO5OOO 
+
+1.000,00c 
+
+• 
+
+18 
+
+I.O4O5OOO 
+
+1.000,000 
+
+uo40,ooo 
+
+3.244,800 
+
+19 
+
+I.O4O5OOC 
+
+2.040,000 
+
+20 
+
+I.08I560O 
+
+2.040,000 
+
+1.08 1,600 
+
+3.288,064 
+
+21 
+
+I.08I560O 
+
+3.121,600 
+
+22 
+
+1.124,864 
+
+3.121,600 
+
+1.124,864 
+
+3.329,470 
+
+23 
+
+1.124,864 
+
+4.246,464 
+
+24 
+
+1.169,858 
+
+4.246,464 
+
+1.169,858 
+
+3.369,176- 
+
+25 
+
+1.169,858 
+
+5.416,322 
+
+26 
+
+1.216,652 
+
+5.416,322 
+
+1.216,652 
+
+3.406,622 
+
+27 
+
+1.216,652 
+
+6-632,975 
+
+28 
+
+1.265,319 
+
+6-632,975 
+
+1.265,319 
+
+3.441,635 
+
+29 
+
+1.265,319 
+
+7.898,294 
+
+•  •  •  •  •  ■ 
+
+•  •  •  •  •  • 
+
+30 
+
+i-3>:  5^931 
+
+7.898,294 
+
+i-3i5»93> 
+
+3.474,048 
+
+31 
+
+i-3i5>93i 
+
+9.214,226 
+
+32 
+
+1.368,569 
+
+9.214,226 
+
+1.368,565 
+
+3-503>507 
+
+33 
+
+1.368,569 
+
+10.582,795 
+
+34 
+
+*•423^311 
+
+10.582,795 
+
+1.423,311 
+
+3-529’795 
+
+35 
+
+1.423,311 
+
+12.006,10) 
+
+table 
+
+
+IV.  Continued. 
+
+
+Mldf. 
+
+
+Produce  of  the 
+
+
+year. 
+
+
+every  year. 
+
+
+1736  1.480,244 
+
+
+37 
+
+38 
+
+39 
+
+40 
+
+41 
+
+42 
+
+43 
+
+44 
+
+
+12.006,107 
+
+
+^•539A54 
+
+*-539>454 
+1.601,032 
+1.601,032 
+1.665,073 
+1.665,073 
+44ii.73 1,676 
+451-7315676 
+46 1.800,943 
+
+47  1.800,943 
+
+48  1.872,981 
+
+49  1.872,981 
+5©  1.947,900 
+
+51  1.947,900 
+
+52  2.025,816 
+
+53  2.025,816 
+542.106,849 
+
+55  2.106,849 
+
+56  2.191,123 
+
+
+- 5  j  / 
+
+6.626,837 
+18.291,911 
+18.291,911 
+
+
+57  2.191,123  31.969,201 
+5812.278,768  31.969,201 
+
+
+59  2. -2 7 8, 7 68 
+
+
+60,2.369,918  34.247,969 
+
+
+21.824,531 
+2 1.824,53 1 
+23.697,512 
+23-697,512 
+25.645,412 
+25-645,412 
+27.671,229 
+27.671,229 
+29.778,078 
+29.778,078 
+
+
+34.247,969 
+
+
+61  2.369,9 1 8 
+6212.464, 715 
+
+
+36.617,988 
+
+36.617,988 
+
+
+ts 
+
+*  Sums  alienated 
+0  every  other 
+)f  year. 
+
+Expence  faved 
+by  alienation, 
+being  the  fum 
+alienated,  toge- 1 
+ther  with  all  its  I 
+interefts  from  I 
+the  year  of  alie-  1 
+nation  to  Mid- 1 
+fummer  1771.  | 
+
+7  1.480,244 
+
+^*5395454 
+
+t  ^  .  •  ,  •  , 
+
+1,601,032 
+
+*  •  •  •  t  • 
+
+1.665,073 
+
+*••••• 
+
+1.731,676 
+
+. 
+
+3'55^y559j 
+
+3-5715528 
+
+*•••••  1 
+
+3.586.303J 
+•  •••••  1 
+3-596,531 
+
+.*••••  j 
+
+3.601,8851 
+
+1.800,943 
+
+•  •.••• 
+
+1.872,98 1 
+
+•  *•••• 
+
+1.947,900 
+
+•  ••••» 
+
+2.025,816 
+
+*••••• 
+
+2.106,849 
+
+2.191,123 
+
+3.601,8681 
+
+3.596,1181 
+
+•  •••«•  I 
+
+3.584,136 
+
+•  •  •  •  •  •I 
+
+3.565,424] 
+
+•  •  •  •  •  •  .1 
+
+3-539, 49o| 
+
+•  •  •  *  *  *  1 
+
+3-505,783 
+
+2.278,768 
+
+3.465,718] 
+
+2.369,918 
+
+3.412,674 
+
+2.464,715 
+
+3.352,007 
+
+TABLE  IV.  Continued. 
+
+
+>  ■  "  ■  — 
+
+Midf. 
+
+Produce  of  the 
+fund  at  Mid- 
+fu miner  every 
+year. 
+
+Total  of  the  debts 
+paid  from  Mid- 
+fummer,  1717,  to 
+the  beginning  of 
+every  year. 
+
+Sums  alienated 
+every  other 
+year. 
+
+Expence  faved  1 
+by  alienation, 
+being  the  fum 
+alienated,  toge¬ 
+ther  with  all  its 
+interefls  from 
+the  year  of  alie-  ' 
+nation  to  Mid-i 
+fummer,  1771, 
+
+1763 
+
+2.464,715 
+
+£• 
+
+39.082,703 
+
+64 
+
+2-563,304 
+
+39.082,703 
+
+2.563,304 
+
+3.281,028 
+
+;  65 
+
+2-563,304 
+
+41.646,007 
+
+66 
+
+2.665,836 
+
+41.646,007 
+
+12.665,836 
+
+3.199,001 
+
+'  67 
+
+2.665,836 
+
+44.311,844 
+
+68 
+
+2.772,469 
+
+44.311,844 
+
+12.772,469 
+
+3.105,163 
+
+69 
+
+2.772,469 
+
+47.094,313 
+
+1 
+
+70 
+
+2.883,368 
+
+47-094,313 
+
+12.883,368 
+
+2.998,702 
+
+1 
+
+12.883,368 
+
+49.977,682 
+
+Total  of  the  expences  faved  by 
+
+alienation,  —  —  92.701,035 
+
+Add  the  total  of  debts  paid  —  49.977,682 
+
+
+Whole  gain  by  the  fund  —  142.678,717 
+
+Gain  by  the  fame  fund,  fuppofed 
+unalienable^  being  the  total  of 
+the  debts  which  it  would  have 
+paid  off  —  —  —  19^-805,540 
+
+Dedudl  the  gain  with  alienation  142.678,717 
+
+Remains,  the  uncompenfated  lofs 
+in  56  years,  by  a  fund  yielding 
+a  million  'per  ann.  alienated 
+every  other  year  —  ~ 
+
+
+57.126,823 
+
+
+(  72  ) 
+
+It  fhould  not  be  forgotten,  that  in  this  and  the 
+preceding  Tables,  the  expences  faved  by  alienation 
+are  greatly  over-rated  for  the  following  reafons. 
+
+Firft.  They  fuppofe  that  not  only  the  principal 
+funis  alienated,  but  all  the  annual  interefts  of  thefc 
+Aims,  are  fo  much  money  laved,  which  would  have 
+been  otherwife  certainly  paid  by  the  public  : 
+whereas,  there  is  all  the  reafon  poflible  for  believ¬ 
+ing,  that  the  liberty  to  alienate  encourages  profu- 
+Aon  ;  and  that,  had  there  been  always  a  neceffity 
+for  borrowing  on  new  taxes  to  avoid  alienation, 
+more  care  would  have  been  uled  in  the  manage¬ 
+ment  of  the  public  finances. 
+
+Secondly.  They  fuppofe  the  prefent  value  of 
+every  annuity  to  be  equal  to  the  number  of  pay¬ 
+ments  which  will  be  made  of  it.  For  inftance. 
+An  annuity  of  41,600/.  payable  for  53  years,  as 
+intereft  at  4  per  cent,  for  1.040,000/.  is  reckoned 
+worth  53  years  purchafe;  or  2.204,800/. ;  which 
+Aim  added  to  1.040,000/.  makes  3,244,800/.  the 
+whole  cxpence  faved  by  alienation  in  the  year 
+1718,  according  to  this  Table. 
+
+
+Note 
+
+
+(  73  ) 
+
+
+Note  (E).  Page  36,  37. 
+
+Extract  from  a  Proteft  In  the  Houfe  of  Lords, 
+occafioncd  by  the  Alienation  of  the  Sinking 
+Fund  in  1733. 
+
+-  .Diffentient, 
+
+TJECAUSE  the  Sinking  Fund,  being  com- 
+5j  poled  of  the  furpluffes  of  funds  originally 
+granted  as  a  fecurity  to  the  creditors  of  the 
+public  *,  and  thefe  furpluffes  arifing  principally 
+from  a  reduftion  to  4  cent,  of  the  intereft 
+granted  them  for  the  moft  part  at  6  fer  cent. 
+we  cannot  but  think  that  this  faving  ought  to 
+be  applied,  according  to  the  moft  invjolable 
+rules  of  equity,  ajid  according  to  the  knov/n 
+ddign,  and  the  repeated  and  folemn  engage- 
+ments  of  parliament,  to  a  gradual  payment  ot 
+the  principal  to  theft  creditors  of  the  public, 
+who  have  parted  with  a  third  of  their  revenue 
+in  this  view,  and  upon  this  confidence.” 
+
+BECAUSE  we  apprehend,  that  the  method  of 
+applying  large  portions  of  the  Sinking  Fund  to 
+the  lervice  of  the  current  year,  muft,  in  effe6f, 
+perpetuate  the  debts  and  taxes  which  lie  on  the 
+‘‘  nation,  and  is,  therefore,  injurious  to  the  pub- 
+lie.  Had  this  whole  fund  been  ftrfttly  applied 
+from  the  beginning  to  its  proper  ufc,  we  think 
+it  may  be  dernonftrated,  not  only  that  much 
+more  of  the  national  debt  might  have  been 
+difeharged,  but  that  thoft  taxes,  which  are  moft 
+‘‘  oppreffive  to  the  poor,  and  moft  prejudicial  to 
+trade,  might  have  been  already  taken  off,  fince 
+upwards  of  480,000/.  per  ann,  belonging,  as 
+
+L  we 
+
+
+(  74  ) 
+
+we  conceive,  to  this  fund,  has  been  applied  to 
+other  ufes.”  ^ 
+
+^  BECAUSE  we  conceive,  that  if  the  whole 
+produce  of  the  Sinking  Fund  were  not  to  be  ap¬ 
+plied  to  the  difcharge  of  the  public  debts,  it 
+would  be  much  more  for  the  eale  of  trade  and 
+advantage  for  the  nation,  that  fome  of  thofe 
+grievous  taxes  out  of  which  it  arifes  fhould 
+ceafe,  than  that  they  lliould  be  continued  to 
+fupply  the  current  fervicc  at  4  cent,  which 
+might  certainly  be  fupplied  by  other  ways  at  a 
+cheaper  rate.  Moft  of  thefe  taxes  were  laid 
+during  the  neceffity  of  two  long  and  expenfive 
+wars,  and  were  granted  only  for  terms  of  years, 
+that  fo  the  principal  and  intereft  of  the  loans 
+made  on  them  might  be  paid  oh  in  a  certain 
+limited  time.  T.  hus,  the  nation  confented  to 
+pay^  in  fome  manner  a  double  tax,  in  order  to 
+avoid  the  long  and  uncertain  continuance  of 
+fuch  grievous  impofitions  *,  and  according  to  the 
+firfl;  defign,  many  of  them  would  have  been  very 
+near  the  expiration  of  their  term  at  this  hour. 
+The  wifdom  of  parliament,  indeed,  thought  fit 
+afterwards  to  throw  thefe  taxes,  and  the  method 
+of  difcharging  thefe  public  debts,  into  another 
+form,  which  now  fubfifts.  But  we  cannot  con¬ 
+ceive  that  this  was  done  with  a  view  to  continue 
+our  taxes  and  debts  the  longer.  On  the  con¬ 
+trary,  we  are  fure  it  was  done  in  the  view  of 
+difcharging  both  the  fooner ;  and  it  is  this  very 
+view  which,  we  apprehend,  muft  be  fatally  dil- 
+appointed,  if  the  prefent  method  of  diverting 
+any  part  of  the  Sinking  Fund  from  the  pay- 
+
+ment  of  the  public  debts  be  fuffered  to  con- 
+tinned" 
+
+BECAUSE  we  apprehend,  that  this  method 
+may  create  the  utmoft  uneafinefs  in  the  minds 
+
+4  of 
+
+
+(  75  ) 
+
+“  of  his  Majefty’s  fubjefts ;  and  may  tend,  if  not 
+“  timely  prevented  by  the  wifdom  and  authority 
+“  of  this  houfe,  to  diminifli  their  affedion  for  hi's 
+“  perfon  and  government.  Hitherto,  whilft  they 
+“  have  laboured  under  the  weight  of  taxes,  and 
+“  groaned  under  the  oppreffion  of  excife  laws, 
+“  the  hope  of  feeing  fpeedily  an  end  put  to  both 
+“  has  been  their  foie  confolation.  But  nothing 
+“  can  maintain  this  hope,  except  a  due  application 
+“  of  the  entire  Sinking  Fund  to  the  difeharge  of 
+“  thofe  debts,  for  the  difeharge  of  which  thefe 
+“  taxes  were  given.  If  fome  parts  of  this  fund, 
+“  therefore,  continue  to  be  mortgaged  off,  and 
+“  other  parts  to  be  applied  to  the  current  fervice, 
+“  even  in  the  midfl;  of  profound  peace,  this  hope 
+“  muft  fink,  and  defpair  arife  in  its  Head,  &c. 
+“  &c.” 
+
+Bedford,  Craven,  Gainjhorough,  Wincheljea  and 
+Nottingham,  Gower,  Bridgwater,  Bruce,  Car¬ 
+teret,  Batburjl,  Shaftjhury,  Sunderland,  Coventry, 
+’Thanet,  &c.  &c. 
+
+The  alienation  in  the  year  1734  occafibned  a 
+fecond  proteft,  and  that  in  1735,  a  long  debate ; 
+but  after  this,  the  oppofition  to  alienations  de¬ 
+clined,  till  at  laft  it  became  almoft  extinft  :  And 
+the  like  has  happened  in  fome  other  inftances  of 
+the  greateft  confequence  to  this  kingdom. 
+
+
+ExtraiSs 
+
+
+Extrads  from  a  Pamphlet  publillied  in  1726, 
+and  entitled.  An  EJfay  on  the  public  Debts 
+of  this  K.ingdo7n.  By  Sir  Nathanael 
+Gould,  a  Bank  Diredor,  and  Member 
+of  Parliament.  See  Page*  30,  31,  &c. 
+
+FTER  giving  two  tables  exhibiting  the  pro- 
+grels  of  a  fund  yielding  a  million  per  am, 
+by  which  the  public  debts  then  exifting  would  be 
+paid  off  in  28  years,  75  millions  In  35  years  and 
+4  n^onths,  and  100  millions  in  40  years,  he  goes 
+on  (page  40,)  in  the  following  words. 
+
+“  From  hence  it  appears,  that  the  above  fup- 
+pofed  Sinking  Fund,  in  this  manner  increafing 
+by  the  addition  of  the  intercfl:  of  the  principal 
+films  in  every  year  paid  off,  and  confequcntly 
+by  additions  in  every  year  greater  than  thole 
+made  by  it  in  the  year  before,  will  be  fufficient, 
+not  only  to  difcharge  our  prefent  debts,  but  any 
+probable  addition  in  the  mean  time  to  be  made 
+to  them,  by  farther  loans  on  new-invented 
+funds,  in  a  few  years  after  the  prefent  debts 
+fliall  be  difcharged  *,  and  that  the  time  required 
+for  the  difcharge  of  gur  debts,  increaied  by  any 
+addition  in  this  manner  made,  will  by  no  means 
+be  lengthened  out,  or  the  payment  of  the  whole 
+of  our  debts  by  the  Sinking  Fund  retarded,  in 
+proportion  to  the  addition  to  or  increafe  of  the 
+debt  itfelf ;  the  total  payment  of  our  debts  be¬ 
+coming  by  no  means  defperate,  from  any  Sink- 
+ing  Fund,  however  lefs  than  that  above  fup- 
+poled,  upon  ;jiccounc  of  any  determined  increale 
+of  or  additions  made  to  them. — This  is  lo  true, 
+that  fuppofitions  about  tlie  increale  of  the  pub- 
+lie  debts  might  be  carried  to  the  inmoft  extra- 
+
+
+cc 
+
+
+cc 
+
+
+ec 
+
+
+cc 
+
+
+cc 
+
+
+ci; 
+
+
+cc 
+
+
+i.  c 
+
+
+Cli 
+
+
+vaga  nee, 
+
+
+I, 
+
+
+Cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+-cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+cc 
+
+
+(  77  ) 
+
+vagafice,  and  ftill  appear  to  be  provided  for  by 
+the  above-mentioned  Sinking  Fund. — Nor  will 
+this  at  all  furprize  perfons  who  have  been  ac- 
+cuftomed  to  attend  to  the  iricreafe  of  money 
+put  out  to  compound  intereft,  or  quantities 
+continued  in  geometrical  progreffion  ;  an  en¬ 
+quiry  into  which  will  remove  all  doubts  about 
+the  truth  of  what  I  have  advanced.  It  would, 
+however,  be  true,  that  if  at  any  time,  on  the 
+difcharge  of  any  part  of  the  principal  of  the 
+prefent  debt,  the  intereft  were  not  added  to  and 
+applied  in  the  farther  difcharge  of  the  remaining 
+debt,  but  another  equal  or  greater  principal 
+fum  fhould  be  borrowed  on  the  fame  annuity, 
+the  progrefs  of  the  Sinking  Fund  would  by  fuch 
+meafures,  if  the  fame  fum  were  borrowed,  be 
+ftopped,  and,  if  a  greater,  be  put  backwards. 
+But  as  long  as  thefe  meafures  are  not  taken,  or 
+the  Sinking  Fund  diverted  or  applied  to  any 
+other  purpofe  than  the  difcharge  of  our  debts, 
+the  full  and  effeftual  payment  of  all  our  debts 
+by  this  expedient,  is  by  no  means  to  be  de- 
+fpaired  of,  from  the  increate  of  them  by  new 
+loans  on  farther  duties. - And  that  the  Sink¬ 
+
+ing  Fund  will  from  time  to  time  be  applied  to 
+the  difcharge  of  the  public  debts,  and  not  be 
+diverted  or  applied  to  any  other  purpofe  what¬ 
+ever,  is  what,  I  think,  we  may  promife  ourfelves 
+from  confidering,  that  the  aforelaid  fund  has 
+been  appropriated  to  that  purpofe  by  the  legi- 
+flature,  and  our  public  faith  in  the  fame  manner 
+engaged  to  the  creditors  of  the  government, 
+that  the  furplus  of  the  aforefaid  duties  Ihould 
+applied  to  the  difcharge  oi  the  principal  of  thele 
+debts,  as  the  funds  themfelves  to  the  payment 
+of  the  interejl  or  annuities  contrafted  for.  Which 
+faith  of  the  public  in  this  manner  engaged,  I 
+
+think,  wc  have  all  the  realon  in  the  wor  d  to 
+
+“  believe. 
+
+
+iC 
+
+cc 
+
+cc 
+
+
+<c 
+
+cc 
+
+cc 
+
+C( 
+
+cc 
+
+<c 
+
+ftw 
+
+cc 
+
+cc 
+
+.'cc 
+
+cc 
+
+cc 
+
+cC 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+iC 
+
+cc 
+cc 
+cc 
+cc 
+c; 
+cc 
+
+iC 
+
+cc 
+cc 
+
+cc 
+cc 
+cc 
+cc 
+cc 
+
+
+believe,  will  be  as  inviolably  obferved  in  this 
+as  in  any  other  part  of  this  contraft  with  the 
+proprietors  of  the  public  debts.” 
+
+Page  44.  “  Nor  can  this  provifion  be  well 
+
+underftood,  as  made  by  the  government  for 
+what  appeared  for  public  convenience  only,  and 
+confequentiy  to  be  altered  by  fubfequent  afts, 
+whenever  it  fliall  appear  or  be  pretended  to  be 
+otherwife;  but  mull,  I  think,  be  confidered  as 
+a  contraft  by  the  government  with  the  public 
+creditors,  if  the  occafion  of  the  afls  of  parlia¬ 
+ment  which  eftablilhed  the  Sinking  Fund  be  at- 
+tended  to.  In  which  cafe  it  will  appear,  that 
+the  feveral  provifions  by  thefe  ails  made,  were 
+enacted  and  propofed  to  the  creditors,  as  in- 
+ducernents  to  them  to  accept  of  an  annuity  or 
+intereft  for  their  debts,  by  one  6th  part  lefa 
+than  that  which  till  that  time  they  had  received; 
+to  which  the  moft  obvious  inducement  was,  that 
+what  was  thus  deduefled  from  the  yearly  intereft 
+of  their  debts,  Ihould  be  applied  for  the  better 
+fecuring  and  gradual  difcharge  of  the  principal 
+or  the  faid  debts :  To  which  fecurity,  amono- 
+tne  other  benefits  by  the  fame  ad  of  par]iamcn° 
+propofed  to  them,  they  muft,  I  think,  be  con- 
+ndered  to  have  entitled  themfelves,  by  their 
+fubferiptions  afterwards  made  fubfequent  to,  and 
+in  confideration  of,  fuch  propofals  made  to  them 
+by  the  legiflature.  And  whoever  will  be  at  the 
+trouble  of  turning  over  the  feveral  fubfequent 
+adls  of  parliament,  relating  to  the  public  debts, 
+will  find  this  provifion  for  the  application  of 
+the  Sinking  Fund  frequently  repeated  and  con¬ 
+firmed.  And  in  cafes  where,  by  aft  of  parlia¬ 
+ment,  application  of  monies  in  the  Sinking 
+bund,  to  the  dilcharge  of  debts,  that  were  Jels 
+obvioufiy  or  lefs  generally  known,  to  have  been 
+
+“  witjiin 
+
+
+^ 
+
+
+5K,.i^v 
+
+
+(  79  ) 
+
+within  the  defcription  of  the  debts  intended  by 
+the  provifion  above  recited  ;  fuch  debts  have 
+been,  by  the  recitals,  declared  and  explained 
+to  have  been  debts  incurred  before  the  25th  of 
+December^  1716,  and  provided  for  by  parliament, 
+in  a  manner,  that  has  plainly  intimated  it  to  be 
+underftood  by  the  legiflature,  that  the  above- 
+recited  provifion  was  an  engagement  or  contract 
+of  the  government  with  the  public  creditors, 
+about  the  punctual  obfervation  of  which  from 
+time  to  time,  they  were  entitled  to  have  all  pof- 
+fible  fatisfadion  :  Or  at  lead,  that  the  punftual 
+application  of  the  abovementioned  furplufies  to 
+the  difeharge  of  our  prefent  debts,  was  regarded 
+by  them  as  a  matter  of  the  higheft  confequence 
+to  the  public  welfare.  And  as  long  as  the  pub¬ 
+lic  welfare  fiiall  be  in  the  lead  regarded,  and 
+this  continues  to  be  the  only  expedient  for  remov¬ 
+ing  fuch  heavy  incumbrances  on  our  affairs,  and 
+redeeming  fo  confiderable  a  revenue  to  the  ufe 
+of  the  public  j  I  think  we  may  confidently  ex- 
+peft,  that  no  perfon  whatever,  into  whofe  hands 
+the  adminidration  of  our  affairs  may  at  any  time  - 
+for  the  future  be  committed,  can  ever  be  in¬ 
+duced  to  approve  or  recommend  the  application 
+of  the  produce  of  the  Sinking  Fund,  in  any  p of- 
+fible  exigence  of  our  affairs^  to  any  other  ufes  than 
+thofe  to  which  it  dands  now  appropriated, 
+though  there  were  no  other  confiderations  to 
+enforce  it.  For  let  us  enquire  a  little,  what 
+public  exigencies  can  be  fuppofed  to  happen, 
+that  can  make  it  at  any  time  advifable  to  divert 
+or  apply  the  produce  of  the  Sinking  Fund  to 
+any  other  purpofe,  till  after  the  entire  payment 
+of  our  public  debts.  Let  the  expence  that  the 
+circumdances  of  our  affairs  may  render  at  any 
+time  neceffary,  be  ever  fo  much  more  than  can 
+
+be 
+
+
+*  # 
+
+
+(  So  ) 
+
+be  conveniently  raifed  within  the  year;  it  hiiift,' 
+I  think,  always  appear  more  eligible  in  regard 
+to  the  public  interell,  to  raife  ‘what  fhalF  be 
+farther  wanted,  by  incrcafing  the  public  debts 
+with  faithei  loans  upon  intereft  provided  for 
+by  new  duties,  than  to  iupply  the  fame  fums  in 
+‘‘  any  way  from  the  produce  of  the  Sinking  Fund. 
+
+The  computation  I  have  laft  made,  was  to 
+fhew,  that  the  time  in  which  the  above  fuppofed 
+Sinking  Fund  of  1.000,000/.  will  be  fufficient 
+to  complete  the  difcharge  of  the  public  debts, 
+‘‘  will  by  no  means  increale  equally  to  the  increafe 
+of  the  principal  fum  of  thofe  debts  by  farther 
+loans  on  new  funds.  But  it  may  be  of  farther 
+ufe  to  fhew,  how  much  lefs  the  increafe  of  the 
+public  debts,  by  borrowing  farther  fums  at  in- 
+tereft  provided  for  by  new  funds,  will  retard  the 
+difcharge  of  the  whole  of  the  pulDlic  debts,  than 
+the  fupplying  the  fame  fums  in  any  way  from  the 
+produce  of  the  Sinking  Fund  would  do.  Let  us 
+fuppofe,  for  inftance,  that  the  government  was 
+obliged,  for  25  years  together,  to  increafe  the 
+prefent  debt  by  a  million  borrowed  every  year  at 
+an  intereft  of  4  per  cent,  provided  for  by  farther 
+funds.  The  above-made  computation  will  fhew, 
+that  that  additional  debt  of  25  millions  would 
+be  paid  off  by  a  Sinking  Fund  of  one  million  in 
+‘‘  little  more  than  feven  years,  after  the  difcharge 
+of  the  prefent  50  millions.  But  if  the  fame 
+fum  were  to  be  iupplied  out  of  the  produce  of 
+the  Sinking  Fund,  it  is  obvious,  that  the  pay- 
+ment  of  the  public  debts  muft  ftand  ftill  for  25 
+years,  and  be,  by  more  than  two  thirds  of  that 
+time,  retarded  beyond  the  time  in  which  they 
+would  otherwife  be  difchargcd,  though  increafed 
+as  aforefaid.  And  the  greater  the  ium  is  fup- 
+pofed  to  be,  that  in  thefe  different  ways  is  to 
+
+“  be 
+
+
+(  8i  ) 
+
+**  be  fupplied,  the  greater  will  be  the  proportion 
+in  which  the  payment  of  oiir  debts  will  be  de- 
+layed,  by  fupplying  fuch  expence  from  the 
+Sinking  Fund  rather  than  in  the  other  way^ 
+Or  if  the  fums,  in  thefe  different  ways  fupplied,^ 
+‘‘  ftiould  be  fuppofed  lefs,  the  difference  of  the 
+delay  in  thefe  two  cafes  will  be  indeed  lefs. 
+But,  on  fuppofition  of  the  Imallefl:  fums  to  be 
+thefe  two  different  ways  fupplied,  the  delay 
+‘‘  arifing  to  the  difcharge  of  the  public  debts  by 
+this  mifapplication  of  the  Sinking  Fund,  will  be 
+at  leaft  three  times  as  great  as  that  which  will 
+be  occafioned  by  increafing  the  public  debts  in 
+
+the  other  method. - The  borrowing  money  on 
+
+“  the  income  of  the  Sinking  Fund  in  any  form, 
+if  no  more  were  in  any  one  year  borrowed,  than 
+what  had  been  by  the  Sinking  Fund  the  year 
+before  paid  off ;  and  if  that  money  be  fuppofed 
+to  be  borrowed  at  the  fame  rate  of  intereft,  that 
+“  was  payable  for  the  debt  before  paid  off,  will 
+have  the  fame  effect  in  delaying  the  payment  of 
+the  public  debts,  as  the  mifapplication  of  the  re- 
+venue  of  the  Sinking  Fund  the  year  before 
+would  have  had.  But  if  greater  fums  be  at  any 
+time  borrowed  on  that  fund,  the  payrnent  of 
+“  the  public  debts  will  not  only  be  flopped,  but 
+put  backwards ;  and  that  in  a  manner  that  ob- 
+‘‘  viouQy  leads  not  only  to  delay  the  payment  of 
+the  public  debts,  but  the,  caking  away  entirely 
+“  the  only  fecurity  yet  provided  that  they  fhall  be 
+ever  paid  off.  For  which  reafon,  I  (hall  not 
+‘‘  enter  into  any  computation  of  the  different  de- 
+grees  in  which  different  fteps  in  purfuing  thefe 
+meafures  will  affedt  us,  but  at  once  fuppofe  it 
+IMPOSSIBLE,  that  any  perfons  can  propole  to  bor- 
+‘‘  row  money  (or  much  lefs  to  fucceed  in  it)  on 
+the  credit  of  fchemes,  that  themfelves  dellroy 
+
+M  all 
+
+
+\ 
+
+
+(  82  ) 
+
+all  probability  of  the  repayment  of  it,  whicit' 
+""  filch  meafures  as  thefe  muft  evidently  appear  ta 
+
+do. - 1  cannot,  therefore,  among  the  ordinary 
+
+vicillitiides  of  the  affairs  of  any  nation,  not  even 
+among  any  long  and  expen&ve  wars>  find  out 
+that  exigence  of  our  affairs,  that  can  make  the 
+mifapplication  ot  the  Sinking  Fund  appear  ne- 
+ceffary  or  probable  to  be  put  in  praftice  •,  while 
+it  is  fo  certain  that  the  lands,  eftates,  expence,^ 
+or  commerce  of  Great  Britain^  will  yet  eafily 
+admit  of  farther  duties  fufficient  to  furnifh  new 
+funds  to  aniwer  the  interefl  of  fuch  fums  as  any 
+public  occafions  can  call  for.  Nor  can  I  fear, 
+‘‘  that  Inch  duties  will  not  be  chearfully  voted  and 
+iubmitted  to,  when  they  flaall  appear  neceffary 
+to  prevent  the  mifapplication  of  an  annual  fum, 
+employed  in  fo’ufeful  and  neceffary  a  fervicc  to 
+the  public  as  the  redu6lion  of  our  debts,  while 
+that  appears  to  be  retarded  fo  much  more  by 
+difeontinuing  the  payment  of  thefe  debts,  than 
+by  the  increafe  of  them.” 
+
+Page  65.  In  order  to  preferve  our  liberty 
+and  fafety,  it  requires  our  utmoft  care  to 
+prevent  the  unneceffary  increafe  of  our  debts, 
+and  to  promote,  as  much  as  poflible,  the 
+redudtion  of  them  :  A  matter  of  that  confe- 
+quence  to  this  kingdom,  that,  if  I  fliould  ever 
+fee  it  negledied,  no  confideration  in  nature 
+could  reftrain  me  from  expofing  it.  On  fuch  an 
+occafion  I  Ibould  think. 
+
+Fas  mihi  gratoriim  facrata  refolvere  jura^ 
+
+Fas  cdijfe  virus ^  atqiie  omnia  ferre  fuh  aurasd'" 
+
+I  he  following  words  in  a  defence  of  this  EJfay^ 
+by  the  fame  wriier,  are  particularly  luitable  to 
+niv  own  cafe. 
+
+5 
+
+
+As 
+
+
+(C 
+
+
+Cl 
+
+
+cc 
+
+
+cc 
+
+
+(  83  ) 
+
+As  to  what  I  have  advanced,  that  it  is  more 
+eligible  to  raife  what  money  may  be  farther 
+wanted,  by  increafing  the  public  debts  with  far¬ 
+ther  loans  upon  intereft  provided  for  by  hew 
+duties,  than  to  fupply  the  fame  fums  from  the 
+Sinking  Fund  ;  it  is  a  truth  of  public  confe- 
+quence  to  be  attended  to,  and  what  1  have, 
+therefore,  explained  and  proved  to  be  a  truth  : 
+And  it  muft  outlive  all  the  pleafantries  that 
+have  been  excited  by  it.  Nor  can  I  think,  that 
+there  can  be  any  great  difficulty  in  underftand- 
+
+ing  it.- - *1  have  not  in  any  part  of  my  Elfay, 
+
+recommended  an  addition  to  our  debts,  but 
+upon  an  occafion  when  it  would  be  abfolutely 
+neceffary  to  prevent  the  mifapplication  of  the 
+Sinkino;  Fund.  And  if  the  interefts  of  this 
+kingdom  in  thefe  different  meafures,  upon  any 
+fuch  occafion,  was  not  before  generally  attended 
+to  or  underltood,  I  have  fo  much  the  greater 
+reafon  to  be  fatisfied  in  having  recommended  it 
+to  the  public  notice.” 
+
+Mr.  Smart,  at  the  end  of  his  tables  of  intereft, 
+has  given  the  fame  account  of  the  Sinking  Fund, 
+with  that  contained  in  thefe  extracts.  See  page  32.. 
+Mr.  PosTLETHWAYT  ajfo,  in  his  dictionary,  under 
+che  articles,  credit.^  debts^funds^  &ic.  has  made 
+
+many  of  the  fame  obfervations  *,  and  infifted  parti¬ 
+cularly  on  the  evil  of  alienating  the  Sinking  Fund, 
+in  order  to  avoid  borrowing.  It  has  appeared  far¬ 
+ther,  in  page  28,  29,  that  this  was  tor  fome  years 
+fo  well  known  to  our  governors,  that  they  even 
+praCtifed  upon  it.  They  foon,  indeed,  changed 
+their  conduct,  but  not  in  confequence  of  obtaining 
+new  light. 
+
+It  has  been  lately  urged  to  me,  that  all  taxes  for 
+paying  the  intereft  of  fums  borrowed  to  avoid  alie- 
+natioif,  might  be  brought  to  the  fund,  and  there  im- 
+
+M  2  proved 
+
+
+-r-  -. 
+
+
+(  84  ) 
+
+proved  in  paying  debts  at  compound  intereft,  in  the 
+fame  manner  with  the  intereft  of  any  fums  that  can 
+be  taken  from  the  fund.  This  is  undoubtedly  true-, 
+and  the  proper  inference  from  it  is,  that  were  this 
+done  j  that  is,  were  new  taxes  or  annuities,  equal 
+w  the  intereft  of  the  fums  alienated,  always  brought 
+into  the  fund,  there  would  be  no  harm  in  alienation. 
+But  the  inference  which  has  been  drawn  from 
+hence  is,  that  alienations  can  do  no  harm  when 
+this  is  not  done ;  and,  particularly,  when  made 
+on  purpofe,  as  ours  have  been,  to  avoid  creat¬ 
+ing  new  taxes.  See  page  67.  It  is  extremely 
+irkfome  to  me  to  be  obliged  to  take  notice  of  fuch 
+objeftions.  The  truth  is,  that  this  would  not  be 
+properly  alienation.  It  would  be  only  taking  with 
+one  hand,  and  giving  as  much  with  the  other.  For, 
+in  this  cafe,  if  neceflary  fervices  call  for  money, 
+replacing  the  intereft  of  the  fum  alienated  is,  to  all 
+intents  and  purpofes,  the  fame  with  replacing  the 
+fum  itfelf. 
+
+
+Extraft 
+
+
+(  8s  ) 
+
+
+Extraft  from  the  Supplement  to  a  Treatife, 
+entitled,  Obfervations  on  Reverjionary  Pay¬ 
+ments ,  &CC.  Page  361,  362, 
+
+“  l^R.  Davenant  fays,  that  at  Michaelmas, 
+JL/  year  1685,  it  appeared,  by  a  fur- 
+
+vey  of  the  hearth-books,  that  the  number  of 
+houfes  in  all  England  and  Wales  was 
+1.300,000,  of  which  554,631,  were  houfes  of 
+only  one  chimney.  Dr.  Davenanth  works,  Vol.  II. 
+Page  203. — In  his  ElTay  on  IVays  andMeans^  &c. 
+Vol.  I.  Page  33.  he  gives  a  particular  ac- 
+count  of  the  number  of  houfes  and  hearths  in 
+every  county,  according  to  the  hearth-hooks  of 
+‘‘  Lady-Day,  169O;  and  the  fum  total  then  was 
+
+- •A.t  the  Reftoratipn  it  appeared 
+
+‘‘  by  the  fame  hearth-books,  that  the  number  of 
+houfes  in  the  kingdom  was  1.230,000.  Conti- 
+
+nuation  of  Rapin,  Vol.  I.  Page  53. - In  the 
+
+interval,  therefore,  between  the  Reftoration  and 
+the  Revolution,  the  people  of  England  had  in- 
+creafed  above  300,000  ;  and  of [mailer  tenement Sj 
+Dr.  Davenant  obferves,  there  had  been,  from 
+“  1666  to  1688,  about  70,000  new  foundations 
+‘‘  laid.  Dr.  T)avenanf%  Works,  Vol,  I.  Page  370. 
+
+■  ‘  But  what  a  melancholy  change  has  taken  place 
+
+fince  - In  1759,  the  number  of  houfes  in 
+
+‘‘  England  and  Wales  was  986,482  ;  of  which, 
+not  more  than  330,000  were  houfes  having  lefs 
+than  feven  windows.--^— In  1766,  notwith- 
+{landing  the  increafe  of  buildings  in  London^  the 
+
+number  of  houfes  was  reduced  to  980,692. - - 
+
+“  According  to  thefe  accounts  then,  our  people 
+have,  fince  the  year  1690,  decreafed  near  a 
+
+million 
+
+
+{  86  ) 
+
+
+million  and  a  halt.  And  the  wafle  has  fallen 
+principally  on  the  inhabitants  of  cottages.*’ 
+
+The  particulars  of  the  general  return  in  1759, 
+%vere. 
+
+
+Houfes  inhabited,  in  charge  .  —  679,149 
+
+Houfes  uninhabited,  chargeable  —  24,904 
+
+Cottages  dilcharged  for  poyeiiy  only  (a)  282,429 
+
+
+Total 
+
+Thefe  particulars  were  in  1766, 
+
+Houfes  inhabited,  in  charge  — 
+Houfes  uninhabited,  chargeable  — 
+Cottages  difeharged  for  poverty  only 
+
+Total 
+
+
+986,482 
+
+
+678,915 
+
+25,628 
+
+276,149 
+
+980,692 
+
+
+Dr.  Davenafit^s  account  (^),  mentioned  in  this 
+extraft,  may,  I  believe^  be  depended  upon  j  and  it 
+
+is 
+
+
+{a)  It  is  remarkable  in  thefe  accounts,  that  the  redutlion  in 
+the  number  of  houfes  from  the  year  1759  to  1766,  was  confined 
+entirely  to  the  cottages. 
+
+Dr.  Brakenri DGE  tells  us,  (in  Philofophical  TranfatTtions, 
+Vol.  49,  p.  270,  aiivi  p.  887.)  that,  in  1 710,  the  number  of  houfes 
+in  England  and  Wales,  exclufive  of  cottages,  (and  probably 
+alfo  of  chargeable  houles  uninhabited)  was  found,  by  a  par¬ 
+ticular  furvey  in  order  to  an  afleffment,  to  be  729,048.  — 
+cannot  fay  what  regard  is  due  to  this  account ;  but  could  it  be 
+relied  on,  it  would  furnifii  a  faff  of  fome  confequence  on  the 
+prefent  fubjeft. — Dr.  Brakenrxdge  has  fuppolcd  the  number 
+of  cottages  at  this  time  to  be  no  more  than  182,262.  But  as  they 
+were  276,149,  in  1766;  and  282,429,  in  1759 ;  and  554,631, 
+in  1685  ;  they  may,  with  much  more  reafon,  be  reckoned 
+to  have  been  in  1710,  at  leaft  400,000;  and  this  will  make  the 
+ivhoje  number  of  ho,ufcs  then  in  the  kingdom  as  much  lefs 
+than  they  had  been,  and  as  much  more  than  they  are  now,  as 
+there  would  be  reafon  to  cxpefl  on  the  fuppofition  of  fuch  a 
+depopulation  as  1  have  mentioned. 
+
+{I?)  Some  have  fufpefled,  that  this  account  is  no  more  than 
+the  reluit  of  a  calculaticsr,  made  by  Dr.  DuvenaJrt  from  the 
+
+number 
+
+
+(  ^7  ) 
+
+is  probable,  that  the  other  accounts  arc  but  too 
+exa£t.  If  there  is  any  room  for  doubt,  it  may  be 
+removed,  with  little  expence  or  trouble,  by  an  order 
+to  the  collectors  of  the  houfe  and  window  duties 
+to  make  more  careful  returns.  This  would  help 
+to  decide  a  point  of  great  confequence  ;  and  the 
+legiflature  will,  I  hope,  feme  time  or  other  think  it 
+an  objeft  worthy  of  attention. 
+
+The  account  of  Norfolk^  in  the  following  paper, 
+contains  a  farther  mortifying  proof,  that  depopula¬ 
+tion  has  for  many  years  been  going  on  among  us. 
+
+I  have  received  it  from  a  gentleman  of  diftinguifhed 
+charafter  and  abilities',  who  is  well  acquainted  with 
+tht  oi  Norfolk^  and  the  adjoining  counties; 
+and  who  has  much  obliged  and  honoured  me,  by 
+giving  me  leave  to  publifh  it. 
+
+T  For  many  years  believed  the  prevailing  opi- 
+L  nion  to  be  true  ;  namely,  that  the  number  of 
+the  inhabitants  of  this  ifland  had  been  generally 
+at  lead,  if  not  uniformly,  increafing,  in  ail  parts 
+of  it  from  the  conqueft. 
+
+‘‘  But  farther  obfervation  has  occafioned  me  to 
+think,  that  I  have  rather  taken  the  fa6l  for 
+granted,  than  built  it  on  any  evidence ;  except 
+
+number  of  hearths  Firll,  Had  this  been  true,  he  would 
+
+•have  given  fome  intimation  of  it. — Secondly,  Jn  this  account 
+the  number  of  heufes  and  hearths  in  every  county  is  fpeciiied, 
+and  the  houfes  which  had  only  one  hearth  dilHnguilhed  from 
+the  reft  ;  and  thefe  are  particulars  which  no  one  could  think 
+of  determining,  by  any  calculation  from  the  number  of  hearths 
+only.  , 
+
+In  Mr.  Houghton’s  Hufbandry,  publifhed  in  we^ekly  pa¬ 
+pers  in  1693,  the  number  of  houfes  then  in  the  kingdom,  is 
+made  to  be  1.175,951.  But  it  is  not  faid  how  this  account 
+was  obtained.  It  is  given  in  a  work  of  little  credit,  and  among 
+other  accounts  that  are  too  vague  and  conjediiura]  ;  and,  there* 
+fore,  in  my  opinion,  is  by  no  means  of  equal  authority  to 
+Dr.  Daisenant's  more  particular  account. 
+
+“  the 
+
+
+(  88  ) 
+
+“  the  proof  furnifhed  by  the  palpable  increafe  of 
+“  the  inhabitants  of  many  of  our  towns. 
+
+“  And  when  I  have  confidered,  that  all  the 
+“  towns  that  can  be  called  great  towns,  do  not, 
+“  probably,  together  contain  one  fourth  part  of  the 
+“  people  of  the  ifland,  I  have  feen  the  neceffity  of 
+“  adverting  more  than  I  had  before  done,  to  the 
+“  ftate  of  population  in  the  market-towns  and  vil- 
+“  lages,  in  former  times. 
+
+“  It  has  happened  to  me  in  the  courfe  of  many 
+“  years  obfervation,  to  have  feen  reafon,  in  many 
+“  cafes,  to  conclude,  and  in  many  others  to  con- 
+“  jefture,  upon  various  foundations,  that  in  the 
+“  counties  of  Norfolk^  Suffolk,  and  Effex,  (thofe 
+“  I  am  beft  acquainted  with)  the  market-towns  and 
+
+villages  have,  in  general,  fewer  inhabitants  than 
+“  they  refpedively  had  at  {a)  fome  former  period. 
+
+“  In  the  county  of  Norfolk  I  know  but  one 
+“  town  or  village,  great  of  fmall,  that  is  evidently 
+“  now  better  peopled,  than  at  any  time  heretofore  •, 
+“  it  is  the  little  fea-port  of  Wells.  I  do  not  fay 
+“  there  is  no  other,  it  is  probable  there  may  be 
+“  more  than  one  befides ;  but  I  am  not  acquainted 
+“  with  any  fuch.,  I  am  willing,  particularly,  to 
+“  fuppofe  Norwich  may  now  too  contain  a  more 
+“  numerous  body  of  citizens,  than  it  did  in  former 
+“  times-,  yet,  not  to  mention  that  it  is  univerfaily 
+“  believed  to  have  fuffered  the  lofs  of  fome  thou- 
+“  fands  lately,  if  we  give  any  degree  of  credit 
+“  (even  with  large  allowances  for  exaggeration)  to 
+“  general  hiftory,  and  the  city  muniments,  that  city 
+“  muft  once  have  been  abundantly  fuller  of  people : 
+
+[a)  The  writer  of  thefe  obfervations  carries  his  views  as  far 
+back  as  the  Reformatio7i ;  and  it  was  about  this  period  he  thinks 
+the  depopulation  he  has  deferibed  chiefly  begun.  Nor  is  he 
+convinced  that  it  has  been  nearly  fo  great  fince  the  Revolution, 
+as  the  decreafe  in  the  number  of  houfes,  according  to  the  re¬ 
+turns  in  1759  and  1766,  feems  to  imply, 
+
+
+{  89  ) 
+
+
+as  it  is  related  to  have  loft  more  than  50,000 
+people  in  one  year  by  the  plagUe  (a), 
+
+l.yfni  has  the  appearance  of  a  town  formerly 
+more  flourifhing  ^  and  Thetford  hardly  preferves 
+any  appearance  at  all.  But  palTing  by  thefe 
+towns,  there  are  more  than  600  county  pariflics 
+in  Norfolk,  It  is  well  knowil,  and  admitted, 
+churches  were  in  a  degree,  in  popifli  tidies,  the 
+works  of  oftentation  father  than  necefflty  ;  cer- 
+tainly  a  church  was  often  built,  though  fome 
+neighbouring  church  might  have  held  the  pa- 
+rifhiohbrs  of  both ;  But  it  is  incredible  that  a 
+fpacious  buildihg,  fometimes  with  three  ifles^ 
+ihould  have  been  built  to  hbld  a  Angle  family^ 
+or  even  2  of  3  ;  rnore  incredible,  that  many  of 
+thefcj  foon  aftet  the  Reformation,  fhould  have 
+‘‘  been  fufhiftied  with  feats  fufficient  for  a  hun- 
+
+
+dred  people,  often  rhbrb  ;  Or,  in  Aioft,  that  any 
+parifh  Aiould  have  been  inhabited  by  one,  two, 
+or  even  ten  families  ohly.  Yet  we  have  twenty 
+or  thirty  pariAies,  cohfifting  now  of  one  family, 
+arid  for  oUght  1  kno'vV’,  an  huridfed  of  lefs  than 
+ten. 
+
+“  But,  without  feftirig  Upon  probability,  riiany  of 
+
+
+Sc 
+
+
+cc 
+
+
+cc 
+
+u 
+
+
+cc 
+
+
+&c 
+
+
+thofe  pariA:ies,  riow  almoft  depopulated,  appear, 
+by  inconteftable  evidence,  to  have  had,  one  or 
+two  centuries  ago,  fome  two  Or  thfee  hundred 
+communicants,  fOme  two  Or  three  hundred 
+houfes,  and  moft  of  them  twenty,  thirty^  or 
+fifty  houfes  •  theft  hoUfts  are,  many  of  them,  ftlll 
+to  be  ften  in  ruins,  and  the  feft  appear  in  maps,^ 
+ancient  deeds,  >&c.  which  are  confirmed  by  old 
+vVells  arid  othef  vcftigia. 
+
+{a)  The  annual  medium  of  burials  at  Nohnjskh  for  teft 
+years,  from  1739  to  1749^  was  —  ,  —  1220 
+
+from  1749  to  1759  — .  — 1.  1241 
+
+from  1759  to  1769  — L  J'54 
+
+N  ti? 
+
+
+(  90  ) 
+
+In  many  of  the  parifn^G  of  Norfolk^  there  hare 
+been  heretofore  more  manor-houfes,  than  there 
+are  now  dwellings  of  all  forts ;  in  the  moil:  popu- 
+Ions  of  them,  more  copyhold -houfes,  exclufive 
+‘‘  of  thofe  of  freehold  tenure:  thele  rafts  appear 
+by  court  rolls. 
+
+In  mofi  ot  them,  a  lefs  obvious,  yet  not  lefs 
+convincing  proof  of  former  population,  arifcs 
+from  the  many  hundreds^  fometimes  thoufands 
+of  proper  names,  dhtingihdiing  fields,  inclo- 
+fures,  roads,  remarkable  trees,  gate-ways,  foot- 
+paths,  that  have  tormerly  been  knov/n  and  pre- 
+lerved,  yet  nov/ almoft  univerfally  forgot  *,  nay,, 
+the  exifience  of  many  of  thefe  roads  and  foot- 
+paths,  to  a  careful  obferver,  frequently  proves 
+the  former  great  population,  as  in  the  prefent 
+condition  of  the  place  they  are  altogether  need- 
+lefs. 
+
+If  all  thefe  obfervations  are  applicable,  more 
+or  lefs,  to  the  inland  part’  of  the  county,  they 
+are  much  more  fo  to  the  fea  coaft;  the  villages 
+ficnated  upon  v/hich  and  within  four  or  five 
+miles  of  it,  efpecially  thofe  wliich  feem  for- 
+merly  to  have  been  rather  fmall  towns,  are  all 
+‘‘  fo  many  feenes  of  defolation. 
+
+1  am  aware  it  may  be  faid,  that  in  cafe  towns 
+have  decayed  in  one  place,  they  have  improved 
+in  another  ;  if  fmall  farm-houfes  and  cottages 
+have  been  fuffered  to  decay,  many  fair  and  large 
+“  farm-houfes  have  been  erefted  in  their  room  i 
+‘‘  that  upon  the  fea-coaft,  V/ells  has  run  away  with 
+the  trade  of  nine  or  ten  fmall  towns,  and  that  it 
+exports  five  times  as  much  corn  as  all  thofe  now 
+fmaller  towns  did  an  hundred  years  ago  ;  that 
+hufbandry  is  ■  greatly  improved  all  over  the 
+county,  and  that  though  there  is  more  wheat 
+confumed  in  it  than  in  any  former  time,  it  yet 
+exports  an  amazing  quantity  every  year. 
+
+AH' 
+
+
+(  91  ) 
+
+All  this  is  true,  and  yet  docs  not  any  way 
+V  diminiOa  the  force  of  my  leafons  tor  believing 
+the  county  depopulated. 
+
+“  Many  more  acres  of  land  are  brought  under 
+tillage  in  the  weftern  part  of  the  county,  and 
+the  art  of  hufbandry  is  much  improved  in  every 
+part  of  it ;  the  quantity  of  grain  produced  from 
+an  acre,  is  increafed  ;  and  though  tlie  ufe  of 
+wheat  is  much  more  general  among  the  poor, 
+yet  their  number  being  diminifned,  as  well  as 
+the  quantity  grown  increafed,  there  refts  a  great 
+deal  for  exportation  to  London  and  to  foreign 
+countries. 
+
+Heretofore  an  hundred  fmall  farms  produced 
+little  more  than  enough  to  keep  the  farmer,  his 
+family,  and  fervants ;  the  refidue  fupplied  the 
+“  neighbouring  market-towns;  vi  very  fmall  part 
+“  of  the  produce  of  agriculture  found  its  way  out 
+of  the  county  :  except  lambs  and  wool,  the  ex- 
+portation  was  little  but  wax,  honey,  and  faffron. 
+Money  was,  therefore,  colleded  to  pay  the  taxes 
+with  difficulty. 
+
+“  It  is  a  fade  and  vulgar  notion,  that  fmall 
+farms  tend  to  make  provifions  cheap  ;  they 
+bring  little  to  market ;  whereas  the  great  farms 
+confume  very  little  in  proportion  to  what  they 
+bring  to  market ;  great  towns  can  only  be  fup- 
+.plied  with  the  quantity  of  wheat-flour  now  con- 
+fumed,  from  large  farms.  The  charge  of  corn- 
+bination  is  abfurd,  and,  for  the  moll  parr,  is 
+not  made  by  thofe  who  are  fools  enough  to  be- 
+lieve  it  poffible;  but  by  thofe  who  happen  to  be 
+intercfled  for  the  prelent  to  keep  down  the  price 
+of  corn. 
+
+But  though  the  great  farms,  far  from  advanc- 
+ino*  the  price  of  provifions,  (except  in  the  articles 
+of^poulcry,  &c.)  tend  to  lower  them,  they  arc 
+not  in  all  refpeas  beneficial  to  a  country.  Wells 
+
+jvj  2  exports 
+
+
+(  92  ) 
+
+exports  five  times  as  much  corn,  as  all  the  fmall 
+“  port-towns  now  in  ruins,  but  it  does  not  bree^ 
+“  half  the  children,  perhaps  notone  tenth.  Again, 
+“  within  land,  five  Imall  farm-houfes,  and  twenty 
+‘‘  cottages,  lie  in  ruins  ;  one  handfome  farm-houfe 
+“  is  built  in  their  room,  and  undoubtedly  makes; 
+a  better  figure,  yet  often  contains  but  one  breed- 
+ing  woman,  and  fometimes  not  one. 
+
+“  This  brings  me  to  what  I  fuppole  the  caufe 
+“  of  the  depopulation  I  have  obferved. 
+
+“  Mankind  feldom  grow  thin  in  any  country, 
+“  through  the  defect  of  the  natural  .powers  of  pro- 
+“  creation-,  thefe  powers,  almofl:  all  over  the  world, 
+“  fiir  out-run  the  bufinels  of  keeping  up  the  ftock, 
+“  and  are  even  capable,  when  not  obltriifted,  of 
+‘‘  making  a  very  rapid  increafe  of  the  fpecies. 
+
+“  Neither  is  this  ftock  apt  to  diminilh  by  pef- 
+“  tilence,  fword,  or  famine,  while  the  powers  of 
+“  propagation  have  their  full  eftedt  (by  which  I 
+“  mean,  the  breeding  up  as  well  as  producing  the 
+“  children)  ;  they  prefently  ftop  the  gaps  made  by 
+“  the  fevereft  devaftations  ;  nay,  providence  has 
+“  fo  contrived  it,  that  moft  of  thefe  aftlidions  havp 
+“  a  natural  tendency  to  encourage  the  propagation 
+“  neceffary  to  cure  their  effedt.  But  the  manners 
+“  and  political  circumftances  of  a  people,  as  on 
+“  one  hand  they  are  capable  of  giving  the  .moft 
+‘‘  powerful  aids  fo  on  the  other,  they  may  dry 
+up,  more  or  lefs,  the  very  fources  of  human 
+“  life. 
+
+‘‘  In  the  moft  refined  ftate  of  civilization,  few 
+‘‘  children  are  produced  and  brought  up  by  the 
+higheft  and  loweft  clafles  of  mankind.  The"  leafi 
+“  attention  to  lubjedfs  of  this  kind,  convinces 
+S'  every  obferver  of  the  truth  of  this  propofition. 
+In  proportion,  therefore,  as  luxury  incrcafes, 
+and  civilization  grows  greater,  the  vis  prepagandi 
+(Jif  I  rriay  fo  call  it)  decreafes  ;  and  if  with  this 
+
+
+{  93  ) 
+
+increafe  of  civilization,  the  individuals  of  thefe 
+clafies  increafe  in  number,  the  mifehief  is  fo 
+much  greater. 
+
+‘‘  Heretofore,  a  Hundred  in  Norfolk  might  pro- 
+‘‘  bably  be  inhabited  by  twenty  country  gentle- 
+men,  who  came  feldom  to  London^  twenty  to  thirty 
+clergymen,  two  hundred  yeomen,  two  hundred 
+fmall  farmers  of  fome  fubftance,  a  thoufand  la- 
+‘‘  bouring  men,  of  whom  half  of  them  owned 
+their  own  cottages,  befides  that  the  greater 
+part  of  the  remainder  were  in  hopes  of,  fome 
+time  or  other,  becoming  the  owners  of  what  it 
+was  common  to  fee  labouring  men  owners  of, 
+by  induftry  and  frugality  ;  and  befidcs  thefe, 
+there  might  be  from  fifty  to  an  hundred  tradef- 
+men  of  various  forts,  fmiths,  wheelwrights,  lit- 
+tie  fiiop-keepers,  &c.  moft;  of  whom  had  fome 
+fort  of  property.  Except  that  thefe  laft  are  not 
+fo  often  the  owners  of  their  own  houfes,  perhaps 
+in‘  other  refpeds  their  property  may  be  the 
+fame.  J3ut  for  the  reft  : 
+
+The  gentlemen  are  reduced  to  three  or  four 
+in  a  hundred^  (often  to  none)  of  whom  the 
+greater  part  refort  to  London  occafionally,  and 
+there  acqtiire  a  difpofition  for  expence  and  ce- 
+libacyr  The  clergy  are  much  lefs  numerous, 
+two,  three,  four,  and  even  five  parifties  being 
+fometimes  confolidated  and  united.  Of  the  four 
+hundred  yeomen  and  fmall  farmers,  fcarce  fifty 
+are  left,  and  moft  of  them  diftrefied,  unable  to, 
+live  at  the  high  price  they  pay  for  what  thev 
+buy,  and  the  comparative  low  prices  they  feh 
+at.  So  that  a  great  part  of  this  clafs  are  in  a 
+ftate  of  dependency,  and  frequently  given  up 
+to  drunkennefs.  The  great  farmers  too  often 
+copy  the  vices  of  the  gentry.  And  of  the 
+thoufand  labouring  men,  five  hundred  are  ex- 
+tind  *,  and  of  the  remainder,  not  fifty  have  any 
+
+prOr 
+
+
+Cc 
+
+¥ 
+
+«  C 
+
+cc 
+
+cc. 
+
+Ci. 
+
+cc 
+
+cc 
+
+<  c 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+cc 
+
+iC 
+C  C 
+
+c  c 
+
+•  c 
+<  c 
+cc 
+cc 
+cc 
+
+/ 
+
+CC 
+
+cc 
+
+cc 
+
+CC 
+
+cc 
+
+
+(  94  ) 
+
+property  •.  and  of  the  otliers,  not  ten  have  in- 
+diiilry  and  frugality  enough  to  encourage  them 
+to  hc^pe  for  property  ;  befides  that  iancfed  pro¬ 
+perty  has  got  into  fo  few  hands,  that  it  is  hardly 
+to  be  hoped  for,  if  they  had  a  dilpofiticn  to 
+aim  fit  It,  IVIoif  ol  theie  latter  are,  therefore, 
+in  a  habit  of  living  only  from  hand  to  mouth  ; 
+and  the  few  that  ftiil  remain  pofleired  of  pro¬ 
+perty,  are  fo  tainted  by  their  example,  that 
+mod  of  them  only  fpend  at  the  alehoufe  what 
+they  would  otherwife  pay  for  rent :  Whereas 
+formerly  the  defire  of  preferving  in  fome,  and  o^ 
+acquiring  in  others,  that  property  which  was 
+common  among  all  the  inhabitants  of  the  county, 
+induced  habits  of  indudry  and  frugality,  the 
+mod  favourable  to  marriage,  the  breeding  up 
+children,  and  fetting  them  forward  in  the  world 
+with  the  like  difpofitions. 
+
+“  It  is  true,  a  great  part  of  the  poor  wretches 
+that  are  now  called  labouring  men,  do  marry  ; 
+their  children  are  generally  numerous ;  but  po-  ' 
+verty  and  vice  carries  mod  of  them  off;  the  ra¬ 
+ther,  becaufe,  though  the  county  affords  fubfid- 
+encc,  it  does  not  adord  condant  employment  for 
+them  ;  confequently,  they  cannot  purchafe  the 
+fubfirrence  neccffary  for  themfcdves  and  fami¬ 
+lies,  there  not  exifting  now  that  mode  of  life, 
+in  which  many  thoufands  did  little  towards  the 
+benefit  of  the  community,  but  to  fupport  them- 
+felves,  and  breed  children.  Occafional  fupplies  of 
+Sccicb  and  others,  give  their  aid,  when  it  is  oc- 
+cafionally  wanted,  in  harvcd;  and  the  only  con¬ 
+dant  employment  (weaving)  failing  by  degrees, 
+in  a  fiiort  time  there  will  probably  be  but  few 
+lei  t,  befides  thofc  neceffary  to  till  the  ground  in 
+the  expeditious  evay  it  is  now  tilled. 
+
+“  After  all,  perhaps  their  ancedors  were  lefs  in- 
+dudrious  tlian  themielves,  yet  they  were  more 
+
+“  frugal. 
+
+
+(  95  ) 
+
+y  ♦ 
+
+frugal,  and  lefs  licentious  and  debauched  ;  they: 
+were,  therefore,  able  with  the  employment  they 
+had,  however  little,  to  bring  up  their  families, 
+aided  as  they  were  by  the  low  price  of  many  of 
+the  neceffaries  of  life*,  and  as  they  fold  but  little, 
+
+“  the  price  of  the  reft  was  of  little  importance  to 
+“  them. 
+
+How  far  this  ftate  of  things  in  one  county, 
+may  be  fimilar  to  that  in  others,  I  will  not  take  * 
+on  myfelf  to  decide.  I  know  fome  counties  are 
+improved  both  in  induftry  and  numibers  *,  but 
+thus  much  I  will  venture  ^  I  know  it  applies  to 
+great  parts  of  Suffolk  and  Effe>:^  and  to  fome 
+parts  of  the  w^ft  of  the  kingdom  ;  and  Norfolk 
+in  its  prefent  ftate,  is  certainly  more  populous 
+than  moft  paj'ts  of  the  kingdom.  For  this  pur- 
+pofe  it  is  fufficient  to  appeal  to  the  militia  acls, 
+and  the  lifts  in  each  county,  from  which  thefe 
+adls  have  been  executed.” 
+
+The  following  obfervations,  written  by  the  fame 
+able  hand,  are,  in  my  opinion,  particularly  judi¬ 
+cious. 
+
+It  fecms  a  true  propofition,  though  a  morti- 
+‘‘  fying  one,  that  a  long  and  vigorous  exertion  of 
+commercial  and  military  powers,  however  they 
+‘‘  may  contribute  to  the  glory  of  a  nation,  has  a 
+tendency  to  wear  out  its  people.  There  is  a 
+certain  degree  of  reft  neceffary  to  bodies  politic, 
+as  well  as  natural.  Long  foreign  wars,  an  ex- 
+penfive  domeftic  government,  high  taxes  in 
+confequence  of  both,  luxurious  manners,  and 
+oeneral  commerce,  have  concurred  to  diminilh 
+the  number  of  our  people,  by  making  it  difficult 
+for  any  man  to  live  without  induftry ;  and  almoft 
+impoffible  for  a  man  without  property  to  fubfift.a 
+
+“  large  family  at  all. - -Formerly  a  great  part  of 
+
+the  inhabitants  of  the  kingdom  had  no  occafion 
+
+
+(  9^  ) 
+
+
+“  to  buy  much  of  the  neceflaries  of  life;  Lctndl 
+“  was  in  a  greater  number  of  hands.  Its  produce 
+“  fupported  many  thoulands  of  families  without 
+“  being  expofed  to  fale.  Many  thoufands  fub- 
+“  fifted  on  the  wafte  of  great  families,  who  refaded 
+“  conftantly  in  the  country  ;  before  the  Reform¬ 
+ation,  on  that  or  monafteries.  Any  man  miehc 
+“■  live  in  a  great  meafure  idly  without  vice,  cither 
+“  on  his  own  elfate,  or  that  of  another.  A  Imall 
+“  part  of  ail  country  produce 'being  brought  to 
+“  market,  in  comparifon  of  what  is  now  brou<^hr, 
+“  a  large  family  in  a  country  village  might°  be 
+
+“  fupported  with  little  difficulty. - d.Buc  now  al- 
+
+“  moft  every  article  of  fubfiftence  is  brought  to 
+“  marker.  Few  of  the  lower  people  hav'e  pro- 
+“  petty.  They  muft  buy  what  they  want  or  deal 
+“  k,-  for  little  is  given  away.  Even  a  fingle  man 
+“  muft  work,  and  the  public  avails  itfclf  of  his  la- 
+“  hour,  which  it  could  not  do  in  the  for.mer  ftata 
+“  of  things,  againft  his  inclinations  ;  for  he  could 
+“  fubfift  with  little  or  no  labour,  if  he  preferred 
+
+the  fo  doing. - If  any  thing  could  compenfate 
+
+“  for  the  lofs  of  inhabitants,  in  other  refpedls 
+“  the  lituation  of  the  community  is  certainly 
+“  mended  for  it  is  by  the  general  labour  of  all 
+“  that  taxes  are  raifed,  and  the  fplendor  and  de- 
+fence  of  the  ftate,  as  well  as  the  eafe  of  men  of 
+“  property  fupported.  We  muft  nor,  therefore, 
+“  repine  at  the  mifchief  that  is  infeparable  from 
+“  the  benefit,  unlefs  we  are  willing  to  part  with 
+“  the  benefit.  The  political  as  well  as  phyfical 
+“  world,  is  compofed  of  an  intimate  mixture  of 
+“  good  and  evil,  which  wifdom  can  feldom  fepa- 
+“  rate,  though  it  may  often  chufe  between  the 
+“  mixtures,  always  fubmitting  to  the  evil  that  is 
+“  not  to  be  divided  from  the  good  it  attends,- 
+“  though  perhaps  it  may  be  mitigated.  — Labour 
+
+
+will 
+
+
+1 
+
+
+(  97  ) 
+
+will  never  be  tiniverlal  but  by  tiniverfal  compul- 
+fion  ;  but  the  unlverfal  compulfion  that  reaches 
+“  the  Angle  man,  will  prevent  any  man  from  fub- 
+“  filling  a  large  family  :  becaufe  it  can  only  be  the 
+‘‘  eflfeft  of  a  high  price  of  provifions  {a)  •,  and  is, 
+therefore,  incompatible  with  the  increafe  of  the 
+Ipecies*” 
+
+(a)  I  do  not  take  it,  that  provifions  are  properly  to  be  faid 
+to  be  fo  high  as  when  the  kingdom  was  more  populous ;  but 
+**  it  mull  be  remembered,  that  towns,'  which  were  then  only 
+**  afFefted  by  the  price  of  provifions^  contained  a  much  fmaller 
+proportion  of  the  inhabitants  of  the  kingdom  than  they  now 
+«  do;  and  that  in  the, country  a  great  part  of  the  people 
+bought  little,  while  the  prices  of  manufadlures  and  profits 
+of  trade  (the  produce  of  towns)  wbe  much  higher  thais 
+now.’* 
+
+
+FINIS. 
+
+
+y 
+
+
+D 
+
+
+Publijhed  by  the  fame  Author, 
+
+
+|BSERVATIONS  on  Reversionary 
+_  Payments  j  on  Schemes  for  providing 
+Annuities  for  Widows,  and  Perfons  in  Old  Age ; 
+on  the  Method  of  calculating  the  Values  of  Adu- 
+rances  on  Lives  ;  and  on  the  National,  Debt, 
+To  which  are  added,  Four  Essays  on  dirferent 
+Subjeds  in  the  Dodrine  of  Life-Annuities  and 
+Political  Arithmetick.  Alfo,  an  Appendix, 
+containing  a  complete  Set  of  Tables;  particularly 
+four  New  Tables,  fliewing  the  Probabilities  of 
+Life  in  London,  Norwich,  and  Northampton; 
+and  the  Values  of  two  joint  Lives.  * 
+
+The  Second  Edition,  with  a  Supplement, 
+containing  (befides  feveral  New  Tables)  additio¬ 
+nal  Obfervations  on  the  Probabilities  of  Human 
+Life  in  different  Situations ;  on  the  London  So¬ 
+cieties  for  the  Benefit  of  Widows  and  of  Old  Age  j 
+
+and  on  the  prefent  State  of  Population  in  this 
+Kingdom. 
+
+n.  A  Review  of  the  principal  Queftions  and 
+Difficulties  in  Morals.  Particularly,  thofe  re¬ 
+lating  to  the  Original  of  our  Ideas  of  Virtue,  its 
+Nature,  Foundation,  Reference  to  the  Deity,  Ob¬ 
+ligation,  Subjed-matter,  and  Sandions.  The  Se¬ 
+cond  Edition  correded. 
+
+
+I.  On  Pro- 
+III.  On  the 
+
+
+in.  Four  Dissertations.  — 
+
+yiDENCE. - II.  On  Prayer. — 
+
+Reafons  for  e.xpeding  that  virtuous  Men  ffiall  meet 
+
+alter  Death  in  a  State  of  Happinefs. - IV.  On 
+
+the  Importance  of  Chriftianity,  the  Nature  of  Hi- 
+
+itoncal  Evidence,  and  Miracles.  The  Third 
+Edition. 
+
+
+Printed  for  T.  Cad  ell,  in  the  Strand. 
+
+
+0 
+
+
+
+--- END VERBATIM ---
