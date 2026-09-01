@@ -39,6 +39,9 @@
     "202609010302": "schmidt-niklas-luhmanns-card-index--202609010302",
     "202609010303": "schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303",
     "202609010304": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304",
+    "202609010406": "franklin-last-will-and-testament-with-codicil--202609010406",
+    "202609010407": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407",
+    "202609010408": "compounding-is-an-operation-someone-must-keep-performing--202609010408",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -62,7 +65,7 @@
       "updated": "2026-08-31"
     }
   ],
-  "note_count": 44,
+  "note_count": 47,
   "notes": [
     {
       "id": "202609010113",
@@ -310,6 +313,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
     },
     {
+      "id": "202609010408",
+      "key": "compounding-is-an-operation-someone-must-keep-performing--202609010408",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
+        },
+        {
+          "relation": "supports",
+          "target_id": "compounding-favors-horizons-longer-than-one-life--202609010205"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-last-will-and-testament-with-codicil--202609010406"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "reinvested-returns-compound--202701010011"
+        }
+      ],
+      "path": "permanent/compounding-is-an-operation-someone-must-keep-performing--202609010408.md",
+      "slug": "compounding-is-an-operation-someone-must-keep-performing",
+      "tags": [],
+      "title": "Compounding is an operation someone must keep performing",
+      "type": "permanent",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-is-an-operation-someone-must-keep-performing--202609010408.md"
+    },
+    {
       "id": "202608311940",
       "key": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
       "links": [
@@ -329,6 +365,43 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
+    },
+    {
+      "id": "202609010407",
+      "key": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "compounding-favors-horizons-longer-than-one-life--202609010205"
+        },
+        {
+          "relation": "source",
+          "target_id": "franklin-last-will-and-testament-with-codicil--202609010406"
+        },
+        {
+          "relation": "supports",
+          "target_id": "reinvested-returns-compound--202701010011"
+        }
+      ],
+      "path": "literature/franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407.md",
+      "slug": "franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries",
+      "tags": [],
+      "title": "Franklin directs two cities to compound a bequest for two centuries",
+      "type": "literature",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/franklin-directs-two-cities-to-compound-a-bequest-for-two-centuries--202609010407.md"
+    },
+    {
+      "id": "202609010406",
+      "key": "franklin-last-will-and-testament-with-codicil--202609010406",
+      "links": [],
+      "path": "reference/franklin-last-will-and-testament-with-codicil--202609010406.md",
+      "slug": "franklin-last-will-and-testament-with-codicil",
+      "tags": [],
+      "title": "Franklin, Last Will and Testament with Codicil (Smyth ed.)",
+      "type": "reference",
+      "updated": "2026-09-01",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/franklin-last-will-and-testament-with-codicil--202609010406.md"
     },
     {
       "id": "202608311927",

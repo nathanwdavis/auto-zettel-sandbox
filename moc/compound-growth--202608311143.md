@@ -21,5 +21,6 @@ updated: '2026-09-01'
 - [[time-horizon-dominates-rate--202701010013]]
 - [[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
 - [[compounding-favors-horizons-longer-than-one-life--202609010205]]
+- [[compounding-is-an-operation-someone-must-keep-performing--202609010408]]
 
 See also: [[zettelkasten-method--202608301300]]
