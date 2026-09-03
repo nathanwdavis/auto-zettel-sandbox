@@ -442,6 +442,26 @@ naming arXiv), never for `type: report`.
 Both are `zettel-bootstrap` skill-repo issues and out of scope for a
 content-repo cycle to fix itself.
 
+**2026-09-03 maintenance sweep — defect (B) reproduced live and cleanly
+isolated; defect (A) did NOT fire.** The freshness sweep ran
+`verify_refs.py --repo . --no-render` live (no `--offline`, no `--mailto`).
+Before letting it write, every identifier lookup was run read-only through
+`verify_refs._identifier_lookup` itself, so the registries' actual answers
+were known first. Outcome: the write pass changed exactly ONE file in the
+whole `reference/` tree — polkinghorne 202609022347, where `number: '1'` was
+again read as an arXiv id, queried, missed, and stamped
+`identifier_check: failed` with a fresh date. Restored to the pre-run
+verification block by hand, as last time. Every other note was untouched,
+which pins the two defects apart: (A) is contingent on a network failure and
+did not occur today because Crossref and Open Library were both up (all ten
+identifier-bearing notes with live registry provenance kept
+`raw-capture+crossref` / `raw-capture+openlibrary` and `confirmed`), whereas
+(B) is unconditional and fires on any healthy network. So (B) is the one that
+will corrupt a record on a *good* day, and it is now three cycles of the same
+single-note damage. Note also that the run's `--no-render` was deliberate:
+without it `verify_refs` rewrites `chicago_note`/`chicago_bib` on every
+reference note, which a maintenance pass has no business doing.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -509,3 +529,131 @@ essence (*atzmut*) or His instruments (*kelim*), since note 202609011543 says
 the instrumentalist reading narrows the contrast with Maimonides sharply and no
 captured source addresses it.
 
+## 2026-09-03 — Verified reachable, not yet captured: Ann Blair, Note Taking as an Art of Transmission (Critical Inquiry 31.1, 2004) is open access AND text-extractable from this environment class
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+The 2026-09-03 topic-gap cycle set out to broaden the `zettelkasten method`
+base, which rests on Ahrens (an 11-page publisher preview only), Luhmann
+"Kommunikation mit Zettelkaesten", and Schmidt. It did the source triage and
+found a strong candidate, but could NOT capture it: the session had no
+file-writing tool, no subagent dispatch, and Bash limited to read-only
+commands (new_worktree.sh was denied), so no worktree, no raw capture, and no
+notes were possible. This is an environment/permissions limit, NOT a
+source-access failure - the ladder in skills/source-access-triage does not
+apply and must not be started over.
+
+POSITIVE FINDING, verified live this cycle. Blair, Ann. 2004. "Note Taking as
+an Art of Transmission." Critical Inquiry 31, no. 1: 85-107.
+DOI 10.1086/427303. Deposited by Harvard in DASH, handle 1/3226475,
+urn-3:HUL.InstRepos:3226475, terms of use "Other Posted Material (LAA)" - an
+institutional repository copy of the published version, so a legitimate OA
+location, not a scraper mirror.
+
+The URL that actually returned the article is the DSpace REST bitstream
+endpoint:
+https://dash.harvard.edu/server/api/core/bitstreams/7312037c-5f82-6bd4-e053-0100007fdf3b/content
+It returns a 1.6 MB PDF with a REAL TEXT LAYER (not a scan), so a capture
+needs no OCR and no two-witness collation. Two verbatim anchors from p. 85,
+read this cycle, so the next run can confirm it fetched the same document:
+"Note taking constitutes a central but often hidden phase in the transmission
+of knowledge." and the four Ss, "storing, sorting, summarizing, and
+selecting."
+
+Do NOT bother with these routes: dash.harvard.edu/search?q=... returns HTTP
+405 through the agent proxy, and the uchicago.edu published version is
+paywalled. The PDF fetched this cycle landed in a tool-results scratch path
+outside the repository; it is NOT a capture and must be re-fetched and written
+into raw/ properly before any reference note exists.
+
+WHY IT IS WORTH THE BUDGET. Blair is peer-reviewed historical scholarship on
+note-taking as a practice, which the base currently has none of; the
+zettelkasten cluster is grounded on one how-to preview plus Luhmann and his
+archivist. Her four-Ss frame and her transmission-cycle claim bear directly on
+the three genesis notes that still carry NO citation at all -
+[[atomic-notes-compound-over-time--202701010001]],
+[[one-idea-per-note-enables-reuse--202701010002]] and
+[[titles-stated-as-claims-force-clarity--202701010003]] - and she is
+independent of Ahrens, so she can corroborate or limit them rather than just
+restate them. Note the standing caution from the Ahrens follow-up entry: check
+whether the claims are actually attributable before wiring them up.
+
+NEGATIVE FINDING, recorded so it is not retried blind. The Niklas Luhmann
+Archive (niklas-luhmann-archiv.de) is JS-only: a direct Zettel URL returned
+only the site header with no transcription. Same class as the Springer bot
+challenge. It needs a documented API or a real browser, neither available
+here, so it should not be budgeted as an easy capture despite being an
+official archive.
+
+ON THE OTHER CONFIG TOPIC. `compound growth` was assessed and deliberately
+left alone: it already rests on five captured sources (Price, Franklin,
+Malthus, Darwin, Housel), which is broader than the zettelkasten cluster. Its
+real weakness is not a missing source but that its three genesis fixture notes
+(202701010011/12/13) carry no citations - a synthesis job, not a research job.
+
+## 2026-09-03 — Freshness sweep 2026-09-03: no reference rot found (43/43 verified, 34/34 URLs live), and Crossref/Open Library/OpenAlex ARE reachable from this environment class today
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Recorded by the 2026-09-03 maintenance sweep (step 4), so a later run does not
+have to redo the measurement or plan around a stale environment fact.
+
+**What was re-checked.** All 43 reference notes. None had a
+`verification.date` older than 180 days -- the whole base was verified between
+2026-08-31 and 2026-09-03, so the age rung matched nothing. Twelve reference
+notes carry an identifier in `csl_json`; each was re-checked live against the
+registry `verify_refs.py` itself would use, and separately all 34 reference
+notes carrying a `csl_json.URL` had that URL re-fetched.
+
+**Result: nothing rotted.** Ten of the twelve identifiers re-confirmed live
+(Crossref: bogardus-urban, epelbaum, goshen-gottstein, tachin, vroom; Open
+Library: ahrens, dweck, housel, luhmann, plantinga). All 34 URLs returned HTTP
+200, including the ones previously reported as partially blocked -- note that
+place.asburyseminary.edu's LANDING page loads while its PDF stays
+Cloudflare-blocked, so a 200 here does not mean Bogardus & Urban became
+readable. The two non-confirmations are both already-understood and neither is
+rot: schmidt 202609010302's DOI is registered with DataCite, not Crossref (the
+note body says so; the DOI was re-confirmed live this cycle via doi.org, which
+resolved 200 to the article, and via api.datacite.org), and polkinghorne
+202609022347 carries no identifier at all -- see the defect below.
+
+**Environment finding, which contradicts the 2026-09-02 entry and is the most
+useful thing here.** That entry recorded `ws_closed_mid_exchange ... tunnel
+closed (code 1006)` against `openlibrary.org:443` and concluded the network
+was down for identifier lookups. Today, from this container,
+`api.crossref.org`, `openlibrary.org`, `api.datacite.org`, `doi.org` and
+`api.openalex.org` all answer normally, and Crossref answers without a
+`mailto` (public pool) so a run need not put a contact address on the wire.
+Reachability here is evidently intermittent rather than blocked, so a research
+cycle should TEST before assuming, in either direction. (`api.openalex.org`
+does rate-limit: a fifth query in quick succession returned HTTP 429.)
+
+**Source-access re-checks (source-access-triage step 5), all negative, all
+left open.** Re-queried OpenAlex for OA status on the standing blocked DOIs:
+Hick 10.1007/978-1-349-12695-8_9 closed; Vroom 10.1017/s0034412500020217
+closed; Goshen-Gottstein ch. 9 10.1007/978-1-137-45528-4_9 closed, and ch. 8
+10.1007/978-1-137-45528-4_8 (named as not-yet-attempted in the 2026-09-01
+entry) is closed too, so that lead needs library access rather than a fetch;
+Bogardus & Urban 10.5840/faithphil201741178 is still `bronze` with the only OA
+pdf_url being exactly the Cloudflare-blocked asburyseminary path, and the
+PhilPapers/PhilArchive records (TOMHTT) are still marked non-OA. Nothing
+changed; no ladder was re-litigated beyond this one rung. Kragh 2010 was NOT
+re-checked -- the OpenAlex title query hit the 429 above, and no DOI for it is
+recorded anywhere in the base, so whoever takes that lead should start by
+resolving its DOI.
+
+## 2026-09-03 — Tooling, HIGH: maintenance_run.sh reports success on a cycle that committed nothing
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+The 2026-09-03 scheduled cycle finished with exit 0 and logged 'gates passed independently' followed by 'pushed 860e02b' -- 860e02b being the commit it STARTED from. The push was a no-op and the gate pass was vacuous, over an unchanged tree. Read alone, those two log lines are indistinguishable from a cycle that actually landed work, and on an unattended cron run nobody would look further.
+
+Cause: the headless session had acting shell commands denied. The wrapper passes an ALLOWED_TOOLS allowlist naming Bash(git add:*), Bash(git commit:*) and the resolved python path, but the session's permission mode overrode it, so git, new_worktree.sh, serendipity_sweep.py and build_manifest.py all returned a 'don't ask mode' denial while read-only commands worked. The run could research and lint but could not create a worktree, write a capture, or commit; it left its INBOX and log edits uncommitted for a wrapper that does not commit either. The parent session committed them, so nothing was lost this time. It also burned 4.61 USD of the 5.00 USD budget on triage it could not act on.
+
+Two suggested fixes, both in the skill repo. (1) Make the wrapper detect a no-op cycle and say so: compare HEAD against PRE_HEAD, which it already captures, and if they are equal log something like 'maintenance_run: NO-OP, headless run produced no commits' at minimum, and ideally exit non-zero so a cron wrapper or CI notices. The existing 'no changes this cycle' path in remote_cycle.sh finish is the right precedent. (2) Have the wrapper fail loudly when its allowlist did not take effect: a cheap probe (attempt one allowlisted write, e.g. touch a scratch file under the repo, before dispatching the model) would turn a silent 10-minute no-op into an immediate, accurate abort. Related: the wrapper should probably also refuse to push when PRE_HEAD == HEAD and the working tree is dirty, which is exactly the state this run ended in.
