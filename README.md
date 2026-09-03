@@ -3,7 +3,7 @@
 A citation-grounded Zettelkasten, cultivated by the
 [`zettel-bootstrap`](https://github.com/nathanwdavis) Claude Code skill.
 
-**Topics:** zettelkasten method, compound growth
+**Topics:** theology, philosophy, zettelkasten method, compound growth
 
 ## Layout
 

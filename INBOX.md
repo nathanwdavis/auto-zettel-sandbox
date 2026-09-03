@@ -846,7 +846,54 @@ for what to do when a source only half-covers a claim.
 
 ## 2026-09-03 — config.yml topics no longer describe this base: 59% of its permanent notes are on a topic config.yml does not list (human decision needed)
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** DECIDED BY THE HUMAN, 2026-09-03, and this is authoritative
+  (QA-4). Their words: "This sandbox content repo will mostly send her around
+  the topics of theology and philosophy, so you can actually go ahead and
+  update that field in the config.yml file." That is option (a) below, and it
+  goes further than the entry proposed — the decision is not that a third
+  cluster be added alongside two equals, but that theology and philosophy are
+  what this repository is FOR.
+
+  `config.yml` now reads:
+
+      topics: ["theology", "philosophy", "zettelkasten method", "compound growth"]
+
+  README.md's Topics line was updated to match, since it stated the old pair
+  and would otherwise contradict config.yml at the repository's front door.
+
+  TWO JUDGEMENT CALLS MADE IN CARRYING THIS OUT, both reversible, both flagged
+  to the human in the reply that accompanied them:
+
+  1. The original two topics were KEPT, not replaced. The instruction said
+     "mostly", not "only", and dropping them has a concrete cost: 19 permanent
+     notes sit under them, and so does queued work that exists precisely
+     because a run is supposed to pick it up — inquiry 202609032123 (no
+     empirical evidence under `zettelkasten method`), the 2026-08-31 Ahrens
+     access entry, and the six ungrounded genesis notes, three of which are
+     zettelkasten design claims. Removing the topic would strand that work
+     from the cadence meant to close it. If the intent was to retire those
+     clusters, deleting the two strings is a one-line change and this entry is
+     the place to record it.
+  2. The two new topics are deliberately the human's own words rather than
+     sharpened into something like "philosophy of religion". Narrower strings
+     would gap-fill more precisely, but they would also silently decide what
+     counts as in scope — and the existing 26-note cluster is philosophy of
+     religion, whereas "philosophy" as asked for is wider than that. The
+     broader reading was taken as the safer one to hold, and is easy to
+     narrow later.
+
+  CONSEQUENCE, which is the point of the entry. Step 3 of the maintenance
+  prompt gap-fills against these topics, so from the next scheduled run the
+  cadence maintains the same-God / design-arguments / Kabbalah cluster
+  directly, instead of it advancing only when a human asks. Inquiry
+  202609032122 (the Islamic side argued only in non-Muslim voices) is now
+  cadence-reachable rather than depending on an ad-hoc request, which is
+  exactly the failure mode this entry was filed to name.
+
+  Note for future runs: this change was made by a human instruction in
+  session, and the standing rule is unchanged — a RUN may never edit the
+  topics list to match what it has already written.
 - **priority:** normal
 - **asked_by:** human
 

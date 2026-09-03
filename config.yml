@@ -2,7 +2,14 @@
 # Genesis writes every key below; maintenance runs read them and hard-fail
 # with a clear message if a required key is missing (AC-2).
 
-topics: ["zettelkasten method", "compound growth"]
+# Changed 2026-09-03 by human decision, answering the INBOX entry
+# "config.yml topics no longer describe this base". Theology and philosophy
+# lead because they are what this repository is actually for; `zettelkasten
+# method` and `compound growth` are KEPT rather than dropped, because 19
+# permanent notes and several queued INBOX/inquiry items still sit under them
+# and topics are what the cadence gap-fills against. Runs may not edit this
+# list; only a human may.
+topics: ["theology", "philosophy", "zettelkasten method", "compound growth"]
 
 # Cron-like string or a human phrase ("weekly on Sunday at 06:00").
 cadence: "on-demand (spike)"
