@@ -9,6 +9,8 @@ title: The note-taking experiments measure capture, so none of them tests a slip
   claim
 tags: []
 links:
+- target_id: urry-et-al-dont-ditch-the-laptop-just-yet--202609032200
+  relation: source
 - target_id: urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205
   relation: source
 - target_id: the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210

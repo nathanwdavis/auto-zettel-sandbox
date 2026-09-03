@@ -8,6 +8,10 @@ type: permanent
 title: The pen-versus-keyboard finding replicated for the notes and not for the learning
 tags: []
 links:
+- target_id: urry-et-al-dont-ditch-the-laptop-just-yet--202609032200
+  relation: source
+- target_id: mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201
+  relation: source
 - target_id: urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205
   relation: source
 - target_id: mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206

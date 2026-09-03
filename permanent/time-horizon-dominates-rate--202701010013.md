@@ -8,6 +8,8 @@ type: permanent
 title: Time horizon dominates rate
 tags: []
 links:
+- target_id: housel-the-psychology-of-money--202608311036
+  relation: source
 - target_id: housel-on-compounding-as-time-in-the-loop--202608311037
   relation: source
 - target_id: reinvested-returns-compound--202701010011
