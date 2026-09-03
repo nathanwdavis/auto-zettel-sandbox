@@ -844,3 +844,5 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-03T21:24:29Z` lint_skills: PASS
 - `2026-09-03T21:24:29Z` check_skill_sandbox: PASS
 - `2026-09-03T21:24:44Z` check_skill_sandbox: PASS
+- `2026-09-03T21:25:16Z` remote_cycle: lock released
+- `2026-09-03T21:30:00Z` handoff (gap-filling run): lock released via `abort`, not `finish` -- the cycle COMPLETED; `finish` hard-requires a `zettel/run-*` branch while this session is pinned to `claude/intelligent-heisenberg-7qtnpv`, so the branch was pushed directly and the lock released separately, as on 2026-09-03T00:02:36Z, T01:53:06Z and T21:30:00Z. Nothing pushed to main, nothing merged, branch handed to the required `gates` check. The designated branch was restarted from origin/main after PR #35 merged, so no commit is stacked on already-merged history. Two inquiries (202609032122, 202609032123) and two INBOX entries are now queued for the next maintenance run; one of them, the config.yml topic-scope question, is explicitly a human decision and must not be resolved by a run
