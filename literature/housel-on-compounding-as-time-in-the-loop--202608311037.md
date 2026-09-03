@@ -14,8 +14,10 @@ links:
   relation: source
 - target_id: atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038
   relation: supports
+- target_id: time-horizon-dominates-rate--202701010013
+  relation: supports
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-03'
 ---
 Own-words summary of one lesson from [[housel-the-psychology-of-money--202608311036]]:
 the counterintuitive power of compounding comes less from the rate of return in

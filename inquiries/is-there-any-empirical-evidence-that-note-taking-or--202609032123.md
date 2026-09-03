@@ -10,10 +10,12 @@ updated: '2026-09-03'
 question: Is there any empirical evidence that note-taking or externalized memory
   actually improves thinking and writing, and does any of it reach the slip-box claims
   this base makes?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210
+- no-experiment-in-this-base-tests-a-slip-box-claim--202609032215
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. `zettelkasten method` is a
@@ -72,3 +74,48 @@ what anyone has measured.
 
 Watch the tier rule: a psychology finding cited from a news write-up is
 general-web. These should be peer-reviewed captures or they should not land.
+
+**Answer (2026-09-03):** The inquiry anticipated the shape of this correctly:
+almost none, and the shape of the almost is the result.
+
+(1) The evidence that exists was captured, and it is not what the popular
+version says. Mueller and Oppenheimer 2014 is the study everyone means
+([[mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201]]),
+and the inquiry's warning to capture the replication history with it turned out
+to be the whole story. The preregistered direct replication in the same journal
+— Urry et al. 2021, 142 participants
+([[urry-et-al-dont-ditch-the-laptop-just-yet--202609032200]]) — reproduced the
+effect on what gets written down and not the effect on what gets learned, and
+their meta-analysis of eight closely matched studies put the pooled quiz effect
+at Hedges' *g* = 0.04, statistically equivalent to zero within the bound the
+original study had 33% power to detect. That is
+[[the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210]].
+
+(2) None of it reaches this base's claims, and that is the more important
+half. Every study in that literature manipulates the medium of capture during
+one lecture and measures a quiz the same day. Slip-box claims are about what
+happens to a note afterwards — retrieval, linkage, recombination over years —
+so the experiments stop before the claims begin. The replicators say the
+sharper version themselves: the field has no no-notes control, so it contains
+no test of whether note taking helps at all, only of which implement you hold.
+That is [[no-experiment-in-this-base-tests-a-slip-box-claim--202609032215]],
+and the three causal claims it limits —
+[[atomic-notes-compound-over-time--202701010001]],
+[[one-idea-per-note-enables-reuse--202701010002]],
+[[a-slip-box-surprises-only-after-critical-mass--202609010113]] — each gained a
+paragraph saying so, on the model of the limiting paragraph 202701010002
+already carried.
+
+(3) What was NOT done, deliberately. The inquiry's candidates 2 and 3 —
+retrieval practice (Roediger and Karpicke 2006) and transactive memory (Sparrow
+et al. 2011) — were not captured this cycle. Both were checked and both are
+closed (Unpaywall, 2026-09-03: Roediger and Karpicke 2006, DOI
+10.1111/j.1467-9280.2006.01693.x, `is_oa` false; Sparrow et al. 2011, DOI
+10.1126/science.1207745, `is_oa` false), and neither is a note-taking study,
+so pulling them in on abstracts would have produced exactly the stretch the
+inquiry forbade. They are the right next target and are filed in INBOX as such,
+with the reason they matter: they manipulate what happens to material *after*
+it is recorded, which is where a real test of a slip-box claim would have to
+live. Morehead, Dunlosky and Rawson 2019, the other named candidate, is in this
+base only as rows in Urry's forest plots; it too is closed and is filed.
+

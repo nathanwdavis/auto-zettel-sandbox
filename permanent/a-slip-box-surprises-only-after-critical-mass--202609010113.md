@@ -18,8 +18,10 @@ links:
   relation: supports
 - target_id: time-horizon-dominates-rate--202701010013
   relation: analogous
+- target_id: no-experiment-in-this-base-tests-a-slip-box-claim--202609032215
+  relation: shared-concept
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 A note collection has two regimes. Below a threshold of size and internal
 linkage it is a container: queries return only what was deliberately put in.
@@ -41,3 +43,12 @@ dominates per-period yield on the note-taking side of the analogy
 in years of use, not in cleverness of individual notes — though one
 practitioner's account establishes the pattern for one box, not a general
 law.
+
+The gap between "one box" and "a general law" is not one the experimental
+record can close, and a 2026-09-03 search for evidence established that as a
+fact about the literature rather than a guess: the note-taking experiments
+measure a quiz taken minutes after a single lecture, which is inside the
+container regime by construction
+([[no-experiment-in-this-base-tests-a-slip-box-claim--202609032215]]). A
+threshold that Luhmann prices in years cannot show up in a design that ends
+the same afternoon.

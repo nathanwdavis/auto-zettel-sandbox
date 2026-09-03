@@ -28,4 +28,9 @@ updated: '2026-09-03'
 - [[systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110]]
 - [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
 
+## What the evidence does and does not reach
+
+- [[the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210]]
+- [[no-experiment-in-this-base-tests-a-slip-box-claim--202609032215]]
+
 See also: [[compound-growth--202608311143]]

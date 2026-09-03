@@ -130,6 +130,12 @@
     "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
     "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
     "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+    "202609032200": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200",
+    "202609032201": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201",
+    "202609032205": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205",
+    "202609032206": "mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206",
+    "202609032210": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
+    "202609032215": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -213,8 +219,11 @@
       "path": "inquiries/is-there-any-empirical-evidence-that-note-taking-or--202609032123.md",
       "priority": "high",
       "question": "Is there any empirical evidence that note-taking or externalized memory actually improves thinking and writing, and does any of it reach the slip-box claims this base makes?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215",
+        "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210"
+      ],
+      "status": "answered",
       "updated": "2026-09-03"
     },
     {
@@ -256,7 +265,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 135,
+  "note_count": 141,
   "notes": [
     {
       "id": "202609022356",
@@ -312,6 +321,10 @@
           "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215"
+        },
+        {
           "relation": "analogous",
           "target_id": "time-horizon-dominates-rate--202701010013"
         }
@@ -321,7 +334,7 @@
       "tags": [],
       "title": "A slip box surprises only after critical mass",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-slip-box-surprises-only-after-critical-mass--202609010113.md"
     },
     {
@@ -627,6 +640,10 @@
           "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215"
+        },
+        {
           "relation": "elaborates",
           "target_id": "one-idea-per-note-enables-reuse--202701010002"
         },
@@ -640,7 +657,7 @@
       "tags": [],
       "title": "Atomic notes compound over time",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
     },
     {
@@ -1294,6 +1311,10 @@
         {
           "relation": "source",
           "target_id": "housel-the-psychology-of-money--202608311036"
+        },
+        {
+          "relation": "supports",
+          "target_id": "time-horizon-dominates-rate--202701010013"
         }
       ],
       "path": "literature/housel-on-compounding-as-time-in-the-loop--202608311037.md",
@@ -1301,7 +1322,7 @@
       "tags": [],
       "title": "Housel on compounding as time in the loop",
       "type": "literature",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/housel-on-compounding-as-time-in-the-loop--202608311037.md"
     },
     {
@@ -1787,6 +1808,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/meyer-of-molecules-and-straw-men--202609011311.md"
     },
     {
+      "id": "202609032201",
+      "key": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201",
+      "links": [],
+      "path": "reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201.md",
+      "slug": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard",
+      "tags": [],
+      "title": "Mueller and Oppenheimer, The Pen Is Mightier Than the Keyboard",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201.md"
+    },
+    {
+      "id": "202609032206",
+      "key": "mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609032201"
+        }
+      ],
+      "path": "literature/mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206.md",
+      "slug": "mueller-and-oppenheimers-claim-is-about-shallower-processing",
+      "tags": [],
+      "title": "Mueller and Oppenheimer's claim is about shallower processing, not about note taking working",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206.md"
+    },
+    {
       "id": "202608311930",
       "key": "nae-names-god-as-one-being-in-three-persons--202608311930",
       "links": [
@@ -1859,6 +1909,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042.md"
+    },
+    {
+      "id": "202609032215",
+      "key": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210"
+        },
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205"
+        }
+      ],
+      "path": "permanent/no-experiment-in-this-base-tests-a-slip-box-claim--202609032215.md",
+      "slug": "no-experiment-in-this-base-tests-a-slip-box-claim",
+      "tags": [],
+      "title": "The note-taking experiments measure capture, so none of them tests a slip-box claim",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/no-experiment-in-this-base-tests-a-slip-box-claim--202609032215.md"
     },
     {
       "id": "202609010704",
@@ -1937,6 +2020,10 @@
         {
           "relation": "elaborates",
           "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215"
         },
         {
           "relation": "shared-concept",
@@ -2899,6 +2986,31 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
     },
     {
+      "id": "202609032210",
+      "key": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimers-claim-is-about-shallower-processing--202609032206"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "no-experiment-in-this-base-tests-a-slip-box-claim--202609032215"
+        },
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205"
+        }
+      ],
+      "path": "permanent/the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210.md",
+      "slug": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning",
+      "tags": [],
+      "title": "The pen-versus-keyboard finding replicated for the notes and not for the learning",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210.md"
+    },
+    {
       "id": "202608311933",
       "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
       "links": [
@@ -3058,6 +3170,10 @@
           "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
         },
         {
+          "relation": "source",
+          "target_id": "housel-on-compounding-as-time-in-the-loop--202608311037"
+        },
+        {
           "relation": "elaborates",
           "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
         },
@@ -3071,7 +3187,7 @@
       "tags": [],
       "title": "Time horizon dominates rate",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/time-horizon-dominates-rate--202701010013.md"
     },
     {
@@ -3164,6 +3280,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/universal-compounding-turns-bounded-room-into-selection--202609010910.md"
+    },
+    {
+      "id": "202609032200",
+      "key": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200",
+      "links": [],
+      "path": "reference/urry-et-al-dont-ditch-the-laptop-just-yet--202609032200.md",
+      "slug": "urry-et-al-dont-ditch-the-laptop-just-yet",
+      "tags": [],
+      "title": "Urry et al., Don't Ditch the Laptop Just Yet",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/urry-et-al-dont-ditch-the-laptop-just-yet--202609032200.md"
+    },
+    {
+      "id": "202609032205",
+      "key": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200"
+        }
+      ],
+      "path": "literature/urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205.md",
+      "slug": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect",
+      "tags": [],
+      "title": "Urry et al. replicate the effect on the notes and not the effect on the learning",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205.md"
     },
     {
       "id": "202609011315",

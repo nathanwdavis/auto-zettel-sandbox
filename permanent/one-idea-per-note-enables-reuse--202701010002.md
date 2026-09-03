@@ -14,6 +14,8 @@ links:
   relation: elaborates
 - target_id: systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110
   relation: shared-concept
+- target_id: no-experiment-in-this-base-tests-a-slip-box-claim--202609032215
+  relation: shared-concept
 created: '2027-01-01'
 updated: '2026-09-03'
 ---
@@ -27,3 +29,9 @@ people who never did the reading, and that predictable *form* is what made
 that possible — but the notes in that evidence are filed under topical heads,
 and nothing in it tests one-idea-per-note as the unit. The atomicity claim
 above remains unsourced and should be read as a design position.
+
+Nor does the experimental literature help, which a 2026-09-03 search
+established rather than assumed: the note-taking experiments manipulate how a
+lecture is captured and measure a quiz the same day, so they never get as far
+as the unit a note is filed in
+([[no-experiment-in-this-base-tests-a-slip-box-claim--202609032215]]).

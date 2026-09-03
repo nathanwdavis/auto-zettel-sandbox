@@ -1,0 +1,59 @@
+CAPTURE: Pam A. Mueller and Daniel M. Oppenheimer, "The Pen Is Mightier Than
+         the Keyboard: Advantages of Longhand Over Laptop Note Taking,"
+         Psychological Science 25, no. 6 (June 2014): 1159-1168.
+DOI: 10.1177/0956797614524581
+PMID: 24760141
+FETCHED: 2026-09-03T21:59Z
+SOURCE URL (what actually returned the record):
+  https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=24760141&retmode=xml
+  5,918 bytes, sha256
+  09a5196f7885e4660472240657f5023576a9d5c0aa27231a7edc9d0d204efd2c
+
+THIS IS AN ABSTRACT-ONLY CAPTURE AND THE ARTICLE ITSELF IS NOT IN THIS BASE.
+  The ladder tried on 2026-09-03, in order:
+    (a) Unpaywall by DOI -> is_oa false, no OA location of any kind;
+    (b) OpenAlex -> oa_status "closed", any_repository_has_fulltext false, and
+        the only two locations recorded are the SAGE landing page and the
+        PubMed record;
+    (c) Semantic Scholar -> isOpenAccess false, openAccessPdf status CLOSED.
+  No green deposit exists for this article, unlike its 2021 replication, whose
+  authors posted their manuscript on PsyArXiv (captured separately as
+  raw/202609032200-urry-et-al-dont-ditch-the-laptop-manuscript-excerpts.txt).
+  What the base therefore holds of this study is (1) the publisher-deposited
+  abstract below, and (2) a critical secondary report of its Study 1 numbers
+  inside the Urry replication, which re-analysed the original authors' own
+  data from the 2018 corrigendum files at https://osf.io/t43ua/. Every note
+  citing the original's methods or effect sizes cites the second of those and
+  says so; nothing in this base rests on an unread Mueller and Oppenheimer.
+
+PROVENANCE OF THE ABSTRACT: the National Library of Medicine's PubMed record,
+  which carries the publisher's deposited abstract. Cross-checked the same day
+  against the Crossref deposit for the same DOI (api.crossref.org), which
+  returned no abstract for this record, and against the OpenAlex
+  abstract_inverted_index for the same DOI, which reconstructs to the same
+  text. The record's own metadata confirms the citation: Psychological Science
+  25(6):1159-68, received 2013-05-11, accepted 2014-01-16, electronic
+  publication 2014-04-23 per Crossref, print issue June 2014.
+
+ABSTRACT IS VERBATIM as deposited, including the sentence-case article title
+PubMed stores. Nothing below is paraphrased.
+
+
+--- ARTICLE TITLE (as deposited in PubMed) ---
+
+The pen is mightier than the keyboard: advantages of longhand over laptop note taking.
+
+--- ABSTRACT (verbatim) ---
+
+Taking notes on laptops rather than in longhand is increasingly common. Many
+researchers have suggested that laptop note taking is less effective than
+longhand note taking for learning. Prior studies have primarily focused on
+students' capacity for multitasking and distraction when using laptops. The
+present research suggests that even when laptops are used solely to take
+notes, they may still be impairing learning because their use results in
+shallower processing. In three studies, we found that students who took notes
+on laptops performed worse on conceptual questions than students who took
+notes longhand. We show that whereas taking more notes can be beneficial,
+laptop note takers' tendency to transcribe lectures verbatim rather than
+processing information and reframing it in their own words is detrimental to
+learning.
