@@ -462,3 +462,50 @@ confirmer looks like from the outside, which would corroborate the cluster's
 claim from the history rather than from the physics. The Springer page is
 paywalled; look for an author preprint or an accessible reprint before
 budgeting a capture.
+
+## 2026-09-03 — Source-access gaps left open by the Christian-kabbalism cycle (inquiries 202609030145 and 202609030146)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** agent
+
+Three routes, in the order they would most improve the base.
+
+**(1) Leon Modena, *Ari Nohem* (Venice, 1639), the primary text.** The base
+holds Modena's conclusion only as Dweck reports it (reference 202609030150,
+literature 202609030152, permanent 202609030155), which is a strict limit
+recorded in all three: nothing captured establishes HOW Modena argued from the
+sefirot to the Trinity parallel, which sefirotic doctrine he examined, or
+whether he answered Pico by name. Dweck's introduction names Pico as the
+setting and does not say so. Not attempted this cycle: the Hebrew text on
+HebrewBooks or Sefaria, and Dweck's own critical edition. The 1840 Leipzig
+printing (ed. Fürst) would be out of copyright if it can be found; a Hebrew
+capture would need a translation policy this repository has not yet set, so
+consider that question part of the task.
+
+**(2) A kabbalist's reply, as opposed to an anti-kabbalist's concession.**
+Modena is a hostile witness to the doctrine he describes. What is still
+uncaptured is anyone DEFENDING the sefirot against the Christian reading —
+denying the resemblance, or distinguishing it. This is the remaining half of
+the one-sidedness that note 202609011811 recorded, now narrowed rather than
+closed, and it is the single most valuable capture on this subject.
+
+**(3) Lead, ungrounded, do not cite until captured:** Abraham Abulafia is
+reported to have attacked the sefirot in the thirteenth century as no better
+than the Trinity — which, if it holds, puts a kabbalist on the record about the
+parallel some four centuries before Modena, and from inside the tradition. This
+surfaced only from a non-citable web source during the 202609030146 search and
+is recorded here as a lead, not a finding. The route to grounding it is Moshe
+Idel's Abulafia scholarship; check for open-access versions before budgeting.
+
+**Why inquiry 202609030146 stays in-progress rather than answered.** A merits
+comparison of the Trinity and the sefirot needs comparative scholarship the
+cycle could not reach: Scholem, Idel and Wolfson are all in copyright, and an
+open-access search returned only blogs, forums and encyclopaedia summaries —
+`general-web` tier, below what this claim needs, and `lint_citations` would
+require three distinct verified sources for a note tagged `contested` in any
+case. Specifically wanted: a source addressing whether the sefirot are God's
+essence (*atzmut*) or His instruments (*kelim*), since note 202609011543 says
+the instrumentalist reading narrows the contrast with Maimonides sharply and no
+captured source addresses it.
+

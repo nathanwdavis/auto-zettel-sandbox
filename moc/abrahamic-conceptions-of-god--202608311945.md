@@ -106,10 +106,21 @@ is a later development of the vocabulary and cannot borrow the word's antiquity.
 The comparison the note above draws for itself has a historical precedent
 that draws it far harder. Pico's cabalistic theses of
 1486 claim that Kabbalah's own principles compel assent to the Catholic
-Trinity exactly. Captured on its Christian side only; the Jewish respondents
-remain an open INBOX item.
+Trinity exactly. One Jewish answer is now captured alongside it, and it is not
+a denial: Leon Modena's *Ari Nohem* (1639) grants that the sefirot point to a
+plurality in God resembling the Trinity, and makes that the charge against
+Kabbalah. Worked for inquiry 202609030145.
 
 - [[christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811]]
+- [[the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155]]
+
+So the parallel is now asserted from two directions with nothing in common but
+the perception of it — a Christian apologist who wanted it true, and a Jewish
+critic who wanted Kabbalah demoted. What no note here yet does is compare the
+two doctrines on the merits: three persons against ten sefirot, and whether the
+sefirot are God's essence or His instruments. That is inquiry 202609030146,
+open, and the reason it is open is that the comparative scholarship is in
+copyright and was not reachable.
 
 ## Sources behind these notes
 

@@ -123,6 +123,9 @@
     "202609022355": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355",
     "202609022356": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
     "202609022357": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357",
+    "202609030150": "dweck-the-scandal-of-kabbalah--202609030150",
+    "202609030152": "dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152",
+    "202609030155": "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -131,6 +134,15 @@
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
   "inquiries": [
+    {
+      "key": "do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146",
+      "path": "inquiries/do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146.md",
+      "priority": "normal",
+      "question": "Do the Trinity and the sefirot actually resemble each other on the merits, beyond both being internal articulations of a single God?",
+      "result_notes": [],
+      "status": "in-progress",
+      "updated": "2026-09-03"
+    },
     {
       "key": "how-can-a-design-argument-confirm-theistic-belief-without--202609022344",
       "path": "inquiries/how-can-a-design-argument-confirm-theistic-belief-without--202609022344.md",
@@ -143,6 +155,17 @@
       ],
       "status": "answered",
       "updated": "2026-09-02"
+    },
+    {
+      "key": "how-did-jewish-thinkers-respond-to-the-christian-kabbalist--202609030145",
+      "path": "inquiries/how-did-jewish-thinkers-respond-to-the-christian-kabbalist--202609030145.md",
+      "priority": "high",
+      "question": "How did Jewish thinkers respond to the Christian-kabbalist claim that Kabbalah's own principles compel the Trinity?",
+      "result_notes": [
+        "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155"
+      ],
+      "status": "answered",
+      "updated": "2026-09-03"
     },
     {
       "key": "how-do-kabbalists-answer-the-same-god-question--202609011526",
@@ -211,7 +234,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 128,
+  "note_count": 131,
   "notes": [
     {
       "id": "202609022356",
@@ -813,6 +836,10 @@
           "target_id": "pico-makes-kabbalah-compel-the-catholic-trinity--202609011806"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
         }
@@ -822,7 +849,7 @@
       "tags": [],
       "title": "Christian kabbalism claimed Kabbalah compels the Trinity, not that it resembles it",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811.md"
     },
     {
@@ -1011,6 +1038,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
+    },
+    {
+      "id": "202609030152",
+      "key": "dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "dweck-the-scandal-of-kabbalah--202609030150"
+        }
+      ],
+      "path": "literature/dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152.md",
+      "slug": "dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack",
+      "tags": [],
+      "title": "Dweck reports Modena conceding the Trinity parallel and using it as an attack",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152.md"
+    },
+    {
+      "id": "202609030150",
+      "key": "dweck-the-scandal-of-kabbalah--202609030150",
+      "links": [],
+      "path": "reference/dweck-the-scandal-of-kabbalah--202609030150.md",
+      "slug": "dweck-the-scandal-of-kabbalah",
+      "tags": [],
+      "title": "Dweck, The Scandal of Kabbalah: Leon Modena, Jewish Mysticism, Early Modern Venice",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/dweck-the-scandal-of-kabbalah--202609030150.md"
     },
     {
       "id": "202609022348",
@@ -2554,6 +2610,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211.md"
+    },
+    {
+      "id": "202609030155",
+      "key": "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811"
+        },
+        {
+          "relation": "source",
+          "target_id": "dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152"
+        },
+        {
+          "relation": "source",
+          "target_id": "dweck-the-scandal-of-kabbalah--202609030150"
+        },
+        {
+          "relation": "supports",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840"
+        }
+      ],
+      "path": "permanent/the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155.md",
+      "slug": "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel",
+      "tags": [],
+      "title": "The first sustained Jewish answer to Christian kabbalism conceded the parallel and attacked Kabbalah instead",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155.md"
     },
     {
       "id": "202609011038",
