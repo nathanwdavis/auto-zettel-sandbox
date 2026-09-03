@@ -1,0 +1,196 @@
+CAPTURE: Ann Blair, "Note Taking as an Art of Transmission,"
+         Critical Inquiry 31, no. 1 (Autumn 2004): 85-107.
+DOI: 10.1086/427303
+FETCHED: 2026-09-03T20:54Z
+SOURCE URL (what actually returned the article):
+  https://dash.harvard.edu/server/api/core/bitstreams/7312037c-5f82-6bd4-e053-0100007fdf3b/content
+PROVENANCE: Harvard DASH institutional repository copy of the published
+  version. Handle 1/3226475, urn-3:HUL.InstRepos:3226475. The PDF's own
+  cover sheet states: terms of use "Other Posted Material (LAA)", published
+  version https://doi.org/10.1086/427303, link
+  http://nrs.harvard.edu/urn-3:HUL.InstRepos:3226475. This is an
+  institutional-repository deposit, not a scraper mirror.
+BYTES: 1,641,288 (matches the 1.6 MB the 2026-09-03 triage recorded)
+PAGES: 24 = 1 DASH cover sheet + pp. 85-107 (PDF page n = print page n + 83)
+EXTRACTION: pypdf 6.16.2 text layer. This PDF has a REAL TEXT LAYER, not an
+  OCR layer over a scan, so no two-witness collation was needed and none was
+  done. The single extractor is sufficient here for exactly that reason;
+  where a capture in this base rested on OCR (Hoyle 202609022346) the rule
+  was different and a raster read was required.
+
+IDENTITY CHECK against the anchors the 2026-09-03 triage recorded in INBOX,
+both confirmed present in this document:
+  (1) "Note taking constitutes a central but often hidden phase in the
+      transmission of knowledge." -- present, p. 85. NOTE: a naive substring
+      search FAILS on this sentence because the text layer breaks the line
+      inside the word as "trans-\nmission". The printed sentence is
+      continuous; the hyphen is a line-break artifact of the extraction and
+      is NOT in the printed text.
+  (2) the four Ss, "storing, sorting, summarizing, and selecting" -- present
+      verbatim, p. 85.
+
+TEXT-LAYER ARTIFACTS observed, listed so no future note quotes the artifact
+instead of the page. The excerpts BELOW record the PRINTED text, with these
+corrected:
+  - kerning splits a capital from its word: "T aking" for "Taking",
+    "T ransmission" for "Transmission", "Y eo" for "Yeo", "V incent" for
+    "Vincent" in places, "T oday" for "Today".
+  - ligatures survive as single glyphs: "ﬁgs.", "diﬀerent", "signiﬁcance",
+    "eﬃcient", "aﬀect". Rendered here as fi/ff/ffi.
+  - the copyright line extracts as "/H170152004 by The University of
+    Chicago" for "(c) 2004 by The University of Chicago".
+  - combining accents are misordered in French titles ("poe´sie" for
+    "poésie"); no excerpt below depends on one.
+None of these artifacts touch the substance of any excerpt taken.
+
+SCOPE: bounded excerpts, not the whole article. Taken for the claims this
+cycle grounds; the article is 23 printed pages of which this captures well
+under a tenth.
+
+================================================================
+p. 85 (opening paragraph)
+================================================================
+Note taking constitutes a central but often hidden phase in the transmission
+of knowledge. Notes recorded from reading or experience typically contribute
+to one's conversation and compositions, from which others can draw in turn in
+their own thinking and writing, thus perpetuating a cycle of transmission and
+transformation of knowledge, ideas, and experiences. The transmission served
+by personal notes most often operates within one individual's experience --
+from a moment of reading and note taking to a later moment when the notes are
+read and sometimes rearranged and used in articulating a thought. But
+personal notes can also be shared with others, on a limited scale with family
+and friends and on a wider scale through publication, notably in genres that
+compile useful reading notes for others.
+
+================================================================
+p. 85 (the four Ss)
+================================================================
+Notes can take many forms -- oral, written, or electronic. At its deepest
+level, whatever the medium, note taking involves variations on and
+combinations of a few basic maneuvers, which I propose to identify as the
+four Ss: storing, sorting, summarizing, and selecting. Human memory is the
+storage medium with the longest history, and it remains crucial today despite
+our reliance on other devices, from ink on paper to computers.
+
+================================================================
+p. 87 (the two basic methods; commonplaces filed under headings)
+================================================================
+These notes, generally presented in the order of the text from which they
+were produced, are often called adversaria. The second method is to select
+passages of interest for their content or their style, which are copied and
+sorted under a thematic or topical heading to facilitate retrieval. These
+categories and the notes that correspond to them are usually called
+commonplaces. Bacon favored the latter as "of far more profit, and use"
+
+================================================================
+p. 104 (notes changing hands: hired readers, bequests, purchase)
+================================================================
+Professional readers like Gabriel Harvey were hired to select the most
+interesting parts of a book according to precise instructions for the use of
+high-ranking officials. Bequests of personal notes were explicitly included in
+wills and even fought over in cases of disputed legacy. The notes of highly
+regarded scholars were especially valued. I surmise that the sons and nephews
+who inherited them and pursued learned careers of their own may have put these
+notes to good use in their own work; there were even attempts made to purchase
+such notes.
+
+================================================================
+p. 104 (notes taken by another were presumed to be of use)
+================================================================
+In all these cases notes taken by another were presumed to be of use. They
+could be consulted in a predictable way and applied to one's own purposes,
+even though there would be no personal memory of the initial reading that
+triggered the note, and it seems unlikely that the new owner intended to
+memorize the notes acquired from another scholar. Through the spread of
+systematic methods of note taking like that described by Drexel, note taking
+could be more easily delegated to others and almost mechanized -- books
+processed for their passages according to explicit criteria that others could
+follow.
+
+================================================================
+p. 104 (Placcius's slip chest enabled pooling across people)
+================================================================
+Vincent Placcius boasted of the special utility of his chest of notes taken
+on slips of paper because it enabled groups of students or members of a
+literary society to work together on different aspects of a common task by
+pooling their notes (figs. 5 and 6).
+
+================================================================
+p. 105 (caption to figures 5 and 6: the note closet)
+================================================================
+Vincent Placcius's note closet (scrinium literatum), as depicted in print in
+1689. Placcius improved on a design described in an anonymous manuscript by
+someone who describes himself as a friend of Samuel Hartlib, c. 1637,
+currently accessible as British Library MS Add 41,846 (Kenelm Digby Papers).
+The closet consists of dozens of moveable slats labeled with topical
+headings, which swivel to access note slips for each heading kept on hooks on
+the reverse. When open, the closet reveals under one gaze all the headings on
+which notes are available. From Vincent Placcius, De arte excerpendi
+(Stockholm, 1689), pp. 152-53; reproduction by Houghton Library, Harvard
+University.
+
+================================================================
+p. 106 (the memory function delegated to paper -- Blair's "most significant"
+transformation)
+================================================================
+In the late seventeenth century Leibniz explicitly spoke of mechanizing
+intellectual work so as to free astronomers from the "servile labor of
+calculating." The crucial device was a calculating machine that made it
+possible to delegate complex calculations to the lowest-ranking assistant: "It
+is unworthy of excellent men to lose hours like slaves in the labor of
+calculation, which could safely be relegated to anyone else if the machine were
+used."
+
+Just as the calculating machine could relieve the mind for higher tasks, so
+too, I would suggest, the note became increasingly used, under the pressures
+of overabundance, to relieve the memory. Whereas Drexel and his
+contemporaries saw no harm in memorizing one's notes as much as possible, by
+the early twentieth century memorizing was even seen as a hindrance to more
+complex reasoning. In a manual of 1920 that promised, as Drexel had three
+hundred years earlier, to teach more efficient study habits to students and
+professionals, the medical doctor P. Chavigny advocated using calculating
+machines so as not to "waste the intellectual force" of men of high
+intellectual caliber and advocated taking notes on index cards to constitute
+a "personal memory on paper." The memory function was explicitly delegated to
+paper because, according to Chavigny, "too much memorizing can be harmful to
+the higher intellectual qualities." This transformation, which I am not yet
+able to trace in detail, strikes me as one of the most significant in the
+history of note taking.
+
+[Locator for the Chavigny quotations, from Blair's n. 61: Chavigny,
+Organisation du travail intellectuel, p. 35. Blair quotes Chavigny; this
+capture does not reach Chavigny's own text.]
+
+================================================================
+p. 107 (Blair's own limit: searchability could displace the note)
+================================================================
+It is possible that further changes could affect even the existence of note
+taking. At a theoretical extreme, for example, if every text one wanted were
+constantly available for searching anew, perhaps the note itself, the
+selection made for later reuse, might play a less prominent role. Already
+some kinds of information, notably websites, are more easily searched for
+every time one needs them than retained in a form of memory -- human, as
+marked on paper or even as recorded in electronic bookmarks. The web is
+constantly changing and a bookmark can become a broken link at any point. We
+have particularly delegated long-term memory to media outside the mind.
+Nonetheless, we still rely on human memory and human judgment at the center of
+intellectual achievement. Notes must be rememorated or brought back into active
+memory at least enough to be intelligently integrated into an argument;
+judgment can only be applied to experiences that are present to the mind.
+
+================================================================
+p. 107 (closing restatement of the four Ss -- NOTE THE REORDERING)
+================================================================
+As the quantity of material to master even in a specialized field becomes
+ever more abundant, we will no doubt continue to rely ever more heavily on a
+variety of aids in the tasks of storing, sorting, selecting, and summarizing
+material on a given subject so that we can maximize our ability to
+discriminate, synthesize, and make sense of a complex and changing world. In
+this task the early modern theorists and practitioners of excerpting were
+already very thoughtfully engaged.
+
+[Fidelity note: the closing list reads "storing, sorting, selecting, and
+summarizing", which is NOT the order given on p. 85 ("storing, sorting,
+summarizing, and selecting"). Both orderings are the printed text of their
+respective pages. Any note quoting "the four Ss" should cite p. 85 for the
+order it gives.]

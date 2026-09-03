@@ -14,8 +14,10 @@ links:
   relation: source
 - target_id: atomic-notes-compound-over-time--202701010001
   relation: shared-concept
+- target_id: the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115
+  relation: historical-connection
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-03'
 ---
 Ahrens argues that a *plan* and a *structure to work in* solve different
 problems, and only one suits open-ended intellectual work. A plan is a

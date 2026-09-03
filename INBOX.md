@@ -63,6 +63,19 @@ chapter text into raw/ and re-score before building further on this note.
   Introduction/Ch.1-opening preview already captured — no wider preview has been published.
   Internet Archive holds a scan but it is lending-restricted (no full-text access without
   borrowing). No progress possible without a purchased or library copy. Left open.
+- **2026-09-03 progress (partial, and only on the wider complaint):** the Ahrens
+  access problem itself is UNCHANGED and this entry stays open — chs. 6 and 9-11
+  are still unreachable. What did change is the gap that made it urgent: this
+  entry's real complaint was that `zettelkasten method` rested almost entirely
+  on an 11-page publisher preview. The base now also holds peer-reviewed
+  historical scholarship on note-taking as a practice, independent of the
+  Luhmann line, in
+  [[blair-note-taking-as-an-art-of-transmission--202609032100]] and its two
+  permanent notes. That does not substitute for Ahrens: Blair is a historian of
+  early modern information management and says nothing about the
+  fleeting/literature/permanent taxonomy, which is precisely what the missing
+  Ahrens chapters cover. The topic is less thinly grounded; the specific hole
+  this entry names is still a hole.
 
 This cycle replaced the note's content-free placeholder ("Own-words summary
 of [[ref]].") with a real summary grounded in verbatim quotes captured from
@@ -462,6 +475,41 @@ single-note damage. Note also that the run's `--no-render` was deliberate:
 without it `verify_refs` rewrites `chicago_note`/`chicago_bib` on every
 reference note, which a maintenance pass has no business doing.
 
+**2026-09-03 (later cycle, the Blair capture) — BOTH defects fired in one
+cycle, which is the first time they have been seen together, and (A) is now
+confirmed to damage a brand-new note and not only pre-existing ones.** Two
+`verify_refs` passes ran, and the pair separates the defects by cause exactly
+as the entry above predicts:
+
+1. LIVE pass (`--mailto`, network up), run to render the new reference note's
+   Chicago strings and check its DOI. It did the right thing for the new note —
+   Blair 202609032100 came back `raw-capture+crossref` with
+   `identifier_check: confirmed` — and it changed exactly one other file:
+   polkinghorne 202609022347, defect (B), SIXTH occurrence, same false
+   `identifier_check: failed` from the same Faraday series `number: '1'`.
+   Reverted by hand again.
+2. OFFLINE pass (`--offline --no-render`, the exact invocation CI runs). This
+   fired defect (A) across TEN reference notes at once, stripping
+   `+crossref`/`+openlibrary` and `identifier_check: confirmed` down to bare
+   `raw-capture` — and among the ten was the Blair note written minutes
+   earlier, which lost the live Crossref confirmation it had just legitimately
+   earned. All ten were restored (nine tracked ones from HEAD, Blair's by
+   rewriting the block the live pass had produced), so nothing downgraded
+   reaches the branch and a diff of `reference/` against origin/main shows no
+   changed method or `identifier_check` line.
+
+Two things this adds for whoever fixes it in the skill repo. First, (A) is
+NOT limited to notes an offline run "did not need to touch" — it also
+downgrades a note whose live provenance was written seconds before, in the
+same working tree, so the fix cannot rely on file age or tracked-ness.
+Second, a practical guard for content cycles until it is fixed: a reference
+note whose CSL carries a genuine `DOI` is safe to render live, but any
+`number` field will be read as an arXiv id, so this cycle deliberately gave
+the Blair record `volume`/`issue`/`page` and no `number` — and it was not hit
+by (B). That is a workaround, not a fix; a bibliographically correct record
+that needs `number` (a report or numbered series, as Polkinghorne's is) still
+cannot avoid it.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -531,7 +579,36 @@ captured source addresses it.
 
 ## 2026-09-03 — Verified reachable, not yet captured: Ann Blair, Note Taking as an Art of Transmission (Critical Inquiry 31.1, 2004) is open access AND text-extractable from this environment class
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** Captured and worked, 2026-09-03T21:00Z cycle. The DSpace REST
+  bitstream URL recorded below still returns the article (HTTP 200, 1,641,288
+  bytes, matching the 1.6 MB reported here), and BOTH anchors left for identity
+  confirmation were found in the fetched document. One caveat worth keeping for
+  future anchor checks: anchor (1) does not match a naive substring search,
+  because the text layer breaks the line inside the word as "trans-\nmission" —
+  the sentence is printed continuously and the hyphen is an extraction
+  artifact. Anchor (2) matched verbatim. Written:
+  reference [[blair-note-taking-as-an-art-of-transmission--202609032100]]
+  (peer-reviewed, verified raw-capture+crossref on the live DOI),
+  literature [[blair-on-note-taking-as-transmission-and-delegated-memory--202609032105]],
+  and two permanent notes,
+  [[systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110]]
+  and
+  [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]].
+  Capture is bounded excerpts at
+  raw/202609032100-blair-note-taking-art-of-transmission-excerpts.txt.
+  On the standing caution in this entry — check attributability before wiring
+  Blair to the three uncited genesis notes — the answer was mostly negative and
+  the wiring was NOT done: Blair says nothing about one-idea-per-note
+  atomicity, nothing about note titles, and nothing about a compounding effect,
+  so 202701010003 and 202701010001 got no link at all. Only
+  202701010002 was linked, `shared-concept`, and it gained a paragraph saying
+  in the note itself that Blair corroborates its reuse half and not its
+  atomicity half. The unplanned find was elsewhere: Blair independently defines
+  commonplacing as filing "to facilitate retrieval" (p. 87), which gives
+  [[topic-head-filing-optimizes-retrieval-not-connection--202609010604]] a
+  second, independent witness for a generalization that note had flagged as
+  resting on the single Locke case.
 - **priority:** normal
 - **asked_by:** human
 
@@ -657,3 +734,52 @@ The 2026-09-03 scheduled cycle finished with exit 0 and logged 'gates passed ind
 Cause: the headless session had acting shell commands denied. The wrapper passes an ALLOWED_TOOLS allowlist naming Bash(git add:*), Bash(git commit:*) and the resolved python path, but the session's permission mode overrode it, so git, new_worktree.sh, serendipity_sweep.py and build_manifest.py all returned a 'don't ask mode' denial while read-only commands worked. The run could research and lint but could not create a worktree, write a capture, or commit; it left its INBOX and log edits uncommitted for a wrapper that does not commit either. The parent session committed them, so nothing was lost this time. It also burned 4.61 USD of the 5.00 USD budget on triage it could not act on.
 
 Two suggested fixes, both in the skill repo. (1) Make the wrapper detect a no-op cycle and say so: compare HEAD against PRE_HEAD, which it already captures, and if they are equal log something like 'maintenance_run: NO-OP, headless run produced no commits' at minimum, and ideally exit non-zero so a cron wrapper or CI notices. The existing 'no changes this cycle' path in remote_cycle.sh finish is the right precedent. (2) Have the wrapper fail loudly when its allowlist did not take effect: a cheap probe (attempt one allowlisted write, e.g. touch a scratch file under the repo, before dispatching the model) would turn a silent 10-minute no-op into an immediate, accurate abort. Related: the wrapper should probably also refuse to push when PRE_HEAD == HEAD and the working tree is dirty, which is exactly the state this run ended in.
+
+## 2026-09-03 — Librarian job: permanent notes in the 2026-09-01 clusters cite reference notes directly and skip the literature layer
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Surfaced by the 2026-09-03 connector sweep, and the reason all ten of its
+proposals were rejected rather than accepted.
+
+The sweep produced 10 candidates. Six paired a MOC (compound-growth
+202608311143, abrahamic-conceptions-of-god 202608311945) with a note the MOC
+ALREADY lists — an artifact of graph shape, since a MOC is a term-dense hub
+and the community detector splits hub from spokes, so "different communities"
+carries no information there. A seventh, atomic-notes-compound-over-time ->
+the compound-growth MOC, duplicates a connection the base already makes better
+through a dedicated bridge note (202608311038) and the zettelkasten MOC's
+"See also".
+
+The remaining three are the real finding, and they are one systematic gap
+rather than three discoveries:
+
+  craig 202609011012      -> the-design-arguments-center-of-gravity 202609011015
+  paley 202609011010      -> the-design-argument-concludes-to-a-maker 202609011016
+  maimonides 202608311932 -> internal-plurality-is-not-what-divides 202609011543
+
+In each pair the permanent note cites the REFERENCE note for that source
+directly and never links the LITERATURE note that summarises it. So the
+literature note sits in its own graph community and then scores as
+"unexpectedly" related to a permanent note about the very same source. The
+scorer is working; what it found is a layering inconsistency.
+
+The newer convention links both layers — 202609030155 does, and the notes
+written this cycle (202609032110, 202609032115) do. The 2026-09-01 design and
+same-God clusters predate it.
+
+WHY IT WAS NOT FIXED HERE. Writing three `source` links for whichever pairs
+the scorer happened to surface would migrate the convention across three
+arbitrary notes out of a cluster of roughly a dozen, leaving the base less
+consistent than it is now, not more. This is a librarian pass: enumerate every
+permanent note that cites a reference note whose literature note it does not
+link, and decide the convention once for the whole set. Worth settling
+explicitly first — whether a permanent note should link the literature layer
+at all, or whether citing the reference note directly is correct and the newer
+notes are the ones out of step. Nothing in the skill's note-types reference
+mandates either, and lint_links does not check it.
+
+Until it is settled, expect this sweep to keep re-proposing these same pairs;
+they are not rejections that will stick on their own.

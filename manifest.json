@@ -126,6 +126,10 @@
     "202609030150": "dweck-the-scandal-of-kabbalah--202609030150",
     "202609030152": "dweck-reports-modena-conceding-the-trinity-parallel-as-an-attack--202609030152",
     "202609030155": "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155",
+    "202609032100": "blair-note-taking-as-an-art-of-transmission--202609032100",
+    "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
+    "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
+    "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -234,7 +238,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 131,
+  "note_count": 135,
   "notes": [
     {
       "id": "202609022356",
@@ -317,6 +321,10 @@
         {
           "relation": "shared-concept",
           "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115"
         }
       ],
       "path": "permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md",
@@ -324,7 +332,7 @@
       "tags": [],
       "title": "A trusted structure frees attention from willpower",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md"
     },
     {
@@ -715,6 +723,35 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/behe-molecular-machines--202609011400.md"
+    },
+    {
+      "id": "202609032100",
+      "key": "blair-note-taking-as-an-art-of-transmission--202609032100",
+      "links": [],
+      "path": "reference/blair-note-taking-as-an-art-of-transmission--202609032100.md",
+      "slug": "blair-note-taking-as-an-art-of-transmission",
+      "tags": [],
+      "title": "Blair, Note Taking as an Art of Transmission",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/blair-note-taking-as-an-art-of-transmission--202609032100.md"
+    },
+    {
+      "id": "202609032105",
+      "key": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "blair-note-taking-as-an-art-of-transmission--202609032100"
+        }
+      ],
+      "path": "literature/blair-on-note-taking-as-transmission-and-delegated-memory--202609032105.md",
+      "slug": "blair-on-note-taking-as-transmission-and-delegated-memory",
+      "tags": [],
+      "title": "Blair on note taking as transmission and on memory delegated to paper",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/blair-on-note-taking-as-transmission-and-delegated-memory--202609032105.md"
     },
     {
       "id": "202609010838",
@@ -1884,6 +1921,10 @@
           "target_id": "atomic-notes-compound-over-time--202701010001"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110"
+        },
+        {
           "relation": "elaborates",
           "target_id": "titles-stated-as-claims-force-clarity--202701010003"
         }
@@ -1893,7 +1934,7 @@
       "tags": [],
       "title": "One idea per note enables reuse",
       "type": "permanent",
-      "updated": "2027-01-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
     },
     {
@@ -2398,6 +2439,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md"
     },
     {
+      "id": "202609032110",
+      "key": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "blair-note-taking-as-an-art-of-transmission--202609032100"
+        },
+        {
+          "relation": "source",
+          "target_id": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "supports",
+          "target_id": "topic-head-filing-optimizes-retrieval-not-connection--202609010604"
+        }
+      ],
+      "path": "permanent/systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110.md",
+      "slug": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it",
+      "tags": [],
+      "title": "Systematic method is what makes a note usable by someone who did not take it",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110.md"
+    },
+    {
       "id": "202608311925",
       "key": "tachin-do-they-worship-the-same-god--202608311925",
       "links": [],
@@ -2782,6 +2852,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md"
     },
     {
+      "id": "202609032115",
+      "key": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+      "links": [
+        {
+          "relation": "historical-connection",
+          "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
+        },
+        {
+          "relation": "source",
+          "target_id": "blair-note-taking-as-an-art-of-transmission--202609032100"
+        },
+        {
+          "relation": "source",
+          "target_id": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110"
+        }
+      ],
+      "path": "permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md",
+      "slug": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost",
+      "tags": [],
+      "title": "The note became an external memory only when memorizing came to be seen as a cost",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
+    },
+    {
       "id": "202608311933",
       "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
       "links": [
@@ -3001,6 +3100,10 @@
         {
           "relation": "historical-connection",
           "target_id": "serendipity-in-a-note-web-rides-on-shortcut-links--202609010304"
+        },
+        {
+          "relation": "supports",
+          "target_id": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110"
         }
       ],
       "path": "permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md",
@@ -3008,7 +3111,7 @@
       "tags": [],
       "title": "Topic-head filing optimizes retrieval, not connection",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md"
     },
     {
@@ -3121,7 +3224,7 @@
       ],
       "title": "Zettelkasten method",
       "type": "moc",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/zettelkasten-method--202608301300.md"
     }
   ],

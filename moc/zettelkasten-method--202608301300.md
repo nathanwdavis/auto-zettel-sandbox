@@ -10,7 +10,7 @@ tags:
 - moc
 links: []
 created: '2026-08-30'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 # Zettelkasten method
 
@@ -25,5 +25,7 @@ updated: '2026-09-01'
 - [[serendipity-in-a-note-web-rides-on-shortcut-links--202609010304]]
 - [[topic-head-filing-optimizes-retrieval-not-connection--202609010604]]
 - [[storing-links-as-objects-makes-association-durable-and-shareable--202609010802]]
+- [[systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110]]
+- [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
 
 See also: [[compound-growth--202608311143]]
