@@ -970,5 +970,95 @@
     "publisher-place": "Warsaw",
     "title": "Sefer Yetzirah",
     "type": "book"
+  },
+  {
+    "ISSN": "0013-7812",
+    "URL": "https://calteches.library.caltech.edu/3312/1/Hoyle.pdf",
+    "author": [
+      {
+        "family": "Hoyle",
+        "given": "Fred"
+      }
+    ],
+    "container-title": "Engineering and Science",
+    "id": "202609022346",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1981,
+          11
+        ]
+      ]
+    },
+    "page": "8-12",
+    "title": "The Universe: Past and Present Reflections",
+    "type": "article-magazine",
+    "volume": "45"
+  },
+  {
+    "URL": "https://www.faraday.cam.ac.uk/wp-content/uploads/resources/Faraday%20Papers/Faraday%20Paper%201%20Polkinghorne_EN.pdf",
+    "author": [
+      {
+        "family": "Polkinghorne",
+        "given": "John"
+      }
+    ],
+    "collection-title": "Faraday Papers",
+    "id": "202609022347",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    },
+    "number": "1",
+    "page": "1-4",
+    "publisher": "The Faraday Institute for Science and Religion",
+    "publisher-place": "Cambridge",
+    "title": "The Science and Religion Debate - an Introduction",
+    "type": "report"
+  },
+  {
+    "DOI": "10.1103/PhysRevLett.110.112502",
+    "URL": "https://arxiv.org/abs/1212.4181",
+    "author": [
+      {
+        "family": "Epelbaum",
+        "given": "Evgeny"
+      },
+      {
+        "family": "Krebs",
+        "given": "Hermann"
+      },
+      {
+        "family": "Lähde",
+        "given": "Timo A."
+      },
+      {
+        "family": "Lee",
+        "given": "Dean"
+      },
+      {
+        "family": "Meißner",
+        "given": "Ulf-G."
+      }
+    ],
+    "container-title": "Physical Review Letters",
+    "id": "202609022348",
+    "issue": "11",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "112502",
+    "title": "Viability of Carbon-Based Life as a Function of the Light Quark Mass",
+    "type": "article-journal",
+    "volume": "110"
   }
 ]

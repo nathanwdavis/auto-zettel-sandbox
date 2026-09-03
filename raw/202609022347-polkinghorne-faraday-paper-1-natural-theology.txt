@@ -1,0 +1,146 @@
+Bounded excerpt capture of John Polkinghorne, "The Science and Religion Debate
+- an Introduction," Faraday Paper No. 1 (Cambridge: The Faraday Institute for
+Science and Religion, St Edmund's College, April 2007), 4 pp. Captured from the
+publisher's own PDF at
+https://www.faraday.cam.ac.uk/wp-content/uploads/resources/Faraday%20Papers/Faraday%20Paper%201%20Polkinghorne_EN.pdf
+(fetched 2026-09-02T23:24:00Z, minute precision, HTTP 200, 32,850 bytes, 4
+pages, one print page per PDF page). The paper's own colophon states: "The
+Faraday Papers are published by the Faraday Institute for Science and Religion,
+St Edmund's College, Cambridge, CB3 0BN, UK, a charitable organisation for
+education and research (www.faraday-institute.org). The opinions expressed are
+those of authors and do not necessarily represent the views of the Institute...
+A full list of current Faraday Papers can be viewed at www.faraday-institute.org
+from where free copies can be down-loaded in pdf format." and "Publication date:
+April 2007. (c) The Faraday Institute for Science and Religion". Per this
+repository's excerpt policy the capture is BOUNDED EXCERPTS, not the whole
+paper: the summary (p. 1), the "Natural Theology" section entire (p. 2), and
+the paragraph that opens p. 3. The rest of p. 1 (the science/theology
+comparison), the rest of p. 3 ("Creation", "Divine Action"), and p. 4
+(unpredictability, miracle, bibliography) are NOT captured; notes must not
+quote them, and cite them only as attributed summary.
+
+Text was extracted programmatically with BOTH pdfminer.six and poppler's
+pdftotext. The PDF is born-digital typesetting, not a scan, and the two
+extractions agree verbatim on every captured span. They do NOT agree on
+READING ORDER: this is a two-column layout, and pdfminer.six returned the
+right column of p. 2 spliced into the left column's flow, which would have
+put the "Anthropic fine-tuning came as a shock" paragraph on p. 2 and made
+"Natural theology is the attempt..." follow rather than precede "Artificer.
+Contemporary natural theology...". Print pages 1-3 were therefore rendered to
+raster images (poppler pdftoppm, 110 dpi, PNG) and read directly to establish
+the true order and the page each span sits on; poppler's order was correct and
+pdfminer's was not. The block order below is the printed order, verified from
+those images.
+
+Normalizations, recorded: typographic (curly) quotes preserved as printed;
+en dashes preserved; soft hyphenation at line breaks closed up ("under-
+standing" -> "understanding"); whitespace within paragraphs collapsed to single
+spaces; the superscript footnote marker after "Anthropic Principle" flattened
+to a plain "1". Running heads, print page numbers and the colophon are excluded
+from the blocks. Nothing else was altered.
+
+========================================================================
+
+BLOCK 1 -- print p. 1, the paper's Summary, complete.
+
+------------------------------------------------------------------------
+
+Summary
+
+Science and theology have things to say to each other since both are concerned
+with the search for truth attained through motivated belief. Important topics
+for the conversation include natural theology, creation, divine providence and
+miracle. This paper provides a brief overview of the current status of the
+conversation.
+
+========================================================================
+
+BLOCK 2 -- print p. 2, left column, final paragraph: the sentence that
+introduces "limit questions" and attributes the new natural theology to
+scientists, including non-believers. The column's preceding paragraphs are not
+captured.
+
+------------------------------------------------------------------------
+
+An important element in the contemporary debate between science and religion
+is the recognition of the importance of 'limit questions', which refer to
+issues that arise from doing science but which go beyond science's self-limited
+power to answer. These limit questions have been the basis of a new kind of
+natural theology, largely developed by scientists themselves, including some
+who are not adherents of any faith tradition.
+
+========================================================================
+
+BLOCK 3 -- print p. 2, the section headed "Natural Theology": its opening
+paragraph runs from the foot of the left column onto the head of the right
+column (the word "Artificer." begins the right column), and is captured here
+as the single paragraph the print sets.
+
+------------------------------------------------------------------------
+
+Natural Theology
+
+Natural theology is the attempt to learn something of God from general
+considerations, such as the exercise of reason and the inspection of the world.
+Its classic form was associated with thinkers such as Aquinas (thirteenth
+century) and William Paley (1743-1805). They spoke in terms of 'proofs' of
+God's existence and often sought theological explanations of the functional
+aptness of living beings, understood as having been designed by the divine
+Artificer. Contemporary natural theology is more modest in its character. Its
+aim is not logical coerciveness but insightful understanding, and the claim
+being made is that theism explains more than atheism can. Natural theology's
+relationship to science is one of complementarity rather than rivalry. It
+acknowledges that scientific questions may be expected to receive scientific
+answers and so the new natural theology focuses on addressing those limit
+questions that arise from science but go beyond its explanatory scope. Two of
+these metaquestions have been particularly important.
+
+========================================================================
+
+BLOCK 4 -- print p. 2, right column, the display pull-quote set between rules.
+
+------------------------------------------------------------------------
+
+'A religious understanding renders the intelligibility of the universe itself
+intelligible'
+
+========================================================================
+
+BLOCK 5 -- print p. 2, right column, the closing sentences of the first
+metaquestion's treatment: the fine-tuning statement and the naming of the
+Anthropic Principle. The intervening discussion of rational transparency and
+mathematical beauty is not captured.
+
+------------------------------------------------------------------------
+
+That order is not only beautiful, it is also profoundly fruitful. The universe
+as we know it started 13.7 billion years ago, essentially as an expanding,
+almost uniform, ball of energy. Today the universe is rich and complex, with
+saints and scientists among its inhabitants. Not only might this fact in itself
+suggest that something has been going on in cosmic history beyond what science
+can tell, but also science's understanding of the evolutionary processes of
+that history has shown that, in a real sense, the cosmos was pregnant with the
+potentiality for carbon-based life from the beginning. The given character of
+the basic laws of nature had to take a quantitatively specific form for life to
+be possible anywhere within the universe. This 'fine-tuning' of fundamental
+parameters is usually called the Anthropic Principle1. A world capable of
+producing self-conscious beings is a very particular universe indeed. This
+cosmic specificity raises the second metaquestion of why this should be so.
+
+========================================================================
+
+BLOCK 6 -- print p. 3, left column, the paragraph that opens the page,
+complete. This is the paragraph in which the alternatives to the theistic
+reading are named.
+
+------------------------------------------------------------------------
+
+Anthropic fine-tuning came as a shock to many scientists. They tend to prefer
+the general to the particular and so they were inclined to suppose that there
+was nothing very special about our world. Natural theology understands
+anthropic potentiality to be the gift of the Creator to creation. Those who
+refuse this insight are either driven to regard fine-tuning as another
+incredibly happy accident, or to embrace the extraordinary supposition that
+there is, in fact, a vast multiverse composed of very many very different
+universes, all but one unobservable by us, with our world just by chance the
+one in which circumstances permit the development of carbon-based life.

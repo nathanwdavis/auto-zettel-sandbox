@@ -7,7 +7,7 @@ aliases:
 type: reference
 title: 'Goshen-Gottstein, "Shituf: Critical and Constructive Reflections"'
 tags: []
-source_tier: scholarship
+source_tier: reputable-secondary
 scripture: false
 csl_json:
   id: '202609011533'
@@ -41,8 +41,14 @@ verification:
 raw_capture: raw/202609011533-goshen-gottstein-shituf-abstract.txt
 links: []
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
+
+Tier corrected 2026-09-02 from `scholarship`, which was never one of the four
+documented values and which nothing checked until the skill's `bad-source-tier`
+rule landed that day. `reputable-secondary` rather than `peer-reviewed`: a
+chapter in an edited academic volume from a university-adjacent press is
+secondary scholarship, not a refereed article. No claim rests on the change.
 
 **Abstract only.** The chapter body was not obtained. Springer returned only
 an authorization shell (303 to `idp.springer.com`), Unpaywall reports the DOI

@@ -400,3 +400,65 @@ a throwaway checkout, so CI never commits the downgrade — only a session does.
 This is a `zettel-bootstrap` skill-repo issue, not a content-repo one, so it
 needs a change in the skill repo (`scripts/verify_refs.py`) and is out of
 scope for a content-repo maintenance cycle to fix itself.
+
+## 2026-09-02 — Tooling: `verify_refs.py` erases live provenance on a network failure, and reads a report's series number as an arXiv id
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** agent
+
+Two defects, both hit during the 2026-09-02 Hoyle-state cycle, both recorded
+rather than worked around.
+
+**(A) Recurrence of the 2026-09-01T18:10:09Z entry above, and worse than it
+was filed there: the downgrade is not specific to `--offline`.** A *live* run
+on this container replaced `method: raw-capture+openlibrary` /
+`identifier_check: confirmed` with a bare `method: raw-capture` on housel
+202608311036 and plantinga 202609011500. The cause is visible in the
+environment rather than the notes: openlibrary.org is unreachable here, and
+the agent proxy logged `ws_closed_mid_exchange ... tunnel closed (code 1006)`
+against `openlibrary.org:443` at the same second as the run.
+`verify_note()` builds a fresh verification dict and replaces the old one
+wholesale, so a transport-level failure — which should raise
+`NetworkUnavailable` and degrade, the behaviour `_raw()` documents for itself
+at lines 137-141 — instead erases a confirmation an earlier live run had
+established. Both notes were restored from HEAD; nothing downgraded reached the
+branch. Suggested fix: distinguish a connection/TLS failure from a
+200-with-no-match, and never let a *failed* lookup remove an
+`identifier_check` that a previous run recorded.
+
+**(B) New: `citations.arxiv_id()` reads the CSL `number` field as an arXiv
+identifier unconditionally.** On the new reference polkinghorne 202609022347 —
+a Faraday Paper whose `number` is its series number, `'1'` — this made
+`verify_refs` query `https://export.arxiv.org/api/query?id_list=1`, find
+nothing, and stamp a false `identifier_check: failed` on a record that carries
+no DOI, ISBN, PMID or arXiv id at all. The false line was removed by hand and
+the bibliographically correct `number` kept, which is the right way round: the
+record is accurate and the tool is wrong. CI's offline check does not re-add
+it, but the next live run will. Suggested fix: read `number` as an arXiv id
+only when the item looks like a preprint (container-title, publisher or URL
+naming arXiv), never for `type: report`.
+
+Both are `zettel-bootstrap` skill-repo issues and out of scope for a
+content-repo cycle to fix itself.
+
+## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** low
+- **asked_by:** agent
+
+Kragh, "An anthropic myth: Fred Hoyle's carbon-12 resonance level", *Archive
+for History of Exact Sciences* 64 (2010): 721. Epelbaum et al. cite it as "a
+thorough discussion of the history of this issue" but do not summarise its
+thesis, so the base holds a **pointer only** — no note may attribute a claim
+to Kragh on that basis, and none currently does.
+
+Worth capturing directly. The title suggests it argues the anthropic reading
+of Hoyle's 1953 prediction was retrofitted rather than contemporaneous. If that
+holds it bears on permanent note 202609022355, and more sharply on the whole
+Hoyle-state cluster: an anthropic reading applied after the fact is what a
+confirmer looks like from the outside, which would corroborate the cluster's
+claim from the history rather than from the physics. The Springer page is
+paywalled; look for an author preprint or an accessible reprint before
+budgeting a capture.

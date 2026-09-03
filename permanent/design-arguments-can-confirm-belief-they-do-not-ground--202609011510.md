@@ -16,8 +16,14 @@ links:
   relation: shared-concept
 - target_id: calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036
   relation: shared-concept
+- target_id: hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355
+  relation: elaborates
+- target_id: a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356
+  relation: elaborates
+- target_id: the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357
+  relation: elaborates
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-02'
 ---
 An assessment of a design argument can come apart into two questions that
 are usually run together: whether the argument could carry the weight of
@@ -54,3 +60,14 @@ believes, or how far it moves a sensible person's probabilities -- which is
 why Plantinga can dismiss the deflations of fine-tuning ("From a theistic
 point of view, however, no mystery at all and an easy explanation", pp.
 215-16) without ever claiming the argument compels.
+
+Stated this way the distinction is a philosopher's, and could be suspected of
+being a convenience. The carbon resonance is where it can be checked against a
+single argument's actual history: the inference terminated in something other
+than God for the man best placed to run it (see
+[[hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355]]),
+its confirming use is issued with the exits named (see
+[[a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356]]),
+and its evidential weight has since been revalued several times without any
+belief moving with it (see
+[[the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357]]).
