@@ -18,8 +18,10 @@ links:
   relation: historical-connection
 - target_id: one-idea-per-note-enables-reuse--202701010002
   relation: shared-concept
+- target_id: systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110
+  relation: supports
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 A filing system built around topic heads answers exactly one question —
 "where did I put what I filed under this word?" — and can answer it very

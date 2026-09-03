@@ -1085,5 +1085,30 @@
     "publisher-place": "Princeton",
     "title": "Introduction",
     "type": "chapter"
+  },
+  {
+    "DOI": "10.1086/427303",
+    "URL": "https://nrs.harvard.edu/urn-3:HUL.InstRepos:3226475",
+    "author": [
+      {
+        "family": "Blair",
+        "given": "Ann"
+      }
+    ],
+    "container-title": "Critical Inquiry",
+    "id": "202609032100",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "85-107",
+    "publisher": "University of Chicago Press",
+    "title": "Note Taking as an Art of Transmission",
+    "type": "article-journal",
+    "volume": "31"
   }
 ]
