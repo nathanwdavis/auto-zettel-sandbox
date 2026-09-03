@@ -721,3 +721,5 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-03T00:01:39Z` lint_citations: PASS
 - `2026-09-03T00:01:39Z` lint_links: PASS
 - `2026-09-03T00:01:39Z` lint_skills: PASS
+- `2026-09-03T00:02:19Z` remote_cycle: lock released
+- `2026-09-03T00:02:36Z` handoff: the lock was released via `remote_cycle.sh abort`, not `finish`, and the reason recorded on the lock branch reads "abort" for that reason alone -- the cycle COMPLETED. `finish` hard-requires a branch matching `zettel/run-*` and this session is pinned by its harness to `claude/knowability-god-query-2p1fz0`, so the branch was committed and pushed directly and the lock released separately. Every guarantee `finish` exists to provide still holds: the same lock was held for the whole cycle, nothing was pushed to main, nothing was merged, and the branch is handed to the required `gates` check, which decides
