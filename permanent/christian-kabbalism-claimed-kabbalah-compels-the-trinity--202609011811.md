@@ -17,8 +17,10 @@ links:
   relation: elaborates
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: shared-concept
+- target_id: the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155
+  relation: elaborates
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 There is a difference between observing that two traditions both articulate
 God internally and claiming that one tradition's articulation entails the
@@ -55,6 +57,15 @@ foundations reaches, at its one specific moment, for something more tractable
 than the sefirot: a triad already shaped like a Trinity.
 
 One asymmetry to hold on to: Pico is a Christian apologist, and this note
-records what Christian kabbalism asserted, not what kabbalists conceded. The
-Jewish answers to this argument are not yet captured in this repository, so the
-dispute is represented here from one side only.
+records what Christian kabbalism asserted, not what kabbalists conceded.
+
+*Partly closed, 2026-09-03.* One Jewish answer is now in the base, and it does
+not deny the parallel — Leon Modena's *Ari Nohem* (1639) grants that the
+sefirot point to "a plurality within God similar to the Christian doctrine of
+the Trinity" and uses that as a charge against Kabbalah (see
+[[the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155]]).
+Modena is a hostile witness to the doctrine, and an anti-kabbalist rather than
+a kabbalist, so what remains uncaptured is the reply of someone defending the
+sefirot: whether a kabbalist answering Pico denied the resemblance or
+distinguished it. The dispute is no longer represented from one side only, but
+it is still not represented from the side Pico was arguing against.

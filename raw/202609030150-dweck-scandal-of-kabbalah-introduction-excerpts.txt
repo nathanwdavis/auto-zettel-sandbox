@@ -1,0 +1,140 @@
+Bounded excerpt capture of Yaacob Dweck, "Introduction," in The Scandal of
+Kabbalah: Leon Modena, Jewish Mysticism, Early Modern Venice, Jews, Christians,
+and Muslims from the Ancient to the Modern World (Princeton: Princeton
+University Press, 2011), pp. 1-23; ISBN 9780691145082. Captured from the
+publisher's own free sample-chapter PDF at
+http://assets.press.princeton.edu/chapters/i9572.pdf (fetched
+2026-09-03T01:46:00Z, minute precision, HTTP 200, 1,715,327 bytes), which
+Princeton University Press serves from its own assets host as the openly
+downloadable introduction to the book. Every page of that PDF is watermarked
+"Copyrighted Material" by the publisher, so the sample is offered for reading,
+not for redistribution: per this repository's excerpt policy for in-copyright
+sources (the Housel and Bush precedents) the capture is BOUNDED EXCERPTS, four
+blocks from pp. 9-11 of a 23-page introduction. Everything else -- the opening
+pages on Scholem and the historiography of Kabbalah, the Venetian and Safed
+context, the account of Modena's other writings, the chapter outline, and all
+footnotes except where a block quotes one -- is NOT captured; notes must not
+quote it, and cite it only as attributed summary.
+
+Text was extracted programmatically with BOTH pdfminer.six and poppler's
+pdftotext. The PDF is born-digital typesetting, not a scan, and the two
+extractions agree verbatim on every captured span. Page attribution was
+established from the PDF's own running heads and press marks rather than
+guessed: the recto running head prints "Introduction * <n>" at the head of each
+odd page and the typesetter's line "Dweck-Scandal.indb <n> 4/26/2011 2:40:09
+PM" sits at the foot of each even page, and each captured block was located
+against the nearest preceding marker under both extractors, which agreed.
+
+Normalizations, recorded: the PDF's text layer renders most small capitals and
+many initial capitals in lowercase ("nahmanides", "Pico della Mi-randola",
+"latin", "hebrew", "christian"), an artifact of the font encoding rather than
+the printed page, which sets them normally; capitalization has been RESTORED to
+standard form in the blocks below and this is the one substantive
+normalization applied. Soft hyphenation at line breaks is closed up
+("Mi-randola" -> "Mirandola", "char-acterized" -> "characterized"). Superscript
+footnote markers are flattened to plain digits attached to the preceding word
+(e.g. "scale.34"). Typographic quotes and the en dash in the running head are
+preserved. Running heads, press marks and footnote blocks falling inside a
+block's span are excluded and noted in that block's preamble. Whitespace within
+paragraphs collapsed to single spaces. Nothing else was altered.
+
+Because capitalization was restored rather than transcribed, a note quoting
+these blocks is quoting the printed page as reconstructed here, not the text
+layer; the wording, which is what the notes turn on, is verbatim under both
+extractors.
+
+========================================================================
+
+BLOCK 1 -- p. 9, on Pico and the ancient theology. The sentences immediately
+before (defining the term "Christian Kabbalah") are not captured.
+
+------------------------------------------------------------------------
+
+The most celebrated Christian thinker to become a devotee of Kabbalah was Pico
+della Mirandola, a Florentine aristocrat who lived in the second half of the
+fifteenth century and drew on Kabbalah as a component of his ancient theology.
+For Pico a single truth united all periods and cultures, and a harmony of
+religious insight existed among ancient Pagan, Jewish, and Christian writings.
+Kabbalah was ostensibly the Jewish domain of this ancient theology. For him
+kabbalistic texts were thus as important and as ancient as the Hermetic Corpus
+and the oldest Sibylline Oracles.
+
+========================================================================
+
+BLOCK 2 -- p. 9, continuing: the wider Christian engagement and the
+conversionary setting. A footnote marker (30) falls inside the block and its
+note text is not captured.
+
+------------------------------------------------------------------------
+
+Pico was only the most prominent in a long line of non-Jewish intellectuals who
+studied Kabbalah, including Johannes Reuchlin, Pietro Galatino, and many
+others. As producers and consumers, Catholics and Protestants in Western Europe
+played a crucial role in the publication and dissemination of Kabbalah beyond
+the Jewish elite. For centuries they initiated and oversaw the printing of
+kabbalistic texts in Hebrew, translated kabbalistic texts into Latin, and drew
+on Kabbalah when preaching to potential Jewish converts. Over and above the
+growing body of kabbalistic literature available in Latin, a flood of
+dictionaries and grammars of Hebrew and Aramaic offered a curious reader a
+range of tools with which to study newly printed texts.30 The appropriation of
+Kabbalah that began in earnest with Pico and continued for the next several
+centuries was hardly a disinterested intellectual exchange between
+Christians -- Catholic or Protestant -- and Jews. These encounters fraught with
+conversionary pressures and uneven power relations had important consequences
+for the history of Jewish knowledge. After the initial phase when they served
+as teachers to interested Christians, Jews were no longer necessary
+intermediaries in the acquisition of esoteric Jewish learning.
+
+========================================================================
+
+BLOCK 3 -- p. 10, on Modena's method in Ari Nohem. Three footnotes (31-33)
+fall between the sentences of this block in the printed page; their text is not
+captured and their markers do not appear in the run below, which is the body
+text alone.
+
+------------------------------------------------------------------------
+
+Written in elegant Hebrew, Modena's Ari Nohem heaved with emotion as deep as it
+was self-consciously restrained. Modena criticized Kabbalah to diminish its
+status, not to destroy it. He paid kabbalists the devastating compliment of
+taking their arguments seriously and refuting them one by one. To the claim
+that Kabbalah represented an ancient esoteric tradition dating back to Moses at
+Sinai, Modena responded with a systematic analysis of the historical origins of
+kabbalistic texts. He sought to distinguish between Kabbalah and the Oral
+Torah, a concept that he maintained did have its origins in revelation.
+Kabbalah and its core documents, he demonstrated, had emerged only in the late
+Middle Ages.
+
+========================================================================
+
+BLOCK 4 -- p. 11, the countercharge, and what follows it. Complete from
+"Modena rejected the notion..." through "...the pseudepigraphic creation of
+Moses de Leon and his circle."
+
+------------------------------------------------------------------------
+
+Modena rejected the notion that only kabbalists possessed the hermeneutic keys
+to uncover the secrets of the Bible, but he never characterized their modes of
+exegesis as inherently worthless. To the contrary, he repeatedly extolled the
+virtues of the Zohar as a reservoir of homiletic insight. At the same time, he
+resisted the attempt to designate Kabbalah as a distinctive form of knowledge
+or wisdom. For Modena, knowledge could be the product only of reason and
+understanding, and whatever was beyond reason, as kabbalists repeatedly
+described Kabbalah, could not be knowledge. Kabbalists maintained that belief
+in the sefirot constituted a crucial element of Jewish faith and branded as
+heretics anyone who denied their centrality to Judaism. Modena repudiated this
+claim and leveled a severe countercharge of his own: after an examination of
+the sefirot as a concept, he concluded that it pointed to a plurality within
+God similar to the Christian doctrine of the Trinity. To a range of thinkers
+who had characterized Kabbalah as the entirety of God's revelation and the
+totality of the Jewish tradition, Modena responded with a work of cultural
+criticism that reduced Kabbalah to scale.34
+
+Ari Nohem thus represents an instance of what Amos Funkenstein called a
+counterhistory.35 Like authors of counterhistories in antiquity and the Middle
+Ages, Modena systematically exploited the sources of his opponents; in his
+case, the very works that kabbalists adduced to prove the antiquity of Kabbalah
+and its centrality within Judaism. He mined the sixteenth-century editions of
+the Zohar as well as medieval and early modern Jewish chronicles to formulate a
+coherent account of the origins of the Zohar that denied its antiquity and
+identified it as the pseudepigraphic creation of Moses de Leon and his circle.

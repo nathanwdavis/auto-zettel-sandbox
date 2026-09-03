@@ -1060,5 +1060,30 @@
     "title": "Viability of Carbon-Based Life as a Function of the Light Quark Mass",
     "type": "article-journal",
     "volume": "110"
+  },
+  {
+    "ISBN": "9780691145082",
+    "URL": "http://assets.press.princeton.edu/chapters/i9572.pdf",
+    "author": [
+      {
+        "family": "Dweck",
+        "given": "Yaacob"
+      }
+    ],
+    "collection-title": "Jews, Christians, and Muslims from the Ancient to the Modern World",
+    "container-title": "The Scandal of Kabbalah: Leon Modena, Jewish Mysticism, Early Modern Venice",
+    "id": "202609030150",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1-23",
+    "publisher": "Princeton University Press",
+    "publisher-place": "Princeton",
+    "title": "Introduction",
+    "type": "chapter"
   }
 ]
