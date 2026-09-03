@@ -23,6 +23,19 @@ What the three Abrahamic traditions say God is, and what happens to the question
 - [[the-same-god-question-turns-on-reference-versus-description--202608311942]]
 - [[shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943]]
 
+## The Islamic side, argued from inside
+
+Until 2026-09-03 this cluster answered a question about Islam almost entirely
+in Christian and secular voices, while arguing the Jewish side from six
+captured Jewish sources. These notes are the correction, worked for inquiry
+202609032122. They also cost the cluster's central note some of its
+generality: the reference/description framing above turns out to be how the
+dispute runs in Christian and analytic-philosophical writing, not how the
+traditions argue it from inside.
+
+- [[the-quran-asserts-co-reference-and-difference-in-one-address--202609032315]]
+- [[a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320]]
+
 ## The Anselmian route
 
 What the ontological argument contributes to the same-God question: a

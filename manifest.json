@@ -130,6 +130,10 @@
     "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
     "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
     "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+    "202609032305": "a-common-word-between-us-and-you--202609032305",
+    "202609032310": "a-common-word-on-the-ground-shared-with-christians--202609032310",
+    "202609032315": "the-quran-asserts-co-reference-and-difference-in-one-address--202609032315",
+    "202609032320": "a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -190,8 +194,11 @@
       "path": "inquiries/how-do-muslim-theologians-themselves-argue-the-same-god--202609032122.md",
       "priority": "high",
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320",
+        "the-quran-asserts-co-reference-and-difference-in-one-address--202609032315"
+      ],
+      "status": "answered",
       "updated": "2026-09-03"
     },
     {
@@ -256,8 +263,84 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 135,
+  "note_count": 139,
   "notes": [
+    {
+      "id": "202609032305",
+      "key": "a-common-word-between-us-and-you--202609032305",
+      "links": [],
+      "path": "reference/a-common-word-between-us-and-you--202609032305.md",
+      "slug": "a-common-word-between-us-and-you",
+      "tags": [],
+      "title": "A Common Word Between Us and You",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/a-common-word-between-us-and-you--202609032305.md"
+    },
+    {
+      "id": "202609032320",
+      "key": "a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609032305"
+        },
+        {
+          "relation": "source",
+          "target_id": "a-common-word-on-the-ground-shared-with-christians--202609032310"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "source",
+          "target_id": "shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-quran-asserts-co-reference-and-difference-in-one-address--202609032315"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320.md",
+      "slug": "a-common-word-locates-the-shared-ground-in-command-not-reference",
+      "tags": [
+        "contested"
+      ],
+      "title": "A Common Word locates the shared ground in command, not in reference",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320.md"
+    },
+    {
+      "id": "202609032310",
+      "key": "a-common-word-on-the-ground-shared-with-christians--202609032310",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609032305"
+        }
+      ],
+      "path": "literature/a-common-word-on-the-ground-shared-with-christians--202609032310.md",
+      "slug": "a-common-word-on-the-ground-shared-with-christians",
+      "tags": [],
+      "title": "A Common Word on the ground Islam shares with Christianity",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/a-common-word-on-the-ground-shared-with-christians--202609032310.md"
+    },
     {
       "id": "202609022356",
       "key": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
@@ -1294,6 +1377,10 @@
         {
           "relation": "source",
           "target_id": "housel-the-psychology-of-money--202608311036"
+        },
+        {
+          "relation": "supports",
+          "target_id": "time-horizon-dominates-rate--202701010013"
         }
       ],
       "path": "literature/housel-on-compounding-as-time-in-the-loop--202608311037.md",
@@ -1301,7 +1388,7 @@
       "tags": [],
       "title": "Housel on compounding as time in the loop",
       "type": "literature",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/housel-on-compounding-as-time-in-the-loop--202608311037.md"
     },
     {
@@ -2140,9 +2227,9 @@
       "path": "reference/quran-tawhid-passages--202608311923.md",
       "slug": "quran-tawhid-passages",
       "tags": [],
-      "title": "Qur'an 112; 4:171; 5:73",
+      "title": "Qur'an 112; 2:139; 3:64; 4:171; 5:73; 29:46",
       "type": "reference",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
     },
     {
@@ -2373,6 +2460,10 @@
       "key": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542",
       "links": [
         {
+          "relation": "analogous",
+          "target_id": "a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320"
+        },
+        {
           "relation": "source",
           "target_id": "goshen-gottstein-calls-shituf-a-good-internal-category--202609011538"
         },
@@ -2408,7 +2499,7 @@
       ],
       "title": "Shituf grades the worshipper instead of identifying the worshipped",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542.md"
     },
     {
@@ -2899,6 +2990,45 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
     },
     {
+      "id": "202609032315",
+      "key": "the-quran-asserts-co-reference-and-difference-in-one-address--202609032315",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927"
+        },
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate--202608311924"
+        },
+        {
+          "relation": "source",
+          "target_id": "nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/the-quran-asserts-co-reference-and-difference-in-one-address--202609032315.md",
+      "slug": "the-quran-asserts-co-reference-and-difference-in-one-address",
+      "tags": [
+        "contested"
+      ],
+      "title": "The Qur'an asserts co-reference and doctrinal difference in one address",
+      "type": "permanent",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-quran-asserts-co-reference-and-difference-in-one-address--202609032315.md"
+    },
+    {
       "id": "202608311933",
       "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
       "links": [
@@ -2942,6 +3072,10 @@
       "links": [
         {
           "relation": "elaborates",
+          "target_id": "a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320"
+        },
+        {
+          "relation": "elaborates",
           "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
         },
         {
@@ -2977,6 +3111,10 @@
           "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-quran-asserts-co-reference-and-difference-in-one-address--202609032315"
+        },
+        {
           "relation": "source",
           "target_id": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926"
         }
@@ -2988,7 +3126,7 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
@@ -3058,6 +3196,14 @@
           "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
         },
         {
+          "relation": "source",
+          "target_id": "housel-on-compounding-as-time-in-the-loop--202608311037"
+        },
+        {
+          "relation": "source",
+          "target_id": "housel-the-psychology-of-money--202608311036"
+        },
+        {
           "relation": "elaborates",
           "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
         },
@@ -3071,7 +3217,7 @@
       "tags": [],
       "title": "Time horizon dominates rate",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/time-horizon-dominates-rate--202701010013.md"
     },
     {

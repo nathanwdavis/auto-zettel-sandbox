@@ -844,6 +844,25 @@ these notes invite is a citation that makes the lint pass while the claim
 stays unsupported, and 202701010002's honest limiting paragraph is the model
 for what to do when a source only half-covers a claim.
 
+**2026-09-03 (later cycle) — one of the six done; entry stays open for the
+other five.** The cheap wiring piece is closed.
+[[time-horizon-dominates-rate--202701010013]] now carries `source` links to
+both [[housel-on-compounding-as-time-in-the-loop--202608311037]] and the Housel
+reference note, and the literature note carries the reciprocal `supports` link.
+The grounding quote is Housel's own imperative form of the claim ("If you want
+to do better as an investor, the single most powerful thing you can do is
+increase your time horizon", ch. 4).
+
+Two limits were written into the note rather than left implicit, because this
+entry warned against exactly the citation-that-passes-the-lint failure: Housel
+argues about *investing*, where the rate is not freely choosable, while the
+note states the arithmetic of compounding generally; and the note's own reason
+for the claim (periods multiply, the rate only scales each step) is a
+mathematical argument Housel does not make. So 202701010013 is now grounded in
+a source that asserts the same claim, not demonstrated. The remaining five —
+202701010001, 202701010002, 202701010003, 202701010011, 202701010012 — are
+untouched, and the judgement calls this entry sets out for them still stand.
+
 ## 2026-09-03 — config.yml topics no longer describe this base: 59% of its permanent notes are on a topic config.yml does not list (human decision needed)
 
 - **status:** answered        <!-- new | in-progress | answered | archived -->
@@ -944,3 +963,92 @@ A run may not edit config.yml topics to match what it has already written —
 that would let the base silently redefine its own scope, and the genesis rule
 is that topics are asked of the human and never guessed. Recording it here so
 the next run reads a decision instead of re-deriving the discrepancy.
+
+## 2026-09-03 — Polkinghorne Faraday Paper 1: verify_refs records identifier_check failed, but the URL resolves fine (HTTP 200)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-03T22:55Z maintenance cycle, as a note-maintainer freshness
+finding. This is most likely a TOOLING issue, not source rot, and it is recorded
+so the next run does not re-chase it as if it were rot.
+
+WHAT HAPPENED. A live `verify_refs.py` pass during this cycle added
+`identifier_check: failed` to
+reference/polkinghorne-the-science-and-religion-debate--202609022347.md, and
+refreshed its verification date. The note was not otherwise touched by this
+cycle and its `verified: true` / `method: raw-capture` state is unchanged --
+the raw capture still verifies. Only the identifier rung is reported failed.
+
+WHAT WAS CHECKED, INDEPENDENTLY. The URL in its csl_json --
+https://www.faraday.cam.ac.uk/wp-content/uploads/resources/Faraday%20Papers/Faraday%20Paper%201%20Polkinghorne_EN.pdf
+-- was fetched during this cycle and returned HTTP 200 with a 32,850-byte PDF,
+no redirect. So the source has NOT vanished and the URL has not rotted.
+
+THE LIKELY CAUSE. This reference is a Faraday Paper: a report with a URL and no
+DOI, ISBN, PMID or arXiv id. The identifier rung appears to report `failed`
+when it has no registry identifier to resolve, which is a different fact from
+"the identifier no longer resolves". Compare the warning verify_refs printed in
+the same pass for schmidt-niklas-luhmanns-card-index--202609010302, which is
+phrased as real suspected rot ("check the DOI/ISBN for rot") -- Polkinghorne got
+no such warning, only the silent field.
+
+WHAT WAS NOT DONE, AND WHY. The field was left in place rather than reverted to
+HEAD. It is what the tool actually observed on a live pass, and hand-editing
+recorded verification state to make a diff look tidier is the one thing the
+repository's rules are most explicit about not doing. The cost of leaving it is
+one confusing-looking field on an unrelated note in this cycle's diff; the cost
+of removing it would be a run silently overriding its own verifier.
+
+FOR WHOEVER PICKS THIS UP. This belongs upstream in the skill repo, not here:
+either `identifier_check` should not be written at all when a reference carries
+no registry identifier, or it should record a third state ("none to check")
+distinct from `failed`. Until then, expect `identifier_check: failed` on
+URL-only reference notes and do not read it as rot without an independent fetch.
+
+## 2026-09-03 — Same-God cluster: the classical Muslim texts that argue the question adversarially are still unreached
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-03T22:55Z maintenance cycle, which answered inquiry
+202609032122 and in doing so found the boundary of what it answered.
+
+WHAT THAT CYCLE ESTABLISHED. The Islamic side of the same-God cluster is no
+longer argued only in non-Muslim voices. A Common Word Between Us and You
+(2007), the open letter from 138 Muslim scholars to the Christian churches, is
+captured, verified and summarised, and Qur'an 2:139, 3:64 and 29:46 are now in
+raw/ alongside the three difference-marking passages that were there before.
+Two permanent notes came out of it, and the cluster's most-linked note
+(202608311942) had to be qualified.
+
+WHAT IS STILL MISSING, AND WHY IT MATTERS. A Common Word is an irenic document:
+a public appeal to named church leaders whose stated purpose is peace between
+the communities. It is the best available evidence of what Muslim scholars were
+willing to say jointly TO Christians, and it is close to the worst available
+evidence of how the question is argued when the aim is not agreement. The
+repository now has a Muslim source that declines to press the shirk objection,
+and no Muslim source that presses it.
+
+The Jewish side does not have this problem, and the contrast is instructive:
+alongside Maimonides and the Rema it holds Modena via Dweck -- a hostile
+witness, which is exactly why that side reads as argued rather than smoothed.
+
+CANDIDATES, carried forward from inquiry 202609032122 with what this cycle
+learned about them:
+- Ibn Taymiyya, al-Jawab al-Sahih li-man baddala din al-Masih. The major
+  classical Muslim response to Christianity and the direct counterweight to A
+  Common Word. This is the highest-value target.
+- Al-Ghazali, Faysal al-Tafriqa bayna al-Islam wa-l-Zandaqa, the classical text
+  on who counts as outside the faith and on what criterion.
+- Zeki Saritoprak, still in the base only at second hand, quoted inside the NPR
+  piece. Something he actually wrote would also close that smaller gap.
+
+Neither classical text was attempted this cycle -- the cycle was already
+carrying a full research task, and both are translation-dependent in a way that
+needs its own access triage (see skills/source-access-triage) rather than a
+quick fetch. Note for whoever takes it: an English translation is a translation,
+and the same caution the Qur'an reference note records about Pickthall applies
+with more force to a disputed polemical text.

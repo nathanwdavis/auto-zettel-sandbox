@@ -23,8 +23,10 @@ links:
   relation: elaborates
 - target_id: kabbalah-separates-acknowledging-god-from-addressing-him--202609011540
   relation: shared-concept
+- target_id: a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320
+  relation: analogous
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 The Jewish-legal sentence most often reached for when the same-God question is
 asked about Christians does not answer it by deciding whom Christians worship.
@@ -77,3 +79,15 @@ indexed category cannot do is what such a category is structurally unable to
 do in the Christian case either. A rule that sorts by the obligations of the
 one asking is not a description of what the other party believes, and it does
 not become one by being applied for four centuries.
+
+**2026-09-03.** The Islamic material added for inquiry 202609032122 turned out
+to run parallel to this note without repeating it. A Common Word, addressing
+the Christian churches for 138 Muslim signatories, also declines the
+reference/description dichotomy -- but where the Rema holds the worship fixed
+and varies who performs it, the letter grades nobody and relocates the common
+ground to what both parties are commanded (see
+[[a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320]]).
+Two traditions, two different third answers. That the third answers differ is
+the more interesting half: it makes "neither reference nor description" a
+description of where these traditions do *not* go, rather than a shared
+alternative they both hold.

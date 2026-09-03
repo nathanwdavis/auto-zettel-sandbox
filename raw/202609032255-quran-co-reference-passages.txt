@@ -1,0 +1,23 @@
+Verbatim capture of Qur'an passages in which the Qur'an addresses the People of
+the Scripture (ahl al-kitab) and speaks about the OBJECT of their worship and
+of Muslim worship together. This capture is the counterpart to
+raw/202608311910-quran-tawhid-passages.txt, which holds 112, 4:171 and 5:73 --
+three passages that all mark DIFFERENCE. The passages below run the other way
+and were absent from that capture; both sets are in the same surah collection
+and the same translation.
+
+Fetched 2026-09-03T22:55:18Z from the AlQuran Cloud API
+(https://api.alquran.cloud/v1/ayah/<ref>/en.pickthall), edition en.pickthall --
+Marmaduke Pickthall, The Meaning of the Glorious Koran (1930), a translation in
+the public domain. Each ayah is captured complete. Surah name and revelation
+type are as returned by the API.
+
+Surah 2 (Al-Baqara, "The Cow"), Medinan revelation, ayah 139, complete:
+2:139  Say (unto the People of the Scripture): Dispute ye with us concerning Allah when He is our Lord and your Lord? Ours are our works and yours your works. We look to Him alone.
+
+Surah 3 (Aal-i-Imraan, "The Family of Imraan"), Medinan revelation, ayah 64, complete:
+3:64  Say: O People of the Scripture! Come to an agreement between us and you: that we shall worship none but Allah, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside Allah. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him).
+
+Surah 29 (Al-Ankaboot, "The Spider"), Meccan revelation, ayah 46, complete:
+29:46  And argue not with the People of the Scripture unless it be in (a way) that is better, save with such of them as do wrong; and say: We believe in that which hath been revealed unto us and revealed unto you; our Allah and your Allah is One, and unto Him we surrender.
+

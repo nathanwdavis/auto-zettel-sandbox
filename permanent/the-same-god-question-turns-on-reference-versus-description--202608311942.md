@@ -29,8 +29,12 @@ links:
   relation: elaborates
 - target_id: shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542
   relation: elaborates
+- target_id: the-quran-asserts-co-reference-and-difference-in-one-address--202609032315
+  relation: elaborates
+- target_id: a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320
+  relation: elaborates
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-03'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One
@@ -69,3 +73,31 @@ is entitled to settle the matter.
 So "do they worship the same God?" is not one question with a hidden answer. It
 is at least two questions wearing one sentence, and most of the heat comes from
 answering one of them while the other side answers the other.
+
+**2026-09-03: where this framing came from, and what it does not cover.** Every
+source above is Christian or secular -- Gjelten's NPR report, Nostra Aetate,
+Tachin in a Reformed journal, Vroom surveying the philosophical literature. The
+distinction was drawn from that material and then used here as though it were
+the neutral shape of the dispute. A run working inquiry 202609032122 tested it
+against Islamic sources, and the result is a qualification rather than a
+retraction, in two parts.
+
+The axis is not foreign to Islamic material: the Qur'an makes a reference claim
+in its own voice, addressing the People of the Scripture with "our Allah and
+your Allah is One" while elsewhere rejecting trinitarian language outright (see
+[[the-quran-asserts-co-reference-and-difference-in-one-address--202609032315]]).
+On the reference question as posed here, the Qur'an answers yes.
+
+But the dichotomy is incomplete. The 2007 open letter from 138 Muslim scholars
+to the Christian churches -- the most prominent collective Muslim statement
+addressed to this audience -- answers on neither axis, establishing common
+ground in a shared *command* instead, and declining to press the shirk clause
+in the very verse it takes its title from (see
+[[a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320]]).
+The Jewish material had already produced one answer shape this framing has no
+slot for (see
+[[shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542]]).
+Two traditions arguing from inside have now each reached for something other
+than reference-or-description. The claim above should be read as what it is:
+an accurate map of how the dispute runs in Christian and analytic-philosophical
+writing, and a partial one everywhere else.

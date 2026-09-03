@@ -1110,5 +1110,25 @@
     "title": "Note Taking as an Art of Transmission",
     "type": "article-journal",
     "volume": "31"
+  },
+  {
+    "URL": "https://www.acommonword.com/the-acw-document/",
+    "author": [
+      {
+        "literal": "The Royal Aal al-Bayt Institute for Islamic Thought"
+      }
+    ],
+    "id": "202609032305",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "The Royal Aal al-Bayt Institute for Islamic Thought",
+    "publisher-place": "Amman",
+    "title": "A Common Word Between Us and You",
+    "type": "report"
   }
 ]
