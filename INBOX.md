@@ -783,3 +783,117 @@ mandates either, and lint_links does not check it.
 
 Until it is settled, expect this sweep to keep re-proposing these same pairs;
 they are not rejections that will stick on their own.
+
+## 2026-09-03 — Graph walk 2026-09-03: six permanent notes carry no source at all, and two of them are among the base's most-linked hubs
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the gap-filling graph walk. This is a synthesis and wiring job, not a
+research job — the sources needed are, in at least one case, already in the
+base and simply not linked.
+
+THE MAP, for whoever picks this up. 135 notes: 44 permanent, 44 literature, 44
+reference, 3 MOCs. Every permanent note is listed in at least one MOC (zero
+orphans), so the layering is clean. Clusters by MOC: Abrahamic conceptions of
+God 26 permanent notes, zettelkasten method 11, compound growth 8, with
+[[atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038]]
+deliberately shared between the last two as the bridge.
+
+THE FINDING. Six permanent notes have no `source` link of any kind. All six
+are the original genesis fixtures:
+
+  202701010001  Atomic notes compound over time
+  202701010002  One idea per note enables reuse
+  202701010003  Titles stated as claims force clarity
+  202701010011  Reinvested returns compound
+  202701010012  Linear growth lacks a feedback loop
+  202701010013  Time horizon dominates rate
+
+That six notes are uncited was already known in pieces. What the walk adds is
+that they are not leaves — they are load-bearing. In-degree across the whole
+base puts `reinvested-returns-compound--202701010011` SECOND (8 inbound) and
+`time-horizon-dominates-rate--202701010013` joint-fourth (7 inbound). So the
+compound-growth cluster's two most-linked-to claims are both things nobody has
+sourced. Notes that ARE grounded lean on them, which means the citation graph
+looks healthier than the evidence graph is.
+
+THE CHEAPEST PIECE, and it is embarrassing. `time-horizon-dominates-rate`
+scored 0.802 on the query "why does time horizon dominate rate in compounding,
+and what is the evidence?" — the top hit in the base. The second hit was
+[[housel-on-compounding-as-time-in-the-loop--202608311037]], whose whole
+subject is duration beating rate and which is grounded on a verified capture
+of Housel ch. 4, re-scored to 0.90 groundedness back on 2026-08-31. The two
+notes are about the same claim and there is NO link between them. This one is
+a wiring fix, not a research task.
+
+The other five need judgement rather than a lookup:
+- 202701010011 and 202701010012 are arithmetic. They may not need a citation
+  at all so much as an explicit note that they are definitional, in which case
+  say so IN the note rather than leaving them looking unsourced.
+- 202701010001, 202701010002 and 202701010003 are the zettelkasten design
+  claims. 202701010002 already gained a paragraph on 2026-09-03 recording that
+  Blair corroborates its reuse half and not its atomicity half; the other two
+  have no such qualification and should get one if nothing turns out to
+  support them. The Ahrens follow-up entry is the standing reason they are
+  still bare: the chapters that would ground them (6, 9-11) are unreachable.
+
+Do NOT close this by attaching whatever source is nearest. The failure mode
+these notes invite is a citation that makes the lint pass while the claim
+stays unsupported, and 202701010002's honest limiting paragraph is the model
+for what to do when a source only half-covers a claim.
+
+## 2026-09-03 — config.yml topics no longer describe this base: 59% of its permanent notes are on a topic config.yml does not list (human decision needed)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-03 gap-filling graph walk. This one needs a human
+decision and a maintenance run should NOT resolve it on its own.
+
+THE FACTS. config.yml declares topics: ["zettelkasten method", "compound
+growth"]. The base's 44 permanent notes divide as:
+
+  Abrahamic conceptions of God   26  (59%)  -- NOT a configured topic
+  zettelkasten method            11  (25%)
+  compound growth                 8  (18%)
+
+(11 + 8 counts the shared bridge note once on each side.)
+
+The largest, densest, most-developed thing this repository contains is a
+26-note cluster on the same-God question, divine simplicity, the sefirot and
+the Trinity, and teleological arguments. It grew entirely out of ad-hoc human
+inquiries — 202608311909, 202609010821, 202609010930, 202609011030,
+202609011526, 202609022344, 202609030145, 202609030146 — and config.yml has
+never mentioned it. Its central note,
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]],
+is the single most-linked note in the base (in-degree 12), well ahead of
+anything in either configured topic.
+
+WHY IT IS NOT COSMETIC. Step 3 of the maintenance prompt tells a run to
+"research and synthesize for open inquiries and for gaps against the `topics`
+in config.yml". So under the current config, the scheduled cadence
+systematically gap-fills the two SMALLER clusters and never the largest one.
+The Abrahamic cluster grows only when a human asks a question. That is
+precisely what happened all through 2026-09-01 to 09-03: every scheduled run
+worked the zettelkasten and compound-growth topics while the same-God material
+advanced only on ad-hoc request. The 2026-09-03 gap-filling walk found the
+sharpest gap in the base sitting in that unconfigured cluster (the Islamic
+side argued only in non-Muslim voices — inquiry 202609032122), and no
+cadence-driven run would ever have gone looking for it.
+
+THE DECISION, which is yours and not a run's:
+(a) Add a third topic to config.yml — something like "Abrahamic conceptions of
+    God" or "the same-God question" — and the scheduled cadence starts
+    maintaining what is already the base's centre of gravity.
+(b) Leave config.yml alone deliberately, on the view that this cluster is
+    demand-driven and should only ever grow when you ask. That is a coherent
+    position; it just should be a choice rather than an accident.
+(c) Split the repository, if the two halves are really different projects.
+
+A run may not edit config.yml topics to match what it has already written —
+that would let the base silently redefine its own scope, and the genesis rule
+is that topics are asked of the human and never guessed. Recording it here so
+the next run reads a decision instead of re-deriving the discrepancy.
