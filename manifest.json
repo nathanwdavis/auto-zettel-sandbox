@@ -114,6 +114,15 @@
     "202609011825": "sefer-yetzirah--202609011825",
     "202609011830": "sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830",
     "202609011840": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
+    "202609022346": "hoyle-the-universe-past-and-present-reflections--202609022346",
+    "202609022347": "polkinghorne-the-science-and-religion-debate--202609022347",
+    "202609022348": "epelbaum-viability-of-carbon-based-life--202609022348",
+    "202609022350": "hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350",
+    "202609022351": "polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351",
+    "202609022352": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352",
+    "202609022355": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355",
+    "202609022356": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
+    "202609022357": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -122,6 +131,19 @@
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
   "inquiries": [
+    {
+      "key": "how-can-a-design-argument-confirm-theistic-belief-without--202609022344",
+      "path": "inquiries/how-can-a-design-argument-confirm-theistic-belief-without--202609022344.md",
+      "priority": "high",
+      "question": "How can a design argument confirm theistic belief without grounding it, and what is a real worked example of the distinction?",
+      "result_notes": [
+        "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
+        "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355",
+        "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
+      ],
+      "status": "answered",
+      "updated": "2026-09-02"
+    },
     {
       "key": "how-do-kabbalists-answer-the-same-god-question--202609011526",
       "path": "inquiries/how-do-kabbalists-answer-the-same-god-question--202609011526.md",
@@ -189,8 +211,41 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 119,
+  "note_count": 128,
   "notes": [
+    {
+      "id": "202609022356",
+      "key": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "polkinghorne-the-science-and-religion-debate--202609022347"
+        },
+        {
+          "relation": "source",
+          "target_id": "polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        }
+      ],
+      "path": "permanent/a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356.md",
+      "slug": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness",
+      "tags": [],
+      "title": "A confirming use of fine-tuning states its own non-coerciveness",
+      "type": "permanent",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356.md"
+    },
     {
       "id": "202609010113",
       "key": "a-slip-box-surprises-only-after-critical-mass--202609010113",
@@ -921,6 +976,10 @@
       "key": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036"
         },
@@ -933,8 +992,16 @@
           "target_id": "hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037"
         },
         {
+          "relation": "elaborates",
+          "target_id": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355"
+        },
+        {
           "relation": "source",
           "target_id": "plantinga-two-dozen-theistic-arguments--202609011500"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
         }
       ],
       "path": "permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md",
@@ -942,8 +1009,20 @@
       "tags": [],
       "title": "Design arguments can confirm belief they do not ground",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
+    },
+    {
+      "id": "202609022348",
+      "key": "epelbaum-viability-of-carbon-based-life--202609022348",
+      "links": [],
+      "path": "reference/epelbaum-viability-of-carbon-based-life--202609022348.md",
+      "slug": "epelbaum-viability-of-carbon-based-life",
+      "tags": [],
+      "title": "Epelbaum et al., Viability of Carbon-Based Life as a Function of the Light Quark Mass",
+      "type": "reference",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/epelbaum-viability-of-carbon-based-life--202609022348.md"
     },
     {
       "id": "202608311940",
@@ -1053,7 +1132,7 @@
       "tags": [],
       "title": "Goshen-Gottstein, \"Shituf: Critical and Constructive Reflections\"",
       "type": "reference",
-      "updated": "2026-09-01",
+      "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
     },
     {
@@ -1125,6 +1204,68 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/housel-the-psychology-of-money--202608311036.md"
+    },
+    {
+      "id": "202609022350",
+      "key": "hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "hoyle-the-universe-past-and-present-reflections--202609022346"
+        }
+      ],
+      "path": "literature/hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350.md",
+      "slug": "hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there",
+      "tags": [],
+      "title": "Hoyle reads a superintellect off the carbon resonance and stops there",
+      "type": "literature",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350.md"
+    },
+    {
+      "id": "202609022346",
+      "key": "hoyle-the-universe-past-and-present-reflections--202609022346",
+      "links": [],
+      "path": "reference/hoyle-the-universe-past-and-present-reflections--202609022346.md",
+      "slug": "hoyle-the-universe-past-and-present-reflections",
+      "tags": [],
+      "title": "Hoyle, The Universe: Past and Present Reflections",
+      "type": "reference",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/hoyle-the-universe-past-and-present-reflections--202609022346.md"
+    },
+    {
+      "id": "202609022355",
+      "key": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350"
+        },
+        {
+          "relation": "source",
+          "target_id": "hoyle-the-universe-past-and-present-reflections--202609022346"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
+        }
+      ],
+      "path": "permanent/hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355.md",
+      "slug": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god",
+      "tags": [],
+      "title": "Hoyle's own inference ran at full strength and terminated in a superintellect, not in God",
+      "type": "permanent",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355.md"
     },
     {
       "id": "202609011543",
@@ -1812,6 +1953,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/plantinga-two-dozen-theistic-arguments--202609011500.md"
     },
     {
+      "id": "202609022347",
+      "key": "polkinghorne-the-science-and-religion-debate--202609022347",
+      "links": [],
+      "path": "reference/polkinghorne-the-science-and-religion-debate--202609022347.md",
+      "slug": "polkinghorne-the-science-and-religion-debate",
+      "tags": [],
+      "title": "Polkinghorne, The Science and Religion Debate: An Introduction",
+      "type": "reference",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/polkinghorne-the-science-and-religion-debate--202609022347.md"
+    },
+    {
+      "id": "202609022351",
+      "key": "polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "polkinghorne-the-science-and-religion-debate--202609022347"
+        }
+      ],
+      "path": "literature/polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351.md",
+      "slug": "polkinghorne-trades-coerciveness-for-insight-and-names-the-exits",
+      "tags": [],
+      "title": "Polkinghorne trades coerciveness for insight, and names the exits",
+      "type": "literature",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351.md"
+    },
+    {
       "id": "202609010203",
       "key": "price-an-appeal-to-the-public-on-the-national-debt--202609010203",
       "links": [],
@@ -2234,6 +2404,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937.md"
     },
     {
+      "id": "202609022357",
+      "key": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "epelbaum-viability-of-carbon-based-life--202609022348"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352"
+        }
+      ],
+      "path": "permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md",
+      "slug": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it",
+      "tags": [],
+      "title": "The carbon tuning's evidential weight moved, and no belief moved with it",
+      "type": "permanent",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
+    },
+    {
       "id": "202609011016",
       "key": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
       "links": [
@@ -2434,6 +2637,23 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md"
+    },
+    {
+      "id": "202609022352",
+      "key": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "epelbaum-viability-of-carbon-based-life--202609022348"
+        }
+      ],
+      "path": "literature/the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352.md",
+      "slug": "the-lattice-recomputation-loosened-the-hoyle-states-tuning",
+      "tags": [],
+      "title": "The lattice recomputation loosened the Hoyle state's tuning, and widened its error bars",
+      "type": "literature",
+      "updated": "2026-09-02",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352.md"
     },
     {
       "id": "202609011541",

@@ -1,0 +1,149 @@
+Bounded excerpt capture of Fred Hoyle, "The Universe: Past and Present
+Reflections," Engineering and Science 45, no. 2 (November 1981): 8-12,
+ISSN 0013-7812. Captured from the PDF served by Caltech's own institutional
+repository at https://calteches.library.caltech.edu/3312/1/Hoyle.pdf (fetched
+2026-09-02T23:18:00Z, minute precision, HTTP 200, 811,220 bytes, 5 PDF pages
+carrying print pages 8-12, one print page per PDF page), the item record being
+https://calteches.library.caltech.edu/3312/ and the persistent identifier
+https://resolver.caltech.edu/CaltechES:45.2.Hoyle. The repository's own rights
+statement on that record reads: "You are granted permission for individual,
+educational, research and non-commercial reproduction, distribution, display
+and performance of this work in any format." Per this repository's excerpt
+policy the capture is nonetheless BOUNDED EXCERPTS, not the whole article:
+print page 12 only (the article's last page, both columns, complete), plus the
+title and byline from print page 8. Print pages 8-11 -- the interstellar-grain
+argument, the enzyme combinatorics, and the spaceship analogy that lead up to
+this page -- are NOT captured; notes must not quote them, and cite them only
+as attributed summary.
+
+PROVENANCE OF THE TEXT, recorded in full because this source is a SCAN, not
+digital typesetting, and the distinction changes what "two extractors agree"
+is worth. The PDF carries an OCR text layer over page images. Extracting with
+pdfminer.six and with poppler's pdftotext returns byte-identical text for the
+captured page INCLUDING its errors -- both read the same OCR layer, so their
+agreement is evidence about that layer and NOT about the printed page. The
+printed page was therefore established independently: PDF page 5 was rendered
+to a raster image (poppler pdftoppm, 130 dpi, PNG) and read directly. The text
+below is the PRINTED text as read from that image. Every place where the OCR
+layer disagrees with the print is listed here, OCR form first:
+
+  "7.65 Me V"                 -> "7.65 MeV"          (spurious space)
+  "7 .12 MeV level in 160"    -> "7.12 MeV level in 16O"
+                                 (the print sets a superscript 16 before the
+                                 letter O; OCR read the pair as "160")
+  "12C"                       -> "12C"  with a superscript 12 in print
+  "nucleosyhthesis"           -> "nucleosynthesis"
+  "put-Lip"                   -> "put-up"
+  "con clude" / "in trigued"  -> "conclude" / "intrigued"
+                                 (line-break hyphenation, hyphen dropped)
+  "iIi only a couple of days" -> "in only a couple of days"
+  "0 '"                       -> the printed end-of-article box glyph
+
+Superscript nuclide masses cannot be represented in this plain-text capture and
+are written inline as "12C" and "16O"; the print sets both masses as
+superscript prefixes. Typographic quotes are preserved as the print sets them,
+including the doubled-comma opening quotes in "By ''better'' I mean". Running
+head and print page number are excluded from the blocks and recorded here:
+the page foots "12  ENGINEERING & SCIENCE / NOVEMBER 1981". Paragraphs are
+reflowed from print lines; whitespace within paragraphs collapsed to single
+spaces. Nothing else was altered.
+
+Single-source capture: no second edition or reprint of this magazine article
+was consulted, so the rendered page image is the only witness to the print and
+quotations must match the text below.
+
+========================================================================
+
+BLOCK 1 -- print p. 8, the article's title and byline, complete.
+
+------------------------------------------------------------------------
+
+The Universe: Past and Present Reflections
+
+by Sir Fred Hoyle
+
+========================================================================
+
+BLOCK 2 -- print p. 12, left column, from "Rather than accept..." through the
+end of the column. The column's first two paragraphs (continuing the
+interstellar-grain argument from p. 11, and the Einstein aphorism) precede
+this and are not captured, with one exception noted in BLOCK 4.
+
+------------------------------------------------------------------------
+
+Rather than accept the fantastically small probability of life having arisen
+through the blind forces of nature, it seemed better to suppose that the
+origin of life was a deliberate intellectual act. By ''better'' I mean less
+likely to be wrong.
+
+Suppose a spaceship approaches the earth, but not close enough for the
+spaceship's imaginary inhabitants to distinguish individual terrestrial
+animals. They do see growing crops, roads, bridges, however, and a debate
+ensues. Are these chance formations or are they the products of an
+intelligence?
+
+Taking the view, palatable to most ordinary folk but exceedingly unpalatable
+to scientists, that there is an enormous intelligence abroad in the universe,
+it becomes necessary to write blind forces out of astronomy. Interstellar
+grains, living cells,
+
+========================================================================
+
+BLOCK 3 -- print p. 12, right column, complete, from the sentence the left
+column breaks off in ("...are to be regarded as purposeful tools") through
+the article's final sentence.
+
+------------------------------------------------------------------------
+
+are to be regarded as purposeful tools, every bit as purposeful, if you like,
+as a garden spade. We know from astronomical studies that the grains are
+mysteriously connected with a whole range of phenomena: the rate of
+condensation of stars; the mass function of stars; magnetic fields; spiral
+arms of galaxies; and quite probably with the formation of planetary systems.
+Not one of these phenomena has been explained by astronomers in better than
+fuzzy terms, just as the views of the imaginary travelers in the spaceship
+would be fuzzy if they attempted to explain terrestrial fields, walls, and
+ditches as products of the blind forces of nature.
+
+It would be necessary to calculate in full detail the properties of complex
+biopolymers in order to obtain the information required for the construction
+of a living cell. Such a project would be quite beyond our practical ability,
+but not beyond our comprehension. Indeed we are nearer to understanding what
+would be involved in it than a dog is to understanding the construction of a
+power station.
+
+Now imagine yourself as a superintellect working through possibilities in
+polymer chemistry. Would you not be astonished that polymers based on the
+carbon atom turned out in your calculations to have the remarkable properties
+of the enzymes and other biomolecules? Would you not be bowled over in
+surprise to find that a living cell was a feasible construct? Would you not
+say to yourself, in whatever language supercalculating intellects use: Some
+supercalculating intellect must have designed the properties of the carbon
+atom, otherwise the chance of my finding such an atom through the blind forces
+of nature would be utterly minuscule. Of course you would, and if you were a
+sensible superintellect you would conclude that the carbon atom is a fix.
+
+From 1953 onward, Fowler and I have been intrigued by the remarkable relation
+of the 7.65 MeV energy level in the nucleus of 12C to the 7.12 MeV level in
+16O. If you wanted to produce carbon and oxygen in roughly equal quantities by
+stellar nucleosynthesis, these are just the two levels you would have to fix,
+and your fixing would have to be just about where these levels are actually
+found to be. Is that another put-up, artificial job? Following the above
+argument, I am inclined to think so. A common sense interpretation of the
+facts suggests that a superintellect has monkeyed with physics, as well as
+with chemistry and biology, and that there are no blind forces worth speaking
+about in nature. The numbers one calculates from the facts seem to me so
+overwhelming as to put this conclusion almost beyond question.
+
+========================================================================
+
+BLOCK 4 -- print p. 12, left column, the single sentence in which the word
+"God" occurs anywhere on this page, captured because a note turns on the fact
+that Hoyle's own conclusion does NOT use the word. It sits in the column's
+second paragraph, before BLOCK 2, and is about the reliability of a scientific
+result, not about the design inference.
+
+------------------------------------------------------------------------
+
+Einstein is reported to have remarked that while God may be subtle, he is not
+malicious.

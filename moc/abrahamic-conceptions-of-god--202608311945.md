@@ -49,6 +49,26 @@ natural theology).
 - [[the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410]]
 - [[design-arguments-can-confirm-belief-they-do-not-ground--202609011510]]
 
+### The Hoyle state: the confirm/ground distinction worked on one argument
+
+The claim that design arguments confirm belief without grounding it is stated
+abstractly above, from Plantinga. Here it is checked against a single
+argument's actual history — the 7.65 MeV resonance in carbon-12 that Hoyle
+predicted in 1953 — where each half of the distinction leaves a separate trace.
+Worked for inquiry 202609022344.
+
+- [[hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355]]
+- [[a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356]]
+- [[the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357]]
+
+The three do different jobs. The first says the inference does not reach the
+belief's content, and says it biographically rather than by deduction. The
+second says its confirming use is issued as non-coercive by the believer using
+it. The third says its evidential weight has been revalued repeatedly — with
+the current error bars reaching "complete lack of fine-tuning" — while no
+belief moved with it. The last also records the honest cost: that same
+insensitivity is what an unfalsifiable commitment would look like.
+
 ## Knowability and the design arguments
 
 What the doctrine of the knowability of God shares with the teleological
@@ -99,6 +119,8 @@ Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronom
 [[gjelten-do-christians-and-muslims-worship-the-same-god--202608311927]], [[beckwith-do-muslims-and-christians-worship-the-same-god--202609010831]], [[beckwith-why-muslims-and-christians-worship-the-same-god--202609010832]].
 Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003]], [[craig-the-teleological-argument-and-the-anthropic-principle--202609011005]], [[aquinas-summa-theologiae-i-q2--202609011201]], [[venema-seeking-a-signature--202609011310]], [[meyer-of-molecules-and-straw-men--202609011311]], [[behe-molecular-machines--202609011400]], [[plantinga-two-dozen-theistic-arguments--202609011500]]
 (literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]], [[aquinas-makes-god-demonstrable-only-from-effects--202609011206]], [[venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315]], [[meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316]], [[behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405]], [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]]).
+The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346]], [[polkinghorne-the-science-and-religion-debate--202609022347]], [[epelbaum-viability-of-carbon-based-life--202609022348]]
+(literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

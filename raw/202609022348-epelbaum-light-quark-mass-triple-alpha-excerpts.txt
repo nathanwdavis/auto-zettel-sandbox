@@ -1,0 +1,163 @@
+Bounded excerpt capture of Evgeny Epelbaum, Hermann Krebs, Timo A. Lahde, Dean
+Lee and Ulf-G. Meissner, "Viability of Carbon-Based Life as a Function of the
+Light Quark Mass," Physical Review Letters 110, no. 11 (2013): 112502,
+DOI 10.1103/PhysRevLett.110.112502, arXiv:1212.4181 [nucl-th]. Captured from
+the arXiv PDF at https://arxiv.org/pdf/1212.4181 (fetched
+2026-09-02T23:31:00Z, minute precision, HTTP 200, 108,034 bytes, 4 pages),
+which is version v3, dated 21 March 2013 by the arXiv stamp in the left
+margin -- the version corresponding to the published Letter. The authors'
+names carry diacritics in the source (Lahde is "Lahde" with an umlauted a;
+Meissner is "Meissner" with an eszett; Csoto in the bibliography carries an
+acute o); they are transliterated here to ASCII and the reference note's
+csl_json carries the correctly accented forms.
+
+Per this repository's excerpt policy for an in-copyright journal article, the
+capture is BOUNDED EXCERPTS, not the whole Letter: the title and author block
+and the abstract (p. 1), one paragraph of the introduction surveying prior
+work (p. 1), the results paragraph bounding the tolerable variation (p. 3),
+the summary paragraph (p. 4), and five bibliography entries the notes point at
+(p. 4). The body of the calculation -- the chiral effective field theory
+setup, the lattice Monte Carlo method, the correlation analysis, both figures
+and their captions, and the acknowledgements -- is NOT captured; notes must
+not quote it, and cite it only as attributed summary.
+
+Text was extracted programmatically with BOTH pdfminer.six and poppler's
+pdftotext. The PDF is born-digital LaTeX output, not a scan, and the two
+extractions agree verbatim on every captured span, including reading order
+(this is a two-column Letter, and unlike the Faraday capture both extractors
+resolved the columns identically). No page image was consulted and none was
+needed.
+
+Normalizations, recorded: mathematical symbols are preserved as the extractors
+return them, so "epsilon" appears as the Greek letter, "~=" appears as the
+almost-equal sign, the minus in "2 - 3%" is the source's en-dash-like minus
+sign, and subscripts and superscripts are flattened -- "mq" is m with a
+subscript q (the light quark mass), "alpha_em" is alpha with subscript em,
+"A_s,t" is A-bar with subscripts s and t, "8Be" and "12C" set their mass
+numbers as superscript prefixes, and "d(epsilon)/d(M_pi)" is set as a partial
+derivative. The typographic quotes around "worst-case scenario" in the source
+are a doubled-comma opening quote and a plain closing quote, preserved as
+printed. Whitespace within paragraphs collapsed to single spaces; soft
+hyphenation at line breaks closed up. Nothing else was altered.
+
+========================================================================
+
+BLOCK 1 -- p. 1, title, authors, affiliations (condensed to institution names
+as printed) and the abstract, complete.
+
+------------------------------------------------------------------------
+
+Viability of Carbon-Based Life as a Function of the Light Quark Mass
+
+Evgeny Epelbaum, Hermann Krebs, Timo A. Lahde, Dean Lee and Ulf-G. Meissner
+
+Institut fur Theoretische Physik II, Ruhr-Universitat Bochum, D-44870 Bochum,
+Germany; Institut fur Kernphysik, Institute for Advanced Simulation, and
+Julich Center for Hadron Physics, Forschungszentrum Julich, D-52425 Julich,
+Germany; Department of Physics, North Carolina State University, Raleigh, NC
+27695, USA; Helmholtz-Institut fur Strahlen- und Kernphysik and Bethe Center
+for Theoretical Physics, Universitat Bonn, D-53115 Bonn, Germany; JARA - High
+Performance Computing, Forschungszentrum Julich, D-52425 Julich, Germany
+
+The Hoyle state plays a crucial role in the helium burning of stars that have
+reached the red giant stage. The close proximity of this state to the
+triple-alpha threshold is needed for the production of carbon, oxygen, and
+other elements necessary for life. We investigate whether this life-essential
+condition is robust or delicately fine-tuned by measuring its dependence on
+the fundamental constants of nature, specifically the light quark mass and the
+strength of the electromagnetic interaction. We show that there exist strong
+correlations between the alpha-particle binding energy and the various energies
+relevant to the triple-alpha process. We derive limits on the variation of
+these fundamental parameters from the requirement that sufficient amounts of
+carbon and oxygen be generated in stars. We also discuss the implications of
+our results for an anthropic view of the Universe.
+
+========================================================================
+
+BLOCK 2 -- p. 1, the introduction's survey of prior numerical work on the
+Hoyle state energy, complete. Epsilon is the paper's control parameter, the
+energy of the Hoyle state relative to the triple-alpha threshold.
+
+------------------------------------------------------------------------
+
+Several numerical studies have investigated the impact of changes in the Hoyle
+state energy. Livio et al. [11] modified the value of epsilon by hand and
+performed calculations involving the triple-alpha process in the core and
+helium shell burning of helium up to the asymptotic giant branch stage in
+stellar evolution. They concluded that a ~= 60 keV change in epsilon could be
+tolerated, and thus the amount of fine-tuning required was not as severe as
+first believed. A more microscopic calculation was performed by Oberhummer et
+al. [4, 12] in terms of a nuclear cluster model based on a simple two-nucleon
+(NN) + EM interaction. This NN interaction was formulated in terms of one
+strength parameter, adjusted to give a fair description of alpha-alpha
+scattering and the spectrum of 12C. By modifying this coupling strength and
+the EM fine structure constant alpha_em, the effect on carbon and oxygen
+production was analyzed. Outside of a narrow window of ~= 0.5% around the
+observed strong force and ~= 4% around the observed Coulomb force, the stellar
+production of carbon and/or oxygen was found to be reduced by several orders of
+magnitude. However, this model of the strong force is not readily connected to
+the fundamental theory of the strong interactions, quantum chromodynamics
+(QCD), and its fundamental parameters, the light quark masses. Therefore, it is
+not obvious how to translate the findings of Ref. [12] into anthropic
+constraints on fundamental parameters.
+
+========================================================================
+
+BLOCK 3 -- p. 3, the results paragraph translating the +/-100 keV envelope
+into bounds on the light quark mass, complete.
+
+------------------------------------------------------------------------
+
+From the stellar modeling calculations in Ref. [12], we find that sufficient
+abundances of both carbon and oxygen can be maintained within an envelope of
++/-100 keV around the observed value of epsilon. Allowing for a maximum shift
+of +/-100 keV in epsilon translates into bounds on the variations of mq. In
+Fig. 2, we show "survivability bands" for carbon-oxygen based life due to 1%
+and 5% changes in mq (in terms of A_s and A_t). To be precise, for a 5% change
+in mq, A_t must assume values within the red (narrow) band to allow for
+sufficient production of carbon and oxygen. The most up-to-date knowledge of
+these parameters is depicted by the data point with horizontal and vertical
+error bars. This NNLO determination of A_s,t shows that carbon-based life
+survives at least a ~= 0.7% shift in mq. In addition to this ''worst-case
+scenario", we find that the theoretical uncertainty in A_s,t is also compatible
+with a vanishing d(epsilon)/d(M_pi) (complete lack of fine-tuning). Given the
+central values of A_s,t, we conclude that variations of the light quark masses
+of 2 - 3% are unlikely to be catastrophic to the formation of life-essential
+carbon and oxygen.
+
+========================================================================
+
+BLOCK 4 -- p. 4, the summary paragraph, from "The position of the 8Be ground
+state..." through the sentence on what larger changes would require.
+
+------------------------------------------------------------------------
+
+The position of the 8Be ground state relative to the two-alpha threshold, as
+well as that of the Hoyle state relative to the three-alpha threshold, appears
+strongly correlated with the binding energy of the alpha-particle. We also find
+that the formation of carbon and oxygen in our Universe would survive a change
+of ~= 2% in mq or ~= 2% in alpha_em. Beyond such relatively small changes, the
+anthropic principle appears necessary at this time to explain the observed
+reaction rate of the triple-alpha process.
+
+========================================================================
+
+BLOCK 5 -- p. 4, five bibliography entries, quoted exactly as the Letter
+prints them, for the works the notes name. The remaining entries are not
+captured.
+
+------------------------------------------------------------------------
+
+[3] C. W. Cook, W. A. Fowler, C. C. Lauritsen, and T. Lauritsen, Phys. Rev.
+107, 508 (1957).
+
+[4] H. Oberhummer, A. Csoto, and H. Schlattl, Nucl. Phys. A689, 269 (2001).
+
+[6] H. Kragh, Arch. Hist. Exact Sci. 64, 721 (2010).
+
+[11] M. Livio, D. Hollowell, A. Weiss, and J. W. Truran, Nature (London) 340,
+281 (1989).
+
+[12] H. Oberhummer, A. Csoto, and H. Schlattl, Science 289, 88 (2000); H.
+Schlattl, A. Heger, H. Oberhummer, T. Rauscher, and A. Csoto, Astrophys. Space
+Sci. 291, 27 (2004).
