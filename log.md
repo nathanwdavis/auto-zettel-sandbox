@@ -856,3 +856,5 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-03T21:43:58Z` lint_links: PASS
 - `2026-09-03T21:43:58Z` lint_skills: PASS
 - `2026-09-03T21:43:59Z` check_skill_sandbox: PASS
+- `2026-09-03T21:44:22Z` remote_cycle: lock released
+- `2026-09-03T21:48:00Z` handoff (config change): lock released via `abort` for the usual reason -- the cycle COMPLETED, and `finish` hard-requires a `zettel/run-*` branch while this session is pinned to `claude/intelligent-heisenberg-7qtnpv`. Nothing pushed to main, nothing merged, branch handed to the required `gates` check
