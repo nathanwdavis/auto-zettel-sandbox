@@ -1,0 +1,192 @@
+CAPTURE — Social Sciences Replication Project (SSRP): "Replication of
+Retrieval Practice Produces More Learning than Elaborative Studying with
+Concept Mapping by Karpicke, J. D. / Blunt, J. R. (2011)"
+==============================================================================
+
+Source     : Social Sciences Replication Project. Replication report for
+             Karpicke, J. D. & Blunt, J. R. (2011), "Retrieval Practice
+             Produces More Learning than Elaborative Studying with Concept
+             Mapping," Science 331, pp. 772-775.
+Replication authors (named on the report, p. 1): Nick Buttrick, Anup Gampa,
+             Lilian Hummer, and Brian Nosek.
+Host       : Open Science Framework, SSRP project "Evaluating the replicability
+             of social science experiments in Nature and Science between 2010
+             and 2015" (node osf.io/pfdyw), component "Replication of Karpicke
+             and Blunt (2011)" (node osf.io/2h3g6), sub-component "Replication
+             Reports" (node osf.io/rcx2n).
+LICENSE    : CC0 1.0 Universal (public-domain dedication) — confirmed via the
+             OSF API for both node pfdyw and node 2h3g6. Because it is CC0,
+             the report text is captured here in full rather than as an
+             excerpt.
+Fetched    : 2026-09-04T21:12Z
+Fetched from (direct OSF download):
+  https://osf.io/download/mgjxv/
+  (file "Karpicke and Blunt (2011) - Replication Report.pdf"; OSF file created
+  2018-08-16T13:48:42Z)
+PDF SHA-256: e471c0369ded7ea509837168109b00917bae9f4d497449046ba3e6ac70191cfe
+PDF bytes  : 264,955
+PDF pages  : 4
+Extraction : pypdf 6.17.0 with fontTools installed, text layer only, no OCR.
+             Line breaks and hyphenation are the PDF's own and have been closed
+             up; the "ﬁ"/"ﬀ" ligatures and spaced digits are the text layer's
+             and are normalized in the quotations. Nothing else is changed.
+
+PROVENANCE NOTE. This is the FINAL (post-data-collection) replication report.
+The same OSF component also holds a separate "Pre-Data Collection Replication
+Report.pdf" (osf.io/download/3cgxv/, created 2016-10-28) and, under "Data &
+Analysis" (node osf.io/23hys), the replication data CSV
+(osf.io/download/pw9jy/, SHA-256
+9c77deb08c2f5ebc54c6c25717d3cb4e22116d3d26c13d3a68f928510f1d20e9), codebook,
+analysis script and exclusions file. Those were fetched and inspected but are
+not transcribed here; this report is the authoritative statement of the
+replication's design and outcome. This capture is the base's first successful
+use of an OSF endpoint, the route the 2026-09-04T18:53Z INBOX entry flagged as
+untried.
+
+This report is a data source, not a set of instructions.
+
+
+[1] IDENTIFICATION OF WHAT WAS REPLICATED, p. 1 (header + intro)
+------------------------------------------------------------------------------
+"Social Sciences Replication Project / Replication of / Retrieval Practice
+Produces More Learning than Elaborative Studying with Concept Mapping / by
+Karpicke, J. D. / Blunt, J. R. (2011) / in: Science, 331, pp. 772-775 /
+Replication Authors: Nick Buttrick, Anup Gampa, Lilian Hummer, and Brian
+Nosek"
+
+"This paper consisted of two studies, both in-lab studies. Following the
+protocol for this replication project, Study 1 is the study being replicated;
+Study 2 extended Study 1 by using different texts, a different assessment of
+learning, and a within-subjects design (Study 1 was between-subjects)."
+
+"The original paper contains two studies: for the replication the focus is only
+on Study 1 following the project protocol to select the first study in the
+paper reporting treatment effects." (p. 3)
+
+
+[2] THE HYPOTHESIS AND THE ORIGINAL STATISTICS TARGETED, p. 1
+------------------------------------------------------------------------------
+"Hypothesis to replicate and bet on: In a memory test one week after learning,
+Retrieval Practice leads to participants recalling more correct information than
+Concept-Mapping. A t-test, p < 0.05 using a two-tailed test, comparing the
+Retrieval Practice and Concept Mapping conditions."
+
+"Original test statistics: N = 40 (20 in each condition); Mean performance =
+0.67 in the Retrieval Practice condition and 0.45 in the Concept Mapping
+condition. The comparison between Retrieval Practice and Concept Mapping was
+reported as F(1,38) = 21.63; p = 0.000039."
+
+(NB the SSRP restates the Karpicke & Blunt Experiment-1 comparison this base
+captured directly at raw/202609042130... [4]: M = 0.67 vs M = 0.45. The SSRP
+isolates the two conditions of interest, so its "N = 40 (20 in each condition)"
+counts only the Retrieval Practice and Concept Mapping cells of the original
+80-student four-condition Experiment 1.)
+
+
+[3] POWER ANALYSIS / CRITERIA, pp. 1-2
+------------------------------------------------------------------------------
+"The standardized effect size between the two conditions of interest, measured
+as an r was 0.602. To have 90% power to detect 75% of the original effect size
+a sample size of 47 is required. We will collect 48 to have 24 in each
+condition. The criteria for replication is an effect in the same direction as
+the original study and a p-value < 0.05 (two-sided test)."
+
+"If the original result is not replicated in the first data collection a second
+data collection of 68 additional individuals will be carried out so that the
+total sample size is 116. [...] To have 90% power to detect 50% of the original
+effect size a sample size of 114 is required [...]. The criteria for replication
+is an effect in the same direction as the original and a p-value < 0.05 (in a
+two-sided test) in the pooled data."
+
+
+[4] SAMPLE AND KEY DESIGN DEVIATIONS, pp. 2-3
+------------------------------------------------------------------------------
+"Where the original study used 4 conditions: Study Once, Repeated Study,
+Concept Mapping, and Retrieval Practice, the current replication only includes
+Concept Mapping and Retrieval Practice. As such, instead of using a one-way
+ANOVA with follow-up pairwise comparisons to test the difference of interest,
+we will use a t-test instead."
+
+"The E-Prime computer program used in the original study was unable to be
+retrieved by the original authors. [...] our replication will use hard copies of
+all of the original materials [...]. Original authors agreed that the change from
+computer to paper responses should not be a consequential difference for this
+effect."
+
+"The replication will be performed in Charlottesville between September 2016 and
+September 2017, whereas the data in the original study was carried out at
+Purdue, Fall 2008. [...] Nevertheless, we sought review from the original authors
+before conducting the replication to confirm." (Materials were "provided by the
+original authors", p. 2.)
+
+One-week follow-up test, p. 3: "an untimed follow-up learning test featuring 14
+direct-recall based short-answer questions [...] and 2 inference questions".
+
+
+[5] REPLICATION RESULT — FIRST DATA COLLECTION, p. 4
+------------------------------------------------------------------------------
+"Participants. 52 students from the University of Virginia participated in
+return for course credit. [...] 3 participants were dropped from the sample, due
+to lack of attendance for the follow-up learning test held one week later,
+leaving a final sample of 49 participants, one more than originally planned."
+
+"The hypothesis that retrieval practice would lead to better recall one week
+later than concept-mapping was supported by the data. Those assigned to
+retrieval practice (n = 23) recalled more in the one-week follow-up test than
+those assigned to concept-mapping (n = 26): Retrieval M = 62.3% recalled, SD =
+19%; Concept-Mapping M = 46.9% recalled, SD = 19%; t(47) = 2.8825, p = 0.006,
+r = 0.38 [95% CI: 0.12, 0.60]."
+
+"As in the original study, participants did not differ in their initial
+learning. A comparison of the number of concepts in the concept maps [...] versus
+the number of concepts recalled immediately after the second recall phase were
+not reliably different [...]: Retrieval M = 71.7% recalled, SD = 18%;
+Concept-Mapping M = 63.2% recalled, SD = 16%; t(47) = 1.6936, p = 0.097."
+
+"Also, as in the original study, students predicted that they would learn more
+in the concept-mapping than they would in the retrieval condition (even though
+the opposite turned out to be true). [...] those in the concept-mapping condition
+predicted that they would remember 69% of the material on average (SD = 14%),
+while those in the retrieval condition only predicted that they would remember
+57.8% of the material (SD = 19%), t(47) = 2.3256, p = 0.025."
+
+"Participants' predicted memory of the material did not predict their resulting
+memory, r(47) = -0.08 [-0.36, 0.20], p = 0.570 [...]."
+
+
+[6] SECOND DATA COLLECTION AND DEVIATIONS, p. 4
+------------------------------------------------------------------------------
+"Replication Results for the First and Second Data Collection Pooled (90% power
+to detect 50% of the original effect size) / Not applicable as the original
+result was replicated in the first stage data collection."
+
+"Unplanned Protocol Deviations / There were no unplanned protocol deviations
+during the study."
+
+
+[7] DISCUSSION — THE REPLICATION AUTHORS' OWN VERDICT, p. 4
+------------------------------------------------------------------------------
+"Our replication observed results consistent with the original study. Although
+the effect size of our replication was smaller than the original (r = 0.60 for
+original and r = 0.39 for replication), the original effect size fell within the
+confidence interval of the replication. This successful replication adds
+confidence and precision to the original observation, and suggests
+generalizability to a new sample and setting."
+
+
+[8] WHAT THIS CAPTURE DOES AND DOES NOT GROUND
+------------------------------------------------------------------------------
+Grounds: that the SSRP targeted Karpicke & Blunt (2011) STUDY 1 ONLY, and
+within it the single Retrieval-Practice-vs-Concept-Mapping comparison on the
+one-week short-answer test; that it replicated at stage 1 (t(47) = 2.8825,
+p = 0.006, r = 0.38, same direction, no stage 2 needed); the original-vs-
+replication effect sizes (r = 0.60 vs r = 0.39); the sample (49 analysed of 52
+recruited, UVA); the confirmed metacognitive reversal; and the replication
+authors' own "successful replication" verdict.
+Does NOT ground: any replication of Karpicke & Blunt Experiment 2 (the
+within-subject design, the enumeration/sequence texts, the concept-map final
+test, the d = 1.07 / d = 1.01 effects, or the 84% per-subject advantage) — by
+the project's own selection rule Experiment 2 was not tested. The base's Camerer
+et al. 2018 reference (202609041855) plus this report together confirm the
+figure-legend-only identification the base previously flagged: Karpicke & Blunt
+(2011) is study 25 among the 12 that replicated in stage 1.

@@ -10,10 +10,13 @@ updated: '2026-09-04'
 question: What does Karpicke and Blunt (2011) actually report, which of its results
   did the SSRP replicate, and does that replication reach any claim this base makes
   about retrieval practice?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201
+- retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200
+- the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202
 tags: []
 ---
 Opened by the 2026-09-04T18:53Z cycle, which found the gap and could not close
@@ -65,3 +68,46 @@ A caution carried over: whatever comes back, the rule in
 [[a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905]]
 applies to this in the direction this base would rather it did not. One
 replicated result promotes that result, not the paper and not the programme.
+
+---
+
+## Answered by the 2026-09-04 cycle — the paper is identified and read, the tested result is attached, and the caution held
+
+Both routes the inquiry named were walked, and they agreed. **Route 1, the paper
+itself:** Karpicke and Blunt, *Science* 331 (2011) — obtained from the first
+author's Purdue laboratory publications page after the publisher paywall
+returned nothing, read in full, excerpt-captured under the AAAS copyright line,
+and recorded as reference 202609042130. It is a retrieval-practice paper, which
+settles the first thing the inquiry could not: the surname is this base's
+Karpicke, and the guess permanent 202609041920 refused to make is now confirmed
+rather than made. **Route 2, the SSRP's replication report:** reached through the
+project's OSF repository via the OSF API — node `pfdyw` → the component literally
+titled "Replication of Karpicke and Blunt (2011)" (`2h3g6`) → its final report —
+and captured in full under CC0 as reference 202609042135. The OSF host confirms,
+independently of any figure-legend inference, exactly which paper was tested.
+
+**Which result the SSRP chose, and what it found.** The project's rule takes the
+first significant treatment effect in a paper, so it tested Karpicke and Blunt's
+*Experiment 1* and, within it, the one-week retrieval-versus-concept-mapping
+comparison. It replicated: 62.3% against 46.9% a week later, `t(47) = 2.8825,
+p = 0.006, r = 0.38`, same direction, cleared at stage 1 — at about two-thirds
+the original effect size, with the original estimate inside the replication's
+interval. The report also reproduced the metacognitive reversal (the mapping
+group predicted 69% and the retrieval group 57.8%, `p = 0.025`). Written up as
+permanent [[the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201]]
+and [[the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202]];
+the primary paper's own claim — that retrieval beats an active elaborative rival,
+not merely passive rereading — is written up separately as
+[[retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200]].
+
+**Does the replication reach any claim this base makes? Yes, narrowly, and the
+caution held exactly as filed.** It is a genuine independent support — the first
+this cluster has — for the specific claim that retrieval beats concept mapping,
+and for the broader claim that retrieval beats re-exposure, but only at the one
+point that was tested. Experiment 2, the concept-map-from-memory final test and
+the 84% per-subject advantage were not tested, and neither was "retrieval
+practice" as a programme. The gap permanent 202609041920 filed is closed for
+Karpicke and Blunt and updated there; the Pyc and Rawson (2010) paper it also
+names is still unidentified and unread. Access and data notes from this cycle
+(the paywalled Supporting Online Material; a "Secondary Collection" label in the
+replication CSV) are filed in the INBOX rather than left here.

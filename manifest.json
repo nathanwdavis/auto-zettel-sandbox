@@ -303,6 +303,13 @@
     "202609042080": "no-composition-does-different-work-in-each-tradition--202609042080",
     "202609042081": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081",
     "202609042082": "the-base-read-question-two-and-skipped-question-three--202609042082",
+    "202609042130": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130",
+    "202609042135": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135",
+    "202609042140": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140",
+    "202609042145": "the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145",
+    "202609042200": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200",
+    "202609042201": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201",
+    "202609042202": "the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -526,8 +533,12 @@
       "path": "inquiries/what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906.md",
       "priority": "high",
       "question": "What does Karpicke and Blunt (2011) actually report, which of its results did the SSRP replicate, and does that replication reach any claim this base makes about retrieval practice?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200",
+        "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201",
+        "the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -557,7 +568,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 308,
+  "note_count": 315,
   "notes": [
     {
       "id": "202609041020",
@@ -2805,6 +2816,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/kabbalah-separates-acknowledging-god-from-addressing-him--202609011540.md"
     },
     {
+      "id": "202609042140",
+      "key": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
+        }
+      ],
+      "path": "literature/karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140.md",
+      "slug": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments",
+      "tags": [],
+      "title": "Karpicke and Blunt put retrieval practice against concept mapping in two experiments",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140.md"
+    },
+    {
+      "id": "202609042130",
+      "key": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130",
+      "links": [],
+      "path": "reference/karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130.md",
+      "slug": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping",
+      "tags": [],
+      "title": "Karpicke and Blunt, Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130.md"
+    },
+    {
       "id": "202609040325",
       "key": "karpicke-retrieval-based-learning--202609040325",
       "links": [],
@@ -4262,6 +4302,31 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md"
     },
     {
+      "id": "202609042200",
+      "key": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620"
+        },
+        {
+          "relation": "source",
+          "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        }
+      ],
+      "path": "permanent/retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200.md",
+      "slug": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival",
+      "tags": [],
+      "title": "Retrieval practice beats not only rereading but concept mapping, an active elaborative rival",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200.md"
+    },
+    {
       "id": "202609041935",
       "key": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935",
       "links": [
@@ -4629,6 +4694,18 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810.md"
+    },
+    {
+      "id": "202609042135",
+      "key": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135",
+      "links": [],
+      "path": "reference/ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135.md",
+      "slug": "ssrp-replication-report-for-karpicke-and-blunt-2011",
+      "tags": [],
+      "title": "Social Sciences Replication Project, Replication Report for Karpicke and Blunt (2011)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135.md"
     },
     {
       "id": "202609010802",
@@ -6281,6 +6358,47 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-offloading-literature-varies-expectation-not-accumulation--202609041840.md"
     },
     {
+      "id": "202609042201",
+      "key": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "source",
+          "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
+        },
+        {
+          "relation": "supports",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "supports",
+          "target_id": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200"
+        },
+        {
+          "relation": "source",
+          "target_id": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920"
+        }
+      ],
+      "path": "permanent/the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201.md",
+      "slug": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size",
+      "tags": [],
+      "title": "The one Karpicke and Blunt result the SSRP tested — Experiment 1's retrieval-over-concept-mapping effect — replicated independently at about two-thirds its original size",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201.md"
+    },
+    {
       "id": "202609032210",
       "key": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
       "links": [
@@ -6601,6 +6719,10 @@
         {
           "relation": "shared-concept",
           "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201"
         },
         {
           "relation": "source",
@@ -7030,6 +7152,48 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900.md"
+    },
+    {
+      "id": "202609042145",
+      "key": "the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135"
+        }
+      ],
+      "path": "literature/the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145.md",
+      "slug": "the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held",
+      "tags": [],
+      "title": "The SSRP replicated only Experiment 1 of Karpicke and Blunt, and it held",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145.md"
+    },
+    {
+      "id": "202609042202",
+      "key": "the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350"
+        },
+        {
+          "relation": "source",
+          "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
+        },
+        {
+          "relation": "source",
+          "target_id": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135"
+        }
+      ],
+      "path": "permanent/the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202.md",
+      "slug": "the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample",
+      "tags": [],
+      "title": "The SSRP replication reproduced Karpicke and Blunt's metacognitive reversal on a fresh sample",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202.md"
     },
     {
       "id": "202609042002",

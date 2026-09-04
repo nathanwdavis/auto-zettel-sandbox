@@ -1635,3 +1635,18 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T20:00:13Z` check_skill_sandbox: PASS
 - `2026-09-04T20:00:20Z` remote_cycle: finish zettel/run-20260904195506 (skill-rev=d986b16; lock released after push)
 - `2026-09-04T20:00:20Z` remote_cycle: PR for zettel/run-20260904195506 must be opened by the session (GitHub CLI not installed in this container)
+- `2026-09-04T21:51:07Z` verify_refs: 96/96 verified
+- `2026-09-04T21:51:28Z` build_manifest: 315 notes indexed
+- `2026-09-04T21:51:47Z` lint_citations: PASS
+- `2026-09-04T21:51:48Z` lint_links: PASS
+- `2026-09-04T21:52:00Z` cycle 2026-09-04 (Karpicke & Blunt 2011 / SSRP): worked one inquiry — `what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906`, now `answered` with result_notes 202609042201, 202609042200, 202609042202
+- `2026-09-04T21:52:01Z` notes created: 2 raw captures (202609042130 K&B excerpts, 202609042135 SSRP report), 2 reference notes (202609042130 peer-reviewed, 202609042135 reputable-secondary), 2 literature notes (202609042140, 202609042145), 3 permanent notes (202609042200 retrieval-beats-concept-mapping, 202609042201 SSRP replicated Exp 1 at ~2/3 size, 202609042202 metacognitive reversal reproduced)
+- `2026-09-04T21:52:02Z` critic: all three permanent notes PASS, groundedness 1.00, cleared to merge
+- `2026-09-04T21:52:03Z` OSF route success: SSRP repository reached for the first time via the OSF API (api.osf.io/v2/nodes/pfdyw -> child 2h3g6 "Replication of Karpicke and Blunt (2011)" -> files; nodes CC0), closing the "OSF route untried" INBOX item; skill-smith suggestion (an OSF-API rung for source-access-triage) filed in INBOX, skill NOT modified
+- `2026-09-04T21:52:04Z` librarian: filed the 3 permanent notes into MOC zettelkasten-method--202608301300 (sixth extension); resolved gap note 202609041920 for K&B with a link + honest resolution paragraph (Pyc & Rawson still open); INDEX unchanged (links only to MOCs); reciprocal typed links NOT added — repo convention is non-reciprocal (e.g. 202609040350->202609040340 is not mirrored)
+- `2026-09-04T21:52:05Z` step 5 connector: SKIPPED (serendipity/connector not due this cycle)
+- `2026-09-04T21:52:06Z` step 7 skill-smith: SKIPPED (skill_smith_cadence not due; skill changes are human-only)
+- `2026-09-04T21:52:07Z` verify_refs: 96/96 verified live; pre-existing reference notes restored to HEAD to undo the offline/date churn, keeping only the 2 new refs with freshly rendered Chicago strings + verification=true (raw-capture)
+- `2026-09-04T21:52:08Z` gates: build_manifest --check PASS (315 notes), lint_citations PASS, lint_links PASS
+- `2026-09-04T21:52:39Z` lint_citations: PASS
+- `2026-09-04T21:52:40Z` lint_links: PASS

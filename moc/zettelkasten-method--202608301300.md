@@ -141,4 +141,31 @@ literature: peer forecasts landed within one and a half points of the observed
 replication rate and tracked the individual studies, which makes scepticism
 about a striking finding a calibrated reading rather than a mood.
 
+Extended a sixth time on 2026-09-04, and this group closes the question the
+fifth opened. The gap the fifth section named — that two of the SSRP's
+twenty-one papers might belong to this cluster but could not be told apart from
+a surname and a year — is now closed for one of them. The Karpicke and Blunt
+(2011) paper was obtained and read in full, and the project's own per-study
+replication report for it was reached through the SSRP's OSF repository and read
+too, so this base now holds the primary finding and its independent check rather
+than a filed question about them:
+
+- [[retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200]]
+- [[the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201]]
+- [[the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202]]
+
+The first is the primary paper read directly: retrieval beats not just rereading
+but concept mapping, an active elaborative rival, which is a harder and more
+informative test than anything else in this map. The second is the one result
+the fifth section could file only as a question — the single retrieval-versus-mapping
+comparison replicated independently at about two-thirds its original size — and it
+is what resolves
+[[the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920]]
+above, narrowly and without promoting the paper or the programme. The third is
+the metacognitive reversal reproduced on a fresh sample, the outside confirmation
+[[confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350]]
+had been waiting for. All three stay inside the same one-week, undergraduate,
+short-science-prose scope as the rest of the cluster, and none of them reaches
+longer horizons, connected knowledge, or note-taking.
+
 See also: [[compound-growth--202608311143]]
