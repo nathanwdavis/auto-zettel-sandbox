@@ -155,3 +155,18 @@ bestowed on us.
 **One caution about attribution.** Two sentences in the Q 3:64 section are marked
 `قال الشيخ - رحمه الله -` and belong to the recension's transmitter-editor rather
 than to al-Maturidi. Neither is quoted above as his.
+
+**Correction to the reading, entered 2026-09-04T14:20Z, and the elision claim
+survives it.** This note's capture was taken with a paging rule the 14:00Z cycle
+proved wrong — altafsir.com renders `التالي` on page 1 only, renders the same
+control as English `Next` on interior pages, and serves it indefinitely past the
+end of a section — so the read stopped at two pages. **The Q 29:46 section runs
+to three.** The missing page is at
+`raw/202609041420-recovered-third-pages-tabrisi-and-maturidi-29-46-arabic.txt`;
+the original capture is left untouched, raw/ being immutable. The claim this note
+makes is an elision — that al-Maturidi lemmatises around the shared-God clause
+and never glosses it — and a claim of that shape is exactly what a short capture
+can manufacture, so it was re-checked rather than assumed. It holds: the
+recovered page does not return to the clause, commenting instead on
+`بل هو آيات بينات في صدور الذين أوتوا العلم` and `وما يجحد بآياتنا إلا الظالمون`,
+and `معبود` is 0 on it as it is across the whole section.

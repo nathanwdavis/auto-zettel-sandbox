@@ -1,0 +1,99 @@
+SOURCE CAPTURE — the pages two earlier captures in this repository missed: al-Tabrisi's
+Majma' al-bayan and al-Maturidi's Ta'wilat ahl al-sunna on Q 29:46, page 3 of 3. Arabic, verbatim.
+
+WHAT THIS FILE IS FOR. The 11:00Z and 12:00Z cycles of 2026-09-04 read altafsir.com with a paging
+rule that this cycle proved wrong: they stopped a section when the page carried no `التالي`
+control, and that control is rendered on page 1 only. Every section of three or more pages was
+therefore cut at two. An audit of all six sections those cycles captured found two short:
+
+  al-Tusi      Q 3:64   1 page  — complete
+  al-Tusi      Q 29:46  2 pages — complete
+  al-Tabrisi   Q 3:64   2 pages — complete
+  al-Tabrisi   Q 29:46  3 pages — SHORT by one page, ~2.7k characters
+  al-Maturidi  Q 3:64   1 page  — complete
+  al-Maturidi  Q 29:46  3 pages — SHORT by one page, ~1.7k characters
+
+raw/ is immutable, so the two short captures are left exactly as they were written and this file
+supplies what they lack. It is an addition, not a correction of them.
+
+WHAT THE RECOVERED TEXT DOES AND DOES NOT DISTURB. Notes in this repository rest on two negative
+counts taken from those captures: that `معبود` — the word in which al-Tabari identifies the two
+parties' object of worship — occurs nowhere in these commentators' treatment of the verse, and
+that the shared-God clause `وإلهنا وإلهكم واحد` is passed over without gloss. Both were re-run
+over the COMPLETE sections and both hold: `معبود` is absent from the recovered pages and from the
+whole of each section, and neither recovered page returns to the shared-God clause. The recovered
+text is on the verses that follow — `بل هو آيات بينات في صدور الذين أوتوا العلم` and what comes
+after. So no claim in this base falls. That was checked, not assumed, and the counts are printed
+below the page headers.
+
+Retrieved: 2026-09-04T14:20Z
+Host and route: altafsir.com, Tafasir.asp, as in the captures being completed —
+  tMadhNo=4 tTafsirNo=3 for al-Tabrisi, tMadhNo=2 tTafsirNo=94 for al-Maturidi, tSoraNo=29
+  tAyahNo=46, &Page=3.
+TRANSFORMATION APPLIED, AND THE ONLY ONE. altafsir.com serves windows-1256; the
+bytes were decoded as cp1256 and the numeric HTML entities this site uses for
+Arabic (`&#1649;`-style) were unescaped. `<script>`, `<style>` and `<select>`
+elements were removed WHOLE, contents included, before anything else — they are
+machinery and form controls rather than text. BLOCK-level tags (br, p, div, tr,
+td, table, center, h1-h6, li, ul, ol, hr, form) were replaced by a newline;
+INLINE tags (font, b, a, span) were removed without inserting anything, so a
+lemma the site wraps per-word stays on one line with its `{ }` intact. Runs of
+spaces were collapsed. Site chrome was removed by cross-section frequency — a
+line occurring in three or more of the independently fetched pages is
+navigation. NOTHING was removed for being short and nothing for being numeric;
+the one length test in the pipeline runs the other way, WITHHOLDING lines over
+120 characters from the chrome remover so that a section's verse text, which is
+reprinted on every page of that section, cannot be mistaken for navigation once
+the section runs to three pages or more. Not one Arabic character was added,
+removed or reordered, and the vocalisation is as served. The SHA-256 of each
+page is of the bytes exactly as served, so the transformation is reversible
+from the URL.
+
+HOW EXHAUSTION WAS ESTABLISHED, AND WHY THE PREVIOUS RULE WAS WRONG. This base's
+standing access note said a page with a successor carries a `التالي` control.
+That is true of page 1 and of page 1 only: interior pages render the same
+forward control with the ENGLISH alt `Next`, and — the part that matters — the
+control is served INDEFINITELY, on empty pages past the end of a section as
+well as inside it. Testing for `التالي` therefore stops every section at two
+pages, and testing for either alt never stops at all. Neither control is
+evidence. What is evidence is the text: every page of a section reprints that
+section's verse as one long line, and a page carrying commentary carries more
+than that one line. Each section below was read until a page came back with the
+verse alone, and the TWO pages after the last content page were then fetched and
+are recorded, so that a single empty page inside a section could not have ended
+the read early. The rule and this capture's page counts are what the accompanying
+INBOX entry reports.
+
+========================================================================
+CAPTURED TEXT BEGINS
+========================================================================
+
+===== al-Tabrisi, Majma' al-bayan fi tafsir al-Qur'an — Q 29:46, page 3 of 3 =====
+  earlier capture: raw/202609041105-tabrisi-majma-al-bayan-3-64-and-29-46-arabic.txt (took pages 1-2 of 3)
+  Page=3  92086 bytes  sha256 f518dbf964428e2fa42559582d1c92565fec927e8ba68cfade786f79d9d7390e
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=3&tSoraNo=29&tAyahNo=46&tDisplay=yes&Page=3&Size=1&LanguageId=1
+    selected: 29   العنكبوت | تفاسير الشيعة الإثنى عشرية | مجمع البيان في تفسير القرآن/ الطبرسي (ت 548 هـ)
+    exhaustion probe Page=4: 1 line(s) over 120 chars (verse text alone); 90536 bytes, sha256 2c5a65fae2862bdd9f01f1b9b2f37b2dd41eabf5228efd521d23f17e7d235d9c
+    exhaustion probe Page=5: 1 line(s) over 120 chars (verse text alone); 90536 bytes, sha256 554be10dd555e7f94239a3dcba4e17555cf540e076b8b88fa7b12ce358063768
+  counts over the WHOLE section (pages 1-3): معبود 0; وإلهنا وإلهكم واحد 1 (occurrences in the reprinted Qur'anic verse text included)
+  counts over the RECOVERED page alone: معبود 0
+----- body Page=3 -----
+{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ } * { وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَابَ فَٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلْكَافِرونَ } * { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطُّهُ بِيَمِينِكَ إِذاً لاَّرْتَابَ ٱلْمُبْطِلُونَ } * { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلظَّالِمُونَ } * { وَقَالُواْ لَوْلاَ أُنزِلَ عَلَيْهِ آيَاتٌ مِّن رَّبِّهِ قُلْ إِنَّمَا ٱلآيَاتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَاْ نَذِيرٌ مُّبِينٌ }
+ثم قال سبحانه { بل هو آيات بينات في صدور الذين أوتوا العلم } يعني أن القرآن دلالات واضحات في صدور العلماء وهم النبي صلى الله عليه وسلم والمؤمنون به لأنهم حفظوه ووعوه ورسخ معناه في قلوبهم عن الحسن. وقيل: هم الأئمة ع من آل محمد عن أبي جعفر وأبي عبد الله عليهما السلام. وقيل: إن هو كناية عن النبي صلى الله عليه وسلم أي إنه في كونه أمياً لا يقرأ ولا يكتب آيات بينات في صدور العلماء من أهل الكتاب لأنه منعوت في كتبهم بهذه الصفة عن الضحاك وقال قتادة المراد به القرآن وأعطى هذه الأمة الحفظ ومن كان قبلها لا يقرؤون الكتاب إلا نظراً فإذا أطبقوه لم يحفظوا ما فيه إلا اليسير. { وما يجحد بآياتنا إلا الظالمون } الذين ظلموا أنفسهم بترك النظر فيها والعناد لها بعد حصول العلم لهم بها. وقيل: يريد بالظالمين كفار قريش واليهود وقالوا يعني كفار مكة. { لولا أنزل عليه آية من ربه } أراد به الآيات التي اقترحوها في قوله{ وقالوا لن نؤمن لك حتى تفجر لنا من الأرض ينبوعاً } [الإسراء: 90] الآيات وأن يجعل الصفا ذهباً. وقيل: إنهم سألوا آية كآية موسى ع من فلق البحر وقلب العصا حية وجعلوا ما أتى به من المعجزات والآيات غير آية وحجة إلقاء للشبهة بين العوام فقال الله تعالى { قل } يا محمد لهم { إنما الآيات عند الله } ينزلها ويظهرها بحسب ما يعلم من مصالح عباده وينزل على كل نبي منها ما هو أصلح له ولأمته ولذلك لم تتفق آيات الأنبياء كلها وإنما جاء كل نبي بفن منها { وإنما أنا نذير مبين } أي منذر مخوّف من معصية الله مظهر طريق الحق والباطل وقد فعل الله سبحانه ما يشهد بصدقي من المعجزات.
+
+===== al-Maturidi, Ta'wilat ahl al-sunna — Q 29:46, page 3 of 3 =====
+  earlier capture: raw/202609041200-maturidi-tawilat-ahl-al-sunna-3-64-and-29-46-arabic.txt (took pages 1-2 of 3)
+  Page=3  93033 bytes  sha256 2c1e6051437c866756ec06867d3091284b37ca6b86243f1c4dda8d67fb0c9991
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=29&tAyahNo=46&tDisplay=yes&Page=3&Size=1&LanguageId=1
+    selected: 29   العنكبوت | تفاسير أهل السنة | تأويلات أهل السنة/ الماتريدي (ت 333هـ)
+    exhaustion probe Page=4: 1 line(s) over 120 chars (verse text alone); 92041 bytes, sha256 66e010f31d1fe7866867a0c2bd9a8f123442c0fb766aa1449e434f6c9fc79021
+    exhaustion probe Page=5: 1 line(s) over 120 chars (verse text alone); 92041 bytes, sha256 d95cfb4d774614e720e7fc695fc2ece649ca99563311e4582869c457c05795a8
+  counts over the WHOLE section (pages 1-3): معبود 0; وإلهنا وإلهكم واحد 0 (occurrences in the reprinted Qur'anic verse text included)
+  counts over the RECOVERED page alone: معبود 0
+----- body Page=3 -----
+{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ } * { وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَابَ فَٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلْكَافِرونَ } * { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطُّهُ بِيَمِينِكَ إِذاً لاَّرْتَابَ ٱلْمُبْطِلُونَ } * { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلظَّالِمُونَ }
+فذلك كله يدل على رسالته ونبوته، لا يرتاب فيه إلا المبطل المعاند المكابر.
+وقوله: { فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ } جائز أن يكون قوله: { فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ } أي: أوتوا منافع العلم، أي: هو آيات بينات في صدور الذين أوتوا منافع العلم، فأمّا من لم يؤت منافع العلم فلا.
+وقوله: { وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلظَّالِمُونَ } يحتمل: الظلم: ظلم الآيات، لم يضعوها في موضعها.
+ويحتمل: الظالمون: الكافرون.
+

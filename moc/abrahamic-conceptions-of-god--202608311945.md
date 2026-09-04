@@ -332,6 +332,36 @@ category, it is not the syntax alone. That is the closest this base has come to
 saying what work the same-God question does *not* do in Islamic law, and it is
 the same shape as the *shituf* finding on the Jewish side.
 
+### The Shi'i jurists, added 2026-09-04: the reported half, read from inside
+
+The section above ends on a claim this base held from one clause of one modern
+Sunni author — that the Imamiyya and some Zaydis take the strict line — and the
+cycle that wrote it filed its own gap to INBOX: no Imami or Zaydi text was in
+the repository at all. Four commentaries later, two Imami and two Zaydi, on the
+two verses that decide the question between them (Q 2:221 and Q 5:5):
+
+- [[the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445]]
+- [[the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450]]
+- [[the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455]]
+
+The Imami half is confirmed and sharpened. Al-Tusi and al-Tabrisi both mark the
+position `عندنا` and `مذهبنا` rather than reporting it, and both run the
+abrogation backwards — Q 5:5 read down by Q 2:221 and Q 60:10, with reports from
+al-Baqir and al-Sadiq saying so in as many words. The sharpening is a
+qualification the Sunni report loses: what they forbid is the *permanent*
+contract, while *mut'a* and concubinage with the same women stay permitted. The
+strictness is about the contract, not about contact.
+
+The Zaydi half comes back split, and that is the more interesting result. The
+strict reading is credited to Yahya and al-Qasim, the school's founding imams,
+by the later of the two Zaydi commentaries; the older one — the glossary
+published under the eponym's own name — reads Q 2:221 the lenient way. So "some
+Zaydis" is a real division and not a hedge, and "the Shi'a" would have been
+wrong where the two attributions are right. Those attributions themselves turn
+out to be old: al-Tabrisi writes `بعض الزيدية` in the twelfth century, the same
+phrase al-Sabuni uses in the twentieth, which is how a claim carried on one
+modern witness became a claim carried across eight centuries and both sects.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -373,6 +403,8 @@ Islam, the Maturidi school: [[maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--2
 (literature: [[maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205]]).
 Islam, the *ahkam al-Qur'an* literature on Q 2:221: [[qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300]], [[sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305]]
 (literature: [[qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310]], [[sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315]]).
+Islam, the Shi'i commentaries on Q 2:221 and Q 5:5 — Imami and, for the first time in this base, Zaydi: [[tusi-al-tibyan-on-2-221-and-5-5--202609041400]], [[tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405]], [[zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410]], [[aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415]]
+(literature: [[tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425]], [[tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430]], [[the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435]], [[aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

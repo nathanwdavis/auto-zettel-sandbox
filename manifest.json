@@ -208,6 +208,17 @@
     "202609041320": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320",
     "202609041325": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325",
     "202609041330": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
+    "202609041400": "tusi-al-tibyan-on-2-221-and-5-5--202609041400",
+    "202609041405": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405",
+    "202609041410": "zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410",
+    "202609041415": "aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415",
+    "202609041425": "tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425",
+    "202609041430": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430",
+    "202609041435": "the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435",
+    "202609041440": "aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440",
+    "202609041445": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
+    "202609041450": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450",
+    "202609041455": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -278,6 +289,7 @@
         "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220",
         "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
         "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
+        "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
         "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
         "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
@@ -289,7 +301,9 @@
         "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
         "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
         "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
+        "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450",
         "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
+        "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455",
         "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825",
         "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
       ],
@@ -367,7 +381,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 213,
+  "note_count": 224,
   "notes": [
     {
       "id": "202609041020",
@@ -856,6 +870,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md"
+    },
+    {
+      "id": "202609041440",
+      "key": "aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415"
+        }
+      ],
+      "path": "literature/aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440.md",
+      "slug": "aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only",
+      "tags": [],
+      "title": "al-A'qam credits Yahya and al-Qasim with reading Q 5:5's \"muhsanat of the People of the Book\" as those of them who converted",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440.md"
+    },
+    {
+      "id": "202609041415",
+      "key": "aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415",
+      "links": [],
+      "path": "reference/aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415.md",
+      "slug": "aqam-tafsir-al-aqam-on-2-221-and-5-5",
+      "tags": [],
+      "title": "al-A'qam, Tafsir al-A'qam, on Q 2:221 and Q 5:5",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415.md"
     },
     {
       "id": "202609011206",
@@ -3520,6 +3563,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120.md"
     },
     {
+      "id": "202609041430",
+      "key": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405"
+        }
+      ],
+      "path": "literature/tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430.md",
+      "slug": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis",
+      "tags": [],
+      "title": "al-Tabrisi lays out the whole field on Q 2:221, attributes the strict reading to Ibn 'Umar and some Zaydis, and then claims it as his school's",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430.md"
+    },
+    {
+      "id": "202609041405",
+      "key": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405",
+      "links": [],
+      "path": "reference/tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405.md",
+      "slug": "tabrisi-majma-al-bayan-on-2-221-and-5-5",
+      "tags": [],
+      "title": "al-Tabrisi, Majma' al-bayan fi tafsir al-Qur'an, on Q 2:221 and Q 5:5",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405.md"
+    },
+    {
       "id": "202609041105",
       "key": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105",
       "links": [],
@@ -4029,6 +4101,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920.md"
+    },
+    {
+      "id": "202609041445",
+      "key": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-2-221-and-5-5--202609041400"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
+        }
+      ],
+      "path": "permanent/the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445.md",
+      "slug": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards",
+      "tags": [],
+      "title": "The Imami commentaries claim the strict reading of Q 2:221 as their own school's and run the abrogation backwards, on the authority of their Imams",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445.md"
     },
     {
       "id": "202609040615",
@@ -4907,6 +5012,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210.md"
     },
     {
+      "id": "202609041450",
+      "key": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405"
+        },
+        {
+          "relation": "supports",
+          "target_id": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
+        }
+      ],
+      "path": "permanent/the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450.md",
+      "slug": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary",
+      "tags": [],
+      "title": "The \"some Zaydis\" attribution on Q 2:221 is classical and Shi'i, not a modern Sunni summary",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450.md"
+    },
+    {
       "id": "202609041015",
       "key": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
       "links": [
@@ -4934,6 +5068,56 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015.md"
+    },
+    {
+      "id": "202609041435",
+      "key": "the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410"
+        }
+      ],
+      "path": "literature/the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435.md",
+      "slug": "the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book",
+      "tags": [],
+      "title": "The Zaydi corpus's oldest commentary glosses Q 2:221's mushrikat as \"those not of the People of the Book\"",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435.md"
+    },
+    {
+      "id": "202609041455",
+      "key": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440"
+        },
+        {
+          "relation": "source",
+          "target_id": "aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435"
+        },
+        {
+          "relation": "source",
+          "target_id": "zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410"
+        }
+      ],
+      "path": "permanent/the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455.md",
+      "slug": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing",
+      "tags": [],
+      "title": "The Zaydi tradition is split on Q 2:221, so the qualifier \"some\" in \"some Zaydis\" is load-bearing rather than a hedge",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455.md"
     },
     {
       "id": "202609011531",
@@ -5031,6 +5215,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md"
     },
     {
+      "id": "202609041400",
+      "key": "tusi-al-tibyan-on-2-221-and-5-5--202609041400",
+      "links": [],
+      "path": "reference/tusi-al-tibyan-on-2-221-and-5-5--202609041400.md",
+      "slug": "tusi-al-tibyan-on-2-221-and-5-5",
+      "tags": [],
+      "title": "al-Tusi, al-Tibyan al-jami' li-'ulum al-Qur'an, on Q 2:221 and Q 5:5",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tusi-al-tibyan-on-2-221-and-5-5--202609041400.md"
+    },
+    {
       "id": "202609041100",
       "key": "tusi-al-tibyan-on-3-64-and-29-46--202609041100",
       "links": [],
@@ -5058,6 +5254,23 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115.md"
+    },
+    {
+      "id": "202609041425",
+      "key": "tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-2-221-and-5-5--202609041400"
+        }
+      ],
+      "path": "literature/tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425.md",
+      "slug": "tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5",
+      "tags": [],
+      "title": "al-Tusi holds Q 2:221 general and unabrogated, marks the position as his school's, and redeems the argument on Q 5:5",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425.md"
     },
     {
       "id": "202609010910",
@@ -5233,11 +5446,19 @@
         },
         {
           "relation": "elaborates",
+          "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "elaborates",
           "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
         },
         {
           "relation": "contradicts",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455"
         }
       ],
       "path": "permanent/whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325.md",
@@ -5276,6 +5497,18 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005.md"
+    },
+    {
+      "id": "202609041410",
+      "key": "zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410",
+      "links": [],
+      "path": "reference/zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410.md",
+      "slug": "zayd-b-ali-gharib-al-quran-on-2-221-and-5-5",
+      "tags": [],
+      "title": "Gharib al-Qur'an attributed to Zayd ibn 'Ali, on Q 2:221 and Q 5:5",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410.md"
     },
     {
       "id": "202608301300",

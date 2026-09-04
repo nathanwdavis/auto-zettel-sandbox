@@ -21,6 +21,10 @@ links:
   relation: elaborates
 - target_id: the-same-god-question-turns-on-reference-versus-description--202608311942
   relation: contradicts
+- target_id: the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445
+  relation: elaborates
+- target_id: the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -79,7 +83,23 @@ Here the direction reverses: it is the Imami and some Zaydi jurists who take the
 their women is forbidden. Whatever the Sunni/Shi'i difference on this question
 is, it is not one tradition being consistently more accommodating than the other.
 
-Grounding limit: al-Sabuni is this base's only witness for the Imami and Zaydi
-attribution, and no Imami or Zaydi legal text has been captured. The claim about
-those schools is reported, not verified from inside them, and is filed to INBOX
-as the obvious next capture.
+Grounding limit, **closed on the Imami half and qualified on the Zaydi half by
+the 14:00Z cycle of the same day.** As written, this note's only witness for the
+Imami and Zaydi attribution was al-Sabuni, and it filed that gap to INBOX as the
+obvious next capture. That capture was taken. Al-Tusi and al-Tabrisi both state
+the strict position as their own school's and both run the abrogation backwards
+on the authority of al-Baqir and al-Sadiq, so the Imami attribution is now
+verified from inside the school — with one correction to the report, since what
+they forbid is the *permanent* contract while allowing *mut'a* and concubinage
+with the same women
+([[the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445]]).
+The Zaydi half came back more complicated than the report: the strict reading is
+credited to Yahya and al-Qasim by a later Zaydi commentary, while the corpus's
+oldest work reads Q 2:221 the lenient way, so "some Zaydis" names a real
+division rather than hedging a school-wide position
+([[the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455]]).
+The sentence above — "the Imamiyya and some Zaydis took the same view" — stands
+as written; what has changed is that it no longer rests on a single modern
+report, and that "the Shi'a" would have been wrong where "some Zaydis" is right.
+Still outstanding, and still filed to INBOX: no Imami or Zaydi *fiqh* text has
+been captured, only the commentaries.

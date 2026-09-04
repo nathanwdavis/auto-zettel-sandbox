@@ -1604,5 +1604,77 @@
     },
     "title": "Tafsīr āyāt al-aḥkām",
     "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn al-Ḥasan al-Ṭūsī"
+      }
+    ],
+    "id": "202609041400",
+    "issued": {
+      "date-parts": [
+        [
+          1067
+        ]
+      ]
+    },
+    "title": "al-Tibyān al-jāmiʿ li-ʿulūm al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=3&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAlī al-Faḍl ibn al-Ḥasan al-Ṭabrisī"
+      }
+    ],
+    "id": "202609041405",
+    "issued": {
+      "date-parts": [
+        [
+          1153
+        ]
+      ]
+    },
+    "title": "Majmaʿ al-bayān fī tafsīr al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Zayd ibn ʿAlī ibn al-Ḥusayn (attributed)"
+      }
+    ],
+    "id": "202609041410",
+    "issued": {
+      "date-parts": [
+        [
+          740
+        ]
+      ]
+    },
+    "title": "Gharīb al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "ʿAbd Allāh ibn ʿAbbās al-Aʿqam"
+      }
+    ],
+    "id": "202609041415",
+    "issued": {
+      "date-parts": [
+        [
+          1400
+        ]
+      ]
+    },
+    "title": "Tafsīr al-Aʿqam",
+    "type": "book"
   }
 ]

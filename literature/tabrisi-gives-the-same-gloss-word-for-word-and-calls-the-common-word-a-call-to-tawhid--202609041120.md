@@ -92,3 +92,20 @@ does, in nearly the same words.
 in the same 29:46 commentary. Counts, controls and the single-host limitation
 are in the capture header, and the `معبود` absence is filed to INBOX for
 second-host confirmation rather than treated as closed.
+
+**Correction to the reading, entered 2026-09-04T14:20Z, and it leaves the counts
+above standing.** The capture behind this note was taken with a paging rule that
+the 14:00Z cycle proved wrong: altafsir.com renders its forward paging control
+as `التالي` on page 1 only, as English `Next` on interior pages, and serves it
+indefinitely past the end of a section, so a read that stopped at the absence of
+`التالي` stopped at two pages regardless of how long the section was. **The
+Q 29:46 section here runs to three.** The missing page was fetched and is at
+`raw/202609041420-recovered-third-pages-tabrisi-and-maturidi-29-46-arabic.txt`;
+raw/ is immutable, so the original capture is left as it was written and the
+recovered page sits beside it. The negative counts above were re-run over the
+complete section rather than assumed to survive: `معبود` is 0 across all three
+pages and 0 on the recovered page alone, and the recovered page does not return
+to the shared-God clause — it comments on Q 29:49-50, `بل هو آيات بينات في صدور
+الذين أوتوا العلم` and what follows. So nothing in this note falls. Recording it
+anyway, because a claim of absence read off a short capture is right by luck
+until someone checks.
