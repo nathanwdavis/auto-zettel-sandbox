@@ -164,6 +164,19 @@
     "202609040710": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
     "202609040715": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
     "202609040720": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
+    "202609040800": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800",
+    "202609040802": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802",
+    "202609040804": "baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804",
+    "202609040806": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806",
+    "202609040808": "al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808",
+    "202609040810": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810",
+    "202609040812": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812",
+    "202609040814": "baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814",
+    "202609040816": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816",
+    "202609040818": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818",
+    "202609040820": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
+    "202609040825": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825",
+    "202609040830": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -225,11 +238,14 @@
       "priority": "high",
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
+        "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
         "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
+        "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
-        "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
+        "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
+        "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
       ],
       "status": "answered",
       "updated": "2026-09-04"
@@ -305,7 +321,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 169,
+  "note_count": 182,
   "notes": [
     {
       "id": "202609040058",
@@ -642,6 +658,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
     },
     {
+      "id": "202609040808",
+      "key": "al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808",
+      "links": [],
+      "path": "reference/al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808.md",
+      "slug": "al-tafsir-al-muyassar-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Tafsir al-Muyassar, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808.md"
+    },
+    {
       "id": "202609010835",
       "key": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835",
       "links": [
@@ -856,6 +884,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202609040814",
+      "key": "baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804"
+        }
+      ],
+      "path": "literature/baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814.md",
+      "slug": "baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith",
+      "tags": [],
+      "title": "al-Baghawi sets the shared-God clause up as a lemma and then supplies only hadith about not believing the People of the Book",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814.md"
+    },
+    {
+      "id": "202609040804",
+      "key": "baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804",
+      "links": [],
+      "path": "reference/baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804.md",
+      "slug": "baghawi-maalim-al-tanzil-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Baghawi, Ma'alim al-tanzil, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804.md"
     },
     {
       "id": "202609010836",
@@ -1408,6 +1465,63 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
+      "id": "202609040830",
+      "key": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808"
+        },
+        {
+          "relation": "source",
+          "target_id": "baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814"
+        },
+        {
+          "relation": "source",
+          "target_id": "baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810"
+        },
+        {
+          "relation": "source",
+          "target_id": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806"
+        },
+        {
+          "relation": "source",
+          "target_id": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818"
+        }
+      ],
+      "path": "permanent/four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830.md",
+      "slug": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions",
+      "tags": [],
+      "title": "The classical reading of the \"common word\" as a summons is not one commentator's, and two commentaries name the cross among what it excludes",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830.md"
+    },
+    {
       "id": "202609010507",
       "key": "franklin-last-will-and-testament-and-codicil--202609010507",
       "links": [],
@@ -1665,6 +1779,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355.md"
+    },
+    {
+      "id": "202609040812",
+      "key": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802"
+        }
+      ],
+      "path": "literature/ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812.md",
+      "slug": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause",
+      "tags": [],
+      "title": "Ibn Kathir follows al-Tabari on one clause of Q 29:46 and passes over the shared-God clause without a word",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812.md"
+    },
+    {
+      "id": "202609040802",
+      "key": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802",
+      "links": [],
+      "path": "reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md",
+      "slug": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46",
+      "tags": [],
+      "title": "Ibn Kathir, Tafsir al-Qur'an al-'Azim, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md"
     },
     {
       "id": "202609040515",
@@ -2570,6 +2713,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
     },
     {
+      "id": "202609040800",
+      "key": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800",
+      "links": [],
+      "path": "reference/qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800.md",
+      "slug": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Qurtubi, al-Jami' li-ahkam al-Qur'an, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800.md"
+    },
+    {
+      "id": "202609040810",
+      "key": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800"
+        }
+      ],
+      "path": "literature/qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810.md",
+      "slug": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause",
+      "tags": [],
+      "title": "al-Qurtubi organises Q 29:46 into two questions and neither of them is the shared-God clause",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810.md"
+    },
+    {
       "id": "202609011530",
       "key": "ramban-commentary-on-the-torah--202609011530",
       "links": [],
@@ -2778,6 +2950,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600.md"
+    },
+    {
+      "id": "202609040806",
+      "key": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806",
+      "links": [],
+      "path": "reference/saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806.md",
+      "slug": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Sa'di, Taysir al-Karim al-Rahman, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806.md"
+    },
+    {
+      "id": "202609040816",
+      "key": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806"
+        }
+      ],
+      "path": "literature/saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816.md",
+      "slug": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation",
+      "tags": [],
+      "title": "al-Sa'di reads the shared-God clause as a premise disputation must be built on, not as a statement about what two parties worship",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816.md"
     },
     {
       "id": "202609010302",
@@ -3165,6 +3366,10 @@
       "key": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
       "links": [
         {
+          "relation": "supports",
+          "target_id": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830"
+        },
+        {
           "relation": "source",
           "target_id": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700"
         },
@@ -3354,6 +3559,10 @@
           "target_id": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
           "relation": "contradicts",
           "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
         },
@@ -3541,6 +3750,51 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352.md"
     },
     {
+      "id": "202609040820",
+      "key": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814"
+        },
+        {
+          "relation": "source",
+          "target_id": "baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
+        }
+      ],
+      "path": "permanent/the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820.md",
+      "slug": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it",
+      "tags": [],
+      "title": "The classical commentaries after al-Tabari pass over the shared-God clause in silence, so the identification is his and not the tradition's",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820.md"
+    },
+    {
       "id": "202609040115",
       "key": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
       "links": [
@@ -3584,6 +3838,23 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115.md"
+    },
+    {
+      "id": "202609040818",
+      "key": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808"
+        }
+      ],
+      "path": "literature/the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818.md",
+      "slug": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement",
+      "tags": [],
+      "title": "The official paraphrase commentary expands the shared-God clause with three no-partner qualifications",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818.md"
     },
     {
       "id": "202609011541",
@@ -4131,6 +4402,43 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936.md"
+    },
+    {
+      "id": "202609040825",
+      "key": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808"
+        },
+        {
+          "relation": "source",
+          "target_id": "saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806"
+        },
+        {
+          "relation": "source",
+          "target_id": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+        }
+      ],
+      "path": "permanent/where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825.md",
+      "slug": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners",
+      "tags": [],
+      "title": "Where the later tradition does gloss the shared-God clause, it reads it as an assertion of God's oneness against partners rather than as an identification",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825.md"
     },
     {
       "id": "202608301300",

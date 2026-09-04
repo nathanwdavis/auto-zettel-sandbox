@@ -19,6 +19,8 @@ links:
   relation: supports
 - target_id: the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
   relation: contradicts
+- target_id: the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -49,8 +51,9 @@ them, say this instead
 Not one of them is offered in support of the identification itself, and none is
 needed, because nothing in the passage treats it as in doubt. A commentator who
 canvasses dissent where dissent exists and canvasses none here is evidence that
-the identity of the object of worship was not, in this tradition at this date, a
-contested question.
+the identity of the object of worship was not, *for him*, a contested question.
+(That sentence originally read "in this tradition at this date"; see the
+amendment below for why it no longer does.)
 
 **Why this bears on the base's framing rather than merely adding a voice.** The
 reference/description distinction was drawn here from Christian and secular
@@ -87,3 +90,30 @@ al-Razi and Ibn Kathir on the same verse are uncaptured, and so is the juristic
 literature on whether Christians count as *mushrikun*; if the gloss is
 traditional rather than idiosyncratic, that is where it would show. Filed as
 open work rather than assumed here.
+
+---
+
+**AMENDMENT, 2026-09-04 08:00Z cycle: the test was run and it narrowed this
+note.** al-Qurtubi, Ibn Kathir and al-Baghawi were captured on the same verse
+and none of them glosses the shared-God clause at all — the word `معبود` does
+not occur in any of their comments on Q 29:46
+([[the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820]]).
+Two consequences for what is written above.
+
+*Withdrawn.* The inference from al-Tabari's silence to what was uncontested "in
+this tradition at this date". Three later commentators passing over the clause
+is not three commentators affirming it. The title's "Islam's foundational
+commentary" is accurate and stands, because that is what al-Tabari's is; what
+this note may not do, and no longer does, is let one commentary speak for the
+tradition. The sentence has been narrowed to *for him*.
+
+*Strengthened.* That the affirmation was doing no ecumenical work. Nobody after
+him picks it up, no one contradicts it either, and where the clause is glossed
+at all — in two modern commentaries — it is turned into an assertion that God
+has no partner rather than an identification of what two parties worship
+([[where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825]]).
+A gloss that no successor found worth repeating is a gloss nothing was resting
+on.
+
+*Still open.* The juristic *mushrikun* question, which this cycle did not
+touch, and al-Razi, who is not on the endpoint the commentary sweep used.
