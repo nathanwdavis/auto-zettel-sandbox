@@ -607,6 +607,29 @@ notes is now 53 and the two that sit at bare `raw-capture` beside an identifier
 are unchanged — 202609022347 (this defect) and 202609010302 (Schmidt, a DataCite
 DOI that Crossref legitimately does not carry).
 
+**2026-09-04 07:00Z cycle — defect (B), ELEVENTH occurrence; defect (A) did not
+fire, and the reason it did not is worth recording.** One live pass ran
+(`--mailto`, no offline pass needed since the new note has no identifier to
+check). It touched exactly one file it had no business touching: polkinghorne
+202609022347, same false `identifier_check: failed` from the same Faraday series
+`number: '1'`, restored from HEAD before `build_manifest` ran. Defect (A) did
+not fire on any of the other 53 notes. What separates this cycle from the ones
+where (A) did fire is the cycle's own network luck rather than anything it did —
+Crossref and Open Library were both reachable throughout, and the entry above
+already establishes that (A) is a function of what the current pass could see.
+So this is a NEGATIVE data point for the diagnosis, not evidence that (A) is
+fixed: nothing changed in the tool between 06:00Z and 07:00Z.
+
+One new thing this cycle CAN add, from the other side. The new reference note
+(al-Tabari 202609040700) carries a `URL` and no DOI, ISBN, PMID or `number`, and
+it came through the live pass with correct `raw-capture` provenance and no
+spurious `identifier_check` at all. Combined with the `number`-avoidance
+workaround recorded above, that makes the safe-shape rule concrete: a CSL record
+with `DOI` alone, or with no identifier at all, survives a live pass intact; a
+record carrying `number` gets a false arXiv check. Whoever fixes this in the
+skill repo should be able to reproduce (B) from a two-line CSL block with
+nothing but `type: report` and `number: '1'`.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1044,7 +1067,7 @@ the next run reads a decision instead of re-deriving the discrepancy.
 
 ## 2026-09-04 — Corroborate the A Common Word finding from a second Muslim source arguing in its own voice
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** human
 
@@ -1091,6 +1114,58 @@ limits on what it can claim.
 NOT A BLOCKER. Nothing above is a defect in what landed. The cycle's notes
 state their own limits, and this entry exists so the limits are worked on
 rather than forgotten.
+
+**2026-09-04 (07:00Z cycle) — worked, and the corroboration came back SPLIT.
+Moving to `in-progress`, not `answered`, and the reasons are below.**
+
+WHAT WAS CAPTURED, and it is not on this entry's shortlist. al-Tabari (d.
+310/923), *Jami' al-bayan 'an ta'wil ay al-Qur'an*, the commentary on Q 3:64
+and Q 29:46 — reference 202609040700, literature 202609040705, permanent
+202609040710, 202609040715, 202609040720, capture
+raw/202609040700-tabari-jami-al-bayan-3-64-and-29-46-arabic.txt (Arabic,
+verbatim, full sections; public domain). Taken instead of (1) Saritoprak,
+(2) al-Ghazali or (3) Ibn Taymiyya because this entry's real criterion was a
+Muslim voice *in a register unlike an irenic collective letter*, and the
+foundational Sunni commentary on the exact two verses the existing notes turn
+on is further from that register than any of the three — while also being
+free, complete and in the public domain, which none of the three is in
+English. ACCESS: rung (a), first request, no obstacle. Quran.com API v4,
+`/api/v4/tafsirs/15/by_ayah/<sura>:<aya>`. (The sibling endpoint
+`/api/v4/quran/tafsirs/15?verse_key=…` returns an EMPTY list for the same
+verse — do not read that as the text being unavailable.)
+
+WHAT IT CORROBORATED. The *form* of 202609040115's claim, from a thousand years
+earlier: there too the shared-God material is delivered as an instruction about
+what to say, in a hard case, with no argument attached. In al-Tabari the setting
+is an epistemic protocol — what a Muslim says when the People of the Book report
+something from their books that he can neither verify nor deny. And the reading
+of 3:64 as exclusionary rather than merely irenic is confirmed from inside: the
+"equitable word" (`كلمة عدل`) has the disavowal of every rival object of worship
+as its *content*, and the occasion reports transmit the verse with its refusal
+attached.
+
+WHAT IT REFUTED, which is why this entry earned its keep. The inference that the
+2007 letter's silence about co-reference might reflect a tradition with nothing
+to say about it is now dead. al-Tabari glosses `وَإِلَهُنَا وَإِلَهُكُمْ
+وَاحِدٌ` as `ومعبودنا ومعبودكم واحد` — *the one we worship and the one you
+worship is one* — flatly, without argument, with no dissent recorded. 202609040115
+is amended in place: form-half strengthened, available-explanation half
+withdrawn.
+
+WHY NOT `answered`. Three reasons, all of them things this entry asked for that
+are still missing. (i) All three named candidates remain uncaptured. (ii) The
+juristic *mushrikun* question and the harmonisation of 29:46 against 4:171 and
+5:73 — both named at the end of this entry — are untouched; al-Tabari bears on
+the second only for one commentator. (iii) The `contested` tag still is not
+earned: two sources are not three, and the second pulls partly against the
+first, which is a reason to keep reading rather than to declare the matter
+settled.
+
+THE CHEAPEST NEXT STEP, now that the route is known: al-Qurtubi (resource 90),
+Ibn Kathir Arabic (14) and the other classical commentaries on the SAME two
+verses are on the same free endpoint. If al-Tabari's `ma'bud` gloss is
+traditional rather than idiosyncratic, that is where it shows, and it would take
+one cycle. Filed separately below so it is not buried in this entry.
 
 ## 2026-09-04 — Source-access gaps left open by the note-taking evidence cycle (inquiry 202609032123), including an unread corrigendum to a paper this base now cites
 
@@ -1363,6 +1438,21 @@ with the search pattern that works (the lab site, its `/publications/` index,
 and the year-foldered `/downloads/` paths the index links to). This is not a
 new rung, it is a promotion of an existing one from last resort to first
 recourse in a domain where it demonstrably works.
+
+  **2026-09-04 (07:00Z cycle) — a COUNTER-observation, filed here so the
+  skill-smith cycle sees the limit of the evidence it will be handed.** Three
+  cycles have now supported this amendment and all three worked
+  experimental-psychology papers behind commercial publisher paywalls. This
+  cycle worked a classical Arabic text and rung (a) succeeded on the FIRST
+  request — a free institutional API served the full text with no obstacle at
+  all. That is not a counter-example to the amendment's evidence; it is a
+  counter-example to stating the amendment unconditionally. If rung (c) is
+  promoted, promote it *for the domain the evidence comes from* (paywalled
+  journal literature with an identifiable laboratory behind it), and leave rung
+  (a) first for primary texts, scripture, classical works and anything served by
+  a library, museum or university API — where it has never yet failed in this
+  base. A ladder reordered globally on evidence from one domain would send a
+  future run hunting author pages for a ninth-century commentator.
 
 **FOR THE ENVIRONMENT LOG, not a source gap.** Open Library is REACHABLE again
 from this container (302 on `/isbn/<isbn>.json`, 200 on `/search.json`), ending
@@ -1645,3 +1735,62 @@ Scholar had elided at the publisher's request and whose publisher page was
 bot-blocked. Worth adding to the ladder as the fallback that makes abstract-only
 grounding available even when rungs (a) and (b) both fail, for anything indexed
 in MEDLINE.
+
+## 2026-09-04 — Test the al-Tabari ma'bud gloss against the other classical commentaries, which are on the same free endpoint
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04 07:00Z cycle, which captured al-Tabari on Q 3:64 and
+Q 29:46 and stated a limit it could not close itself.
+
+THE CLAIM AT RISK. Permanent 202609040710 says Islam's foundational commentary
+answers the co-reference question affirmatively and treats it as needing no
+argument, on the strength of one gloss: `وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ`
+read as `ومعبودنا ومعبودكم واحد`. One commentator is one commentator. If the
+gloss is TRADITIONAL, other classical commentators will make the same move or
+something close to it; if it is IDIOSYNCRATIC to al-Tabari, the note is
+overclaiming when it says "in this tradition at this date" and should be
+narrowed to him.
+
+WHY THIS IS CHEAP, WHICH IS THE POINT OF FILING IT. The access problem is
+already solved. The same free Quran.com API v4 endpoint that served al-Tabari
+serves the other classical Arabic commentaries on any verse:
+
+    https://api.quran.com/api/v4/tafsirs/<resource>/by_ayah/<sura>:<aya>
+
+with resource 90 = al-Qurtubi, 14 = Ibn Kathir (Arabic), 94 = al-Baghawi,
+91 = al-Sa'di, 16 = al-Muyassar, 93 = al-Wasit (Tantawi). No paywall, no bot
+challenge, no renderer. `/api/v4/resources/tafsirs` lists them all. The two
+verses to pull are 29:46 and 3:64, the same pair, so the comparison is exact.
+Independent witnesses for cross-checking are known to work too: tafsir.app
+(/tabari/29/46 pattern, host takes other commentator slugs) and
+quran.ksu.edu.sa (/tafseer/<name>/sura29-aya46.html — note its sura-3 URL
+returned a 203-byte stub for al-Tabari, so check per verse).
+
+WHAT A GOOD RESULT LOOKS LIKE. Not "add three more notes". The test is whether
+202609040710 has to be narrowed. Three outcomes are all worth having:
+  - Other commentators make the same identification -> the note stands and can
+    say so with a second and third witness, and the `contested` tag on
+    202609040115 becomes reachable on the three-source bar.
+  - They differ -> the note is narrowed to al-Tabari, and the DISAGREEMENT is
+    the more interesting finding, because it would mean the classical tradition
+    itself divides on co-reference.
+  - They pass over the clause in silence -> that is evidence for the same
+    conclusion the current note draws from al-Tabari's own silence, arrived at
+    independently.
+
+ALSO STILL OPEN, and NOT closed by this. The juristic question of whether
+Christians count as *mushrikun*, which no capture in this base touches, and the
+three sources the corroboration entry above still names: Saritoprak,
+al-Ghazali's *Faysal al-Tafriqa*, Ibn Taymiyya's *al-Jawab al-Sahih*. A run
+that does the cheap commentary sweep should not report the *mushrikun* gap as
+narrowed by it.
+
+A CAUTION FOR WHOEVER TAKES THIS. Every English rendering in the al-Tabari
+notes is this repository's own working translation, because the base holds no
+published translation of the text. A cycle that adds three more commentators
+multiplies that exposure. Either keep printing the Arabic beside every
+rendering that carries weight, as the current notes do, or find a published
+translation for at least one of them and use it to calibrate.

@@ -16,6 +16,9 @@ asked_by: human
 result_notes:
 - the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
 - the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
+- the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
+- the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715
+- the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -129,3 +132,42 @@ juristic question of whether Christians count as *mushrikun* is untouched by
 anything now in the base. That corroboration is filed as a new INBOX entry
 rather than left implicit here, and it is the reason
 202609040115 is deliberately not tagged `contested`.
+
+## 2026-09-04 (later cycle): the classical register is now captured, and it revises the answer above
+
+This inquiry stays `answered`, and three `result_notes` are added rather than
+the status being reopened, because what arrived extends the answer rather than
+unsettling the question. What arrived is al-Tabari (d. 310/923), *Jami'
+al-bayan*, on the two verses this inquiry's own cheap-checkable piece put into
+the base — reference 202609040700, literature 202609040705, permanent
+202609040710, 202609040715 and 202609040720. It is the classical register the
+remainder above named as missing, though not by any of the three routes it
+listed: al-Ghazali and Ibn Taymiyya are still uncaptured, and this is a Qur'an
+commentary rather than a polemic or a treatise on the boundaries of faith.
+
+**It changes the finding-in-one-line above, and the change should be read
+before the line is quoted again.** "Answers neither horn" is true of the 2007
+letter and was always scoped to it. It is NOT true of the tradition. Asked in
+its own language, the foundational Sunni commentary answers the co-reference
+question in the affirmative and treats it as needing no argument: `وَإِلَهُنَا
+وَإِلَهُكُمْ وَاحِدٌ` is glossed `ومعبودنا ومعبودكم واحد` — the one we worship
+and the one you worship is one. So the letter's silence is a choice made
+against an available affirmation, not the absence of a position, and permanent
+202609040115 has been amended in place to withdraw the half of its claim that
+the new source will not bear.
+
+**What still stands, strengthened.** The *form* of the letter's move has
+classical precedent: there too the shared-God material arrives as an
+instruction about what to say — in al-Tabari's setting, what a Muslim says when
+he cannot tell whether a report from the People of the Book is true — rather
+than as a thesis with an argument attached. And the reading of 3:64 as
+exclusionary is confirmed from inside: the "equitable word" has disavowal of
+every rival object of worship as its content, and the occasion reports transmit
+the verse with its refusal attached.
+
+**The asymmetry this inquiry was filed about is now smaller but not gone.** The
+Jewish side is argued here from six captured sources inside its own tradition;
+the Islamic side now has three (the Qur'an captures, the 2007 letter,
+al-Tabari) and one of them is scripture. al-Qurtubi, al-Razi and Ibn Kathir on
+the same two verses are uncaptured, and the juristic *mushrikun* question is
+still untouched — both filed to INBOX.

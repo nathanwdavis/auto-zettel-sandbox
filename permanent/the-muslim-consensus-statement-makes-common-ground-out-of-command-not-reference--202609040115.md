@@ -19,6 +19,12 @@ links:
   relation: analogous
 - target_id: the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
   relation: shared-concept
+- target_id: the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
+  relation: contradicts
+- target_id: the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715
+  relation: supports
+- target_id: the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
+  relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -103,3 +109,32 @@ What would earn the tag is a second Muslim source arguing the same question in
 its own voice — Saritoprak, al-Ghazali's *Faysal al-Tafriqa*, or Ibn Taymiyya's
 *al-Jawab al-Sahih* — and that corroboration is filed as open work in INBOX
 rather than assumed here.
+
+**Amendment, 2026-09-04: the second witness arrived, and it does not simply
+corroborate.** al-Tabari's *Jami' al-bayan* on Q 29:46 and Q 3:64 is now
+captured — a Muslim voice arguing in its own register, written for Muslims a
+thousand years before any ecumenical letter
+([[the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710]]).
+It splits this note's claim in two, and the halves come apart.
+
+The half that **stands, strengthened**: the *form*. There too the shared-God
+material is delivered as an instruction about what to say, in a hard case,
+without an argument attached
+([[the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715]]).
+And the reading of 3:64 as exclusionary rather than merely irenic is confirmed
+from the classical side: al-Tabari makes disavowal of every rival object of
+worship the *content* of the "equitable word" itself, and transmits the verse
+with its refusal attached
+([[the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720]]).
+
+The half that must be **withdrawn**: any suggestion that the letter's silence
+reflects a tradition with nothing to say about co-reference. al-Tabari says it
+flatly — the object of worship is one — and treats it as needing no defence. So
+the letter's silence is a choice made against an available affirmation, not an
+inherited absence. This note never asserted the stronger claim, and said so in
+"What this note does not claim"; the amendment records that the question is now
+settled by evidence rather than left open by caution.
+
+The tag is still not applied. Two sources are not three, and the second one
+pulls partly the other way — which is a reason to keep reading, not a reason to
+declare the question contested on this note's authority.

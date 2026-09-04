@@ -127,6 +127,35 @@ both decline to say who is being worshipped and answer about the worshipper's
 obligations instead. That parallel is this base's own observation, claimed by
 neither source.
 
+### The classical voice, added 2026-09-04
+
+The section above rested on one document, and an irenic one written to be signed
+by 138 people. al-Tabari's *Jami' al-bayan* (d. 310/923) on the same two verses
+is now captured — the foundational Sunni commentary, written for Muslims, with
+no Christian addressee.
+
+- [[the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710]]
+- [[the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715]]
+- [[the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720]]
+
+Read them in that order. The first is the datum: asked in its own language, the
+tradition answers the co-reference question yes, glossing "our God and your God
+is one" as "the one we worship and the one you worship is one" — and spends no
+argument on it, in a passage where it argues at length about everything else.
+The second says how that answer is delivered: as a rule for what to say when a
+Muslim cannot tell whether a Jew's or a Christian's report from scripture is
+true. The third turns to Q 3:64 and finds the "common word" glossed as an
+*equitable* word whose content is tawhid plus the disavowal of every rival
+object of worship, transmitted with the refusal of its addressees attached.
+
+The reason the section is not simply longer is that the classical voice does not
+agree with the modern one. It corroborates the *form* of the 2007 letter's move
+— shared-God material arriving as instruction rather than thesis — and removes
+one explanation of its silence, since the tradition it speaks for does state
+co-reference outright. And it complicates the irenic reading from the other
+side: the same passage that affirms a shared object of worship endorses reading
+"except those of them who do wrong" as those who withhold the *jizya*.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -160,6 +189,8 @@ The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346
 (literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
 Islam, argued from inside: [[a-common-word-between-us-and-you--202609040058]], [[quran-shared-god-passages--202609040056]]
 (literature: [[a-common-word-builds-common-ground-from-the-two-commandments--202609040110]], [[the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105]]).
+Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]]
+(literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

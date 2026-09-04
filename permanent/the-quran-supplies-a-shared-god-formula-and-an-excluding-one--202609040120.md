@@ -21,6 +21,10 @@ links:
   relation: supports
 - target_id: the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
   relation: supports
+- target_id: the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
+  relation: elaborates
+- target_id: the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -78,9 +82,25 @@ Both captures are Pickthall's 1930 English, and his choices are visible in the
 places this note leans on — "agreement" at 3:64 where the 2007 Muslim scholars'
 letter has "a common word", and "Allah" left untranslated at 29:46 where the
 same word is elsewhere rendered "God". The doctrinal weight in Islam rests on
-the Arabic. And no commentary is captured on either side: how the exegetical
-tradition has actually harmonised these registers is a question this base cannot
-yet answer from anything it holds.
+the Arabic.
+
+**Amendment, 2026-09-04: the commentary limit is now partly lifted.** When this
+note was written no commentary was captured on either side, and it said so. One
+now is — al-Tabari's *Jami' al-bayan* on both of the verses this note leans on,
+in Arabic, cross-checked against two independent hosts. It answers the question
+this paragraph said the base could not answer, for one commentator: the
+registers are not harmonised so much as ordered. On 29:46 the shared-God clause
+is glossed as a shared *object of worship* and left unargued
+([[the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710]]);
+on 3:64 the "equitable word" is filled in as tawhid *plus* the disavowal of
+every rival object of worship, so the exclusion becomes the invitation's content
+rather than its neighbour
+([[the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720]]).
+That is one commentator making the interpretive commitment this note says has to
+be defended rather than cited — which is evidence for the paragraph above, not
+against it. The limit that remains is narrower and still real: al-Qurtubi,
+al-Razi and Ibn Kathir are uncaptured, so "the exegetical tradition" as a whole
+is still beyond what this base holds.
 
 This note is not tagged `contested` even though its subject is: what it asserts
 is that both registers are present in the text, which two captures of the text
