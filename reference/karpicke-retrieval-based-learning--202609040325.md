@@ -36,7 +36,7 @@ verification:
   source: https://doi.org/10.1016/B978-0-443-15754-7.00074-2
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T03:16:00Z'
+  date: '2026-09-04T16:23:02Z'
 raw_capture: raw/202609040325-karpicke-2025-retrieval-based-learning-excerpts.txt
 links: []
 created: '2026-09-04'

@@ -224,6 +224,14 @@
     "202609041510": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510",
     "202609041515": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
     "202609041520": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520",
+    "202609041600": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600",
+    "202609041605": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605",
+    "202609041610": "the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610",
+    "202609041615": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615",
+    "202609041620": "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620",
+    "202609041625": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625",
+    "202609041630": "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630",
+    "202609041635": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -286,9 +294,13 @@
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
         "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
+        "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620",
         "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
+        "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625",
+        "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630",
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
         "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
+        "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635",
         "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
         "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
@@ -389,7 +401,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 229,
+  "note_count": 237,
   "notes": [
     {
       "id": "202609041020",
@@ -619,6 +631,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-trusted-structure-frees-attention-from-willpower--202608311142.md"
     },
     {
+      "id": "202609041620",
+      "key": "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
+        }
+      ],
+      "path": "permanent/a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620.md",
+      "slug": "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness",
+      "tags": [],
+      "title": "A Zaydi work of fiqh names al-Hadi and al-Qasim for the strict reading of Q 5:5, so the attribution no longer rests on a single late witness",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620.md"
+    },
+    {
       "id": "202608311945",
       "key": "abrahamic-conceptions-of-god--202608311945",
       "links": [],
@@ -784,6 +829,10 @@
         },
         {
           "relation": "supports",
+          "target_id": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635"
+        },
+        {
+          "relation": "supports",
           "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
         }
       ],
@@ -794,6 +843,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515.md"
+    },
+    {
+      "id": "202609041625",
+      "key": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605"
+        },
+        {
+          "relation": "source",
+          "target_id": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
+        }
+      ],
+      "path": "permanent/an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625.md",
+      "slug": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school",
+      "tags": [],
+      "title": "A nineteenth-century Imami work of fiqh holds marriage to a woman of the People of the Book permitted outright, so \"the Imamiyya\" in the report names a party rather than the school",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625.md"
     },
     {
       "id": "202609010835",
@@ -1229,6 +1311,43 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bogardus-urban-how-to-tell-whether-christians-and-muslims--202609010833.md"
+    },
+    {
+      "id": "202609041630",
+      "key": "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600"
+        },
+        {
+          "relation": "source",
+          "target_id": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605"
+        },
+        {
+          "relation": "source",
+          "target_id": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610"
+        }
+      ],
+      "path": "permanent/both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630.md",
+      "slug": "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection",
+      "tags": [],
+      "title": "Zaydi and Imami fiqh cite al-Baqir and al-Sadiq for opposite rules on the same question, and the Imami corpus transmits both, so each report is a selection rather than a misattribution",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630.md"
     },
     {
       "id": "202609010800",
@@ -1977,6 +2096,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md"
     },
     {
+      "id": "202609041600",
+      "key": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600",
+      "links": [],
+      "path": "reference/ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600.md",
+      "slug": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife",
+      "tags": [],
+      "title": "Ibn Miftah, Sharh al-Azhar, vol. 4, on the unbelieving woman as the first of the bars to marriage",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600.md"
+    },
+    {
       "id": "202609040515",
       "key": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515",
       "links": [
@@ -2577,6 +2708,35 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nae-statement-of-faith--202608311920.md"
+    },
+    {
+      "id": "202609041605",
+      "key": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605",
+      "links": [],
+      "path": "reference/najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605.md",
+      "slug": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book",
+      "tags": [],
+      "title": "Muhammad Hasan al-Najafi, Jawahir al-kalam, vol. 30, on unbelief as a bar to marriage and on marrying a woman of the People of the Book",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605.md"
+    },
+    {
+      "id": "202609041615",
+      "key": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605"
+        }
+      ],
+      "path": "literature/najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615.md",
+      "slug": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq",
+      "tags": [],
+      "title": "al-Najafi sets out the entire Imami case for prohibiting marriage to a woman of the People of the Book and then rejects it, calling permission the verified position",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615.md"
     },
     {
       "id": "202609011042",
@@ -3761,6 +3921,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937.md"
     },
     {
+      "id": "202609041635",
+      "key": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515"
+        },
+        {
+          "relation": "source",
+          "target_id": "najafi-jawahir-al-kalam-vol-30-on-marriage-to-a-woman-of-the-people-of-the-book--202609041605"
+        },
+        {
+          "relation": "source",
+          "target_id": "najafi-sets-out-the-whole-case-for-prohibition-and-then-rejects-it-as-al-tahqiq--202609041615"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
+        }
+      ],
+      "path": "permanent/the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635.md",
+      "slug": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it",
+      "tags": [],
+      "title": "The argument that a woman of the People of the Book is not a mushrika because the Qur'an couples the two terms is made in Imami fiqh a century before the commentary the base held it from",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635.md"
+    },
+    {
       "id": "202609022357",
       "key": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357",
       "links": [
@@ -4173,6 +4366,14 @@
       "key": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
       "links": [
         {
+          "relation": "contradicts",
+          "target_id": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630"
+        },
+        {
           "relation": "source",
           "target_id": "tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430"
         },
@@ -4213,6 +4414,10 @@
       "id": "202609041510",
       "key": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510",
       "links": [
+        {
+          "relation": "supports",
+          "target_id": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625"
+        },
         {
           "relation": "source",
           "target_id": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500"
@@ -4877,6 +5082,10 @@
           "target_id": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305"
         },
         {
+          "relation": "supports",
+          "target_id": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635"
+        },
+        {
           "relation": "contradicts",
           "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
         }
@@ -5227,9 +5436,30 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435.md"
     },
     {
+      "id": "202609041610",
+      "key": "the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600"
+        }
+      ],
+      "path": "literature/the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610.md",
+      "slug": "the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it",
+      "tags": [],
+      "title": "The Zaydi manual bars marriage to a woman of the People of the Book by reading Q 5:5 down rather than by abrogating it, and names al-Hadi and al-Qasim for that reading",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-zaydi-manual-bars-the-kitabiyya-by-reading-5-5-down-and-names-al-hadi-and-al-qasim-for-it--202609041610.md"
+    },
+    {
       "id": "202609041455",
       "key": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455",
       "links": [
+        {
+          "relation": "supports",
+          "target_id": "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620"
+        },
         {
           "relation": "source",
           "target_id": "aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440"
@@ -5568,6 +5798,14 @@
       "id": "202609041325",
       "key": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325",
       "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625"
+        },
         {
           "relation": "source",
           "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300"

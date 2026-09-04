@@ -9,6 +9,8 @@ title: The Imami tradition is itself split on Q 2:221, so the strict reading nam
   its classical commentaries rather than the school as such
 tags: []
 links:
+- target_id: an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625
+  relation: supports
 - target_id: tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505
   relation: source
 - target_id: tabatabai-al-mizan-on-2-221-and-5-5--202609041500
@@ -90,3 +92,16 @@ to *fiqh* (`وللكلام تتمة تطلب من الفقه`). It shows the tra
 dissent; it does not establish which position Imami law operates. No Imami *fiqh*
 text is in this base, which is the same gap the 13:00Z cycle filed and the 14:00Z
 cycle could not close.
+
+**Strengthened 2026-09-04 16:00Z, and its closing limit is discharged.** This
+note ends by saying that *al-Mizan* is a *tafsir*, that it shows the tradition
+contains the dissent but not which position Imami law operates, and that no Imami
+*fiqh* text is in the base. The third of those is no longer true and the second
+is answered as far as a legal commentary can answer it: al-Muhaqqiq's *Shara'i'*
+states the question as `روایتان` rather than as a school position, and
+al-Najafi's commentary on it calls permission `التحقيق`
+([[an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625]]).
+The split this note found in the commentaries is therefore not a
+classical-versus-modern divide, as its own framing suggested: it runs through the
+legal literature too, in the century before al-Tabataba'i, with named jurists on
+both sides.

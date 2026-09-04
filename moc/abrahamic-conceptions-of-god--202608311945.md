@@ -366,10 +366,15 @@ modern witness became a claim carried across eight centuries and both sects.
 
 The section above says the Imami half is "confirmed and sharpened". It now needs
 its own qualifier, on the same pattern the Zaydi half already carried. The
-strongest remaining Imami witness — al-Tabataba'i's *al-Mizan*, the most widely
-read Imami commentary of the modern period, and the one the access catalogue had
+strongest remaining Imami witness — al-Tabataba'i's *al-Mizan*, the major
+twentieth-century Imami commentary, and the one the access catalogue had
 named in advance as the largest single gap — argues the opposite of al-Tusi and
-al-Tabrisi, at the root rather than at the edges.
+al-Tabrisi, at the root rather than at the edges. (Corrected 2026-09-04 16:00Z:
+this paragraph read "the most widely read Imami commentary of the modern period"
+until now. That claim was retracted from every note at 15:00Z as ungrounded —
+nothing in this base supports it — and the retraction missed the MOC. Only
+*twentieth-century* and *Imami* are sourced, both off the host's own selector;
+"major" is this base's own characterisation.)
 
 - [[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]]
 - [[an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515]]
@@ -389,6 +394,50 @@ restriction on permanent marriage by *takhsis*, and grounds the surviving *mut'a
 permission in what he says the school practises. What the outside summary got
 right was the outcome for one contract; what it lost was everything that makes
 the outcome intelligible.
+
+#### Added 2026-09-04 16:00Z: the *fiqh*, at last, on both sides
+
+Every witness in the three sections above is a *tafsir*, and the strongest of
+them said the operative rule belongs elsewhere — al-Tabataba'i defers it twice
+with `وللكلام تتمة تطلب من الفقه`. The INBOX entry that has driven this cluster
+since the 13:00Z cycle was narrowed at 15:00Z until *fiqh* was the only thing it
+still wanted. Two legal works, one from each tradition, read from a host this
+base had never used for either:
+
+- [[a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620]]
+- [[an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625]]
+- [[both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630]]
+- [[the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635]]
+
+The two sides come back asymmetrically, and that asymmetry is the result.
+
+*The Zaydi side is confirmed and better grounded.* Ibn Miftah's *Sharh al-Azhar*
+teaches the prohibition as the school's rule and names `الهادي والقاسم` for the
+reading of Q 5:5 that carries it — the attribution that had rested on *Tafsir
+al-A'qam* alone, now held by a second, independent witness in the genre where the
+rule actually operates. It also shows the mechanism is neither of the two this
+base had catalogued: Q 5:5 is not abrogated and not specified, it is left
+standing with its subject read as converts, `فالمراد به من آمن من أهل الكتاب`. A
+permission left intact and empty does the work of an abrogation without incurring
+the chronological objection that destroys the Imami *naskh* route.
+
+*The Imami side inverts.* Al-Muhaqqiq's *Shara'i'* states the question as
+`روایتان`, two narrations, rather than as a school position; and al-Najafi's
+commentary on it — after assembling the whole strict case, al-Mufid, al-Murtada
+and Ibn Idris included — calls permission `التحقيق`, the verified position, and
+reduces the prohibition to a graded *karaha*. So the section above needs one last
+qualifier: the strict reading is not merely a classical-commentary position
+inside a divided school, it is the position that lost in the legal literature.
+
+*And the reversal this cluster was built to display is now gone.* It had two
+halves. The first — Shi'i commentaries glossing the shared-God clause where the
+Sunni ones pass over it — stands untouched. The second — Shi'i jurists as the
+stricter party — does not survive contact with the jurists. What replaces it is
+better: an argument both traditions were having internally, in which the same two
+Imams are transmitted on both sides, and in which the argument from Qur'anic
+coupling that this base first met in al-Qurtubi turns up in Imami *fiqh* a century
+before the commentary it was credited to, with a jurist's test under it rather
+than a grammarian's.
 
 ## Christian kabbalism: the parallel as a conversion argument
 

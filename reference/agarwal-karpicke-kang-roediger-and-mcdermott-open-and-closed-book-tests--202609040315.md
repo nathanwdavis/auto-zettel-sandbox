@@ -46,7 +46,7 @@ verification:
   source: https://doi.org/10.1002/acp.1391
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T03:14:00Z'
+  date: '2026-09-04T16:22:46Z'
 raw_capture: raw/202609040315-agarwal-et-al-2008-open-and-closed-book-tests-fulltext.txt
 links: []
 created: '2026-09-04'

@@ -9,6 +9,8 @@ title: The Zaydi tradition is split on Q 2:221, so the qualifier "some" in "some
   is load-bearing rather than a hedge
 tags: []
 links:
+- target_id: a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620
+  relation: supports
 - target_id: the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435
   relation: source
 - target_id: aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440
@@ -70,3 +72,15 @@ so the content of that attribution still rests on a single witness — one now
 inside the tradition rather than outside it, which is an improvement in kind but
 not in number. A Zaydi *fiqh* text on either verse would settle what these two
 only indicate; it is filed to INBOX.
+
+**Corroborated 2026-09-04 16:00Z, and the single-witness limit this note records
+is now lifted.** The note says the strict reading is credited to Yahya and
+al-Qasim by one witness, *Tafsir al-A'qam*, five centuries after them. A second
+witness has been read, and it is a work of Zaydi *fiqh* rather than a *tafsir*:
+*Sharh al-Azhar* names `الهادي والقاسم` for exactly this reading of Q 5:5, in its
+own apparatus, teaching the prohibition as the school's rule
+([[a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620]]).
+The split this note found is also visible there in the school's own terms: the
+manual records the permitting view from `الانتصار` and adds `والناصر` to that
+side, so "some Zaydis" names a division that Zaydi *fiqh* itself prints. Nothing
+in this note is withdrawn; its stated limit is.

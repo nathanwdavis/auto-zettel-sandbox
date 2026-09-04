@@ -41,7 +41,7 @@ verification:
   source: https://doi.org/10.1111/j.1467-9280.2006.01693.x
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T03:12:00Z'
+  date: '2026-09-04T16:23:13Z'
 raw_capture: raw/202609040305-roediger-karpicke-2006-test-enhanced-learning-fulltext.txt
 links: []
 created: '2026-09-04'

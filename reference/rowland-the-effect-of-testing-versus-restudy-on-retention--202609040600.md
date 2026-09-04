@@ -39,7 +39,7 @@ verification:
   source: https://doi.org/10.1037/a0037559
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T06:00:00Z'
+  date: '2026-09-04T16:23:14Z'
 raw_capture: raw/202609040600-rowland-2014-testing-effect-meta-analysis-excerpts.txt
 links: []
 created: '2026-09-04'

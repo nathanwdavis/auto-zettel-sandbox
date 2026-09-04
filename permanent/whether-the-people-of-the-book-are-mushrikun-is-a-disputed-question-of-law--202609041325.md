@@ -27,6 +27,10 @@ links:
   relation: elaborates
 - target_id: the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
   relation: elaborates
+- target_id: a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620
+  relation: elaborates
+- target_id: an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -123,3 +127,32 @@ survives al-Tabataba'i's rejection of the argument for it, rebuilt as
 specification rather than abrogation
 ([[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]).
 What is now wrong is only the word "closed".
+
+**Extended 2026-09-04 16:00Z: the *fiqh* has now been read on both sides, and it
+takes the last of the sectarian reversal away.** The paragraph above ends "no
+Imami or Zaydi *fiqh* text has been captured, only the commentaries." That is no
+longer true. Two legal works were captured this cycle, one from each tradition,
+and they answer the two things this note was still waiting on.
+
+On the Zaydi side the answer is confirmation, from a better witness than the one
+that was carrying it: *Sharh al-Azhar*, the school's own commentary on its *matn*,
+teaches the prohibition and names `الهادي والقاسم` for the reading of Q 5:5 that
+grounds it, which is the attribution that had rested on *Tafsir al-A'qam* alone
+([[a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620]]).
+It also shows the mechanism is not abrogation at all: the verse is left standing
+and its subject read as converts.
+
+On the Imami side the answer runs the other way and is stronger than the
+*tafsir*'s. Al-Muhaqqiq's *Shara'i'* records the question as `روایتان`, two
+narrations, rather than as a school position; and al-Najafi's commentary on it
+calls permission `التحقيق`, the verified position, naming al-Mufid, al-Murtada
+and Ibn Idris as the strict party he is rejecting
+([[an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625]]).
+
+So the correction of 15:00Z stands and gets sharper. `وإلى هذا ذهب الإمامية` does
+not merely lack a `بعض`; in the legal literature the position it names is the one
+that lost. This note's body remains a fair report of what al-Sabuni wrote and of
+al-Qurtubi's three positions. What it may no longer be used for is the inference
+the base was drawing from it — that the Shi'i schools are the stricter party on
+this question — which is now true only of particular classical commentators on
+one side of a dispute both traditions were having with themselves.

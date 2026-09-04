@@ -10,6 +10,8 @@ title: An Imami commentary makes the same argument from Qur'anic usage that the 
   named a mushrik
 tags: []
 links:
+- target_id: the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635
+  relation: supports
 - target_id: tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505
   relation: source
 - target_id: tabatabai-al-mizan-on-2-221-and-5-5--202609041500
@@ -92,3 +94,14 @@ other way — see
 [[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]].
 What this note claims is that the argument exists on both sides of the
 Sunni–Shi'i divide, not that either side settled it.
+
+**Antedated 2026-09-04 16:00Z.** The argument this note records from
+al-Tabataba'i, including the distinction between doing *shirk* and being named a
+*mushrik*, is made in Imami *fiqh* a century earlier, by al-Najafi, with a
+jurist's test behind it — `المتبادر … في إطلاق الشرع`, what comes first to mind in
+the law's usage — and the conjunction evidence offered as confirmation rather
+than as the proof
+([[the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635]]).
+Nothing here is withdrawn; what changes is that al-Tabataba'i should no longer be
+described, in this base or anywhere downstream of it, as the Imami source of the
+argument.

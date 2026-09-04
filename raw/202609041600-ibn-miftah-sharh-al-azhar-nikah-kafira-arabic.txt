@@ -1,0 +1,151 @@
+SOURCE CAPTURE — Ibn Miftah (d. 877/1472), Sharh al-Azhar (al-Muntaza' al-mukhtar
+min al-Ghayth al-midrar), vol. 4 (al-nikah wa'l-talaq): the fasl on who may not be married,
+first case — the unbelieving woman. Arabic, verbatim OCR excerpt.
+School/affiliation: ZAYDI. This is the first Zaydi work of FIQH in this repository; the two
+Zaydi witnesses it already held (Gharib al-Qur'an ascribed to Zayd b. 'Ali, Tafsir al-A'qam,
+both captured 2026-09-04T14:00Z) are tafsir.
+
+WHY THIS SOURCE. The INBOX entry "Capture an Imami or Zaydi legal text on Q 2:221" has been
+open across four cycles. Its narrowed remaining ask, as the 15:00Z cycle left it, was exactly
+two things: (i) no Imami or Zaydi FIQH text is in the base at all, every Shi'i witness being a
+tafsir; and (ii) the attribution of the strict reading of Q 5:5 to the Zaydi imams Yahya
+(al-Hadi) and al-Qasim rests on ONE witness, Tafsir al-A'qam, five centuries later. This
+capture answers both: it is a Zaydi fiqh text, and it names al-Hadi and al-Qasim for that
+reading in its own voice.
+
+WHAT IT CONTAINS. The matn of the Azhar (al-Mahdi Ahmad b. Yahya al-Murtada, d. 840/1437)
+requires the spouses to agree "fi al-milla"; the commentary grounds the prohibition in
+Q 2:221 and Q 60:10, and disposes of Q 5:5 by INTERPRETATION rather than abrogation — the
+"muhsanat min alladhina utu al-kitab" are read as those of the People of the Book WHO
+BELIEVED. It then records the dissent: al-Sadiq, al-Baqir, Abu Hanifa and al-Shafi'i permit
+marrying kitabiyyat, and al-Intisar chose that view and called it the consensus of the first
+generation.
+
+Retrieved: 2026-09-04T16:00Z
+Host and route: archive.org (Internet Archive), item `1_20191217_20191217_1729`
+  ("شرح الأزهار لابن مفتاح ط مكتبة أهل البيت عليهم السلام"), file
+  "شرح الأزهار ج4 (النكاح والطلاق)_djvu.txt" — the Internet Archive's own OCR of the scanned
+  print, downloaded COMPLETE in one request (no pagination, so no exhaustion question arises).
+  https://archive.org/download/1_20191217_20191217_1729/
+  Whole downloaded file: sha256 4e7add955ad0084f6c8bce2498e554db98d6132d898bbf679cc080abf7ac6ffc
+  (2,239,229 bytes, 1,297,666 characters)
+  Excerpt bounds within that file: characters [44700:48300], reproduced below verbatim and
+  unaltered. The bounds were chosen by content: the excerpt opens at the running head of
+  kitab al-nikah carrying the matn phrase "(في الملة)" and closes where the section moves to
+  its second case, "(و)الثانية: (المرتدة)".
+
+READ THIS BEFORE QUOTING FROM IT. This is OCR of a scanned Arabic print and it is IMPERFECT.
+Observed classes of damage in this excerpt: Persian kaf (ک) for Arabic kaf, ب for ي
+("بحل" for "يحل"), ه/ة confusion, "المادي" for "الهادي", doubled letters ("الانتتصار"),
+"» ء" used for the printed comma, and dropped words inside longer clauses. Every quotation
+this repository takes from this capture is reproduced EXACTLY as the OCR has it and is
+mechanically checked against this file; where the OCR has plainly damaged a word, the
+corrected reading is given in square brackets beside it and marked as this base's reading,
+not the capture's.
+
+ACCESS. shiaonlinelibrary.com, lib.eshia.ir, noorlib.ir and ar.wikishia.net do not resolve
+from this environment at all (DNS failure, not a block page). al-maktaba.org returns 403.
+archive.org is reachable and served this file on the first request. The Zaydi corpus remains
+thinly hosted: before this capture the only host in this base's experience carrying any Zaydi
+material was altafsir.com, and it carries tafsir only.
+
+EDITION AND RIGHTS. The text of Sharh al-Azhar is fifteenth-century and long out of
+copyright; the scanned printing is a modern one (Maktabat Ahl al-Bayt) whose typesetting and
+apparatus are not. What is taken here is one section, as an excerpt, for comment and
+criticism, and it exists so that the quotations built on it are checkable. No printed page
+numbers survive the OCR in a usable form, so all locators in the notes are by work, volume
+and section rather than by page.
+
+================================ BEGIN VERBATIM EXCERPT ================================
+لبقاء على الكفر» ذكره القاسم عايكا. 
+
+
+4 (كتاب النڪاح0) 
+
+
+له (في الملة'“) فلا تحل الكافرة للمسلم» ولا المسلمة للكافرء ولا اليهودية 
+
+
+(٭) لا بحل نکاح الکافرة؛ لقوله تعالل: ولا توا الُْذْرگاتِ حَ يُوْمِنَ) (بتر:٠٠»‏ وقوله 
+تعال: ولا كوا به بوصم الگوافر4 ادسة:۰٠]»‏ وأما قوله تعال: #وَالْمُّحُصََاتُ مِنَ 
+الْمُوْمنَاتِ والشحصتات من الذي ووا اكاب سسه:ه)» فالمراد به من آمن من آهل 
+الكتاب» كذا ذكره المادي والقاسم وغيرهما من أئمة أهل البيت عيلا. وكذلك لا يصح 
+نكاح النصراني لليهوديةء ولا العكس؛ لأن الكفر ملل ختلفة يكفر بعضهم بعضاً. قال في 
+البحر: وفرق الكفر: هود» ونصارى» ومجوس» وصابئون» وسامرة» ومتمسكون بصحف 
+إبراهيم» وصحف شيث» ثم الباطنية» والفلاسفة» والمنجمون» وأهل الردة» والمشركون» 
+وكفار التأويل. 
+
+(۱) قال المادي اكا ني كتابه اللسمى المنرلة بين المنزلتين: أجع المسلمون أنه لا يحل لامرأة مؤمنة 
+أن تزوج رجلا يهودياً ولا نصرانياًء فالحكم في الرجال والنساء واحد؛ لقرله بإً: ((لا 
+توارث بين أهل ملتين ختلفتين)) وإجماع الأمة أن امرأة مهودية إذا ماتت وخلفت زوجها هذا 
+اللسلم» أو مات زوجها- أنه ليس بينهم| موارثة» فافهم. 
+
+(#) ولو تأويلاً على المقرر. (7ږ). 
+
+() وجنية بإنسي. وعکسه. (فتح معنی). لقوله تعالل: الله جَعَل لڪُم م من أنْفْي 
+اجا انسر:۷۲» وإلا لزم أن يحل نكاح الأنعام. ق قلت: وهكذا يأتي في آدمي البحر إذا صح 
+أن فيه كآدمي البر. اه وقد ذكره الدميري في حياة الحيوان عن الشيخ عاد الدين بن يونس؛ 
+لقوله تعالل: #واللَه جَعَلَ لَڪ : مِن ايڪ اا4 الآية» وأشار إلى ذلك في 
+الكشاف» ونص على ذلك جاعة من الحنابلة» كالعكس» وهو نکاح ا لحني بإنسية» فإنه لا 
+يجوز وفاقا؛ لثلا يحل المحال]ء وقد أجاز الأول جماعة من الخحنابلة والمالكية. (شرح فتح). 
+
+(#) ولفظ المعيار: وجعلت الزوجة من جنسه تكميلاً للمقصود من سكون النفس. فرع: 
+ولكون الزوجة من جنسه بطل ما ذكره بعض المالكية أنه يصح نكاح الإنسي بجنية» من دون 
+عكس؛ لثلا تفجر المرأة فتجد عذراً. ولكونه أساس الوصلةء ومبدأ حدوث الرحامة» وهو 
+سبب كمال المودة والرحمة»ء كا أشار إليه الشارع - لم يصح بين مختلفي الملة؛ لانقطاع الوصلة 
+بینه|. (بلفظه). 
+
+
+في شرح بهران: لئلا تفجر المرأة فتجد عذراً. 
+
+
+(فصل): في تطصيل من يحرم نڪاحه 0 
+
+
+للنصراني» ولا العكس» وكذلك كل امرأة تخالف الرجل في ملته فإنها تحرم عليه 
+ويحرم علیها» سواء کانا كافرين أم مسل وكافراً. 
+
+وعن الصادق ‏ والباقر وأبي حنيفة والشافعي: أنه يجوز نكاح الكتابيات". 
+واختاره في الانتتصار قال فيه: وهو إجماع الصدر" الأول. وقال فيه أيضاً: وإنم| يجوز 
+في حق ا وکان ن سی ا فأما هؤلاء"؟ فقد غیروا() 
+وبدلوا. وكذا ني الشفاء ومهذب الشافعي: أن من بدل ل يجز النكاح منهم. 
+
+
+N FEY (4)‏ تعالل: ولا تنسوا به صم الگرافر € االسة: ٠١‏ والأمة الكتابية لا 
+يحل وطؤها لسیدها. (بیان) (7رر). 
+
+(۱) والناصر. 
+
+(۲) قال في الثمرات ما لفظه: وقد قال الإمام يحبى بن حمزة عليكا9 في مهود اليمن: إنم من العرب 
+تهودوا» فلا تنکح نساؤهم على قول من يجوز نکاحهم» وهكذا قال في الشفاء ومهذب 
+الشافعي: إن الجواز كان قبل التبديل عند من جوزه. (ثمرات من سورة المائدة). 
+
+(#) ولا توارث» وهو الحجة عليهم. (تبصرة). لا حجة في عدم الجواز بعدم التوارث؛ لأنه قد 
+يحل نكاح الأمة للعنت ولا توارث. (غيث). 
+
+(۳) من الصحابة والتابعين. 
+
+(#) وهذه نكتة» أعني: دعوى الإجاع؛ لمخالفة كثير من العلهاء الأخيار» والجحهابذة من أئمة 
+الآل الكبار» فينظر في ذلك» ويبحث عنها هنالك. (انتصار بلفظه). 
+
+(#) وقد نكح عثمان نائلة بنت الفرَافصة وهي نصرانيةء فلها توفي حطبها معاوية بعده» فقالت: 
+وما يعجبك مني؟ فقال: ثناياك وسواد رأسك» فقلعت ثناياها وحلقت رأسهاء وحملت ذلك 
+إليه. ونكح طلحة نصرانية» ونكح حذيفة بهودية. (زهور» وغيث). 
+
+() ينظر» فقد جرى التحريف منهم في زمن الرسول إكَاي؛ لقوله تعال: «يحَرَفُونَ الْگلم 
+عَنْ مَواضعه€ [اسء:٠٠]»‏ فينظر فيه. والفقيه يوسف بيض له في الزهور. 
+
+() وهو يعقوب بن إسحاق بن إبراهيم علتاا. (منهاج). 
+
+(0) يعني: بعد المبعث. (بستان). 
+
+(۷) في النسب. 
+
+(۸) في التوراة. 
+
+
+Î‏ (كتاب التنكڪاح0) 
+
+
+(و)الثانية: (المرتدة') فإنما حرمة على كل أحد مسلم وكافرء
+================================= END VERBATIM EXCERPT =================================

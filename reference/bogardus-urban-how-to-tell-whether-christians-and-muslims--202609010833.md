@@ -41,7 +41,7 @@ verification:
   source: https://doi.org/10.5840/faithphil201741178
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:28Z'
+  date: '2026-09-04T16:22:51Z'
 raw_capture: raw/202609010833-bogardus-urban-2017-abstract.txt
 links: []
 created: '2026-09-01'
