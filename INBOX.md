@@ -630,6 +630,20 @@ record carrying `number` gets a false arXiv check. Whoever fixes this in the
 skill repo should be able to reproduce (B) from a two-line CSL block with
 nothing but `type: report` and `number: '1'`.
 
+
+### Appended 2026-09-04 08:00Z: defect (B), twelfth occurrence
+
+`verify_refs.py --mailto` on a clean tree again stamped `identifier_check:
+failed` on polkinghorne 202609022347, reading its report series `number` as an
+arXiv id, and rewrote its verification date. Restored from HEAD before any
+`build_manifest` ran, per the per-invocation rule the 06:00Z cycle established;
+the committed tree carries no downgrade. Nothing new about the mechanism this
+time — it is recorded only so the occurrence count stays honest. Defect (A) did
+not fire: Crossref and Open Library were reachable throughout, and 59/59
+references verified on the live pass. The five new reference notes carry a URL
+and no DOI/ISBN/PMID/arXiv id, the same safe shape as the 07:00Z cycle's, and
+came through untouched.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1669,6 +1683,29 @@ delete or edit any existing capture, did not change any note that cites one, and
 did not weaken any claim. The three notes it wrote from Rowland are grounded on
 a full reading and cite page locators that a reader with the article can check.
 
+
+### Appended 2026-09-04 08:00Z: two more in-copyright captures, taken as excerpts under the rule this entry is asking about
+
+This cycle captured two modern, in-copyright Arabic commentaries — al-Sa'di
+(d. 1956) and *al-Tafsir al-Muyassar* — and did NOT take full text for either,
+even though both are short and both are distributed free by their publishers.
+al-Sa'di's comments were cut to the lemma-and-gloss sequences the notes use,
+with omissions marked `[...]`; *al-Muyassar*'s served comment is one short
+paraphrase per verse and was taken whole because there is no smaller unit that
+still shows what its gloss does.
+
+That is the excerpt-capture rule this entry's human decision would either
+ratify or replace, applied voluntarily rather than waiting. Two observations
+for whoever decides. First, the cost was near zero here: the argument in
+202609040825 needs two sentences from each source and nothing else, so the
+excerpt lost nothing the notes wanted. Second, it is NOT free in general — the
+completeness check that made this cycle's central finding safe (that
+al-Qurtubi's comment really ends where it appears to) was only possible because
+the three public-domain captures are complete. An excerpt cannot support a
+claim about an absence. So the rule worth considering is not "excerpt
+everything in copyright" but "excerpt in copyright, and never rest a negative
+claim on an excerpt".
+
 ## 2026-09-04 — Access and environment findings from the Rowland cycle: a third piece of evidence for the rung-(c) amendment, and two hosts that failed in new ways
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1738,7 +1775,7 @@ in MEDLINE.
 
 ## 2026-09-04 — Test the al-Tabari ma'bud gloss against the other classical commentaries, which are on the same free endpoint
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** human
 
@@ -1794,3 +1831,99 @@ published translation of the text. A cycle that adds three more commentators
 multiplies that exposure. Either keep printing the Arabic beside every
 rendering that carries weight, as the current notes do, or find a published
 translation for at least one of them and use it to calibrate.
+
+### Answered by the 2026-09-04 08:00Z cycle — outcome three, and the note was narrowed
+
+Everything this entry said would be cheap was cheap. Quran.com API v4, rung (a),
+first request, five commentaries on both verses: al-Qurtubi (resource 90), Ibn
+Kathir (14), al-Baghawi (94, added — the entry left "the other classical
+commentaries" open), and for comparison the modern al-Sa'di (91) and *al-Tafsir
+al-Muyassar* (16). Total elapsed for the fetching: under two minutes.
+
+THE RESULT IS THE THIRD OF THE THREE OUTCOMES THIS ENTRY NAMED IN ADVANCE.
+"They pass over the clause in silence." None of the three classical
+commentators glosses `وإلهنا وإلهكم واحد`. The word `معبود` — the whole of
+al-Tabari's move — occurs in none of their comments on Q 29:46, checked on
+Quran.com and on both `quran.ksu.edu.sa` and `tafsir.app`. And because this is
+an absence, it was checked as one: al-Qurtubi's comment announces `فيه مسألتان`
+and delivers both questions, and all three copies of each commentator's comment
+begin and end at the same sentence, so the silence is a property of the
+commentary and not of an abridged electronic text.
+
+WHAT WAS DONE ABOUT IT. 202609040710 was narrowed in place: the sentence
+inferring what was uncontested "in this tradition at this date" now reads "for
+him", with an amendment section saying what was withdrawn and what was
+strengthened. Permanent 202609040820 records the finding, and the `contested`
+tag on 202609040115 is still NOT reachable on the three-source bar — three
+silences are not three witnesses.
+
+THE UNEXPECTED HALF. The clause is not glossed by anyone until the modern
+period, and when it is glossed, it is not glossed al-Tabari's way. al-Muyassar
+expands it `لا شريك له في ألوهيته، ولا في ربوبيته، ولا في أسمائه وصفاته`;
+al-Sa'di converts it into a premise disputation must be built on, `وعلى أن
+الإله واحد`. Both are the description question, not the reference one
+(202609040825).
+
+AND THE 3:64 HALF WENT THE OTHER WAY. The summons reading travelled intact to
+all three classical commentators, two of whom name the cross among what the
+"common word" excludes, and three of whom quote the letter to Heraclius
+(202609040830). So of the two claims the 07:00Z cycle drew from al-Tabari, the
+one about 3:64 is now four-source and the one about 29:46 is one-source. That
+asymmetry is the cycle's actual result.
+
+WHAT THIS ENTRY EXPLICITLY DID NOT CLOSE, restated so no later run reads the
+commentary sweep as broader than it was: the juristic *mushrikun* question is
+untouched, and Saritoprak, al-Ghazali's *Faysal al-Tafriqa* and Ibn Taymiyya's
+*al-Jawab al-Sahih* are still uncaptured. Those stay with the corroboration
+entry above, which stays `in-progress`.
+
+## 2026-09-04 — Leads left open by the commentary sweep: al-Razi, Tantawi's single witness, and a translation-calibration debt that is now five notes deep
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run
+
+Filed by the 2026-09-04 08:00Z cycle. Four items, each with what is already
+known written down so a later run spends its turns on the work.
+
+(1) AL-RAZI IS NOT ON THE ENDPOINT. `/api/v4/resources/tafsirs` lists exactly
+seven Arabic commentaries — 14 Ibn Kathir, 15 al-Tabari, 16 al-Muyassar, 90
+al-Qurtubi, 91 al-Sa'di, 93 al-Wasit (Tantawi), 94 al-Baghawi. *Mafatih
+al-ghayb* is not among them, and al-Razi is the one classical commentator whose
+absence actually matters here, because he is the theologian of the group and
+the co-reference question is a theological one: the three captured this cycle
+are a jurist, a traditionist and an abridger, and their silence may be a fact
+about the *genre* rather than about the tradition. `tafsir.app` serves him
+(slug pattern `/razi/29/46` untried) and so may `quran.ksu.edu.sa`. Until he is
+captured, 202609040820's claim is about three commentaries of three particular
+kinds, which is what it says.
+
+(2) TANTAWI STANDS ON ONE WITNESS. *al-Tafsir al-Wasit* (resource 93) glosses
+the clause `( وإلهكم وَاحِدٌ ) لا شريك له لا فى ذاته ولا فى صفاته` — note that
+his lemma drops `وإلهنا` — which is a third instance of the modern
+tawhid-reading and would take 202609040825 from two witnesses to three. It was
+deliberately left out: `quran.ksu.edu.sa` does not carry him, and
+`tafsir.app`'s `waseet`, `wasit` and `tantawi` slugs all return a ~150 KB page
+with no commentary body (the host appears to answer 200 for unknown slugs, so a
+byte count near 150,400 is this environment's signature for "no such
+commentary"). Find one independent host and the note gains a witness for the
+cost of one request.
+
+(3) THE TRANSLATION DEBT IS NOW FIVE NOTES DEEP AND SHOULD BE PAID ONCE. Every
+English rendering of Arabic in this base is its own working translation, and
+the exposure has grown from one source to six in a day. Ibn Kathir is the place
+to pay it: unlike al-Tabari, al-Qurtubi and al-Baghawi, his commentary has
+several complete published English translations, so ONE published translation
+consulted on ONE commentator would calibrate the whole set — if this base's
+renderings of Ibn Kathir on 3:64 and 29:46 track a published one, the method is
+sound; if they drift, every other rendering is suspect. That is a cheaper and
+sharper test than translating more.
+
+(4) THE MUSHRIKUN QUESTION, still, and it is the last structural gap in this
+cluster. Every commentary captured this cycle attaches the *jizya* and the
+sword to these verses without registering any tension with the shared-God
+clause, which is a datum in itself and is recorded in the notes. What is not in
+the base is the juristic literature that decides whether Christians count as
+*mushrikun*, and that is where the tension would have had to be resolved if
+anyone resolved it. No access route has been tried for it yet.
+

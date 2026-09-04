@@ -1368,5 +1368,97 @@
     },
     "title": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān",
     "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/90/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Qurṭubī"
+      }
+    ],
+    "id": "202609040800",
+    "issued": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "title": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/14/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Ismāʿīl ibn ʿUmar Ibn Kathīr"
+      }
+    ],
+    "id": "202609040802",
+    "issued": {
+      "date-parts": [
+        [
+          1373
+        ]
+      ]
+    },
+    "title": "Tafsīr al-Qurʾān al-ʿAẓīm",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/94/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū Muḥammad al-Ḥusayn ibn Masʿūd al-Baghawī"
+      }
+    ],
+    "id": "202609040804",
+    "issued": {
+      "date-parts": [
+        [
+          1122
+        ]
+      ]
+    },
+    "title": "Maʿālim al-tanzīl",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/91/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "ʿAbd al-Raḥmān ibn Nāṣir al-Saʿdī"
+      }
+    ],
+    "id": "202609040806",
+    "issued": {
+      "date-parts": [
+        [
+          1956
+        ]
+      ]
+    },
+    "title": "Taysīr al-Karīm al-Raḥmān fī tafsīr kalām al-Mannān",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/16/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Nukhbat min ʿulamāʾ al-tafsīr (committee)"
+      }
+    ],
+    "id": "202609040808",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "publisher": "Majmaʿ al-Malik Fahd li-ṭibāʿat al-muṣḥaf al-sharīf",
+    "publisher-place": "Medina",
+    "title": "al-Tafsīr al-muyassar",
+    "type": "book"
   }
 ]

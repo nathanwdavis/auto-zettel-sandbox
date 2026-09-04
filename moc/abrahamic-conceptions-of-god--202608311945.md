@@ -148,6 +148,27 @@ true. The third turns to Q 3:64 and finds the "common word" glossed as an
 *equitable* word whose content is tawhid plus the disavowal of every rival
 object of worship, transmitted with the refusal of its addressees attached.
 
+### The commentary sweep that tested it, added 2026-09-04
+
+The first of those three notes said "the tradition" on the strength of one
+commentator, and said so in a paragraph that also asked for the test. The test
+was run six hours later: al-Qurtubi, Ibn Kathir, al-Baghawi, al-Sa'di and
+al-Tafsir al-Muyassar, on the same two verses, off the same free endpoint.
+
+- [[the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820]]
+- [[where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825]]
+- [[four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830]]
+
+The result splits. On Q 29:46 the identification did **not** travel: three
+classical commentators pass over the shared-God clause without a word, one of
+them after printing it as a lemma, and the two modern commentaries that do gloss
+it turn it into an assertion that God has no partner — which is the description
+question, not the reference one. On Q 3:64 the summons reading **did** travel,
+in the same words, to all three; two of them name the cross among what the
+common word excludes. So this base's own note was narrowed from "the tradition"
+to "al-Tabari", and the narrowing is recorded on the note itself rather than
+only here.
+
 The reason the section is not simply longer is that the classical voice does not
 agree with the modern one. It corroborates the *form* of the 2007 letter's move
 — shared-God material arriving as instruction rather than thesis — and removes
@@ -189,8 +210,8 @@ The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346
 (literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
 Islam, argued from inside: [[a-common-word-between-us-and-you--202609040058]], [[quran-shared-god-passages--202609040056]]
 (literature: [[a-common-word-builds-common-ground-from-the-two-commandments--202609040110]], [[the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105]]).
-Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]]
-(literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]]).
+Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]], [[qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800]], [[ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802]], [[baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804]]; and two modern ones for comparison: [[saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806]], [[al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808]]
+(literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]], [[qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810]], [[ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812]], [[baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814]], [[saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816]], [[the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

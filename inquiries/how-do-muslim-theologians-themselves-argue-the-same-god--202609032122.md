@@ -19,6 +19,9 @@ result_notes:
 - the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
 - the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715
 - the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
+- the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
+- where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825
+- four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -171,3 +174,56 @@ the Islamic side now has three (the Qur'an captures, the 2007 letter,
 al-Tabari) and one of them is scripture. al-Qurtubi, al-Razi and Ibn Kathir on
 the same two verses are uncaptured, and the juristic *mushrikun* question is
 still untouched — both filed to INBOX.
+
+## 2026-09-04 (08:00Z cycle): the classical register was tested against itself, and one half of the answer above does not survive
+
+Still `answered`; three more `result_notes`, no reopening. The previous section
+said the tradition, asked in its own language, answers the co-reference question
+yes. That was one commentator. Four more commentaries on the same two verses
+were captured this cycle — al-Qurtubi, Ibn Kathir, al-Baghawi, and for
+comparison the modern al-Sa'di and *al-Tafsir al-Muyassar* — and the result
+splits cleanly in two.
+
+**Withdrawn: "the tradition answers yes."** al-Tabari's `ومعبودنا ومعبودكم
+واحد` is not repeated by any of the three classical commentators who follow
+him. None of them glosses `وإلهنا وإلهكم واحد` at all; the word `معبود` occurs
+in no comment of theirs on Q 29:46, on Quran.com or on either independent host
+they were checked against. al-Baghawi prints the clause as a lemma and then
+supplies only hadith about not believing and not disbelieving the People of the
+Book; Ibn Kathir cites al-Tabari approvingly on a *different* clause of the same
+verse and does not follow him on this one
+([[the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820]]).
+Nobody contradicts the identification either. What the base may now say is: one
+identification, three silences — and, where the clause is glossed at all, in two
+modern commentaries, an assertion that God has no partner rather than a claim
+about what two parties worship
+([[where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825]]).
+Permanent 202609040710 has been amended in place accordingly, and the sentence
+that said "in this tradition at this date" now says "for him".
+
+**Strengthened: the 3:64 reading.** The summons reading did travel. All four
+classical commentators gloss `سواء` as justice or equity, fill the "common
+word" with the exclusion of every rival object of worship, and read the closing
+clause as a restatement of the Muslim position after refusal. Two of them name
+the cross among the exclusions, and three quote the letter to Heraclius, in
+which the verse sits inside `أسلم تسلم`
+([[four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830]]).
+
+**What that does to the letter's silence.** The 07:00Z cycle concluded that the
+2007 letter's silence about co-reference is a choice made against an available
+affirmation. That conclusion is now weaker than it was written. The affirmation
+was available in al-Tabari; it was not a commonplace the letter's drafters would
+have had to step around, since three major commentaries pass the clause by. The
+letter's silence is still not explained by an inherited absence — nobody denies
+co-reference either — but "a choice against an available affirmation" overstates
+how available it was.
+
+**The asymmetry.** The Islamic side now rests on nine captured sources — two
+Qur'an captures, the 2007 letter, four classical commentaries and two modern
+ones — against the Jewish side's six, so on a count of sources the asymmetry
+this inquiry was filed about is closed. On what those sources are it is not:
+six of the nine are commentary on two verses, and the argumentative registers
+the remainder above named (Saritoprak, al-Ghazali's *Faysal al-Tafriqa*, Ibn
+Taymiyya's *al-Jawab al-Sahih*) are all still uncaptured. al-Razi is uncaptured
+too — he is not on the endpoint this sweep used — and the juristic *mushrikun*
+question is untouched by anything in the base.

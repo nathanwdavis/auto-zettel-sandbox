@@ -17,6 +17,8 @@ links:
   relation: supports
 - target_id: the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
   relation: elaborates
+- target_id: four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830
+  relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -88,3 +90,15 @@ Kathir uncaptured. And the reports themselves are al-Tabari's transmission of
 earlier authorities, not independent evidence of the verse's occasion — this
 note reports what the commentary carries, and makes no claim about what happened
 at Najran.
+
+**AMENDMENT, 2026-09-04 08:00Z cycle: the first limit is largely closed, and
+this reading held.** al-Qurtubi, al-Baghawi and Ibn Kathir were captured on
+Q 3:64 and all three gloss `سواء` as justice or equity, fill the word's content
+with the exclusion of every rival object of worship, and read the closing clause
+as a restatement of the Muslim position after refusal; two of them name the
+cross among the exclusions, and all three quote the letter to Heraclius
+([[four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830]]).
+Unlike the co-reference gloss on Q 29:46, which no successor repeats, this
+reading travelled. al-Razi is still uncaptured; a modern commentator's use of
+`مشتركة` — shared — of the same word is recorded as a qualification in the note
+just linked, not suppressed here.
