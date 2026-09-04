@@ -252,6 +252,12 @@
     "202609041830": "the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830",
     "202609041835": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835",
     "202609041840": "the-offloading-literature-varies-expectation-not-accumulation--202609041840",
+    "202609041855": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855",
+    "202609041900": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900",
+    "202609041905": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905",
+    "202609041910": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910",
+    "202609041915": "the-replication-rate-was-forecast-before-it-was-measured--202609041915",
+    "202609041920": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -455,6 +461,15 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906",
+      "path": "inquiries/what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906.md",
+      "priority": "high",
+      "question": "What does Karpicke and Blunt (2011) actually report, which of its results did the SSRP replicate, and does that replication reach any claim this base makes about retrieval practice?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-04"
+    },
+    {
       "key": "what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030",
       "path": "inquiries/what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030.md",
       "priority": "normal",
@@ -477,7 +492,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 257,
+  "note_count": 263,
   "notes": [
     {
       "id": "202609041020",
@@ -639,6 +654,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620.md"
+    },
+    {
+      "id": "202609041905",
+      "key": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        }
+      ],
+      "path": "permanent/a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905.md",
+      "slug": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper",
+      "tags": [],
+      "title": "A replication project that tests one study per paper cannot settle the paper",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905.md"
     },
     {
       "id": "202609010113",
@@ -1523,6 +1567,18 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036.md"
+    },
+    {
+      "id": "202609041855",
+      "key": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855",
+      "links": [],
+      "path": "reference/camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855.md",
+      "slug": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments",
+      "tags": [],
+      "title": "Camerer et al., Evaluating the Replicability of Social Science Experiments in Nature and Science between 2010 and 2015",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855.md"
     },
     {
       "id": "202609011811",
@@ -3719,7 +3775,7 @@
       "tags": [],
       "title": "Schmidt, Niklas Luhmann's Card Index",
       "type": "reference",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/schmidt-niklas-luhmanns-card-index--202609010302.md"
     },
     {
@@ -4488,6 +4544,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
     },
     {
+      "id": "202609041910",
+      "key": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "supports",
+          "target_id": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        }
+      ],
+      "path": "permanent/the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910.md",
+      "slug": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with",
+      "tags": [],
+      "title": "The failed Google-effect replication is the one of twenty-one whose original authors did not respond",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910.md"
+    },
+    {
       "id": "202609011211",
       "key": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211",
       "links": [
@@ -4686,6 +4775,10 @@
           "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
         },
         {
+          "relation": "supports",
+          "target_id": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905"
+        },
+        {
           "relation": "source",
           "target_id": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815"
         },
@@ -4700,6 +4793,10 @@
         {
           "relation": "source",
           "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910"
         },
         {
           "relation": "shared-concept",
@@ -5576,6 +5673,68 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830.md"
     },
     {
+      "id": "202609041915",
+      "key": "the-replication-rate-was-forecast-before-it-was-measured--202609041915",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905"
+        },
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        }
+      ],
+      "path": "permanent/the-replication-rate-was-forecast-before-it-was-measured--202609041915.md",
+      "slug": "the-replication-rate-was-forecast-before-it-was-measured",
+      "tags": [],
+      "title": "Peers forecast which findings would replicate, so the failures were not chance",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-replication-rate-was-forecast-before-it-was-measured--202609041915.md"
+    },
+    {
+      "id": "202609041920",
+      "key": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510"
+        },
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        }
+      ],
+      "path": "permanent/the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920.md",
+      "slug": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it",
+      "tags": [],
+      "title": "Two of the twenty-one replicated papers may belong to this base's own cluster, and it cannot tell from what it holds",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920.md"
+    },
+    {
       "id": "202608311942",
       "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
       "links": [
@@ -5899,6 +6058,23 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450.md"
+    },
+    {
+      "id": "202609041900",
+      "key": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        }
+      ],
+      "path": "literature/the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900.md",
+      "slug": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations",
+      "tags": [],
+      "title": "The SSRP replicated one result per paper, and said so in its limitations",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900.md"
     },
     {
       "id": "202609041015",

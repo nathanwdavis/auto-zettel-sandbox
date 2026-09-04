@@ -117,4 +117,28 @@ read here manipulates accumulation or linking, so the method's warrant is still
 argument rather than measurement, and now that is a checked result instead of an
 assumption.
 
+Extended a fifth time on 2026-09-04, and this group is not about note-taking at
+all. It is about how to *read* the replication evidence the four groups above
+are made of, from the one large-scale replication project this map's sources
+keep being cited through:
+
+- [[a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905]]
+- [[the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910]]
+- [[the-replication-rate-was-forecast-before-it-was-measured--202609041915]]
+- [[the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920]]
+
+Read the first as a constraint on everything above it. The Social Sciences
+Replication Project tested one result from each of twenty-one papers — the
+Google effect among them, which did not replicate — and its own limitations say
+that this settles none of the papers. The second and fourth are what that
+constraint looks like applied in each direction: it weakens a failure this map
+was relying on, and it withholds a success this map would have liked. Read the
+fourth carefully, because it is mostly a warning about itself: two of the
+twenty-one carry author names from this section's own cluster, and the project
+gives no titles, so what those papers report is a question this base has filed
+rather than a finding it holds. The third is the one that reaches past this
+literature: peer forecasts landed within one and a half points of the observed
+replication rate and tracked the individual studies, which makes scepticism
+about a striking finding a calibrated reading rather than a mood.
+
 See also: [[compound-growth--202608311143]]

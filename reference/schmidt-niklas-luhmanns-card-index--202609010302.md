@@ -34,15 +34,15 @@ chicago_bib: 'Schmidt, Johannes F. K. “Niklas Luhmann’s Card Index: The Fabr
   of Serendipity.” Sociologica 12, no. 1 (2018): 53–60. https://doi.org/10.6092/issn.1971-8853/8350.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
+  method: raw-capture+datacite
+  source: https://api.datacite.org/dois/10.6092/issn.1971-8853/8350
   verified: true
-  identifier_check: failed
-  date: '2026-09-01T08:32:11Z'
+  identifier_check: confirmed
+  date: '2026-09-04T19:05:00Z'
 raw_capture: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
 links: []
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 Bibliographic record. The standard scholarly description of Luhmann's actual
 card index, written by the coordinator of Bielefeld University's Luhmann
@@ -59,6 +59,18 @@ galley; it is a revised, shortened version of Schmidt's 2016 chapter in
 A note on the identifier: the DOI is registered with DataCite, not Crossref
 (confirmed via Crossref's agency endpoint on 2026-09-01, when it also resolved
 live via doi.org to the article page). `verify_refs.py` checks DOIs against
-Crossref only, so this note's verification may carry `identifier_check:
-failed` — that records "not in Crossref", which is expected for a DataCite
-DOI, not identifier rot. Verification rests on the complete raw capture.
+Crossref only, so this note carried `identifier_check: failed` for three days —
+which recorded "not in Crossref", expected for a DataCite DOI, and not
+identifier rot.
+
+**Closed 2026-09-04.** The 2026-09-01 diagnosis was right and was never acted
+on, because nobody queried the registry it named. `api.datacite.org/dois/` for
+this DOI returns the record, and every field it carries matches this note:
+title "Niklas Luhmann's Card Index: The Fabrication of Serendipity", creator
+"Schmidt, Johannes F.K.", publication year 2018, publisher and container
+*Sociologica* vol. 12, and the article URL already recorded above. So
+`identifier_check` is now `confirmed` and the method is `raw-capture+datacite`,
+recorded by hand because the verifier has no DataCite path to record it with.
+A live `verify_refs.py` run will re-fail the Crossref lookup and may downgrade
+this block again; that is the tooling defect filed in INBOX, not new evidence,
+and the block should be restored rather than believed.
