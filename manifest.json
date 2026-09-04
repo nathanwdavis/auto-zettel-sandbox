@@ -294,6 +294,15 @@
     "202609042060": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060",
     "202609042061": "two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061",
     "202609042062": "the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062",
+    "202609042070": "aquinas-st-i-q3-simplicity--202609042070",
+    "202609042071": "maimonides-guide-1-57--202609042071",
+    "202609042072": "vallicella-divine-simplicity-sep--202609042072",
+    "202609042075": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075",
+    "202609042076": "aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076",
+    "202609042077": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077",
+    "202609042080": "no-composition-does-different-work-in-each-tradition--202609042080",
+    "202609042081": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081",
+    "202609042082": "the-base-read-question-two-and-skipped-question-three--202609042082",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -443,8 +452,12 @@
       "path": "inquiries/is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844.md",
       "priority": "normal",
       "question": "Is divine simplicity the shared problem behind the Trinity, the sefirot and tawhid, and does 'no composition' mean the same thing in each?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081",
+        "no-composition-does-different-work-in-each-tradition--202609042080",
+        "the-base-read-question-two-and-skipped-question-three--202609042082"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -544,7 +557,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 299,
+  "note_count": 308,
   "notes": [
     {
       "id": "202609041020",
@@ -1221,6 +1234,27 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415.md"
     },
     {
+      "id": "202609042076",
+      "key": "aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-st-i-q3-simplicity--202609042070"
+        },
+        {
+          "relation": "supports",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        }
+      ],
+      "path": "literature/aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076.md",
+      "slug": "aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes",
+      "tags": [],
+      "title": "Aquinas argues simplicity from dependence, and lists what it excludes",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076.md"
+    },
+    {
       "id": "202609011206",
       "key": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
       "links": [
@@ -1265,6 +1299,18 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057.md"
+    },
+    {
+      "id": "202609042070",
+      "key": "aquinas-st-i-q3-simplicity--202609042070",
+      "links": [],
+      "path": "reference/aquinas-st-i-q3-simplicity--202609042070.md",
+      "slug": "aquinas-st-i-q3-simplicity",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae I q.3 (The simplicity of God)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-st-i-q3-simplicity--202609042070.md"
     },
     {
       "id": "202609042052",
@@ -2028,6 +2074,39 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
+    },
+    {
+      "id": "202609042081",
+      "key": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081",
+      "links": [
+        {
+          "relation": "contradicts",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "supports",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        },
+        {
+          "relation": "source",
+          "target_id": "vallicella-divine-simplicity-sep--202609042072"
+        }
+      ],
+      "path": "permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081.md",
+      "slug": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on",
+      "tags": [],
+      "title": "The monotheisms divide over the scope of simplicity, not over plurality",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081.md"
     },
     {
       "id": "202609030152",
@@ -3036,6 +3115,27 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-denies-any-composition-in-gods-unity--202608311932.md"
     },
     {
+      "id": "202609042075",
+      "key": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-guide-1-57--202609042071"
+        },
+        {
+          "relation": "supports",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        }
+      ],
+      "path": "literature/maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075.md",
+      "slug": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him",
+      "tags": [],
+      "title": "Maimonides denies God has attributes at all, not merely that they divide him",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075.md"
+    },
+    {
       "id": "202609042020",
       "key": "maimonides-forbidden-foods-11-7--202609042020",
       "links": [],
@@ -3046,6 +3146,18 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-forbidden-foods-11-7--202609042020.md"
+    },
+    {
+      "id": "202609042071",
+      "key": "maimonides-guide-1-57--202609042071",
+      "links": [],
+      "path": "reference/maimonides-guide-1-57--202609042071.md",
+      "slug": "maimonides-guide-1-57",
+      "tags": [],
+      "title": "Maimonides, Guide for the Perplexed I:57 (on the attributes)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-guide-1-57--202609042071.md"
     },
     {
       "id": "202609042021",
@@ -3546,6 +3658,43 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nicene-creed-325--202609041955.md"
+    },
+    {
+      "id": "202609042080",
+      "key": "no-composition-does-different-work-in-each-tradition--202609042080",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-st-i-q3-simplicity--202609042070"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "maimonides-denies-any-composition-in-gods-unity--202608311932"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-guide-1-57--202609042071"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        }
+      ],
+      "path": "permanent/no-composition-does-different-work-in-each-tradition--202609042080.md",
+      "slug": "no-composition-does-different-work-in-each-tradition",
+      "tags": [],
+      "title": "The traditions share the argument against composition and differ on what it excludes",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/no-composition-does-different-work-in-each-tradition--202609042080.md"
     },
     {
       "id": "202609010704",
@@ -4782,6 +4931,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635.md"
+    },
+    {
+      "id": "202609042082",
+      "key": "the-base-read-question-two-and-skipped-question-three--202609042082",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        },
+        {
+          "relation": "source",
+          "target_id": "vallicella-divine-simplicity-sep--202609042072"
+        }
+      ],
+      "path": "permanent/the-base-read-question-two-and-skipped-question-three--202609042082.md",
+      "slug": "the-base-read-question-two-and-skipped-question-three",
+      "tags": [],
+      "title": "A base built on natural theology read the question about God's existence and skipped the one about what exists",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-base-read-question-two-and-skipped-question-three--202609042082.md"
     },
     {
       "id": "202609022357",
@@ -6900,6 +7082,31 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015.md"
     },
     {
+      "id": "202609042077",
+      "key": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "supports",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        },
+        {
+          "relation": "source",
+          "target_id": "vallicella-divine-simplicity-sep--202609042072"
+        }
+      ],
+      "path": "literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077.md",
+      "slug": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity",
+      "tags": [],
+      "title": "The survey puts the doctrine in four traditions and reports simplicity used as an argument for the Trinity",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077.md"
+    },
+    {
       "id": "202609041730",
       "key": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
       "links": [
@@ -7268,6 +7475,18 @@
       "type": "literature",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205.md"
+    },
+    {
+      "id": "202609042072",
+      "key": "vallicella-divine-simplicity-sep--202609042072",
+      "links": [],
+      "path": "reference/vallicella-divine-simplicity-sep--202609042072.md",
+      "slug": "vallicella-divine-simplicity-sep",
+      "tags": [],
+      "title": "Vallicella, Divine Simplicity (SEP)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/vallicella-divine-simplicity-sep--202609042072.md"
     },
     {
       "id": "202609011315",

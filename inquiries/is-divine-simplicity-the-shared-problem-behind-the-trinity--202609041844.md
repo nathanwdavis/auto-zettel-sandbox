@@ -9,10 +9,13 @@ created: '2026-09-04'
 updated: '2026-09-04'
 question: Is divine simplicity the shared problem behind the Trinity, the sefirot
   and tawhid, and does 'no composition' mean the same thing in each?
-status: new
+status: answered
 priority: normal
 asked_by: human
-result_notes: []
+result_notes:
+- no-composition-does-different-work-in-each-tradition--202609042080
+- divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081
+- the-base-read-question-two-and-skipped-question-three--202609042082
 tags: []
 ---
 The base holds all three legs of this and has never joined them.

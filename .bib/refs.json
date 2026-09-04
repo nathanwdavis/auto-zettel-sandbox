@@ -2359,5 +2359,114 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/1003.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Summa Theologiae",
+    "id": "202609042070",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1265
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Prima Pars, Question 3 (The simplicity of God)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Guide_for_the_Perplexed%2C_Part_1.57",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "The Guide for the Perplexed",
+    "id": "202609042071",
+    "issued": {
+      "date-parts": [
+        [
+          1903
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1190
+        ]
+      ]
+    },
+    "publisher": "George Routledge & Sons",
+    "publisher-place": "London",
+    "title": "The Guide for the Perplexed, Part I, chapter 57",
+    "translator": [
+      {
+        "family": "Friedländer",
+        "given": "Michael"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://plato.stanford.edu/entries/divine-simplicity/",
+    "author": [
+      {
+        "family": "Vallicella",
+        "given": "William F."
+      }
+    ],
+    "container-title": "The Stanford Encyclopedia of Philosophy",
+    "edition": "Winter 2023",
+    "editor": [
+      {
+        "family": "Zalta",
+        "given": "Edward N."
+      },
+      {
+        "family": "Nodelman",
+        "given": "Uri"
+      }
+    ],
+    "id": "202609042072",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          20
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "Metaphysics Research Lab, Stanford University",
+    "title": "Divine Simplicity",
+    "type": "entry-encyclopedia"
   }
 ]
