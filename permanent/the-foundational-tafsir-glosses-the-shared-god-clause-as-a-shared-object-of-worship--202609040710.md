@@ -21,6 +21,10 @@ links:
   relation: contradicts
 - target_id: the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
   relation: elaborates
+- target_id: the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
+  relation: elaborates
+- target_id: the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -117,3 +121,17 @@ on.
 
 *Still open.* The juristic *mushrikun* question, which this cycle did not
 touch, and al-Razi, who is not on the endpoint the commentary sweep used.
+
+## Amendment, 2026-09-04 09:00Z cycle
+
+al-Razi is no longer open. He was captured from a host the previous cycle had
+not correctly addressed, and he passes over the clause exactly as the other
+three do, which retires the last explanation on which this note's gloss might
+still have been the tradition's rather than al-Tabari's
+([[the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915]]).
+Nothing in this note is withdrawn by that; the narrowing to *for him*, made in
+the amendment above, is what the further evidence keeps confirming. The juristic
+*mushrikun* question is still untouched, but the doctrinal half of it is no
+longer unsourced: al-Razi excludes trinitarians from this verse's own gentler
+command as associators
+([[the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925]]).

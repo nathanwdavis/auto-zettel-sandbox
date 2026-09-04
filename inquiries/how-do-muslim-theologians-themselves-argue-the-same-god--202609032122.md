@@ -22,6 +22,9 @@ result_notes:
 - the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
 - where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825
 - four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830
+- the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
+- the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
+- the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -227,3 +230,35 @@ the remainder above named (Saritoprak, al-Ghazali's *Faysal al-Tafriqa*, Ibn
 Taymiyya's *al-Jawab al-Sahih*) are all still uncaptured. al-Razi is uncaptured
 too — he is not on the endpoint this sweep used — and the juristic *mushrikun*
 question is untouched by anything in the base.
+
+## Added 2026-09-04 09:00Z: the theologian, and what he says instead
+
+The 08:00Z cycle closed with the objection that its own result might be a genre
+artefact — a jurist, a traditionist and an abridger have no obvious slot for a
+*kalam* claim. al-Razi is now captured and the objection does not survive: he
+passes over the shared-God clause as well
+([[the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915]]).
+
+What he supplies in its place is the thing this inquiry was filed to get, and it
+was not on any of the shapes anticipated. Asked why the verse orders a gentler
+manner of argument for the People of the Book, he answers from what they have
+already professed — `فوحدوا`, they professed [God's] oneness — and not from the
+verse's own statement that the two parties' God is one
+([[the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920]]).
+That is a claim about the worshipper's profession rather than the identity of
+the worshipped, and it is the same move this base already recorded on the Jewish
+side. Two sentences earlier in the same comment he excludes those who assert a
+son for God from that leniency as associators
+([[the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925]]),
+which is the nearest thing the base now has to the *mushrikun* question it has
+been carrying, and it arrives from tafsir rather than from fiqh.
+
+The inquiry stays `answered`. The status has not moved for three cycles, but
+what it is answered *with* keeps narrowing: from "the tradition answers yes"
+(withdrawn), to "al-Tabari answers yes and nobody repeats him", to — now — "the
+tradition's own ground for treating the two parties differently is what they
+profess, not what the verse's clause is taken to identify". Still open, and
+still the same two things: the juristic *mushrikun* literature, and any
+commentator outside the Sunni traditionalist mainstream (al-Zamakhshari is
+reachable and untried) who might break the pattern of silence rather than
+extend it.

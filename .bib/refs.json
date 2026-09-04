@@ -1460,5 +1460,23 @@
     "publisher-place": "Medina",
     "title": "al-Tafsīr al-muyassar",
     "type": "book"
+  },
+  {
+    "URL": "https://tafsir.app/alrazi/29/46",
+    "author": [
+      {
+        "literal": "Fakhr al-Dīn Muḥammad ibn ʿUmar al-Rāzī"
+      }
+    ],
+    "id": "202609040905",
+    "issued": {
+      "date-parts": [
+        [
+          1210
+        ]
+      ]
+    },
+    "title": "Mafātīḥ al-ghayb",
+    "type": "book"
   }
 ]

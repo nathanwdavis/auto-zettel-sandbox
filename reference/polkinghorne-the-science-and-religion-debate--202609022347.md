@@ -36,7 +36,8 @@ verification:
   method: raw-capture
   source: raw/202609022347-polkinghorne-faraday-paper-1-natural-theology.txt
   verified: true
-  date: '2026-09-03T01:48:20Z'
+  identifier_check: failed
+  date: '2026-09-04T09:12:07Z'
 raw_capture: raw/202609022347-polkinghorne-faraday-paper-1-natural-theology.txt
 links: []
 created: '2026-09-02'

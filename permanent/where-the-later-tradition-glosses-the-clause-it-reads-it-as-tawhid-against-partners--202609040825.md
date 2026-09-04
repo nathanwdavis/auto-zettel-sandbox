@@ -21,6 +21,8 @@ links:
   relation: elaborates
 - target_id: the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
   relation: supports
+- target_id: the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---

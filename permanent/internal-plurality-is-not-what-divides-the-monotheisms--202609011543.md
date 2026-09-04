@@ -25,8 +25,10 @@ links:
   relation: elaborates
 - target_id: the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840
   relation: elaborates
+- target_id: the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
+  relation: shared-concept
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 The Abrahamic disagreement about God is often located at the question of
 whether the one God admits real internal distinction, sorted by tradition --

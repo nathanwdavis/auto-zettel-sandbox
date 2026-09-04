@@ -177,6 +177,35 @@ co-reference outright. And it complicates the irenic reading from the other
 side: the same passage that affirms a shared object of worship endorses reading
 "except those of them who do wrong" as those who withhold the *jizya*.
 
+### The theologian, added 2026-09-04
+
+The sweep above left one objection standing against its own result, and this
+section is the answer to it. Its three commentators are a jurist, a
+traditionist and an abridger, so their silence about the shared-God clause might
+have been a fact about the genres they wrote in. al-Razi's *Mafatih al-ghayb* is
+the classical commentary written by a theologian; it was reached by correcting
+the host slug the previous cycle had guessed at, and it settles the question in
+the same direction.
+
+- [[the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915]]
+- [[the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920]]
+- [[the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925]]
+
+He too passes the clause over. What he supplies instead is a different ground
+for the same verse's leniency — the People of the Book "professed oneness and
+believed in the sending down of books, the sending of messengers, and the
+gathering" — and, two sentences earlier, the exclusion that leniency does not
+cover: those who assert a son for God or say "third of three" have committed
+*shirk*. Both stand in one comment, unreconciled. That pairing is the closest
+thing this base now has to an answer to the *mushrikun* question it has been
+carrying since the sweep, and it arrives from tafsir rather than from the
+juristic literature, which is still untried.
+
+His Q 3:64 material goes the other way and hardens what was already there: the
+common word is `فيها إنصاف` — a word containing fairness — and believing it is
+what would put the two parties `على السواء`, on level ground. The equality is
+the outcome of accepting the summons, not the state it appeals to.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -210,8 +239,8 @@ The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346
 (literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
 Islam, argued from inside: [[a-common-word-between-us-and-you--202609040058]], [[quran-shared-god-passages--202609040056]]
 (literature: [[a-common-word-builds-common-ground-from-the-two-commandments--202609040110]], [[the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105]]).
-Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]], [[qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800]], [[ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802]], [[baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804]]; and two modern ones for comparison: [[saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806]], [[al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808]]
-(literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]], [[qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810]], [[ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812]], [[baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814]], [[saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816]], [[the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818]]).
+Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]], [[qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800]], [[ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802]], [[baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804]], [[razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905]]; and two modern ones for comparison: [[saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806]], [[al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808]]
+(literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]], [[qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810]], [[ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812]], [[baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814]], [[saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816]], [[the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818]], [[razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
