@@ -1456,3 +1456,5 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T18:16:10Z` lint_links: PASS
 - `2026-09-04T18:16:10Z` lint_skills: PASS
 - `2026-09-04T18:16:10Z` check_skill_sandbox: PASS
+- `2026-09-04T18:12:00Z` remote_cycle: finish claude/intelligent-heisenberg-s2gg49 (skill-rev=d986b16; lock released after push)
+- `2026-09-04T18:12:00Z` remote_cycle: PR for claude/intelligent-heisenberg-s2gg49 must be opened by the session (GitHub CLI not installed in this container)
