@@ -1,0 +1,15 @@
+Capture of https://plato.stanford.edu/entries/divine-simplicity/
+Reference note id: 202609042072
+Fetched: 2026-09-04T19:57:04Z
+Bounded excerpt, per this repository's excerpt policy (the precedent is
+ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003): the
+passage stating that the doctrine is held across traditions, its placement in
+the Summa, and the closing remark on the Trinity, down to the start of section 2.
+The rest of the entry, including the whole treatment of the modal collapse
+argument and the bibliography, is NOT captured.
+Wording verbatim; HTML line wrapping normalised to paragraphs.
+
+===== EXCERPT =====
+
+DDS is represented not only in classical Christian theology, but also in Jewish, Greek, and Islamic thought. Moses Maimonides, for example, held that in God, “whose existence is not due to any cause … existence and essence are perfectly identical.” ( The Guide for the Perplexed , Part One, LVII). DDS is to be understood as an affirmation of God’s absolute transcendence of creatures. God is not only radically non-anthropomorphic, but radically unlike creatures in general, not only in respect of the properties he possesses, but also in his manner of possessing them. It is not just that God has properties no creature has; the properties he has he has in a way different from the way any creature has any of its properties. God has his properties by being them. Some explain DDS by saying that God has no properties; this gloss, however, carries the unfortunate suggestion that God is a bare particular. It is better to put the point in a positive way by saying that God has properties, not by instantiating or exemplifying them, but by being them. Unique in his mode of property-possession, God is also unique in his mode of existence and in his modal status. He is not just one necessary being among others. His metaphysical necessity, unlike that of other necessary beings, is grounded in his simplicity. The actually infinite set of natural numbers is presumably a necessary being, along with each of its members, but neither set nor members are necessary in virtue of being ontologically simple. So while one may say that the simple God exists in all metaphysically possible worlds, that is no account of his unique mode of necessity, which is grounded in his simplicity. God is necessary because he is simple and not because he exists in all metaphysically possible worlds. And while one may say that the simple God is or exists, God is not an existent among existents or a being among beings, but Being ( esse ) itself in its prime instance and in this respect is different from every other being ( ens ). Unique in all these ways, God is uniquely unique. He is not unique as one of a kind, but unique in transcending the distinction between kind and member of a kind. God is unique in his very mode of uniqueness. The simple God, we could say, differs not only in his attributes, but also in his very ontological structure, from any and all created beings.
+ 1. Motivation

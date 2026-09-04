@@ -557,6 +557,29 @@ are arguing about the third in the vocabulary of the first.
 - [[two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061]]
 - [[the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062]]
 
+## Divine simplicity, added 2026-09-04: the constraint underneath the map
+
+Inquiry 202609041844 asked whether divine simplicity is the shared problem
+behind the Trinity, the sefirot and the Islamic attributes, and whether "no
+composition" means the same thing in each. The argument is shared -- from
+dependence: a composite is posterior to its parts and needs a composer, and God
+has no cause. What differs is how far each tradition lets it run. Maimonides
+extends it until it consumes the attributes and even number; Aquinas terminates
+it at six kinds of metaphysical composition and does not reach the persons.
+
+That relocates this map's fault line. The monotheisms are not divided by whether
+oneness admits internal distinction; they are all satisfying one constraint, and
+divided over its reach. The doctrine even changes sides -- it has been used to
+argue *for* the Son's deity, not only against internal plurality.
+
+This section also closes a gap in the natural-theology branch above: the base
+read Summa I q.2 for the Five Ways and never read q.3, which is where Aquinas
+says what kind of thing the Ways have shown to exist.
+
+- [[no-composition-does-different-work-in-each-tradition--202609042080]]
+- [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
+- [[the-base-read-question-two-and-skipped-question-three--202609042082]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

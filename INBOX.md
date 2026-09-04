@@ -3879,3 +3879,11 @@ tells every cycle to append one line per step and says nothing about how.
 - **asked_by:** human
 
 (no further detail)
+
+## 2026-09-04 — Not done by cycle 202609041844, and it is the leg the inquiry named first: the Ash'ari/Mu'tazili dispute over whether the divine attributes are eternal and distinct from the essence. The cycle answered the simplicity question from Jewish and Christian primary sources plus a survey; no Islamic primary was located in open access within budget (al-Ash'ari's Kitab al-Luma' and 'Abd al-Jabbar's Sharh al-usul al-khamsa were not found in a capturable English translation). The term 'eternity' still appears in no note in this base. The Islamic leg matters more than a third example would: it is the tradition that ran the attributes dispute HARDEST, and permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081 predicts where it should land (a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'). That prediction is testable and untested. Second lead, weaker but cheap: the Athanasius claim in that note rests on the SEP entry citing Wedgeworth 2019 and declining to pursue it -- reading Athanasius' Contra Arianos directly would either ground it or remove it.
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+(no further detail)
