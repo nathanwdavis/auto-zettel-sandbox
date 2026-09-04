@@ -1,0 +1,43 @@
+Verbatim capture of Qur'an passages in which the Qur'an addresses the People
+of the Scripture in terms of SHARED worship and a shared God, rather than in
+terms of difference.
+
+Fetched 2026-09-04T00:56:12Z from the AlQuran Cloud API
+(https://api.alquran.cloud/v1/ayah/<ref>/en.pickthall), edition en.pickthall —
+Marmaduke Pickthall, The Meaning of the Glorious Koran (1930), a translation in
+the public domain. Same edition and same API as the earlier capture
+raw/202608311910-quran-tawhid-passages.txt, so the two are directly comparable.
+
+WHY THIS CAPTURE EXISTS. The earlier capture holds Surah 112, 4:171 and 5:73 —
+all three of which mark DIFFERENCE between Islamic and trinitarian language.
+Inquiry 202609032122 found that a capture assembled to bear on the same-God
+question which holds the three rejecting verses and omits the affirming one is
+selection-shaped, whether or not it was meant that way. raw/ is immutable, so
+the correction is a new capture, not an edit of the old one.
+
+29:46 is the verse at issue: "our Allah and your Allah is One". 29:45 and 29:47
+are captured with it so the verse is not read out of its context. 3:64 is the
+verse from which the 2007 Muslim scholars' letter "A Common Word Between Us and
+You" takes its name. 2:136 and 5:48 are captured because they bear on the same
+theme of shared revelation and irreducible difference respectively.
+
+Ayah numbering and surah metadata are as returned by the API.
+
+
+Surah 29 (Al-Ankaboot, "The Spider"), Meccan revelation, ayah 45, complete:
+Recite that which hath been inspired in thee of the Scripture, and establish worship. Lo! worship preserveth from lewdness and iniquity, but verily remembrance of Allah is more important. And Allah knoweth what ye do.
+
+Surah 29 (Al-Ankaboot), Meccan revelation, ayah 46, complete — THE VERSE AT ISSUE:
+And argue not with the People of the Scripture unless it be in (a way) that is better, save with such of them as do wrong; and say: We believe in that which hath been revealed unto us and revealed unto you; our Allah and your Allah is One, and unto Him we surrender.
+
+Surah 29 (Al-Ankaboot), Meccan revelation, ayah 47, complete:
+In like manner We have revealed unto thee the Scripture, and those unto whom We gave the Scripture aforetime will believe therein; and of these (also) there are some who believe therein. And none deny Our revelations save the disbelievers.
+
+Surah 3 (Aal-i-Imraan, "The Family of Imran"), Medinan revelation, ayah 64, complete:
+Say: O People of the Scripture! Come to an agreement between us and you: that we shall worship none but Allah, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside Allah. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him).
+
+Surah 2 (Al-Baqara, "The Cow"), Medinan revelation, ayah 136, complete:
+Say (O Muslims): We believe in Allah and that which is revealed unto us and that which was revealed unto Abraham, and Ishmael, and Isaac, and Jacob, and the tribes, and that which Moses and Jesus received, and that which the prophets received from their Lord. We make no distinction between any of them, and unto Him we have surrendered.
+
+Surah 5 (Al-Maaida, "The Table Spread"), Medinan revelation, ayah 48, complete:
+And unto thee have We revealed the Scripture with the truth, confirming whatever Scripture was before it, and a watcher over it. So judge between them by that which Allah hath revealed, and follow not their desires away from the truth which hath come unto thee. For each We have appointed a divine law and a traced-out way. Had Allah willed He could have made you one community. But that He may try you by that which He hath given you (He hath made you as ye are). So vie one with another in good works. Unto Allah ye will all return, and He will then inform you of that wherein ye differ.

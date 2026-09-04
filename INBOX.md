@@ -1095,3 +1095,53 @@ source-access ladder in `skills/source-access-triage`: Semantic Scholar is a
 third OA oracle after Unpaywall and OpenAlex, and for anything psychological a
 PsyArXiv deposit resolved through the OSF API is a live route.
 
+
+## 2026-09-04 — Corroborate the A Common Word finding from a second Muslim source arguing in its own voice
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04 maintenance cycle, which answered inquiry 202609032122
+and deliberately left this open rather than claiming more than it earned.
+
+WHAT IS ESTABLISHED. permanent 202609040115 argues that the major Muslim
+consensus statement, A Common Word Between Us and You (2007), answers the
+same-God question by relocating it onto shared obligation, taking neither horn
+of the reference/description grid. The negative half of that is machine-checked
+and solid: "same God", "worship the same", "same being" and "Divine Origin"
+occur zero times in the letter's 49,644 captured characters. On the strength of
+it, permanent 202608311942 -- the base's most-linked note, in-degree 12 -- now
+carries a limit saying its framing is a participant's frame.
+
+WHAT IS NOT. That is a lot of weight resting on ONE document, read directly.
+The positive half of the claim -- that the silence is deliberate relocation
+rather than the ordinary reticence of a document written to be signed by 138
+people -- is an inference, and it currently has no second witness. This is
+exactly why 202609040115 is NOT tagged `contested`: that tag carries a
+three-independent-source bar in this repository, and tagging a single-source
+note would either fail the gate honestly or invite link-stuffing to clear it.
+The note says so in its own body rather than leaving the absence unexplained.
+
+WHAT WOULD CLOSE IT. A second Muslim source arguing the question in its own
+voice, in a different register from an irenic collective letter. In rough order
+of expected value:
+
+  (1) Zeki Saritoprak. Named in the base since 2026-08-31 but still only
+      secondhand, as a person quoted in the NPR piece -- no reference note,
+      nothing captured. Find something he actually wrote.
+  (2) Al-Ghazali, Faysal al-Tafriqa bayna al-Islam wa-l-Zandaqa. The classical
+      text on who counts as outside the faith. Old enough to be out of
+      copyright; an English translation may not be.
+  (3) Ibn Taymiyya, al-Jawab al-Sahih li-man baddala din al-Masih. A hostile
+      witness, and useful for the same reason Modena was useful on the Jewish
+      side: it argues the question instead of smoothing it.
+
+Also untouched by anything now in the base: the juristic question of whether
+Christians count as mushrikun, and how the exegetical tradition harmonises
+29:46 against 4:171 and 5:73. Both are named in permanent 202609040120 as
+limits on what it can claim.
+
+NOT A BLOCKER. Nothing above is a defect in what landed. The cycle's notes
+state their own limits, and this entry exists so the limits are worked on
+rather than forgotten.

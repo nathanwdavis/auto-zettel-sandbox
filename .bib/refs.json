@@ -1189,5 +1189,27 @@
     "title": "The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking",
     "type": "article-journal",
     "volume": "25"
+  },
+  {
+    "URL": "https://www.acommonword.com/the-acw-document/",
+    "author": [
+      {
+        "literal": "138 Muslim scholars, clerics and intellectuals"
+      }
+    ],
+    "id": "202609040058",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          13
+        ]
+      ]
+    },
+    "publisher": "The Royal Aal al-Bayt Institute for Islamic Thought",
+    "publisher-place": "Amman, Jordan",
+    "title": "A Common Word Between Us and You",
+    "type": "report"
   }
 ]

@@ -101,6 +101,32 @@ its ten outward from God's spirit through the elements to the six directions,
 under a Lord who "has no second" -- so the intra-divine reading of the sefirot
 is a later development of the vocabulary and cannot borrow the word's antiquity.
 
+## The Islamic route: the answer given from inside
+
+Answers from within Islam, which until 2026-09-04 this map did not have: the
+Islamic side of the same-God question was argued here entirely in Christian and
+secular voices, with the Qur'an capture the only Islamic text and scripture
+rather than anyone's argument. Worked for inquiry 202609032122.
+
+- [[the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115]]
+- [[the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120]]
+
+These two do different jobs. The first is the finding: *A Common Word Between Us
+and You* (2007), the major Muslim consensus letter to the Christian churches,
+answers by relocating the question onto what is jointly commanded, taking
+neither horn of the reference/description grid — which makes that grid a
+participant's frame rather than the neutral shape of the dispute, and is why
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]]
+now carries a limit. The second repairs the evidence underneath: the base's
+first Qur'an capture held only the passages marking difference, so a second
+capture now holds 29:46 and its context, and the note reads the two registers
+together rather than choosing one.
+
+Note the convergence with the Jewish route above: shituf and *A Common Word*
+both decline to say who is being worshipped and answer about the worshipper's
+obligations instead. That parallel is this base's own observation, claimed by
+neither source.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -132,6 +158,8 @@ Natural theology: [[paley-natural-theology--202609011004]], [[ratzsch-koperski-t
 (literature: [[paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010]], [[ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011]], [[craig-restakes-teleology-on-anthropic-fine-tuning--202609011012]], [[aquinas-makes-god-demonstrable-only-from-effects--202609011206]], [[venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315]], [[meyer-confines-signatures-argument-to-the-prebiotic-origin-of-information--202609011316]], [[behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405]], [[plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505]]).
 The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346]], [[polkinghorne-the-science-and-religion-debate--202609022347]], [[epelbaum-viability-of-carbon-based-life--202609022348]]
 (literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
+Islam, argued from inside: [[a-common-word-between-us-and-you--202609040058]], [[quran-shared-god-passages--202609040056]]
+(literature: [[a-common-word-builds-common-ground-from-the-two-commandments--202609040110]], [[the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
