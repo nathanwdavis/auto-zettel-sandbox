@@ -1568,5 +1568,41 @@
     },
     "title": "Taʾwīlāt ahl al-sunna",
     "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=5&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Qurṭubī"
+      }
+    ],
+    "id": "202609041300",
+    "issued": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "title": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=9&tTafsirNo=85&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad ʿAlī al-Ṣābūnī"
+      }
+    ],
+    "id": "202609041305",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "title": "Tafsīr āyāt al-aḥkām",
+    "type": "book"
   }
 ]

@@ -201,6 +201,13 @@
     "202609041210": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
     "202609041215": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
     "202609041220": "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220",
+    "202609041300": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300",
+    "202609041305": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305",
+    "202609041310": "qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310",
+    "202609041315": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315",
+    "202609041320": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320",
+    "202609041325": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325",
+    "202609041330": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -264,6 +271,7 @@
       "result_notes": [
         "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
+        "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
         "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
         "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
@@ -276,12 +284,14 @@
         "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
         "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
+        "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320",
         "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
         "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
         "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
         "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
         "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
-        "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
+        "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825",
+        "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
       ],
       "status": "answered",
       "updated": "2026-09-04"
@@ -357,7 +367,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 206,
+  "note_count": 213,
   "notes": [
     {
       "id": "202609041020",
@@ -2621,6 +2631,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-idea-per-note-enables-reuse--202701010002.md"
     },
     {
+      "id": "202609041330",
+      "key": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315"
+        },
+        {
+          "relation": "source",
+          "target_id": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "refutes",
+          "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
+        }
+      ],
+      "path": "permanent/one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330.md",
+      "slug": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal",
+      "tags": [],
+      "title": "One verse runs the word mushrik at two different extensions, and what moves between them is the direction of authority rather than any judgement about belief",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330.md"
+    },
+    {
       "id": "202609011004",
       "key": "paley-natural-theology--202609011004",
       "links": [],
@@ -2823,6 +2862,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
     },
     {
+      "id": "202609041300",
+      "key": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300",
+      "links": [],
+      "path": "reference/qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300.md",
+      "slug": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221",
+      "tags": [],
+      "title": "al-Qurtubi, al-Jami' li-ahkam al-Qur'an, on Q 2:221",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300.md"
+    },
+    {
       "id": "202609040800",
       "key": "qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800",
       "links": [],
@@ -2850,6 +2901,23 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810.md"
+    },
+    {
+      "id": "202609041310",
+      "key": "qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300"
+        }
+      ],
+      "path": "literature/qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310.md",
+      "slug": "qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book",
+      "tags": [],
+      "title": "al-Qurtubi reports three classical positions on whether the word mushrikat covers the People of the Book, and the disagreement is about the extension of a word rather than about the facts of Christian belief",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310.md"
     },
     {
       "id": "202609011530",
@@ -3118,6 +3186,35 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816.md"
+    },
+    {
+      "id": "202609041315",
+      "key": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305"
+        }
+      ],
+      "path": "literature/sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315.md",
+      "slug": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse",
+      "tags": [],
+      "title": "al-Sabuni gives the majority's grammatical proof in numbered form and then runs mushrik at a narrower extension in one half of the verse than in the other",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315.md"
+    },
+    {
+      "id": "202609041305",
+      "key": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305",
+      "links": [],
+      "path": "reference/sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305.md",
+      "slug": "sabuni-tafsir-ayat-al-ahkam-on-2-221",
+      "tags": [],
+      "title": "al-Sabuni, Tafsir ayat al-ahkam, on Q 2:221",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305.md"
     },
     {
       "id": "202609010302",
@@ -4511,6 +4608,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120.md"
     },
     {
+      "id": "202609041320",
+      "key": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320",
+      "links": [
+        {
+          "relation": "contradicts",
+          "target_id": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310"
+        },
+        {
+          "relation": "source",
+          "target_id": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315"
+        },
+        {
+          "relation": "source",
+          "target_id": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
+        }
+      ],
+      "path": "permanent/the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320.md",
+      "slug": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun",
+      "tags": [],
+      "title": "The classical proof that the People of the Book are not mushrikun is grammatical — the Qur'an conjoins the two terms, and conjunction requires distinctness",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320.md"
+    },
+    {
       "id": "202609011537",
       "key": "the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537",
       "links": [
@@ -5076,6 +5210,43 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825.md"
+    },
+    {
+      "id": "202609041325",
+      "key": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300"
+        },
+        {
+          "relation": "source",
+          "target_id": "qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310"
+        },
+        {
+          "relation": "source",
+          "target_id": "sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315"
+        },
+        {
+          "relation": "source",
+          "target_id": "sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325.md",
+      "slug": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law",
+      "tags": [],
+      "title": "Whether the People of the Book are mushrikun is a disputed question in Islamic law, and the dissent is named, early and eventually sectarian",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325.md"
     },
     {
       "id": "202609041000",
