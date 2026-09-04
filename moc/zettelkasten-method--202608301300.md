@@ -28,4 +28,17 @@ updated: '2026-09-03'
 - [[systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110]]
 - [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
 
+## What has been measured, and what has not
+
+Added 2026-09-04, answering inquiry 202609032123. Everything above this heading
+is grounded in how-to writing, practitioners, an archivist, a 1686 method and a
+historian of the practice — four kinds of witness and not one test. These two
+notes are the first in the base that report a measurement, and what they report
+is mostly a gap:
+
+- [[a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210]]
+- [[the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215]]
+
+Read the second before citing anything in the list above as established.
+
 See also: [[compound-growth--202608311143]]

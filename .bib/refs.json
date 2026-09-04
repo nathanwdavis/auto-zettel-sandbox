@@ -1132,5 +1132,68 @@
     "publisher-place": "Amman, Jordan",
     "title": "A Common Word Between Us and You",
     "type": "report"
+  },
+  {
+    "DOI": "10.1177/0956797614524581",
+    "PMID": "24760141",
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "Pam A."
+      },
+      {
+        "family": "Oppenheimer",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "Psychological Science",
+    "id": "202609040155",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6
+        ]
+      ]
+    },
+    "page": "1159-1168",
+    "publisher": "SAGE Publications",
+    "title": "The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "DOI": "10.1007/s10648-019-09468-2",
+    "author": [
+      {
+        "family": "Morehead",
+        "given": "Kayla"
+      },
+      {
+        "family": "Dunlosky",
+        "given": "John"
+      },
+      {
+        "family": "Rawson",
+        "given": "Katherine A."
+      }
+    ],
+    "container-title": "Educational Psychology Review",
+    "id": "202609040156",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "page": "753-780",
+    "publisher": "Springer",
+    "title": "How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014)",
+    "type": "article-journal",
+    "volume": "31"
   }
 ]

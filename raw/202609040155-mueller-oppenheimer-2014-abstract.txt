@@ -1,0 +1,87 @@
+CAPTURE: Pam A. Mueller and Daniel M. Oppenheimer, "The Pen Is Mightier
+         Than the Keyboard: Advantages of Longhand Over Laptop Note Taking,"
+         Psychological Science 25, no. 6 (June 2014): 1159-68.
+DOI: 10.1177/0956797614524581
+PMID: 24760141
+FETCHED: 2026-09-04T01:55Z
+
+WHAT THIS CAPTURE IS, AND WHAT IT IS NOT. This is the PUBLISHER-DEPOSITED
+  ABSTRACT AND MEDLINE RECORD ONLY. It is NOT the article. Nothing beyond
+  the words below may be quoted, paraphrased or attributed to this paper.
+  Grounding tier under skills/source-access-triage step 2: "publisher
+  abstract only".
+
+ACCESS LADDER TRIED 2026-09-04 (source-access-triage step 1), each rung and
+  its failure mode, so "unreachable" stays distinguishable from
+  "does not exist":
+  (a) Publisher's own page, journals.sagepub.com/doi/10.1177/0956797614524581
+      -> HTTP 403 with a 5,665-byte bot-challenge body, both with a plain
+      client and with a browser user-agent. Same failure class the
+      2026-09-01 Springer attempt recorded.
+  (b) Unpaywall by DOI (api.unpaywall.org/v2, mailto supplied) -> is_oa
+      false, zero oa_locations. OpenAlex agrees independently:
+      oa_status "closed", any_repository_has_fulltext false. So there is
+      no OA copy to find; this is not a search that was given up on early.
+  (c) Author/institutional repositories -> nothing to try, per (b): both
+      aggregators report no repository deposit at all.
+  (d) No public-domain or author-published etext: 2014, in copyright.
+  (e) Not in PubMed Central and not in Europe PMC full text (inPMC N).
+  NOT TRIED, DELIBERATELY: ResearchGate and similar mirrors. The house rule
+  (source-access-triage step 1) forbids scraper/mirror routes.
+
+TWO-INDEX CROSS-CHECK. The abstract below was retrieved TWICE, from two
+  independent services -- NCBI E-utilities efetch (PubMed/MEDLINE) and the
+  EBI Europe PMC REST search (resultType=core) -- and the two are
+  IDENTICAL word for word under Unicode NFKC normalisation with whitespace
+  collapsed (833 characters each). Recorded because a single index read is
+  one witness, and this base's standard is two.
+
+A CORRECTION EXISTS AND COULD NOT BE READ. MEDLINE records, and Crossref
+  confirms: "Corrigendum: The Pen Is Mightier Than the Keyboard: Advantages
+  of Longhand Over Laptop Note Taking", Psychological Science 29, no. 9
+  (September 2018): 1565-68, DOI 10.1177/0956797618781773, PMID 30063408.
+  Its CONTENT is not retrievable from this environment: SAGE returns the
+  same 403 bot challenge, and the record carries NO abstract in PubMed, in
+  Europe PMC, or in OpenAlex (abstract length 0 in all three). So this
+  capture establishes THAT a corrigendum was published and nothing whatever
+  about what it changed. No note in this repository may say what it
+  corrected. Filed to INBOX as an open access gap.
+
+--- BEGIN VERBATIM: MEDLINE record, efetch rettype=abstract retmode=text ---
+1. Psychol Sci. 2014 Jun;25(6):1159-68. doi: 10.1177/0956797614524581. Epub 2014 
+Apr 23.
+
+The pen is mightier than the keyboard: advantages of longhand over laptop note 
+taking.
+
+Mueller PA(1), Oppenheimer DM(2).
+
+Author information:
+(1)Princeton University pamuelle@princeton.edu.
+(2)University of California, Los Angeles.
+
+Erratum in
+    Psychol Sci. 2018 Sep;29(9):1565-1568. doi: 10.1177/0956797618781773.
+
+Taking notes on laptops rather than in longhand is increasingly common. Many 
+researchers have suggested that laptop note taking is less effective than 
+longhand note taking for learning. Prior studies have primarily focused on 
+students' capacity for multitasking and distraction when using laptops. The 
+present research suggests that even when laptops are used solely to take notes, 
+they may still be impairing learning because their use results in shallower 
+processing. In three studies, we found that students who took notes on laptops 
+performed worse on conceptual questions than students who took notes longhand. 
+We show that whereas taking more notes can be beneficial, laptop note takers' 
+tendency to transcribe lectures verbatim rather than processing information and 
+reframing it in their own words is detrimental to learning.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/0956797614524581
+PMID: 24760141 [Indexed for MEDLINE]
+
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM: abstract as returned independently by Europe PMC ---
+Taking notes on laptops rather than in longhand is increasingly common. Many researchers have suggested that laptop note taking is less effective than longhand note taking for learning. Prior studies have primarily focused on students' capacity for multitasking and distraction when using laptops. The present research suggests that even when laptops are used solely to take notes, they may still be impairing learning because their use results in shallower processing. In three studies, we found that students who took notes on laptops performed worse on conceptual questions than students who took notes longhand. We show that whereas taking more notes can be beneficial, laptop note takers' tendency to transcribe lectures verbatim rather than processing information and reframing it in their own words is detrimental to learning.
+--- END VERBATIM ---
