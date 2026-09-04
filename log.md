@@ -1478,3 +1478,15 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T18:22:13Z` lint_skills: PASS
 - `2026-09-04T18:22:13Z` check_skill_sandbox: PASS
 - `2026-09-04T18:23:41Z` build_manifest: 257 notes indexed
+- `2026-09-04T18:23:55Z` lint_citations: PASS
+- `2026-09-04T18:23:56Z` lint_links: PASS
+- `2026-09-04T18:23:56Z` lint_skills: PASS
+- `2026-09-04T18:23:56Z` check_skill_sandbox: PASS
+- `2026-09-04T18:26:18Z` lint_citations: PASS
+- `2026-09-04T18:26:18Z` lint_links: PASS
+- `2026-09-04T18:27:21Z` PR triage complete (user request). Board cleared: 4 open PRs resolved, 1 new PR merged. #61 merged as 36c3319, carrying the only source absent from main across all four branches -- Urry et al., DOI 10.1177/0956797620965541. #38, #39, #40 and #46 CLOSED as superseded, each with a comment naming the lint output that blocks it and the merged cycle that replaced it: #38 -> #42, #39 -> #41, #40 -> #41, #46 -> #47 and #48
+- `2026-09-04T18:27:21Z` the finding worth keeping from the triage, recorded here because it is about how this repository runs rather than about what it knows: concurrent cycles picked the same `new` inquiry and captured the same source three times inside four hours (A Common Word, url:acommonword.com/the-acw-document, as 202609040058 on main plus 202609032305 and 202609032358 on branches). Two of the four PRs conflicted on NOTHING at the git level and were still unmergeable, because the collision is semantic and only lint_citations' duplicate-source rule sees it. Git-level mergeability is therefore not a usable signal for this repository, and a cycle that checks only for conflicts will keep producing branches that cannot land
+- `2026-09-04T18:27:21Z` mitigation proposed on #46 for the skill repo, not applied here: have a cycle re-read the inquiry's status and the target source's identifier against origin/main immediately BEFORE writing a reference note, and stand down if that identifier is already captured. The run lock did not prevent this -- each branch claimed it cleanly; the lock serialises writes, not topic selection
+- `2026-09-04T18:27:21Z` main re-verified clean after the merge at 36c3319: lint_citations, lint_links, lint_skills, check_skill_sandbox all PASS, manifest current at 257 notes. The PASS lines immediately above this entry are that verification, appended by the gate scripts themselves
+- `2026-09-04T18:27:28Z` lint_citations: PASS
+- `2026-09-04T18:27:29Z` lint_links: PASS
