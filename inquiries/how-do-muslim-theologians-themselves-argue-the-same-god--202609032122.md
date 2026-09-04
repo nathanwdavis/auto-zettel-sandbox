@@ -43,6 +43,10 @@ result_notes:
 - the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
 - an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515
 - the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520
+- a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620
+- an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625
+- both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630
+- the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -510,3 +514,35 @@ the *naskh* machinery
 Still missing, unchanged after three cycles of trying: any Imami or Zaydi *fiqh*
 text. Every Shi'i witness this inquiry holds is a *tafsir*, and al-Tabataba'i
 himself twice defers the operative rule to *fiqh*.
+
+**2026-09-04 16:00Z — the *fiqh* gap named in the paragraph above is closed, and
+this inquiry stays `answered`.** Four `result_notes` are added rather than the
+status reopened, because what arrived narrows and grounds the answer rather than
+unsettling the question. Two works of *fiqh*, one from each Shi'i tradition, both
+read off archive.org — a host this base had never used for either:
+
+- *Sharh al-Azhar* (Ibn Miftah, d. 877/1472), Zaydi. It teaches the prohibition
+  as the school's rule and names `الهادي والقاسم` for the reading of Q 5:5 that
+  grounds it, which is a **second and independent witness** for an attribution
+  that had rested on *Tafsir al-A'qam* alone. It also reaches the rule by a third
+  mechanism this base had not catalogued: not *naskh* and not *takhsis*, but
+  reading the verse's subject as converts, so the permission survives intact and
+  reaches nobody in dispute.
+- *Jawahir al-kalam* (al-Najafi, d. 1266/1850) on al-Muhaqqiq's *Shara'i'*,
+  Imami. The *matn* states the question as `روایتان`, two narrations, rather than
+  as a school position; the commentary calls permission `التحقيق`, the verified
+  position, naming al-Mufid, al-Murtada and Ibn Idris as the strict party it
+  rejects.
+
+The net effect on this inquiry's answer is that the sectarian reversal it was
+building has lost its second half. Shi'i commentaries do gloss the shared-God
+clause where the Sunni ones pass over it — that stands. Shi'i jurists as the
+stricter party does not survive contact with the jurists: both traditions were
+arguing internally, the same two Imams are transmitted on both sides, and the
+argument from Qur'anic coupling that this base first met in al-Qurtubi turns up
+in Imami *fiqh* a century before the commentary it was credited to.
+
+What remains open here is smaller than what closed: no *usul* text is in the
+base, so the account of `تبادر` as a doctrine is inference; and no Zaydi text has
+ever been read from a second host for the *tafsir* side, only for this *fiqh*
+one.

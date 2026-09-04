@@ -1694,5 +1694,36 @@
     },
     "title": "al-Mīzān fī tafsīr al-Qurʾān",
     "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/1_20191217_20191217_1729",
+    "author": [
+      {
+        "literal": "ʿAbd Allāh b. Abī al-Qāsim Ibn Miftāḥ"
+      }
+    ],
+    "id": "202609041600",
+    "publisher": "Maktabat Ahl al-Bayt",
+    "title": "Sharḥ al-Azhār (al-Muntazaʿ al-mukhtār min al-Ghayth al-midrār), vol. 4, al-nikāḥ wa-l-ṭalāq",
+    "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/BBib-Alex-09185",
+    "author": [
+      {
+        "literal": "Muḥammad Ḥasan al-Najafī"
+      }
+    ],
+    "id": "202609041605",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "publisher-place": "Beirut",
+    "title": "Jawāhir al-kalām fī sharḥ Sharāʾiʿ al-Islām, vol. 30",
+    "type": "book"
   }
 ]

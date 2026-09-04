@@ -10,6 +10,8 @@ title: The classical proof that the People of the Book are not mushrikun is
   distinctness
 tags: []
 links:
+- target_id: the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635
+  relation: supports
 - target_id: qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310
   relation: source
 - target_id: sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315
@@ -92,3 +94,13 @@ rather than two verses, and disposes of the two apparent counter-examples
 position that a Shi'i minority rejects; it crosses the divide, and the gap this
 note identifies is one the tradition itself marks. See
 [[an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515]].
+
+**Extended 2026-09-04 16:00Z: the same argument, with a different test under it.**
+Imami *fiqh* makes this argument too, and makes the conjunction evidence
+subordinate: the criterion is what a term conveys in the law's usage, `المتبادر
+… في إطلاق الشرع`, and the coupling of the two groups across many verses is
+offered as confirming that (`كما يؤيده`) rather than as proving it
+([[the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635]]).
+That ordering is worth keeping, because it answers the standing objection to the
+syntactic proof as this note states it — that conjunction can join overlapping
+categories — which the argument from syntax alone cannot answer.

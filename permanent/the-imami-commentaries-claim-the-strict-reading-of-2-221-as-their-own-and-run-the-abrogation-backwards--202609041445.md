@@ -9,6 +9,10 @@ title: The Imami commentaries claim the strict reading of Q 2:221 as their own s
   and run the abrogation backwards, on the authority of their Imams
 tags: []
 links:
+- target_id: an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625
+  relation: contradicts
+- target_id: both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630
+  relation: elaborates
 - target_id: tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425
   relation: source
 - target_id: tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430
@@ -93,3 +97,16 @@ Zaydi half a cycle earlier, arriving now for the Imami one. The `نكاح الد
 qualification, by contrast, gets *stronger*: al-Tabataba'i reaches the same
 restriction by another route
 ([[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]).
+
+**Extended 2026-09-04 16:00Z: the *naskh* reports this note reports are one half
+of what the corpus transmits.** Nothing here is withdrawn — al-Tusi and
+al-Tabrisi do claim the strict reading as their school's, and al-Tusi does carry
+the inversion as reports from al-Baqir and al-Sadiq. What has been added is the
+other half. Imami *fiqh* assembles, a few lines apart, both the Zurara reports
+from al-Baqir that prohibit and a report from the same Imam through Muhammad b.
+Muslim that permits, `لا بأس به`
+([[both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630]]).
+So this note should be read as describing what these two commentators selected
+from the transmitted material, not as reporting what the Imams held — a
+distinction the commentators themselves do not draw, and which only became
+visible once a legal work that weighs the conflict was in the base.

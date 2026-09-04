@@ -30,7 +30,7 @@ verification:
   source: https://openlibrary.org/isbn/9781542866507
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:26Z'
+  date: '2026-09-04T16:22:49Z'
 raw_capture: raw/202608301000-ahrens-smart-notes.txt
 excerpt_captures:
 - raw/202608311141-ahrens-ch1-everything-you-need-to-know-excerpt.txt

@@ -2579,9 +2579,26 @@ plus all Zaydi, Ibadi and Sufi works, al-Sha'rawi (76) and *al-Manar* (103).
 
 ## 2026-09-04 — Capture an Imami or Zaydi legal text on Q 2:221: the sectarian half of this cycle's finding rests on one Sunni author's report
 
-- **status:** in-progress        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** run
+- **answer (2026-09-04 16:00Z):** Both halves of the remaining ask are closed by
+  two works of *fiqh* read off archive.org. **Zaydi:** *Sharh al-Azhar* (Ibn
+  Miftah, d. 877/1472), *kitab al-nikah*, the *fasl* on who may not be married —
+  reference 202609041600, literature 202609041610, permanent 202609041620. It
+  teaches the prohibition as the school's rule and names `الهادي والقاسم` for the
+  reading of Q 5:5 that carries it, which is the second and independent witness
+  this entry wanted for an attribution that rested on *Tafsir al-A'qam* alone;
+  and it records the school's split in its own terms, `الانتصار` and `والناصر` on
+  the permitting side. **Imami:** *Jawahir al-kalam* (al-Najafi, d. 1266/1850) on
+  al-Muhaqqiq's *Shara'i'*, the section on *al-kufr* — reference 202609041605,
+  literature 202609041615, permanent 202609041625. The *matn* states the question
+  as `روایتان`; the commentary calls permission `التحقيق`. Two further results
+  neither this entry nor its predecessors anticipated: the same two Imams,
+  al-Baqir and al-Sadiq, are transmitted on **both** sides, within a few lines of
+  each other in the Imami capture (202609041630); and the argument from Qur'anic
+  coupling that the base credited to al-Tabataba'i is in Imami *fiqh* a century
+  earlier, with a jurist's test under it (202609041635).
 - **2026-09-04 14:00Z: worked, and the entry's own recipe was followed exactly.**
   Four commentaries captured: al-Tusi (39) and al-Tabrisi (3) on `tMadhNo=4`, and
   — going beyond what this entry asked, because the Zaydi half turned out to be
@@ -2674,6 +2691,18 @@ the position stated, or finding the opposite stated.
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** high
 - **asked_by:** run
+- **2026-09-04 16:00Z:** EIGHTH consecutive cycle to find it stale, same rev
+  (7181e41) and the same 50-commit gap to `d986b16`. Fast-forwarded before any
+  gate ran. Dependency state also identical to the 13:53Z and 14:53Z cycles:
+  `pypdf` absent entirely, and `pip install -r requirements.txt` alone leaves
+  `import pypdf` raising `PanicException` from Debian's broken `cryptography`
+  41.0.7 — `pip install --ignore-installed cryptography` is what fixes it
+  (probed before and after: pypdf 6.17.0 / cryptography 50.0.1). One detail the
+  earlier entries do not record and that saves a cycle's confusion: the STALE
+  `remote_cycle.sh` has no `refresh-skill` subcommand at all, so a run that tries
+  the prompt's own step 1 first gets a usage error. `git -C /opt/zettel-skill
+  merge --ff-only origin/main` is the recovery, after which `refresh-skill`
+  exists and `start` reports `skill already current`.
 
 Filed by the 2026-09-04 12:00Z cycle, which nearly ran a short gate sequence
 without noticing.
@@ -2783,6 +2812,19 @@ that probe is what proves the fix, and it costs nothing.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
+- **2026-09-04 16:00Z: recurred, and the recorded recovery is confirmed.** Same
+  shape, worse numbers: local `main` at `e1d091a`, now **6 ahead / 74 behind**
+  `origin/main`. This cycle checked the recovery was safe before running it
+  rather than trusting the entry — `git rev-list --left-right --count
+  HEAD...origin/main` returned `0 0`, so the session's working branch already
+  contained everything, and the six divergent commits were confirmed by name as
+  the 2026-08-31 genesis history that PR #1 squashed. `git branch -f main
+  origin/main` then made `start` succeed on the first attempt, so the failed-run
+  half of the original entry did not repeat. Two notes for whoever generalises
+  this: the count grows every cycle, so the entry's "6 ahead / 79 behind" should
+  be read as a shape and not a fingerprint; and running the recovery **before**
+  `start` is better than after, because `start`'s own failure path releases the
+  lock and costs a round trip.
 - **asked_by:** run
 
 Filed by the 2026-09-04 15:00Z cycle, against its own first attempt.
@@ -2960,3 +3002,123 @@ result limit — and test AT it and PAST it. Three cycles have now found three
 versions of one mistake (a length filter, a frequency-based chrome filter, two
 navigation controls); this is the fourth, and the first where the proxy was
 right in every case anyone had checked.
+
+## 2026-09-04 — Access, HIGH VALUE: archive.org opens Shi'i and Zaydi *fiqh* that no other host in this base's experience carries, and OCR text forces a quotation discipline this base did not have
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 16:00Z cycle, which closed a four-cycle-old entry with it.
+
+**The route.** Full-text OCR of scanned Arabic print, downloaded complete in one
+request, from `https://archive.org/download/<item>/<filename>_djvu.txt`. Find
+items with the advanced-search API — `https://archive.org/advancedsearch.php`
+with `q=title:("…") AND language:(Arabic)`, `fl[]=identifier`, `output=json` —
+then read `https://archive.org/metadata/<item>` and look for files ending
+`_djvu.txt`. **An item without a `_djvu.txt` has no usable full text**; two of the
+five candidates this cycle probed (*al-Bahr al-zakhkhar*, `love_2_20160503`;
+`1021612`) are PDF-only and were dropped on that test alone, in one request each.
+
+**What it opened, with identifiers, so the next run does not re-search.**
+- `1_20191217_20191217_1729` — *Sharh al-Azhar*, Ibn Miftah, **Zaydi *fiqh***,
+  nine volumes each as its own `_djvu.txt`. Volume 4 is `النكاح والطلاق`.
+- `BBib-Alex-09185` — *Jawahir al-kalam* vol. **30**, Imami *fiqh*: this is the
+  volume with `الكفر` and marriage to a *kitabiyya*. Volume 29
+  (`BBib-Alex-09183`) was probed first and is the wrong one — fosterage and
+  marriage to slave women. The Bibliotheca Alexandrina set is incomplete;
+  volumes 6, 7, 9, 18, 21-24, 27, 31, 33, 35 and 41 are absent from it.
+- `AAlexandrina-127753` — *Tadhkirat al-fuqaha'* (al-'Allama al-Hilli), has a
+  3.0 MB `_djvu.txt`. **Not yet read.** This is the cheapest next Imami *fiqh*
+  witness if one is wanted.
+- `20211211_20211211_1601` — *Shara'i' al-Islam* (Shirazi annotated), two
+  volumes with text. **Neither contains *kitab al-nikah***; vol. 2 ends in
+  *mukataba*. Do not re-probe it for marriage law.
+
+**Four hosts that are dead from this environment, and the failure mode matters.**
+`shiaonlinelibrary.com`, `lib.eshia.ir`, `noorlib.ir` and `ar.wikishia.net` all
+fail **DNS resolution** — `Could not resolve host`, not a block page, not a
+paywall, not a 403. `al-maktaba.org` returns 403. A search will keep surfacing
+these four first because they are the obvious Shi'i-library hosts; going straight
+to archive.org saves the round trip. Record them as unreachable-from-here rather
+than absent from the web: the child skill's rung (e) distinction applies exactly.
+
+**The discipline OCR forces, and this is the part worth generalising.** Every
+capture this base held before today was clean digital text from a web host, so
+"quote it exactly" was free. OCR of print is not clean, and the failure is
+insidious: a quotation *feels* right while silently normalising `المادي` to
+`الهادي`, or stitching two sentences that a footnote marker separates in the
+print. Both happened in this cycle's first draft. The rule adopted, and it should
+become house procedure:
+
+1. Quote **exactly as the OCR has it**, damage included, and put the corrected
+   reading in square brackets marked as the base's own.
+2. Run the mechanical check against the capture's **excerpt body only**, not the
+   whole file — the capture header contains Arabic the base itself wrote, and a
+   naive check will match a quotation to the base's own prose.
+3. Normalise whitespace **and invisible bidirectional marks** and nothing else.
+   U+200F sits inside `وعن الصادق ‏ والباقر` in this cycle's Zaydi capture and
+   defeats an exact match that a reader would call identical.
+4. Treat a **stitch** as a defect, not a tidy-up. Where the print interrupts a
+   sentence with a footnote block, mark the gap `[…]` and say what is in it.
+5. Use a control that proves the damage claim rather than asserting it: the
+   undamaged `الهادي` occurs **nowhere** in the Zaydi capture, which is what
+   licenses quoting the name in its damaged form.
+
+The check found **five real defects** in this cycle's draft after the notes were
+written and read over — two stitched quotations, two silent normalisations, and
+one wrong transcription (`والجهابذة` for the OCR's `والجحهابذة`). None was
+visible on rereading. Fifty-eight quotations were verified verbatim once fixed.
+
+**One rights question this route sharpens rather than answers.** These are
+out-of-copyright texts in modern printings, so the base captured **sections**
+(3.6k and 24.8k characters) rather than the volumes it had in hand, on the same
+reasoning as the open entry about all-rights-reserved full texts in a public
+repo. That reasoning has now been applied twice without a human ruling on it.
+
+## 2026-09-04 — Tooling, HIGH: `verify_refs.py --offline` REWRITES verification records, so running it in a working tree silently downgrades evidence
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 16:00Z cycle, which did this to itself and caught it.
+
+**What happened.** The cycle finished its gates and then ran
+`verify_refs.py --repo . --offline --no-render` as a rehearsal of what CI does,
+because `gates.yml` runs verify with `--offline` on purpose. The flag does not
+mean "check without the network". It means "establish what you can from `raw/`
+alone **and write that back**". Roughly twenty references that had
+`method: raw-capture+openlibrary` or `raw-capture+crossref` with
+`identifier_check: confirmed` came out as bare `method: raw-capture`, with the
+`source` pointing at the local capture instead of the registry URL and the
+confirmation deleted. It reports `74/74 verified` while doing it.
+
+**Why no gate catches it.** `lint_citations` asks whether a claim traces to a
+verified reference, and a `raw-capture`-verified reference is verified. The
+downgrade is a loss of *evidence quality*, which nothing in the gate set
+measures. All six gates were clean on the degraded tree. It was caught only by
+reading the `git diff` of files the cycle had no reason to have touched.
+
+**Why CI is fine and a working tree is not.** CI checks out a throwaway copy,
+runs the offline verify against it, and commits nothing — which is exactly the
+guarantee the design wants, since it re-checks the run's claims against what is
+actually in `raw/`. The same command in a repository that will be committed
+writes the weaker result into the record.
+
+**Repair, if a later run finds this in a diff.** Re-run the live verifier,
+`verify_refs.py --repo . --mailto <addr>`; it restores the richer methods and the
+`identifier_check` values. Confirm with `git diff -U0 reference/ | grep '^-' |
+grep -c 'identifier_check: confirmed'`, which should be 0.
+
+**What to change, and this is the ask.** Two candidates, and a human should pick:
+either give `--offline` a companion `--check-only`/`--dry-run` that reports
+without writing (and have `gates.yml` use it, since CI never wants the write), or
+have the writer refuse to *lower* an existing verification method — an offline
+run could then confirm a `raw-capture` reference and leave a
+`raw-capture+crossref` one alone. The second is the safer default because it
+protects any caller, not just the one that remembers the flag.
+
+**Meanwhile, the working rule for runs:** rehearse CI by reading `gates.yml`,
+never by running its verify step against the working tree.
+

@@ -41,7 +41,7 @@ verification:
   source: https://doi.org/10.1177/0956797614524581
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T02:02:03Z'
+  date: '2026-09-04T16:23:07Z'
 raw_capture: raw/202609040155-mueller-oppenheimer-2014-abstract.txt
 links: []
 created: '2026-09-04'

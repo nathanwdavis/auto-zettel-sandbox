@@ -40,7 +40,7 @@ verification:
   source: https://openlibrary.org/isbn/9780691145082
   verified: true
   identifier_check: confirmed
-  date: '2026-09-03T01:48:13Z'
+  date: '2026-09-04T16:22:55Z'
 raw_capture: raw/202609030150-dweck-scandal-of-kabbalah-introduction-excerpts.txt
 links: []
 created: '2026-09-03'

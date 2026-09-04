@@ -44,7 +44,7 @@ verification:
   source: https://doi.org/10.1007/s10648-019-09468-2
   verified: true
   identifier_check: confirmed
-  date: '2026-09-04T02:02:02Z'
+  date: '2026-09-04T16:23:06Z'
 raw_capture: raw/202609040156-morehead-dunlosky-rawson-2019-abstract.txt
 links: []
 created: '2026-09-04'

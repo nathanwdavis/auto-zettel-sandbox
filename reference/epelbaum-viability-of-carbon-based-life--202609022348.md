@@ -45,7 +45,7 @@ verification:
   source: https://doi.org/10.1103/PhysRevLett.110.112502
   verified: true
   identifier_check: confirmed
-  date: '2026-09-03T01:48:14Z'
+  date: '2026-09-04T16:22:55Z'
 raw_capture: raw/202609022348-epelbaum-light-quark-mass-triple-alpha-excerpts.txt
 links: []
 created: '2026-09-02'
