@@ -20,6 +20,10 @@ links:
   relation: elaborates
 - target_id: the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215
   relation: shared-concept
+- target_id: retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415
+  relation: shared-concept
+- target_id: the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -85,4 +89,9 @@ note-taking, notes, external memory or offloading — its single point of contac
 with this subject is the study above
 ([[karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330]]).
 The literature that knows most about what makes knowledge durable has, as of
-2025, not turned its attention to the practice this repository is built on.
+2025, not turned its attention to the practice this repository is built on. And
+in its classroom branch it cannot: consulting notes during retrieval practice
+is an explicit exclusion criterion there
+([[the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420]]),
+which is what makes the 2008 open-book study, where the notes were on the desk
+by design, the exception rather than the first of a series.

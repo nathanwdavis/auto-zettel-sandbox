@@ -20,6 +20,10 @@ links:
   relation: source
 - target_id: a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210
   relation: shared-concept
+- target_id: the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410
+  relation: elaborates
+- target_id: retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -62,12 +66,19 @@ and names three meta-analyses (Rowland 2014, Adesope et al. 2017, Agarwal et al.
 2021) that have audited the literature
 ([[karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330]],
 p. 434). But that survey is written by the 2006 paper's own second author, and
-this base has read none of the three meta-analyses. So the position here is:
-two primary papers read in full, four experiments between them, plus the field's
-own attributed claim of robustness, plus a named and unclosed route to checking
-it independently. That
-is a better evidential position than the base holds for anything else about
-note-taking, and it is not the same as verified.
+so the three named audits had to be read rather than taken on its word. **One
+of the three has now been read, and it is not a meta-analysis.** Agarwal, Nunes
+and Blunt 2021 is a coded literature review that counts effect sizes without
+pooling them, over a literature its authors say is subject to a publication
+bias they do not correct for —
+[[the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410]]
+sets out what that does and does not establish. So the position here is: two
+primary papers read in full, four experiments between them, plus a careful
+census of 50 classroom experiments that points the same way without measuring
+how far, plus two genuinely pooled meta-analyses (Rowland 2014, Adesope et al.
+2017) still unread — Rowland's being the one by an author outside this research
+line. That is a better evidential position than the base holds for anything
+else about note-taking, and it is not the same as verified.
 
 **And the scope is narrower than the phrasing invites.** What was measured is
 recall of prose passages by undergraduates over five minutes to a week. Nothing
@@ -75,4 +86,10 @@ here is about ideas held for years, about connections between them, or about
 notes — see
 [[having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345]]
 for how far this literature does and does not reach toward this repository's
-own practices, which is: barely.
+own practices, which is: barely. One further narrowing, added after reading the
+classroom review: what has been measured is retrieval against *less* activity,
+almost never against a different effortful one, and the five classroom
+experiments that compared more retrieval with less all came back small
+([[retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415]]).
+*Recall rather than re-read* is what this note claims. *More recall is better
+than some* is not, and should not be read out of it.

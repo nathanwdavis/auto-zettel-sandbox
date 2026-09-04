@@ -151,6 +151,11 @@
     "202609040340": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
     "202609040345": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
     "202609040350": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
+    "202609040400": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400",
+    "202609040405": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405",
+    "202609040410": "the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410",
+    "202609040415": "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415",
+    "202609040420": "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -242,7 +247,10 @@
         "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
         "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
         "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
-        "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415",
+        "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420",
+        "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215",
+        "the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410"
       ],
       "status": "in-progress",
       "updated": "2026-09-04"
@@ -286,7 +294,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 156,
+  "note_count": 161,
   "notes": [
     {
       "id": "202609040058",
@@ -530,6 +538,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315.md"
+    },
+    {
+      "id": "202609040400",
+      "key": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400",
+      "links": [],
+      "path": "reference/agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400.md",
+      "slug": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning",
+      "tags": [],
+      "title": "Agarwal, Nunes and Blunt, Retrieval Practice Consistently Benefits Student Learning",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400.md"
+    },
+    {
+      "id": "202609040405",
+      "key": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400"
+        }
+      ],
+      "path": "literature/agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405.md",
+      "slug": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found",
+      "tags": [],
+      "title": "Agarwal, Nunes and Blunt screened two thousand abstracts and counted what they found",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405.md"
     },
     {
       "id": "202608301000",
@@ -1435,6 +1472,14 @@
         {
           "relation": "elaborates",
           "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420"
         },
         {
           "relation": "contradicts",
@@ -2559,12 +2604,20 @@
           "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
         },
         {
+          "relation": "elaborates",
+          "target_id": "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415"
+        },
+        {
           "relation": "source",
           "target_id": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310"
         },
         {
           "relation": "source",
           "target_id": "roediger-and-karpicke-test-enhanced-learning--202609040305"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410"
         }
       ],
       "path": "permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md",
@@ -2574,6 +2627,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md"
+    },
+    {
+      "id": "202609040415",
+      "key": "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        }
+      ],
+      "path": "permanent/retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415.md",
+      "slug": "retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise",
+      "tags": [],
+      "title": "Retrieval practice's classroom advantage was measured against doing less, not against doing otherwise",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415.md"
     },
     {
       "id": "202609040310",
@@ -2955,6 +3037,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
+    },
+    {
+      "id": "202609040420",
+      "key": "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405"
+        },
+        {
+          "relation": "supports",
+          "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        }
+      ],
+      "path": "permanent/the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420.md",
+      "slug": "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria",
+      "tags": [],
+      "title": "The classroom retrieval literature excludes notes by its own inclusion criteria",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420.md"
     },
     {
       "id": "202609011016",
@@ -3346,6 +3457,10 @@
         {
           "relation": "shared-concept",
           "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420"
         }
       ],
       "path": "permanent/the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215.md",
@@ -3447,6 +3562,39 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537.md"
+    },
+    {
+      "id": "202609040410",
+      "key": "the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-consistently-benefits-student-learning--202609040400"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-screened-two-thousand-abstracts-and-counted-what-they-found--202609040405"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        }
+      ],
+      "path": "permanent/the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410.md",
+      "slug": "the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect",
+      "tags": [],
+      "title": "The robustness audit for retrieval practice counts studies; it does not measure the effect",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410.md"
     },
     {
       "id": "202608311942",

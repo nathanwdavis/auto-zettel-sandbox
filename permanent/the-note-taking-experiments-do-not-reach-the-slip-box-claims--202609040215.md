@@ -26,6 +26,8 @@ links:
   relation: shared-concept
 - target_id: a-trusted-structure-frees-attention-from-willpower--202608311142
   relation: shared-concept
+- target_id: the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420
+  relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -94,3 +96,13 @@ somebody does, the finding is that almost nothing measures this — that is this
 note's own phrasing, not anyone's quoted words — and it is a real finding
 rather than a failed cycle: the base's largest claims about its own method now
 rest on the strongest available evidence being about something else.
+
+**Strengthened 2026-09-04 by the classroom review**, which shows that for one
+of those three directions the mismatch is not an accident of what got studied
+but a screening rule: the retrieval-practice literature defines its own
+intervention as retrieval *without* notes or external aids, so it will not come
+to bear on a slip-box however much it grows
+([[the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420]]).
+*Nobody has measured this yet* and *this field has ruled the measurement out of
+scope* call for different responses, and the second is now established for the
+retrieval branch.

@@ -56,4 +56,20 @@ bears against the premise of
 [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
 above.
 
+Extended again on 2026-09-04, after reading the first of the three audits the
+field points to when it calls retrieval practice robust. These three notes are
+about the *standing* of the evidence in the two lists above rather than about
+learning, and the third of them settles a question the base had only been able
+to infer:
+
+- [[the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410]]
+- [[retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415]]
+- [[the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420]]
+
+The last is the one to read if the list above looks like the beginning of an
+answer: the classroom retrieval literature screens out any study in which
+learners consult notes, so it will not become an answer by growing. Two pooled
+meta-analyses (Rowland 2014, Adesope et al. 2017) remain unread and are the
+named next step.
+
 See also: [[compound-growth--202608311143]]

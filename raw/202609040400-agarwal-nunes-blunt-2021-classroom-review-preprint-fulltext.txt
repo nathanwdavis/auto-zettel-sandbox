@@ -1,0 +1,2327 @@
+CAPTURE: Pooja K. Agarwal, Ludmila D. Nunes, and Janell R. Blunt, "Retrieval
+         Practice Consistently Benefits Student Learning: a Systematic Review
+         of Applied Research in Schools and Classrooms," Educational
+         Psychology Review 33, no. 4 (2021): 1409-1453.
+DOI: 10.1007/s10648-021-09595-9
+FETCHED: 2026-09-04T04:00Z
+
+WHAT THIS FILE CONTAINS, AND WHY IT IS IN TWO PARTS. Part 1 is the abstract of
+the PUBLISHED 2021 article, recovered from two independent indexes and shown to
+be word-identical between them. Part 2 is the FULL TEXT of the authors' own
+PREPRINT of the same paper, uploaded by them to the Open Science Framework on
+10 June 2020 and there described as "Manuscript under review". The two parts do
+NOT report the same numbers, and that discrepancy is the single most important
+thing about this capture -- see the RECONCILIATION section below. Any note
+grounded on this file must say which part it is drawing on.
+
+SOURCE URL (what actually returned the full text):
+  https://osf.io/download/5v7nb/
+  reached from the OSF registration https://osf.io/cfsb6/ ->
+  /v2/registrations/cfsb6/files/osfstorage/ -> archive folder ->
+  RetrievalPractice_LiteratureReview_SchoolsClassrooms.pdf
+
+PROVENANCE: an author deposit on the Open Science Framework, made by the
+corresponding author (correspondence address ask@retrievalpractice.org, given
+on the preprint's title page). Rung (c) of the house access ladder
+(skills/source-access-triage): an author or institutional page. Not a scraper
+mirror; ResearchGate and Academia.edu were not used and are forbidden by house
+rule.
+
+BYTES: 1,445,075
+SHA-256: 6230dc93b2c4e988588c53e24d90b0cd77356e47815ba66c0694c08986a2f13f
+PAGES: 67 (preprint pagination; the printed article is pp. 1409-1453). Page
+  references in the notes are to the PREPRINT's own page numbers, which run in
+  its running head and match the PDF page numbers exactly (PDF page n = preprint
+  page n).
+EXTRACTION: pypdf 6.16.2 text layer. This PDF carries a real text layer, not an
+  OCR layer over a scan. The extraction preserves the preprint's soft hyphens
+  and its zero-width formatting marks around italicised statistical symbols
+  (they appear as stray characters around "n", "d", "k"); no text was lost and
+  no character was silently repaired.
+
+ACCESS LADDER, RUNG BY RUNG, ALL TRIED 2026-09-04. Recorded in full because
+the INBOX entry that commissioned this source said it was gold open access and
+free to take, and that turned out NOT to be the case at the publisher:
+  (a) PUBLISHER. https://link.springer.com/article/10.1007/s10648-021-09595-9
+      and .../content/pdf/10.1007/s10648-021-09595-9.pdf both returned HTTP 200
+      with a 3,038-byte JavaScript/auth shell and no article text -- the
+      standing Springer condition this environment class has recorded since
+      2026-09-01. The shell is served identically for open and closed articles,
+      so this rung cannot distinguish "paywalled" from "bot-blocked" and this
+      capture claims neither.
+  (b) UNPAYWALL by DOI. is_oa TRUE, oa_status GOLD, and TWO oa_locations, both
+      "submittedVersion", both OSF: osf.io/cfsb6 and osf.io/mz2ks. The
+      publisher location itself is reported is_oa FALSE. OpenAlex agrees
+      (best_oa_location = osf.io/cfsb6, version submittedVersion, license
+      cc-by) and so does Semantic Scholar (openAccessPdf.url = osf.io/cfsb6,
+      status GOLD, license CCBY). Crossref, meanwhile, carries only
+      https://www.springer.com/tdm as the licence for this DOI, which is
+      Springer's text-and-data-mining licence and not CC-BY.
+      SO: three independent indexes label this article gold/CC-BY while the
+      only openly readable copy any of them can name is an author manuscript on
+      OSF. The "gold" label was not confirmed at the publisher by this capture.
+  (c) OSF, the location the indexes named. osf.io/cfsb6 is NOT a preprint and
+      NOT a file: the OSF guid API resolves it to a REGISTRATION
+      (/v2/registrations/cfsb6/). /v2/preprints/cfsb6/ returns 404, and
+      https://osf.io/cfsb6/download returns HTTP 500 "Unable to resolve". A
+      fetcher that follows the Unpaywall URL and stops there gets nothing. The
+      PDF is two API hops further in, inside the registration's archived
+      OSF-storage folder, and that is what was downloaded here.
+  (d) AUTHOR SITE. www.retrievalpractice.org/research returned HTTP 200 and
+      links its PDFs to the host pdf.poojaagarwal.com. That host is DEAD: it
+      serves a DreamHost "pdf.poojaagarwal.com is almost here! The owner of
+      this domain has not yet uploaded their website." placeholder, and every
+      filename tried under it 301s to an HTTPS 404. pooja-agarwal.com is
+      refused by this environment's egress proxy at CONNECT (curl 56, 502),
+      which is a policy result and says nothing about the site.
+  (e) EUROPE PMC / PMC. Zero hits for the DOI; this journal is not in PMC.
+  (f) ERIC. Record EJ1319572, peerreviewed T, e_fulltextauth 0 -- the published
+      ABSTRACT only, no ERIC full text. Used as witness 1 in Part 1 below.
+
+IDENTITY CHECK against the Crossref record for the DOI: title, all three
+authors in order (Agarwal, Pooja K.; Nunes, Ludmila D.; Blunt, Janell R.),
+container-title Educational Psychology Review, volume 33, issue 4, pages
+1409-1453, issued 2021-03-14, publisher Springer Science and Business Media
+LLC, ISSN 1040-726X / 1573-336X. All confirmed. The preprint's own title page
+carries the same title and the same three authors with their 2020 affiliations
+(Berklee College of Music; Association for Psychological Science; Anderson
+University).
+
+RECONCILIATION OF PART 1 AND PART 2 -- READ BEFORE CITING ANY NUMBER.
+The published abstract and the preprint abstract disagree on three headline
+figures. The preprint is the earlier, pre-peer-review document; where they
+disagree the PUBLISHED figure is the article's finding and the preprint's is
+superseded.
+
+  figure                       preprint (2020)        published (2021)
+  effect sizes yielded         60                     49
+  share medium or large        62%                    57%
+  non-WEIRD experiments        "10 out of 50"         "6%"
+
+  On the third row the preprint contradicts ITSELF, and the published wording
+  resolves the contradiction. The preprint's abstract says "only 10 out of 50
+  experiments were conducted in non-WEIRD countries" (p. 2), while its own
+  General Discussion says "Only 10 out of 50 experiments that met our screening
+  criteria were conducted outside the United States" and then, one sentence
+  later, "80% of experiments reviewed were conducted in WEIRD countries"
+  (p. 40) -- i.e. 20% non-WEIRD, not 6%. The three non-WEIRD countries the
+  preprint actually names among its coded experiments are Pakistan, Taiwan and
+  Turkey (p. 19); 3 of 50 is 6%. The reading that fits every one of these
+  sentences is that the preprint's abstract conflated "outside the United
+  States" with "non-WEIRD" -- Denmark and the other non-US sites being WEIRD --
+  and that peer review corrected it. THAT READING IS THIS REPOSITORY'S
+  INFERENCE, not a statement by the authors, and is labelled as such wherever
+  it is used.
+
+  The first two rows are NOT reconcilable from what is in this file. 60 effect
+  sizes became 49 and 62% became 57% somewhere between June 2020 and March
+  2021, and neither document explains why. CONSEQUENCE FOR CITATION: the
+  preprint's per-experiment detail (its tables, its appendix, its comparison
+  counts) may not correspond one-for-one to the published article's, because
+  the published article counts eleven fewer effect sizes. Every per-experiment
+  figure quoted from Part 2 is therefore a PREPRINT figure and is marked as
+  such in the notes that use it.
+
+================================================================================
+PART 1. THE PUBLISHED ABSTRACT (Educational Psychology Review 33, no. 4, 2021)
+================================================================================
+
+TWO-WITNESS CHECK, per the house standard (skills/source-access-triage step 3).
+Witness 1: ERIC record EJ1319572, retrieved from api.ies.ed.gov.
+Witness 2: OpenAlex, reconstructed from abstract_inverted_index for
+           doi:10.1007/s10648-021-09595-9.
+These are independent services with independent ingest pipelines. Compared
+mechanically under NFKC normalisation with whitespace and quotation/dash forms
+folded: 1,213 vs 1,212 normalised characters, IDENTICAL except that ERIC renders
+the em dash in "learning--particularly" as a double hyphen where OpenAlex
+renders "learning-particularly". No other token differs. The abstract below is
+witness 1 verbatim.
+
+--- BEGIN PUBLISHED ABSTRACT (witness 1, ERIC EJ1319572) ---
+Given the growing interest in retrieval practice among educators, it is valuable to know when retrieval practice does and does not improve student learning--particularly for educators who have limited classroom time and resources. In this literature review, we developed a narrow operational definition for "classroom research" compared to previous reviews of the literature. We screened nearly 2000 abstracts and systematically coded 50 experiments to establish a clearer picture of benefits from retrieval practice in real world educational settings. Our review yielded 49 effect sizes and a total n = 5374, the majority of which (57%) revealed medium or large benefits from retrieval practice. We found that retrieval practice improved learning for a variety of education levels, content areas, experimental designs, final test delays, retrieval and final test formats, and timing of retrieval practice and feedback; however, only 6% of experiments were conducted in non-WEIRD countries. Based on our review of the literature, we make eight recommendations for future research and provide educators with a better understanding of the robust benefits of retrieval practice across a range of school and classroom settings.
+--- END PUBLISHED ABSTRACT ---
+
+--- BEGIN PUBLISHED ABSTRACT (witness 2, OpenAlex, for comparison) ---
+Given the growing interest in retrieval practice among educators, it is valuable to know when retrieval practice does and does not improve student learning—particularly for educators who have limited classroom time and resources. In this literature review, we developed a narrow operational definition for “classroom research” compared to previous reviews of the literature. We screened nearly 2000 abstracts and systematically coded 50 experiments to establish a clearer picture of benefits from retrieval practice in real world educational settings. Our review yielded 49 effect sizes and a total n = 5374, the majority of which (57%) revealed medium or large benefits from retrieval practice. We found that retrieval practice improved learning for a variety of education levels, content areas, experimental designs, final test delays, retrieval and final test formats, and timing of retrieval practice and feedback; however, only 6% of experiments were conducted in non-WEIRD countries. Based on our review of the literature, we make eight recommendations for future research and provide educators with a better understanding of the robust benefits of retrieval practice across a range of school and classroom settings.
+--- END PUBLISHED ABSTRACT (witness 2) ---
+
+================================================================================
+PART 2. THE AUTHORS' PREPRINT, FULL TEXT (OSF, uploaded 10 June 2020)
+================================================================================
+
+Verbatim pypdf text extraction of
+RetrievalPractice_LiteratureReview_SchoolsClassrooms.pdf, all 67 pages, page
+boundaries marked. Nothing is elided, reordered or corrected.
+
+
+===== PDF PAGE 1 =====
+ 
+ 
+This preprint was uploaded to the Open Science Framework on June 10, 2020. 
+ 
+ 
+ 
+Retrieval Practice Consistently Benefits Student Learning:  
+A Systematic Review of Applied Research in Schools and Classrooms  
+  
+ 
+Pooja K. Agarwal, Berklee College of Music 
+Ludmila D. Nunes, Association for Psychological Science 
+Janell R. Blunt, Anderson University 
+  
+ 
+  
+Recommended citation: 
+Agarwal, P. K., Nunes, L. D., & Blunt, J. R. (2020). Retrieval practice consistently benefits 
+student learning: A systematic review of applied research in schools and classrooms. Manuscript 
+under review. 
+ 
+ 
+This project is registered on the Open Science Framework (OSF) at http://osf.io/mz2ks. 
+Correspondence should be addressed to Pooja K. Agarwal, Ph.D. at ask@retrievalpractice.org.  
+PREPRINT
+
+===== PDF PAGE 2 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 2 
+Abstract 
+Given the growing interest in retrieval practice among educators, it is valuable to know when 
+retrieval practice does and does not improve student learning—particularly for educators who 
+have limited classroom time and resources. In this literature review, we developed a narrow 
+operational definition for “classroom research” compared to previous reviews of the literature. 
+We screened nearly 2,000 abstracts and systematically coded 50 experiments to establish a 
+clearer picture of benefits from retrieval practice in real world educational settings. Our review 
+yielded 60 effect sizes and a total ​n​ = 5,374, the majority of which (62%) revealed medium or 
+large benefits from retrieval practice. We found that retrieval practice improved learning for a 
+variety of education levels, content areas, experimental designs, spacing of retrieval practice, 
+final test delays, retrieval and final test formats, and timing of feedback; however, only 10 out of 
+50 experiments were conducted in non-WEIRD countries. Based on our review of the literature, 
+we make eight recommendations for future research and provide educators with a better 
+understanding of the robust benefits of retrieval practice across a range of school and classroom 
+settings. 
+ 
+Keywords​: Retrieval practice, testing effect, learning, classroom 
+Word count: 185 
+  
+PREPRINT
+
+===== PDF PAGE 3 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 3 
+Retrieval Practice Consistently Benefits Student Learning:  
+A Systematic Review of Applied Research in Schools and Classrooms  
+As researchers have demonstrated for more than a century, retrieval practice—the act of 
+recalling prior knowledge and information to be learned—improves long-term learning and 
+memory. For example, simply retrieving a trivia fact (e.g., what was the name of the ship of 
+Charles Darwin’s famous voyage?) helps students remember this fact better than if they simply 
+re-read it multiple times.  1
+In a landmark study on retrieval practice by Roediger and Karpicke (2006b), college 
+students read brief passages (e.g., about sea otters, the solar system, etc.) and either engaged in 
+re-reading the passages or retrieval practice (i.e., free recall by writing down everything they 
+could remember from the passage). After a five-minute delay, students performed better on a free 
+recall test after initially re-reading, but after a one-week delay, their performance was greater 
+when they engaged in initial retrieval practice by freely recalling the passage. 
+Revived by Roediger and Karpicke (2006b), research on the use of retrieval practice as a 
+strategy to improve long-term learning has been progressing rapidly. In particular, scientists have 
+been extending research from laboratory settings to educational settings, with demonstrated 
+benefits for student learning ranging from primary school to medical school, and content areas 
+ranging from math and science to history and foreign languages (Dunlosky et al., 2013). 
+Researchers are increasingly urging educators to apply retrieval practice in the classroom 
+(Agarwal & Bain, 2019; Brown, Roediger, & McDaniel, 2014; Butler & Carpenter, 2015; 
+Dunlosky & Rawson, 2019; Fazio & Marsh, 2019; Karpicke, Blunt, & Smith, 2016; Nunes & 
+1  The name of the ship of Charles Darwin’s famous voyage is the Beagle. 
+PREPRINT
+
+===== PDF PAGE 4 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 4 
+Karpicke, 2015; Roediger & Butler, 2011; Weinstein, Madan, & Sumeracki, 2018). In tandem, 
+educators are increasingly implementing retrieval practice using a variety of methods including 
+online apps, frequent recall prompts, and quizzes during lectures. 
+Given the growing interest in retrieval practice among educators, it is valuable to know 
+when retrieval practice does and does not improve student learning–particularly for educators 
+who have limited classroom time and resources. From a scientific standpoint, it is also valuable 
+to have a clear understanding of the literature to date in order to inform future research.  
+To address these pursuits for both educators and researchers, we developed a narrow 
+operational definition for “classroom research” compared to previous reviews of the literature. 
+Using our definition and detailed search syntax (see Table 1), we screened nearly 2,000 studies 
+and coded 50 experiments drawn from research on retrieval practice, conducted in classroom 
+settings. 
+Aims of the Present Study  
+Aim 1: Compare Apples to Apples Using Narrower Review Criteria 
+Recent meta-analyses and reviews have increased our understanding of the benefits of 
+retrieval practice on student learning across a variety of educationally-relevant materials and 
+educational settings (Adesope et al., 2017; Brame & Biel, 2015; Dunlosky et al., 2013; 
+Eisenkraemer, Jaeger, & Stein, 2013; Karpicke & Grimaldi, 2012; McLaughlin & Coderre, 2015; 
+Moreira et al., 2019; Nguyen & McDaniel, 2015; Pyc, Agarwal, & Roediger, 2012; Rowland, 
+2014). 
+However, these recent meta-analyses and reviews included research on retrieval practice 
+conducted in a wide variety of laboratory and applied settings. For example, Adesope et al. 
+PREPRINT
+
+===== PDF PAGE 5 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 5 
+(2017) conducted a meta-analysis of 217 research studies on retrieval practice, of which 11% 
+were from classroom settings (p. 666). While informative for research purposes, teaching 
+recommendations regarding retrieval practice drawn from a mix of laboratory and applied studies 
+lack specificity. What works in the laboratory does not necessarily work in the classroom–and 
+vice versa. As Adesope et al. observed in their meta-analysis, "In light of potential confounds, 
+comparison of classroom and laboratory effect sizes should be interpreted with caution" (p. 687).  
+In addition, previous meta-analyses and reviews included research in which the 
+educational experience and retrieval formats varied widely. For example, in the studies included 
+in the literature review by Moreira et al. (2019), students had unsupervised access to online 
+quizzes (Burdo & O’Dwyer, 2015; Daniel & Broida, 2004; Kibble, 2007); materials ranged from 
+encyclopedia passages (Jaeger et al., 2015) to TV recordings (Cranney et al., 2009); retrieval 
+practice was collaborative involving groups of students (Vojdanoska, Cranney, & Newell, 2010); 
+retrieval practice took place in computer labs (Lipko-Speed, Dunlosky, & Rawson, 2014; 
+Wiklund-Hornqvist et al., 2014); or the retrieval practice intervention was carried out after the 
+course had concluded (Carpenter, Pashler, & Cepeda, 2009).  
+For the purposes of the present review, our operational definition of retrieval practice was 
+an active attempt by a student to recall and reconstruct their memory of knowledge learned (also 
+known as the testing effect; Karpicke, 2012). After screening nearly 2,000 abstracts, 50 
+experiments drawn from 37 studies met our full screening criteria, in which we required 
+classroom-relevant materials, retrieval practice by students individually, and implementation 
+during class periods under the supervision of the instructor or researcher. In order to inform 
+future research and classroom implementation, we compared classroom studies only (apples to 
+PREPRINT
+
+===== PDF PAGE 6 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 6 
+apples), rather than drawing comparisons across classrooms, simulated classrooms, and 
+laboratory studies (apples to oranges). 
+Even under narrowed inclusion criteria in the present review, we felt that the conditions 
+for learning across the 50 experiments included in the present review were too varied to take a 
+meta-analytic approach. Recent works have pointed out several shortcomings of current 
+meta-analytical methods, such as random effects models when data to be analyzed are complex 
+(e.g., Carter, Schönbrodt, Gervais, & Hilgard, 2019; McShane & Böckenholdt, 2020; Tipton, 
+Pustejovsky, & Ahmadi, 2019). Across the experiments in the present review, seldom was there 
+only one single group of subjects, a single experimental condition, a single dependent measure, 
+and a single effect of interest. We felt that an examination of specific retrieval practice 
+interventions would be more beneficial for practitioners than reporting one mean effect size for 
+an aggregation of heterogeneous studies. As such, we report effect sizes for each experiment in 
+the Appendix, as well as the frequency of small, medium, and large effects in tables.  
+Aim 2: Inform Future Directions for Applied Research on Retrieval Practice 
+A second aim of the present review was to inform future directions for applied research 
+on retrieval practice. In order to construct the most thorough review of the literature possible, we 
+developed precise search syntax for five databases: PsycINFO, PsycARTICLES, ERIC, Web of 
+Science, and PubMed (see Table 1). While our screening criteria were narrowed compared to 
+previous reviews, our systematic search yielded more classroom-specific peer-reviewed 
+publications (37 studies in the present review of the literature), compared to the number of 
+studies included in previous reviews (e.g., 30 applied studies in Adesope et al., 2017 and 23 
+applied studies in Moreira et al., 2019).  
+PREPRINT
+
+===== PDF PAGE 7 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 7 
+It is possible that the greater number of studies in our review,compared to previous 
+reviews,may be due to a more recent search of the literature. Still, using our methodology, we 
+found a few classroom studies that were not included in previous literature reviews, albeit having 
+been published before those reviews (e.g., Graham, 1999; Kromann et al., 2009; Narloch et al., 
+2006). In this way, we feel that our systematic review contributes a comprehensive record of 
+research to date, which better informs future directions for applied research on retrieval practice.  
+Specifically, we investigated unresolved questions in the research literature on retrieval 
+practice. For example, is there an optimal frequency or spacing of retrieval practice to improve 
+student learning in classroom settings? Do all content areas and educational levels (e.g., K-12, 
+undergraduate, and medical school) benefit from retrieval practice? Which is more beneficial for 
+student learning, multiple-choice or short answer retrieval practice? Typically, laboratory 
+research influences applications in “real world” settings. The opposite is also true: By examining 
+these unresolved questions under real world settings in the present review, we aimed to inform 
+the types of research questions being asked in laboratory settings.  
+Aim 3: Clarify Recommendations for Classroom Implementation of Retrieval Practice 
+In order to provide recommendations for classroom implementation of retrieval practice, 
+we systematically coded conditions of interest to educators (see the Appendix and 
+http://osf.io/mz2ks for the complete coding). For example, educators express a number of 
+concerns regarding implementation, particularly the use of multiple-choice questions and the 
+optimal timing for feedback (Agarwal & Bain, 2019). In both of these examples, laboratory and 
+applied research suggest mixed approaches (Adesope et al., 2017). Additional conditions of 
+interest in the present review included: 
+PREPRINT
+
+===== PDF PAGE 8 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 8 
+● Education level (e.g., K-12, college/university, medical school) 
+● Content area (e.g., psychology, medicine, and history) 
+● Comparison conditions (e.g., reviewing material, lessons without quizzes, infrequent high 
+stakes exams) 
+● Spacing of retrieval practice (e.g., every class, once a week, once a month) 
+● Length of delay between the last retrieval opportunity and the final test (e.g., days or 
+weeks) 
+● Format for initial retrieval practice and final test (e.g., multiple-choice, short answer, free 
+recall) 
+● Feedback timing (e.g., immediate, delayed, no feedback) 
+Our narrower review criteria also allowed us to examine the benefits of retrieval practice 
+under conditions found in real world classrooms—but uncommon in laboratory 
+studies—including research with diverse student populations and situations in which 
+performance on retrieval practice counted toward students’ course grades. 
+Considerations for Applied Research in Classrooms 
+Definition of “Classroom” Research 
+The primary aim of the present review was to examine the literature on retrieval practice 
+research conducted in classrooms. But how does one define a “classroom?” Classrooms, 
+particularly in the present day, take a variety of forms (e.g., small seminars, large lecture halls, 
+and online) and include a variety of activities (e.g., lectures, group projects, and discussion). For 
+example, 14% of all students in higher education (more than 5.8 million students) take the 
+entirety of their courses online (Allen & Seaman, 2016).  
+PREPRINT
+
+===== PDF PAGE 9 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 9 
+In addition, retrieval practice is inherent to classroom instruction: teachers pose questions 
+during class, students retrieve knowledge during group discussion, and students retrieve during 
+course exams. If we were to consider any classroom settings in which retrieval practice takes 
+place, such a review would be far too broad to draw conclusions for future research and practical 
+implementation. Thus, defining what constitutes a classroom for the purpose of this review 
+required careful consideration.  
+Consider a study conducted by Herbert Spitzer in 1939. More than 3,500 children across 
+the state of Iowa were asked to read passages about peanuts and bamboo, which were followed 
+by zero, one, two, or three multiple-choice tests administered in the classroom. After two 
+months, final test performance was greater for students who engaged in retrieval practice 
+compared to students who did not receive initial retrieval practice.  
+While this study by Spitzer (1939) was conducted with school-age children in 
+classrooms, Spitzer himself observed, “The learning was of little practical use to the children” (p. 
+655). This study is a valuable demonstration of the benefits of retrieval practice in an applied 
+setting, but it is also an instance in which educational research deviated from typical classroom 
+instruction; namely, the materials were irrelevant to what students were learning in class (see 
+also Myers, 1914). 
+As a second example, consider a study by Sennhenn-Kirchner et al. (2016). Dental 
+students completed a four-hour course on suturing skills, which was followed by retrieval 
+practice using a suture simulation pad, either collaboratively in pairs or individually. On a final 
+test approximately one month later, students in the collaborative retrieval group outperformed 
+students who had engaged in retrieval practice individually.  
+PREPRINT
+
+===== PDF PAGE 10 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 10 
+In Sennhenn-Kirchner et al. (2016), the information to be learned and the format of 
+retrieval practice was typical of dental education. However, in the collaborative retrieval 
+condition, it is possible that one student led suture practice while the other student watched and 
+did not engage in retrieval practice. The extent to which all students engaged in retrieval practice 
+was not measured and could not be guaranteed by the researchers or instructors. 
+In order to ascertain trends and draw conclusions from the growing literature on retrieval 
+practice, we limited our definition of “classroom” research using the following guidelines: 
+● Relevant course materials: Information to be learned for research purposes was the same 
+as, or directly related to, assigned course materials 
+● Individual, not collaborative: All students engaged in retrieval practice individually under 
+the supervision of researchers and instructors 
+● Closed-book, not open-book: All retrieval practice took place without the use of notes, 
+external learning aids, or the internet 
+Comparison Conditions in Classroom Settings 
+When it comes to control conditions in research on learning, it is critical to compare ​what 
+students do and also for how ​long​. In laboratory experiments, retrieval practice is typically 
+compared to re-studying, particularly to ensure that time spent with materials is equated across 
+conditions (e.g., Roediger & Karpicke, 2006b). In classroom experiments, the comparison to 
+retrieval practice is typically “business as usual,” where a teacher lectures on the same material, 
+but without quizzes (Khanna & Cortese, 2016).  
+For all studies reviewed in the present study, students spent approximately the same 
+amount of time with materials between the retrieval practice intervention and comparison 
+PREPRINT
+
+===== PDF PAGE 11 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 11 
+conditions. For example, in Freda and Lipp (2016), classes consisted of lectures with quizzes vs. 
+lectures without quizzes. In Kromann et al. (2010), students received quizzes on simulated 
+cardiac arrest scenarios or they received lecture presentations of the scenarios. In Roediger, 
+Agarwal, McDaniel, and McDermott (2011), using a within-student design, questions over half 
+the material were presented on quizzes and the final exam, whereas questions on the remaining 
+material appeared only on the final exam (non-quizzed items). 
+ In the present review, we included experiments in which the comparison of interest was 
+dosage​, or the amount of retrieval practice needed to improve learning (Dunlosky et al., 2013). 
+For example, we included experiments by Foss and Pirozzolo (2017), in which eight course 
+exams were compared to two course exams (Experiment 2), and six quizzes were compared to 
+three quizzes (Experiment 4). As another example, we included an experiment by Leeming 
+(2002), in which quizzes administered during every class were compared to four exams over the 
+course of the semester. 
+In this way, we examined the implementation of frequent retrieval practice when it was 
+compared to the absence of or fewer opportunities for retrieval (dosage). We chose to exclude 
+studies in which the primary comparison of interest was between two (or more) ​types​ of retrieval 
+practice. ​For example, we excluded experiments by Carpenter et al. (2016; they compared 
+retrieval practice via drawing diagrams vs. labeling diagrams), Niedermeyer and Sullivan (1972; 
+they compared three vs. four multiple-choice test alternatives), Rohrer, Dedrick, Hartwig, and 
+Cheung (2020; they compared blocked vs. interleaved retrieval practice), and Weinstein, Nunes, 
+and Karpicke (2016, Experiment 3; they compared quiz questions interspersed during lectures or 
+at the end of lectures). This growing area of applied research on optimal types of retrieval 
+PREPRINT
+
+===== PDF PAGE 12 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 12 
+practice awaits a future review of the literature. 
+Note that in the present review, we do not refer to “control conditions” or “control 
+groups.” Instead, we refer to “​comparison​ conditions” and “comparison groups.” What may be 
+considered an appropriate control group in one classroom setting may not be appropriate in 
+another, thus we did not restrict whether a control had to take a specific form of re-studying, 
+re-presentation, repetition, concept mapping, or alternative “non-retrieval” conditions (see also 
+Kornell, Rabelo, & Klein, 2012). 
+Internal and External Validity in Applied Research 
+Applied research, particularly on student learning and memory, brings with it a number 
+of uncontrolled variables and circumstances. These variables for both students and 
+teachers—such as absences, external motivators, and commitments outside the classroom—can 
+affect internal validity and fidelity of implementation, or the extent to which an intervention is 
+implemented in accordance with the procedure (O’Donnell, 2008). 
+A common characterization of laboratory and classroom research is that laboratory 
+research is regarded as high on internal validity (free from errors in the experiment) and low on 
+external validity (findings do not generalize to the real world), while classroom research is low 
+on internal validity and high on external validity. Even so, as Anderson, Lindsay, and Bushman 
+(1999) argue, ​individual​ studies may be high or low on internal and external validity; validity 
+cannot be defined simply based on whether a study was conducted in a lab or a classroom.  
+In addition, in any situation in which retrieval practice was implemented without 
+supervision, it is impossible to know whether it conformed to our operational definition. Thus, in 
+order to maintain fidelity of implementation and internal validity as much as possible, our 
+PREPRINT
+
+===== PDF PAGE 13 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 13 
+inclusion criteria required that all instructional activities, retrieval practice, and assessments took 
+place in person under the supervision of the researcher or the instructor, in person, and not 
+online. 
+By screening nearly 2,000 abstracts and systematically reviewing 50 experiments 
+conducted in classrooms, we aimed to establish a clearer picture of benefits from retrieval 
+practice in real world educational settings. We developed specific search syntax and 
+operationalized classroom research, investigated unresolved questions in the research literature, 
+and developed research-based recommendations for the implementation of retrieval practice for 
+educators. 
+Methods 
+Literature Search 
+We conducted a literature search in January 2018 for empirical research on retrieval 
+practice conducted in school and classroom settings. We developed search syntax for five 
+databases (PsycINFO, PsycARTICLES, ERIC, Web of Science, and PubMed), using different 
+combinations of keywords including retrieval practice, testing effect, course, and teach (see 
+Table 1 for a complete description of the search syntax used for each database). We also 
+performed a backwards search using the reference lists of the abstracts that passed both initial 
+and detail screenings, but the backwards search did not reveal any new abstracts. Our literature 
+search yielded a total of 1,810 abstracts. We used Zotero (http://www.zotero.org), an 
+open-source research tool for reference management, to organize and download abstracts.  
+ 
+  
+PREPRINT
+
+===== PDF PAGE 14 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 14 
+Table 1 
+Search syntax used and number of abstracts screened 
+ 
+Database Search syntax 
+Number of 
+Abstracts 
+PsycINFO,  
+PsycARTICLES,  
+and ERIC 
+(retriev* pract* OR testing effect OR "test* effect" 
+OR test-enhanc*) AND (class* OR course* OR 
+teach* OR clinical) 
+1,447 
+Web of Science 
+(("retrieval practice" OR "testing effect" OR 
+test-enhanc*) AND (class* OR course* OR 
+teach*)) 
+230 
+PubMed 
+(((((retrieval practice[Text Word]) OR testing 
+effect[Text Word]) OR test effect[Text Word]) OR 
+test-enhanced[Text Word])) AND ((((class[Text 
+Word]) OR course[Text Word]) OR teach[Text 
+Word]) OR clinical[Text Word]) 
+133 
+   Total number of abstracts screened 1,810 
+ 
+  
+PREPRINT
+
+===== PDF PAGE 15 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 15 
+Initial Screening Criteria 
+Initial screening of 1,810 abstracts was conducted to ensure that research met the 
+following criteria for inclusion in the present review: 
+Research must be published in, or in press at, a peer-reviewed journal at the time of our 
+search. Abstracts from conference proceedings, dissertations, or non-peer reviewed journals were 
+excluded. Literature reviews were also excluded.  
+Research must be empirical, with at least two conditions (i.e., a retrieval practice 
+intervention and a comparison) and at least one final test phase (i.e., a retention measure after 
+retrieval practice). Abstracts indicating that findings were based on observational, survey, 
+correlational, or other qualitative methods were excluded.  
+Research must be conducted with typical student populations. Abstracts indicating that 
+research was conducted with patient populations were excluded. For example, participants in 
+Coyne et al. (2015) were traumatic brain injury patients and participants in Viveiros et al. (2017) 
+were patients with heart failure. 
+Research must include a measurement of retention of information as the dependent 
+variable. Abstracts indicating that the dependent variable was test anxiety or students’ preferred 
+study strategies were excluded (e.g., Agarwal et al., 2014; Hartwig & Dunlosky, 2012; Karpicke, 
+Butler, & Roediger, 2009). 
+As shown in Figure 1, a total of 1,623 abstracts were excluded from the review following 
+initial screening. Seven abstracts that were not available for full-text download were also 
+excluded during initial screening. 
+  
+PREPRINT
+
+===== PDF PAGE 16 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 16 
+Figure 1 
+Flowchart of the screening process 
+ 
+PREPRINT
+
+===== PDF PAGE 17 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 17 
+Detailed Screening 
+Detailed screening of the remaining 180 abstracts was conducted using the following 
+criteria: 
+Procedurally, all instructional activities, retrieval practice, and assessments must take 
+place in person during class periods under the supervision of the instructor or researcher. For 
+example, research conducted in laboratories (Lipko-Speed et al., 2014) or online (Becker-Blease 
+& Bostwick, 2016) was excluded. Retrieval practice carried out after the course ended was also 
+excluded (e.g., Carpenter et al., 2009). Furthermore, retrieval practice must be completed by 
+individual students (i.e., research conducted in collaborative groups was excluded; e.g., 
+Vojdanoska et al., 2010) and controlled by the instructor (i.e., research where retrieval practice 
+was self-regulated using flashcards was excluded; e.g., Rawson, Dunlosky, & Sciartelli, 2013). 
+In terms of materials, information to be learned must be the same as, or directly related 
+to, assigned course materials that students would be learning in the absence of researchers. For 
+example, Duchastel (1979) had students memorize passages about solar power that were not part 
+of course materials; thus, it was excluded from the present review. In addition, the retrieval 
+practice intervention must take place without the use of notes, external learning aids, or the 
+internet (e.g., quizzes in class must be closed-book, not open-book). In addition, the amount of 
+instructional time during which students were exposed to materials must be equivalent across 
+retrieval practice and comparison conditions. 
+Coding Procedure 
+Following initial and detailed screenings, 50 experiments drawn from 37 studies were 
+included in the present review. As shown in the Appendix, we coded the following variables for 
+PREPRINT
+
+===== PDF PAGE 18 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 18 
+each of the 50 experiments that passed all screening criteria: (a) the type of retrieval practice 
+intervention; (b) the comparison conditions; (c) effect sizes; (d) education level (i.e., K-12, 
+undergraduate, or medical school); (e) content area (e.g., science, psychology, history, etc.); (f) 
+specific course topic (e.g., biology); (g) the experimental design; (h) sample size after attrition; 
+(i) whether the experiment was conducted in the United States; (j) the spacing of retrieval 
+practice over time; (k) the delay between the last retrieval practice opportunity and the final test; 
+(l) the format of retrieval practice (e.g., multiple-choice or short answer); (m) the provision of 
+feedback after retrieval practice (e.g., immediate or delayed); (n) the format of the final test; and 
+(o) whether final test performance counted toward students’ grades. When any variables to be 
+coded were ambiguous, two or more of the present authors coded the experiment independently 
+and resolved discrepancies. 
+When coding or calculating effect sizes, we used performance on the final test that 
+occurred in closest proximity to the last instance of retrieval practice to avoid practice effects. 
+For example, in Roediger et al. (2011), middle school students completed retention tests at the 
+end of each chapter and also at the end of the semester; thus effect sizes from Roediger et al. are 
+reported based on chapter test performance only.  
+Results 
+Coding for all experiments is available in the Appendix, as well as on the Open Science 
+Framework (http://osf.io/mz2ks/).  
+Overall Characteristics and Effect Sizes of the Experiments Reviewed 
+Across the 50 experiments coded in the present review, the total sample size was ​n​ = 
+5,374 (sample size not reported for Graham, 1999). Altogether, experiments coded ranged across 
+PREPRINT
+
+===== PDF PAGE 19 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 19 
+a number of factors: 
+● Education levels ranged from elementary school to medical school (e.g., Goossens et al., 
+2016 and Larsen et al., 2013a, respectively) 
+● Sample populations included non-WEIRD countries, such as Pakistan (e.g., Ayyub & 
+Mahboob, 2017), Taiwan (e.g., Tu et al., 2017), and Turkey (e.g., Atabek Yigit et al., 
+2014) 
+● Sample sizes after attrition ranged from fewer than 20 students to nearly 400 students 
+(Jones et al., 2016 and Bjork et al., 2014, respectively) 
+● Delays between retrieval practice and the final test ranged from one day to the end of the 
+semester (e.g., McDaniel et al., 2013 and Tu et al., 2017, respectively) 
+Across the 50 experiments coded, we derived 66 effect sizes (60 Cohen’s ​d​ and 6 partial 
+eta squared). For 16 comparisons, data were insufficiently reported to calculate an effect size. 
+We focus our discussion of effect sizes on Cohen’s ​d​s, and we adopted Cohen’s (1988) 
+categorization of small, medium, and large effect sizes.  
+As displayed in Figure 2, the majority of effect sizes (62%) indicated medium or large 
+benefits from retrieval practice. In other words, 37 out of 60 Cohen’s ​d​s were greater than 0.50. 
+Only one effect size out of 60 revealed a negative effect, or a benefit for the comparison 
+(non-retrieval condition) compared to retrieval practice (​d​ = -0.31; Michaels, 2017). Specifically, 
+21 effect sizes indicated large benefits from retrieval practice (​d​ > 0.80), 16 effect sizes indicated 
+medium benefits (0.50 < ​d​ < 0.80), and 22 effect sizes were small or very small (​d​ < 0.50). 
+ 
+ 
+PREPRINT
+
+===== PDF PAGE 20 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 20 
+Figure 2 
+Distribution of 60 effect sizes (Cohen’s d) across the experiments reviewed 
+ 
+Note​. Large effect sizes were defined as ​d​ > 0.80; medium effects were 0.50 < ​d​ < 0.80; small 
+effects were 0.20 < ​d​ < 0.50; very small effects were 0.00 < ​d​ < 0.20; and negative effects were ​d 
+< 0.00. (Cohen, 1988). See the Appendix for a complete list of effect sizes for each experiment. 
+ 
+Education Level, Content Area, and Comparison Conditions 
+As shown in Table 2 and the Appendix, experiments were evenly distributed across 
+education levels. Of the 50 experiments reviewed, 20 experiments were conducted in K-12 
+PREPRINT
+
+===== PDF PAGE 21 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 21 
+settings (elementary, middle, and high school); 20 experiments were conducted in undergraduate 
+settings (college/university level); and 10 experiments were conducted in medical schools. 
+Regarding content area, most experiments were conducted in science (​k​ = 19) and psychology 
+courses (​k​ = 16), with few experiments conducted in history (​k​ = 5), skills-based learning (​k​ = 5), 
+spelling and vocabulary (​k​ = 4), and statistics (​k​ = 2; one experiment included both science and 
+history). These results indicate that more applied research is needed in non-science areas, 
+particularly in skills-based learning, mathematics, the humanities, and foreign language learning. 
+ 
+Table 2 
+Distribution of experiments (​k​) by education level, content area, comparison conditions, and 
+effect sizes (Cohen’s ​d​) 
+ 
+Medium or 
+large effect 
+sizes 
+Very small 
+or small 
+effect sizes 
+Wider range 
+of effect sizes 
+or not 
+reported 
+Total number 
+of experiments 
+Education level (​k​ = 50)     
+Elementary school 2 2 1 5 
+Middle school 7 0 5 12 
+High school 2 0 1 3 
+Undergraduate 1 10 9 20 
+Medical school 4 2 4 10 
+Content area (​k​ = 51)     
+Science 7 2 10 19 
+Psychology 2 10 4 16 
+History 2 1 2 5 
+PREPRINT
+
+===== PDF PAGE 22 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 22 
+Skills-based (CPR, 
+dental diagnosis, 
+nursing skills) 
+2 1 2 5 
+Spelling and 
+vocabulary 2 1 1 4 
+Mathematics 
+(statistics) 1 0 1 2 
+Type of comparison 
+condition (​k​ = 50)     
+Re-read material 6 4 9 19 
+Lessons without 
+quizzes 4 4 6 14 
+Non-quizzed items 
+on the final test 6 1 5 12 
+Fewer 
+opportunities for 
+retrieval practice 
+0 5 0 5 
+ 
+Note​. The total number of experiments reported under content area is ​k​ = 51 because Karpicke et 
+al. (2014, Experiment 3) included content from both science and history. For type of comparison 
+condition, when an experiment included more than one, the number of experiments per column 
+and row refer to the condition in which time spent with material was similar or equivalent to 
+retrieval practice. Experiments with a wider range of effect sizes (e.g., small and large) were 
+included in the third column. See the Appendix for a complete list of effect sizes for each 
+experiment. 
+ 
+As shown in Figure 3, effect sizes were largest for studies conducted in middle school 
+classrooms. Effect sizes ranged from small to large for medical school, and studies conducted at 
+PREPRINT
+
+===== PDF PAGE 23 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 23 
+the undergraduate level resulted in smaller effect sizes. Note that all of the studies at the middle 
+school level were conducted within the same school district near St. Louis, Missouri, United 
+States (Agarwal, 2019; McDaniel et al., 2011; McDaniel et al., 2013; McDermott et al., 2014; 
+Roediger et al., 2011). Of the eight studies at the medical school level, three were conducted at a 
+medical school in Copenhagen, Denmark (Kromann et al., 2009, 2010, 2011) and three were 
+conducted at a medical school in St. Louis, Missouri (Larsen et al., 2009, 2013a, 2013b). The 
+nine studies at the undergraduate level were mostly conducted at different colleges and 
+universities. 
+In contrast to retrieval practice, the most common comparison conditions were when 
+students re-read material (e.g., studied a review sheet; ​k​ = 19), when the instructor provided 
+lessons without retrieval practice (​k​ = 14), and when lessons included retrieval practice, but 
+comparison performance was measured on non-quizzed items on a final test (​k​ = 12; see Table 
+2). Only five experiments included a comparison condition of fewer opportunities for retrieval 
+practice (e.g., comparing two exams vs. weekly quizzes); experiments using this type of 
+comparison yielded small and very small effect sizes. Considering recent recommendations for 
+educators to provide frequent retrieval practice in their already established lessons and course 
+structure (Agarwal & Bain, 2019), more research needs to examine the extent to which the 
+quantity of retrieval practice modulates benefits on learning compared to infrequent exams. 
+In sum, the majority of experiments revealed medium to large effect sizes, indicating that 
+retrieval practice consistently improves learning in schools and classrooms for a variety of 
+education levels and content areas, under diverse comparison conditions. 
+ 
+PREPRINT
+
+===== PDF PAGE 24 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 24 
+Figure 3 
+Distribution of effect sizes (Cohen’s d) by education level 
+ 
+Note​. Studies with multiple experiments have been collapsed into one row, when applicable. See 
+the Appendix for a complete list of effect sizes for each experiment. 
+PREPRINT
+
+===== PDF PAGE 25 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 25 
+Experimental Design and Sample Size 
+As shown in Table 3, a majority of experiments were conducted within-student (​k​ = 29). 
+Twelve experiments were conducted between-students without random assignment, and nine 
+experiments were conducted between-students with random assignment. Considering the 
+logistical challenges and ethical concerns of random assignment in applied school settings, we 
+were surprised to find that nearly half of the between-subjects experiments included random 
+assignment.  
+ 
+Table 3 
+Distribution of experiments (​k​) by experimental design, sample size, and effect sizes (Cohen’s ​d​) 
+ 
+Medium or 
+large effect 
+sizes 
+Very small 
+or small 
+effect sizes 
+Wider range 
+of effect 
+sizes or not 
+reported 
+Total number 
+of 
+experiments 
+Experimental design (​k​ = 50)     
+Within-student 11 4 14 29 
+Between-students without 
+random assignment 0 7 5 12 
+Between-students with 
+random assignment 5 3 1 9 
+Sample size (​k​ = 49)     
+Fewer than 100 students 14 4 14 32 
+Greater than 100 students 2 9 6 17 
+ 
+Note​. Sample size was not reported by Graham, 1999, thus ​k​ = 49. See the Appendix for a 
+complete list of effect sizes for each experiment. 
+PREPRINT
+
+===== PDF PAGE 26 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 26 
+ 
+Within-student experiments revealed a range of effect sizes, with more medium to large 
+effect sizes than small effect sizes. Between-student experiments with random assignment tended 
+to have larger effect sizes, while experiments without random assignment had smaller effect 
+sizes. These results indicate that, similar to laboratory studies, retrieval practice improves 
+learning in applied settings whether experiments are conducted within-student or 
+between-students, with or without random assignment. 
+Regarding sample size, the majority of experiments were conducted with fewer than 100 
+students (32 out of 50 experiments; see Table 3 and the Appendix). In addition, the average 
+sample size varied by education level: K-12 (​M​ = 57.7), undergraduate (​M​ = 149.3), and medical 
+school (​M​ = 134.8). As shown in Figure 3, experiments conducted at the undergraduate level 
+tended to have the smallest effect sizes, but the largest sample sizes. It is possible, however, that 
+retrieval practice may simply be more beneficial for middle school and medical school students, 
+compared to undergraduate students, which we consider further in the General Discussion. 
+In terms of student demographics, only 10 out of 50 experiments drew samples from 
+schools outside the United States, representing 23% of the total sample size (​n​ = 1,243 out of ​n​ = 
+5,374). Out of these 10 experiments, three were conducted in Denmark, three were conducted in 
+the Netherlands, one was conducted in Sweden, one was conducted in Turkey, one was 
+conducted in Pakistan, and one was conducted in Taiwan. In other words, only two out of 50 
+experiments were conducted outside the United States and Europe. This result is consistent with 
+recent research indicating that the majority of published studies in psychology are conducted in 
+WEIRD countries (western, educated, industrialized, rich, democratic countries; Rad, 
+PREPRINT
+
+===== PDF PAGE 27 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 27 
+Martingano, & Ginges, 2018). To foreshadow our General Discussion, more research on retrieval 
+practice in applied settings is needed with diverse student populations from non-WEIRD 
+countries if we are to provide practical recommendations for educators and students globally. 
+Additional research with larger and more diverse sample sizes would further our 
+understanding of the benefits of retrieval practice in educational settings. In addition, measures 
+of individual differences could be included to examine whether there are optimal conditions for 
+retrieval practice depending on, for example, working memory, prior knowledge, intelligence, 
+and mind wandering (Agarwal, Finley, Rose, & Roediger, 2017; Francis, Wieth, Zabel, & Carr, 
+2020; Minear, Coane, Boland, Cooney, and Albat, 2018;  Pachai, Acai, LoGiudice, & Kim, 
+2016). 
+Spacing of Retrieval Practice and Delay Before the Final Test  
+As shown in Table 4, the spacing of retrieval practice was typically at least once per 
+week (​k​ = 19) or every 2-3 weeks (​k​ = 15). In a few experiments (​k​ = 6), retrieval practice was 
+provided multiple times throughout the semester, but specific timing was not reported. In the 
+remaining experiments, retrieval practice was provided within a single session (​k​ = 10). Across 
+the spacing conditions, effect sizes were evenly distributed. In the Appendix, we coded for 
+frequency (dosage) of retrieval practice, although reporting was inconsistent and varied widely. 
+Because effect sizes were positive across a range of spacing conditions, we recommend 
+educators provide students with opportunities for retrieval practice, regardless of the precise 
+spacing or timing. 
+ 
+  
+PREPRINT
+
+===== PDF PAGE 28 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 28 
+Table 4 
+Distribution of experiments (​k​) by initial spacing of retrieval practice, final test delay, and effect 
+sizes (Cohen’s ​d​) 
+ 
+ 
+Medium or 
+large effect 
+sizes 
+Very small 
+or small 
+effect sizes 
+Wider 
+range of 
+effect sizes 
+or not 
+reported 
+Total 
+number of 
+experiments 
+Spacing of retrieval practice (​k​ = 50)     
+Single session 4 2 4 10 
+At least once per week 8 6 9 19 
+At least once every 2-3 
+weeks 4 4 3 15 
+Multiple times throughout 
+the semester (duration not 
+specified) 
+0 2 4 6 
+Delay between retrieval practice and 
+final test (​k​ = 50)     
+Immediate 0 1 3 4 
+1-3 day delay 9 2 9 20 
+1-2 week delay 5 2 0 7 
+Multiple exams throughout 
+the semester (timing not 
+specified) 
+0 2 3 5 
+One exam at the end of the 
+semester or course (6-15 
+week delay) 
+2 7 5 14 
+ 
+Note​. See the Appendix for a complete list of effect sizes for each experiment. 
+PREPRINT
+
+===== PDF PAGE 29 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 29 
+The most common delay between the last opportunity for retrieval practice and the final 
+test was a 1-3 day delay (​k​ = 20; see Table 4). The next most frequent delay was when a final 
+exam occurred at the end of the semester or conclusion of the course, after approximately 6-15 
+weeks, although a specific delay was not reported (​k​ = 14). Effect sizes were large following the 
+1-3 day delay, but smaller following the end-of-semester delay. Shorter delays may have resulted 
+in larger effect sizes due to less forgetting over time. For both theoretical and practical 
+considerations, we encourage future applied investigations with longer delays between retrieval 
+practice and final tests, as research consistently demonstrates that benefits may increase over 
+time (Carpenter & Agarwal, 2020; Roediger & Karpicke, 2006a). 
+Retrieval Practice Format and Final Test Format  
+As shown in Table 5, the most common formats for retrieval practice were 
+multiple-choice (​k​ = 27) and short answer (​k​ = 17). Similarly, the majority of final test formats 
+were multiple-choice (​k​ = 31) and short answer (​k​ = 15). As displayed in Figure 4, effect sizes 
+were larger when retrieval practice and final test formats matched (multiple-choice or short 
+answer). When an experiment included multiple formats (e.g., multiple-choice retrieval practice 
+followed by a short answer final test; ​k​ = 11), effect sizes were smaller. The transfer appropriate 
+processing framework may account for these findings, where a match between initial and final 
+processing typically promotes learning (Morris, Bransford, & Franks, 1977). As such, we 
+recommend both multiple-choice and short answer formats for retrieval practice, and a match 
+with final test format may be optimal for promoting student learning. 
+ 
+ 
+PREPRINT
+
+===== PDF PAGE 30 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 30 
+Table 5 
+Distribution of experiments (​k​) by retrieval practice format, final test format, and effect sizes 
+(Cohen’s ​d​) 
+ 
+ 
+Medium or 
+large effect 
+sizes 
+Very small 
+or small 
+effect sizes 
+Wider range 
+of effect 
+sizes or not 
+reported 
+Total 
+number of 
+experiments 
+Retrieval practice format (​k​ = 62)     
+Multiple-choice 8 9 10 27 
+Short answer 5 7 5 17 
+Free recall 2 1 3 6 
+Cued recall, 
+fill-in-the-blank, or 
+matching 
+0 2 4 6 
+Simulated diagnoses 2 1 2 5 
+Retrieval format not 
+reported 0 0 1 1 
+Final test format (​k​ = 64)     
+Multiple-choice 8 10 13 31 
+Short answer 5 5 5 15 
+Free recall or essay 2 2 5 9 
+Cued recall, 
+fill-in-the-blank, or 
+matching 
+0 2 2 4 
+Simulated diagnoses 2 1 2 5 
+Final test questions (​k​ = 50)     
+Rephrased 4 7 11 22 
+PREPRINT
+
+===== PDF PAGE 31 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 31 
+Verbatim 12 7 9 28 
+Final test scores counted toward 
+students’ grades (​k​ = 50)     
+Yes 10 10 13 33 
+No 5 4 6 15 
+Not reported or 
+unavailable 1 0 1 2 
+ 
+Note​. The total number of experiments reported for retrieval practice format and final test format 
+is greater than ​k​ = 50 because some experiments included multiple formats. See the Appendix for 
+a complete list of effect sizes for each experiment. 
+ 
+  
+PREPRINT
+
+===== PDF PAGE 32 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 32 
+Figure 4 
+Distribution of effect sizes (Cohen’s d) by retrieval practice and final test formats 
+ 
+Note​. Studies with multiple experiments have been collapsed into one row, when applicable. See 
+the Appendix for a complete list of effect sizes for each experiment. 
+ 
+PREPRINT
+
+===== PDF PAGE 33 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 33 
+When students engage in retrieval practice, a common concern is that they are simply 
+learning the test questions and answers (i.e., a practice effect). Thus, we investigated whether 
+questions during retrieval practice were typically rephrased or verbatim on the final test. For 
+nearly half of the experiments reviewed, questions were rephrased (​k​ = 22), which was most 
+common at the undergraduate and medical school levels. Effect sizes were generally smaller for 
+experiments with rephrased questions compared to experiments with verbatim questions (Table 
+5). Because transfer of knowledge following retrieval practice remains a challenge in the 
+classroom and in the literature (Agarwal, 2019; Butler, 2010; Pan & Rickard, 2018), we 
+encourage more research on retrieval practice and transfer specifically in applied settings. 
+Transfer is, after all, a “holy grail” of education (Pan & Agarwal, 2020). 
+The majority of experiments included final test performance as part of students’ grades (​k 
+= 33; Table 5). Effect sizes ranged from small to large regardless of whether test scores were 
+included as part of students’ grades, indicating that retrieval practice improved student learning 
+under typical motivational factors in classroom settings, supporting prior laboratory research 
+(Kang & Pashler, 2014). 
+Feedback Provision and Timing 
+As shown in Table 6, the majority of experiments provided immediate feedback (​k​ = 34). 
+Ten experiments did not include feedback and only four experiments included delayed feedback. 
+In Figure 5, effect sizes for immediate feedback are evenly distributed across small, medium, and 
+large effects. Only one study with delayed feedback had Cohen’s ​d​s available (Bjork et al., 
+2014), which demonstrated medium to large effects. Studies without feedback resulted in mostly 
+small or very small effects on learning.  
+PREPRINT
+
+===== PDF PAGE 34 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 34 
+Table 6 
+Distribution of experiments (​k​) by feedback conditions and effect sizes (Cohen’s ​d​) 
+ 
+ 
+Medium or 
+large effect 
+sizes 
+Very small 
+or small 
+effect sizes 
+Wider range 
+of effect 
+sizes or not 
+reported 
+Total 
+number of 
+experiments 
+Feedback after retrieval practice 
+(​k​ = 50)     
+Immediate 13 7 14 34 
+Delayed 1 0 3 4 
+None 1 6 3 10 
+Not reported or 
+unavailable 1 1 0 2 
+ 
+Note​. See the Appendix for a complete list of effect sizes for each experiment. 
+ 
+Due to limited reporting in the studies reviewed, we were unable to code for the precise 
+spacing of feedback; for example, whether feedback was administered after each initial question, 
+at the end of the quiz, or at the end of the class session. We were also unable to code for the type 
+of feedback (e.g., correct answer, elaborative, etc.) due to lack of reporting. Considering that the 
+benefits of immediate vs. delayed feedback remain unclear (Agarwal, Bain, & Chamberlain, 
+2012; Kulik & Kulik, 1988; Metcalfe, Kornell, & Finn, 2009; Mullet, Butler, Verdin, von 
+Borries, & Marsh, 2014), and also considering the findings of the present review, we cannot yet 
+provide a strong recommendation regarding the optimal timing of feedback in school and 
+PREPRINT
+
+===== PDF PAGE 35 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 35 
+classroom settings.  
+More applied research on delayed feedback is needed, but delayed feedback can also 
+present logistical challenges in classroom settings. Online classes, on the other hand, present an 
+opportunity to examine delayed feedback with potentially fewer logistical challenges (Butler, 
+Marsh, Slavinsky, & Baraniuk, 2014). A literature review of retrieval practice interventions in 
+online classes could shed light on the optimal type and timing of feedback. 
+ 
+ 
+  
+PREPRINT
+
+===== PDF PAGE 36 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 36 
+Figure 5 
+Distribution of effect sizes (Cohen’s d) by type of feedback following retrieval practice 
+ 
+Note​. Studies with multiple experiments have been collapsed into one row, when applicable. See 
+the Appendix for a complete list of effect sizes for each experiment. 
+PREPRINT
+
+===== PDF PAGE 37 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 37 
+General Discussion 
+Does retrieval practice improve student learning in school and classroom settings? Based 
+on our literature review, our response for researchers and educators is an unequivocal “yes.” We 
+found a wealth of evidence, based on medium to large effect sizes, that retrieval practice 
+improved learning for a variety of education levels, content areas, experimental designs, spacing 
+of retrieval practice, final test delays, retrieval and final test formats, and the timing of feedback. 
+Our first aim for the present literature review was to compare “apples to apples.” In other 
+words, we focused our review on research on retrieval practice conducted specifically in school 
+and classroom settings. After screening nearly 2,000 abstracts, we narrowed our literature review 
+to 37 studies with 50 experiments and 60 total effect sizes, for an ​n​ = 5,374. The majority of 
+effect sizes (62%) from studies reviewed were medium or large (Cohen’s ​d​; Figure 2). 
+Our literature review is subject to publication bias, when studies with positive outcomes 
+tend to be published to a greater extent than studies with negative outcomes (Augusteijn, van 
+Aert, & van Assen, 2019; Simmons, Nelson, & Simonsohn, 2011). Notably, our search of the 
+literature did not return any studies published before 1999. In addition, our review was 
+conducted in January 2018. A few studies have been published more recently that fit within our 
+screening criteria (e.g., Gurung et al., 2019). While these limitations have some impact on the 
+results reported, we are confident that the present literature review of retrieval practice in 
+classroom settings is the most comprehensive to date (all data are available at 
+http://osf.io/mz2ks). 
+Future Directions for Applied Research on Retrieval Practice 
+Our second aim was to inform future research examining retrieval practice in applied 
+PREPRINT
+
+===== PDF PAGE 38 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 38 
+settings. Following our review of the literature, we provide eight recommendations. First, the 
+field needs more applied research investigating varying delays between retrieval practice and the 
+final test. We found larger effect sizes at shorter delays (1-3 days), but often in laboratory 
+studies, benefits from retrieval practice increase following longer delays (Carpenter & Agarwal, 
+2020).  
+Second, classroom research specifically investigating the provision and timing of 
+feedback is needed. Although feedback is a key component of educational settings, studies that 
+examined feedback were notably  absent from our literature search results. It is of both 
+theoretical and practical importance to fully understand whether immediate or delayed feedback 
+following retrieval practice produces the largest benefits for student learning.  
+Third, comparison conditions for future applied research on retrieval practice should 
+more closely mirror common classroom practices. We found that many studies in our literature 
+review compared retrieval practice to re-reading. It has been well-established in both laboratory 
+and applied research (including research in the current review) that retrieval practice 
+significantly increases student learning when compared to re-read exposure controls (e.g., 
+Atabek Yigit et al., 2014; Dunlosky et al., 2013; McDermott et al., 2014; Roediger & Karpicke, 
+2006a). More stringent and realistic comparisons to retrieval practice in classroom settings 
+include traditional lectures, flipped classroom activities, think-pair-share discussions, and student 
+presentations (DeLozier & Rhodes, 2017). 
+Fourth, future research should also examine factors unique to applied settings including 
+class size (e.g., lecture classes vs. small classes), whether retrieval practice was anticipated (e.g., 
+“pop quiz” vs. announced in advance), whether the final test was cumulative, and whether 
+PREPRINT
+
+===== PDF PAGE 39 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 39 
+performance on initial retrieval practice counted towards students’ grades. We coded whether 
+final test performance counted toward students’ grades, but information regarding grading 
+procedures for initial retrieval practice was not reported in most studies. 
+Fifth, additional research is needed in non-science content areas, such as skills-based 
+learning, mathematics, the humanities (writing, literature, essays), and foreign language 
+vocabulary. Thirty-five out of the 50 experiments reviewed were conducted in science or 
+psychology courses. We were particularly surprised that none of the experiments meeting our 
+screening criteria included foreign language learning, considering the frequent use of these 
+materials in laboratory experiments (Dunlosky et al., 2013).  
+Sixth, applied research in education should also take into account the role of the 
+teacher-researcher as a modulating factor for student learning outcomes, also known as the 
+Hawthorne Effect or “participant reactivity” (Diaper, 1990; Paradis & Sutkin, 2017). This 
+information was inconsistently reported in the studies reviewed, unfortunately. When reported, 
+we found that instructors at the undergraduate level tended to also be the researchers (e.g., 
+Batsell et al., 2017; Leeming, 2002; Lyle & Crawford, 2011; Saville et al., 2012), whereas 
+instructors at the K-12 level were not the researchers (e.g., Agarwal, 2019; Karpicke et al., 2014; 
+McDaniel et al., 2011, 2013; McDermott et al., 2014; Roediger et al., 2011). As such, the role of 
+the teacher-researcher may have contributed to smaller effect sizes in undergraduate classrooms 
+(Figure 3). Another possibility for smaller effect sizes at the undergraduate level may be due to 
+larger sample sizes or the more frequent use of rephrased questions on final tests. Follow up 
+studies specifically comparing K-12, undergraduate, and medical school students could shed 
+light on whether benefits from retrieval practice are modulated by age in applied settings. 
+PREPRINT
+
+===== PDF PAGE 40 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 40 
+Seventh, collaborative retrieval and online quizzes are common in educational settings 
+and it would be beneficial to know when and how they increase student learning. While 
+conducting our literature search, we found numerous educational studies conducted under online 
+or collaborative conditions. While these studies were outside the scope of our review, they can 
+add to our understanding of retrieval practice in real world settings. With online learning, for 
+example, instructors have more control and flexibility over the provision, timing, and frequency 
+of retrieval practice and feedback (Butler, Marsh, Slavinsky, & Baraniuk, 2014). With 
+collaborative retrieval, a literature review could highlight optimal collaborative groups for a 
+range of ages, content areas, and metacognitive skills (de Carvalho Filho, 2010). 
+Lastly, applied research on retrieval practice must be conducted with diverse student 
+populations. Only 10 out of 50 experiments that met our screening criteria were conducted 
+outside the United States. In other words, the majority of classroom research on retrieval practice 
+has been conducted in WEIRD countries (western, educated, industrialized, rich, democratic 
+countries; Henrich, Heine, & Norenzayan, 2010). Specifically, 80% of experiments reviewed 
+were conducted in WEIRD countries, whereas only 12% of the global population are from 
+WEIRD countries (Bauer, 2019; Rad, Martingano, & Ginges, 2018).  
+If researchers are to provide practical recommendations for educators regarding retrieval 
+practice, then student demographics must be taken into account when conducting future research 
+(Ekuni, de Souza, Agarwal, & Pompeia, in press). Educators are eager to know whether retrieval 
+practice would be beneficial for their specific student population, and also whether these benefits 
+generalize to all classrooms. At a minimum, we urge researchers to report key demographics, 
+including age, gender, country of origin, and the type of school (e.g., public, private, rural, urban, 
+PREPRINT
+
+===== PDF PAGE 41 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 41 
+etc.). 
+Recommendations for Classroom Implementation of Retrieval Practice 
+Our third and final aim of the literature review was to identify practical recommendations 
+for educators as they implement retrieval practice in their classrooms. We had anticipated an 
+emergence of optimal conditions for retrieval practice: content areas, formats, frequency, and so 
+on. However, we did not find any singular or specifically optimal conditions; instead, we found 
+that nearly all conditions in schools and classrooms yielded a benefit from retrieval practice. 
+We conclude that educators should implement retrieval practice, with less concern about 
+the precise format, frequency, or spacing of retrieval interventions. Almost all effect sizes (59 
+out of 60 Cohen’s ​d​) indicated a positive benefit from retrieval practice under wide-ranging 
+conditions, and retrieval practice improved student learning to a greater extent than time spent on 
+other classroom activities (reviewing material, lectures without quizzes, etc.). By implementing 
+retrieval practice in schools and classrooms, scientists and educators can bridge the gap between 
+research and practice, and most importantly, transform students’ long-term learning. 
+ 
+ 
+  
+PREPRINT
+
+===== PDF PAGE 42 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 42 
+References 
+*References with an asterisk indicate studies included in the review. 
+ 
+Adesope, O. O., Trevisan, D. A., & Sundararajan, N. (2017). Rethinking the use of tests: A 
+meta-analysis of practice testing. ​Review of Educational Research​, ​87​, 659-701. 
+*Agarwal, P. K. (2019). Retrieval practice and Bloom’s taxonomy: Do students need fact 
+knowledge before higher order learning? ​Journal of Educational Psychology​, ​111​, 
+189-209. 
+Agarwal, P. K., & Bain, P. M. (2019). ​Powerful teaching: Unleash the science of learning. ​San 
+Francisco, CA: Jossey-Bass. 
+Agarwal, P. K., Bain, P. M., & Chamberlain, R. W. (2012). The value of applied research: 
+Retrieval practice improves classroom learning and recommendations from a teacher, a 
+principal, and a scientist. ​Educational Psychology Review​, ​24​, 437-448. 
+Agarwal, P. K., D’Antonio, L., Roediger, H. L., McDermott, K. B., & McDaniel, M. A. (2014). 
+Classroom-based programs of retrieval practice reduce middle school and high school 
+students’ test anxiety. ​Journal of Applied Research in Memory and Cognition​, ​3​, 
+131-139. 
+Agarwal, P. K., Finley, J. R., Rose, N. S., & Roediger, H. L. (2017). Benefits from retrieval 
+practice are greater for students with lower working memory capacity. ​Memory​, ​25​, 
+764-771. 
+Allen, I. E., Seaman, J., Poulin, R., & Straut, T. T. (2016). ​Online report card: Tracking online 
+education in the United States​. Babson Survey Research Group. 
+PREPRINT
+
+===== PDF PAGE 43 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 43 
+https://files.eric.ed.gov/fulltext/ED572777.pdf 
+Anderson, C. A., Lindsay, J. J., & Bushman, B. J. (1999). Research in the psychological 
+laboratory: Truth or triviality? ​Current Directions in Psychological Science​, ​8​, 3-9. 
+*Atabek Yigit, E., Balkan Kiyici, F., & Çetinkaya, G. (2014). Evaluating the testing effect in the 
+classroom: An effective way to retrieve learned information. ​Eurasian Journal of 
+Educational Research​, ​54​, 99-116. 
+Augusteijn, H. E., van Aert, R., & van Assen, M. A. (2019). The effect of publication bias on the 
+Q test and assessment of heterogeneity. ​Psychological Methods​, ​24​, 116-134. 
+*Ayyub, A., & Mahboob, U. (2017). Effectiveness of test-enhanced learning (TEL) in lectures 
+for undergraduate medical students. ​Pakistan Journal of Medical Sciences​, ​33​, 1339. 
+*Batsell, W. R., Perry, J. L., Hanley, E., & Hostetter, A. B. (2017). Ecological validity of the 
+testing effect: The use of daily quizzes in introductory psychology. ​Teaching of 
+Psychology​, ​44​, 18-23. 
+Bauer, P. J. (2020). Expanding the reach of Psychological Science [Editorial]. ​Psychological 
+Science​, ​31​, 3-5. 
+Becker-Blease, K. A., & Bostwick, K. C. P. (2016). Adaptive quizzing in introductory 
+psychology: Evidence of limited effectiveness. ​Scholarship of Teaching and Learning in 
+Psychology, 2​, 75–86. 
+*Bekkink, M. O., Donders, R., van Muijen, G. N., & Ruiter, D. J. (2012). Challenging medical 
+students with an interim assessment: A positive effect on formal examination score in a 
+randomized controlled study. ​Advances in Health Sciences Education​, ​17​, 27-37. 
+*Bjork, E. L., Little, J. L., & Storm, B. C. (2014). Multiple-choice testing as a desirable 
+PREPRINT
+
+===== PDF PAGE 44 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 44 
+difficulty in the classroom. ​Journal of Applied Research in Memory and Cognition​, ​3​, 
+165-170. 
+Brame, C. J., & Biel, R. (2015). Test-enhanced learning: The potential for testing to promote 
+greater learning in undergraduate science courses. ​CBE–Life Sciences Education​, ​14​, 
+1-12. 
+Brown, P. C., Roediger, H. L., & McDaniel, M. A. (2014). ​Make it stick: The science of 
+successful learning.​ Cambridge, MA: Harvard University Press. 
+Burdo, J., & O’Dwyer, L. (2015). The effectiveness of concept mapping and retrieval practice as 
+learning strategies in an undergraduate physiology course. ​Advances in Physiology 
+Education​, ​39​, 335-340. 
+Butler, A. C. (2010). Repeated testing produces superior transfer of learning relative to repeated 
+studying. ​Journal of Experimental Psychology: Learning, Memory, and Cognition​, ​36​, 
+1118–1133. 
+Butler, A. C., & Carpenter, S. K. (2015). Separating myth from reality in education: Introduction 
+to the special issue. ​Educational Psychology Review​, ​27​, 563-565. 
+Butler, A. C., Marsh, E. J., Slavinsky, J. P., & Baraniuk, R. G. (2014). Integrating cognitive 
+science and technology improves learning in a STEM classroom. ​Educational 
+Psychology Review​, ​26​, 331-340. 
+Carpenter, S. K., & Agarwal, P. K. (2020). ​How to use spaced retrieval practice to boost 
+learning​. http://www.retrievalpractice.org 
+Carpenter, S. K., Pashler, H., & Cepeda, N. J. (2009). Using tests to enhance 8​th​ grade students’ 
+retention of U.S. history facts. ​Applied Cognitive Psychology​, ​23​, 760-771. 
+PREPRINT
+
+===== PDF PAGE 45 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 45 
+Carpenter, S. K., Lund, T. J. S., Coffman, C. R., Armstrong, P. I., Lamm, M. H., & Reason, R. 
+D. (2016). A classroom study on the relationship between student achievement and 
+retrieval-enhanced learning. ​Educational Psychology Review​, ​28​, 353-375. 
+Carter, E. C., Schönbrodt, F. D., Gervais, W. M., & Hilgard, J. (2019). Correcting for bias in 
+psychology: A comparison of meta-analytic methods. ​Advances in Methods and 
+Practices in Psychological Science​, ​2​, 115-144. 
+Cohen, J. (1988). ​Statistical power analysis for the behavioral sciences​ (2​nd​ ed.). Hillsdale, NJ: 
+Lawrence Earlbaum Associates. 
+Coyne, J. H., Borg, J. M., DeLuca, J., Glass, L., & Sumowski, J. F. (2015). Retrieval practice as 
+an effective memory strategy in children and adolescents with traumatic brain injury. 
+Archives of Physical Medicine and Rehabilitation​, ​96​, 742-745. 
+Cranney, J., Ahn, M., McKinnon, R., Morris, S., & Watts, K. (2009). The testing effect, 
+collaborative learning, and retrieval-induced facilitation in a classroom setting. ​European 
+Journal of Cognitive Psychology​, ​21​, 919-940. 
+Daniel, D. B., & Broida, J. (2004). Using web-based quizzing to improve exam performance: 
+Lessons learned. Teaching of Psychology, 31, 207-208. 
+de Carvalho Filho, M. K. (2010). Assessing changes in performance and monitoring processes in 
+individual and collaborative tests according to students’ metacognitive skills. ​European 
+Journal of Cognitive Psychology​, ​22​, 1107-1136. 
+DeLozier, S. J., & Rhodes, M. G. (2017). Flipped classrooms: A review of key ideas and 
+recommendations for practice. ​Educational Psychology Review​, ​29​, 141-151. 
+Diaper, G. (1990). The Hawthorne effect: A fresh examination. ​Educational Studies​, ​16​, 
+PREPRINT
+
+===== PDF PAGE 46 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 46 
+261-267. 
+*Dirkx, K. J., Kester, L., & Kirschner, P. A. (2014). The testing effect for learning principles and 
+procedures from texts. ​The Journal of Educational Research​, ​107​, 357-364. 
+*Dobson, J. L., & Linderholm, T. (2015a). The effect of selected “desirable difficulties” on the 
+ability to recall anatomy information. ​Anatomical Sciences Education​, ​8​, 395-403. 
+*Dobson, J. L., & Linderholm, T. (2015b). Self-testing promotes superior retention of anatomy 
+and physiology information. ​Advances in Health Sciences Education​, ​20​, 149-161. 
+*Dobson, J. L., Perez, J., & Linderholm, T. (2017). Distributed retrieval practice promotes 
+superior recall of anatomy information. ​Anatomical Sciences Education​, ​10​, 339-347. 
+Duchastel, P. C. (1979). Retention of prose materials: The effect of testing. ​The Journal of 
+Education Research​, ​72​, 299-300. 
+Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). 
+Improving students’ learning with effective learning techniques: Promising directions 
+from cognitive and educational psychology. ​Psychological Science in the Public Interest​, 
+14​, 4-58. 
+Dunlosky, J., & Rawson, K. A. (Eds.) (2019). ​The Cambridge Handbook of Cognition and 
+Education​. Cambridge University Press. 
+Eisenkraemer, R. E., Jaeger, A., & Stein, L. M. (2013). A systematic review of the testing effect 
+in learning. ​Paidéia​, ​23​, 397-406. 
+Ekuni, R., de Souza, B. M. N., Agarwal, P. K., &  Pompeia, S. (in press). A conceptual 
+replication of survey research on study strategies in a diverse, non-WEIRD student 
+population. ​Scholarship of Teaching and Learning in Psychology​.  
+PREPRINT
+
+===== PDF PAGE 47 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 47 
+Fazio, L. K., & Marsh, E. J. (2019). Retrieval-based learning in children. ​Current Directions in 
+Psychological Science​, ​28​, 111-116. 
+Francis, A. P., Wieth, M. B., Zabel, K. L., & Carr, T. H. (2020). A classroom study on the role of 
+prior knowledge and retrieval tool in the testing effect. ​Psychology Learning & Teaching​. 
+Advance online publication. doi:10.1177/1475725720924872 
+*Foss, D. J., & Pirozzolo, J. W. (2017). Four semesters investigating frequency of testing, the 
+testing effect, and transfer of training. ​Journal of Educational Psychology​, ​109​, 1067. 
+*Freda, N. M., & Lipp, M. J. (2016). Test-enhanced learning in competence-based predoctoral 
+orthodontics: a four-year study. ​Journal of Dental Education​, ​80​, 348-354. 
+*Goossens, N. A., Camp, G., Verkoeijen, P. P., Tabbers, H. K., Bouwmeester, S., & Zwaan, R. 
+A. (2016). Distributed practice and retrieval practice in primary school vocabulary 
+learning: A multi-classroom study. ​Applied Cognitive Psychology​, ​30​, 700-712. 
+*Graham, R. B. (1999). Unannounced quizzes raise test scores selectively for mid-range 
+students. ​Teaching of Psychology​, ​26​, 271-273. 
+Hartwig, M. K., & Dunlosky, J. (2012). Study strategies of college students: Are self-testing and 
+scheduling related to achievement? ​Psychonomic Bulletin & Review​, ​19​, 126-134. 
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? 
+Behavioral and Brain Sciences​, ​33​, 1-75. 
+Jaeger, A., Eisenkraemer, R. E., & Stein, L. M. (2015). Test-enhanced learning in third-grade 
+children. ​Educational Psychology​, ​35​, 513-521. 
+*Jones, A. C., Wardlow, L., Pan, S. C., Zepeda, C., Heyman, G. D., Dunlosky, J., & Rickard, T. 
+C. (2016). Beyond the rainbow: Retrieval practice leads to better spelling than does 
+PREPRINT
+
+===== PDF PAGE 48 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 48 
+rainbow writing. ​Educational Psychology Review​, ​28​, 385-400. 
+Kang, S. H. K., & Pashler, H. (2014). Is the benefit of retrieval practice modulated by 
+motivation? ​Journal of Applied Research in Memory and Cognition​, ​3​, 183-188. 
+Karpicke, J. D. (2012). Retrieval-based learning: Active retrieval promotes meaningful learning. 
+Current Directions in Psychological Science​, ​21​, 157-163. 
+Karpicke, J. D., Blunt, J. R., & Smith, M. A. (2016). Retrieval-based learning: Positive effects of 
+retrieval practice in elementary school children. ​Frontiers in Psychology​, ​7​, 1-9. 
+*Karpicke, J. D., Blunt, J. R., Smith, M. A., & Karpicke, S. S. (2014). Retrieval-based learning: 
+The need for guided retrieval in elementary school children. ​Journal of Applied Research 
+in Memory and Cognition​, ​3​, 198-206. 
+Karpicke, J. D., Butler, A. C., & Roediger, H. L. (2009). Metacognitive strategies in student 
+learning: Do students practice retrieval when they study on their own? ​Memory​, ​17​, 
+471-479. 
+Karpicke, J. D., & Grimaldi, P. J. (2012). Retrieval-based learning: A perspective for enhancing 
+meaningful learning. ​Educational Psychology Review​, ​24​, 401-418. 
+*Khanna, M. M. (2015). Ungraded pop quizzes: Test-enhanced learning without all the anxiety. 
+Teaching of Psychology​, ​42​, 174-178. 
+*Khanna, M. M., & Cortese, M. J. (2016). The benefits of quizzing in content-focused versus 
+skills-focused courses. ​Scholarship of Teaching and Learning in Psychology​, ​2​, 87. 
+Kibble, J. (2007). Use of unsupervised online quizzes as formative assessment in a medical 
+physiology course: effects of incentives on student participation and performance. 
+Advances in Physiology Education​, ​31​, 253-260. 
+PREPRINT
+
+===== PDF PAGE 49 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 49 
+Kornell, N., Rabelo, V. C., and Klein, P. C. (2012). Tests enhance learning – Compared to what? 
+Journal of Applied Research in Memory & Cognition​, ​1​, 257–259. 
+*Kromann, C. B., Jensen, M. L., & Ringsted, C. (2009). The effect of testing on skills learning. 
+Medical Education​, ​43​, 21-27. 
+*Kromann, C. B., Bohnstedt, C., Jensen, M. L., & Ringsted, C. (2010). The testing effect on 
+skills learning might last 6 months. ​Advances in Health Sciences Education​, ​15​, 395-401. 
+*Kromann, C. B., Jensen, M. L., & Ringsted, C. (2011). Test-enhanced learning may be a 
+gender-related phenomenon explained by changes in cortisol level. ​Medical Education​, 
+45​, 192-199. 
+Kulik, J. A., & Kulik, C. C. (1988). Timing of feedback and verbal learning. ​Review of 
+Educational Research​, ​58​, 79-97. 
+*Larsen, D. P., Butler, A. C., & Roediger, H. L. (2009). Repeated testing improves long-term 
+retention relative to repeated study: a randomised controlled trial. ​Medical Education​, ​43​, 
+1174-1181. 
+*Larsen, D. P., Butler, A. C., & Roediger, H. L. (2013a). Comparative effects of test-enhanced 
+learning and self-explanation on long-term retention. ​Medical Education​, ​47​, 674-682. 
+*Larsen, D. P., Butler, A. C., Lawson, A. L., & Roediger, H. L. (2013b). The importance of 
+seeing the patient: Test-enhanced learning with standardized patients and written tests 
+improves clinical application of knowledge. ​Advances in Health Sciences Education​, ​18​, 
+409-425. 
+*Leeming, F. C. (2002). The exam-a-day procedure improves performance in psychology 
+classes. ​Teaching of Psychology​, ​29​, 210-212. 
+PREPRINT
+
+===== PDF PAGE 50 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 50 
+Lipko-Speed, A., Dunlosky, J., and Rawson, K. A. (2014). Does testing with feedback help 
+grade-school children learn key concepts in science? ​Journal of Applied Research in 
+Memory & Cognition​, ​3​, 171–176. 
+*Lyle, K. B., & Crawford, N. A. (2011). Retrieving essential material at the end of lectures 
+improves performance on statistics exams. ​Teaching of Psychology​, ​38​, 94-97. 
+*McDaniel, M. A., Agarwal, P. K., Huelser, B. J., McDermott, K. B., & Roediger, H. L. (2011). 
+Test-enhanced learning in a middle school science classroom: The effects of quiz 
+frequency and placement. ​Journal of Educational Psychology​, ​103​, 399. 
+*McDaniel, M. A., Thomas, R. C., Agarwal, P. K., McDermott, K. B., & Roediger, H. L. (2013). 
+Quizzing in middle-school science: Successful transfer performance on classroom exams. 
+Applied Cognitive Psychology​, ​27​, 360-372. 
+*McDermott, K. B., Agarwal, P. K., D'Antonio, L., Roediger, H. L., & McDaniel, M. A. (2014). 
+Both multiple-choice and short-answer quizzes enhance later exam performance in 
+middle and high school classes. ​Journal of Experimental Psychology: Applied​, ​20​, 3-21. 
+McLaughlin, K., & Coderre, S. (2015). The potential and conditional benefits of retrieval 
+practice on learning. ​Advances in Health Science Education​, ​20​, 321-324. 
+McShane, B. B., & Böckenholdt, U. (2020). Enriching meta-analytic models of summary data: A 
+thought experiment and case study. ​Advances in Methods and Practices in Psychological 
+Science​, ​3​, 81-93. 
+Metcalfe, J., Kornell, N., & Finn, B. (2009). Delayed versus immediate feedback in children’s 
+and adults’ vocabulary learning. ​Memory & Cognition​, ​37​, 1077-1087. 
+*Michaels, J. L. (2017). Quizzes benefit freshman and sophomore students more than junior and 
+PREPRINT
+
+===== PDF PAGE 51 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 51 
+senior students in introductory psychology classes with noncumulative exams. 
+Scholarship of Teaching and Learning in Psychology​, ​3​, 272-283. 
+Minear, M., Coane, J. H., Boland, S. C., Cooney, L. H., & Albat, M. (2018). The benefits of 
+retrieval practice depend on item difficulty and intelligence. ​Journal of Experimental 
+Psychology: Learning, Memory, and Cognition​, ​44​, 1474-1486. 
+Moreira, B. F. T., Pinto, T. S. S., Starling, D. S. V., & Jaeger, A. (2019). Retrieval practice in 
+classroom settings: A review of applied research. ​Frontiers in Psychology​, ​4​, 1-16. 
+Morris, C. D., Bransford, J. D., & Franks, J. J. (1977). Levels of processing versus 
+transfer-appropriate processing. ​Journal of Verbal Learning and Verbal Behavior​, ​16​, 
+519-533. 
+Mullet, H. G., Butler, A. C., Verdin, B., von Borries, R., & Marsh, E. J. (2014). Delaying 
+feedback promotes transfer of knowledge despite student preferences to receive feedback 
+immediately. ​Journal of Applied Research in Memory and Cognition​, ​3​, 222-229. 
+Myers, G. C. (1914). Recall in relation to retention. ​Journal of Educational Psychology​, ​5​, 
+119-130. 
+*Narloch, R., Garbin, C. P., & Turnage, K. D. (2006). Benefits of prelecture quizzes. ​Teaching 
+of Psychology​, ​33​, 109-112. 
+Nguyen, K., & McDaniel, M. A. (2015). Using quizzing to assist student learning in the 
+classroom: The good, the bad, and the ugly. ​Teaching of Psychology​, ​42​, 87-92. 
+Niedermeyer, F. C., & Sullivan, H. J. (1972). Differential effects of individual and group testing 
+strategies in an objectives-based instructional program. ​Journal of Educational 
+Measurement​, ​9​, 199-204. 
+PREPRINT
+
+===== PDF PAGE 52 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 52 
+Nunes, L. D., & Karpicke, J. D. (2015). Retrieval-based learning: Research at the interface 
+between cognitive science and education. In R. A. Scott & S. M. Kosslyn (Eds.), 
+Emerging Trends in the Social and Behavioral Sciences​ (pp. 1-16). John Wiley & Sons, 
+Inc. 
+O’Donnell, C. L. (2008). Defining, conceptualizing, and measuring fidelity of implementation 
+and its relationship to outcomes in K–12 curriculum intervention research. ​Review of 
+Educational Research​, ​78​, 33-84. 
+Open Science Framework. (2020). Center for Open Science. http://cos.io/osf 
+Pachai, A. A., Acai, A., LoGiudice, A. B., & Kim, J. A. (2016). The mind that wanders: 
+Challenges and potential benefits of mind wandering in education. ​Scholarship of 
+Teaching and Learning in Psychology​, ​2​, 134-146. 
+Pan. S. C., & Agarwal, P. K. (2020). ​Retrieval practice and transfer of learning: Fostering 
+students’ application of knowledge​. http://www.retrievalpractice.org 
+Pan, S. C., and Rickard, T. C. (2018). Transfer of test-enhanced learning: Meta-analytic review 
+and synthesis. ​Psychonomic Bulletin​, ​144​, 710–756. 
+Paradis, E., & Sutkin, G. (2017). Beyond a good story: from Hawthorne Effect to reactivity in 
+health professions education research. ​Medical Education​, ​51​, 31-39. 
+Pyc, M. A., Agarwal, P. K., & Roediger, H. L. (2014). Test-enhanced learning. Chapter in V. A. 
+Benassi, C. E. Overson, & C. M. Hakala (Eds.), ​Applying science of learning in 
+education: Infusing psychological science into the curriculum. ​APA Society for the 
+Teaching of Psychology. 
+Rad, M. S., Martingano, A. J., & Ginges, J. (2018). Toward a psychology of Homo sapiens: 
+PREPRINT
+
+===== PDF PAGE 53 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 53 
+Making psychological science more representative of the human population. ​Proceedings 
+of the National Academy of Sciences​, ​115​, 11401-11405. 
+Rawson, K. A., Dunlosky, J., & Sciartelli, S. M. (2013). The power of successive relearning: 
+Improving performance on course exams and long-term retention. ​Educational 
+Psychology Review​, ​25​, 523-548. 
+*Roediger, H. L., Agarwal, P. K., McDaniel, M. A., & McDermott, K. B. (2011). Test-enhanced 
+learning in the classroom: Long-term improvements from quizzing. ​Journal of 
+Experimental Psychology: Applied​, ​17​, 382-395. 
+Roediger, H. L., & Butler, A. C. (2011). The critical role of retrieval practice in long-term 
+retention. ​Trends in Cognitive Sciences​, ​15​, 20-27. 
+Roediger, H. L., & Karpicke, J. D. (2006a). The power of testing memory: Basic research and 
+implications for educational practice. ​Perspectives on Psychological Science​,​ 1​, 181-210. 
+Roediger, H. L., & Karpicke, J. D. (2006b). Test-enhanced learning: Taking memory tests 
+improves long-term retention. ​Psychological Science​, ​17​, 249-255. 
+Rohrer, D., Dedrick, R. F., Hartwig, M. K., & Cheung, C.-N. (2020). A randomized controlled 
+trial of interleaved mathematics practice. ​Journal of Educational Psychology​, ​112​, 40-52. 
+Rowland, C. A. (2014). The effect of testing versus restudy on retention: A meta-analytic review 
+of the testing effect. ​Psychological Bulletin​, ​140​, 1432-1463. 
+*Saville, B. K., Pope, D., Lovaas, P., & Williams, J. (2012). Interteaching and the testing effect: 
+A systematic replication. ​Teaching of Psychology​, ​39​, 280-283. 
+Sennhenn-Kirchner, S., Goerlich, Y., Kirchner, B., Notbohm, M., Schiekirka, S., Simmenroth, 
+A., & Raupach, T. (2016). The effect of repeated testing vs repeated practice on skills 
+PREPRINT
+
+===== PDF PAGE 54 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 54 
+learning in undergraduate dental education. ​European Journal of Dental Education​, ​22​, 
+e42-e47. 
+*Shapiro, A. M., & Gordon, L. T. (2012). A controlled study of clicker-assisted memory 
+enhancement in college classrooms. ​Applied Cognitive Psychology​, ​26​, 635-643. 
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed 
+flexibility in data collection and analysis allows presenting anything as significant. 
+Psychological Science​, 22, 1359-1366. 
+*Son, J. Y., & Rivas, M. J. (2016). Designing clicker questions to stimulate transfer. ​Scholarship 
+of Teaching and Learning in Psychology​, ​2​, 193-207. 
+Spitzer, H. F. (1939). Studies in retention. ​Journal of Educational Psychology​, ​30​, 641-656. 
+*Stenlund, T., Jönsson, F. U., & Jonsson, B. (2017). Group discussions and test-enhanced 
+learning: individual learning outcomes and personality characteristics. ​Educational 
+Psychology​, ​37​, 145-156. 
+Tipton, E., Pustejovsky, J. E., & Ahmadi, H. (2019). Current practices in meta-regression in 
+psychology, education, and medicine. ​Research Synthesis Methods​, ​10​, 180-194. 
+*Tu, Y. C., Lin, Y. J., Lee, J. W., & Fan, L. W. (2017). Effects of didactic instruction and 
+test-enhanced learning in a nursing review course. ​Journal of Nursing Education​, ​56​, 
+683-687. 
+Viveiros, J., Sethares, K., & Shapiro, A. (2017). Repeated recall as an intervention to improve 
+memory performance in heart failure patients. ​European Journal of Cardiovascular 
+Nursing​, ​16​, 724-732. 
+Vojdanoska, M., Cranney, J., & Newell, B. R. (2010). The testing effect: the role of feedback 
+PREPRINT
+
+===== PDF PAGE 55 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS 55 
+and collaboration in a tertiary classroom setting. ​Applied Cognitive Psychology​, ​24​, 
+1183–1195. 
+Weinstein, Y., Madan, C. R., & Sumeracki, M. A. (2018). Teaching the science of learning. 
+Cognitive Research: Principles and Implications​, ​3​, 2. 
+Weinstein, Y., Nunes, L. K., & Karpicke, J. D. (2016). On the placement of practice questions 
+during study. ​Journal of Experimental Psychology: Applied​, ​22​, 72-84. 
+Wiklund-Hörnqvist, C., Jonsson, B., and Nyberg, L. (2014). Strengthening concept learning by 
+repeated testing. ​Scandinavian Journal of Psychology​, ​55​, 10–16. 
+Zotero. (2020). Corporation for Digital Scholarship. http://www.zotero.org 
+PREPRINT
+
+===== PDF PAGE 56 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+Agarwal, 2019, Experiment 3
+Quizzes with mixed 
+(fact and higher order) questions
+Quizzes with higher order questions
+Questions on the 
+final assessment only
+1.55 (mixed quizzes vs. not-quizzed; 
+fact test)
+1.37 (mixed quizzes vs. not-quizzed; 
+higher order test)
+0.99 (higher order quizzes vs. not-quizzed; 
+higher order test)
+Middle School History World History Within
+Atabek Yigit et al., 2014
+Quizzes with feedback
+Quizzes without feedback
+Studied a review sheet
+No review sheet
+Numerical benefit from 
+retrieval practice for all comparisons Undergraduate Science Introduction to Chemistry Within
+Ayyub & Mahboob, 2017 Quizzes Lessons without quizzes 5.86* Medical School Science Endocrinology Between*
+Batsell et al., 2017 Textbook reading 
+with in-class quizzes
+Textbook reading 
+without quizzes
+Numerical benefit 
+from retrieval practice Undergraduate Psychology Introduction to Psychology Between
+Bekkink et al., 2012 Quizzes Lessons without quizzes 0.24 Medical School Science Introduction to Pathology Between*
+Bjork et al., 2014
+Quizzes with identical questions 
+repeated on the final assessment
+Quizzes with conceptually 
+related questions 
+on the final assessment
+Questions on the 
+final assessment only
+0.94 (identical-repeat quizzes 
+vs. not-quizzed)*
+0.79 (conceptual-repeat quizzes 
+vs. not-quizzed)*
+Undergraduate Psychology Research Methods 
+in Psychology Within
+Dirkx et al., 2014 Study-test-study-test 
+(STST)
+Study-study-study-study 
+(SSSS) 1.44 High School Mathematics Statistics Between*
+Dobson & Linderholm, 2015(a) Read-quiz-read-quiz 
+(RTRT)
+Read-generate-read-generate (RGRG)
+Re-read (RRRR)
+η2p = 0.31 (RTRT vs. RGRG)
+ 
+η2p = 0.09 (RTRT vs. RRRR)
+Undergraduate Science Anatomy and Physiology Within
+Dobson & Linderholm, 2015(b) Read-quiz-read 
+(RTR)
+Read-read while taking notes 
+(R-R+N)
+Re-read (RRR)
+Numerical benefit from 
+retrieval practice (RTR vs. R-R+N)
+η2p = 0.04 (RTR vs. RRR)
+Undergraduate Science Anatomy and Physiology Within
+Dobson et al., 2017
+Free recall over 7 days
+Free recall over 2 days
+Free recall in a single session
+Re-study over 7 days
+Re-study over 2 days
+Numerical benefit from 
+retrieval practice for all comparisons Undergraduate Science Anatomy and Physiology Within
+PREPRINT
+
+===== PDF PAGE 57 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+Foss & Pirozzolo, 2017, 
+Experiment 1
+4 midterm exams 
+and 4 pop quizzes
+2 midterm exams 
+and 2 pop quizzes 0.07 Undergraduate Psychology Research Methods 
+in Psychology Between
+Foss & Pirozzolo, 2017, 
+Experiment 2 8 course exams 2 course exams 0.20 Undergraduate Psychology Research Methods 
+in Psychology Between
+Foss & Pirozzolo, 2017, 
+Experiment 3
+8 course exams 
+and additional quizzes 2 course exams 0.28 Undergraduate Psychology Research Methods 
+in Psychology Between
+Foss & Pirozzolo, 2017, 
+Experiment 4 6 quizzes 3 quizzes 0.04 Undergraduate Psychology Research Methods 
+in Psychology Between
+Freda & Lipp, 2016 Quizzes Lessons without quizzes Numerical benefit from 
+retrieval practice Medical School Skills-Based Dental Diagnosis 
+and Treatment Between
+Goossens et al., 2016 Cued recall Copying definitions Numerical benefit from 
+copying definitions Elementary School Spelling and Vocabulary Vocabulary Within
+Graham, 1999 Textbook reading 
+with in-class quizzes
+Textbook reading 
+without quizzes 0.27* Undergraduate Psychology Neuropsychology and 
+Psychology of Learning Within
+Jones et al., 2016, 
+Experiment 1 Quizzes Rainbow writing 0.60 Elementary School Spelling and Vocabulary Spelling Within
+Jones et al., 2016, 
+Experiment 2 Quizzes Rainbow writing 0.47 Elementary School Spelling and Vocabulary Spelling Within
+Jones et al., 2016, 
+Experiment 3 Quizzes Rainbow writing 0.69 Elementary School Spelling and Vocabulary Spelling Within
+PREPRINT
+
+===== PDF PAGE 58 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+Karpicke et al., 2014, 
+Experiment 3
+Cued recall 
+using a concept map Re-study 0.42* Elementary School Science and History Earth Science 
+and U.S. History Within
+Khanna, 2015
+Graded quizzes
+Ungraded quizzes
+Lessons without quizzes
+0.03 (graded quizzes 
+vs. no quizzes)*
+0.66 (ungraded quizzes 
+vs. no quizzes)*
+Undergraduate Psychology Introduction to Psychology Between*
+Khanna & Cortese, 2016
+Graded quizzes
+Ungraded quizzes
+Lessons without quizzes
+0.28 (graded quizzes 
+vs. no quizzes)
+0.36 (ungraded quizzes 
+vs. no quizzes)
+Undergraduate Psychology
+Introduction to Psychology, 
+Cognitive Psychology, 
+and Research Methods
+Between*
+Kromann et al., 2009 Scenario-based quiz Scenario lectures 
+without quizzes 0.93 Medical School Skills-Based CPR Skills Between*
+Kromann et al., 2010 Scenario-based quiz Scenario lectures 
+without quizzes 0.40 Medical School Skills-Based CPR Skills Between*
+Kromann et al., 2011 Scenario-based quiz Scenario lectures 
+without quizzes 0.55 Medical School Skills-Based CPR Skills Between*
+Larsen et al., 2009 Quizzes Studied a review sheet 0.91 Medical School Science Neurology Within
+Larsen et al., 2013(a)
+Quizzes with self-explanations
+Quizzes without self-explanations
+Studied a review sheet 
+with self-explanations
+Studied a review sheet 
+without self-explanations
+0.70 (quizzes with self-explanation 
+vs. study with self-explanation)
+ 
+ 0.48 (quizzes without self-explanation 
+vs. study with self-explanation)
+Numerical benefit from retrieval practice 
+(quizzes with self-explanation 
+vs. study without self-explanation)
+Numerical benefit from retrieval practice 
+(quizzes without self-explanation 
+vs. study without self-explanation)
+Medical School Science Neurology Within
+Larsen et al., 2013(b)
+Quizzes with standardized patients (SP)
+Quizzes with written questions
+Studied a review sheet
+0.84 (SP quiz vs. study; final SP test)
+0.33 (written quiz vs. study; final SP test)
+ 
+0.73 (SP quiz vs. study; final written test)
+0.70 (written quiz vs. study; final written test)
+Medical School Science Neurology Within
+PREPRINT
+
+===== PDF PAGE 59 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+Leeming, 2002 Quizzes every class 4 course exams 0.47 Undergraduate Psychology Introduction to Psychology 
+and Psychology of Learning Between
+Lyle & Crawford, 2011 Quizzes Lessons without quizzes η2p = 0.07 Undergraduate Mathematics Statistics for Psychology Between
+McDaniel et al., 2011, 
+Experiment 1 Quizzes Questions on the 
+final assessment only η2p = 0.79 Middle School Science Biology Within
+McDaniel et al., 2011, 
+Experiment 2a
+Immediate quizzes
+Delayed quizzes
+Questions on the 
+final assessment only
+0.66 (immediate quizzes vs. not-quizzed)
+1.13 (delayed quizzes vs. not-quizzed)
+Middle School Science Astronomy Within
+McDaniel et al., 2011, 
+Experiment 2b
+Immediate quizzes
+Delayed quizzes
+Questions on the 
+final assessment only
+0.51 (immediate quizzes vs. not-quizzed)
+0.76 (delayed quizzes vs. not-quizzed)
+Middle School Science Biology and Chemistry Within
+McDaniel et al., 2013, 
+Experiment 1
+Quizzes with 
+definition questions
+Quizzes with 
+key term questions
+Questions on the 
+final assessment only
+0.81 (term-response quizzes 
+vs. not-quizzed; term-response test)
+0.86 (definition-response quiz 
+vs. not-quizzed; term-response test)
+1.23 (term-response quiz 
+vs. not-quizzed; definition-response test)
+1.33 (definition-response quiz 
+vs. not-quizzed; definition-response test)
+Middle School Science Biology and Physics Within
+McDaniel et al., 2013, 
+Experiment 2
+Quizzes with 
+definition questions
+Quizzes with 
+key term questions
+Questions on the 
+final assessment only
+0.56 (term-response quizzes 
+vs. not-quizzed; term-response test)
+0.34 (application quizzes 
+vs. not-quizzed; term-response test)
+0.27 (application quizzes 
+vs. not-quizzed; application test)
+Numerical benefit from retrieval practice 
+(term-response quizzes vs. not-quizzed; 
+final application test)
+Middle School Science Earth Science Within
+PREPRINT
+
+===== PDF PAGE 60 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+McDermott et al., 2014, 
+Experiment 1a
+Quizzes with 
+multiple-choice questions
+Quizzes with 
+short answer questions
+Questions on the 
+final assessment only
+1.06 (multiple-choice quizzes 
+vs. not-quizzed; final short answer test)
+ 0.50 (short answer quizzes 
+vs. not-quizzed; final short answer test)
+ 
+ Numerical benefit from retrieval practice 
+(multiple-choice quizzes vs. not-quizzed; 
+final multiple-choice test)
+Equivalent means for retrieval practice 
+and comparison conditions 
+(short answer quizzes vs. not-quizzed; 
+final multiple-choice test)
+Middle School Science Earth Science Within
+McDermott et al., 2014, 
+Experiment 1b
+Quizzes with 
+multiple-choice questions
+Quizzes with 
+short answer questions
+Questions on the 
+final assessment only
+Numerical benefit from 
+retrieval practice for all comparisons Middle School Science Biology Within
+McDermott et al., 2014, 
+Experiment 2 Quizzes
+Re-study
+Questions on the 
+final assessment only
+1.15 (quizzes vs. re-study)
+1.61 (quizzes vs. not-quizzed)
+Middle School Science Biology and Physics Within
+McDermott et al., 2014, 
+Experiment 3
+Quizzes with 
+multiple-choice questions
+Quizzes with 
+short answer questions
+Re-study
+Questions on the 
+final assessment only
+ds > 0.56 (retrieval interventions vs. comparison 
+conditions; final short answer test)
+ds > 0.48 (retrieval interventions vs. comparison 
+conditions; final multiple-choice test)
+Middle School Science Biology and Earth Science Within
+McDermott et al., 2014, 
+Experiment 4
+Quizzes with 
+multiple-choice questions
+Quizzes with 
+short answer questions
+Questions on the 
+final assessment only
+Numerical benefit from 
+retrieval practice for all comparisons High School History U.S. and World History Within
+Michaels, 2017
+Quizzes (freshmen and sophomores)
+Quizzes (juniors and seniors)
+Lessons without quizzes
+0.44 (benefit from retrieval practice 
+for freshmen and sophomores)*
+-0.31 (benefit from lessons without quizzes 
+for juniors and seniors)*
+Undergraduate Psychology Introduction to Psychology Between
+Narloch et al., 2006
+Pre-lecture quizzes with 
+matching questions
+Pre-lecture quizzes with 
+fill-in-the-blank questions
+Lessons without quizzes Numerical benefit from 
+retrieval practice for all comparisons Undergraduate Psychology Sensation & Perception Between
+Roediger et al., 2011, 
+Experiment 1 Quizzes Questions on the 
+final assessment only η2p = 0.64 Middle School History World History Within
+Roediger et al., 2011, 
+Experiment 2 Quizzes
+Re-study
+Questions on the 
+final assessment only
+0.83 (quizzes vs. re-study)
+0.98 (quizzes vs. not-quizzed)
+Middle School History World History Within
+PREPRINT
+
+===== PDF PAGE 61 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation Retrieval Practice Intervention Comparison Condition(s)
+Effect Size(s)
+(Cohen's d unless otherwise noted)
+Asterisk (*) indicates 
+calculated for the purpose of this review
+Education Level Overall Content Area Course Topic
+Experimental Design 
+(within- or between-students)
+Asterisk (*) indicates 
+random assignment
+Saville et al., 2012 Quizzes Lessons without quizzes Means were not reported Undergraduate Psychology Psychology of Learning Within
+Shapiro & Gordon, 2012 Quizzes Questions on the 
+final assessment only 0.38 Undergraduate Psychology Introduction to Psychology Within
+Son & Rivas, 2016 Quizzes Studied a review sheet
+0.46 (final test with repeated questions)*
+0.12 (final test with transfer questions)*
+Undergraduate Psychology Developmental Psychology Between
+Stenlund et al., 2017 Quizzes
+Discussion with feedback
+Discussion without feedback
+1.55 (quizzes vs. discussion with feedback; 
+final complex question test)*
+1.08 (quizzes vs. discussion without feedback; 
+final complex question test)*
+0.70 (quizzes vs. discussion with feedback; 
+final fact test)*
+0.73 (quizzes vs. discussion without feedback; 
+final fact test)*
+High School Psychology Psychology of Emotions Between*
+Tu et al., 2017 Quizzes Lessons without quizzes Numerical benefit from 
+retrieval practice Medical School Skills-Based Fundamentals of Nursing Between
+PREPRINT
+
+===== PDF PAGE 62 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+Agarwal, 2019, Experiment 3
+Atabek Yigit et al., 2014
+Ayyub & Mahboob, 2017
+Batsell et al., 2017
+Bekkink et al., 2012
+Bjork et al., 2014
+Dirkx et al., 2014
+Dobson & Linderholm, 2015(a)
+Dobson & Linderholm, 2015(b)
+Dobson et al., 2017
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+88 Yes Three times 
+within 1 week 2 days Multiple-choice Immediate Multiple-choice* No
+98 No (Turkey) Once 
+within a single session 1 day Multiple-choice 
+and matching Immediate Multiple-choice 
+and matching No
+84 No (Pakistan) Once per week 
+for 4 weeks 1 week Multiple-choice Not reported Multiple-choice* Yes
+64 Yes
+Twice per week 
+throughout the semester 
+(timing not specified)
+Three exams 
+throughout the semester 
+(timing not specified)
+Not Reported Immediate Multiple-choice* Yes
+404 No (The Netherlands) 1-2 times per week 
+for 4 weeks 3 days Multiple-choice 
+and short answer None Multiple-choice* Yes
+372 Yes Once every 2 weeks 
+for 10 weeks End of the 10-week course Multiple-choice Delayed Multiple-choice* Yes
+38 No (The Netherlands) Once 
+within a single session 1 week Short answer None Short answer No
+66 Yes Twice 
+within a single session Immediate Free recall None Free recall No
+125 Yes Once 
+within a single session Immediate Free recall None Multiple-choice No
+60 Yes Six times 
+within 7 days Immediate Free recall None Free recall No
+PREPRINT
+
+===== PDF PAGE 63 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+Foss & Pirozzolo, 2017, 
+Experiment 1
+Foss & Pirozzolo, 2017, 
+Experiment 2
+Foss & Pirozzolo, 2017, 
+Experiment 3
+Foss & Pirozzolo, 2017, 
+Experiment 4
+Freda & Lipp, 2016
+Goossens et al., 2016
+Graham, 1999
+Jones et al., 2016, 
+Experiment 1
+Jones et al., 2016, 
+Experiment 2
+Jones et al., 2016, 
+Experiment 3
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+159 Yes Once every 2 weeks 
+for 15 weeks End of the 15-week course Multiple-choice 
+and short answer None Multiple-choice 
+and short answer Yes
+70 Yes Once every 2 weeks 
+for 15 weeks End of the 15-week course Multiple-choice 
+and short answer None Multiple-choice 
+and short answer Yes
+117 Yes Once every 2 weeks 
+for 15 weeks End of the 15-week course Multiple-choice 
+and short answer None Multiple-choice 
+and short answer* Yes
+214 Yes Once every 2 weeks 
+for 15 weeks 7-10 days Short answer None Short answer* Yes
+338 Yes Once per week 
+for 6 weeks End of the 6-week course Simulated diagnosis Delayed Simulated diagnosis* Yes
+129 No (The Netherlands) Six times total 
+for 1-2 weeks 1-3 days Cued recall Immediate Cued recall Not reported
+Not Reported Yes
+10 times 
+throughout the semester 
+(timing not specified)
+End of the semester Multiple-choice 
+and fill-in-the-blank Not Reported Multiple-choice 
+and fill-in-the-blank* Yes
+14 Yes Twice 
+within 8 days 1 day Free recall Immediate Free recall Yes
+16 Yes Twice 
+within 8 days 1 day Free recall Immediate Free recall Yes
+12 Yes Twice 
+within 8 days 1 day Free recall Immediate Free recall Yes
+PREPRINT
+
+===== PDF PAGE 64 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+Karpicke et al., 2014, 
+Experiment 3
+Khanna, 2015
+Khanna & Cortese, 2016
+Kromann et al., 2009
+Kromann et al., 2010
+Kromann et al., 2011
+Larsen et al., 2009
+Larsen et al., 2013(a)
+Larsen et al., 2013(b)
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+85 Yes Once 
+within a single session Immediate Short answer None Free recall No
+137 Yes
+Six times 
+throughout the semester 
+(timing not specified)
+End of the semester Multiple-choice Immediate Multiple-choice* Yes
+277 Yes
+Six times 
+throughout the semester 
+(timing not specified)
+End of the semester Multiple-choice Immediate Multiple-choice* Yes
+81 No (Denmark) Once 
+within a single session 2 weeks Simulated diagnosis Immediate Simulated diagnosis No
+89 No (Denmark) Once 
+within a single session 6 months Simulated diagnosis Immediate Simulated diagnosis No
+138 No (Denmark) Once 
+within a single session 2 weeks Simulated diagnosis Immediate Simulated diagnosis No
+40 Yes Three times 
+within a single session 6 months Short answer Immediate Short answer No
+49 Yes Four times 
+within 2 days 6 months Short answer Immediate Essay* No
+41 Yes Four times 
+within a single session 6 months Simulated diagnosis 
+and a short answer quiz Immediate Simulated diagnosis 
+and a short answer test* No
+PREPRINT
+
+===== PDF PAGE 65 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+Leeming, 2002
+Lyle & Crawford, 2011
+McDaniel et al., 2011, 
+Experiment 1
+McDaniel et al., 2011, 
+Experiment 2a
+McDaniel et al., 2011, 
+Experiment 2b
+McDaniel et al., 2013, 
+Experiment 1
+McDaniel et al., 2013, 
+Experiment 2
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+192 Yes
+5 times per week 
+for 5 weeks 
+(summer semester) or 
+2 times per week 
+for 12 weeks 
+(regular semester)
+6 weeks Short answer Immediate
+Short answer, 
+multiple-choice, 
+and fill-in-the-blank
+No
+144 Yes Once per week 
+for 21 weeks
+Four exams 
+throughout the semester 
+(timing not specified)
+Fill-in-the-blank Delayed Multiple-choice* Yes
+92 Yes Three times 
+within 20 days 1 day Multiple-choice Immediate Multiple-choice Yes
+65 Yes 1-3 times 
+within 3-8 days 1 day Multiple-choice Immediate Multiple-choice Yes
+54 Yes 1-3 times 
+within 1-4 days 1 day Multiple-choice Immediate Multiple-choice Yes
+61 Yes Three times 
+within 11 days 1 day Multiple-choice Immediate Multiple-choice* Yes
+90 Yes Three times 
+within 16 days 1 day Multiple-choice Immediate Multiple-choice* Yes
+PREPRINT
+
+===== PDF PAGE 66 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+McDermott et al., 2014, 
+Experiment 1a
+McDermott et al., 2014, 
+Experiment 1b
+McDermott et al., 2014, 
+Experiment 2
+McDermott et al., 2014, 
+Experiment 3
+McDermott et al., 2014, 
+Experiment 4
+Michaels, 2017
+Narloch et al., 2006
+Roediger et al., 2011, 
+Experiment 1
+Roediger et al., 2011, 
+Experiment 2
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+45 Yes Three times 
+within 22 days 1 day Multiple-choice 
+and short answer Immediate Multiple-choice 
+and short answer Yes
+45 Yes Three times 
+within 7 days 1 day Multiple-choice 
+and short answer Immediate Multiple-choice 
+and short answer Yes
+59 Yes Three times 
+within 7 days 1 day Short answer Immediate Short answer Yes
+60 Yes Twice 
+within 7 days 2-3 days Multiple-choice 
+and short answer Immediate Multiple-choice 
+and short answer* Yes
+40 Yes Twice 
+within 8 days 1-2 days Multiple-choice 
+and short answer Immediate Multiple-choice 
+and short answer* Yes
+139 Yes Once per week 
+for 16 weeks
+Three exams 
+throughout the semester 
+(timing not specified)
+Multiple-choice 
+and diagram labeling Immediate Multiple-choice No
+109 Yes
+Multiple times 
+throughout the semester 
+(timing not specified)
+Exams at the end of each chapter 
+(timing not specified)
+Fill-in-the-blank 
+and matching Delayed Multiple-choice 
+and essay* Yes
+36 Yes Three times 
+within 13 days 2 days Multiple-choice Immediate Free recall Yes
+63 Yes Three times 
+within 11 days 2 days Multiple-choice Immediate Multiple-choice Yes
+PREPRINT
+
+===== PDF PAGE 67 =====
+RETRIEVAL PRACTICE IN SCHOOLS AND CLASSROOMS APPENDIX
+Abbreviated Citation
+Saville et al., 2012
+Shapiro & Gordon, 2012
+Son & Rivas, 2016
+Stenlund et al., 2017
+Tu et al., 2017
+Sample Size 
+in Final Analyses Conducted in the United States Spacing of Retrieval Practice
+Delay Between the 
+Last Retrieval Opportunity 
+and the Final Test
+Retrieval Practice Format Feedback After 
+Retrieval Practice
+Final Test Format
+Asterisk (*) indicates 
+rephrased questions
+Final Test Peformance 
+Counted Toward 
+Students' Grades
+58 Yes
+Nine times 
+throughout the semester 
+(timing not specified)
+2 days Multiple-choice Immediate Multiple-choice 
+and short answer* Yes
+226 Yes Three times per week 
+for 15 weeks
+Four exams 
+throughout the semester 
+(timing not specified)
+Multiple-choice Immediate Multiple-choice* Yes
+209 Yes 1-3 times per week 
+for 10 weeks 1 week Multiple-choice Immediate Multiple-choice* Yes
+98 No (Sweden) Twice per day 
+for 2 days Three exams over 4 weeks Short answer Immediate Short answer Not reported
+84 No (Taiwan)
+Every class meeting 
+throughout the semester 
+(timing not specified)
+End of the semester Multiple-choice Immediate Multiple-choice Yes
+PREPRINT

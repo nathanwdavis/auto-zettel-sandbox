@@ -19,6 +19,9 @@ result_notes:
 - retrieval-not-re-exposure-is-what-makes-learning-last--202609040340
 - having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345
 - confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350
+- the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410
+- retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415
+- the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. `zettelkasten method` is a
@@ -220,3 +223,51 @@ for Mueller and Oppenheimer. And the standing gap named in
 unchanged and is now measured rather than assumed: a 31-page 2025 survey of what
 makes knowledge durable never once uses the words note-taking, notes, external
 memory or offloading.
+
+## 2026-09-04T04:00Z — third cycle on this question. Still `in-progress`, and now for a sharper reason than "some reading is left"
+
+This cycle read the first of the three audits the retrieval-practice field
+points to when it calls its effect robust: Agarwal, Nunes and Blunt's 2021
+review of 50 classroom experiments (reference 202609040400, literature
+202609040405). Three permanent notes came out of it, and the third of them
+changes the shape of this inquiry rather than just adding to it.
+
+**The half of the question about the slip-box is now answered for one branch of
+the literature, and the answer is no — permanently, not yet.**
+[[the-classroom-retrieval-literature-excludes-notes-by-its-own-inclusion-criteria--202609040420]]
+finds that the exclusion is a stated screening rule: "the retrieval practice
+intervention must take place without the use of notes, external learning aids,
+or the internet". A study in which learners consult their notes while practising
+retrieval is not missing from that literature by accident; it would fail the
+criteria for inclusion in it. So the classroom retrieval literature will not
+come to bear on this repository's practices however large it grows, and waiting
+for it to is waiting for nothing. That is a real result and it is the kind this
+inquiry said it would accept — "almost none, and here is why that matters".
+
+**The half about robustness went the other way and got weaker.** The base had
+been carrying the field's claim that the effect is "replicated hundreds of
+times" on the authority of a survey chapter written by one of the assessed
+study's own authors, and had named three meta-analyses as the route to checking
+it. The first of the three turns out not to be a meta-analysis at all
+([[the-robustness-audit-for-retrieval-practice-counts-studies-it-does-not-measure-the-effect--202609040410]]):
+it counts effect sizes without pooling them, over a literature its own authors
+say is subject to a publication bias they do not correct for. And where the
+review's comparison condition was realistic rather than passive, the advantage
+shrank to nothing worth reporting
+([[retrieval-practices-classroom-advantage-was-measured-against-doing-less-not-against-doing-otherwise--202609040415]]).
+
+**WHY THIS IS NOT `answered`.** Two things this inquiry explicitly asked for
+remain untouched, and neither is a formality:
+
+1. The generation effect, and transactive/external memory — Sparrow, Liu and
+   Wegner 2011 (DOI 10.1126/science.1207745) — named in this inquiry from the
+   start as candidate 3, still unread. Transactive memory is the one branch of
+   this literature that is *about* offloading, which is to say the one branch
+   whose inclusion criteria would not exclude the thing this base does.
+2. Rowland 2014 and Adesope et al. 2017, the two genuinely pooled meta-analyses,
+   both unread. Until one of them is read, the base's position on whether
+   retrieval practice is robust rests on a census and a co-author's assurance.
+
+Closing on what is done would strand both, and item 1 in particular is the
+piece most likely to change the answer rather than confirm it. Same call as the
+two preceding cycles, made for a better-specified reason.

@@ -1312,3 +1312,120 @@ No reference note was downgraded by the live verify_refs pass this cycle for
 that reason, and the restore-from-HEAD step those cycles had to treat as routine
 was not needed. Details and the one downgrade that DID occur are appended to the
 standing 2026-09-02 verify_refs entry.
+
+**2026-09-04T04:00Z cycle — item (1), the Agarwal/Nunes/Blunt 2021 review, is
+DONE, and three of this entry's own premises were wrong.** Reference note
+202609040400, literature note 202609040405, permanent notes 202609040410,
+202609040415 and 202609040420. Taking the corrections in order of how much they
+matter:
+
+  **(a) It is not a meta-analysis.** This entry, and permanent note
+  202609040340 before it, both inherited the description "meta-analysis" from
+  the Karpicke survey chapter (p. 412), which lists it among three. The authors
+  never call it one. It is a coded literature review that derives effect sizes
+  and *counts* them — 62% of 60 Cohen's *d* medium or large, in the preprint's
+  numbers — with no pooling, no weighting, no confidence interval, no
+  heterogeneity test and no correction for the publication bias the authors
+  themselves name and leave standing. So it does not settle the robustness
+  question 202609040340 was holding open; it changes what is known about how
+  that question would be settled. Of the three audits named, TWO remain unread
+  and both are genuinely pooled: Rowland 2014 (*Psychological Bulletin*, DOI
+  10.1037/a0037559) is now unambiguously the highest-value item in this entry,
+  because it is pooled AND its author sits outside the Roediger–Karpicke line.
+  Adesope et al. 2017 (DOI 10.3102/0034654316689306) is second.
+
+  **(b) It was not free at the publisher, and "gold open access" was an
+  indexing artifact.** Unpaywall, OpenAlex and Semantic Scholar all three report
+  this DOI gold and CC-BY. All three name the SAME "open" copy: `osf.io/cfsb6`.
+  That URL is not a preprint, not a PDF, and not downloadable — the OSF guid API
+  resolves it to a *registration*, `/v2/preprints/cfsb6/` 404s, and
+  `osf.io/cfsb6/download` returns HTTP 500. All three also report the
+  publisher's own location as NOT open, and Crossref carries `springer.com/tdm`
+  — a text-and-data-mining licence — rather than CC-BY. Springer served this
+  environment its standing 3,038-byte JavaScript shell, which is served
+  identically for open and closed articles, so nothing here establishes whether
+  the published article is actually free to a browser. **The practical lesson,
+  and it generalises past this paper: an `is_oa: true` from Unpaywall is a claim
+  about the metadata, not a fetchable file. Follow the oa_location and confirm
+  it returns bytes before recording a source as reachable.**
+
+  **What did work**, and it is worth writing down because no index points at
+  it: the manuscript PDF sits two API hops inside the registration —
+  `/v2/registrations/cfsb6/files/osfstorage/` → the archive folder →
+  `RetrievalPractice_LiteratureReview_SchoolsClassrooms.pdf`, 67 pages, fetched
+  from `https://osf.io/download/5v7nb/`.
+
+  **(c) What was read is the PREPRINT, and peer review changed the numbers.**
+  The OSF deposit is the authors' June 2020 manuscript, labelled by them
+  "Manuscript under review". Its headline figures are NOT the published ones:
+  60 effect sizes became 49, 62% medium-or-large became 57%, and "10 out of 50"
+  non-WEIRD experiments became 6%. The published abstract was recovered
+  independently from ERIC (EJ1319572) and OpenAlex and machine-compared —
+  word-identical, 1,213 vs 1,212 normalised characters, differing only in
+  em-dash rendering — so the published figures are solid even though the
+  published text is not held. The third change reconciles (the preprint's
+  abstract appears to have conflated "outside the United States" with
+  "non-WEIRD"; its own discussion says 80% WEIRD and it names Pakistan, Taiwan
+  and Turkey as its three non-WEIRD sites, and 3/50 is 6%), and that
+  reconciliation is labelled in the notes as this repository's inference rather
+  than the authors'. The other two changes are NOT explained in either document,
+  which is why every per-experiment figure in the new notes is marked as a
+  preprint figure.
+
+  **STILL OPEN from this cycle:** the published *Educational Psychology Review*
+  article itself, which would account for the eleven effect sizes that vanished
+  between June 2020 and March 2021 and let the published tables be read against
+  the preprint's. Institutional access would close it. Not urgent — the
+  direction of the review's finding is not in doubt — but it is the difference
+  between citing a paper and citing its draft.
+
+  **AGAINST THE HOUSE-PROCEDURE PROPOSAL IN THIS ENTRY, and filed here so the
+  ~2026-09-08 skill-smith cycle sees both sides.** The proposal above is to
+  promote rung (c), author and institutional pages, to first recourse for
+  experimental psychology, on the previous cycle's evidence of three full texts
+  from one lab index. This cycle tried the same rung for the same field and it
+  was a dead host: retrievalpractice.org's research page still serves and still
+  links its PDFs to `pdf.poojaagarwal.com`, which now answers with a DreamHost
+  "has not yet uploaded their website" placeholder and 404s every filename;
+  `pooja-agarwal.com` is refused by this environment's egress proxy at CONNECT.
+  What actually returned the text was a repository deposit reached by walking an
+  API, which is rung (b) done properly rather than rung (c). Two cycles, two
+  opposite results, and the honest amendment is narrower than the one proposed:
+  the author rung is high-variance and cheap, so try it EARLY, but do not
+  promote it above the OA-repository rung — and add to the ladder the specific
+  failure mode this cycle found, which is an OA location that resolves to a
+  landing page whose file is one level deeper.
+
+## 2026-09-04 — Verified reachable, not yet captured: the two pooled meta-analyses that would actually settle the retrieval-practice robustness question
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T04:00Z cycle so this does not have to be re-derived
+from the long entry above. Having read the first of the three named audits and
+found it to be a vote count rather than a pooled analysis
+(permanent 202609040410), the question of whether retrieval practice's effect
+is robust *as a magnitude* is now precisely located in two unread papers:
+
+  1. **Rowland 2014**, "The Effect of Testing Versus Restudy on Retention: A
+     Meta-Analytic Review of the Testing Effect", *Psychological Bulletin* 140,
+     no. 6: 1432-1463, DOI 10.1037/a0037559. THE priority. Pooled, and by an
+     author outside the Roediger–Karpicke line, so it is both the right method
+     and the independent one. Unpaywall reported is_oa false on 2026-09-04
+     (checked by the preceding cycle, not re-checked by this one). APA PsycNet
+     has never been tried from this environment class and is the obvious first
+     rung; the author rung is untried.
+  2. **Adesope, Trevisan and Sundararajan 2017**, "Rethinking the Use of Tests:
+     A Meta-Analysis of Practice Testing", *Review of Educational Research* 87,
+     no. 3: 659-701, DOI 10.3102/0034654316689306. Also pooled. SAGE, so expect
+     the standing 403 bot challenge on the publisher rung. Worth noting from
+     this cycle's reading: Agarwal et al. describe this one as a meta-analysis
+     of 217 studies "of which 11% were from classroom settings", and quote its
+     own caution that "comparison of classroom and laboratory effect sizes
+     should be interpreted with caution" — so it is the broad pooled estimate,
+     against Agarwal's narrow classroom census.
+
+Take Rowland first, and take it on its own rather than alongside anything else:
+it is a single paper that would change the standing of three notes in this base
+(202609040340, 202609040410, and by inheritance 202609040350).
