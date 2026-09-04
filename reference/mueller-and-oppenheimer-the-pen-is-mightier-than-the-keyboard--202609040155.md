@@ -37,11 +37,10 @@ chicago_bib: 'Mueller, Pam A., and Daniel M. Oppenheimer. “The Pen Is Mightier
   the Keyboard: Advantages of Longhand Over Laptop Note Taking.” Psychological Science
   25, no. 6 (2014): 1159–68. https://doi.org/10.1177/0956797614524581.'
 verification:
-  method: raw-capture+crossref
-  source: https://doi.org/10.1177/0956797614524581
+  method: raw-capture
+  source: raw/202609040155-mueller-oppenheimer-2014-abstract.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-04T16:23:07Z'
+  date: '2026-09-04T19:14:29Z'
 raw_capture: raw/202609040155-mueller-oppenheimer-2014-abstract.txt
 links: []
 created: '2026-09-04'

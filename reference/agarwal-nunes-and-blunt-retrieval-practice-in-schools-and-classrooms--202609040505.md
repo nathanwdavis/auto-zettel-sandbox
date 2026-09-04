@@ -41,11 +41,10 @@ chicago_bib: 'Agarwal, Pooja K., Ludmila D. Nunes, and Janell R. Blunt. “Retri
   1409–53. https://doi.org/10.1007/s10648-021-09595-9.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+crossref
-  source: https://doi.org/10.1007/s10648-021-09595-9
+  method: raw-capture
+  source: raw/202609040505-agarwal-nunes-blunt-2021-retrieval-practice-classroom-review-fulltext.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-04T16:22:47Z'
+  date: '2026-09-04T19:14:29Z'
 raw_capture: raw/202609040505-agarwal-nunes-blunt-2021-retrieval-practice-classroom-review-fulltext.txt
 links: []
 created: '2026-09-04'

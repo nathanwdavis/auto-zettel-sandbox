@@ -42,11 +42,10 @@ chicago_bib: 'Agarwal, Pooja K., Jeffrey D. Karpicke, Sean H. K. Kang, Henry L. 
   Tests.” Applied Cognitive Psychology 22, no. 7 (2008): 861–76. https://doi.org/10.1002/acp.1391.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+crossref
-  source: https://doi.org/10.1002/acp.1391
+  method: raw-capture
+  source: raw/202609040315-agarwal-et-al-2008-open-and-closed-book-tests-fulltext.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-04T16:22:46Z'
+  date: '2026-09-04T19:14:29Z'
 raw_capture: raw/202609040315-agarwal-et-al-2008-open-and-closed-book-tests-fulltext.txt
 links: []
 created: '2026-09-04'

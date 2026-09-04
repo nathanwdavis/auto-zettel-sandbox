@@ -49,11 +49,10 @@ chicago_bib: 'Urry, Heather L., Chelsea S. Crittle, Victoria A. Floerke, et al. 
   no. 3 (2021): 326–39. https://doi.org/10.1177/0956797620965541.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+crossref
-  source: https://doi.org/10.1177/0956797620965541
+  method: raw-capture
+  source: raw/202609032200-urry-et-al-dont-ditch-the-laptop-manuscript-excerpts.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-03T22:00:00Z'
+  date: '2026-09-04T19:14:29Z'
 raw_capture: raw/202609032200-urry-et-al-dont-ditch-the-laptop-manuscript-excerpts.txt
 links: []
 created: '2026-09-03'

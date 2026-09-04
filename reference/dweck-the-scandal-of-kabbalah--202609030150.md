@@ -36,11 +36,10 @@ chicago_bib: 'Dweck, Yaacob. “Introduction.” In The Scandal of Kabbalah: Leo
   to the Modern World. Princeton University Press, 2011. http://assets.press.princeton.edu/chapters/i9572.pdf.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+openlibrary
-  source: https://openlibrary.org/isbn/9780691145082
+  method: raw-capture
+  source: raw/202609030150-dweck-scandal-of-kabbalah-introduction-excerpts.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-04T16:22:55Z'
+  date: '2026-09-04T19:14:29Z'
 raw_capture: raw/202609030150-dweck-scandal-of-kabbalah-introduction-excerpts.txt
 links: []
 created: '2026-09-03'

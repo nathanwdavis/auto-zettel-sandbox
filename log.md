@@ -1490,6 +1490,13 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T18:27:21Z` main re-verified clean after the merge at 36c3319: lint_citations, lint_links, lint_skills, check_skill_sandbox all PASS, manifest current at 257 notes. The PASS lines immediately above this entry are that verification, appended by the gate scripts themselves
 - `2026-09-04T18:27:28Z` lint_citations: PASS
 - `2026-09-04T18:27:29Z` lint_links: PASS
+- `2026-09-04T18:39:20Z` capture: inquiry -> inquiries/does-the-same-god-dispute-survive-contact-with-an-actual--202609041839.md
+- `2026-09-04T18:39:21Z` capture: inquiry -> inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md
+- `2026-09-04T18:39:22Z` capture: inquiry -> inquiries/what-did-jewish-law-and-theology-say-about-islam-and-why-is--202609041842.md
+- `2026-09-04T18:39:23Z` capture: inquiry -> inquiries/what-is-worship-such-that-referring-to-the-right-being--202609041843.md
+- `2026-09-04T18:39:24Z` capture: inquiry -> inquiries/is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844.md
+- `2026-09-04T18:39:35Z` lint_links: PASS
+- `2026-09-04T18:39:47Z` lint_citations: PASS
 - `2026-09-04T18:53:26Z` remote_cycle: agents: resolved 8 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
 - `2026-09-04T18:53:26Z` remote_cycle: start (mode=B holder=remote-session session=unknown branch=zettel/run-20260904185326 skill-rev=d986b16)
 - `2026-09-04T18:54:00Z` step 2: read INBOX.md and listed inquiries. `inquiries.py --status new` and `--status in-progress` both report NONE -- all 10 inquiries are `answered`, exactly as the 18:00Z cycle warned. Planned against the three leads that cycle left in the INBOX rather than against an empty queue, and took lead 1: Camerer et al. 2018, the Social Sciences Replication Project, cited at second hand throughout the note-taking cluster and never once read
@@ -1532,3 +1539,12 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T19:12:53Z` check_skill_sandbox: PASS
 - `2026-09-04T19:12:59Z` remote_cycle: finish zettel/run-20260904185326 (skill-rev=d986b16; lock released after push)
 - `2026-09-04T19:12:59Z` remote_cycle: PR for zettel/run-20260904185326 must be opened by the session (GitHub CLI not installed in this container)
+- `2026-09-04T19:14:15Z` build_manifest: 263 notes indexed
+- `2026-09-04T19:14:21Z` build_manifest: 263 notes indexed
+- `2026-09-04T19:14:29Z` verify_refs: 79/79 verified
+- `2026-09-04T19:14:37Z` lint_citations: PASS
+- `2026-09-04T19:14:38Z` lint_links: PASS
+- `2026-09-04T19:14:38Z` lint_skills: PASS
+- `2026-09-04T19:14:38Z` check_skill_sandbox: PASS
+- `2026-09-04T19:15:01Z` step 10 (merge): main moved during this cycle (#63, five inquiries from a theology gap query), so the PR came back mergeable_state=dirty. Resolved as the 18:22Z triage predicted -- two conflicts, both of the known kinds and neither needing judgement: log.md is APPEND-ONLY and both sides appended at EOF, so both blocks were kept and interleaved by timestamp; manifest.json is GENERATED and was rebuilt with build_manifest.py rather than hand-merged. No content collision: this cycle and #63 touched different clusters. Note count is unchanged at 263 because inquiries are indexed separately -- the manifest now carries 16 of them, so the empty queue this cycle reported at step 2 is emphatically no longer empty
+- `2026-09-04T19:15:01Z` step 10 (defect recurrence, THIRD form): running `verify_refs.py --offline --no-render` on the merged tree -- the exact invocation gates.yml uses -- stripped `identifier_check` from Schmidt 202609010302 entirely and reset method to bare raw-capture. That is the OFFLINE rewrite already filed in INBOX, now shown to destroy a field the live pass merely downgrades. Restored again. Two consequences worth recording: any cycle that runs the offline verifier in a working tree and commits without diffing reference/ will silently ship the damage, and CI is harmless here only because it rewrites a checkout it never commits and the manifest does not index the verification block
