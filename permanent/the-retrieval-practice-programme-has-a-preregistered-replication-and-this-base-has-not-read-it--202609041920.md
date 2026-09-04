@@ -21,6 +21,8 @@ links:
   relation: shared-concept
 - target_id: morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205
   relation: shared-concept
+- target_id: the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -68,3 +70,22 @@ question, not evidence, and it is filed as one — inquiry
 `what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906`,
 whose route is the project's OSF repository rather than the paper this cycle
 captured.
+
+**Resolved 2026-09-04, for one of the two papers, and left standing as the
+record of the gap.** The Karpicke and Blunt (2011) paper has since been obtained
+and read, and the project's own per-study replication report for it was reached
+through the SSRP's OSF repository and read too. The identification this note
+could make only from a surname and a year is now confirmed at the host — an OSF
+component titled "Replication of Karpicke and Blunt (2011)" among exactly
+twenty-one siblings. The tested result, its outcome and its scope are set out in
+[[the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201]],
+with the primary finding in
+[[retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200]]
+and the metacognitive reversal in
+[[the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202]].
+Nothing above is withdrawn: the caution this note raises — that the SSRP tested
+one result per paper, so what came back promotes that result and not the paper
+or the programme — is carried forward verbatim by 202609042201, which supports
+the retrieval-over-mapping claim only at the single point that was tested. The
+Pyc and Rawson (2010) paper this note also names remains unidentified and
+unread, so the gap is narrowed, not erased.

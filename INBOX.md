@@ -3694,6 +3694,16 @@ endpoint.** Worth a triage attempt on its own account, and worth recording in
 repository is the general case: the paper is the summary, the OSF repository is
 the evidence.
 
+**UPDATE 2026-09-04 (later cycle): the OSF route has now been walked, and it
+worked.** The SSRP repository was reached via the OSF API — node `pfdyw` → the
+component titled "Replication of Karpicke and Blunt (2011)" (`2h3g6`) → its final
+replication report — which answered inquiry 202609041906 (references 202609042130
+and 202609042135; permanents 202609042200/42201/42202). This closes the
+"OSF route untried" item recorded here. **Leads 2 and 3 (the Sparrow supplement
+and a replication of Sparrow Experiments 2-4) remain open**, so this entry stays
+`new` for them; only the OSF-endpoint question is resolved. The success and the
+skill-smith suggestion it prompts are written up in the dated entry below.
+
 **ONE MORE SOURCE THIS CYCLE NAMED AND DID NOT FETCH.** Nature Human Behaviour
 published Correspondences by the original authors alongside the SSRP Letter,
 including one by Sparrow. Permanent 202609041910 rests on the SSRP's account of
@@ -3887,3 +3897,75 @@ tells every cycle to append one line per step and says nothing about how.
 - **asked_by:** human
 
 (no further detail)
+
+## 2026-09-04 — RESOLVED, and a success worth recording: the OSF route works — the SSRP repository was reached via the OSF API for the first time in this base
+
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 Karpicke & Blunt / SSRP cycle)
+
+Filed against the open "OSF route untried" item recorded by the 2026-09-04T18:53Z
+cycle (the "Leads after the SSRP cycle" entry above, now annotated). That entry
+noted that **nobody in this base had ever tried an OSF endpoint** and named the
+SSRP repository as the route to everything the captured Camerer et al. Letter PDF
+could not reach.
+
+**WHAT WORKED.** The OSF API was queried directly and returned public JSON:
+`api.osf.io/v2/nodes/pfdyw` (the SSRP project) → its child component
+`api.osf.io/v2/nodes/2h3g6`, titled "Replication of Karpicke and Blunt (2011)",
+one of exactly twenty-one sibling components → the component's files, down to the
+final replication report PDF and the replication data CSV, codebook, analysis
+script and exclusions file. Both nodes are dedicated CC0 1.0 Universal (public
+domain), confirmed via the API, so the report was captured in full rather than as
+an excerpt (reference 202609042135; the paper itself is reference 202609042130).
+This answered inquiry 202609041906 and let permanent 202609041920 close its gap
+for Karpicke and Blunt. It also confirms, at the host, the figure-legend-only
+identification the earlier cycle had flagged as resting on inference alone.
+
+**SUGGESTION FOR THE NEXT SKILL-SMITH CYCLE (not acted on here; skill changes are
+human-only and skill-smith is not due).** This is the general case, not a
+one-off: for a replication project, the paper is the *summary* and the OSF
+component holds the per-study *evidence* (design, deviations, data, materials).
+A future `skills/source-access-triage` rung could add "try the OSF API
+(`api.osf.io/v2/nodes/<id>`) — walk node → children → files, and check the node
+license before capturing" as a named route, above or beside the author-lab route
+that has worked repeatedly. Recorded here as a candidate rule only; the skill is
+not modified by this cycle.
+
+## 2026-09-04 — Access gap (low priority): Karpicke & Blunt 2011 Supporting Online Material was not fetched
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** low
+- **asked_by:** maintenance-run (2026-09-04 Karpicke & Blunt / SSRP cycle)
+
+The *Science* article was read and captured (reference 202609042130), but its
+Supporting Online Material — the Materials and Methods, Fig. S1 and Table S1 —
+was not fetched. science.org is paywalled for the supplement, and the Unpaywall
+OA location for the DOI is a bibliographic landing page (`americanae.aecid.es`,
+submittedVersion) with a null PDF link, so neither route reached the SOM text.
+
+Low priority: none of the notes written this cycle rest on the SOM. The retention
+figures, effect sizes, the 84% per-subject advantage and the concept-map-from-
+memory design are all in the main-text Report, which was read in full. This is
+logged so a later cycle that wants the exact stimulus materials or the per-item
+methods knows they were not captured and why.
+
+## 2026-09-04 — Data note (low priority, for any future re-analyst): the SSRP replication CSV labels rows KB46–52 "Secondary Collection"
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** low
+- **asked_by:** maintenance-run (2026-09-04 Karpicke & Blunt / SSRP cycle)
+
+While inspecting the SSRP replication materials on OSF (`osf.io/download/pw9jy/`,
+the replication data CSV), rows KB46–52 carry the label "Secondary Collection".
+That sits oddly with the replication report's own statement that a second data
+collection was "Not applicable" to this study. The two may be reconcilable — the
+label could mark a small top-up to reach the planned N rather than a formal
+second-collection deviation — but this cycle did not re-analyse the data to find
+out.
+
+The grounding for permanents 202609042201 and 202609042202 used the report's
+*authoritative stated statistics and its "Not applicable" statement*, not a
+re-analysis of the CSV, so nothing in the base rests on resolving this. Flagged
+purely for any future re-analyst who opens the raw data: the label exists, the
+report says otherwise, and the discrepancy has not been chased down.

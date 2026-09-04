@@ -1,0 +1,238 @@
+EXCERPT CAPTURE — Karpicke & Blunt 2011, "Retrieval Practice Produces More
+Learning than Elaborative Studying with Concept Mapping"
+==============================================================================
+
+Source     : Jeffrey D. Karpicke and Janell R. Blunt. "Retrieval Practice
+             Produces More Learning than Elaborative Studying with Concept
+             Mapping." Science 331, no. 6018 (11 February 2011): 772-775.
+             Published online 20 January 2011.
+DOI        : 10.1126/science.1199327
+PMID       : 21252317
+Fetched    : 2026-09-04T21:05Z
+Fetched from (the copy that returned the full article PDF):
+  https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Blunt_Science.pdf
+  (Purdue University Cognition and Learning Laboratory — the publications
+  index of the paper's first author, Jeffrey D. Karpicke. Rung (c) of the
+  house access ladder, author self-archiving. This is the SAME author lab
+  that supplied the base's Roediger & Karpicke 2006 full text, recorded in
+  reference 202609040305.)
+Abstract also independently confirmed against the authoritative record at:
+  https://pubmed.ncbi.nlm.nih.gov/21252317/  (NLM/PubMed, PMID 21252317)
+Article PDF SHA-256: 6393bed6a1fc905f84f0677648999c3d7bbd1350859bd9559dc273117a46ca3e
+Article PDF bytes  : 500,577
+Article PDF pages  : 5 (this is a scan/print offprint whose pp. 772-775 are
+  interleaved with the two adjacent Science Reports; the Karpicke & Blunt
+  article occupies running-foot pages 772-774 plus refs on the page numbered
+  775's column. Page numbers cited below are the article's printed page
+  numbers from the running foot, not PDF sheet order.)
+
+ACCESS LADDER RECORD (skills/source-access-triage)
+--------------------------------------------------
+(a) Publisher, science.org (https://www.science.org/doi/10.1126/science.1199327):
+    NOT fetched for full text — AAAS paywall; the article page is behind a
+    subscription. Not attempted beyond identifying the canonical URL.
+(b) Unpaywall for the DOI (api.unpaywall.org/v2/10.1126/science.1199327):
+    reports is_oa TRUE but its single "green" OA location
+    (americanae.aecid.es, oai:americanae.aecid.es:3936812, labelled
+    submittedVersion) is a bibliographic LANDING PAGE with url_for_pdf = null.
+    No retrievable full text there. Rung failed as a text source.
+(c) WORKED: the author's Purdue lab publications index (URL above) serves the
+    article PDF directly. Not a scraper mirror and not ResearchGate (forbidden
+    by house rule); the file is hosted on the first author's own institutional
+    lab domain.
+Crossref (api.crossref.org/works/10.1126/science.1199327) independently
+    confirms the bibliographic record: Science, vol 331, issue 6018,
+    pp. 772-775, publisher AAAS, authors Karpicke (Purdue) and Blunt (Purdue),
+    published-print 2011-02-11. is-referenced-by-count 760 as of fetch.
+
+WHY THIS IS AN EXCERPT AND NOT A FULL-TEXT CAPTURE
+--------------------------------------------------
+The article PDF's own first page carries the AAAS notice: "This copy is for
+your personal, non-commercial use only." and "Copyright 2011 by the American
+Association for the Advancement of Science; all rights reserved." This
+repository is public (config.yml visibility: public), so the full text is not
+committed. The article was read IN FULL; only the passages the base's notes
+use are committed below. The SHA-256 above identifies the exact file read, so
+any quotation can be re-derived by anyone who fetches the same file. This is
+the same treatment the base gives Rowland 2014 (raw/202609040600...) and the
+Karpicke 2025 chapter (raw/202609040325...).
+
+Extraction: pypdf 6.17.0 with fontTools installed, text layer only, no OCR.
+Line breaks and hyphenation are the PDF's own and have been closed up in the
+quotations below; the statistics are rendered in their true typographic form
+(the text layer spaces out digits and renders "ηp2" as shown here). Nothing
+else is changed.
+
+
+[1] ABSTRACT, p. 772
+------------------------------------------------------------------------------
+(Verbatim; identical wording confirmed against PubMed PMID 21252317.)
+
+"Educators rely heavily on learning activities that encourage elaborative
+studying, whereas activities that require students to practice retrieving and
+reconstructing knowledge are used less frequently. Here, we show that
+practicing retrieval produces greater gains in meaningful learning than
+elaborative studying with concept mapping. The advantage of retrieval practice
+generalized across texts identical to those commonly found in science
+education. The advantage of retrieval practice was observed with test
+questions that assessed comprehension and required students to make
+inferences. The advantage of retrieval practice occurred even when the
+criterial test involved creating concept maps. Our findings support the theory
+that retrieval practice enhances learning by retrieval-specific mechanisms
+rather than by elaborative study processes. Retrieval practice is an effective
+tool to promote conceptual learning about science."
+
+
+[2] THE FOUR CONDITIONS AND EXPERIMENT 1 DESIGN, pp. 772-773
+------------------------------------------------------------------------------
+"In two experiments, we compared the effectiveness of retrieval practice and
+elaborative studying with concept mapping for producing meaningful learning of
+science materials. Eighty undergraduate students participated in Experiment 1.
+The students first studied a science text under one of four conditions within a
+single initial learning session. In the study-once condition, students studied
+the text in a single study period. In the repeated study condition, students
+studied the text in four consecutive study periods (8). In the elaborative
+concept mapping condition, students studied the text in an initial study period
+and then created a concept map of the concepts in the text. [...] Finally, in
+the retrieval practice condition, students studied the text in an initial study
+period and then practiced retrieval by recalling as much of the information as
+they could on a free recall test. After recalling once, the students restudied
+the text and recalled again. The total amount of learning time was exactly
+matched in the concept mapping and retrieval practice conditions (19)."
+
+"The students then returned to the laboratory 1 week later for a final
+short-answer test. To assess meaningful learning, the test included both
+verbatim questions, which assessed conceptual knowledge stated directly in the
+text, and inference questions, which required students to connect multiple
+concepts from the text."
+
+
+[3] EXPERIMENT 1 — INITIAL LEARNING WAS EQUATED, p. 773
+------------------------------------------------------------------------------
+"The proportion of ideas produced on the initial concept maps and recalled in
+the retrieval practice condition was nearly identical [0.78 and 0.81,
+respectively; F1,38 = 0.46, not significant]. Therefore, the interpretation of
+any differences on the final test is not clouded by differences in initial
+learning time or differences in the initial proportion of ideas correctly
+produced in the concept mapping and retrieval practice conditions."
+
+
+[4] EXPERIMENT 1 — THE HEADLINE RESULT, p. 773
+------------------------------------------------------------------------------
+"On the final test 1 week later, the repeated study, elaborative concept
+mapping, and retrieval practice conditions all outperformed the study-once
+condition on both verbatim and inference questions (Fig. 1, A and B). Retrieval
+practice produced the best learning, better than elaborative studying with
+concept mapping, which itself was not significantly better than spending
+additional time reading. Collapsed across question type (verbatim and
+inference), the advantage of retrieval practice (M = 0.67) over elaborative
+studying with concept mapping (M = 0.45) represented about a 50% improvement in
+long-term retention scores [d = 1.50, F1,38 = 21.63, ηp2 = 0.36]."
+
+Figure 1 legend, p. 773: "On the final short-answer test, retrieval practice
+enhanced long-term learning above and beyond elaborative study with concept
+mapping by one and a half standard deviations (d = 1.50), yet students were
+largely unable to predict this benefit."
+
+
+[5] EXPERIMENT 1 — METACOGNITIVE PREDICTION REVERSAL, p. 773
+------------------------------------------------------------------------------
+"Students' judgments of learning, solicited in the initial learning session,
+reflected little metacognitive knowledge of the benefits of retrieval practice
+(Fig. 1C). Students predicted that repeated studying would produce the best
+long-term retention and that practicing retrieval would produce the worst
+retention, even though the opposite was true (7, 8)."
+
+
+[6] EXPERIMENT 2 — DESIGN AND WHY IT WAS RUN, pp. 773-774
+------------------------------------------------------------------------------
+"We carried out a second experiment to replicate the results of our first
+experiment and extend them in three ways." (three extensions follow: (i)
+generalize to enumeration-structure and sequence-structure texts; (ii) a
+within-subject design testing "how many students showed an advantage of
+retrieval practice over concept mapping"; (iii) two final-test formats.)
+
+"We tested a total of 120 students and used a within-subject design. Each
+student created a concept map of one science text and practiced retrieval of a
+second text."
+
+"In Experiment 2, half of the students took a final short-answer test, like the
+one used in Experiment 1, and half took a final test in which they created
+concept maps of the two texts, without viewing the texts on the final test."
+
+Initial learning in Exp 2 FAVORED mapping, p. 774: "in Experiment 2, students
+produced a greater proportion of ideas on the initial concept maps than they
+did on the initial tests in the retrieval practice condition [0.74 versus 0.65,
+respectively; F1,117 = 23.13, ηp2 = 0.17]. Therefore, the initial level of
+performance favored the concept mapping condition."
+
+
+[7] EXPERIMENT 2 — RESULTS, p. 774
+------------------------------------------------------------------------------
+"Collapsed across the two text formats, the advantage of retrieval practice was
+again large [d = 1.07, F1,59 = 68.54, ηp2 = 0.54]."
+
+"Even when the final test involved using memory to construct a concept map,
+practicing retrieval during original learning produced better performance than
+engaging in elaborative study by creating concept maps during original learning
+[d = 1.01, F1,59 = 58.42, ηp2 = 0.50]."
+
+"Overall, 101 out of 120 students (84%) performed better on the final test after
+practicing retrieval than after elaborative studying with concept mapping."
+
+"Ninety out of 120 students (75%) believed that elaborative concept mapping
+would be just as effective or even more effective than practicing retrieval.
+Most students did not expect that retrieval practice would be more effective
+than elaborative concept mapping, but in fact it was."
+
+
+[7b] TABLE 1 (Experiment 2 per-subject counts), p. 774 — quoted as a table
+------------------------------------------------------------------------------
+"Number of subjects showing different patterns of actual performance and
+metacognitive judgments in Experiment 2."
+
+Actual performance      Retrieval>Mapping   Retrieval=Mapping   Retrieval<Mapping
+  Final SA test                52                  3                   5
+  Final map test               49                  3                   8
+  Total                       101                  6                  13
+Metacognitive predictions
+  Final SA test                12                 14                  34
+  Final map test               18                 17                  25
+  Total                        30                 31                  59
+
+
+[8] CONCLUSION / MECHANISM CLAIM, p. 774
+------------------------------------------------------------------------------
+"Here, we have shown that retrieval practice produces more learning than
+elaborative studying, and we used concept mapping as a means of inducing
+elaboration while students studied. [...] our results make it clear that
+whether a task is considered 'active' is not diagnostic of how much learning
+the task will produce."
+
+"There are several theoretical reasons to expect that the processes involved in
+retrieving knowledge differ fundamentally from the processes involved in
+elaborative studying. [...] Retrieval practice likely enhances the diagnostic
+value of retrieval cues [...]. Thus, mechanisms involved in retrieving knowledge
+play a role in producing learning."
+
+
+[9] FUNDING AND DATES, p. 774 (col. footnotes)
+------------------------------------------------------------------------------
+"This research was supported by a grant from the National Science Foundation
+(0941170)." / "20 October 2010; accepted 10 January 2011 / Published online 20
+January 2011; 10.1126/science.1199327". Supporting Online Material is cited at
+www.sciencemag.org/cgi/content/full/science.1199327/DC1 (Materials and Methods,
+Fig. S1, Table S1) and was NOT fetched for this capture.
+
+
+[10] WHAT IS NOT IN THIS CAPTURE
+------------------------------------------------------------------------------
+The Supporting Online Material (Materials and Methods, Fig. S1, Table S1) was
+not fetched. The exact per-condition means for the study-once and repeated-study
+conditions, and the enumeration-vs-sequence breakdowns of Exp 2 plotted in
+Fig. 2, are shown in figures whose numeric values this capture does not print.
+This capture supports statements about the two experiments' designs, the
+retrieval-vs-concept-mapping comparison, the reported effect sizes (d = 1.50,
+1.07, 1.01), the ~50% Exp-1 advantage, the per-subject counts of Table 1, and
+the metacognitive prediction reversal. It does not support finer per-condition
+claims that live only in the SOM or in the figures.

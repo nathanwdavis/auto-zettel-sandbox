@@ -2468,5 +2468,71 @@
     "publisher": "Metaphysics Research Lab, Stanford University",
     "title": "Divine Simplicity",
     "type": "entry-encyclopedia"
+  },
+  {
+    "DOI": "10.1126/science.1199327",
+    "PMID": "21252317",
+    "author": [
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      },
+      {
+        "family": "Blunt",
+        "given": "Janell R."
+      }
+    ],
+    "container-title": "Science",
+    "id": "202609042130",
+    "issue": "6018",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          11
+        ]
+      ]
+    },
+    "page": "772-775",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping",
+    "type": "article-journal",
+    "volume": "331"
+  },
+  {
+    "URL": "https://osf.io/2h3g6/",
+    "author": [
+      {
+        "family": "Buttrick",
+        "given": "Nick"
+      },
+      {
+        "family": "Gampa",
+        "given": "Anup"
+      },
+      {
+        "family": "Hummer",
+        "given": "Lilian"
+      },
+      {
+        "family": "Nosek",
+        "given": "Brian A."
+      }
+    ],
+    "genre": "Replication report",
+    "id": "202609042135",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          16
+        ]
+      ]
+    },
+    "publisher": "Social Sciences Replication Project, Open Science Framework",
+    "title": "Replication of Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping by Karpicke, J. D. / Blunt, J. R. (2011): Replication Report",
+    "type": "report"
   }
 ]
