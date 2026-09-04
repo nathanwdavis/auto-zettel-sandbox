@@ -1744,5 +1744,66 @@
     },
     "title": "Pardes Rimmonim",
     "type": "book"
+  },
+  {
+    "DOI": "10.1126/science.1207745",
+    "ISSN": "0036-8075",
+    "author": [
+      {
+        "family": "Sparrow",
+        "given": "Betsy"
+      },
+      {
+        "family": "Liu",
+        "given": "Jenny"
+      },
+      {
+        "family": "Wegner",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "Science",
+    "id": "202609041800",
+    "issue": "6043",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          5
+        ]
+      ]
+    },
+    "page": "776-778",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "title": "Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips",
+    "type": "article-journal",
+    "volume": "333"
+  },
+  {
+    "DOI": "10.7717/peerj.10325",
+    "ISSN": "2167-8359",
+    "author": [
+      {
+        "family": "Hesselmann",
+        "given": "Guido"
+      }
+    ],
+    "container-title": "PeerJ",
+    "id": "202609041805",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          6
+        ]
+      ]
+    },
+    "page": "e10325",
+    "publisher": "PeerJ",
+    "title": "No conclusive evidence that difficult general knowledge questions cause a “Google Stroop effect”. A replication study",
+    "type": "article-journal",
+    "volume": "8"
   }
 ]

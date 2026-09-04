@@ -10,7 +10,7 @@ tags:
 - moc
 links: []
 created: '2026-08-30'
-updated: '2026-09-03'
+updated: '2026-09-04'
 ---
 # Zettelkasten method
 
@@ -82,5 +82,31 @@ other's studies by explicit criterion and measured adjacent stretches of delay,
 so the honest picture is a benefit that rises to a few days and falls after, with
 nothing measured at the horizons this map cares about. The third is the one that
 transfers to practice rather than to the literature.
+
+Extended a fourth time on 2026-09-04, and this is the first entry in this
+section about *externalised memory itself* rather than about learning. Every
+source above measures what a person retains; the offloading literature measures
+what happens when they expect a machine to retain it for them, which is the
+thing a slip box actually is:
+
+- [[the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820]]
+- [[expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825]]
+- [[the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830]]
+- [[the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835]]
+- [[the-offloading-literature-varies-expectation-not-accumulation--202609041840]]
+
+Read the first one before quoting any of the others anywhere, because the whole
+group turns on a distinction that the popular name for this literature destroys:
+the famous failed replications and the memory findings are different experiments
+in the same paper, and neither result transfers to the other. The second is the
+one this map gained: a measured cost of expecting a saved copy, and the first
+number in this repository on the premise that
+[[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
+argues from a historian. The third takes away a slogan this map might have
+wanted — *we remember where, not what* — and says exactly why. The last closes
+the question this section was opened to answer: after two literatures, nothing
+read here manipulates accumulation or linking, so the method's warrant is still
+argument rather than measurement, and now that is a checked result instead of an
+assumption.
 
 See also: [[compound-growth--202608311143]]
