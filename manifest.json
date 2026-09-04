@@ -187,6 +187,15 @@
     "202609041010": "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
     "202609041015": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
     "202609041020": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
+    "202609041100": "tusi-al-tibyan-on-3-64-and-29-46--202609041100",
+    "202609041105": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105",
+    "202609041110": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110",
+    "202609041115": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115",
+    "202609041120": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120",
+    "202609041125": "tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125",
+    "202609041130": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
+    "202609041135": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
+    "202609041140": "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -258,8 +267,11 @@
         "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
         "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
+        "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
         "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
+        "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
+        "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
         "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
         "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
       ],
@@ -337,7 +349,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 192,
+  "note_count": 201,
   "notes": [
     {
       "id": "202609041020",
@@ -3357,6 +3369,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabari-on-the-common-word-and-the-shared-god-clause--202609040705.md"
     },
     {
+      "id": "202609041120",
+      "key": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105"
+        }
+      ],
+      "path": "literature/tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120.md",
+      "slug": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid",
+      "tags": [],
+      "title": "al-Tabrisi gives the same gloss word for word, and reads the common word as a call to tawhid issued after the argument was won",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120.md"
+    },
+    {
+      "id": "202609041105",
+      "key": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105",
+      "links": [],
+      "path": "reference/tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105.md",
+      "slug": "tabrisi-majma-al-bayan-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Tabrisi, Majma' al-bayan fi tafsir al-Qur'an, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105.md"
+    },
+    {
       "id": "202608311925",
       "key": "tachin-do-they-worship-the-same-god--202608311925",
       "links": [],
@@ -3392,6 +3433,35 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tachin-makes-accepted-trinitarian-worship-the-test--202608311935.md"
+    },
+    {
+      "id": "202609041110",
+      "key": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110",
+      "links": [],
+      "path": "reference/tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110.md",
+      "slug": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46",
+      "tags": [],
+      "title": "Tantawi, al-Tafsir al-Wasit li-l-Qur'an al-Karim, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110.md"
+    },
+    {
+      "id": "202609041125",
+      "key": "tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110"
+        }
+      ],
+      "path": "literature/tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125.md",
+      "slug": "tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes",
+      "tags": [],
+      "title": "Tantawi glosses the shared-God clause as no partner \"neither in His essence nor in His attributes\", on two independent hosts",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125.md"
     },
     {
       "id": "202608311937",
@@ -3878,6 +3948,10 @@
         {
           "relation": "elaborates",
           "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
         }
       ],
       "path": "permanent/the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915.md",
@@ -3976,7 +4050,15 @@
         },
         {
           "relation": "supports",
+          "target_id": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135"
+        },
+        {
+          "relation": "supports",
           "target_id": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
         }
       ],
       "path": "permanent/the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820.md",
@@ -4043,6 +4125,10 @@
         {
           "relation": "supports",
           "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
         },
         {
           "relation": "source",
@@ -4114,6 +4200,51 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md"
+    },
+    {
+      "id": "202609041135",
+      "key": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105"
+        },
+        {
+          "relation": "source",
+          "target_id": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110"
+        },
+        {
+          "relation": "source",
+          "target_id": "tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-3-64-and-29-46--202609041100"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
+        }
+      ],
+      "path": "permanent/the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135.md",
+      "slug": "the-no-partner-reading-of-the-clause-is-classical-not-modern",
+      "tags": [],
+      "title": "The \"no partner\" reading of the shared-God clause is classical, not a modern development, and no commentator but al-Tabari reads the clause as an identification",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135.md"
     },
     {
       "id": "202609032115",
@@ -4411,6 +4542,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715.md"
     },
     {
+      "id": "202609041140",
+      "key": "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-3-64-and-29-46--202609041100"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115"
+        }
+      ],
+      "path": "permanent/the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140.md",
+      "slug": "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide",
+      "tags": [],
+      "title": "The commentator who says the God is one and the ruling that authorises the sword occupy the same paragraph on both sides of the Sunni-Shi'i divide",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140.md"
+    },
+    {
       "id": "202608311931",
       "key": "the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931",
       "links": [
@@ -4430,6 +4598,43 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931.md"
+    },
+    {
+      "id": "202609041130",
+      "key": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-3-64-and-29-46--202609041100"
+        },
+        {
+          "relation": "source",
+          "target_id": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115"
+        }
+      ],
+      "path": "permanent/the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130.md",
+      "slug": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact",
+      "tags": [],
+      "title": "The Shi'i commentaries do gloss the shared-God clause, so the classical silence is a fact about the Sunni commentaries and not about the tradition",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130.md"
     },
     {
       "id": "202609041015",
@@ -4556,6 +4761,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md"
     },
     {
+      "id": "202609041100",
+      "key": "tusi-al-tibyan-on-3-64-and-29-46--202609041100",
+      "links": [],
+      "path": "reference/tusi-al-tibyan-on-3-64-and-29-46--202609041100.md",
+      "slug": "tusi-al-tibyan-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Tusi, al-Tibyan al-jami' li-'ulum al-Qur'an, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tusi-al-tibyan-on-3-64-and-29-46--202609041100.md"
+    },
+    {
+      "id": "202609041115",
+      "key": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tusi-al-tibyan-on-3-64-and-29-46--202609041100"
+        }
+      ],
+      "path": "literature/tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115.md",
+      "slug": "tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence",
+      "tags": [],
+      "title": "al-Tusi glosses the shared-God clause as \"He has no partner\", and asks why the wrongdoers are excepted when all of them wrong themselves",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115.md"
+    },
+    {
       "id": "202609010910",
       "key": "universal-compounding-turns-bounded-room-into-selection--202609010910",
       "links": [
@@ -4671,6 +4905,14 @@
           "target_id": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816"
         },
         {
+          "relation": "source",
+          "target_id": "tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110"
+        },
+        {
+          "relation": "source",
+          "target_id": "tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920"
         },
@@ -4681,6 +4923,10 @@
         {
           "relation": "source",
           "target_id": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135"
         },
         {
           "relation": "supports",

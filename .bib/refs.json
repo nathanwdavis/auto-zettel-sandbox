@@ -1496,5 +1496,59 @@
     },
     "title": "al-Kashshāf ʿan ḥaqāʾiq ghawāmiḍ al-tanzīl",
     "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn al-Ḥasan al-Ṭūsī"
+      }
+    ],
+    "id": "202609041100",
+    "issued": {
+      "date-parts": [
+        [
+          1067
+        ]
+      ]
+    },
+    "title": "al-Tibyān al-jāmiʿ li-ʿulūm al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=3&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAlī al-Faḍl ibn al-Ḥasan al-Ṭabrisī"
+      }
+    ],
+    "id": "202609041105",
+    "issued": {
+      "date-parts": [
+        [
+          1153
+        ]
+      ]
+    },
+    "title": "Majmaʿ al-bayān fī tafsīr al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=7&tTafsirNo=57&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad Sayyid Ṭanṭāwī"
+      }
+    ],
+    "id": "202609041110",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "title": "al-Tafsīr al-Wasīṭ li-l-Qurʾān al-Karīm",
+    "type": "book"
   }
 ]

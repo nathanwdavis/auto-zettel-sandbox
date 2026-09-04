@@ -414,6 +414,26 @@ This is a `zettel-bootstrap` skill-repo issue, not a content-repo one, so it
 needs a change in the skill repo (`scripts/verify_refs.py`) and is out of
 scope for a content-repo maintenance cycle to fix itself.
 
+### Appended 2026-09-04 11:40Z: still present at skill rev d986b16, and the blast radius has grown with the base
+
+Re-observed by the 11:00Z cycle, unchanged in behaviour and larger in extent:
+`verify_refs.py --repo <copy> --offline --no-render` rewrote **18** reference
+files, up from the 8 recorded above, in exactly the same way — `method:
+raw-capture+openlibrary` downgraded to `raw-capture`, `source:` swapped from the
+registry URL to the local capture path, `identifier_check: confirmed` dropped,
+`date:` restamped with today's. The count grows with the number of
+live-verified references in the base, so this gets worse rather than staler.
+
+Nothing was restored this cycle because nothing needed restoring: the CI
+sequence was run against a COPY of the tree rather than the live one, which is
+now the standing practice precisely because of this entry. That is a workaround
+and not a fix, and it is one an unwary cycle will forget — the failure is
+silent, the gates pass either way, and the loss only shows up as a diff nobody
+looks at. Worth saying plainly for whoever fixes it: **the safe behaviour is for
+an offline pass to leave a stronger existing record alone.** Restamping the date
+while weakening the method is the worst of the options, because it makes the
+downgraded record look fresher than the strong one it replaced.
+
 ## 2026-09-02 — Tooling: `verify_refs.py` erases live provenance on a network failure, and reads a report's series number as an arXiv id
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2016,6 +2036,76 @@ translation debt is now EIGHT sources deep and the Ibn Kathir calibration
 argument for paying it once is unchanged and still right; the juristic
 *mushrikun* literature is untried.
 
+### Appended 2026-09-04 11:30Z: the Shi'i lead paid, item (2) is closed, and a result was reversed
+
+**THE SHI'I TEST WAS RUN AND CAME OUT THE OTHER WAY — the first time in this
+cluster that a test did.** The entry above named the Shi'i commentaries as the
+cheapest place left to find a commentator who *does* gloss the clause, and said
+"no host checked so far carries" them. A host does: **altafsir.com**, published
+by the Royal Aal al-Bayt Institute (Amman). al-Tusi's *al-Tibyan* (d. 460) and
+al-Tabrisi's *Majma' al-bayan* (d. 548) both gloss `وإلهنا وإلهكم واحد`, in the
+same three words — `لا شريك له`. Captured at
+`raw/202609041100-…` and `raw/202609041105-…`.
+
+So the classical silence is a fact about the SUNNI commentaries this base
+sampled, and the school explanation the 10:00Z cycle rejected is right at a
+boundary that cycle could not test (Sunni/Shi'i, not Mu'tazili/Ash'ari). New
+notes 202609041130, 202609041135, 202609041140; 202609040820, 202609040915 and
+202609041010 amended in place. Nothing is withdrawn — each earlier result holds
+inside the sample it was drawn from — but the generalisation to "the tradition"
+fails, and the sampling frame that made it look safe was invisible because every
+source in it shared a property nobody had written down.
+
+**The result that tightens.** The Shi'i gloss is `لا شريك له`, NOT al-Tabari's
+`معبود`. So `معبود` is now absent from ten commentaries across five centuries,
+three schools and both branches, and of the six commentaries that gloss the
+clause, five read it as *tawhid*. 202609040825 called that the "later"
+tradition's reading, drawn from two modern commentaries; it is eleventh-century.
+Al-Tabari's identification is held by exactly one commentator out of eleven.
+
+**ITEM (2) IS CLOSED. Tantawi has his independent host — two of them.**
+altafsir.com carries *al-Wasit* at `tTafsirNo=57`, and **quranpedia.net carries
+him as book 321** (the base had been using quranpedia all along without noticing
+he was on it). Verbatim match on `لا شريك له لا فى ذاته ولا فى صفاته`, differing
+only in the `فى`/`في` variant. Captured at `raw/202609041110-…`; notes
+202609041125 and the amendment on 202609040825.
+*And the cross-check corrects this base:* item (2) above records that his lemma
+"drops `وإلهنا`". It does not. Both hosts carry the full lemma
+`وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِد`; the truncation belonged to the quran.com
+resource-93 copy. Second time in three cycles that a single host's rendering of
+this cluster turned out to be the host's and not the author's.
+
+**ITEM (3), THE TRANSLATION DEBT, IS NOW ELEVEN SOURCES DEEP.** Unpaid again.
+The argument in the original entry — pay it once, on Ibn Kathir, because he alone
+has published English translations — is unchanged, still right, and now carries
+three more sources' worth of exposure than when it was written.
+
+**ITEM (4) HAS AN ACCESS ROUTE AT LAST, AND IT WAS ON THE ENDPOINT ALL ALONG.**
+The entry above says "no access route has been tried for it yet" for the
+juristic *mushrikun* literature. tafsir.app's own resource list — the one the
+09:00Z cycle extracted — carries the *Ahkam al-Qur'an* genre, which is exactly
+where a ruling would live: `aljasas` (al-Jassas d. 370, Hanafi),
+`ilkia-alharrasee` (Ilkiya al-Harrasi d. 504, Shafi'i), `ahkam-ibn-alarabee`
+(Ibn al-'Arabi d. 543, Maliki), `ahkam-altarayfi` (modern). altafsir.com adds
+al-Sabuni's *Tafsir ayat al-ahkam*. Three schools of law, one request each, same
+verses. **This is the highest-value untried thing in this cluster** and it is now
+a known-cheap fetch rather than an open access question.
+
+**WHAT ELSE THE NEW HOST OPENS.** altafsir.com indexes by *madhhab* and carries
+shelves this base has never touched: Twelver Shi'i (`tMadhNo=4`: al-Qummi,
+al-Tabataba'i's *al-Mizan* `56`, al-Fayd al-Kashani's *al-Safi* `41`, al-Bahrani's
+*al-Burhan* `110`, Sadr al-Muta'allihin `40`), Zaydi (`5`), Ibadi (`6`: al-Hawari,
+Atfayyish), Sufi (`3`: al-Tustari, al-Sulami, al-Qushayri, Ibn 'Arabi), and
+al-Maturidi's *Ta'wilat ahl al-sunna* (`94`) — the one major classical
+theological school this base has still not sampled on these verses, and the
+natural next test now that Mu'tazili and Imami are both in.
+
+**WHAT THIS ENTRY STILL LEAVES OPEN.** The two Shi'i captures stand on ONE host
+(eight rungs tried, all recorded in the capture headers). The positive
+quotations are safe on one institutional host; the NEGATIVE taken from them —
+that `معبود` does not occur — is not, and wants a second host before anything is
+built on it. Nothing in the notes currently rests on it that would fall.
+
 ## 2026-09-04 — Tooling, HIGH: the Arabic normaliser used for the mechanical quotation checks can swallow the letters it is supposed to keep
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2092,3 +2182,104 @@ when the absent string is a common word, the cheapest proof that its absence is
 real is to count it somewhere it IS expected, in the same text by the same
 author. That control, not the positive control on the needle, is what makes a
 zero publishable. Suggested for whoever writes the rule into a skill.
+
+### Appended 2026-09-04 11:30Z: the rule generalises, and this cycle found two more ways to manufacture a false absence — one of them its own
+
+The 11:00Z cycle followed this entry's rule (marks by explicit code point,
+letter block kept, positive and negative-side controls in the same pass, written
+into the capture header rather than into anyone's memory). It also hit the same
+FAILURE MODE twice by routes that have nothing to do with normalisation, which
+suggests the rule this entry states is a special case of a more general one.
+
+**(A) A PAGINATED HOST TRUNCATES SILENTLY.** altafsir.com splits a commentary
+section across `&Page=N` and serves a complete-looking page either way. The gloss
+this cycle went looking for is on page 1 for al-Tusi and on page 2 for al-Tabrisi
+and for Tantawi. A first-page-only read — which is what a naive fetch does —
+would have reported two of the three commentaries silent about the clause, and
+the reported silence would have looked exactly like the genuine Sunni silence
+this base spent four cycles establishing. It was avoided by fetching from Page=1
+until the `التالي` control was absent AND a page's body repeated one already
+seen, and both stop conditions are recorded per section in the capture headers.
+
+**(B) FILTERING SOURCE TEXT BY LENGTH DELETES SHORT SENTENCES.** This cycle's own
+first extraction dropped every line under 60 characters as site chrome. That is a
+length heuristic standing in for a content judgement, and it silently deleted a
+real al-Tusi sentence — `فان قيل: لم استثنى الذين ظلموا؟ وكلهم ظالم لنفسه بكفره!`
+(55 characters), one of the more interesting things he says on the verse.
+Length is a proxy for chrome that fails exactly on short declarative sentences,
+which is where authors put their sharpest claims. The extraction was rebuilt to
+remove chrome by what it IS (block/inline tag classes, plus lines recurring
+across three or more independently fetched sections) rather than by how long it
+is, and every count was re-run. The counts did not change — the defect cost one
+sentence and no result — but they were not trustworthy until re-run.
+
+**What caught (B), and it is the transferable part.** Not the controls this entry
+prescribes; those all passed. What caught it was a habit worth writing down on
+its own: **every Arabic quotation intended for a note was substring-matched
+against its capture BEFORE the note was written.** Seventeen matched and one did
+not, and the one that did not was the tool's fault rather than the transcription's.
+Eighteen of eighteen verify under the rebuilt extraction.
+
+**The general rule this suggests, superseding the narrower one above.** A claim
+that a text does NOT say something is a claim about a text you must first prove
+you have IN FULL and are reading CORRECTLY. Normalisation is one of at least
+three places that quietly fails; pagination and chrome-filtering are two more,
+and there will be others. So the controls belong on the whole pipeline, not on
+the normaliser: (i) the needle survives normalisation; (ii) a string known to be
+present IS found, in the same text by the same author, in the same pass;
+(iii) the section was read to its END, by a stated stop condition; (iv) nothing
+was dropped from the served text by any rule that is not about what the text IS.
+Suggested for whoever writes this into a skill, in place of the narrower rule.
+
+## 2026-09-04 — Access, HIGH VALUE: altafsir.com is a madhhab-indexed tafsir host and it opens most of what this cluster still wants
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 11:00Z cycle so a later run spends its turns reading
+rather than finding. This is the first host in this base's experience that
+carries anything but Sunni tafsir, and it was found only because the Shi'i
+commentaries had to be found somewhere.
+
+**Route.** `https://www.altafsir.com/Tafasir.asp?tMadhNo=<M>&tTafsirNo=<T>&tSoraNo=<S>&tAyahNo=<A>&tDisplay=yes&Page=<N>&Size=1&LanguageId=1`
+
+**Three things that will bite anyone who does not know them.**
+1. **Encoding is windows-1256, not UTF-8**, and the Arabic arrives as numeric
+   HTML entities (`&#1649;`-style). Decode as cp1256, then `html.unescape`.
+   Skipping either produces mojibake that looks like a fetch failure.
+2. **Sections are PAGINATED by `&Page=N`.** A page with a successor carries a
+   `التالي` control calling `InnerLink_onchange`. Read to the end or you will
+   manufacture a false absence — see the normaliser entry above.
+3. **Block vs inline tags matter.** The site wraps lemmas per word in `<font>`;
+   convert block tags to newlines but strip inline tags to nothing, or `{ }`
+   lemma braces end up on lines of their own.
+
+**The catalogue, read off the page's own selectors: 11 madhhab groups, 85
+commentaries.** `tMadhNo`: 1 أمهات, 2 أهل السنة, 3 السنة الصوفية, 10 السلفية,
+9 ميسرة, **4 الشيعة الإثنى عشرية**, **5 الزيدية**, **6 الاباضية**, 7 حديثة,
+8 مختصرة. Confirmed working this cycle: 39 al-Tusi *al-Tibyan*, 3 al-Tabrisi
+*Majma' al-bayan*, 57 Tantawi *al-Wasit*.
+
+**What is now one request away and has never been touched by this base:**
+al-Tabataba'i *al-Mizan* (56), al-Qummi (38), al-Fayd al-Kashani *al-Safi* (41),
+al-Bahrani *al-Burhan* (110), Sadr al-Muta'allihin (40), al-Habari (44), Furat
+al-Kufi (45); Zaydi — Zayd b. 'Ali (89), al-A'qam (47); Ibadi — al-Hawari (48),
+Atfayyish (49, 50), al-Khalili (51); Sufi — al-Tustari (29), al-Sulami (30),
+al-Qushayri (31), al-Baqli (32), Ibn 'Arabi (33), Ibn 'Ajiba (37);
+**al-Maturidi *Ta'wilat ahl al-sunna* (94)**, which is the one major classical
+theological school this base has not sampled and the natural next test after
+Mu'tazili (done) and Imami (done); al-Sabuni *Tafsir ayat al-ahkam* (85), which
+speaks to the juristic *mushrikun* question; al-Sha'rawi (76), Rashid Rida's
+*al-Manar* (103).
+
+**What it does NOT solve.** It is one host. No second host for al-Tusi or
+al-Tabrisi was found from this environment; eight rungs were tried and each
+failure mode is written into the capture headers (tafsir.app, quranpedia.net and
+quran.ksu.edu.sa proven ABSENT from their own resource lists; al-maktaba.org 403;
+shiaonlinelibrary.com and ar.lib.eshia.ir no connection; shamela.ws and
+hodaalquran.com reachable but not verse-indexed). So NEGATIVE claims from
+altafsir-only captures are not yet safe. Specifically open: **confirm on a second
+host that `معبود` does not occur in al-Tusi's or al-Tabrisi's comment on Q 29:46.**
+Nothing currently rests on that absence in a way that would fall, but it is
+stated in two literature notes and in 202609041135's tally of ten.

@@ -27,9 +27,26 @@ links:
   relation: supports
 - target_id: the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
   relation: elaborates
+- target_id: the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
+  relation: supports
+- target_id: the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
+
+> **AMENDED 2026-09-04 11:30Z — the core claim tightens; one word in the title
+> loosens.** `معبود` is now absent from ten commentaries rather than seven: the
+> three added this cycle — al-Tusi, al-Tabrisi and Tantawi — do not use it
+> either, so al-Tabari's identification is more isolated than when this note was
+> written, not less
+> ([[the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135]]).
+> But "pass over the shared-God clause in silence" is now wrong of two of them:
+> al-Tusi and al-Tabrisi DO gloss the clause — just not as al-Tabari does
+> ([[the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130]]).
+> The silence claim in the title is bounded to the Sunni commentaries; the
+> identification claim is not, and is stronger for the additions.
+> (The three new counts rest on one host; see the capture headers.)
 
 al-Tabari's gloss of `وَإِلَهُنَا وَإِلَهُكُمْ وَاحِدٌ` as `ومعبودنا ومعبودكم
 واحد` — the one we worship and the one you worship is one — is not carried
