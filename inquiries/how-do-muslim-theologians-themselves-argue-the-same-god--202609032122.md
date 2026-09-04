@@ -40,6 +40,9 @@ result_notes:
 - the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445
 - the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450
 - the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455
+- the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
+- an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515
+- the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -464,3 +467,46 @@ has counted nothing. The Imami and Zaydi attribution rests on one modern Sunni
 author's single clause, and no Imami, Zaydi or classical *ahkam* text is in the
 base — al-Jassas, Ilkiya al-Harrasi and Ibn al-'Arabi are all reachable and all
 untried. Both gaps are filed to INBOX with the routes.
+
+### Appended 2026-09-04 15:00Z: the Imami half splits too, and a claim this inquiry made from Sunni sources is now made inside Shi'ism
+
+Still `answered`; three more `result_notes`, no reopening. The previous section
+recorded the Shi'i juristic half as read from inside and the Imami attribution as
+CONFIRMED. That was two commentaries, both classical. A third — al-Tabataba'i's
+*al-Mizan* (d. 1401/1981), the witness the standing INBOX entry had itself named
+as the strongest remaining test — argues the opposite, and the confirmation has
+to be narrowed to what it actually covers.
+
+**Narrowed: "the Imami half is closed."** Al-Tusi and al-Tabrisi do claim the
+strict reading with `عندنا` and `مذهبنا`; nothing there is withdrawn. But
+al-Tabataba'i denies that Q 2:221's `المشركات` reaches the People of the Book at
+all, calls the abrogation `فساد` in both directions, and answers his own school's
+*naskh* report from al-Baqir with the objection that an abrogator may not precede
+what it abrogates. So both branches of Shi'ism this inquiry has read are
+internally divided on this verse, and al-Sabuni's clause was owed a `بعض` on the
+Imamiyya as much as on the Zaydis
+([[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]]).
+
+**Strengthened, and this is the part that bears on the inquiry's own question.**
+The argument that the Qur'an's `المشركون` does not range over the People of the
+Book was held here from two Sunni authors. It is now held from an Imami one, run
+over the whole corpus rather than two verses, and carried one step further:
+`غير أن إطلاق الفعل غير إطلاق الوصف والتسمية به` — predicating the deed is not
+predicating the name — with a Muslim who neglects the *hajj* as the parallel,
+`ليس تارك الحج كافرا`. That separates the doctrinal question (does trinitarian
+worship associate?) from the legal one (does the Qur'an's word for associators
+reach them?), which is the distinction this inquiry has been circling since the
+*ma'bud* result was withdrawn
+([[an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515]]).
+
+**And the rule outlived the argument.** Having rejected the abrogation,
+al-Tabataba'i rebuilds the same restriction on permanent marriage as *takhsis*
+and grounds the surviving *mut'a* permission in what he reports the school
+practises. Three Imami commentaries, three different arguments, one rule — which
+is a reason to state the base's finding as being about the rule rather than about
+the *naskh* machinery
+([[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]).
+
+Still missing, unchanged after three cycles of trying: any Imami or Zaydi *fiqh*
+text. Every Shi'i witness this inquiry holds is a *tafsir*, and al-Tabataba'i
+himself twice defers the operative rule to *fiqh*.

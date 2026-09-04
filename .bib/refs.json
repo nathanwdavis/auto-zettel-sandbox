@@ -1676,5 +1676,23 @@
     },
     "title": "Tafsīr al-Aʿqam",
     "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=56&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad Ḥusayn al-Ṭabāṭabāʾī"
+      }
+    ],
+    "id": "202609041500",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "title": "al-Mīzān fī tafsīr al-Qurʾān",
+    "type": "book"
   }
 ]

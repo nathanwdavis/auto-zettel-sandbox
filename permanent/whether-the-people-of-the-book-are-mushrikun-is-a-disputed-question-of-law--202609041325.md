@@ -25,6 +25,8 @@ links:
   relation: elaborates
 - target_id: the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455
   relation: elaborates
+- target_id: the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -103,3 +105,21 @@ as written; what has changed is that it no longer rests on a single modern
 report, and that "the Shi'a" would have been wrong where "some Zaydis" is right.
 Still outstanding, and still filed to INBOX: no Imami or Zaydi *fiqh* text has
 been captured, only the commentaries.
+
+**Corrected 2026-09-04 15:00Z: "closed on the Imami half" was premature, and the
+Imami half needs the same qualifier as the Zaydi one.** The paragraph above was
+written when the base held two Imami commentaries, both classical and both
+strict. A third has been read — al-Tabataba'i's *al-Mizan*, the major
+twentieth-century Imami commentary — and it argues the opposite at the root:
+Q 2:221's `المشركات` does not reach the People of the Book, and the abrogation
+claim is `فساد` in both directions
+([[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]]).
+So al-Sabuni's clause is accurate about the classical Imami commentaries and too
+strong about the Imamiyya as such, in the same way it would have been too strong
+about the Zaydis without its `بعض`. Two things this does *not* disturb: the
+sentence in the body remains a fair report of what al-Sabuni wrote, and the
+*content* of the restriction — the permanent contract, not the association —
+survives al-Tabataba'i's rejection of the argument for it, rebuilt as
+specification rather than abrogation
+([[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]).
+What is now wrong is only the word "closed".

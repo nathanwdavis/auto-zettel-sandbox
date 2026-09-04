@@ -2238,6 +2238,27 @@ real is to count it somewhere it IS expected, in the same text by the same
 author. That control, not the positive control on the needle, is what makes a
 zero publishable. Suggested for whoever writes the rule into a skill.
 
+### Appended 2026-09-04 15:00Z: the rule caught a real error this cycle, and the error was the run's, not the source's
+
+Twenty-nine quotations checked against one capture, controls in the same pass:
+`norm('المشركات') -> 'المشركات'` (needle survives), `أهل الكتاب` counted at 30 in
+the Q 5:5 section (the common-word control this entry asked for), `الزيدية` at 0
+in both sections (negative control). Twenty-eight hit on the first attempt.
+
+**The one MISS is the point.** A phrase about Q 5:5 being cast in the register of
+favour — `مورد الامتنان والتخفيف` — was drafted against the Q 5:5 section and
+returned zero. It is in the source, in the Q 2:221 section, phrased
+`واردة مورد الامتنان والتخفيف`; the Q 5:5 section says the same thing as
+`واقعة موقع الامتنان والتخفيف`. So the check caught a *drafting* error — a real
+sentence attributed to the wrong section — rather than a hallucination, and the
+fix was to quote both sections' wording rather than to drop the point.
+
+Worth adding to the rule when someone writes it into a skill: the checks earn
+their keep on attribution errors, not only on invented quotations, and a MISS is
+therefore a prompt to search the *other* sections of the same capture before
+concluding anything about the source. Cheap, and it turned a loss into a better
+paragraph twice this cycle.
+
 ### Appended 2026-09-04 11:30Z: the rule generalises, and this cycle found two more ways to manufacture a false absence — one of them its own
 
 The 11:00Z cycle followed this entry's rule (marks by explicit code point,
@@ -2528,6 +2549,16 @@ al-Jassas, no Ilkiya al-Harrasi and no Ibn al-'Arabi *Ahkam al-Qur'an*, in any
 group** — that was not a mis-read of the Sunni selector, it is a real absence,
 and the classical Hanafi/Maliki *ahkam* works remain uncaptured.
 
+**SUPERSEDED 2026-09-04 15:00Z — read the next paragraph, then discount it.** The
+paragraph below names the numeric pager as "the correct detector". It is not: the
+pager is a sliding window of eleven links, so its maximum read from page 1 is a
+LOWER BOUND, exact only for sections of eleven pages or fewer. al-Tabataba'i on
+Q 5:5 advertises 11 and runs to 14, and the three hidden pages are the
+load-bearing ones. The detector that works is the TEXT — page while the page
+carries a line other than the verse, then two probe pages — and the evidence is
+in the final entry of this file. The paragraph below is kept because its account
+of why the `التالي` rule failed is still right.
+
 **ONE OF THE THREE TRAPS IS WRONG AS FILED, AND IT COST THIS CYCLE A PASS.**
 Trap 2 says a page with a successor "carries a `التالي` control calling
 `InnerLink_onchange`". The control exists — but `التالي` is the **`alt`
@@ -2581,6 +2612,34 @@ plus all Zaydi, Ibadi and Sufi works, al-Sha'rawi (76) and *al-Manar* (103).
   known to this base carries Zaydi tafsir except altafsir.com**, so there is no
   second-host route for either Zaydi capture, and the eight rungs recorded
   against Shi'i tafsir apply here unchanged.
+
+- **2026-09-04 15:00Z: the entry's own named test was run, and it came back the
+  other way.** This entry (as extended at 14:00Z) said "Al-Tabataba'i (56) would
+  be the strongest". He was captured, on Q 2:221 (4 pages) and Q 5:5 (14 pages):
+  `raw/202609041500-tabatabai-al-mizan-2-221-and-5-5-arabic.txt`, reference
+  202609041500, literature 202609041505, permanent 202609041510 / 1515 / 1520.
+  **He dissents.** `المشركات` in Q 2:221 does not reach the People of the Book —
+  `قصر التحريم على المشركات والمشركين من الوثنيين دون أهل الكتاب` — and the
+  abrogation claim is `فساد` in both directions, blocked on the chronology
+  (al-Baqara first Medinan, al-Ma'ida last: `ولا معنى لنسخ السابق اللاحق`). He
+  quotes his own school's *naskh* reports — al-Baqir via Zurara and al-'Ayyashi —
+  and answers them with the same objection: `ولا يجوز تقدم الناسخ على المنسوخ`.
+  **So the Imami half is SPLIT, exactly as the Zaydi half was**, and the base's
+  "closed on the Imami half" has been retracted in 202609041325.
+  **What survives, and it is the more interesting half.** The restriction on the
+  permanent contract outlives the argument for it: al-Tabataba'i rebuilds it as
+  *takhsis* (`مخصصاً متقدماً`) rather than *naskh*, and grounds the surviving
+  *mut'a* permission in `وقد عمل بها الأصحاب`. Three Imami commentaries, three
+  arguments, one rule.
+  **What is still open, and it is now the ONLY thing this entry is waiting on.**
+  No Imami or Zaydi *fiqh* text, in three cycles of trying — every Shi'i witness
+  in the base is a *tafsir*, and al-Tabataba'i twice defers the operative rule to
+  *fiqh* (`وللكلام تتمة تطلب من الفقه`). The Yahya/al-Qasim attribution also
+  still rests on al-A'qam alone. Candidate next steps, in cost order: al-Bahrani
+  (110) or al-Fayd al-Kashani (41) on the same two verses, both one request away
+  on `tMadhNo=4`, as a fourth and fifth Imami reading; and, for the *fiqh* gap, a
+  host search for al-Hilli's *Tadhkirat al-fuqaha'* or al-Muhaqqiq's *Shara'i'
+  al-Islam* — neither is on altafsir.com, which carries *tafsir* only.
 
 Filed by the 2026-09-04 13:00Z cycle, against its own note.
 
@@ -2691,6 +2750,85 @@ entry can be closed by a human;** the cache-drift half is what keeps it open, an
 it is a human fix (re-run the environment setup, or pin `ZETTEL_SKILL_REF` to the
 tag the setup script installs and bump the pair as a release step).
 
+### Appended 2026-09-04 15:00Z: seventh cycle, same rev, same gap — and the container ships a FULL checkout, so the sanctioned step 1 is enough
+
+**Still drifted, still at `7181e41`, still 50 commits behind `origin/main`
+(`d986b16`).** Seven cycles now: 2026-09-03T20:53Z, and 2026-09-04 at 04:53Z,
+05:53Z, 09:52Z, 13:00Z, 13:53Z and this one. The number does not move because the
+environment cache does not, which is what makes this a human fix and not a run
+fix.
+
+**One correction to the 13:00Z appendix, so the next run does not pay for the
+wrong workaround.** That appendix says the cached tree "ships only `SKILL.md`
+plus a `scripts/` directory missing" eight files, and prescribes a
+`git clone --depth 1` into scratch. On this container — as on the 13:53Z one —
+`/opt/zettel-skill` is a **full git checkout** with a working `origin`, so the
+clone is unnecessary: `remote_cycle.sh refresh-skill`, which is the skill's own
+sanctioned step 1, fast-forwards it in place, and `start` re-execs itself when it
+does. Both descriptions are presumably true of different container images; the
+cheap probe that tells you which you have is
+`git -C /opt/zettel-skill rev-parse --short HEAD` — if it answers, refresh-skill
+is enough, and only if it errors do you need the scratch clone.
+
+**Dependencies drift with it, in a way `requirements.txt` alone does not fix.**
+Same state as 13:53Z: `pypdf` absent entirely, and the Debian-packaged
+`cryptography` 41.0.7 shadowing anything pip installs, so `import pypdf` raises
+`pyo3_runtime.PanicException` and NOT an ImportError — it looks like a crash, not
+a missing package. `pip install -r requirements.txt` does not clear it; `pip
+install --ignore-installed cryptography` does (→ pypdf 6.17.0 / cryptography
+50.0.1). Probe before and after with `python3 -c "import pypdf, cryptography"`;
+that probe is what proves the fix, and it costs nothing.
+
+## 2026-09-04 — Environment, NEW DEFECT: a squash-merged repo leaves a divergent local `main`, and `remote_cycle.sh start` correctly refuses to run
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run
+
+Filed by the 2026-09-04 15:00Z cycle, against its own first attempt.
+
+**What happened.** The first `remote_cycle.sh start` of this cycle failed:
+
+    git pull -q --ff-only origin main
+    fatal: Not possible to fast-forward, aborting.
+
+`start` handled it correctly — the `ERR` trap fired, the lock it had just claimed
+was released, and the error went to stderr — so nothing was stranded and the
+lock was free for the retry. This is a report about a missing *recovery*, not
+about a missing guard.
+
+**Why it happens, and why it will happen again.** This container's clone carries
+a local `main` at `e1d091a`, the six-commit genesis history of 2026-08-31
+(`eea79d6` → `9d88312` → `05e00b7` → `987a0ce` → `b50bf2c` → `e1d091a`). That
+history reached `origin/main` through PR #1, which was **squash-merged**. Squash
+rewrites the hashes, so the local branch is not merely behind — it reads as
+**6 ahead / 79 behind**, and `--ff-only` refuses it, correctly. Every fresh
+container whose clone predates a squash merge on this repo will land in the same
+state, and this repository squash-merges every maintenance PR.
+
+**The fix, which is one line and was safe here.** The session's own checkout
+branch was already at `origin/main`, so nothing was at risk:
+
+    git -C <repo> checkout main && git reset --hard origin/main
+
+`start` then succeeded. The reset discarded only history that `origin/main`
+already contains in squashed form — which was **checked** (`git log --oneline
+main ^origin/main` listed exactly the six genesis commits) rather than assumed.
+
+**What would close this entry.** A `start` that, on a `--ff-only` failure,
+distinguishes "diverged because the remote squash-merged us" (safe: hard-reset to
+`origin/<default>`) from "diverged because someone has unpushed work here" (not
+safe: stop and say so). The cheap discriminator is whether every local-only
+commit is reachable from a merged PR, or more simply whether the working tree and
+the run branch are clean and the local branch has no reflog entries from this
+session. Until then a run that hits this should do the reset by hand, after
+looking at `git log --oneline main ^origin/main`, and say in its report that it
+did.
+
+**Do not "fix" this by making the pull non-ff.** A merge or a rebase here would
+manufacture a second copy of the genesis history on top of the real one, and the
+first run to push from that branch would carry it into a PR.
+
 ## 2026-09-04 — Access, HIGH: the altafsir.com paging rule this base wrote down was wrong, it truncated two committed captures, and the trap it names is general
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2764,3 +2902,61 @@ altafsir access entry above, so it does not need re-deriving. And two further
 sections are known to be longer than any read so far assumed, if a cycle wants
 them: al-Tabrisi on Q 112:1 runs to **eight** content pages, al-Maturidi on
 Q 29:46 to three.
+
+### Appended 2026-09-04 15:00Z: the SECOND detector this entry's predecessors trusted is also wrong, and the reason is a window of eleven
+
+This entry corrected the `التالي` rule. It left standing the rule the 13:00Z
+cycle wrote in the access entry above — "the correct detector is the numeric
+pager in the RAW HTML: every page emits `InnerLink_onchange(<tafsir>,<page>,
+<size>)`, and the maximum of those page numbers is the page count." That is
+**also wrong**, and wrong in the most dangerous way available: it is exact inside
+a range and silently short outside it.
+
+**The mechanism, probed rather than inferred.** The pager renders at most eleven
+links and slides forward one block at a time. On al-Tabataba'i's Q 5:5 section:
+
+    on page  1: pager offers [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    on page  5: pager offers [1, 2, 3, 4, 6, 7, 8, 9, 10, 11]
+    on page 10: pager offers [1, 2, 3, 4, 5, 6, 7, 8, 9, 11]
+    on page 11: pager offers [1, 10, 12, 13, 14]   <- the next block appears ONLY here
+    on page 14: pager offers [1, 11, 12, 13]
+
+So `max(InnerLink_onchange)` read from page 1 is a **lower bound**, exact for
+sections of eleven pages or fewer and short for anything longer. That section
+advertises 11 and runs to 14.
+
+**What it would have cost this cycle.** Pages 12 and 13 — the two the pager hides
+— are the ones carrying `أصحابنا`, the Imami *naskh* narrations from al-Baqir,
+and al-Tabataba'i's answer to them. They are the entire reason the source was
+sought. A run trusting the written rule would have taken the capture short
+exactly where its value is, and would have had a complete-looking eleven-page
+section to show for it.
+
+**What it cost the base: nothing, and that was audited.** Only two committed
+captures were taken under the pager rule, and both were re-fetched to content
+exhaustion this cycle:
+
+| capture | pager said | true pages | verdict |
+|---|---|---|---|
+| `raw/202609041300-qurtubi-…-2-221` | 11 | 11 | ✓ complete |
+| `raw/202609041305-sabuni-…-2-221`  |  4 |  4 | ✓ complete |
+
+Note *why* the rule survived being written: al-Qurtubi's section is exactly
+eleven pages, the last length at which the window is still exact. It was
+validated on the boundary case and on a case well inside it, and both passed.
+
+**The rule to inherit, superseding both detectors.** Do not test the navigation.
+Page while the page carries a line other than the verse text, then fetch two
+further pages and record them in the capture header. That is the 14:00Z rule and
+it is now confirmed a third time. The pager is still *useful* — as a lower bound
+that tells you how many pages to expect — and it is never sufficient.
+
+**And the generalisation, which is worth more than the altafsir fact.** A proxy
+that is *unreliable* gets caught. A proxy that is *exact inside a window* does
+not: it passes every test taken inside the window, and the person who writes it
+down has usually only worked inside the window. So when a host offers a count,
+a total, or a result set, find the mechanism's boundary — window size, page cap,
+result limit — and test AT it and PAST it. Three cycles have now found three
+versions of one mistake (a length filter, a frequency-based chrome filter, two
+navigation controls); this is the fourth, and the first where the proxy was
+right in every case anyone had checked.

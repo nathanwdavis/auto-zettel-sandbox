@@ -362,6 +362,34 @@ out to be old: al-Tabrisi writes `بعض الزيدية` in the twelfth century,
 phrase al-Sabuni uses in the twentieth, which is how a claim carried on one
 modern witness became a claim carried across eight centuries and both sects.
 
+#### Added 2026-09-04 15:00Z: the Imami half is split too, and the modern voice dissents
+
+The section above says the Imami half is "confirmed and sharpened". It now needs
+its own qualifier, on the same pattern the Zaydi half already carried. The
+strongest remaining Imami witness — al-Tabataba'i's *al-Mizan*, the most widely
+read Imami commentary of the modern period, and the one the access catalogue had
+named in advance as the largest single gap — argues the opposite of al-Tusi and
+al-Tabrisi, at the root rather than at the edges.
+
+- [[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]]
+- [[an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515]]
+- [[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]
+
+Three results, in order of how much they cost the section above. First, both
+branches of Shi'ism this base has read are internally divided on this verse, so
+the sectarian reversal it was building — Shi'i commentaries glossing the
+shared-God clause, Shi'i jurists taking the stricter line — is a statement about
+classical commentaries and not about a confession. Second, the argument from
+Qur'anic usage that the base held from two Sunni authors is now held from an
+Imami one as well, carried further: al-Tabataba'i separates *doing* shirk from
+being *named* a mushrik, which is what lets the same verse run the word at two
+extensions without contradiction. Third, and cutting the other way, the rule
+outlives the argument: having called the abrogation `فساد`, he reaches the same
+restriction on permanent marriage by *takhsis*, and grounds the surviving *mut'a*
+permission in what he says the school practises. What the outside summary got
+right was the outcome for one contract; what it lost was everything that makes
+the outcome intelligible.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
