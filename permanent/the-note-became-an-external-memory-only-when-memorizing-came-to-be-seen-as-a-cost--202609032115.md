@@ -16,8 +16,10 @@ links:
   relation: historical-connection
 - target_id: systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110
   relation: shared-concept
+- target_id: expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825
+  relation: supports
 created: '2026-09-03'
-updated: '2026-09-03'
+updated: '2026-09-04'
 ---
 
 Treating notes as memory kept outside the head looks like the obvious point of
@@ -56,3 +58,15 @@ documented and the path between them is not, so this note is anchored on a
 before and an after and should not be read as a traced lineage. Her twentieth
 -century material is also the thin end of her evidence; the article's weight is
 early modern.
+
+**Addition, 2026-09-04.** When this note was written, its premise — that
+delegating to the page changes what stays in the head — was argued and never
+measured, on either side. It now has one measurement behind it:
+[[expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825]],
+where believing a machine had saved what you typed cost nine points of recall
+in the same session, with nothing else about the task varying. That is support
+for the premise only. Chavigny's claim is that the trade is *worth making* —
+that what is freed goes to "higher intellectual qualities" — and no source in
+this repository measures the freed side of it. The measurement also arrives
+carrying its own warnings, which the linked note carries with it: one small
+unreplicated experiment, on unconnected trivia, inside a single session.

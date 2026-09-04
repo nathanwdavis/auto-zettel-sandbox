@@ -243,6 +243,15 @@
     "202609041730": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
     "202609041740": "a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740",
     "202609041745": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745",
+    "202609041800": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800",
+    "202609041805": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805",
+    "202609041810": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810",
+    "202609041815": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815",
+    "202609041820": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820",
+    "202609041825": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825",
+    "202609041830": "the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830",
+    "202609041835": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835",
+    "202609041840": "the-offloading-literature-varies-expectation-not-accumulation--202609041840",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -370,13 +379,18 @@
         "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
         "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620",
         "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
+        "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825",
         "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
         "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
+        "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835",
+        "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820",
         "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615",
         "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
-        "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215",
+        "the-offloading-literature-varies-expectation-not-accumulation--202609041840",
+        "the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830"
       ],
-      "status": "in-progress",
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -418,7 +432,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 248,
+  "note_count": 257,
   "notes": [
     {
       "id": "202609041020",
@@ -1847,6 +1861,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
+      "id": "202609041825",
+      "key": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115"
+        }
+      ],
+      "path": "permanent/expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825.md",
+      "slug": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session",
+      "tags": [],
+      "title": "Expecting a saved copy cost nine points of recall in the same session",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825.md"
+    },
+    {
       "id": "202609040830",
       "key": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
       "links": [
@@ -2037,6 +2084,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345.md"
+    },
+    {
+      "id": "202609041815",
+      "key": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805"
+        }
+      ],
+      "path": "literature/hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815.md",
+      "slug": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original",
+      "tags": [],
+      "title": "Hesselmann failed to recover the priming effect and audited the original",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815.md"
+    },
+    {
+      "id": "202609041805",
+      "key": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805",
+      "links": [],
+      "path": "reference/hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805.md",
+      "slug": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect",
+      "tags": [],
+      "title": "Hesselmann, No Conclusive Evidence of a Google Stroop Effect",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805.md"
     },
     {
       "id": "202609011037",
@@ -3785,6 +3861,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532.md"
     },
     {
+      "id": "202609041800",
+      "key": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800",
+      "links": [],
+      "path": "reference/sparrow-liu-and-wegner-google-effects-on-memory--202609041800.md",
+      "slug": "sparrow-liu-and-wegner-google-effects-on-memory",
+      "tags": [],
+      "title": "Sparrow, Liu and Wegner, Google Effects on Memory",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sparrow-liu-and-wegner-google-effects-on-memory--202609041800.md"
+    },
+    {
+      "id": "202609041810",
+      "key": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        }
+      ],
+      "path": "literature/sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810.md",
+      "slug": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones",
+      "tags": [],
+      "title": "Sparrow, Liu and Wegner ran one priming experiment and three offloading ones",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810.md"
+    },
+    {
       "id": "202609010802",
       "key": "storing-links-as-objects-makes-association-durable-and-shareable--202609010802",
       "links": [
@@ -4495,6 +4600,76 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920.md"
     },
     {
+      "id": "202609041835",
+      "key": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815"
+        },
+        {
+          "relation": "source",
+          "target_id": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820"
+        }
+      ],
+      "path": "permanent/the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835.md",
+      "slug": "the-google-effect-headline-rests-on-four-words-seen-once-each",
+      "tags": [],
+      "title": "The Google effect headline rests on four words seen once each",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835.md"
+    },
+    {
+      "id": "202609041820",
+      "key": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "source",
+          "target_id": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815"
+        },
+        {
+          "relation": "source",
+          "target_id": "hesselmann-no-conclusive-evidence-of-a-google-stroop-effect--202609041805"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        }
+      ],
+      "path": "permanent/the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820.md",
+      "slug": "the-google-effects-replication-record-reaches-only-its-priming-experiment",
+      "tags": [],
+      "title": "The Google effect's replication record reaches only its priming experiment",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820.md"
+    },
+    {
       "id": "202609041445",
       "key": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
       "links": [
@@ -5013,6 +5188,10 @@
           "target_id": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105"
         },
         {
+          "relation": "supports",
+          "target_id": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110"
         }
@@ -5022,7 +5201,7 @@
       "tags": [],
       "title": "The note became an external memory only when memorizing came to be seen as a cost",
       "type": "permanent",
-      "updated": "2026-09-03",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
     },
     {
@@ -5073,6 +5252,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215.md"
+    },
+    {
+      "id": "202609041840",
+      "key": "the-offloading-literature-varies-expectation-not-accumulation--202609041840",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        }
+      ],
+      "path": "permanent/the-offloading-literature-varies-expectation-not-accumulation--202609041840.md",
+      "slug": "the-offloading-literature-varies-expectation-not-accumulation",
+      "tags": [],
+      "title": "The offloading literature varies expectation, not accumulation",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-offloading-literature-varies-expectation-not-accumulation--202609041840.md"
     },
     {
       "id": "202609032210",
@@ -5288,6 +5500,35 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537.md"
+    },
+    {
+      "id": "202609041830",
+      "key": "the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800"
+        },
+        {
+          "relation": "source",
+          "target_id": "sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "topic-head-filing-optimizes-retrieval-not-connection--202609010604"
+        }
+      ],
+      "path": "permanent/the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830.md",
+      "slug": "the-remember-where-not-what-result-compares-cued-recall-with-uncued",
+      "tags": [],
+      "title": "The remember-where-not-what result compares cued recall with uncued",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830.md"
     },
     {
       "id": "202608311942",
@@ -6233,7 +6474,7 @@
       ],
       "title": "Zettelkasten method",
       "type": "moc",
-      "updated": "2026-09-03",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/zettelkasten-method--202608301300.md"
     }
   ],
