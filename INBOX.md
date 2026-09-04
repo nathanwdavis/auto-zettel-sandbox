@@ -670,6 +670,23 @@ references verified on the live pass. The five new reference notes carry a URL
 and no DOI/ISBN/PMID/arXiv id, the same safe shape as the 07:00Z cycle's, and
 came through untouched.
 
+**Occurrence 13, 2026-09-04 13:00Z cycle — defect (A), and the count is now
+stable enough to be diagnostic.** The full CI sequence was simulated on a COPY of
+the exact tree to be pushed and passed all six steps (offline 67/67, manifest
+`--check` up to date, four lints clean, sandbox clean against the merge-base).
+`verify_refs.py --offline --no-render` again rewrote **18 reference files** it
+had no business touching — the identical count the 12:00Z cycle recorded, from a
+tree that has since gained two references. That is the useful new datum: the
+footprint did NOT grow with the base. Both new reference notes (202609041300,
+202609041305) carry a URL and no DOI/ISBN/PMID/arXiv id, and both came through
+untouched, which is now the fourth consecutive cycle in which URL-only notes are
+the ones spared. The footprint tracks notes carrying a registry identifier, not
+notes generally — so the defect is in the offline path's handling of the
+identifier-check state, and a fix can be scoped to that. Defect (B) did not fire
+this cycle: the live pass raised only the two known documented identifier
+warnings (polkinghorne 202609022347, schmidt 202609010302) and rewrote nothing
+that had to be restored.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2112,6 +2129,38 @@ quotations are safe on one institutional host; the NEGATIVE taken from them —
 that `معبود` does not occur — is not, and wants a second host before anything is
 built on it. Nothing in the notes currently rests on it that would fall.
 
+### Appended 2026-09-04 13:00Z: item (4) is answered from fiqh, and it took a different verse
+
+**THE JURISTIC QUESTION IS NO LONGER UNTRIED.** It was answered, but not on the
+verses this entry assumed. Q 3:64 and Q 29:46 are not verses that carry a
+ruling, so the *ahkam* literature has little to say on them; the place the law is
+actually forced to fix the extension of `المشركون` is **Q 2:221**, the marriage
+prohibition. Captured this cycle from al-Qurtubi (the classical *ahkam* tafsir)
+and al-Sabuni (a modern *ayat al-ahkam* work), and the result is the thing this
+entry said would have to exist if anyone had resolved the tension: the tradition
+does register it, as a disputed question about a word's extension, with the
+majority holding that the Qur'an's own conjunction of `أهل الكتاب` and
+`المشركين` at Q 2:105 and Q 98:1 keeps the two apart. See 202609041320,
+202609041325 and 202609041330.
+
+So the generalisable lesson for this cluster, and it is worth more than the
+finding: **the silence the commentary sweep found was a fact about those two
+verses, not about the tradition.** Eight cycles read eleven commentators on the
+same pair and found the same silence; one cycle changed the verse and found the
+question litigated by name across schools. When a sweep keeps returning the same
+absence, the next move is a different text, not another commentator.
+
+**The classical *Ahkam al-Qur'an* works named above are still untried and are
+still worth having.** al-Jassas (Hanafi), Ilkiya al-Harrasi (Shafi'i) and Ibn
+al-'Arabi (Maliki) are on tafsir.app by the slugs recorded above; altafsir.com
+carries none of them, confirmed this cycle against the full 85-entry catalogue.
+Q 2:221 is now the verse to ask them for, and each would be a school-specific
+witness to the same dispute — which is what would replace al-Sabuni's word
+"majority" with something this base has actually counted.
+
+**Item (3), the translation debt, is unpaid again** and this cycle added two more
+captures to it. The argument for paying it once on Ibn Kathir is unchanged.
+
 ## 2026-09-04 — Tooling, HIGH: the Arabic normaliser used for the mechanical quotation checks can swallow the letters it is supposed to keep
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2277,6 +2326,41 @@ transferable part is that clause (iv) is not self-executing: a frequency filter
 IS a rule about what the text is only as far as the sections compared vary.
 Where they partly overlap, the non-overlapping tail survives looking like prose.
 
+### Appended 2026-09-04 13:00Z: (E) an exact-match check on hand-typed Arabic reports false MISSES, and the direction of that error is the safe one
+
+The 13:00Z cycle ran its quotation check twice. The first pass compared literal
+strings typed into the checker against the captures and reported two of
+seventeen as absent — `ولم يتناول العمومُ قطُّ الكتابياتِ` and
+`كان رجلاً متوقِّفاً`. Both are in the capture, verbatim, and both **display
+identically** to what was typed; the strings differ by characters with no glyph
+(the class this entry's defect (A) is about, arriving from the other side). A
+diacritic-stripping locate-only search found each one immediately, and the exact
+span was then read back out of the file rather than retyped.
+
+Two things worth adding to this entry's rules.
+
+**(vi) Never hand-type the needle.** The second pass extracted every
+backtick-quoted Arabic span from the notes themselves and searched the captures
+for it, which is the check that is actually wanted — it verifies what the notes
+say, not what a checker author remembered — and it came back 40 of 41, the one
+miss being a clause quoted from a *different, earlier* capture. A checker fed
+hand-typed strings tests the typing.
+
+**(vii) Normalise to LOCATE, never to COMPARE, and quote the raw bytes.** This is
+the clause that reconciles this entry's defect (A) with the practice above.
+Stripping combining marks is exactly the operation (A) warns can swallow
+letters — so it is safe only where a false *positive* costs nothing, which is
+finding a span. Once found, the text quoted into a note must be sliced out of the
+capture, never re-keyed and never taken from the normalised form.
+
+**And the direction of the error is worth naming, because it is the good one.**
+An exact-match check on hand-typed Arabic fails toward MISS: it reports a
+quotation as unfound when it is present. It cannot report a fabricated quotation
+as present. Defect (A) runs the other way and that is why (A) is the dangerous
+one. A cycle that sees a MISS should suspect its own typing before it suspects
+the capture — but it must still look, every time, because the same symptom is
+what a genuinely fabricated quotation would produce.
+
 ## 2026-09-04 — Access, HIGH VALUE: altafsir.com is a madhhab-indexed tafsir host and it opens most of what this cluster still wants
 
 - **status:** in-progress      <!-- new | in-progress | answered | archived -->
@@ -2377,6 +2461,114 @@ at Q 29:46 for `معبود` and for a gloss of the clause. The internal evidence
 unusually good — he elides the clause twice inside quotations he is actively
 using — so this is confirmation rather than rescue.
 
+### Appended 2026-09-04 13:00Z: the *ahkam* item is spent, the catalogue is written down, and one of the three traps is wrong as filed
+
+**THE AHKAM GENRE IS IN THE BASE.** This entry's "still open, and now more
+urgent" item was the *Ahkam al-Qur'an* literature and the juristic *mushrikun*
+question. Both are now captured, on Q 2:221 — the marriage verse, which is where
+the law is actually forced to say who the word `المشركات` covers, and which no
+previous cycle had identified as the place to look:
+`raw/202609041300-qurtubi-al-jami-li-ahkam-al-quran-2-221-arabic.txt` (11 pages)
+and `raw/202609041305-sabuni-tafsir-ayat-al-ahkam-2-221-arabic.txt` (4 pages).
+Three permanent notes came out of it (202609041320, 202609041325, 202609041330).
+
+**THE INSTRUCTION IN THIS ENTRY WAS RIGHT AND IT PAID AGAIN.** "Dump the Tafsir
+selector for each `tMadhNo` in turn rather than assuming the group" — done, and
+it immediately explained the earlier confusion. **al-Qurtubi's *al-Jami'
+li-ahkam al-Qur'an* is filed under `tMadhNo=1` (امهات التفاسير), not under the
+Sunni group**, which is why a survey of `tMadhNo=2` concluded the *ahkam* genre
+was absent from the host. The full catalogue, read off the page's own selectors,
+is 85 commentaries across 10 populated groups (`tMadhNo=11` is empty):
+
+- **1 امهات التفاسير:** 1 al-Tabari, 2 al-Zamakhshari, **4 al-Razi *Mafatih
+  al-ghayb***, **5 al-Qurtubi *al-Jami' li-ahkam al-Qur'an***, 6 al-Baydawi,
+  7 Ibn Kathir, 8 al-Jalalayn, 9 al-Shawkani.
+- **2 أهل السنة:** 10 al-Fayruzabadi, 11 al-Samarqandi, 12 al-Mawardi,
+  13 al-Baghawi, 14 Ibn 'Atiyya, 15 Ibn al-Jawzi, 16 Ibn 'Abd al-Salam,
+  17 al-Nasafi, 18 al-Khazin, 19 Abu Hayyan, 20 Ibn 'Arafa, 22 al-Naysaburi,
+  23 al-Tha'alibi, 24 Ibn 'Adil, 25 al-Biqa'i, 26 al-Suyuti *al-Durr
+  al-manthur*, 28 Abu al-Su'ud, 67 Muqatil b. Sulayman, 75 al-Tha'labi,
+  78 Mujahid, 79 al-Samin al-Halabi, 88 Ibn Juzayy, 91 al-Tabarani,
+  94 al-Maturidi, 96 al-Sawi, 99 Sufyan al-Thawri, 100 al-Nasa'i,
+  101 'Abd al-Razzaq al-San'ani, 102 al-Qasimi, 103 Rashid Rida *al-Manar*,
+  104 Ibn Abi Zamanin, 105 al-Sijistani, 111 al-Rass'ani.
+- **3 السنة الصوفية:** 29 al-Tustari, 30 al-Sulami, 31 al-Qushayri, 32 al-Baqli,
+  33 Ibn 'Arabi, 36 Isma'il Haqqi, 37 Ibn 'Ajiba, 92 Makki b. Abi Talib,
+  95 al-Jilani, 97 al-Najmiyya.
+- **4 الشيعة الإثنى عشرية:** 3 al-Tabrisi, 38 al-Qummi, 39 al-Tusi,
+  **56 al-Tabataba'i *al-Mizan***, 41 al-Fayd al-Kashani, 42 al-Junabidhi,
+  40 Sadr al-Muta'allihin, 110 al-Bahrani.
+- **5 الزيدية:** 44 al-Habari, 45 Furat al-Kufi, 47 al-A'qam, 89 Zayd b. 'Ali.
+- **6 الاباضية:** 48 al-Hawari, 49 Atfayyish, 51 al-Khalili.
+- **7 حديثة:** 52 al-Alusi, 54 Ibn 'Ashur, 55 al-Shinqiti, 76 al-Sha'rawi,
+  57 Tantawi *al-Wasit*.
+- **8 مختصرة:** 60 al-Wahidi, 90 al-Andalusi, 106 Ibn al-Jawzi *Tadhkirat
+  al-arib*, 112 al-Kazaruni.
+- **9 ميسرة:** 50 Atfayyish *Taysir*, 68 al-Qattan, 65 al-Muntakhab,
+  71 As'ad Humad, **85 al-Sabuni *Tafsir ayat al-ahkam***, 84 and 83 al-Sabuni.
+- **10 السلفية:** 66 Abu Bakr al-Jaza'iri, 98 al-Sa'di.
+
+Two consequences worth stating. **(i) al-Razi IS on this host**, `tMadhNo=1`
+`tTafsirNo=4`. The 08:00Z entry's "al-Razi is not on the endpoint at all" was
+true of the quran.com API it was written about, and has been read since as a
+statement about the sources generally; he was captured from tafsir.app by the
+09:00Z cycle, so nothing rests on the error. **(ii) The host still carries no
+al-Jassas, no Ilkiya al-Harrasi and no Ibn al-'Arabi *Ahkam al-Qur'an*, in any
+group** — that was not a mis-read of the Sunni selector, it is a real absence,
+and the classical Hanafi/Maliki *ahkam* works remain uncaptured.
+
+**ONE OF THE THREE TRAPS IS WRONG AS FILED, AND IT COST THIS CYCLE A PASS.**
+Trap 2 says a page with a successor "carries a `التالي` control calling
+`InnerLink_onchange`". The control exists — but `التالي` is the **`alt`
+attribute of an `<img>`**, not text in the document. A reader that strips tags
+before looking for it sees one page and stops. This cycle's first pass did
+exactly that: al-Sabuni came back as a complete-looking 24-line section that was
+one page of four, and al-Qurtubi as one page of eleven. **The correct detector is
+the numeric pager in the RAW HTML**: every page emits
+`InnerLink_onchange(<tafsir>,<page>,<size>)`, and the maximum of those page
+numbers is the page count. Note that the two commentaries paginate very
+differently on the same verse (4 vs 11), so "it looked like one page" is never
+evidence of a short section. This is the same false-absence failure mode the
+entry was written to prevent, arriving through a door the entry left open.
+
+**Still one request away and untouched:** every Shi'i work above except al-Tusi
+and al-Tabrisi — **al-Tabataba'i's *al-Mizan* (56) is the largest single gap** —
+plus all Zaydi, Ibadi and Sufi works, al-Sha'rawi (76) and *al-Manar* (103).
+
+## 2026-09-04 — Capture an Imami or Zaydi legal text on Q 2:221: the sectarian half of this cycle's finding rests on one Sunni author's report
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run
+
+Filed by the 2026-09-04 13:00Z cycle, against its own note.
+
+[[whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325]]
+says that the Imamiyya and some Zaydis held the People of the Book to be
+*mushrikun* and marriage to their women forbidden, inverting the abrogation so
+that Q 2:221 cancels Q 5:5. That is a claim about two schools and this base's
+only witness for it is **al-Sabuni**, a modern Sunni author, reporting them in
+one clause (`وإلى هذا ذهب الإمامية، وبعض الزيدية`). Al-Qurtubi, who reports the
+same three positions, does not mention either school. No Imami or Zaydi legal
+text is in the base at all.
+
+This matters more than a usual single-witness gap, because the finding it
+supports is *interesting* precisely as a sectarian reversal: on the shared-God
+clause the Shi'i commentaries are the ones that gloss it where the Sunni ones
+pass over (202609041130), and here the Shi'i jurists are the stricter party. A
+reversal argued from one Sunni author's one-clause attribution is exactly the
+kind of claim that should not be allowed to harden.
+
+**What would close it, and the route is already on file.** The catalogue in the
+entry above puts eight Imami and four Zaydi commentaries one request away on
+altafsir.com — `tMadhNo=4` and `tMadhNo=5` — and this cycle has proved the route
+works on Q 2:221 specifically. **al-Tusi (39) and al-Tabrisi (3) on Q 2:221** are
+the cheapest test: both are already reference notes in this base for other
+verses, so a capture costs one fetch and no new bibliographic work. Al-Tabataba'i
+(56) would be the strongest. Note that a *tafsir* is not a *fiqh* text and a
+commentary's silence would not refute al-Sabuni; what would settle it is finding
+the position stated, or finding the opposite stated.
+
 ## 2026-09-04 — Environment, HIGH: the container's cached skill is BEHIND the ref CI uses, and is missing two of the six gate scripts
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2430,3 +2622,30 @@ lock it had just claimed is released, so the cycle simply stops. Worked around
 with `git remote set-head origin -a`. The fix in the script is one line: give
 the substitution a fallback, since the very next line already defaults to
 `main`.
+
+### Appended 2026-09-04 13:00Z: still drifted, workaround inherited and it worked; the smaller defect is already fixed upstream
+
+**The cache is unchanged and the entry is still live.** `/opt/zettel-skill`
+(symlinked to `~/.claude/skills/zettel-bootstrap`) again ships only `SKILL.md`
+plus a `scripts/` directory missing `lint_skills.py`, `check_skill_sandbox.py`,
+`skill_review.py`, `inquiries.py`, `query.py`, `capture.py`, `fetch_source.py`,
+`ingest_drops.py` and `skill_trial.py`. A cycle running "the gates" from it would
+again run four of six and be told nothing.
+
+**The workaround this entry told the next run to inherit was inherited, and it
+cost about a minute.** `git clone --depth 1` of the skill repo into scratch; the
+clone came up at `d986b16`, which is exactly the `main` that `gates.yml` pins, so
+this cycle ran the same six checks CI runs. `/opt/zettel-skill` was not modified.
+Recording that the handoff worked, for the same reason the altafsir access entry
+records it: an entry that names the workaround concretely is spent for free by
+the next run.
+
+**The smaller defect is already fixed in `main` and needs no workaround.**
+`remote_cycle.sh` at `d986b16` resolves the default branch with
+`git ls-remote --symref origin HEAD`, falling back to `refs/remotes/origin/HEAD`
+and then to `main`, each substitution guarded with `|| true` — and the code
+carries a comment naming this exact P0. `start` ran clean on a fresh clone with
+no `origin/HEAD` and no `git remote set-head` was needed. **So that half of this
+entry can be closed by a human;** the cache-drift half is what keeps it open, and
+it is a human fix (re-run the environment setup, or pin `ZETTEL_SKILL_REF` to the
+tag the setup script installs and bump the pair as a release step).

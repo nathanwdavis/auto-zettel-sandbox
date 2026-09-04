@@ -301,8 +301,36 @@ established. It is also why the clause can be elided and nothing lost, which is
 what he does: twice he quotes the sentence carrying it and writes `إلى آخر ما
 ذكر` instead.
 
-The remaining item from the section above is untouched and is still the one that
-would move the *mushrikun* question: the *Ahkam al-Qur'an* literature.
+## The law, where the *mushrikun* question is actually litigated
+
+The item above is no longer untouched. Moving from the *tafsir* on Q 3:64 and
+Q 29:46 to the *ahkam* literature on Q 2:221 — the verse forbidding marriage to
+*al-mushrikat*, where a ruling forces the law to say who the word covers —
+changes the picture the commentary sweep produced. The silence that sweep found
+is a fact about those verses in that genre, not about the tradition: on a verse
+where something is at stake, the question is not merely visible but litigated by
+name and across schools.
+
+- [[the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320]]
+- [[whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325]]
+- [[one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330]]
+
+The majority holds that the People of the Book are not *mushrikun*, and the
+proof is grammatical: Q 2:105 and Q 98:1 conjoin the two terms, and conjunction
+requires distinctness. The dissent is early and named — Ibn 'Umar in the
+*Muwatta'*, "I know of no association greater than a woman saying that her lord
+is Jesus" — and it is the position the Imamiyya and some Zaydis took, which
+reverses the Sunni/Shi'i direction found two sections above.
+
+The third note is the one that costs the first something. Al-Sabuni gives the
+grammatical argument himself and then, four pages later on the same verse, runs
+*mushrik* at the opposite extension — excluding the People of the Book from the
+term in the clause about Muslim men marrying, including them in the clause about
+Muslim women being married — with the difference turning on the direction of
+household authority rather than on anything about belief. Whatever fixes the
+category, it is not the syntax alone. That is the closest this base has come to
+saying what work the same-God question does *not* do in Islamic law, and it is
+the same shape as the *shituf* finding on the Jewish side.
 
 ## Christian kabbalism: the parallel as a conversion argument
 
@@ -343,6 +371,8 @@ Islam, the Mu'tazili and Shi'i commentaries, and a modern Azhari one: [[zamakhsh
 (literature: [[zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005]], [[tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115]], [[tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120]], [[tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125]]).
 Islam, the Maturidi school: [[maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200]]
 (literature: [[maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205]]).
+Islam, the *ahkam al-Qur'an* literature on Q 2:221: [[qurtubi-al-jami-li-ahkam-al-quran-on-2-221--202609041300]], [[sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305]]
+(literature: [[qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310]], [[sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

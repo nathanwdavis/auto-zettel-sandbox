@@ -34,6 +34,9 @@ result_notes:
 - the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210
 - the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
 - the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220
+- the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320
+- whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325
+- one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -401,3 +404,60 @@ failure mode: tafsir.app routes the slug `maturidi`, returns HTTP 200 and a
 150 KB page, and serves an empty body for this commentator at every verse, while
 al-Tabari and al-Qurtubi come back full through the same endpoint in the same
 pass. Second-host confirmation for al-Maturidi is filed to INBOX.
+
+---
+
+## Addendum 2026-09-04 13:00Z — the structural item this inquiry left open is now closed, and it closed by changing the verse
+
+This inquiry was marked `answered` on the test it set itself. One structural
+item inside it stayed open through eight cycles: the juristic literature that
+decides whether Christians count as *mushrikun*, which the 08:00Z INBOX entry
+called "the last structural gap in this cluster" and which every cycle recorded
+as untried.
+
+It is now in the base — from al-Qurtubi's *al-Jami' li-ahkam al-Qur'an* and
+al-Sabuni's *Tafsir ayat al-ahkam*, and it changes one of this inquiry's own
+conclusions.
+
+**What was concluded, and what now qualifies it.** Every commentary captured on
+Q 3:64 and Q 29:46 attaches the *jizya* and the sword to the shared-God verses
+without registering any tension with `وإلهنا وإلهكم واحد`. That silence stands
+as a fact — but the reading of it as a fact about *the tradition* does not. The
+tension is registered, and litigated by name across schools, at
+**Q 2:221**: `وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ`, where a ruling forces the law to
+say who the word covers. What eight cycles found was a property of two verses in
+one genre. The reason it took eight cycles is that each of them answered the
+absence by adding another commentator to the same pair.
+
+**The three findings.** The majority holds the People of the Book are not
+*mushrikun*, and the proof is grammatical — Q 2:105 and Q 98:1 conjoin the two
+terms, and conjunction requires distinctness
+([[the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320]]).
+The dissent is early, named and eventually sectarian — Ibn 'Umar in the
+*Muwatta'*, "I know of no association greater than a woman saying that her lord
+is Jesus", and the Imamiyya and some Zaydis after him
+([[whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325]]).
+And the category is not stable even within one verse: al-Sabuni excludes the
+People of the Book from `المشركات` in the first clause and includes them in
+`المشركين` in the second, with the difference turning on the direction of
+household authority rather than on belief
+([[one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330]]).
+
+**What that does to this inquiry's headline result.** The inquiry's test was
+whether [[the-same-god-question-turns-on-reference-versus-description--202608311942]]
+would have to change, and it changed once already — gaining a limit recording
+that all five of its sources are Christian or secular. This addendum sharpens
+that limit rather than adding a second one. The Islamic tradition *does* run a
+question of this shape in its own idiom, and the idiom is the extension of a
+Qur'anic term, fixed by grammar, *naskh* and transmitted authority — not two
+descriptions competing to pick out one object. And on the evidence of the third
+note, the tradition declines at the decisive moment to let that question settle
+anything: where a ruling is at stake, the category tracks what the ruling needs.
+That is the same shape as the *shituf* finding on the Jewish side, reached
+independently, and it is the strongest thing this cluster now says.
+
+**What is not settled.** "The majority" is the sources' own word and this base
+has counted nothing. The Imami and Zaydi attribution rests on one modern Sunni
+author's single clause, and no Imami, Zaydi or classical *ahkam* text is in the
+base — al-Jassas, Ilkiya al-Harrasi and Ibn al-'Arabi are all reachable and all
+untried. Both gaps are filed to INBOX with the routes.
