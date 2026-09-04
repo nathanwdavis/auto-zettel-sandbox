@@ -219,6 +219,11 @@
     "202609041445": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
     "202609041450": "the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450",
     "202609041455": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455",
+    "202609041500": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500",
+    "202609041505": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505",
+    "202609041510": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510",
+    "202609041515": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
+    "202609041520": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -281,6 +286,7 @@
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
         "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
+        "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
         "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330",
         "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
@@ -290,11 +296,13 @@
         "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
         "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
         "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
+        "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510",
         "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
         "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
         "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
         "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
+        "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
         "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320",
         "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
@@ -381,7 +389,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 224,
+  "note_count": 229,
   "notes": [
     {
       "id": "202609041020",
@@ -757,6 +765,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808.md"
+    },
+    {
+      "id": "202609041515",
+      "key": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320"
+        }
+      ],
+      "path": "permanent/an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515.md",
+      "slug": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun",
+      "tags": [],
+      "title": "An Imami commentary makes the same argument from Qur'anic usage that the base had only from Sunni sources, and adds the distinction between doing shirk and being named a mushrik",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515.md"
     },
     {
       "id": "202609010835",
@@ -3546,6 +3583,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabari-on-the-common-word-and-the-shared-god-clause--202609040705.md"
     },
     {
+      "id": "202609041500",
+      "key": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500",
+      "links": [],
+      "path": "reference/tabatabai-al-mizan-on-2-221-and-5-5--202609041500.md",
+      "slug": "tabatabai-al-mizan-on-2-221-and-5-5",
+      "tags": [],
+      "title": "al-Tabataba'i, al-Mizan fi tafsir al-Qur'an, on Q 2:221 and Q 5:5",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tabatabai-al-mizan-on-2-221-and-5-5--202609041500.md"
+    },
+    {
+      "id": "202609041505",
+      "key": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500"
+        }
+      ],
+      "path": "literature/tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505.md",
+      "slug": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt",
+      "tags": [],
+      "title": "al-Tabataba'i denies that Q 2:221 reaches the People of the Book, calls the abrogation claim corrupt in both directions, and keeps only the permanence restriction",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505.md"
+    },
+    {
       "id": "202609041120",
       "key": "tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120",
       "links": [
@@ -4115,6 +4181,14 @@
           "target_id": "tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405"
         },
         {
+          "relation": "contradicts",
+          "target_id": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520"
+        },
+        {
           "relation": "source",
           "target_id": "tusi-al-tibyan-on-2-221-and-5-5--202609041400"
         },
@@ -4134,6 +4208,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445.md"
+    },
+    {
+      "id": "202609041510",
+      "key": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325"
+        }
+      ],
+      "path": "permanent/the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510.md",
+      "slug": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school",
+      "tags": [],
+      "title": "The Imami tradition is itself split on Q 2:221, so the strict reading names its classical commentaries rather than the school as such",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510.md"
     },
     {
       "id": "202609040615",
@@ -4630,6 +4737,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215.md"
     },
     {
+      "id": "202609041520",
+      "key": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabatabai-al-mizan-on-2-221-and-5-5--202609041500"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabatabai-denies-2-221-reaches-the-people-of-the-book-and-calls-the-naskh-corrupt--202609041505"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510"
+        }
+      ],
+      "path": "permanent/the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520.md",
+      "slug": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh",
+      "tags": [],
+      "title": "The Imami permanence restriction survives the rejection of the abrogation, as specification rather than naskh, so the rule outlives the argument that produced it",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520.md"
+    },
+    {
       "id": "202609040105",
       "key": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105",
       "links": [
@@ -4719,6 +4855,10 @@
         {
           "relation": "contradicts",
           "target_id": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020"
+        },
+        {
+          "relation": "supports",
+          "target_id": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515"
         },
         {
           "relation": "source",
@@ -5447,6 +5587,10 @@
         {
           "relation": "elaborates",
           "target_id": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510"
         },
         {
           "relation": "elaborates",

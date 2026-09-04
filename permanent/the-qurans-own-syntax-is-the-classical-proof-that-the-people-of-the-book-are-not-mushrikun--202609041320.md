@@ -22,6 +22,8 @@ links:
   relation: contradicts
 - target_id: the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
   relation: contradicts
+- target_id: an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515
+  relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -76,3 +78,17 @@ inconsistency, and this one does.
 
 The limit worth stating plainly: this base has no independent measure of how the
 classical field actually divided. "The majority" is the sources' own word.
+
+**Added 2026-09-04 15:00Z: the distinction this note draws for itself is drawn
+explicitly inside the tradition, and by a Shi'i commentator.** The paragraph
+above reasons that the argument "establishes a fact about the *word*, not about
+the parties" — which was the base's own inference from Sunni sources that do not
+say it. Al-Tabataba'i says it: `غير أن إطلاق الفعل غير إطلاق الوصف والتسمية به`,
+predicating the deed is not predicating the description and naming by it, with a
+Muslim who neglects the *hajj* as the parallel — Q 3:97 calls it *kufr* and yet
+`ليس تارك الحج كافرا`. He also runs the usage argument over the whole corpus
+rather than two verses, and disposes of the two apparent counter-examples
+(Q 2:135, Q 12:106) by argument. So the argument is not a Sunni majority
+position that a Shi'i minority rejects; it crosses the divide, and the gap this
+note identifies is one the tradition itself marks. See
+[[an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515]].

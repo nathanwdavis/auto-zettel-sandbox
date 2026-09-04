@@ -19,6 +19,10 @@ links:
   relation: source
 - target_id: whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325
   relation: elaborates
+- target_id: the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
+  relation: contradicts
+- target_id: the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520
+  relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -72,3 +76,20 @@ weakly, but the limit is real and is recorded in both reference notes. And a
 *tafsir* is not a *fiqh* text: these are the school's exegetes reading the verse,
 not its jurists stating the rule in a legal compendium. Nothing above turns on
 the difference, but the difference is there.
+
+**Added 2026-09-04 15:00Z: read this note's title strictly — it says *the Imami
+commentaries*, and it now has to.** A third Imami commentary has been captured on
+the same two verses, and it dissents:
+[[the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510]].
+Al-Tabataba'i (d. 1401/1981) denies that Q 2:221 reaches the People of the Book
+at all, calls the abrogation `فساد`, and answers the al-Baqir report this note
+cites with the objection that an abrogator may not precede what it abrogates.
+Nothing above is withdrawn: al-Tusi and al-Tabrisi do claim the position with
+`عندنا` and `مذهبنا`, and the *naskh* reports are in their texts as described.
+What changes is the scope a reader may take from it. Two commentaries eight and
+nine centuries old are not the school, and the sentence "the Imamiyya hold X" is
+not licensed by this note — which is exactly the correction the base made to the
+Zaydi half a cycle earlier, arriving now for the Imami one. The `نكاح الدوام`
+qualification, by contrast, gets *stronger*: al-Tabataba'i reaches the same
+restriction by another route
+([[the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520]]).
