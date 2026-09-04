@@ -26,6 +26,16 @@ links:
   relation: source
 - target_id: in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515
   relation: contradicts
+- target_id: rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600
+  relation: source
+- target_id: rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605
+  relation: source
+- target_id: the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615
+  relation: supports
+- target_id: the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610
+  relation: shared-concept
+- target_id: a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -93,14 +103,35 @@ gradient this note is built on. That is serious enough to be its own note:
 [[in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515]].
 
 The audit's own independence is partial and should not be overstated: its first
-author is the first author of the 2008 paper this note cites. Rowland 2014, the
-one audit written from outside the Roediger–Karpicke line, is still unread and
-still closed-access. So the position here is now: two primary papers read in
-full, four experiments between them, one of three named audits read in full and
-reporting a consistent but unevenly sized benefit plus a delay gradient that
-runs the wrong way, and the most independent audit still outstanding. That is a
-better evidential position than the base holds for anything else about
-note-taking, and it is not the same as verified.
+author is the first author of the 2008 paper this note cites.
+
+**The second audit has now been read too, and it is the independent one.**
+Rowland 2014 — written from outside the Roediger–Karpicke line, and a genuine
+meta-analysis — pools 159 effect sizes from 61 studies at `g = 0.50, CI [0.42,
+0.58]`
+([[the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615]]).
+That is the check this note was waiting for and it comes back positive: the
+effect is real when someone outside the field measures it. It also comes back
+smaller and rougher than "replicated hundreds of times" suggests — 28 of those
+159 effect sizes are negative — and it declines to correct for a
+published-versus-unpublished gap it detected, arguing the gap away on design
+grounds instead. Two further things from it matter here. It shows the apparent
+quarrel with the classroom review is not one, because the two reviews excluded
+each other's studies on purpose
+([[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]]);
+and it locates the effect's boundary precisely, at retrieval that fails with no
+correction
+([[a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620]]).
+
+So the position here is now: two primary papers read in full, four experiments
+between them, and two of the three named audits read in full — one classroom-only
+and reporting a consistent but unevenly sized benefit with a delay gradient that
+falls, one laboratory-only and independent, reporting `g = 0.50` with a delay
+gradient that rises over a shorter span. The third, Adesope et al. 2017, is still
+unread. That is a better evidential position than the base holds for anything
+else about note-taking, and the sentence in this note's title is now measured
+rather than asserted — for delays of days to weeks, in a laboratory, which is not
+the horizon this repository cares about.
 
 **And the scope is narrower than the phrasing invites.** What was measured is
 recall of prose passages by undergraduates over five minutes to a week. Nothing

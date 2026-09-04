@@ -16,6 +16,8 @@ links:
   relation: contradicts
 - target_id: having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345
   relation: shared-concept
+- target_id: the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -58,6 +60,21 @@ final tests are directly manipulated, ideally ranging from days to weeks to
 months" (p. 43). Their own candidate explanation, that benefits "increase in the
 first few days, and then taper off as delays approach weeks or months" (p. 43),
 is offered as a hypothesis and is not measured anywhere in the review.
+
+**Amended 2026-09-04T06:00Z, after reading the laboratory meta-analysis rather
+than these reviewers' description of it.** The word *reverse* in this note comes
+from them and is too strong. Rowland's meta-analysis, which is the laboratory
+case they cite, splits delay at one day and nothing else — under a day `g = 0.41`,
+a day or more `g = 0.69` — over a literature it describes as running from minutes
+to "days or weeks"
+([[rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605]],
+advance online pp. 6, 15). Their own gradient starts at one to three days and
+runs to a semester. The two are adjacent stretches of delay, not opposite
+readings of the same one, and the two reviews excluded each other's studies by
+explicit criterion, so they share no data at all. What survives, and it is the
+half this note cared about, is that the descent is real and sits on the far side
+of the ascent. Worked out in
+[[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]].
 
 **Why it matters here rather than only in education.** Everything this base has
 about externalised memory concerns intervals of years — a slip-box's claim is

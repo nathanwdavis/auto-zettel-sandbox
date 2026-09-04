@@ -47,7 +47,18 @@ accepted manuscript p. 7). This is a small error in a citation, not a
 misrepresentation of a result — that review does support the robustness claim on
 the whole — but it is exactly the kind of detail a summary flattens, and this
 base found it only by going to the paper. Rowland 2014 and Adesope et al. 2017
-are meta-analyses and remain unread.
+are meta-analyses.
+
+*(Second correction pass, 2026-09-04T06:00Z, after reading a second of the
+three.* Rowland 2014 **is** a meta-analysis, so the chapter is right about that
+one — 159 effect sizes, 61 studies, `g = 0.50`
+([[rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605]]).
+Two of the three audits are now read and the chapter's description was accurate
+for one and wrong for the other. Adesope et al. 2017 remains unread. What the
+chapter does not mention, and what changes how its three audits should be read
+together, is that Rowland's review and Agarwal et al.'s excluded each other's
+studies by explicit criterion — see
+[[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]].*)
 
 **Who is speaking.** Karpicke is the second author of the 2006 experiment and a
 co-author of the 2008 open-book study, so these are a researcher's statements

@@ -19,6 +19,9 @@ result_notes:
 - retrieval-not-re-exposure-is-what-makes-learning-last--202609040340
 - having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345
 - confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350
+- the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615
+- the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610
+- a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. `zettelkasten method` is a
@@ -220,3 +223,26 @@ for Mueller and Oppenheimer. And the standing gap named in
 unchanged and is now measured rather than assumed: a 31-page 2025 survey of what
 makes knowledge durable never once uses the words note-taking, notes, external
 memory or offloading.
+
+**2026-09-04T06:00Z — the caveat this inquiry filed as follow-up work is now
+partly discharged, and the inquiry stays `in-progress` anyway.** Two of the three
+audits the survey named have been read, the second of them by an author outside
+the research line that produced the effect, and it puts the effect at `g = 0.50`
+across 159 laboratory effect sizes
+([[the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615]]).
+So the mechanism half of this inquiry's answer is no longer resting on a
+self-assessment. Two of the three notes added to `result_notes` today bear
+directly on the inquiry's second half rather than its first.
+[[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]]
+establishes what the whole measured literature covers — minutes to a semester,
+in two disjoint halves — and therefore how far short of a slip-box claim it
+falls, which is further than this inquiry had been able to say.
+[[a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620]] is the
+first finding in this whole line of work whose structure actually maps onto the
+practice: recall before reading the note, then read it, is the strongest cell in
+the meta-analysis; a note never revisited is the null cell.
+
+It stays open because candidate 3 is untouched. Nothing added today measures
+externalised memory — the negative search now runs zero for four sources — so
+the inquiry's own question is still answered only by inference from an adjacent
+literature, which is exactly the position it was filed to escape.

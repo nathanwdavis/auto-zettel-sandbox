@@ -99,9 +99,12 @@ classroom studies rather than of her own. So it is an audit from inside the same
 research community, one step further out than Karpicke assessing Karpicke, and
 not the outside replication that
 [[a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210]]
-would count as decisive. Of the three audits, Rowland 2014 remains the most
-independent and the most valuable, and it is still unread — closed access, and
-recorded as open work in INBOX.
+would count as decisive. Of the three audits, Rowland 2014 is the most
+independent. *(Updated 2026-09-04T06:00Z: it has since been read —
+[[rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600]] — and
+it turns out to complement this review rather than to check it, because the two
+excluded each other's studies by explicit criterion. See
+[[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]].)*
 
 Access and provenance, recorded in full in the capture header. The house ladder
 (`skills/source-access-triage`) was climbed in order. (a) The publisher failed:
