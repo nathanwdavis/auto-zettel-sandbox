@@ -1,0 +1,108 @@
+SOURCE CAPTURE — Gharib al-Qur'an attributed to Zayd ibn 'Ali (d. 122/740): the commentary on
+Q 2:221 and on Q 5:5. Arabic, verbatim.
+School/affiliation: Zaydi Shi'i. Zayd b. 'Ali, grandson of al-Husayn, is the eponym of the
+Zaydiyya; this short lexical commentary is the oldest work in altafsir.com's Zaydi group and the
+first Zaydi text of any kind in this repository.
+
+ATTRIBUTION, STATED PLAINLY. Works of this kind carried under the name of a figure of the first
+Islamic century are transmitted attributions, and the ascription of Gharib al-Qur'an to Zayd
+b. 'Ali is not independently established here. What this capture supports without qualification
+is a claim about the ZAYDI COMMENTARY TRADITION — what the school's own canonical tafsir corpus,
+as published by the Royal Aal al-Bayt Institute under Zayd's name, says on these verses. A claim
+about the historical Zayd b. 'Ali would need more than this, and none is made from it.
+
+Why these verses: this capture and its companion (al-A'qam) were taken to test, from inside the
+Zaydi tradition, a claim this base holds on the report of a single modern Sunni author — that the
+Imamiyya and SOME ZAYDIS forbid marriage to the women of the People of the Book, inverting the
+abrogation so that Q 2:221 cancels Q 5:5.
+
+Retrieved: 2026-09-04T14:10Z
+Host and route: altafsir.com, Tafasir.asp, tMadhNo=5 (تفاسيرالزيدية) tTafsirNo=89, paginated by
+  &Page=N. Read back from the served HTML: `تفاسيرالزيدية` and `غريب القرآن / زيد بن علي (ت 120 هـ)`.
+  Note that the host's own selector gives the death date as 120 AH; the standard date is 122/740.
+  The discrepancy is the host's and is reproduced here rather than silently corrected.
+  Q 2:221 — 1 content page
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 ff4b0dba26913fb442a3a7d0daca573c68293c682b0209369213c55839e77f3e  (95245 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=2  sha256 68aa7ba8da7cc5b530db27aef21a40487f86df917b4f4ccd39ffc232c99b022b  (95583 bytes)
+      Page=3  sha256 65763c904d1b22210f677adcd6b4630e498d1ca6eed7caf0780cfe6556fa158c  (95583 bytes)
+  Q 5:5 — 1 content page
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 86b9a30cbaa2820b893d72ad133d55a2093eab5d2d04d73b59a0eeed9a4fb71a  (90793 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=2  sha256 5abfece66dcd74405133954b237bff0521db4afd222341832ff4559bbcbba9cc  (90520 bytes)
+      Page=3  sha256 bfd8215d4195a4e4e7ca24cf5aea0f047e340edebbea02afe86a21db2fb769da  (90520 bytes)
+  A third section, Q 112:1 (1 content page, sha256
+    5104e713dc3839f77dc62134a1c47de2f0f1a90539296aeb62cbfe1073de43ea), was fetched in the same
+    pass as the chrome control and is NOT reproduced below.
+
+THE COMMENTARY IS SHORT, AND THAT IS THE TEXT, NOT A TRUNCATION. Gharib al-Qur'an is a glossary:
+it explains difficult words and passes over everything else. Its whole comment on Q 2:221 is one
+sentence. The exhaustion probes above are what distinguishes a short comment from a short read.
+
+ONE HOST ONLY. No second host for this work was sought this cycle; the eight rungs recorded
+against the Imami commentaries in raw/202609041100-* apply to Zaydi tafsir as well, and none of
+those hosts carries a Zaydi group at all.
+
+EDITION. No printed edition is named by the host and none is claimed; locators are by sura:aya.
+TRANSFORMATION APPLIED, AND THE ONLY ONE. altafsir.com serves windows-1256; the
+bytes were decoded as cp1256 and the numeric HTML entities this site uses for
+Arabic (`&#1649;`-style) were unescaped. `<script>`, `<style>` and `<select>`
+elements were removed WHOLE, contents included, before anything else — they are
+machinery and form controls rather than text. BLOCK-level tags (br, p, div, tr,
+td, table, center, h1-h6, li, ul, ol, hr, form) were replaced by a newline;
+INLINE tags (font, b, a, span) were removed without inserting anything, so a
+lemma the site wraps per-word stays on one line with its `{ }` intact. Runs of
+spaces were collapsed. Site chrome was removed by cross-section frequency — a
+line occurring in three or more of the independently fetched pages is
+navigation. NOTHING was removed for being short and nothing for being numeric;
+the one length test in the pipeline runs the other way, WITHHOLDING lines over
+120 characters from the chrome remover so that a section's verse text, which is
+reprinted on every page of that section, cannot be mistaken for navigation once
+the section runs to three pages or more. Not one Arabic character was added,
+removed or reordered, and the vocalisation is as served. The SHA-256 of each
+page is of the bytes exactly as served, so the transformation is reversible
+from the URL.
+
+HOW EXHAUSTION WAS ESTABLISHED, AND WHY THE PREVIOUS RULE WAS WRONG. This base's
+standing access note said a page with a successor carries a `التالي` control.
+That is true of page 1 and of page 1 only: interior pages render the same
+forward control with the ENGLISH alt `Next`, and — the part that matters — the
+control is served INDEFINITELY, on empty pages past the end of a section as
+well as inside it. Testing for `التالي` therefore stops every section at two
+pages, and testing for either alt never stops at all. Neither control is
+evidence. What is evidence is the text: every page of a section reprints that
+section's verse as one long line, and a page carrying commentary carries more
+than that one line. Each section below was read until a page came back with the
+verse alone, and the TWO pages after the last content page were then fetched and
+are recorded, so that a single empty page inside a section could not have ended
+the read early. The rule and this capture's page counts are what the accompanying
+INBOX entry reports.
+
+========================================================================
+CAPTURED TEXT BEGINS
+========================================================================
+
+===== SECTION Q 2:221 =====
+--- Page=1  95245 bytes  sha256 ff4b0dba26913fb442a3a7d0daca573c68293c682b0209369213c55839e77f3e
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 2   البقرة | تفاسيرالزيدية | غريب القرآن / زيد بن علي (ت 120 هـ)
+    EXHAUSTION probe Page=2: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 95583 bytes, sha256 68aa7ba8da7cc5b530db27aef21a40487f86df917b4f4ccd39ffc232c99b022b
+    EXHAUSTION probe Page=3: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 95583 bytes, sha256 65763c904d1b22210f677adcd6b4630e498d1ca6eed7caf0780cfe6556fa158c
+----- body Page=1 -----
+Altafsir.com -تفسير ايآت القرآن الكريم (89-5-221-2)
+{ وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ وَلأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ تُنْكِحُواْ ٱلْمُشِرِكِينَ حَتَّىٰ يُؤْمِنُواْ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَـٰئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوۤاْ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ }
+وقولهُ تعالى: { وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ } معناه مِمَّنْ لسن من أَهلِ الكِتابِ.
+===== SECTION Q 5:5 =====
+--- Page=1  90793 bytes  sha256 86b9a30cbaa2820b893d72ad133d55a2093eab5d2d04d73b59a0eeed9a4fb71a
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 5   المائدة | تفاسيرالزيدية | غريب القرآن / زيد بن علي (ت 120 هـ)
+    EXHAUSTION probe Page=2: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 90520 bytes, sha256 5abfece66dcd74405133954b237bff0521db4afd222341832ff4559bbcbba9cc
+    EXHAUSTION probe Page=3: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 90520 bytes, sha256 bfd8215d4195a4e4e7ca24cf5aea0f047e340edebbea02afe86a21db2fb769da
+----- body Page=1 -----
+Altafsir.com -تفسير ايآت القرآن الكريم (89-5-5-5)
+{ ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيّبَـٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَا ءاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلاَ مُتَّخِذِيۤ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي ٱلآخِرَةِ مِنَ ٱلْخَٰسِرِينَ }
+وقوله تعالى: { ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَاتُ } معناهُ الحَلالُ.
+وقوله تعالى: { وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَابَ حِلٌّ لَّكُمْ } معناهُ ذبائِحُهُمْ.
+وقوله تعالى:{ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍ } [النساء: 25] معناهُ عَفَائِفُ غَيرُ زَوانٍ.

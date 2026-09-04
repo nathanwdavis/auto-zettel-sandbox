@@ -2378,9 +2378,20 @@ commentaries had to be found somewhere.
 1. **Encoding is windows-1256, not UTF-8**, and the Arabic arrives as numeric
    HTML entities (`&#1649;`-style). Decode as cp1256, then `html.unescape`.
    Skipping either produces mojibake that looks like a fetch failure.
-2. **Sections are PAGINATED by `&Page=N`.** A page with a successor carries a
-   `التالي` control calling `InnerLink_onchange`. Read to the end or you will
+2. **Sections are PAGINATED by `&Page=N`.** Read to the end or you will
    manufacture a false absence — see the normaliser entry above.
+   ⚠ **THIS TRAP WAS WRITTEN WRONG AND COST TWO CAPTURES. Corrected 2026-09-04
+   14:20Z; the entry at the bottom of this file has the audit.** It used to say
+   "a page with a successor carries a `التالي` control calling
+   `InnerLink_onchange`". `التالي` is rendered on **page 1 only**; interior
+   pages render the same control with the English alt `Next`; and the control is
+   served **indefinitely**, on empty pages past the end of a section too. So
+   testing for `التالي` stops every section at two pages and testing for either
+   alt never stops at all. **Neither control is an exhaustion signal.** Use the
+   text: every page of a section reprints that section's verse as one long line,
+   and a page carrying commentary carries more than that one line. Page until a
+   page comes back with the verse alone, then fetch two more and record them, so
+   one empty page inside a section cannot end the read early.
 3. **Block vs inline tags matter.** The site wraps lemmas per word in `<font>`;
    convert block tags to newlines but strip inline tags to nothing, or `{ }`
    lemma braces end up on lines of their own.
@@ -2537,9 +2548,39 @@ plus all Zaydi, Ibadi and Sufi works, al-Sha'rawi (76) and *al-Manar* (103).
 
 ## 2026-09-04 — Capture an Imami or Zaydi legal text on Q 2:221: the sectarian half of this cycle's finding rests on one Sunni author's report
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** run
+- **2026-09-04 14:00Z: worked, and the entry's own recipe was followed exactly.**
+  Four commentaries captured: al-Tusi (39) and al-Tabrisi (3) on `tMadhNo=4`, and
+  — going beyond what this entry asked, because the Zaydi half turned out to be
+  where the interest was — Zayd b. 'Ali's *Gharib al-Qur'an* (89) and *Tafsir
+  al-A'qam* (47) on `tMadhNo=5`. Each on **Q 2:221 AND Q 5:5**, which is the one
+  change worth passing on: al-Tusi states his position on Q 2:221 and then defers
+  the argument to al-Ma'ida in so many words, so a Q 2:221-only capture would
+  have taken the claim without its grounds — and the grounds are where the two
+  Imami *naskh* reports sit. Results:
+  [[the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445]],
+  [[the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450]],
+  [[the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455]].
+  **The Imami half is closed.** Both commentators mark the strict position
+  `عندنا` / `مذهبنا` rather than reporting it, and al-Tusi carries the inversion
+  as *naskh* reports from al-Baqir and al-Sadiq. One correction to al-Sabuni that
+  the entry could not have anticipated: what they forbid is `نكاح الدوام`, the
+  permanent contract, while holding *mut'a* and concubinage with the same women
+  permitted.
+  **The Zaydi half came back split, which is a better answer than the one
+  sought.** al-A'qam credits Yahya and al-Qasim with the strict reading of Q 5:5;
+  Zayd b. 'Ali's glossary reads Q 2:221 the lenient way. So `بعض الزيدية` names a
+  real division. And the attribution itself is old: al-Tabrisi writes that exact
+  phrase in the sixth/twelfth century, so al-Sabuni is not its source.
+  **Why this stays open rather than closing.** The entry asked for a *legal*
+  text and got four *tafsirs*. No Imami or Zaydi *fiqh* work is in the base, and
+  the content of the Yahya/al-Qasim attribution still rests on one witness
+  (al-A'qam, five centuries later). Also still open and now sharper: **no host
+  known to this base carries Zaydi tafsir except altafsir.com**, so there is no
+  second-host route for either Zaydi capture, and the eight rungs recorded
+  against Shi'i tafsir apply here unchanged.
 
 Filed by the 2026-09-04 13:00Z cycle, against its own note.
 
@@ -2649,3 +2690,77 @@ no `origin/HEAD` and no `git remote set-head` was needed. **So that half of this
 entry can be closed by a human;** the cache-drift half is what keeps it open, and
 it is a human fix (re-run the environment setup, or pin `ZETTEL_SKILL_REF` to the
 tag the setup script installs and bump the pair as a release step).
+
+## 2026-09-04 — Access, HIGH: the altafsir.com paging rule this base wrote down was wrong, it truncated two committed captures, and the trap it names is general
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 14:00Z cycle against its own predecessors, and against
+the guidance those cycles left for it.
+
+**What was wrong.** The 11:00Z access entry told later runs that on altafsir.com
+"a page with a successor carries a `التالي` control". Three facts, none of which
+that entry could have seen from a two-page section:
+
+1. `التالي` is the alt text of the forward control **on page 1 only**. Interior
+   pages render the same control with the English alt `Next`.
+2. The forward control is served **indefinitely**. Page 40 of a three-page
+   section still offers `Next`. So switching the test to "either alt" does not
+   fix it; it replaces a read that stops too early with one that never stops.
+3. What actually ends a section is the **text**. Every page of a section
+   reprints that section's verse as one long line; a page with commentary
+   carries more than that one line, and the pages past the end carry only it.
+
+So the rule to inherit is: page while the page carries a line other than the
+verse text, then fetch **two** further pages and record them in the capture
+header, so that a single empty page inside a section cannot end the read early.
+That is what the four captures taken this cycle did, and their headers show the
+probes.
+
+**What it cost, audited rather than guessed.** All six sections the 11:00Z and
+12:00Z cycles captured were re-fetched to true exhaustion:
+
+| capture | section | true pages | taken |
+|---|---|---|---|
+| `raw/202609041100-tusi-…` | Q 3:64 | 1 | 1 ✓ |
+| `raw/202609041100-tusi-…` | Q 29:46 | 2 | 2 ✓ |
+| `raw/202609041105-tabrisi-…` | Q 3:64 | 2 | 2 ✓ |
+| `raw/202609041105-tabrisi-…` | Q 29:46 | **3** | 2 ✗ |
+| `raw/202609041200-maturidi-…` | Q 3:64 | 1 | 1 ✓ |
+| `raw/202609041200-maturidi-…` | Q 29:46 | **3** | 2 ✗ |
+
+Two captures short by one page each, ~2.7k and ~1.7k characters. The missing
+pages are now at
+`raw/202609041420-recovered-third-pages-tabrisi-and-maturidi-29-46-arabic.txt` —
+an addition, not an edit, since raw/ is immutable — and the two literature notes
+concerned carry a dated correction paragraph.
+
+**Nothing in the base falls, and that was checked rather than hoped.** Several
+notes rest on negative counts from those captures: that `معبود` occurs nowhere
+in these commentators' treatment of the verse, and that the shared-God clause is
+passed over without gloss. Both were re-run over the **complete** sections.
+`معبود` is 0 across all three pages of each and 0 on the recovered pages alone,
+and neither recovered page returns to the clause — they comment on Q 29:49-50.
+The claims are right; they were right by luck for six hours.
+
+**Why this deserves a high priority even though nothing broke.** The 11:36Z
+cycle already wrote the correct rule as a skill-smith candidate — "before
+resting a claim on a served text, establish that the section was read to its
+END — a paginated host truncates silently and produces the same false absence a
+defective normaliser does". It then established the end using a signal that did
+not mean what it appeared to mean. The lesson is one rung up from the rule: **an
+exhaustion test must be made of the thing you are collecting, not of the
+navigation offered alongside it.** A control that says "there is more" is the
+site's claim; a page that has commentary on it is the evidence. This is the same
+shape as the length-filter finding (a proxy that fails exactly where it matters)
+and the whole-element-removal finding (chrome detected by frequency leaves the
+non-overlapping tail). Three cycles, three versions of one mistake: trusting a
+proxy for the content instead of the content.
+
+**Concretely, for whoever is here next.** The corrected trap list is now in the
+altafsir access entry above, so it does not need re-deriving. And two further
+sections are known to be longer than any read so far assumed, if a cycle wants
+them: al-Tabrisi on Q 112:1 runs to **eight** content pages, al-Maturidi on
+Q 29:46 to three.

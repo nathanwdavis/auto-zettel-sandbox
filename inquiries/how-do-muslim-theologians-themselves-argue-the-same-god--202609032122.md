@@ -37,6 +37,9 @@ result_notes:
 - the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320
 - whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325
 - one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330
+- the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445
+- the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450
+- the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not

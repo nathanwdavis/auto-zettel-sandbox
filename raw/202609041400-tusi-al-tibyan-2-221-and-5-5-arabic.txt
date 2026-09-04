@@ -1,0 +1,139 @@
+SOURCE CAPTURE — Abu Ja'far Muhammad ibn al-Hasan al-Tusi (d. 460/1067), Shaykh al-Ta'ifa,
+al-Tibyan al-jami' li-'ulum al-Qur'an: the commentary on Q 2:221 and on Q 5:5. Arabic, verbatim.
+School/affiliation: Imami (Twelver) Shi'i; the Tibyan is the first complete Imami tafsir and the
+work every later Imami commentary is built on.
+
+Why this pair of verses. Q 2:221 forbids marriage to mushrikat; Q 5:5 permits marriage to the
+muhsanat of the People of the Book. Which of the two governs the other is the disputed juristic
+question this base reached through al-Qurtubi and al-Sabuni, and al-Tusi himself sends the reader
+from the first verse to the second: on Q 2:221 he writes `وسنبين وجه الآية في المائدة اذا انتهينا إليها`
+— we shall explain the sense of the verse in al-Ma'ida when we come to it. Capturing one without
+the other would have taken his position from a promissory note.
+
+Retrieved: 2026-09-04T14:00Z
+Host and route: altafsir.com (Royal Aal al-Bayt Institute for Islamic Thought, Amman),
+  Tafasir.asp, tMadhNo=4 (تفاسير الشيعة الإثنى عشرية) tTafsirNo=39, paginated by &Page=N.
+  The work, the author and the madhhab group were read back from the served HTML rather than
+  assumed from the id: the page's selected options are `تفاسير الشيعة الإثنى عشرية` and
+  `التبيان الجامع لعلوم القرآن/ الطوسي (ت 460 هـ)`.
+  Q 2:221 — 1 content page
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 05c0890957495b228294479af830603be165add6a4b05b5b20e9962638279360  (100186 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=2  sha256 c3459e5fe9515225336e331b205d563cbeb90b99ff8ba457e95413eb299a052c  (95998 bytes)
+      Page=3  sha256 8019e1735cb9dce998c832f7a6cfb3abdd8a8ea6dc79384e3d5eeca9e61a1946  (95998 bytes)
+  Q 5:5 — 3 content pages
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 4c6e5d3a5660fdfd0e96d9257247d562d7ea0ab10307e4fb88e656f460778a58  (94343 bytes)
+    Page=2  sha256 baad406febd5c5c8ff51ec48fb51debe2d147cd5ca721bc3c68c46115302587d  (94149 bytes)
+    Page=3  sha256 e94d40ac5a0076d3d084f2eb922437daad7c7848bcaf5ef5cfd9cc7ff8ee7f7a  (92420 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=4  sha256 75fe6de88a4cc3beb238fde23a2483dfe17f7195328e57635a34be4c1150257a  (91280 bytes)
+      Page=5  sha256 b1fd04aa6ed2813b664178e77f5336c2ce49d756e67c0648c898fc0a7e26dbc6  (91280 bytes)
+  A third section, Q 112:1, was fetched in the same pass (2 content pages, sha256
+    686f51eb89705ae933a6cf13e873306f8b547e0b819007c33d3c8184f83f013b and
+    96491fe094ccd56fef2a80ae641bad26c3ee3ba06a5bd88cb5c3b1a3ddac801e) and is NOT reproduced
+    below. It exists only to give the chrome filter a section unrelated to this cluster, so that
+    "a line recurring across three or more independently fetched pages" removes navigation with
+    no chance of removing commentary on the two verses at issue.
+
+ONE HOST ONLY. No independent host for the Tibyan was found from this environment; the eight
+rungs tried and their failure modes are recorded in the capture headers of
+raw/202609041100-tusi-al-tibyan-3-64-and-29-46-arabic.txt and are unchanged. What this
+repository takes from this capture is POSITIVE quotation — positions al-Tusi states in his own
+voice and marks as his school's — and a single institutional host is a weak threat to that.
+
+EDITION. altafsir.com names no printed edition for these sections and the served body carries no
+page markers, so nothing keys the text to a printed edition and none is claimed. All locators are
+by sura:aya.
+TRANSFORMATION APPLIED, AND THE ONLY ONE. altafsir.com serves windows-1256; the
+bytes were decoded as cp1256 and the numeric HTML entities this site uses for
+Arabic (`&#1649;`-style) were unescaped. `<script>`, `<style>` and `<select>`
+elements were removed WHOLE, contents included, before anything else — they are
+machinery and form controls rather than text. BLOCK-level tags (br, p, div, tr,
+td, table, center, h1-h6, li, ul, ol, hr, form) were replaced by a newline;
+INLINE tags (font, b, a, span) were removed without inserting anything, so a
+lemma the site wraps per-word stays on one line with its `{ }` intact. Runs of
+spaces were collapsed. Site chrome was removed by cross-section frequency — a
+line occurring in three or more of the independently fetched pages is
+navigation. NOTHING was removed for being short and nothing for being numeric;
+the one length test in the pipeline runs the other way, WITHHOLDING lines over
+120 characters from the chrome remover so that a section's verse text, which is
+reprinted on every page of that section, cannot be mistaken for navigation once
+the section runs to three pages or more. Not one Arabic character was added,
+removed or reordered, and the vocalisation is as served. The SHA-256 of each
+page is of the bytes exactly as served, so the transformation is reversible
+from the URL.
+
+HOW EXHAUSTION WAS ESTABLISHED, AND WHY THE PREVIOUS RULE WAS WRONG. This base's
+standing access note said a page with a successor carries a `التالي` control.
+That is true of page 1 and of page 1 only: interior pages render the same
+forward control with the ENGLISH alt `Next`, and — the part that matters — the
+control is served INDEFINITELY, on empty pages past the end of a section as
+well as inside it. Testing for `التالي` therefore stops every section at two
+pages, and testing for either alt never stops at all. Neither control is
+evidence. What is evidence is the text: every page of a section reprints that
+section's verse as one long line, and a page carrying commentary carries more
+than that one line. Each section below was read until a page came back with the
+verse alone, and the TWO pages after the last content page were then fetched and
+are recorded, so that a single empty page inside a section could not have ended
+the read early. The rule and this capture's page counts are what the accompanying
+INBOX entry reports.
+
+========================================================================
+CAPTURED TEXT BEGINS
+========================================================================
+
+===== SECTION Q 2:221 =====
+--- Page=1  100186 bytes  sha256 05c0890957495b228294479af830603be165add6a4b05b5b20e9962638279360
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 2   البقرة | تفاسير الشيعة الإثنى عشرية | التبيان الجامع لعلوم القرآن/ الطوسي (ت 460 هـ)
+    EXHAUSTION probe Page=2: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 95998 bytes, sha256 c3459e5fe9515225336e331b205d563cbeb90b99ff8ba457e95413eb299a052c
+    EXHAUSTION probe Page=3: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 95998 bytes, sha256 8019e1735cb9dce998c832f7a6cfb3abdd8a8ea6dc79384e3d5eeca9e61a1946
+----- body Page=1 -----
+Altafsir.com -تفسير ايآت القرآن الكريم (39-4-221-2)
+{ وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ وَلأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ تُنْكِحُواْ ٱلْمُشِرِكِينَ حَتَّىٰ يُؤْمِنُواْ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَـٰئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوۤاْ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ }
+اللغة:
+نكح ينكح نكحاً ونكاحاً: إذا تزوج، وأنكح غيره إنكاحاً: إذا زوّجه وتناكحوا تناكحاً، وناكحه مناكحة قال الاعشى:
+ولا تقربنّ جارة إن سرّها
+عليك حرام فانكحن أو تأبدا
+أي تعفف وأصل الباب التزويج.
+المعنى:
+وهذه الآية على عمومها - عندنا - في تحريم مناكحة الكفار، وليست منسوخة ولا مخصوصة. وقال ابن عباس في رواية شهر بن حوشب عنه قال: فرق عمر بين طلحة وحذيفة وبين إمرأتيهما اللتين كانتا عندهما وقال غيره عن ابن عباس، وإليه ذهب الحسن، ومجاهد والربيع: هي عامة إلا أنها نسخت بقوله: { والمحصنات من الذين أوتوا الكتاب } ، وقال قتادة، وسعيد بن جبير: هي على الخصوص، وإنما اختير ما قلناه لأنه لا دليل على نسخها، ولا على خصوصها، وسنبين وجه الآية في المائدة اذا انتهينا إليها.
+فأما المجوسية، فلا يجوز نكاحها إجماعاً. والذي لا يجوز: أن يتزوج مسلمة إجماعاً، وامراحاً واجباراً.
+وقوله { ولأمة مؤمنة خير من مشركة } فالأمة: المملوكة. يقال أقرت بالأموة أي بالعبودية وأميت فلانة، وتأميتها اذا جعلتها أمة قال الراجز:
+يرضون بالتعبيد والتآمي
+وجمع أمة إماء وأآم وأصل الباب العبوديه، وأصل أمة فعلة بدلالة قولهم أماء واآم في الجمع نحو أكمة وأكام واآكم. والفرق بين { ولو أعجبكم } وبين إن أعجبكم: أن لو للماضي وإن للمستقبل وكلاهما يصح في معنى الآية، ولا يجوز نكاح الوثنية إجماعاً، لأنها تدعو الى النار كما حكاه الله تعالى، وهذه العلة بعينها قائمة في الذمية من اليهودية والنصارى، فيجب أن لا يجوز نكاحها. وفي الآية دلالة على جواز نكاح الأمة المؤمنة مع وجود الطول، لقوله { ولأمة مؤمنة خير من مشركة } فأما الآية التي في النساء، وهي قوله:{ ومن لم يستطع منكم طولاً } فإنما هي على التنزيه دون التحريم، ومتى أسلم الزوجان معاً ثبتا على النكاح - بلا خلاف - وبه قال الحسن. وإن أسلمت قبله طرفة عين، فقد وقعت الفرقة - عند الحسن، وكثير من الفقهاء، وعندنا ينتظر عدتها فان أسلم الزوج بنينا أن الفرقة لم تحصل، ورجعت إليه، وإن لم يسلم بنينا أن الفرقة وقعت حين الاسلام غير أنه لا يمكن من الخلو بها. فان أسلم الزوج وكانت ذمية استباح وطؤها بلا خلاف. وإن كانت وثنية انتظر إسلامها ما دامت في العدة، فان أسلمت ثبت عقده عليها، وإن لم تسلم بانت منه.
+فان قيل: كيف قيل للكافر الموحد مشرك: قيل فيه قولان:
+أحدهما - أن كفره نعمة الله بمنزلة الاشراك في العبادة في عظم الجرم.
+والآخر ذكره الزجاج - وهو الأقوى -، لأنه اذا كفر بالنبي (صلى الله عليه وسلم) فقد أشرك فيما لا يكون إلا من عند الله، وهو القرآن بزعمه أنه من عند غيره.
+وقوله { بإذنه } معناه أحد أمرين: أحدهما - باعلامه. والآخر - بأمره، وهو قول الحسن، وأبي علي وغيرهما.
+===== SECTION Q 5:5 =====
+--- Page=1  94343 bytes  sha256 4c6e5d3a5660fdfd0e96d9257247d562d7ea0ab10307e4fb88e656f460778a58
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 5   المائدة | تفاسير الشيعة الإثنى عشرية | التبيان الجامع لعلوم القرآن/ الطوسي (ت 460 هـ)
+--- Page=2  94149 bytes  sha256 baad406febd5c5c8ff51ec48fb51debe2d147cd5ca721bc3c68c46115302587d
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=2&Size=1&LanguageId=1
+    selected: 5   المائدة | تفاسير الشيعة الإثنى عشرية | التبيان الجامع لعلوم القرآن/ الطوسي (ت 460 هـ)
+--- Page=3  92420 bytes  sha256 e94d40ac5a0076d3d084f2eb922437daad7c7848bcaf5ef5cfd9cc7ff8ee7f7a
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=3&Size=1&LanguageId=1
+    selected: 5   المائدة | تفاسير الشيعة الإثنى عشرية | التبيان الجامع لعلوم القرآن/ الطوسي (ت 460 هـ)
+    EXHAUSTION probe Page=4: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 91280 bytes, sha256 75fe6de88a4cc3beb238fde23a2483dfe17f7195328e57635a34be4c1150257a
+    EXHAUSTION probe Page=5: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 91280 bytes, sha256 b1fd04aa6ed2813b664178e77f5336c2ce49d756e67c0648c898fc0a7e26dbc6
+----- body Page=1 -----
+{ ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيّبَـٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَا ءاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلاَ مُتَّخِذِيۤ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي ٱلآخِرَةِ مِنَ ٱلْخَٰسِرِينَ }
+أخبر الله تعالى في هذه الآية أنه أحلّ للمؤمنين الطيبات، وهي الحلال على ما بينا القول فيه في الآية الاولى، دون ما حرم في الآية المتقدمة. وقيل: معنى الطيبات ما يستلذ ويستطاب. وظاهر الآية على هذا يقتضي تحليل كل مستطاب إلا ما قال دليل على تحريمه.
+وقوله: { وطعام الذين أوتوا الكتاب حل لكم } رفع بالابتداء { وحل لكم } خبره وذلك يختص عند اكثر اصحابنا بالحبوب، لانها المباحة من أطعمة أهل الكتاب، فاما ذبائحم وكل مائع يباشرونه بايديهم فانه نجس ولا يحل استعماله وتذكيتهم لا تصح لان من شرط صحتها التسمية لقوله: ولا تأكلوا مما لم يذكر اسم الله عليه وهؤلاء لا يذكرون اسم الله. وإذا ذكروه قصدوا بذلك اسم من ابد شرع موسى أو عيسى أو اتخذ عيسى ابناً. وكذب محمداً (صلى الله عليه وآله) وذلك غير الله. وقد حرم الله ذلك بقوله: { وما أهل لغير الله به } على ما مضى القول فيه واكثر المفسرين على أن قوله: { وطعام الذين أوتوا الكتاب } المراد به ذبائحهم وبه قال قوم من اصحابنا: فممن ذهب اليه الطبري والبلخي والجبائي واكثر الفقهاء، ثم اختلفوا، فمنهم من قال: أراد بذلك ذباحة كل كتابي ممن أنزل عليه التوراة والانجيل، أو ممن دخل في ملتهم ودان بدينهم، وحرم ما حرموا، وحلل ما حللوا. ذهب اليه ابن عباس والحسن وعكرمة وسعيد بن المسيب، والشعبي وابن جريج، وعطا والحكم وقتادة. واجازوا ذبائح نصارى بني تغلب وقال آخرون: إنما عنى به الذين أنزلت التوراة والانجيل عليهم، ومن كان دخيلا فيهم من سائر الامم، ودان بدينهم، فلا تحل ذبائحهم. حكى ذلك الربيع عن الشافعي من الفقهاء. وروي تحريم ذبائح نصارى تغلب عن علي (عليه السلام) ورواه سعيد بن جبير عن ابن عباس. وقال مجاهد، وابراهيم وابن عباس وقتادة والسدي والضحاك، وابن زيد وابو الدرداء إن اطعام الذين اوتوا الكتاب ذبائحهم وغيرها من الاطعمة. وبه قال الطبري والجبائي والبلخي وغيرهم.
+وقوله: { وطعامكم حل لهم } فيه بيان إن طعامنا ايضاً حل لهم، فان قيل فما معنى ذلك، وهم لا يستحلون طعامنا بتحليلنا لهم ذلك؟ قلنا عنه جوابان:
+احدهما - ان الله بين بذلك أنه حلال لهم ذلك سواء قبلوه، أو لم يقبلوه.
+والثاني - أن يكون حلال للمسلمين بذله لهم، ولو كان محرماً عليهم، لما جاز لمسلم بذله اياه.
+وقوله: { والمحصنات من المؤمنات } معناه واحل لكم العقد على المحصنات يعني العفائف من المؤمنات. وقيل هن الحرائر منهن، ولا يدل ذلك على تحريم من ليس بعفيفة، لان ذلك دليل خطاب يترك لدليل يقوم على خلافه، ولا خلاف أنه لو عقد على من ليس بعفيفة، ولا امة كان عقده صحيحا غير مفسوخ، وان كان الاولى تجنبه.
+----- body Page=2 -----
+{ ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيّبَـٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَا ءاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلاَ مُتَّخِذِيۤ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي ٱلآخِرَةِ مِنَ ٱلْخَٰسِرِينَ }
+وكذلك لو عقد على أمة بشرط جواز العقد على الأمة على ما مضى القول فيه. واختلف المفسرون في المحصنات التي عناهن ها هنا فقال بعضهم عنى بذلك الحرائر خاصة: فاجرة كانت أوعفيفة وحرموا إماء اهل الكتاب بكل حال لقوله: { ومن لم يستطع منكم طولاً أن ينكح المحصنات فمما ملكت أيمانكم من فتياتكم المؤمنات }. ذهب اليه مجاهد وطارق بن شهاب، وعامر الشعبي والحسن وقتادة. وقال اخرون: أراد بذلك العفائف من الفريقين: حرائر كن او إماء، وأجازوا العقد على الامة الكتابية. روى ذلك أيضاً عن مجاهد، وعامر الشعبي وسفين وابراهيم والحسن بن ابي الحسن وقتادة في رواية، ثم اختلفوا في المحصنات من الذين أوتوا الكتاب، فقال قوم: هو عام في العفائف منهن: حرة كانت أو أمة، حربية كانت او ذمية. وهو قول من قال المراد بالمحصنات العفائف. وقال اخرون: أراد الحرائر منهن: حربيات كن أو ذميات. وعلى قول الشافعي المراد بذلك من كان من نساء بني اسرائيل دون من دخل فيهن من سائر الملل. وقال قوم: أراد بذلك الذميات منهن. ذهب اليه ابن عباس. واختار الطبري أن يكون المراد بذلك الحرائر من المسلمات والكتابيات. وعندنا لا يجوز العقد على الكتابية نكاح الدوام، لقوله تعالى: { ولا تنكح المشركات حتى يؤمن، } ولقوله: { ولا تمسكوا بعصم الكوافر } فاذا ثبت ذلك، قلنا في قوله: { والمحصنات من الذين أوتوا الكتاب } تأويلان.
+احدهما - ان يكون المراد بذلك اللائي أسلمن منهن. والمراد بقوله: { والمحصنات من المؤمنات } من كن في الاصل مؤمنات. ولدن على الاسلام قيل: إن قوماً كانوا يتحرجون من العقد على الكافرة إذا اسلمت فبين الله بذلك انه لا حرج في ذلك، فلذلك أفردهن بالذكر حكى ذلك البلخي.
+والثانى - أن يخص ذلك بنكاح المتعة أو ملك اليمين، لانه يجوز عندنا وطؤهن بعقد المتعة، وملك اليمين على أنه روى أبو الجارود عن أبي جعفر (ع) أن ذلك منسوخ بقوله: { ولا تنكح المشركات حتى يؤمن } روى عن ابي عبد الله (ع) انه قال: هو منسوخ بقوله: { ولا تمسكوا بعصم الكوافر } وقوله: { وإذا آتيتموهن أجورهن } يعني مهورهن. وهو عوض الاستمتاع بهن. وهو قول ابن عباس، وجيمع المفسرين.
+وقوله: { محصنين غير مسافحين ولا متخذي أخدان } نصب على الحال وتقديره أحل لكم المحصنات من الفريقين، وانتم محصنون غير مسافحين، ولا متخذي أخدان يعني اعفاء غير مسافحين بكل فاجرة، وهو الزنا، ولامتخذي اخدان يعني اعنا غير مسافحين، ولا متخذي أخدان، ولا متفردين ببغية واحدة، خادنها وخادنته اتخذها لنفسه صديقة يفجر بها. وقد بينا معنى الاحصان ووجوهه، ومعنى السفاح والخدن في سورة النساء، فلا وجه لاعادته وبذلك قال ابن عباس وقتادة والحسن.
+----- body Page=3 -----
+{ ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيّبَـٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَا ءاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلاَ مُتَّخِذِيۤ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي ٱلآخِرَةِ مِنَ ٱلْخَٰسِرِينَ }
+وقوله: { ومن يكفر بالإيمان فقد حبط عمله وهو في الآخرة من الخاسرين } يعني من يجحد ما أمر الله الاقرار به، والتصديق به من توحيد الله، ونبوة نبيه، والاقرار بما جاء به فقد حبط عمله يعني الاعمال التي يعملها، ويعتقدها قربات إلى الله، فانها تنحبط، ولايستحق عليها ثواباً، بل يستحق عليها العقاب، { وهو في الآخرة من الخاسرين } يعني الهالكين الذين غبنوا نفوسهم حظها من ثواب الله بكفرهم، واستحقاقهم العقاب على جحدهم التوحيد، والاسلام. وقال قوم: إن قوله: { ومن يكفر بالايمان } عنى به اهل الكتاب، لان قوماً تحرجوا من نكاح نساء أهل الكتاب، واكل طعامهم وما بين الله في هذه الآية. ذهب اليه قتادة وابن جريج ومجاهد وابن عباس. فان قيل ما معنى { ومن يكفر بالإيمان } قيل: الايمان هو الاقرار بتوحيد الله، وصفاته، وعدله، والاقرار بالنبي (صلى الله عليه وآله) وما جاء به من عند الله. فمن جحد ذلك أو شيئاً منه كان كافراً بالايمان. وقد حبط عمله الذي يرجو به الفوز والنجاة. وهو في الاخرة من الخاسرين. وقال مجاهد: معناه من يكفر بالله. قال البلخي لا يعرف تأويل مجاهد في اللغة.
