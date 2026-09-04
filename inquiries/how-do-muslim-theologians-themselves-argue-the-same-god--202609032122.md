@@ -6,14 +6,16 @@ aliases:
 - '202609032122'
 type: inquiry
 created: '2026-09-03'
-updated: '2026-09-03'
+updated: '2026-09-04'
 question: How do Muslim theologians themselves argue the same-God question, and what
   happens to the base's conclusions when the Islamic side is argued from inside rather
   than described from outside?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
+- the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -86,3 +88,44 @@ If the reference/description framing is one that Muslim theologians do not
 actually use, that note is a Christian-philosophical frame presented as the
 neutral shape of the dispute, and the run should say so plainly rather than
 adding a corroborating footnote.
+
+---
+
+## Answered 2026-09-04
+
+**The test this inquiry set was met.** It asked not for "a Muslim source" but
+whether an existing permanent note has to change, naming
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]] —
+the base's most-linked note — as the thing to test. That note has changed: it
+now carries an explicit limit recording that all five of its sources are
+Christian or secular, and that the reference/description grid is a
+participant's frame rather than the neutral shape of the dispute.
+
+**What was captured.** *A Common Word Between Us and You* (2007), the consensus
+letter from 138 Muslim scholars to the Christian churches, reference
+[[a-common-word-between-us-and-you--202609040058]], captured complete and
+directly from the initiative's own site — candidate (1) on this inquiry's
+reachability list, and it was reachable at the first rung. Plus the cheap
+checkable piece this inquiry specified: a second Qur'an capture, reference
+[[quran-shared-god-passages--202609040056]], holding 29:46 with its context
+plus 3:64, 2:136 and 5:48.
+
+**The finding, in one line.** Asked the same-God question, the major Muslim
+collective statement answers neither horn: it concedes descriptive divergence,
+presupposes rather than argues co-reference, and puts a shared *obligation*
+where an answer would go. The load-bearing negative claim — that the letter
+never asserts same-God — was checked mechanically rather than by impression:
+"same God", "worship the same", "same being" and "Divine Origin" occur zero
+times across the letter's 49,644 captured characters, while "Divine Origin"
+does occur in the site's editorial introduction, which is why the capture keeps
+the two texts apart.
+
+**What this did NOT close, and it is a real remainder.** The letter is irenic,
+collective and addressed outward, so it is a poor witness to the internal
+Islamic argument. Candidates (2), (3) and (4) from this inquiry — Saritoprak,
+al-Ghazali's *Faysal al-Tafriqa*, Ibn Taymiyya's *al-Jawab al-Sahih* — remain
+uncaptured, and with them the argumentative and classical registers. The
+juristic question of whether Christians count as *mushrikun* is untouched by
+anything now in the base. That corroboration is filed as a new INBOX entry
+rather than left implicit here, and it is the reason
+202609040115 is deliberately not tagged `contested`.

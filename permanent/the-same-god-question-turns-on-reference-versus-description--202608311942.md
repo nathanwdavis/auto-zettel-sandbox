@@ -29,8 +29,10 @@ links:
   relation: elaborates
 - target_id: shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542
   relation: elaborates
+- target_id: the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
+  relation: contradicts
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One
@@ -69,3 +71,18 @@ is entitled to settle the matter.
 So "do they worship the same God?" is not one question with a hidden answer. It
 is at least two questions wearing one sentence, and most of the heat comes from
 answering one of them while the other side answers the other.
+
+**A limit on this note, added 2026-09-04.** Every source above is Christian or
+secular: Pauw, Nostra Aetate, Tachin, Mohler, Vroom. That was invisible while
+the note read as a neutral map of the dispute, and it is not neutral. When
+Muslim scholars addressed Christians collectively, in *A Common Word Between Us
+and You* (2007), they used neither of the two questions this note sorts
+positions by — conceding descriptive divergence outright, presupposing rather
+than arguing a shared referent, and putting a shared *obligation* where an
+answer would go
+([[the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115]]).
+The "at least" in the sentence above is therefore doing more work than it
+looks: there is at least a third question in play, *what is jointly commanded
+of us*, and this note has no slot for it. The reference/description distinction
+remains accurate for the Christian and analytic debate it was drawn from. It
+should not be presented as the shape of the dispute as such.

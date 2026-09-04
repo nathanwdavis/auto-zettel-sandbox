@@ -130,6 +130,12 @@
     "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
     "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
     "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+    "202609040056": "quran-shared-god-passages--202609040056",
+    "202609040058": "a-common-word-between-us-and-you--202609040058",
+    "202609040105": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105",
+    "202609040110": "a-common-word-builds-common-ground-from-the-two-commandments--202609040110",
+    "202609040115": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
+    "202609040120": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -190,9 +196,12 @@
       "path": "inquiries/how-do-muslim-theologians-themselves-argue-the-same-god--202609032122.md",
       "priority": "high",
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
-      "result_notes": [],
-      "status": "new",
-      "updated": "2026-09-03"
+      "result_notes": [
+        "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
+        "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+      ],
+      "status": "answered",
+      "updated": "2026-09-04"
     },
     {
       "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
@@ -256,8 +265,37 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 135,
+  "note_count": 141,
   "notes": [
+    {
+      "id": "202609040058",
+      "key": "a-common-word-between-us-and-you--202609040058",
+      "links": [],
+      "path": "reference/a-common-word-between-us-and-you--202609040058.md",
+      "slug": "a-common-word-between-us-and-you",
+      "tags": [],
+      "title": "A Common Word Between Us and You (2007)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/a-common-word-between-us-and-you--202609040058.md"
+    },
+    {
+      "id": "202609040110",
+      "key": "a-common-word-builds-common-ground-from-the-two-commandments--202609040110",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609040058"
+        }
+      ],
+      "path": "literature/a-common-word-builds-common-ground-from-the-two-commandments--202609040110.md",
+      "slug": "a-common-word-builds-common-ground-from-the-two-commandments",
+      "tags": [],
+      "title": "A Common Word builds common ground from the two commandments, not from a shared referent",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/a-common-word-builds-common-ground-from-the-two-commandments--202609040110.md"
+    },
     {
       "id": "202609022356",
       "key": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
@@ -2134,6 +2172,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/price-contrasts-compound-and-simple-interest-with-one-penny--202609010204.md"
     },
     {
+      "id": "202609040056",
+      "key": "quran-shared-god-passages--202609040056",
+      "links": [],
+      "path": "reference/quran-shared-god-passages--202609040056.md",
+      "slug": "quran-shared-god-passages",
+      "tags": [],
+      "title": "Qur'an 29:45-47; 3:64; 2:136; 5:48",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-shared-god-passages--202609040056.md"
+    },
+    {
       "id": "202608311923",
       "key": "quran-tawhid-passages--202608311923",
       "links": [],
@@ -2833,6 +2883,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352.md"
     },
     {
+      "id": "202609040115",
+      "key": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609040058"
+        },
+        {
+          "relation": "source",
+          "target_id": "a-common-word-builds-common-ground-from-the-two-commandments--202609040110"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115.md",
+      "slug": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference",
+      "tags": [],
+      "title": "The major Muslim consensus statement makes common ground out of shared command, not shared reference",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115.md"
+    },
+    {
       "id": "202609011541",
       "key": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541",
       "links": [
@@ -2899,6 +2982,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
     },
     {
+      "id": "202609040105",
+      "key": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "quran-shared-god-passages--202609040056"
+        }
+      ],
+      "path": "literature/the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105.md",
+      "slug": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one",
+      "tags": [],
+      "title": "The Qur'an also instructs Muslims to tell the People of the Scripture that the God of both is one",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105.md"
+    },
+    {
       "id": "202608311933",
       "key": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933",
       "links": [
@@ -2918,6 +3018,43 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933.md"
+    },
+    {
+      "id": "202609040120",
+      "key": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-shared-god-passages--202609040056"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933"
+        }
+      ],
+      "path": "permanent/the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120.md",
+      "slug": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one",
+      "tags": [],
+      "title": "The Qur'an supplies both a shared-God formula and a formula that excludes trinitarian language",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120.md"
     },
     {
       "id": "202609011537",
@@ -2977,6 +3114,10 @@
           "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         },
         {
+          "relation": "contradicts",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        },
+        {
           "relation": "source",
           "target_id": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926"
         }
@@ -2988,7 +3129,7 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {

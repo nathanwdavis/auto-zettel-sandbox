@@ -510,6 +510,35 @@ by (B). That is a workaround, not a fix; a bibliographically correct record
 that needs `number` (a report or numbered series, as Polkinghorne's is) still
 cannot avoid it.
 
+**Third observation, 2026-09-04 cycle: defect (B) fired again, and this time
+the trigger is identified.** The live pass downgraded five reference notes
+from `raw-capture+openlibrary` / `identifier_check: confirmed` to bare
+`raw-capture` (ahrens 202608301000, housel 202608311036, luhmann 202609010111,
+plantinga 202609011500, dweck 202609030150), and gave polkinghorne 202609022347
+a new `identifier_check: failed` it did not have. The common factor is the
+registry, not the notes: every one of the five is an Open Library ISBN lookup,
+and every Crossref-verified note in the same pass kept its provenance
+(tachin, vroom both still `raw-capture+crossref`).
+
+The trigger was confirmed rather than assumed. `curl` to
+`https://openlibrary.org/isbn/<isbn>.json` returned **HTTP 000 — a transport
+failure, not a 404 —** for all five ISBNs, so Open Library is simply
+unreachable from this environment class right now. That matters twice over:
+it distinguishes this from identifier rot (the 2026-09-03 freshness sweep
+found Open Library reachable and all identifiers live, so nothing has
+actually rotted), and it shows the defect is a *reachability* failure being
+recorded as a verification downgrade. A registry being down should leave
+provenance untouched, not erase what a previous live lookup established.
+
+All six notes were restored from HEAD, twice — the cycle ran verify_refs live
+a second time to render a Chicago string, which re-inflicted the identical
+damage, so the restore has to be the last step before committing rather than
+a one-off. `reference/` shows no changed method or `identifier_check` line
+against origin/main. Note for the fix: (A) and (B) now both have a
+reproduction that does not depend on file age, and (B)'s reproduction is
+cheap — take any Open-Library-verified note and run the live pass while the
+registry is unreachable.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -944,3 +973,53 @@ A run may not edit config.yml topics to match what it has already written —
 that would let the base silently redefine its own scope, and the genesis rule
 is that topics are asked of the human and never guessed. Recording it here so
 the next run reads a decision instead of re-deriving the discrepancy.
+
+## 2026-09-04 — Corroborate the A Common Word finding from a second Muslim source arguing in its own voice
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04 maintenance cycle, which answered inquiry 202609032122
+and deliberately left this open rather than claiming more than it earned.
+
+WHAT IS ESTABLISHED. permanent 202609040115 argues that the major Muslim
+consensus statement, A Common Word Between Us and You (2007), answers the
+same-God question by relocating it onto shared obligation, taking neither horn
+of the reference/description grid. The negative half of that is machine-checked
+and solid: "same God", "worship the same", "same being" and "Divine Origin"
+occur zero times in the letter's 49,644 captured characters. On the strength of
+it, permanent 202608311942 -- the base's most-linked note, in-degree 12 -- now
+carries a limit saying its framing is a participant's frame.
+
+WHAT IS NOT. That is a lot of weight resting on ONE document, read directly.
+The positive half of the claim -- that the silence is deliberate relocation
+rather than the ordinary reticence of a document written to be signed by 138
+people -- is an inference, and it currently has no second witness. This is
+exactly why 202609040115 is NOT tagged `contested`: that tag carries a
+three-independent-source bar in this repository, and tagging a single-source
+note would either fail the gate honestly or invite link-stuffing to clear it.
+The note says so in its own body rather than leaving the absence unexplained.
+
+WHAT WOULD CLOSE IT. A second Muslim source arguing the question in its own
+voice, in a different register from an irenic collective letter. In rough order
+of expected value:
+
+  (1) Zeki Saritoprak. Named in the base since 2026-08-31 but still only
+      secondhand, as a person quoted in the NPR piece -- no reference note,
+      nothing captured. Find something he actually wrote.
+  (2) Al-Ghazali, Faysal al-Tafriqa bayna al-Islam wa-l-Zandaqa. The classical
+      text on who counts as outside the faith. Old enough to be out of
+      copyright; an English translation may not be.
+  (3) Ibn Taymiyya, al-Jawab al-Sahih li-man baddala din al-Masih. A hostile
+      witness, and useful for the same reason Modena was useful on the Jewish
+      side: it argues the question instead of smoothing it.
+
+Also untouched by anything now in the base: the juristic question of whether
+Christians count as mushrikun, and how the exegetical tradition harmonises
+29:46 against 4:171 and 5:73. Both are named in permanent 202609040120 as
+limits on what it can claim.
+
+NOT A BLOCKER. Nothing above is a defect in what landed. The cycle's notes
+state their own limits, and this entry exists so the limits are worked on
+rather than forgotten.
