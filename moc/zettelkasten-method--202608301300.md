@@ -38,6 +38,14 @@ is mostly a gap:
 
 - [[a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210]]
 - [[the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215]]
+- [[the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210]]
+
+The third was salvaged on 2026-09-04 from a superseded branch and is the
+sharpest of the three: a second direct replication that recovered the
+behavioural half of the original finding with large significant differences and
+declared the learning half *equivalent to zero* rather than merely
+unrecovered — a stronger null than the first replication's, and the reason the
+learning claim now reads as unlikely rather than unsupported.
 
 Read the second before citing anything in the list above as established.
 
