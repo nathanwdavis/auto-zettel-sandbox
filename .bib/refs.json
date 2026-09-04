@@ -2051,5 +2051,109 @@
     "publisher": "Metaphysics Research Lab, Stanford University",
     "title": "Rigid Designators",
     "type": "entry-encyclopedia"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/schaff/npnf214.vii.iii.html",
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 14: The Seven Ecumenical Councils",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Percival",
+        "given": "Henry R."
+      }
+    ],
+    "id": "202609041955",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "The Nicene Creed",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/schaff/npnf214.ix.viii.i.html",
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 14: The Seven Ecumenical Councils",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Percival",
+        "given": "Henry R."
+      }
+    ],
+    "id": "202609041956",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "Canons of the One Hundred and Fifty Fathers, Canon I",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/schaff/npnf214.ix.viii.ii.html",
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 14: The Seven Ecumenical Councils",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Percival",
+        "given": "Henry R."
+      }
+    ],
+    "id": "202609041957",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "Excursus on the Heresies Condemned in Canon I",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/schaff/npnf214.xi.xiii.html",
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 14: The Seven Ecumenical Councils",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Percival",
+        "given": "Henry R."
+      }
+    ],
+    "id": "202609041958",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "The Definition of Faith of the Council of Chalcedon",
+    "type": "chapter"
   }
 ]

@@ -9,10 +9,13 @@ created: '2026-09-04'
 updated: '2026-09-04'
 question: Do the conciliar texts themselves say what Hodge reports them as saying
   about the two rejected readings of the divine three?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010
+- the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011
+- the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012
 tags: []
 ---
 `the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730`

@@ -3855,3 +3855,11 @@ intact and the other not.
 Worth a line in the skill's remote maintenance prompt, since the prompt is what
 tells every cycle to append one line per step and says nothing about how.
 (no further detail)
+
+## 2026-09-04 — Correction owed, from cycle 202609041841: permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730 states its left-hand leg as 'to the letter, the position Hodge reports the councils as condemning'. The conciliar texts do not condemn the ad extra reading in any creed or canon; only a bare party name ('that of the Sabellians', Canon I of 381) is conciliar, and the doctrinal content comes from Percival's editor quoting William Bright in 1900. permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012 records the corrected version and links back, but the 202609041730 note itself has NOT been rewritten -- a later run should either soften its left-hand leg or reground it on Tertullian's Against Praxeas and Dionysius of Alexandria, which is where the fourth-century rejection of modalism actually lives.
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+(no further detail)
