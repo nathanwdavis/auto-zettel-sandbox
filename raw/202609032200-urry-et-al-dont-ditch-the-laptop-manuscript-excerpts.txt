@@ -1,0 +1,235 @@
+CAPTURE: Heather L. Urry et al., "Don't Ditch the Laptop Just Yet: A Direct
+         Replication of Mueller and Oppenheimer's (2014) Study 1 Plus
+         Mini-Meta-Analyses Across Similar Studies," Psychological Science 32,
+         no. 3 (March 2021): 326-339.
+DOI (published version): 10.1177/0956797620965541
+PMID: 33539228
+FETCHED: 2026-09-03T21:58Z
+SOURCE URL (what actually returned the document):
+  https://osf.io/download/g3aqy/
+  reached via the OSF API, not by scraping: the Semantic Scholar record for
+  the DOI reported a GREEN open-access copy at psyarxiv.com/vqyw6/download;
+  that URL returns only a 4 KB JavaScript shell, so the file was resolved
+  through https://api.osf.io/v2/preprints/vqyw6/ -> primary_file
+  https://api.osf.io/v2/files/5c5f4877832ca6001aab851c/ -> download link.
+PROVENANCE, STATED PLAINLY: this is the AUTHORS' OWN MANUSCRIPT deposited by
+  them on PsyArXiv (OSF Preprints), file name 00_Urry_et_al_manuscript.pdf,
+  574,025 bytes, sha256
+  242a564828171b46ee10bf10c38574715bf43ccacae2e0d480df2e129ad7880b,
+  OSF date_modified 2020-07-31. It is NOT the version of record. The
+  manuscript's own footnote reads "This preprint was generated on Thu Jul 30
+  19:51:47 2020", and its title page states "Preprint accepted for publication
+  in Psychological Science on July 30, 2020" -- so it is the ACCEPTED
+  manuscript, after peer review, and not a pre-review draft. The article
+  appeared in Psychological Science in March 2021.
+  Unpaywall reports the published article as closed (is_oa false), and
+  OpenAlex agrees (oa_status "closed"), so the version of record was not
+  reachable from this environment and was not fetched.
+  EVERY LOCATOR BELOW IS A MANUSCRIPT PAGE, NOT A JOURNAL PAGE. Notes citing
+  this capture must say so; journal pagination 326-339 is known from the
+  Crossref and PubMed records only and no claim here is pinned to it.
+
+IDENTITY CHECK, manuscript against the published record. The publisher-
+  deposited abstract was retrieved independently, by DOI from the Crossref API
+  and by PMID 33539228 from NCBI E-utilities (both on 2026-09-03), and
+  compared word-for-word with the manuscript abstract excerpted below. They
+  agree on every substantive word, including all four findings and the closing
+  sentence. The differences are three and all cosmetic:
+    (1) published "(n = 74)"/"(n = 68)", manuscript "(N = 74)"/"(N = 68)";
+    (2) published "As in the original study", manuscript "Like the original
+        study";
+    (3) published "longhand note taking", manuscript "longhand note-taking".
+  On that evidence the manuscript is the same study, same design, same sample
+  sizes and same conclusions as the published article. It remains possible
+  that copy-editing or a revision changed a number somewhere in the body,
+  which is exactly why the locators stay manuscript-relative.
+
+A WORDING SNAG WORTH RECORDING, because a later reader will hit it. Both the
+  published abstract and the manuscript abstract contain the sentence "laptop
+  participants did not perform better on the quiz than longhand participants."
+  Read alone that sentence points the wrong way -- the original study's claim
+  was that laptop takers did WORSE, so "not better" would not contradict it.
+  The body of the paper is unambiguous and says the opposite of what the loose
+  sentence suggests: the conceptual-application difference was "not
+  significant", "negligible in the opposite direction", and statistically
+  equivalent to zero, and the abstract's own last sentence concludes that the
+  "results do not support the idea that longhand note-taking improves
+  immediate learning via better encoding of information." Ground claims on the
+  body excerpts below, not on that sentence.
+
+EXTRACTION: pypdf 6.x text layer, 38 pages, 96,107 characters. The PDF has a
+  real text layer (LaTeX/papaja output), not an OCR layer over a scan, so no
+  second-witness collation was done. Two artifacts of that text layer survive
+  in the excerpts and are NOT errors in the source: the ligature "fi" renders
+  as a single glyph, so "finding" appears as "ﬁnding" and "difference" as
+  "diﬀerence"; and inter-word spaces are occasionally dropped in justified
+  lines, e.g. "ourreplicationresultsareinconsistentwiththeoriginalstudy". The
+  excerpts are reproduced exactly as extracted, artifacts included, rather
+  than silently repaired. A third artifact appears only in the author roster
+  at the foot of this file: an accented character the extractor could not map
+  renders as "Lauz?1" where the title page reads "Lauzé". PubMed's record for
+  the published article gives the name as Lauzé, Meghan S. Running headers of the form "DON'T DITCH THE LAPTOP
+  <n>" that fell inside an excerpt were replaced with "[ms. page break]".
+
+EXCERPTS BELOW ARE VERBATIM. Nothing is paraphrased, reordered, or elided
+inside a passage; passages are separated and labelled with the manuscript page
+they begin on.
+
+
+--- ABSTRACT (verbatim, manuscript p. 1) [manuscript p. 1] ---
+
+Abstract
+In this direct replication of Mueller and Oppenheimer’s (2014) Study 1, par-
+ticipants watched a lecture while taking notes with a laptop (N = 74) or
+longhand (N = 68). After brief distraction and without the opportunity
+to study, they took a quiz. Like the original study, laptop participants
+took notes containing more words spoken verbatim by the lecturer and more
+words overall than longhand participants. However, laptop participants did
+not perform better on the quiz than longhand participants. Exploratory
+meta-analyses of eight similar studies echoed this pattern. In addition, in
+both the original study and our replication, higher word count was associ-
+ated with better quiz performance and higher verbatim overlap was asso-
+ciated with worse quiz performance, but the latter ﬁnding was not robust
+in our replication. Overall, results do not support the idea that longhand
+note-taking improves immediate learning via better encoding of information.
+Preregistration, materials, data, and code: https://osf.io/tr868/.
+Keywords: note-taking, laptop, longhand
+
+--- PREREGISTRATION AND OPEN DATA [manuscript p. 2] ---
+
+We preregistered this study on March 7, 2017 (see https://osf.io/qe3wb/wiki/home/)
+Our materials, data, and analysis scripts are available on the Open Science Framework
+at https://osf.io/tr868/.
+
+--- CONFIRMATORY RESULT, QUIZ PERFORMANCE [manuscript p. 9] ---
+
+(Hedges’g = -0.08, 95% CI[-0.41, 0.25]), not signiﬁcantly diﬀerent from the original eﬀect,
+t(139.96) = -0.55,p = .291, and equivalent to 0 +/- 0.49,t(139.96) = 2.45,p = .008.
+Contrary to the original study, the diﬀerence in conceptual-application performance
+was not signiﬁcant (see Figure 1, top right). Based on standardized units, the original
+study yielded a small-medium eﬀect suggesting better performance in the longhand than
+laptop condition (Hedges’g = 0.34, 95% CI[-0.16, 0.83]). The replication study eﬀect was
+negligible in the opposite direction (Hedges’g = -0.13, 95% CI[-0.45, 0.20]), signiﬁcantly
+diﬀerent from the original eﬀect,t(139.03) = -2.78,p = .003, and equivalent to 0 +/- 0.49,
+t(139.03) = 2.17,p = .016.
+
+--- CONFIRMATORY RESULT, CONTENT OF THE NOTES [manuscript p. 10] ---
+
+Eﬀect of Note-taking Condition on Content of Notes.Consistent with the
+original study, taking notes using a laptop,M = 230.69, SD = 133.87, 95% CI [198.03,
+263.34], led to a higher word count than taking notes longhand,M = 136.16,SD = 66.26,
+95% CI [120.71, 151.62],t(94.63) = − 5.22, p<. 001 (see Figure 1, bottom left). Removing
+inﬂuential observations had little eﬀect on the statistical results,t(99.41) = − 4.91,p<. 001.
+Both the original and replication studies yielded large eﬀects suggesting a higher word count
+in the laptop than longhand condition (original Hedges’g = -1.41, 95% CI[-1.96, -0.86],
+and replication Hedges’g = -0.90, 95% CI[-1.25, -0.56]). The replication study eﬀect was
+signiﬁcantly diﬀerent from the original eﬀect,t(94.63) = 3.02, p = .002, but it was not
+equivalent to 0 +/- 0.49,t(94.63) = -2.34,p = .989.
+Again consistent with the original study, taking notes using a laptop,M = 12.97%,
+SD = 6.53, 95% CI [11.37, 14.56], led to more verbatim overlap with the lecture than writing
+notes longhand,M = 8.13%,SD = 4.73, 95% CI [7.03, 9.23],t(119.46) = − 4.98, p < .001
+(see Figure 1, bottom right). Removing inﬂuential observations had little eﬀect on the
+statistical results,t(119.30) = − 5.58,p<. 001. Both studies yielded large eﬀects suggesting
+a higher verbatim overlap in the laptop than longhand condition (original Hedges’g =
+-0.93, 95% CI[-1.44, -0.41], and replication Hedges’g = -0.85, 95% CI[-1.19, -0.51]). The
+replication study eﬀect was not signiﬁcantly diﬀerent from the original eﬀect,t(119.46) =
+0.45, p = .326, nor was it equivalent to 0 +/- 0.49,t(119.46) = -2.08,p = .980.
+
+--- WHAT THE MINI-META-ANALYSIS POOLED [manuscript p. 11] ---
+
+The set of k = 8 studies was comprised of Study 1 and 2 by the original authors
+(Mueller & Oppenheimer, 2014) (not Study 3, which assessed quiz performance one week
+later), two studies reported by Morehead et al. (2019) (immediate condition only), the
+current study, and three more single-study replications (Kirkland, 2016; Luo et al., 2018;
+Mitchell & Zheng, 2017). We excluded participants in the laptop intervention condition in
+Mueller and Oppenheimer’s Study 2 given that the goal of the intervention was to eliminate
+or reduce the diﬀerence between laptop and longhand conditions. Also, we could only meta-
+analyze k = 7 studies for factual-recall and conceptual-application performance because the
+authors reported performance across item types in one study (Luo et al., 2018).
+Onesourceofvariationacrossstudies, despiteotherwisesimilarmethods, isthelecture
+video material. Morehead et al., Mitchell and Zheng, and the current replication used at
+least one of the original TED talk lectures; Kirkland and Luo et al. used other video material
+that lasted a bit longer than the original 15-minute videos (28 and 23 minutes, respectively).
+We excluded the recent study of 7th-9th-grade students (Frantz, Morling, & Radu, 2018),
+in part because participants were not university undergraduates, which could introduce
+age-related heterogeneity, and in part because they do not report results for word count
+and verbatim overlap.
+
+--- META-ANALYTIC RESULT, QUIZ PERFORMANCE [manuscript p. 11] ---
+
+The forest plot in Figure 2 summarizes quiz performance ﬁndings. Across studies,
+taking notes longhand versus with a laptop boosted total quiz performance across factual
+and conceptual item types to a negligible degree, Hedges’g = 0.04, 95% CI[-0.13, 0.20].
+This eﬀect was not statistically signiﬁcant,Z = 0.46,p = .645, and it also was equivalent
+to 0 +/- 0.38,Z = -4.10,p = < .001. The equivalence bound ofd = 0.38 reﬂects the eﬀect
+size the original study could detect with 33% power. Equivalence, thus, suggests that the
+meta-analytic eﬀect size was too small to have been detected in the original study.
+
+--- META-ANALYTIC RESULT, CONTENT OF THE NOTES [manuscript p. 14] ---
+
+Consistent with the
+original study, taking notes with a laptop boosted both word count, Hedges’g = -0.91, 95%
+CI[-1.18, -0.65], and degree of verbatim overlap, Hedges’g = -0.78, 95% CI[-1.03, -0.54],
+to a large degree. These eﬀects were statistically signiﬁcant,Z = -6.75,p = < .001 andZ
+= -6.34,p = < .001, respectively, and neither of them were equivalent to 0 +/- 0.38,Z =
+-3.92, p > .999 andZ = -3.24,p = .999, respectively.
+
+--- DISCUSSION, WHAT REPLICATED AND WHAT DID NOT [manuscript p. 15] ---
+
+In our replication study, laptop notes contained more words and greater verbatim
+overlap with lecture content than longhand notes. However, unlike the original study, we
+found only small, statistically nonsigniﬁcant diﬀerences in quiz performance as a function
+of note-taking medium. This conclusion was borne out in mixed-eﬀect ANOVAS, equiva-
+lence tests, Bayesian analyses, and linear mixed-eﬀect regressions. Thus, we replicated the
+experimental eﬀect of note-taking condition assignment on notes but not quiz performance.
+
+--- DISCUSSION, THE AUTHORS' OWN LIMIT ON THE META-ANALYSIS [manuscript p. 16] ---
+
+Our mini-meta-analyses, thus, replicated the experimental eﬀect of note-taking con-
+dition on notes but not quiz performance. This reduces concern about the limitations of our
+single replication. However, because these meta-analyses included only eight studies, likely
+did not include all unpublished attempts to replicate the original study, and did not take
+into account publication bias, our meta-analytic estimates should be considered preliminary.
+
+--- LIMITATION, WHAT THIS LITERATURE DOES NOT TEST [manuscript p. 16] ---
+
+Third, future studies should, ideally, include a no-notes control condition to see the
+eﬀect of taking notes regardless of medium (Jansen, Lakens, & IJsselsteijn, 2017). Focusing
+on the laptop-longhand comparison without a no-notes control encourages dichotomous
+thinking when the story likely is more complicated. Jansen and colleagues (2017) suggest,
+for example, that a note-taking beneﬁt “depends on the way lectures are presented, how
+notes are taken, and individual diﬀerences in cognitive abilities
+
+--- AUTHORSHIP AND ACCEPTANCE STATEMENT, title page (verbatim) [manuscript p. 1] ---
+
+Heather L. Urry1, Chelsea S. Crittle1, Victoria A. Floerke1, Michael Z.
+Leonard1, Clinton S. Perry, III1, Naz Akdilek1, Erica R. Albert1,
+Avram J. Block1, Caroline Ackerley Bollinger1, Emily M. Bowers1,
+Renee S. Brody1, Kelly C. Burk1, Ally Burnstein1, Allissa K. Chan1,
+Petrina C. Chan1, Lena J. Chang1, Emily Chen1, Chakrapand Paul
+Chiarawongse1, Gregory Chin1, Kathy Chin1, Ben G. Cooper1,
+Katherine Corneilson1, Amanda M. Danielson1, Elizabeth S. Davis1,
+Ycar Devis1, Melissa Dong1, Elizabeth K. Dossett1, Nick Dulchin1,
+Vincent N. Duong1, Ben Ewing1, Julia Mansﬁeld Fuller1, Thomas E.
+Gartman1, Chad R. Goldberg1, Jesse Greenﬁeld1, Selena Groh1, Ross
+A. Hamilton1, Will Hodge1, Dylan Van Hong1, Joshua E. Insler2, Aava
+B. Jahan1, Jessica Paola Jimbo1, Emma M. Kahn1, Daniel Knight1,
+Grace E. Konstantin1, Caitlin Kornick1, Zachary J. Kramer1, Meghan
+S. Lauz?1, Misha S. Linnehan1, Tommaso Lombardi1, Hayley Long1,
+Alec J. Lotstein1, Myrna-Nahisha A. Lyncee1, Monica Gabriella
+Lyons1, Eli Maayan1, Nicole Marie May1, Elizabeth C. McCall1, Rhea
+Ann Charlotte Montgomery-Walsh1, Michael C. Morscher1, Amelia D.
+Moser3, Alexandra S. Mueller1, Christin A. Mujica1, Elim Na4,
+Isabelle R. Newman1, Meghan K. O’Brien1, Katherine Alexandra
+Ochoa Castillo1, Zaenab Ayotola Onipede1, Danielle A. Pace1, Jasper
+Park1, Angeliki Perdikari1, Catherine Perloﬀ1, Rachel C. Perry1,
+Akash Pillai1, Avni Rajpal1, Emma Ranalli1, Jillian E. Schreier1,
+Justin Shangguan1, Micaela Jen Silver1, Avery Glennon Spratt1,
+Rachel E. Stein1, Grant J. Steinhauer1, Devon K. Valera1, Samantha
+M. Vervoordt1, Lena Walton1, Noah W. Weinﬂash1, Karen
+Weinstock1, Jiaqi Yuan1, Dominique T. Zarrella1, & Jonah Zarrow1
+1 Tufts University
+2 Rush Medical College of Rush University Medical Center
+3 McLean Hospital
+4 Boston University School of Medicine
+Preprint accepted for publication inPsychological Scienceon July 30, 2020.

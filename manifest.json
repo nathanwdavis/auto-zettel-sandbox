@@ -130,6 +130,9 @@
     "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
     "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
     "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+    "202609032200": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200",
+    "202609032205": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205",
+    "202609032210": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
     "202609040056": "quran-shared-god-passages--202609040056",
     "202609040058": "a-common-word-between-us-and-you--202609040058",
     "202609040105": "the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105",
@@ -429,7 +432,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 254,
+  "note_count": 257,
   "notes": [
     {
       "id": "202609041020",
@@ -5284,6 +5287,47 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-offloading-literature-varies-expectation-not-accumulation--202609041840.md"
     },
     {
+      "id": "202609032210",
+      "key": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        },
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200"
+        },
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205"
+        }
+      ],
+      "path": "permanent/the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210.md",
+      "slug": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning",
+      "tags": [],
+      "title": "The pen-versus-keyboard finding replicated for the notes and not for the learning",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210.md"
+    },
+    {
       "id": "202609041520",
       "key": "the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520",
       "links": [
@@ -6143,6 +6187,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/universal-compounding-turns-bounded-room-into-selection--202609010910.md"
+    },
+    {
+      "id": "202609032200",
+      "key": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200",
+      "links": [],
+      "path": "reference/urry-et-al-dont-ditch-the-laptop-just-yet--202609032200.md",
+      "slug": "urry-et-al-dont-ditch-the-laptop-just-yet",
+      "tags": [],
+      "title": "Urry et al., Don't Ditch the Laptop Just Yet",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/urry-et-al-dont-ditch-the-laptop-just-yet--202609032200.md"
+    },
+    {
+      "id": "202609032205",
+      "key": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "urry-et-al-dont-ditch-the-laptop-just-yet--202609032200"
+        }
+      ],
+      "path": "literature/urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205.md",
+      "slug": "urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect",
+      "tags": [],
+      "title": "Urry et al. replicate the effect on the notes and not the effect on the learning",
+      "type": "literature",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/urry-et-al-replicate-the-notes-effect-and-not-the-learning-effect--202609032205.md"
     },
     {
       "id": "202609011315",
