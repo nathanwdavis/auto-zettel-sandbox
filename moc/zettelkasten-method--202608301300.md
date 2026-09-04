@@ -56,4 +56,13 @@ bears against the premise of
 [[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
 above.
 
+Extended again on 2026-09-04, from the first audit of that literature this base
+has actually read rather than cited at second hand:
+
+- [[in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515]]
+
+Read it against the first of the three notes above, which it contradicts on the
+one point this map most wants to be true: that a benefit measured over a week
+keeps growing over a semester. In fifty classroom experiments it does not.
+
 See also: [[compound-growth--202608311143]]

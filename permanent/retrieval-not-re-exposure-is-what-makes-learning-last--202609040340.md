@@ -20,6 +20,12 @@ links:
   relation: source
 - target_id: a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210
   relation: shared-concept
+- target_id: agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505
+  relation: source
+- target_id: agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510
+  relation: source
+- target_id: in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515
+  relation: contradicts
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -56,17 +62,44 @@ The nearest comparable finding this repository holds — the longhand-over-lapto
 advantage — did not survive an independent direct replication, and
 [[a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210]]
 records what that cost. So the replication status of *this* effect is the first
-thing to ask, and the honest answer has a hole in it. The field's current survey
-says the benefits of retrieval practice "have been replicated hundreds of times"
-and names three meta-analyses (Rowland 2014, Adesope et al. 2017, Agarwal et al.
-2021) that have audited the literature
+thing to ask. The field's current survey says the benefits of retrieval practice
+"have been replicated hundreds of times" and names three audits of the
+literature — Rowland 2014, Adesope et al. 2017, Agarwal et al. 2021 — calling
+all three meta-analyses
 ([[karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330]],
-p. 434). But that survey is written by the 2006 paper's own second author, and
-this base has read none of the three meta-analyses. So the position here is:
-two primary papers read in full, four experiments between them, plus the field's
-own attributed claim of robustness, plus a named and unclosed route to checking
-it independently. That
-is a better evidential position than the base holds for anything else about
+p. 434). That survey is written by the 2006 paper's own second author, so the
+audits were the thing to go and read.
+
+**One of the three has now been read, and it comes back mostly confirming and
+partly correcting.** Agarwal, Nunes and Blunt 2021 screened nearly 2,000
+abstracts, kept 50 experiments run in real schools and classrooms, and answered
+their own question with "an unequivocal 'yes'"
+([[agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510]],
+accepted manuscript p. 42). Three things they report change the shape of the
+claim above rather than the claim itself. *First*, it is not a meta-analysis:
+they considered pooling and refused, on non-independent effect sizes and the low
+reproducibility of meta-analytic means (p. 7), so the survey's description of
+all three audits is wrong at least here — what they publish is every individual
+effect size with its confidence interval. *Second*, the distribution is less
+uniform than the headline. 57% of the 49 effect sizes were medium or large,
+which leaves 43% small, very small or negative; three favoured the control
+condition outright; and a further 24 comparisons could not be scored at all
+because the original papers did not report enough (p. 21). What holds up better
+than the magnitudes is the direction: only six confidence intervals around
+positive effects reach below zero (p. 23). *Third*, and worst for the word
+*last* in this note's title, the classroom effects were largest at one to three
+days and smallest at the end of a semester — the reverse of the laboratory
+gradient this note is built on. That is serious enough to be its own note:
+[[in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515]].
+
+The audit's own independence is partial and should not be overstated: its first
+author is the first author of the 2008 paper this note cites. Rowland 2014, the
+one audit written from outside the Roediger–Karpicke line, is still unread and
+still closed-access. So the position here is now: two primary papers read in
+full, four experiments between them, one of three named audits read in full and
+reporting a consistent but unevenly sized benefit plus a delay gradient that
+runs the wrong way, and the most independent audit still outstanding. That is a
+better evidential position than the base holds for anything else about
 note-taking, and it is not the same as verified.
 
 **And the scope is narrower than the phrasing invites.** What was measured is

@@ -151,6 +151,9 @@
     "202609040340": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
     "202609040345": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
     "202609040350": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
+    "202609040505": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505",
+    "202609040510": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510",
+    "202609040515": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -286,7 +289,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 156,
+  "note_count": 159,
   "notes": [
     {
       "id": "202609040058",
@@ -530,6 +533,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315.md"
+    },
+    {
+      "id": "202609040510",
+      "key": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505"
+        }
+      ],
+      "path": "literature/agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510.md",
+      "slug": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse",
+      "tags": [],
+      "title": "Agarwal, Nunes and Blunt audited the classroom half and declined to meta-analyse",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510.md"
+    },
+    {
+      "id": "202609040505",
+      "key": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505",
+      "links": [],
+      "path": "reference/agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505.md",
+      "slug": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms",
+      "tags": [],
+      "title": "Agarwal, Nunes and Blunt, Retrieval Practice in Schools and Classrooms",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505.md"
     },
     {
       "id": "202608301000",
@@ -1586,6 +1618,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355.md"
     },
     {
+      "id": "202609040515",
+      "key": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        }
+      ],
+      "path": "permanent/in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515.md",
+      "slug": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows",
+      "tags": [],
+      "title": "In classrooms the retrieval advantage shrinks as the delay grows",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515.md"
+    },
+    {
       "id": "202609011543",
       "key": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
       "links": [
@@ -2553,6 +2614,18 @@
         {
           "relation": "source",
           "target_id": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515"
         },
         {
           "relation": "source",

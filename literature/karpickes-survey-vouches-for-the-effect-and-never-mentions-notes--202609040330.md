@@ -37,13 +37,29 @@ the eight years to 2023 than in the twenty-five years to 2015, and names three
 meta-analyses that have audited the literature — Rowland (2014), Adesope et al.
 (2017) and Agarwal et al. (2021) (p. 412).
 
+**Correction, added 2026-09-04 after reading one of the three.** The chapter
+calls all three of them meta-analyses. Agarwal et al. 2021 is not one: its
+authors considered pooling and refused, on non-independent effect sizes and the
+low reproducibility of meta-analytic means, and published individual effect
+sizes in forest plots instead
+([[agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510]],
+accepted manuscript p. 7). This is a small error in a citation, not a
+misrepresentation of a result — that review does support the robustness claim on
+the whole — but it is exactly the kind of detail a summary flattens, and this
+base found it only by going to the paper. Rowland 2014 and Adesope et al. 2017
+are meta-analyses and remain unread.
+
 **Who is speaking.** Karpicke is the second author of the 2006 experiment and a
 co-author of the 2008 open-book study, so these are a researcher's statements
-about his own effect. The three meta-analyses would settle the question
-independently and **none of them was read**, so what this base holds is an
-attributed claim of robustness plus three named places to check it. That is
-enough to say the effect is *presented by its field as robust*, which is a real
-and citable fact about the state of the literature, and not enough to say the
+about his own effect. The three audits would settle the question
+independently and, when this note was written, **none of them had been read**,
+so what this base held was an attributed claim of robustness plus three named
+places to check it. One has since been read (see the correction above) and it
+mostly holds up, with an unevenly sized benefit and a delay gradient that runs
+against the laboratory pattern; its first author is a co-author of the 2008
+study, so it is not the fully independent check either. That is
+enough to say the effect is *presented by its field as robust* and *survives its
+first partly-independent audit*, and not enough to say the
 effect *is* robust. The distinction is worth this much care because the base's
 only other measured note-taking source is a direct replication by an outside
 team that failed

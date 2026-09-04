@@ -573,6 +573,26 @@ Also recorded for the fix: three new reference notes landed this cycle
 `raw-capture+crossref` with `identifier_check: confirmed`. The workaround
 described in the second observation continues to hold.
 
+**2026-09-04T05:40Z — defect (A) is broader than "a network failure", and the
+diagnosis in this entry should be restated.** This cycle ran the LIVE pass and
+then, separately, the `--offline --no-render` pass that CI runs, on a container
+with full network. The offline pass — with nothing failing, nothing timing out
+and no registry down — rewrote SIXTEEN reference notes it had no reason to
+touch, turning `raw-capture+crossref` and `raw-capture+openlibrary` into bare
+`raw-capture` and deleting `identifier_check: confirmed`. So the trigger is not
+a transport failure at all; a failure is merely one way to reach it. **The
+defect is that `verify_refs.py` writes provenance describing what THIS pass
+could see, over provenance describing what an EARLIER pass actually did.** The
+fix stated for (A) above is still the right one and now has a wider scope: a
+pass must merge into recorded provenance rather than replace it, and an
+`--offline` pass in particular must never delete a registry confirmation it was
+told not to attempt. Practical consequence for every run until this is fixed:
+the restore-from-HEAD step belongs after the LAST verify_refs invocation of the
+cycle, including the offline one, and a cycle that runs the offline pass to
+rehearse CI must restore afterwards or it will commit sixteen silent
+downgrades. (Defect (B) also recurred, its eighth occurrence, on polkinghorne
+202609022347. Restored from HEAD as usual.)
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1209,7 +1229,11 @@ uses the words note-taking, notes, external memory or offloading.
 
 ## 2026-09-04 — The retrieval-practice robustness claim rests on a self-assessment, and the audit that would settle it is sitting in gold open access
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
+- **2026-09-04T05:00Z:** item (1), the gold-OA audit, is DONE and written up at
+  the end of this entry. Not `answered`: the entry names three audits and two
+  smaller sources, and the one that would make the check independent — Rowland
+  2014 — is still unread.
 - **priority:** normal
 - **asked_by:** human
 
@@ -1312,3 +1336,70 @@ No reference note was downgraded by the live verify_refs pass this cycle for
 that reason, and the restore-from-HEAD step those cycles had to treat as routine
 was not needed. Details and the one downgrade that DID occur are appended to the
 standing 2026-09-02 verify_refs entry.
+
+**2026-09-04T05:00Z cycle — ITEM (1) IS DONE, and the entry stays open for the
+rest.** Agarwal, Nunes and Blunt 2021 is captured in FULL TEXT (reference
+202609040505, literature 202609040510, capture
+raw/202609040505-...-fulltext.txt, 65 pp.). One new permanent note, 202609040515.
+Permanent note 202609040340's standing paragraph is rewritten rather than merely
+upgraded, and literature note 202609040330 now carries a correction. Three things
+came back, in ascending order of importance:
+
+  (i) **The access status in this entry was right about the licence and wrong
+      about what that buys.** The article is gold OA, and the PUBLISHER RUNG
+      STILL FAILED: link.springer.com served the standing 3,038-byte JS shell on
+      all three routes including the `fulltext.html` one Crossref advertises for
+      text mining. Worse, Unpaywall's two OA locations are OSF landing pages
+      with no `url_for_pdf`, and both `/download` routes return HTTP 500 —
+      because one id is an OSF *registration* and the other a *project*, and
+      neither is a file. Semantic Scholar repeats the same dead URL. What worked
+      was asking the OSF API for the project's FILE LIST
+      (`api.osf.io/v2/nodes/mz2ks/files/osfstorage/`), which returned the
+      authors' accepted manuscript in one request. **Rule for the next run: an
+      OA landing page that will not yield a file is not a dead end until the
+      host's own API has been asked for the file list.** This is a second,
+      independent piece of evidence for the rung-(c) amendment proposed above,
+      and it broadens it: the sub-rung is not only "the lab's publications page"
+      but "the author-controlled repository's API".
+
+ (ii) **It is not a meta-analysis, and Karpicke's chapter mis-describes it.**
+      Its authors considered pooling and refused, on non-independent effect
+      sizes and the low reproducibility of meta-analytic means (accepted ms.
+      p. 7), publishing individual effect sizes in forest plots instead. Small
+      error in a citation, not a misrepresented result — but it means the
+      "three meta-analyses" phrasing in 202609040340 and 202609040330 was
+      inherited rather than checked, and both are now corrected. Rowland 2014
+      and Adesope et al. 2017 ARE meta-analyses.
+
+(iii) **The finding this entry did not anticipate: the classroom delay gradient
+      runs the wrong way.** "Effect sizes were larger following a 1-3 day delay,
+      while smaller following an end-of-semester delay" (p. 35) — and the
+      reviewers themselves name it as the reverse of the laboratory pattern,
+      citing Roediger and Karpicke 2006, and make it their first recommendation
+      for future research. That bears against the extrapolation in 202609040340,
+      which is the note this entry set out to strengthen. It is written up as
+      permanent 202609040515 with its own limit stated: delay was coded ACROSS
+      studies, never manipulated within one, so it is not a causal result. On
+      the robustness question the review is mostly confirming — 46 of 49 effect
+      sizes favour retrieval practice and only six confidence intervals reach
+      below zero — but the headline 57% medium-or-large leaves 43% small, very
+      small or negative, and 24 further comparisons could not be scored at all
+      because the original papers under-reported.
+
+**WHAT REMAINS OPEN IN THIS ENTRY, unchanged in priority order:** Rowland 2014
+(DOI 10.1037/a0037559) is now the highest-value item in it — the only audit of
+the three written from outside the Roediger/Karpicke line, and the only one that
+would be an independent check rather than a partly-inside one. Untried rungs for
+it: APA PsycNet, and the author page. Then Adesope et al. 2017 (DOI
+10.3102/0034654316689306, SAGE, expect the standing 403), then Agarwal and
+Roediger 2011 (DOI 10.1080/09658211.2011.613840) and the four pre-1985 classroom
+studies. NOTE for whoever takes Rowland: this cycle's route is worth trying
+first — a search of OSF and of the author's institutional repository for a
+deposited manuscript, asking any host's API for a file list rather than
+following its landing page.
+
+**ALSO MEASURED AGAIN, third source running:** the strings `note-taking`, `note
+taking`, `notetaking`, `external memory`, `offloading`, `slip box` and
+`zettelkasten` occur ZERO times in all 65 pages. The standing "nothing
+operationalises accumulation and linking" item is now evidenced on three
+independent retrieval-practice sources rather than assumed.
