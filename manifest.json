@@ -142,6 +142,15 @@
     "202609040205": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205",
     "202609040210": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
     "202609040215": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215",
+    "202609040305": "roediger-and-karpicke-test-enhanced-learning--202609040305",
+    "202609040310": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310",
+    "202609040315": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315",
+    "202609040320": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320",
+    "202609040325": "karpicke-retrieval-based-learning--202609040325",
+    "202609040330": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330",
+    "202609040340": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
+    "202609040345": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
+    "202609040350": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -230,6 +239,9 @@
       "question": "Is there any empirical evidence that note-taking or externalized memory actually improves thinking and writing, and does any of it reach the slip-box claims this base makes?",
       "result_notes": [
         "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
+        "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
+        "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
+        "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
         "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
       ],
       "status": "in-progress",
@@ -274,7 +286,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 147,
+  "note_count": 156,
   "notes": [
     {
       "id": "202609040058",
@@ -489,6 +501,35 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md"
+    },
+    {
+      "id": "202609040320",
+      "key": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315"
+        }
+      ],
+      "path": "literature/agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320.md",
+      "slug": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later",
+      "tags": [],
+      "title": "Agarwal et al. put the notes on the desk and measured what happened a week later",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320.md"
+    },
+    {
+      "id": "202609040315",
+      "key": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315",
+      "links": [],
+      "path": "reference/agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315.md",
+      "slug": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests",
+      "tags": [],
+      "title": "Agarwal, Karpicke, Kang, Roediger and McDermott, Examining the Testing Effect with Open- and Closed-Book Tests",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315.md"
     },
     {
       "id": "202608301000",
@@ -1047,6 +1088,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
     },
     {
+      "id": "202609040350",
+      "key": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "source",
+          "target_id": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310"
+        },
+        {
+          "relation": "source",
+          "target_id": "roediger-and-karpicke-test-enhanced-learning--202609040305"
+        }
+      ],
+      "path": "permanent/confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350.md",
+      "slug": "confidence-tracks-re-exposure-while-retention-tracks-retrieval",
+      "tags": [],
+      "title": "Confidence tracks re-exposure while retention tracks retrieval",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350.md"
+    },
+    {
       "id": "202609011012",
       "key": "craig-restakes-teleology-on-anthropic-fine-tuning--202609011012",
       "links": [
@@ -1339,6 +1417,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
     },
     {
+      "id": "202609040345",
+      "key": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315"
+        },
+        {
+          "relation": "source",
+          "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        }
+      ],
+      "path": "permanent/having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345.md",
+      "slug": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge",
+      "tags": [],
+      "title": "Having the notes to hand buys present performance, not durable knowledge",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345.md"
+    },
+    {
       "id": "202609011037",
       "key": "hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037",
       "links": [
@@ -1553,6 +1668,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/kabbalah-separates-acknowledging-god-from-addressing-him--202609011540.md"
+    },
+    {
+      "id": "202609040325",
+      "key": "karpicke-retrieval-based-learning--202609040325",
+      "links": [],
+      "path": "reference/karpicke-retrieval-based-learning--202609040325.md",
+      "slug": "karpicke-retrieval-based-learning",
+      "tags": [],
+      "title": "Karpicke, Retrieval-based learning",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/karpicke-retrieval-based-learning--202609040325.md"
+    },
+    {
+      "id": "202609040330",
+      "key": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "karpicke-retrieval-based-learning--202609040325"
+        }
+      ],
+      "path": "literature/karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330.md",
+      "slug": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes",
+      "tags": [],
+      "title": "Karpicke's survey vouches for the effect and never mentions notes",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330.md"
     },
     {
       "id": "202609011040",
@@ -2393,6 +2537,72 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/reinvested-returns-compound--202701010011.md"
+    },
+    {
+      "id": "202609040340",
+      "key": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320"
+        },
+        {
+          "relation": "source",
+          "target_id": "agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315"
+        },
+        {
+          "relation": "source",
+          "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
+        },
+        {
+          "relation": "source",
+          "target_id": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310"
+        },
+        {
+          "relation": "source",
+          "target_id": "roediger-and-karpicke-test-enhanced-learning--202609040305"
+        }
+      ],
+      "path": "permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md",
+      "slug": "retrieval-not-re-exposure-is-what-makes-learning-last",
+      "tags": [],
+      "title": "Retrieval, not re-exposure, is what makes learning last",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md"
+    },
+    {
+      "id": "202609040310",
+      "key": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "roediger-and-karpicke-test-enhanced-learning--202609040305"
+        }
+      ],
+      "path": "literature/roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310.md",
+      "slug": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide",
+      "tags": [],
+      "title": "Roediger and Karpicke measured retrieval against re-exposure and let time decide",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310.md"
+    },
+    {
+      "id": "202609040305",
+      "key": "roediger-and-karpicke-test-enhanced-learning--202609040305",
+      "links": [],
+      "path": "reference/roediger-and-karpicke-test-enhanced-learning--202609040305.md",
+      "slug": "roediger-and-karpicke-test-enhanced-learning",
+      "tags": [],
+      "title": "Roediger and Karpicke, Test-Enhanced Learning",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/roediger-and-karpicke-test-enhanced-learning--202609040305.md"
     },
     {
       "id": "202609010302",

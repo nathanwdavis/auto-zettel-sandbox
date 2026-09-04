@@ -1195,5 +1195,101 @@
     "title": "How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014)",
     "type": "article-journal",
     "volume": "31"
+  },
+  {
+    "DOI": "10.1111/j.1467-9280.2006.01693.x",
+    "author": [
+      {
+        "family": "Roediger",
+        "given": "Henry L.",
+        "suffix": "III"
+      },
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      }
+    ],
+    "container-title": "Psychological Science",
+    "id": "202609040305",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    "page": "249-255",
+    "publisher": "SAGE Publications",
+    "title": "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "DOI": "10.1002/acp.1391",
+    "author": [
+      {
+        "family": "Agarwal",
+        "given": "Pooja K."
+      },
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      },
+      {
+        "family": "Kang",
+        "given": "Sean H. K."
+      },
+      {
+        "family": "Roediger",
+        "given": "Henry L.",
+        "suffix": "III"
+      },
+      {
+        "family": "McDermott",
+        "given": "Kathleen B."
+      }
+    ],
+    "container-title": "Applied Cognitive Psychology",
+    "id": "202609040315",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "861-876",
+    "publisher": "Wiley",
+    "title": "Examining the Testing Effect with Open- and Closed-Book Tests",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "DOI": "10.1016/B978-0-443-15754-7.00074-2",
+    "ISBN": "9780443157554",
+    "author": [
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      }
+    ],
+    "chapter-number": "4.21",
+    "container-title": "Learning and Memory: A Comprehensive Reference",
+    "edition": "3",
+    "id": "202609040325",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "411-441",
+    "publisher": "Elsevier",
+    "title": "Retrieval-based learning",
+    "type": "chapter"
   }
 ]

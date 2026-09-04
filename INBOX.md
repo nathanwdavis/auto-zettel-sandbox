@@ -539,6 +539,40 @@ reproduction that does not depend on file age, and (B)'s reproduction is
 cheap — take any Open-Library-verified note and run the live pass while the
 registry is unreachable.
 
+**Fourth observation, 2026-09-04T03:06Z cycle (retrieval practice): the two
+defects separated cleanly again, and the separation is now diagnostic.** A live
+pass (`--mailto`, no `--offline`, no `--no-render`) verified 51/51 references
+and changed exactly ONE file in the whole `reference/` tree: polkinghorne
+202609022347, stamped `identifier_check: failed` from the Faraday series
+`number: '1'` for the SEVENTH time. Restored from HEAD; `reference/` shows no
+changed method or `identifier_check` line against origin/main.
+
+What did NOT happen is the useful part. **None of the five Open-Library notes
+was downgraded this cycle**, because Open Library is reachable again —
+`https://openlibrary.org/isbn/<isbn>.json` returns 302 and
+`openlibrary.org/search.json` returns 200 from this container, against the HTTP
+000 transport failure the previous two cycles recorded. So the outage that ran
+2026-09-03 to 2026-09-04 has ended, the restore-from-HEAD step it forced is not
+needed today, and the diagnosis in the third observation above is confirmed by
+its own negative case: the downgrade tracks registry reachability and nothing
+else.
+
+**One labelling correction for whoever fixes this, offered because it will cost
+them time otherwise.** The third observation above calls the Open Library
+downgrade "defect (B)". By this entry's own definitions at the top it is defect
+**(A)** — provenance erased on a network failure. (B) is the `number`-as-arXiv-id
+bug, and (B) is what fired today, alone. The two failure modes are genuinely
+separate and the fixes are separate: (A) needs `verify_note()` to distinguish a
+transport failure from a lookup miss and never erase a prior confirmation on the
+former; (B) needs `citations.arxiv_id()` to stop reading `number` as an arXiv id
+for `type: report`. Nothing in the observations is wrong; only the label is.
+
+Also recorded for the fix: three new reference notes landed this cycle
+(202609040305, 202609040315, 202609040325), all three carrying a real DOI and no
+`number` field, and all three were rendered live without incident —
+`raw-capture+crossref` with `identifier_check: confirmed`. The workaround
+described in the second observation continues to hold.
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1140,3 +1174,141 @@ such -- the same standard the original inquiry set.
 WATCH THE TIER RULE, restated from the original inquiry because it is the easy
 mistake here: a psychology finding cited from a news write-up or a blog is
 general-web. These should be peer-reviewed captures or they should not land.
+
+**2026-09-04T03:00Z cycle — item (1) is DONE, and it did not go where this entry
+expected.** Roediger and Karpicke 2006 is captured in FULL TEXT (reference
+202609040305, literature 202609040310) along with two sources this entry did not
+name: Agarwal et al. 2008 on open- and closed-book tests (202609040315 /
+202609040320, also full text) and Karpicke's 2025 survey chapter (202609040325 /
+202609040330, excerpts). Three permanent notes: 202609040340, 202609040345,
+202609040350.
+
+The correction to this entry's expectation is worth recording. This entry
+predicted that retrieval practice would supply a measured cost of delegating
+memory to paper, bearing against Chavigny in permanent 202609032115. The
+prediction held; the source named did not supply it. Roediger and Karpicke 2006
+compares two in-the-head conditions and never mentions notes or external storage
+at any point — a full-text search is recorded in the capture. What supplied the
+measurement was Agarwal et al. 2008, whose open-book condition is defined by its
+authors as students viewing "notes and textbooks" during the test, and whose
+finding is that the advantage was worth sixteen points immediately and nothing a
+week later. Permanent note 202609040345 carries it, typed `contradicts` into
+202609032115 and narrowed in its own body to the premise it actually touches.
+
+**ITEMS (2) AND (3) REMAIN OPEN AND ARE NOW THE WHOLE OF WHAT IS LEFT:** the
+generation effect, and transactive/external memory (Sparrow, Liu and Wegner 2011,
+DOI 10.1126/science.1207745 — verified to exist via Crossref this cycle, Crossref
+carries only a one-line teaser and not a real abstract, and Unpaywall reports
+is_oa false). Capture its replication history with it, as this base did for
+Mueller and Oppenheimer; do not cite the headline alone.
+
+**ALSO STILL OPEN, unchanged and now measured rather than assumed:** no study
+operationalises accumulation and linking, or measures an outcome months or years
+out. The 2025 survey of retrieval-based learning runs 31 pages and never once
+uses the words note-taking, notes, external memory or offloading.
+
+## 2026-09-04 — The retrieval-practice robustness claim rests on a self-assessment, and the audit that would settle it is sitting in gold open access
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T03:00Z retrieval-practice cycle. This is a gap the
+cycle created by being honest rather than one it inherited, and it has an
+unusually cheap fix, which is why it is filed at `normal` rather than `low`.
+
+**THE GAP.** Permanent note
+[[retrieval-not-re-exposure-is-what-makes-learning-last--202609040340]] states
+that retrieval practice produces durable learning, and states its evidential
+standing carefully: two primary papers read in full, plus the field's own claim
+that the effect has been "replicated hundreds of times". That claim comes from
+[[karpicke-retrieval-based-learning--202609040325]], p. 434 — and Karpicke is
+the second author of the 2006 paper the chapter is assessing. It is a
+self-assessment. The base has read none of the independent audits, and the note
+says so rather than rounding the claim up. This matters more here than it
+usually would: the base's other measured note-taking source is a direct
+replication by an outside team that FAILED
+(202609040156 / 202609040205), so "the field says it is robust" is precisely
+the kind of assurance this repository has already been burned by once.
+
+**THE FIX, WITH THE ACCESS ALREADY CHECKED THIS CYCLE.** The chapter names three
+meta-analyses (p. 412). Their access status was checked live on 2026-09-04 and
+is not uniform:
+
+  (1) **Pooja K. Agarwal, Ludmila D. Nunes and Janell R. Blunt 2021**,
+      "Retrieval Practice Consistently Benefits Student Learning: a Systematic
+      Review of Applied Research in Schools and Classrooms", *Educational
+      Psychology Review* 33 (2021): 1409-1453, DOI 10.1007/s10648-021-09595-9. **Unpaywall reports is_oa TRUE, oa_status
+      GOLD.** It is free, legitimately, right now. This is the one to take
+      first and it should be a short cycle: fetch, capture, one reference note,
+      one literature note, and then either upgrade 202609040340's standing
+      paragraph or record what the review actually found if it is weaker than
+      the chapter implies. NOTE the partial-independence limit before writing:
+      Pooja K. Agarwal is the first author of
+      [[agarwal-karpicke-kang-roediger-and-mcdermott-open-and-closed-book-tests--202609040315]],
+      which this base cites, so this is an audit from inside the same research
+      community, not an outside replication. It is still a systematic review
+      with a meta-analysis and it is still much better than the survey chapter.
+
+  (2) **Christopher A. Rowland 2014**, "The Effect of Testing Versus Restudy on
+      Retention: A Meta-Analytic Review of the Testing Effect", *Psychological
+      Bulletin* 140, no. 6 (2014): 1432-1463, DOI 10.1037/a0037559. Unpaywall is_oa false, closed.
+      This is the **most independent** of the three and therefore the most
+      valuable — Rowland is not part of the Roediger/Karpicke line. It will
+      need the access ladder. APA PsycNet was NOT tried this cycle, so nothing
+      is known about that rung; the author-page rung (see below) has not been
+      tried either.
+
+  (3) **Olusola O. Adesope, Dominic A. Trevisan and Narayankripa Sundararajan
+      2017**, "Rethinking the Use of Tests: A Meta-Analysis of Practice
+      Testing", *Review of Educational Research* 87, no. 3 (2017): 659-701, DOI
+      10.3102/0034654316689306. Unpaywall is_oa
+      false, closed. SAGE, so expect the standing 403 bot challenge; the
+      author-page rung is untried.
+
+**TWO SMALLER SOURCES, ALSO UNREAD, BOTH NAMED INSIDE NOTES THAT ARE ALREADY IN
+THE BASE.** Neither is load-bearing; both would sharpen a caution that is
+currently carried on someone else's citation.
+
+  - **Agarwal and Roediger 2011**, "Expectancy of an open-book test decreases
+    performance on a delayed closed-book test", *Memory* 19, no. 8 (2011):
+    836-852, DOI 10.1080/09658211.2011.613840. Unpaywall is_oa false, closed.
+    Its title alone says something stronger than anything this base currently
+    holds: it is not just having the notes that costs, it is EXPECTING to have
+    them. If that holds up on reading, permanent note
+    [[having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345]]
+    understates its own case and should be revisited.
+  - The older classroom studies cited by Agarwal et al. 2008 (p. 872) for the
+    claim that students "prepare less effectively" when an open book is
+    allowed: Boniface 1985, Kalish 1958, Pauker 1974, Weber, McBee and Krebs
+    1983. Not looked up at all. The 2008 paper offers them as a citation, not
+    as its own finding, and 202609040345 says so; if a run wants that caution
+    to be more than hearsay, these are where it lives. Two of the four predate
+    1975 and may be hard to reach.
+
+**A HOUSE-PROCEDURE PROPOSAL, for the next skill-smith cycle rather than for
+this one** (skill_smith_cadence is weekly and the next falls ~2026-09-08, so
+this cycle could not act on it). `skills/source-access-triage` step 1 lists the
+access ladder as (a) publisher, (b) Unpaywall/OA repository, (c) author or
+institutional pages, (d) public-domain etext, (e) Wayback. This cycle is
+evidence that rung (c) is badly under-weighted for experimental psychology
+specifically. The tally: publisher rung returned HTTP 403 with a bot challenge;
+Unpaywall returned is_oa false with zero locations for every DOI tried; and a
+SINGLE author-laboratory publications index — learninglab.psych.purdue.edu,
+which posts PDFs of everything its principal investigator has published — then
+returned THREE full texts in one pass, two of them papers that Unpaywall had
+just declared unavailable. Suggested amendment: for a paywalled paper with an
+identifiable academic laboratory behind it, try the lab's own publications page
+BEFORE concluding the text is unreachable, and record it as its own sub-rung
+with the search pattern that works (the lab site, its `/publications/` index,
+and the year-foldered `/downloads/` paths the index links to). This is not a
+new rung, it is a promotion of an existing one from last resort to first
+recourse in a domain where it demonstrably works.
+
+**FOR THE ENVIRONMENT LOG, not a source gap.** Open Library is REACHABLE again
+from this container (302 on `/isbn/<isbn>.json`, 200 on `/search.json`), ending
+the two-day outage the 2026-09-04T01:12Z and 2026-09-04T02:10Z cycles recorded.
+No reference note was downgraded by the live verify_refs pass this cycle for
+that reason, and the restore-from-HEAD step those cycles had to treat as routine
+was not needed. Details and the one downgrade that DID occur are appended to the
+standing 2026-09-02 verify_refs entry.
