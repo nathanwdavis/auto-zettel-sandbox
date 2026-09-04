@@ -1,0 +1,21 @@
+Capture of https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.11
+Reference note id: 202609042021
+Fetched: 2026-09-04T19:42:12Z
+Mishneh Torah, Hilchot Melachim u-Milchamot, chapter 11 (the Messianic king),
+halachot 4, 6 and 7 -- 6 and 7 are the passage removed from the printed editions
+by the Christian censors and restored in this translation.
+Version captured: Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007
+Retrieved through the Sefaria API v3 (api/v3/texts), English version, HTML tags
+stripped; wording verbatim. Halachot 1-3, 5 and 8 onward are not captured.
+
+----- Halachah 4 -----
+
+If a king will arise from the House of David who diligently contemplates the Torah and observes its mitzvot as prescribed by the Written Law and the Oral Law as David, his ancestor, will compel all of Israel to walk in (the way of the Torah) and rectify the breaches in its observance, and fight the wars of God, we may, with assurance, consider him Mashiach.If he succeeds in the above, builds the Temple in its place, and gathers the dispersed of Israel, he is definitely the Mashiach.He will then improve the entire world, motivating all the nations to serve God together, as Tzephaniah 3:9 states: 'I will transform the peoples to a purer language that they all will call upon the name of God and serve Him with one purpose.'
+
+----- Halachah 6 -----
+
+Jesus of Nazareth who aspired to be the Mashiach and was executed by the court was also alluded to in Daniel's prophecies, as ibid. 11:14 states: 'The vulgar among your people shall exalt themselves in an attempt to fulfill the vision, but they shall stumble.'Can there be a greater stumbling block than Christianity? All the prophets spoke of Mashiach as the redeemer of Israel and their savior who would gather their dispersed and strengthen their observance of the mitzvot. In contrast, Christianity caused the Jews to be slain by the sword, their remnants to be scattered and humbled, the Torah to be altered, and the majority of the world to err and serve a god other than the Lord.
+
+----- Halachah 7 -----
+
+Nevertheless, the intent of the Creator of the world is not within the power of man to comprehend, for His ways are not our ways, nor are His thoughts, our thoughts. Ultimately, all the deeds of Jesus of Nazareth and that Ishmaelite who arose after him will only serve to prepare the way for Mashiach's coming and the improvement of the entire world, motivating the nations to serve God together as Tzephaniah 3:9 states: 'I will transform the peoples to a purer language that they all will call upon the name of God and serve Him with one purpose.'

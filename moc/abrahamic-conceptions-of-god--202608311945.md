@@ -518,6 +518,26 @@ the other.
 - [[the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011]]
 - [[the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012]]
 
+## The Jewish verdict on Islam, added 2026-09-04: the third leg of the triangle
+
+Inquiry 202609041842 asked why the Jewish-Muslim leg was empty while the other
+two were deep. Filling it inverts the map. In the operative part of a legal
+code Maimonides treats Muslims as the obvious example of gentiles who do not
+serve false deities, and Christians as idolaters -- a clause the Christian
+censors cut, leaving the lenient half of a comparison standing without the half
+it was measured against. In the Messianic chapter he charges Christianity with
+making the world "serve a god other than the Lord", which is a negative answer
+to the same-God question about Christians. Shituf, which this map had been
+treating as the Jewish position, turns out to be the later and gentler one.
+
+A third axis also surfaces here, used by Judaism and Islam alike and absent from
+this map until now: not whom the practice refers to, nor how it describes him,
+but on whose authority it is undertaken.
+
+- [[maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040]]
+- [[the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041]]
+- [[the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

@@ -9,10 +9,13 @@ created: '2026-09-04'
 updated: '2026-09-04'
 question: What did Jewish law and theology say about Islam, and why is the Jewish-Muslim
   leg of the same-God triangle missing while the other two are deep?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040
+- the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041
+- the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042
 tags: []
 ---
 The base is deep on Christianity-and-Islam (the whole tafsir and fiqh sweep) and

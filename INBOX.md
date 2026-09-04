@@ -3863,3 +3863,11 @@ tells every cycle to append one line per step and says nothing about how.
 - **asked_by:** human
 
 (no further detail)
+
+## 2026-09-04 — Left open by cycle 202609041842, and it is the half the inquiry asked for that did not get done: the Meiri's category of 'nations bound by the ways of religion' (umot ha-gedurot be-darkhei ha-datot), which is the other classical Jewish route to a lenient verdict on Christianity and Islam and the one that does the most work in modern discussions. No open text of Beit ha-Behirah was located in this cycle's budget. Also still missing: Maimonides' Responsum to Obadiah the Proselyte, the locus classicus for 'the Ishmaelites are not idolaters', which would make the note maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040 rest on two passages rather than one plus a censor's note. And the genuinely absent leg is still absent: no Muslim judgement of JUDAISM is on file anywhere in this base -- the tafsir sweep covered the People of the Book as a class and Q 2:221 and 5:5 as law, but nothing addresses Jews specifically as worshippers.
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+(no further detail)

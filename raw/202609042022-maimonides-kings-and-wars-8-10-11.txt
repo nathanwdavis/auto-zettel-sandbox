@@ -1,0 +1,13 @@
+Capture of https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.8.10
+Reference note id: 202609042022
+Fetched: 2026-09-04T19:41:51Z
+Mishneh Torah, Hilchot Melachim u-Milchamot 8:10-11, the seven Noahide commandments and the condition on accepting them
+Version captured: Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007
+Retrieved through the Sefaria API v3 (api/v3/texts), English version, with the
+translator's inline footnotes retained and HTML tags stripped; wording verbatim.
+
+Moses only gave the Torah and mitzvot as an inheritance to Israel, as Deuteronomy 33:4 states: 'The Torah... is the inheritance of the congregation of Jacob,' and to all those who desire to convert from among the other nations, as Numbers 15:15 states 'the convert shall be the same as you.' However, someone who does not desire to accept Torah and mitzvot, should not be forced to.By the same regard, Moses was commanded by the Almighty to compel all the inhabitants of the world to accept the commandments given to Noah's descendants.If one does not accept these commands, he should be executed. A person who formally accepts these commands is called a resident alien. This applies in any place. This acceptance must be made in the presence of three Torah scholars.Anyone who agrees to circumcise himself and allows twelve months to pass without circumcising himself is considered as one of the nations.
+
+----- Halachah 11 (https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.8.11) -----
+
+Anyone who accepts upon himself the fulfillment of these seven mitzvot and is precise in their observance is considered one of 'the pious among the gentiles' and will merit a share in the world to come.This applies only when he accepts them and fulfills them because the Holy One, blessed be He, commanded them in the Torah and informed us through Moses, our teacher, that Noah's descendants had been commanded to fulfill them previously.However, if he fulfills them out of intellectual conviction, he is not a resident alien, nor of 'the pious among the gentiles,' nor of their wise men.
