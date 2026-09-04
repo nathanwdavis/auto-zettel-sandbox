@@ -23,6 +23,8 @@ links:
   relation: shared-concept
 - target_id: the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201
   relation: shared-concept
+- target_id: the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -86,6 +88,27 @@ and the metacognitive reversal in
 Nothing above is withdrawn: the caution this note raises — that the SSRP tested
 one result per paper, so what came back promotes that result and not the paper
 or the programme — is carried forward verbatim by 202609042201, which supports
-the retrieval-over-mapping claim only at the single point that was tested. The
-Pyc and Rawson (2010) paper this note also names remains unidentified and
-unread, so the gap is narrowed, not erased.
+the retrieval-over-mapping claim only at the single point that was tested.
+
+**Fully resolved 2026-09-04: the second paper is now obtained and read too, and
+the gap is closed rather than narrowed.** Pyc and Rawson (2010) has since been
+identified authoritatively — Crossref, PubMed (PMID 20947756) and Semantic Scholar
+all return *"Why Testing Improves Memory: Mediator Effectiveness Hypothesis,"
+Science* 330(6002):335 — and the SSRP's own component "Replication of Pyc and
+Rawson (2010)" at the project's OSF repository confirms the identity at the host,
+so the surname coincidence this note refused to resolve is resolved from the
+source rather than guessed. It is this base's Rawson in the retrieval-practice
+literature, and the paper's mechanism is written up in
+[[the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340]].
+The one result the SSRP tested — mediator recall, test-restudy versus
+restudy-only — replicated, but the caution this note raised applies harder than
+for Karpicke and Blunt: it failed at the first data collection (`p = 0.0893`) and
+crossed significance only in the pooled second-stage sample (`p = 0.0087`), so it
+promotes that one result and neither the paper nor the programme, as set out in
+[[the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345]].
+One honest access limit carried forward: the paywalled full text of the one-page
+*Science* Report could not be obtained, so the mechanism note rests on the
+paper's authoritative abstract (with the design and the tested statistic
+corroborated by the replication report), and that limit is recorded there. Both
+papers this note named are now read; the note is left standing as the record of
+the gap it closed.

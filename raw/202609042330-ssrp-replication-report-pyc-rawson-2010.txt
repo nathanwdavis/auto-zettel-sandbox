@@ -1,0 +1,350 @@
+CAPTURE — Social Sciences Replication Project (SSRP) replication report, full text.
+Component: "Replication of Pyc and Rawson (2010)" on the Open Science Framework.
+  OSF node: dvgan (child of the SSRP root node pfdyw); the report file lives in
+  the "Replication Reports" sub-component tn4x9.
+File: "Pyc and Rawson (2010) - Replication Report.pdf"
+  Download: https://osf.io/download/zj5n3/ (90,294 bytes; OSF-reported size 90294 — match)
+  SHA-256: 7c9eca93c0a8c5c071b57e05f9af9ae1ffe38b862c6e3672dc54a8775febcca8
+Replication authors: Colin Camerer, Taisuke Imai, Dylan Manfredi, Gideon Nave.
+Captured: 2026-09-04, reached via the OSF API (api.osf.io) — the same route the
+  2026-09-04 Karpicke & Blunt cycle used to reach the SSRP repository. Text
+  extracted with pdfminer.six; a "1 / 4"-style page footer marks each page break.
+This is the project's OWN per-study replication report and independently confirms,
+  at the SSRP host, that "Pyc and Rawson (2010)" is one of the 21 tested papers
+  (there are exactly 22 sibling components under pfdyw, 21 replications + supporting).
+Licence: OSF component node_license year 2018; the SSRP repository is documented
+  by this base's Camerer et al. 2018 sources as CC0. Reproduced here as bounded
+  full text of a public project report.
+
+================================================================================
+VERBATIM EXTRACTED TEXT:
+================================================================================
+Social Sciences Replication Project
+
+Replication of
+Why Testing Improves Memory: Mediator Eﬀectiveness
+Hypothesis
+
+by Pyc, M. A. / Rawson, K. A. (2010)
+in: Science, 330 (6002), p. 335
+
+Replication Authors:
+Colin Camerer, Taisuke Imai, Dylan Manfredi, and Gideon Nave
+
+In a laboratory experiment, Pyc and Rawson (2010) presented undergraduate participants
+with 48 pairs of Swahili-English translation pairs. Participants received instructions about how
+to generate keywords (mediators that look or sound similar to the foreign language cue and are
+semantically related to the English target).
+
+In an initial study trial, and each restudy trial, all participants generated and reported a
+keyword. Participants were randomly assigned to one of two conditions: (1) test-restudy, where
+each practice trial involved a cued recall test followed immediately by restudy, and (2) restudy
+only, where each trial involved only restudies. One week later, participants completed a ﬁnal
+cued-recall test: they were shown the cue and asked to recall the mediator they had developed
+during practice, and then recall the target. Retrieval of both mediators and targets at ﬁnal test
+was greater with test-restudy practice than with restudy practice.
+
+Note: the study reports several additional treatments that diﬀered in the manner that the
+
+retrieval test was conducted.
+
+Hypothesis to replicate and bet on:
+
+Retrieval of mediators is greater with test-restudy practice than with restudy practice; a
+comparison of mean mediator retrieval between the test-restudy and the restudy treatments
+within the cmr treatment, p. 335, t(34) = 2.37 and p-value = 0.02, t-value and p-value from
+authors). Note that a successful retrieval in each of the ﬁnal test questions is deﬁned as
+correctly recalling any of the keyword mediators that had been generated during session 1.
+
+Power Analysis and Criteria for
+Replication: First Data Collection
+
+The original sample size was n = 36 (two
+treatment groups out of six, in a study with
+n = 118). The standardized eﬀect size mea-
+sured as the correlation coeﬃcient (r) was
+0.377. To have 90% power to detect 75% of
+the original eﬀect size a sample size of 132 is
+
+required. The criteria for replication is an ef-
+fect in the same direction as the original study
+and a p-value < 0.05 (in a two-sided test).
+
+Power Analysis and Criteria for
+Replication: Second Data Collection
+
+If the original result is not replicated in the
+ﬁrst data collection a second data collection of
+
+1 / 4
+
+174 additional individuals will be carried out
+so that the total sample size is 306. If a second
+data collection is carried out, the criteria for
+replication is an eﬀect in the same direction
+as the original study and a p-value < 0.05 (in
+a two-sided test) in the pooled data.
+
+Sample
+
+The sample size in the ﬁrst data collection
+consists of 132 participants from the Wharton
+behavioral lab subject pool. If the original re-
+sult is not replicated in the ﬁrst data collec-
+tion (two-sided p-value < 0.05 in the original
+direction) a second data collection of 174 ad-
+ditional individuals from the same population
+will be carried out so that the total sample
+size is 306.
+
+Materials
+
+We use the same computer program as
+used in the original article. Materials in-
+clude 48 Swahili-English translation pairs
+(e.g., wingu—cloud) previously normed for
+item diﬃculty.
+
+Procedure
+
+We follow the procedure of the original ar-
+ticle. The following summary of the exper-
+imental procedure is therefore based on the
+procedure described in the Supplementary In-
+formation.
+
+We will randomly assign the participants
+to one of two groups (practice: test-restudy
+or restudy only). Participants will receive in-
+structions about how to generate keywords
+(keywords are mediators that look or sound
+similar to the foreign language cue and are
+semantically related to the English target).
+Each item will be presented for an initial
+study trial and then three blocks of prac-
+tice trials.
+In the test-restudy group, each
+practice trial for an item will involve a cued
+recall test followed immediately by restudy.
+
+Social Sciences Replication Project
+
+In the restudy group, each trial will involve
+only restudy. On the initial study trial and
+each restudy trial, all participants will gener-
+ate and reported a keyword mediator (e.g.,
+for the translation pair “wingu—cloud” a
+keyword commonly generated by participants
+was “wing”). All trials will be self-paced. Ex-
+actly seven days later, participants will com-
+plete a ﬁnal cued-recall test. They will be
+shown the cue with a prompt to recall any of
+the keyword mediators they had developed,
+and then recall the target.
+
+As in the original study, participants will
+complete the study in the lab, which is a large
+room with isolated compute stations. A re-
+search assistant will always in the room in or-
+der to answer any questions, and to ensure
+that the room remained quiet throughout the
+session.
+
+Analysis
+
+The analysis will be performed exactly as
+in the original article.
+In the original arti-
+cle an independent samples t-test was used to
+compare the mean fraction of mediators cor-
+rectly recalled at the ﬁnal test between the
+test-restudy practice group and the restudy
+practice group (with a successful retrieval in
+each of the ﬁnal test questions deﬁned as cor-
+rectly recalling any of the keyword mediators
+that had been generated during session 1). In
+the original study the mean recall of media-
+tors was 34% in the restudy practice group
+and 51% in the test-restudy practice group;
+t(34) = 2.37 and p = 0.0236 (the t-value and
+p-value was not reported in the original ar-
+ticle, but was received from the original au-
+thors). The same test will be used in the
+replication.
+
+The results will ﬁrst be estimated based on
+the ﬁrst data collection. If the original result
+is replicated in the ﬁrst data collection (a two-
+sided p-value < 0.05 in the same direction as
+the original study), the second data collection
+
+2 / 4
+
+will not be carried out.
+
+If the original result is not replicated in the
+ﬁrst data collection, a second data collection
+will be carried out. The above statistical test
+will then be estimated for the pooled sample
+of the ﬁrst and second data collections to test
+if the original result is replicated (a two-sided
+p-value < 0.05 in the same direction as the
+original study).
+
+Diﬀerences from Original Study
+
+The replication procedure is the same as
+that of the original study, with some unavoid-
+able deviations. The replication will be per-
+formed at Wharton behavioral lab between
+September 2016 and September 2017, whereas
+the data in the original study was carried out
+at Kent State University in Ohio in spring
+2009 (beginning in spring semester, with data
+collection going through the summer and into
+the fall).
+
+In the original study participants received 4
+experimental course credits for participation.
+The ﬁrst session lasted around 90 minutes (3
+credits) and the second was less than 30 min-
+utes (1 credit). The replication will have a
+show-up fee of $20 for each of the two ses-
+sions.
+
+The original study had 6 treatment groups,
+2 practice (test-restudy or restudy only) × 3
+ﬁnal test format (c, cm, or cmr) design –– we
+will only have the two conditions of the cmr
+ﬁnal test format.
+
+Social Sciences Replication Project
+
+was 51% in the “test-restudy” treatment and
+34% in the “restudy” treatment (t(34) = 2.37;
+p = 0.0236).
+
+A total of 132 subjects (71 in the “test-
+restudy” treatment and 61 in the “restudy”
+treatment) participated in this replication
+study. In this replication study, the average
+recall of mediators was 54.55% (SD = 21.83)
+in the “test-restudy” treatment and 48.39%
+(SD = 19.03) in the “restudy” treatment.
+Based on an independent-samples t-test, the
+diﬀerence of 6.16% (in the same direction as
+in the original result) was not statistically sig-
+niﬁcant (t(130) = 1.7119; p = 0.0893). Thus,
+the original result did not replicate in the ﬁrst
+round of data collection.
+
+In the aforementioned approach, success-
+ful recall of a keyword mediator was deﬁned
+as the exact match of text strings typed in
+during the ﬁrst and second sessions. How-
+ever, we realized that typos could cause one
+to misclassify successful recalls as failures to
+recall. Thus, we also manually coded key-
+word mediators following guidelines suggested
+by the original authors. Using this approach,
+the average recall of mediators was 56.16%
+(SD = 22.34) in the “test-restudy” treatment
+and 50.31% (SD = 19.52) in the “restudy”
+treatment. Based on an independent-samples
+t-test, the diﬀerence of 5.85% (in the same di-
+rection as in the original result) was not sta-
+tistically signiﬁcant (t(130) = 1.5906; p =
+0.1141). Thus, the original result did not
+replicate in the ﬁrst round of data collection.
+
+Replication Results for the First Data
+Collection (90% power to detect 75%
+of the original eﬀect size)
+
+The main result for the replication study
+was calculated as in the original study (i.e.
+we tested for a diﬀerence in average mediator
+recall rates between the “test-restudy” treat-
+In the
+ment and the “restudy” treatment).
+original study, the average recall of mediators
+
+Replication Results for the First and
+Second Data Collection Pooled (90%
+power to detect 50% of the original
+eﬀect size)
+
+In the second round of data collection, 174
+additional subjects participated in the replica-
+tion study, yielding a total of 306 participants
+(156 in the “test-restudy” treatment and 150
+in the “restudy” treatment). For the ﬁrst and
+
+3 / 4
+
+second rounds of data collection pooled, the
+mean recall of mediators was 53.53% (SD =
+20.90) in the “test-restudy” treatment and
+47.57% (SD = 18.42) in the “restudy” treat-
+ment. An independent-samples t-test yielded
+a statistically signiﬁcant diﬀerence with a
+p-value equal to 0.0087 (t(304) = 2.6404).
+Thus, the original result was replicated when
+pooling the ﬁrst and second rounds of data
+collection.
+
+Keyword mediators from the second round
+of data collection were also manually coded
+following guidelines suggested by the original
+authors. For the ﬁrst and second rounds of
+manually coded data pooled, the mean re-
+call of mediators was 55.48% (SD = 21.26)
+in the “test-restudy” treatment and 49.71%
+(SD = 18.69) in the “restudy” treatment.
+An independent-samples t-test yielded a sta-
+tistically signiﬁcant diﬀerence with a p-value
+equal to 0.0124 (t(304) = 2.5162). Thus,
+the original result was replicated in the ﬁrst
+and second rounds of data collection pooled,
+even when using diﬀerent classiﬁcation rules
+to identify successful recalls.
+
+Social Sciences Replication Project
+
+ing the summer. While the original study
+used undergraduate participants exclusively,
+this replication used undergraduate and grad-
+uate students, as recruitment rates were low
+during the summer.
+
+A second deviation from the protocol was
+the additional robustness check conducted by
+analyzing the manually coded responses. We
+did not anticipate the issue of potential mis-
+classiﬁcation of successful recalls due to typos
+before data-collection (it was not mentioned
+in the original publication).
+
+Discussion
+
+We conclude that the original result did not
+replicate in the ﬁrst round of data collection
+(p = 0.0893), but did replicate in the ﬁrst
+and second rounds of data collection pooled
+(p = 0.0087), given the criteria and procedure
+outlined above.
+
+References
+
+Unplanned Protocol Deviations
+
+Contrary to our initial expectations, data
+for this replication was collected largely dur-
+
+Pyc, M. A. / Rawson, K. A. (2010): Why
+testing improves memory: Mediator eﬀective-
+ness hypothesis, Science, 330 (6002), pp. 335.
+
+4 / 4
+
+

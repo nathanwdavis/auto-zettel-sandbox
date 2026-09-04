@@ -310,6 +310,12 @@
     "202609042200": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200",
     "202609042201": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201",
     "202609042202": "the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202",
+    "202609042320": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320",
+    "202609042325": "pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325",
+    "202609042330": "ssrp-replication-report-for-pyc-and-rawson-2010--202609042330",
+    "202609042335": "the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335",
+    "202609042340": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
+    "202609042345": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -542,6 +548,18 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-does-pyc-and-rawson-2010-actually-report-which-of-its--202609042341",
+      "path": "inquiries/what-does-pyc-and-rawson-2010-actually-report-which-of-its--202609042341.md",
+      "priority": "high",
+      "question": "What does Pyc and Rawson (2010) actually report, which of its results did the SSRP replicate, and does that replication reach any claim this base makes about retrieval practice?",
+      "result_notes": [
+        "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
+        "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340"
+      ],
+      "status": "answered",
+      "updated": "2026-09-04"
+    },
+    {
       "key": "what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030",
       "path": "inquiries/what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030.md",
       "priority": "normal",
@@ -568,7 +586,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 315,
+  "note_count": 321,
   "notes": [
     {
       "id": "202609041020",
@@ -4039,6 +4057,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/price-contrasts-compound-and-simple-interest-with-one-penny--202609010204.md"
     },
     {
+      "id": "202609042325",
+      "key": "pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320"
+        }
+      ],
+      "path": "literature/pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325.md",
+      "slug": "pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates",
+      "tags": [],
+      "title": "Pyc and Rawson trace the testing effect to the mediators that test-restudy generates",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325.md"
+    },
+    {
+      "id": "202609042320",
+      "key": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320",
+      "links": [],
+      "path": "reference/pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320.md",
+      "slug": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis",
+      "tags": [],
+      "title": "Pyc and Rawson, Why Testing Improves Memory: Mediator Effectiveness Hypothesis",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320.md"
+    },
+    {
       "id": "202609040056",
       "key": "quran-shared-god-passages--202609040056",
       "links": [],
@@ -4706,6 +4753,18 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135.md"
+    },
+    {
+      "id": "202609042330",
+      "key": "ssrp-replication-report-for-pyc-and-rawson-2010--202609042330",
+      "links": [],
+      "path": "reference/ssrp-replication-report-for-pyc-and-rawson-2010--202609042330.md",
+      "slug": "ssrp-replication-report-for-pyc-and-rawson-2010",
+      "tags": [],
+      "title": "Social Sciences Replication Project, Replication Report for Pyc and Rawson (2010)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ssrp-replication-report-for-pyc-and-rawson-2010--202609042330.md"
     },
     {
       "id": "202609010802",
@@ -6399,6 +6458,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201.md"
     },
     {
+      "id": "202609042345",
+      "key": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905"
+        },
+        {
+          "relation": "source",
+          "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "source",
+          "target_id": "ssrp-replication-report-for-pyc-and-rawson-2010--202609042330"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201"
+        }
+      ],
+      "path": "permanent/the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345.md",
+      "slug": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample",
+      "tags": [],
+      "title": "The one Pyc and Rawson result the SSRP tested replicated only after its second-stage sample",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345.md"
+    },
+    {
       "id": "202609032210",
       "key": "the-pen-versus-keyboard-finding-replicated-for-the-notes-and-not-for-the-learning--202609032210",
       "links": [
@@ -6723,6 +6811,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345"
         },
         {
           "relation": "source",
@@ -7196,6 +7288,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202.md"
     },
     {
+      "id": "202609042335",
+      "key": "the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ssrp-replication-report-for-pyc-and-rawson-2010--202609042330"
+        }
+      ],
+      "path": "literature/the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335.md",
+      "slug": "the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled",
+      "tags": [],
+      "title": "The SSRP tested one Pyc and Rawson comparison and it replicated only when the two data collections were pooled",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335.md"
+    },
+    {
       "id": "202609042002",
       "key": "the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002",
       "links": [
@@ -7269,6 +7378,31 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077.md"
+    },
+    {
+      "id": "202609042340",
+      "key": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200"
+        }
+      ],
+      "path": "permanent/the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340.md",
+      "slug": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators",
+      "tags": [],
+      "title": "The testing effect works by producing mediators that are both more retrievable and better at eliciting the target",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340.md"
     },
     {
       "id": "202609041730",

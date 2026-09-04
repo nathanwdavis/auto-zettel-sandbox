@@ -168,4 +168,27 @@ had been waiting for. All three stay inside the same one-week, undergraduate,
 short-science-prose scope as the rest of the cluster, and none of them reaches
 longer horizons, connected knowledge, or note-taking.
 
+Extended a seventh time on 2026-09-04, and this group closes the *other* half of
+the gap the fifth section opened. The second of the two SSRP papers that could
+not be told apart from a surname and a year — Pyc and Rawson (2010) — has now
+been obtained and read, and the project's own per-study replication report for it
+was reached through the SSRP's OSF repository and read in full:
+
+- [[the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340]]
+- [[the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345]]
+
+The first is the only *mechanism* in this map: where every other source measures
+how large the retrieval advantage is, Pyc and Rawson's mediator effectiveness
+hypothesis says what test-restudy changes to produce it — the cue-to-target links
+the learner forms, made both more retrievable and better at eliciting the target.
+The second is the SSRP result the fifth section could file only as a question, and
+it resolves
+[[the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920]]
+for the paper it left standing: the one comparison the project tested replicated,
+but weaker than Karpicke and Blunt's — it needed the pooled second-stage sample to
+cross significance at all — so it promotes that one result and neither the paper
+nor the programme. With both papers now read, the gap note is fully resolved. The
+full paper's text was closed access, so the mechanism note rests on the paper's
+authoritative abstract; that limit is recorded in the notes themselves.
+
 See also: [[compound-growth--202608311143]]

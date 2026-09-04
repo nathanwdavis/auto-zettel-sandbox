@@ -1650,3 +1650,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T21:52:08Z` gates: build_manifest --check PASS (315 notes), lint_citations PASS, lint_links PASS
 - `2026-09-04T21:52:39Z` lint_citations: PASS
 - `2026-09-04T21:52:40Z` lint_links: PASS
+- `2026-09-04T23:41:26Z` capture: inquiry -> inquiries/what-does-pyc-and-rawson-2010-actually-report-which-of-its--202609042341.md
+- `2026-09-04T23:47:42Z` verify_refs: 98/98 verified
+- `2026-09-04T23:48:12Z` build_manifest: 321 notes indexed
+- `2026-09-04T23:48:30Z` lint_citations: PASS
+- `2026-09-04T23:48:34Z` lint_links: PASS
