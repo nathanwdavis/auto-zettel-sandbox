@@ -1,0 +1,84 @@
+CAPTURE — authoritative bibliographic record + abstract (metadata capture, not full text)
+Source paper: Pyc, Mary A., and Katherine A. Rawson. "Why Testing Improves
+  Memory: Mediator Effectiveness Hypothesis." Science 330, no. 6002 (2010): 335.
+DOI: 10.1126/science.1191465 | PMID: 20947756
+Captured: 2026-09-04 by the maintenance cycle answering the standing half of
+  gap note 202609041920 (Pyc & Rawson, the second SSRP-tested paper that may
+  belong to this base's memory/learning cluster).
+
+ACCESS LIMIT, recorded honestly. The full text was NOT obtained. This is a
+one-page Science Report (p. 335) and it is closed access at every authoritative
+route tried on 2026-09-04:
+  - Unpaywall (10.1126/science.1191465, email supplied): is_oa=false,
+    oa_status=closed, no OA location.
+  - Semantic Scholar: isOpenAccess=false, openAccessPdf status=CLOSED.
+  - Crossref: the only registered full-text link is
+    https://www.science.org/doi/pdf/10.1126/science.1191465 (publisher paywall,
+    intended-application "similarity-checking"), not a retrievable copy.
+  - Author routes (Kent State profile, a memory-lab publications page) surfaced
+    no author-posted PDF.
+No scraper/pirate mirror was used. This record therefore rests on TWO
+independent authoritative metadata lookups (PubMed and Crossref) plus Semantic
+Scholar, which is the anti-hallucination standard the citation rules allow when
+full text is unavailable. The paper's own design and the exact effect it reports
+are additionally corroborated by the Social Sciences Replication Project's
+replication report for it, captured separately at
+raw/202609042330-ssrp-replication-report-pyc-rawson-2010.txt (which restates the
+original method, the tested comparison, and the original statistics obtained from
+the authors: t(34) = 2.37, p = 0.0236; mediator recall 34% restudy-only vs 51%
+test-restudy).
+
+================================================================================
+VERBATIM — PubMed efetch (eutils.ncbi.nlm.nih.gov, db=pubmed id=20947756,
+rettype=abstract retmode=text), fetched 2026-09-04:
+================================================================================
+1. Science. 2010 Oct 15;330(6002):335. doi: 10.1126/science.1191465.
+
+Why testing improves memory: mediator effectiveness hypothesis.
+
+Pyc MA(1), Rawson KA.
+
+Author information:
+(1)Department of Psychology, Kent State University, Kent, OH 44242, USA.
+mpyc@kent.edu
+
+A wealth of research has established that practice tests improve memory for the
+tested material. Although the benefits of practice tests are well documented,
+the mechanisms underlying testing effects are not well understood. We propose
+the mediator effectiveness hypothesis, which states that more-effective
+mediators (that is, information linking cues to targets) are generated during
+practice involving tests with restudy versus during restudy only. Effective
+mediators must be retrievable at time of test and must elicit the target
+response. We evaluated these two components of mediator effectiveness for
+learning foreign language translations during practice involving either
+test-restudy or restudy only. Supporting the mediator effectiveness hypothesis,
+test-restudy practice resulted in mediators that were more likely to be
+retrieved and more likely to elicit targets on a final test.
+
+DOI: 10.1126/science.1191465
+PMID: 20947756 [Indexed for MEDLINE]
+
+================================================================================
+VERBATIM — Crossref (api.crossref.org/works/10.1126/science.1191465), selected
+fields, fetched 2026-09-04:
+================================================================================
+DOI: 10.1126/science.1191465
+title: Why Testing Improves Memory: Mediator Effectiveness Hypothesis
+container-title: Science
+volume: 330 ; issue: 6002 ; page: 335-335
+published-print / issued: 2010-10-15
+publisher: American Association for the Advancement of Science (AAAS)
+type: journal-article
+ISSN: 0036-8075 (print), 1095-9203 (online)
+author: Mary A. Pyc (first), Katherine A. Rawson (additional);
+  both: Department of Psychology, Kent State University, Kent, OH 44242, USA.
+
+================================================================================
+Semantic Scholar (api.semanticscholar.org, DOI:10.1126/science.1191465):
+================================================================================
+title: Why Testing Improves Memory: Mediator Effectiveness Hypothesis
+year: 2010 ; venue: Science
+authors: M. Pyc, Katherine A. Rawson
+externalIds: DOI 10.1126/science.1191465, PubMed 20947756, MAG 2046702882,
+  CorpusId 19431054
+isOpenAccess: false

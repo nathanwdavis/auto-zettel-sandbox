@@ -2534,5 +2534,71 @@
     "publisher": "Social Sciences Replication Project, Open Science Framework",
     "title": "Replication of Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping by Karpicke, J. D. / Blunt, J. R. (2011): Replication Report",
     "type": "report"
+  },
+  {
+    "DOI": "10.1126/science.1191465",
+    "PMID": "20947756",
+    "author": [
+      {
+        "family": "Pyc",
+        "given": "Mary A."
+      },
+      {
+        "family": "Rawson",
+        "given": "Katherine A."
+      }
+    ],
+    "container-title": "Science",
+    "id": "202609042320",
+    "issue": "6002",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          15
+        ]
+      ]
+    },
+    "page": "335",
+    "publisher": "American Association for the Advancement of Science",
+    "title": "Why Testing Improves Memory: Mediator Effectiveness Hypothesis",
+    "type": "article-journal",
+    "volume": "330"
+  },
+  {
+    "URL": "https://osf.io/dvgan/",
+    "author": [
+      {
+        "family": "Camerer",
+        "given": "Colin"
+      },
+      {
+        "family": "Imai",
+        "given": "Taisuke"
+      },
+      {
+        "family": "Manfredi",
+        "given": "Dylan"
+      },
+      {
+        "family": "Nave",
+        "given": "Gideon"
+      }
+    ],
+    "genre": "Replication report",
+    "id": "202609042330",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          16
+        ]
+      ]
+    },
+    "publisher": "Social Sciences Replication Project, Open Science Framework",
+    "title": "Replication of Why Testing Improves Memory: Mediator Effectiveness Hypothesis by Pyc, M. A. / Rawson, K. A. (2010): Replication Report",
+    "type": "report"
   }
 ]
