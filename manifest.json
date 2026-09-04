@@ -276,6 +276,15 @@
     "202609042010": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010",
     "202609042011": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011",
     "202609042012": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012",
+    "202609042020": "maimonides-forbidden-foods-11-7--202609042020",
+    "202609042021": "maimonides-kings-and-wars-11--202609042021",
+    "202609042022": "maimonides-kings-and-wars-8-10-11--202609042022",
+    "202609042030": "maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030",
+    "202609042031": "maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031",
+    "202609042032": "the-noahide-covenant-turns-on-why-the-gentile-keeps-it--202609042032",
+    "202609042040": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040",
+    "202609042041": "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041",
+    "202609042042": "the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -482,8 +491,12 @@
       "path": "inquiries/what-did-jewish-law-and-theology-say-about-islam-and-why-is--202609041842.md",
       "priority": "high",
       "question": "What did Jewish law and theology say about Islam, and why is the Jewish-Muslim leg of the same-God triangle missing while the other two are deep?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040",
+        "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041",
+        "the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -518,7 +531,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 281,
+  "note_count": 290,
   "notes": [
     {
       "id": "202609041020",
@@ -2886,6 +2899,48 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/luhmann-frames-the-slip-box-as-a-communication-partner--202609010112.md"
     },
     {
+      "id": "202609042031",
+      "key": "maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-kings-and-wars-11--202609042021"
+        },
+        {
+          "relation": "supports",
+          "target_id": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040"
+        }
+      ],
+      "path": "literature/maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031.md",
+      "slug": "maimonides-charges-christianity-with-making-the-world-serve-another-god",
+      "tags": [],
+      "title": "Maimonides charges Christianity with making the world serve another god, and pairs it with Islam anyway",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031.md"
+    },
+    {
+      "id": "202609042030",
+      "key": "maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-forbidden-foods-11-7--202609042020"
+        },
+        {
+          "relation": "supports",
+          "target_id": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040"
+        }
+      ],
+      "path": "literature/maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030.md",
+      "slug": "maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half",
+      "tags": [],
+      "title": "Maimonides classes the Arabs as non-idolaters, and the censor removed the other half of the sentence",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030.md"
+    },
+    {
       "id": "202608311932",
       "key": "maimonides-denies-any-composition-in-gods-unity--202608311932",
       "links": [
@@ -2907,6 +2962,42 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-denies-any-composition-in-gods-unity--202608311932.md"
     },
     {
+      "id": "202609042020",
+      "key": "maimonides-forbidden-foods-11-7--202609042020",
+      "links": [],
+      "path": "reference/maimonides-forbidden-foods-11-7--202609042020.md",
+      "slug": "maimonides-forbidden-foods-11-7",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Ma'achalot Asurot 11:7",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-forbidden-foods-11-7--202609042020.md"
+    },
+    {
+      "id": "202609042021",
+      "key": "maimonides-kings-and-wars-11--202609042021",
+      "links": [],
+      "path": "reference/maimonides-kings-and-wars-11--202609042021.md",
+      "slug": "maimonides-kings-and-wars-11",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Melachim u-Milchamot 11 (with the censored passage restored)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-kings-and-wars-11--202609042021.md"
+    },
+    {
+      "id": "202609042022",
+      "key": "maimonides-kings-and-wars-8-10-11--202609042022",
+      "links": [],
+      "path": "reference/maimonides-kings-and-wars-8-10-11--202609042022.md",
+      "slug": "maimonides-kings-and-wars-8-10-11",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Melachim u-Milchamot 8:10-11",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-kings-and-wars-8-10-11--202609042022.md"
+    },
+    {
       "id": "202608311922",
       "key": "maimonides-mishneh-torah-yesodei-hatorah--202608311922",
       "links": [],
@@ -2917,6 +3008,43 @@
       "type": "reference",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-mishneh-torah-yesodei-hatorah--202608311922.md"
+    },
+    {
+      "id": "202609042040",
+      "key": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-forbidden-foods-11-7--202609042020"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-kings-and-wars-11--202609042021"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040.md",
+      "slug": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it",
+      "tags": [],
+      "title": "Maimonides puts Islam inside the idolatry boundary and Christianity outside it, inverting the Christian sources",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040.md"
     },
     {
       "id": "202609010702",
@@ -5690,6 +5818,56 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135.md"
     },
     {
+      "id": "202609042032",
+      "key": "the-noahide-covenant-turns-on-why-the-gentile-keeps-it--202609042032",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-kings-and-wars-8-10-11--202609042022"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041"
+        }
+      ],
+      "path": "literature/the-noahide-covenant-turns-on-why-the-gentile-keeps-it--202609042032.md",
+      "slug": "the-noahide-covenant-turns-on-why-the-gentile-keeps-it",
+      "tags": [],
+      "title": "The Noahide covenant turns on why the gentile keeps it, not on whether he keeps it",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-noahide-covenant-turns-on-why-the-gentile-keeps-it--202609042032.md"
+    },
+    {
+      "id": "202609042041",
+      "key": "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "kabbalah-separates-acknowledging-god-from-addressing-him--202609011540"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-kings-and-wars-8-10-11--202609042022"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-noahide-covenant-turns-on-why-the-gentile-keeps-it--202609042032"
+        }
+      ],
+      "path": "permanent/the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041.md",
+      "slug": "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship",
+      "tags": [],
+      "title": "The Noahide test grades the ground of obedience, not the object of worship",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041.md"
+    },
+    {
       "id": "202609032115",
       "key": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
       "links": [
@@ -5873,6 +6051,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520.md"
+    },
+    {
+      "id": "202609042042",
+      "key": "the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-classes-the-arabs-as-non-idolaters-and-the-censor-removed-the-other-half--202609042030"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-forbidden-foods-11-7--202609042020"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210"
+        }
+      ],
+      "path": "permanent/the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042.md",
+      "slug": "the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible",
+      "tags": [],
+      "title": "The censored Mishneh Torah preserves the lenient verdict and deletes the one it was measured against",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042.md"
     },
     {
       "id": "202609040105",

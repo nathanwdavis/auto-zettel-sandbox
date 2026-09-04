@@ -2155,5 +2155,107 @@
     "publisher-place": "New York",
     "title": "The Definition of Faith of the Council of Chalcedon",
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Forbidden_Foods.11.7",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609042020",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1180
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Hilchot Ma'achalot Asurot 11:7",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.11",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609042021",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1180
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Hilchot Melachim u-Milchamot 11",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Kings_and_Wars.8.10",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609042022",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1180
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Hilchot Melachim u-Milchamot 8:10-11",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
   }
 ]
