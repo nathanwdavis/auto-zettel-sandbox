@@ -1418,6 +1418,56 @@ file list rather than following its landing page, and when a copy turns up on an
 unexpected academic domain, open it and read its first page for a deposit
 statement.
 
+### Appended 2026-09-04 18:00Z: item (3) is DONE, item (2) is now the whole remainder, and the prediction in this entry was right for the wrong experiment
+
+Item (3), transactive/external memory, is closed. Sparrow, Liu and Wegner 2011
+is captured (reference 202609041800, literature 202609041810) as an EXCERPT —
+its own cover page reads "all rights reserved" and this repository is public —
+and its replication history came with it in full text under CC BY 4.0
+(Hesselmann 2020, reference 202609041805, literature 202609041815). Five
+permanent notes: 202609041820, 202609041825, 202609041830, 202609041835,
+202609041840. Inquiry 202609032123 is marked `answered`.
+
+**Access, for the record and against the ladder.** Sparrow is not open access —
+Unpaywall returns `is_oa: false` and NO `oa_locations` for
+`10.1126/science.1207745`, so rung (b) failed on the merits and not on a fetch
+error. Rung (c) paid immediately: the paper's third author's own lab site at
+Harvard (`dtg.sites.fas.harvard.edu/DANWEGNER/pub/`) serves the PDF. That is a
+third instance of the rung-(c) pattern this base keeps recording, and the useful
+generalisation from THIS one is narrow and new: **a dead author's lab page can
+outlive them and still be the open route** — Wegner died in 2013 and the page is
+still up on institutional web space. For Hesselmann, `peerj.com` returned HTTP
+403 behind Cloudflare while the SAME article came back whole from PubMed
+Central's E-utilities endpoint
+(`eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=<PMCID>&rettype=xml`)
+as publisher-deposited JATS XML. **Rule worth keeping: when a gold-OA publisher
+is bot-blocked, go to the deposit, not to the paywall workaround.** The JATS
+route is also strictly better than a PDF — real structure, no text layer to
+mangle, and section titles that make honest locators for a journal with no page
+numbers.
+
+**Item (2), the generation effect, is now the entire remainder of this entry.**
+Nothing else in it is open. It is the weakest of the three candidates for this
+base's purposes and that should be said plainly before a later cycle spends on
+it: the generation effect is about producing an item rather than reading it,
+which is a claim about the moment of writing a note, and this base already has
+that territory covered from two directions (the note-taking pair, and retrieval
+practice). It is not about external storage. A cycle that takes it should expect
+to be confirming an adjacent mechanism, not closing a gap.
+
+**Where this entry's prediction landed.** It predicted a measured cost of
+delegating memory to paper, bearing against Chavigny in permanent 202609032115.
+The prediction was right and this entry named the wrong source for it twice:
+first Roediger and Karpicke, which never mentions notes (the 03:00Z correction),
+and then, implicitly, this literature's famous experiment — which turns out to
+be a priming study with nothing to do with memory at all. What supplied the
+measurement was Sparrow's *Experiment 2*, an experiment nobody cites: erased
+0.31 against saved 0.22 recall, with the writing, the material and the attention
+held constant. Permanent 202609041825 carries it and is typed `supports` into
+202609032115, which now also carries a dated addition saying what the support
+does and does not reach.
+
+
 ## 2026-09-04 — The retrieval-practice robustness claim rests on a self-assessment, and the audit that would settle it is sitting in gold open access
 
 - **status:** in-progress        <!-- new | in-progress | answered | archived -->
@@ -3147,6 +3197,39 @@ protects any caller, not just the one that remembers the flag.
 never by running its verify step against the working tree.
 
 
+### Appended 2026-09-04 18:00Z: the warning in this entry did not work, and the run that filed the LIVE-path entry above made this exact mistake anyway
+
+Recorded because a warning that fails is more useful than one that is merely
+repeated. This cycle ran `verify_refs.py --repo . --offline --no-render` in the
+working tree, to rehearse the CI step, having already read this entry — and it
+downgraded **eighteen** reference notes in one command, every one of them from
+`raw-capture+<registry>` / `identifier_check: confirmed` to bare `raw-capture`.
+Reverted with `git checkout -- reference/`, then the LIVE verifier was re-run to
+restore the records honestly (hand-editing them back would be back-filling a
+verification nobody performed); that live run degraded two more, `ahrens` and
+`plantinga`, which were reverted in turn. Final state pushed: zero removed
+`confirmed` lines, 77/77 verified.
+
+Two things this adds to the entry above it.
+
+**The blast radius is bigger than the live path's, by an order of magnitude.**
+The live defect takes out four or five notes on a bad draw. `--offline` takes
+out every note that ever had a registry confirmation, deterministically, in one
+command. Same silent failure mode, and every gate passes afterwards.
+
+**The 17:28Z entry told the next cycle to rehearse CI by READING `gates.yml`,
+never by running its verify step against the working tree. That is the right
+rule and it was not enough to stop this.** The rule lives in a log line and in
+this entry's body; the temptation is a single obvious command at gate time. What
+would actually stop it is a change upstream, and it is small: **`--offline`
+should not write at all unless asked.** Give it `--check` semantics by default —
+report what a record would become, exit non-zero on a mismatch, touch nothing —
+which is also exactly what CI wants, since CI re-checks rather than re-records.
+That single change would make the rehearsal safe and would make CI's own
+invocation safer too. Filed here rather than fixed because a content run may not
+modify the skill repo.
+
+
 ## 2026-09-04 — Policy, HUMAN RULING NEEDED: this cycle translated Hebrew into the notes itself, because the base has no translation policy
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -3317,3 +3400,124 @@ motives (202609011811, 202609030155). The new notes do not engage them
 head-on — they argue that the resemblance fails on doctrinal content, while
 Modena and Pico are evidence that it was *perceived*. Someone should decide
 whether that is a real reconciliation or a change of subject.
+
+## 2026-09-04 — Tooling, HIGH and now ROOT-CAUSED: the verifier's ISBN lookup calls an Open Library endpoint that returns an empty 200, and three previous cycles diagnosed it as "transient"
+
+- **status:** new
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-04 18:00Z cycle, fourth observation)
+
+**This entry corrects its three predecessors.** The 2026-09-02, 09-04 15:00Z and
+09-04 17:28Z entries all recorded the live `verify_refs.py` silently degrading
+reference notes — `method: raw-capture+openlibrary` and `identifier_check:
+confirmed` replaced by bare `raw-capture`, sometimes with `identifier_check:
+failed` — and all three concluded it was transient failure inside a large batch.
+It is not transient. It is deterministic, and it will happen on every future
+run until something changes.
+
+**What happened this cycle.** The live verifier degraded FOUR notes: `ahrens`,
+`housel`, `luhmann` and `plantinga`. All four were reverted with `git checkout
+--`, and `git diff -U0 reference/ | grep '^-' | grep -c 'identifier_check:
+confirmed'` is 0 on what this cycle pushes. 77/77 verified.
+
+**The root cause, probed rather than inferred.** The 17:28Z cycle probed Open
+Library after the fact, got HTTP 200 in under 7s, and concluded the failure had
+been transient. That probe checked the status code and not the body. The body is
+the defect:
+
+```
+curl "https://openlibrary.org/api/books?bibkeys=ISBN:9781542866507&format=json&jscmd=data"
+  -> 200, body: {}          (Ahrens, repeatably)
+curl "https://openlibrary.org/api/books?bibkeys=ISBN:9780857197689&format=json&jscmd=data"
+  -> 200, body: {}          (Housel, repeatably)
+```
+
+Both books ARE on Open Library. `https://openlibrary.org/search.json?isbn=<isbn>`
+returns `numFound: 1` with the right title for both, and
+`https://openlibrary.org/isbn/9780857197689.json` returns 200. It is specifically
+`/api/books` with `jscmd=data` — the endpoint `verify_refs.py` uses — that now
+answers `{}` for records that plainly exist.
+
+**Why an empty 200 becomes `identifier_check: failed`.** In
+`scripts/verify_refs.py`, `_identifier_lookup` treats a falsy JSON body as a
+miss, falls through to Google Books, and when that misses too returns `("", "")`
+— which is NOT `None`, so `verify_note` takes the branch
+`return Verification(True, "raw-capture", capture, "failed")`. A soft failure at
+the far end is converted into a **definitive verdict of identifier rot**, and
+that verdict is then written over a record that previously said `confirmed`.
+(The two notes that came back as bare `raw-capture` with no `identifier_check`
+took the other path: a timeout raises `NetworkUnavailable`, the batch loop
+re-verifies that one note offline, and the offline branch records neither
+outcome. Open Library answered in 3-9s under load against a 20s timeout, so both
+paths are live at once.)
+
+**This is direct evidence for the fix the 17:28Z entry preferred, and against
+the repair advice the 16:00Z entry gave.** "Re-run the live verifier" cannot
+repair this, because the endpoint will answer `{}` again. Two changes, either of
+which would end it, for a human to choose between upstream in the skill repo
+(a content run may not touch it):
+
+1. **The writer must refuse to LOWER an existing verification.** A record that
+   says `raw-capture+openlibrary` / `confirmed` should never be overwritten with
+   a weaker one by a lookup that failed; degradation should require an explicit
+   flag. This is the general fix and it protects against the next dead endpoint
+   as well as this one.
+2. **Move the ISBN lookup off `/api/books`.** `search.json?isbn=<isbn>` answers
+   correctly for both ISBNs today. This is the narrow fix and it will rot again.
+
+Until one lands, every cycle must keep running the 17:28Z check —
+`git diff -U0 reference/ | grep '^-' | grep -c 'identifier_check: confirmed'`
+must be 0 before commit — and revert what the verifier degraded. That check has
+now caught the same defect four times and is the only thing standing between
+this repository and a slow, silent loss of its verification evidence. **No gate
+catches it**: every lint passes on the degraded state, which is the whole point.
+
+## 2026-09-04 — Leads left open by the offloading cycle, and the base now has ZERO open inquiries
+
+- **status:** new
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 18:00Z cycle)
+
+**First, the fact a planner needs.** With inquiry 202609032123 marked
+`answered`, `inquiries.py --status new` and `--status in-progress` both report
+none. Every question this repository has been asked is closed. The next cycle
+has no queue to work from and must choose against config.yml topics or against a
+gap it finds; it should not read the empty queue as "nothing to do".
+
+**Three specific leads this cycle located and did not take.**
+
+1. **Camerer et al. 2018, the Social Sciences Replication Project.** Cited
+   throughout this cycle's notes AT SECOND HAND, through the paper that
+   replicates alongside it, and deliberately never cited directly — no note here
+   claims to have read it. It is reachable: `10.1038/s41562-018-0399-z`,
+   Unpaywall gives an accepted version at
+   `pure.eur.nl/ws/files/37359856/`, and the Google Stroop replication's own
+   materials are on OSF at `https://osf.io/wmgj9/` with a summary at
+   `https://osf.io/4rfme/`. Worth taking for its own sake: it is a 21-study
+   replication project, and this repository has been reasoning about replication
+   as a concept since 2026-09-04 without ever having read a replication project.
+2. **The Sparrow supplement.** `science.sciencemag.org/content/suppl/2011/07/13/`
+   `science.1207745.DC1`. This repository states the sample sizes of Experiments
+   2-4 on trust, through an audit that read the supplement for Experiment 1 and
+   found its degrees of freedom irreconcilable. Permanent 202609041835 says so
+   in its own body. If the supplement is reachable, the sample sizes behind
+   202609041825 can be checked directly instead of inherited.
+3. **A replication of Sparrow Experiments 2-4, if one exists.** Two negative
+   checks were made — the 2020 replication paper reviews this literature and
+   records none, and a search found none — and that is recorded in
+   202609041825 as two checks rather than as an established absence. A cycle
+   with a better route to the citation graph (Semantic Scholar and OpenAlex both
+   expose citing-works APIs and neither was tried) could settle it. Finding one
+   would ADD to that note, not contradict it.
+
+**And one methodological observation worth more than the leads.** The most
+valuable thing this cycle read was not a result but an audit: a section of the
+replication paper headed "Statistical issues in the original study", which
+established what the original's headline actually rests on. A failed replication
+says an effect did not reappear; an audit says how little there was to reappear.
+This repository has now twice found that the second is worth more to it than the
+first (the Rowland cycle was the other). **Candidate rule for the skill-smith,
+whose cadence is not due until ~2026-09-08: when a source has been replicated,
+look for whether the replicating paper also audits the original, and read that
+section first — it is usually short, it is usually near the end, and it changes
+how much the original's untested claims are worth.**

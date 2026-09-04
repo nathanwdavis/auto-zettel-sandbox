@@ -10,7 +10,7 @@ updated: '2026-09-04'
 question: Is there any empirical evidence that note-taking or externalized memory
   actually improves thinking and writing, and does any of it reach the slip-box claims
   this base makes?
-status: in-progress
+status: answered
 priority: high
 asked_by: human
 result_notes:
@@ -22,6 +22,11 @@ result_notes:
 - the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615
 - the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610
 - a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620
+- the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820
+- expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825
+- the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830
+- the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835
+- the-offloading-literature-varies-expectation-not-accumulation--202609041840
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. `zettelkasten method` is a
@@ -246,3 +251,56 @@ It stays open because candidate 3 is untouched. Nothing added today measures
 externalised memory — the negative search now runs zero for four sources — so
 the inquiry's own question is still answered only by inference from an adjacent
 literature, which is exactly the position it was filed to escape.
+
+## Answered by the 2026-09-04 18:00Z cycle — candidate 3 is done, and the answer to the inquiry's own question is negative
+
+Candidate 3, transactive and external memory, is the last untouched item and it
+is now read. Two sources: Sparrow, Liu and Wegner's 2011 Science paper, the one
+this inquiry named, and the 2020 PeerJ replication of it — the first an excerpt
+capture (all rights reserved), the second full text (CC BY 4.0). Both were read
+whole; the replication history this inquiry asked for came with it, as it did
+for Mueller and Oppenheimer.
+
+**The direct answer to the question as asked: no.** There is empirical evidence
+about externalised memory, and it does not reach the slip-box claims this base
+makes. The reason is now established rather than suspected, and it is
+structural: the offloading literature manipulates a *belief about
+retrievability*, held for minutes, over material with no relations in it
+([[the-offloading-literature-varies-expectation-not-accumulation--202609041840]]).
+Accumulation is not in any design read for this inquiry; linking is not in any
+design read for this inquiry. That is the result the entry filed on 2026-09-04
+asked for in as many words — "if a run establishes that none does, that is a
+result and should be written as such" — and it is written as such, bounded to
+the designs actually read rather than stated as a survey of the field.
+
+**What was gained rather than ruled out.** One measurement, and it is the first
+in this base on its own subject:
+[[expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825]].
+Believing a machine had saved what you typed cost nine points of recall in the
+same session, with the material, the writing and the attention held constant.
+That is the cost side of externalising, measured — the thing this base had only
+from a historian.
+
+**A correction this cycle owes the record, and it is the reason the closing
+notes are five rather than one.** The famous "Google effect" is not one finding.
+Experiment 1 is a priming study; Experiments 2 through 4 are the memory ones.
+All three published replication attempts targeted Experiment 1 and all three
+failed; nothing this repository could find has ever replicated Experiments 2
+through 4
+([[the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820]]).
+A base that had cited "the Google effect" for offloading, or had cited the
+failed replications against it, would have been wrong in opposite directions.
+And the most quotable result in the whole literature — that we remember *where*
+rather than *what* — compares cued recall with uncued recall, which its own
+authors say in the paragraph that reports it
+([[the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830]]).
+
+**Closed with its limits stated rather than hidden.** The paper carrying the one
+measurement is small, unreplicated, and did not survive an audit of its
+reporting
+([[the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835]]).
+Its supporting online material was not fetched, so its sample sizes are read on
+trust through that audit. Camerer et al. 2018 was read at second hand, through
+the replication paper, and no note here cites it directly. Those three gaps are
+recorded in the INBOX rather than left in this inquiry, because they are access
+work for a later cycle and not open questions about the subject.
