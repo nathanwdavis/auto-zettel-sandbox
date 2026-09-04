@@ -285,6 +285,15 @@
     "202609042040": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040",
     "202609042041": "the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041",
     "202609042042": "the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042",
+    "202609042050": "maimonides-avodah-zarah-1--202609042050",
+    "202609042051": "maimonides-avodah-zarah-2-1--202609042051",
+    "202609042052": "aquinas-st-ii-ii-q103-dulia--202609042052",
+    "202609042055": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055",
+    "202609042056": "the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows--202609042056",
+    "202609042057": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057",
+    "202609042060": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060",
+    "202609042061": "two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061",
+    "202609042062": "the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -526,12 +535,16 @@
       "path": "inquiries/what-is-worship-such-that-referring-to-the-right-being--202609041843.md",
       "priority": "normal",
       "question": "What is worship, such that referring to the right being might not be enough for it?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062",
+        "two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061",
+        "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 290,
+  "note_count": 299,
   "notes": [
     {
       "id": "202609041020",
@@ -1227,6 +1240,43 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-makes-god-demonstrable-only-from-effects--202609011206.md"
+    },
+    {
+      "id": "202609042057",
+      "key": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-st-ii-ii-q103-dulia--202609042052"
+        },
+        {
+          "relation": "supports",
+          "target_id": "two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061"
+        },
+        {
+          "relation": "supports",
+          "target_id": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+        }
+      ],
+      "path": "literature/aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057.md",
+      "slug": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed",
+      "tags": [],
+      "title": "Aquinas separates worship from honour by the aspect under which each is owed",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057.md"
+    },
+    {
+      "id": "202609042052",
+      "key": "aquinas-st-ii-ii-q103-dulia--202609042052",
+      "links": [],
+      "path": "reference/aquinas-st-ii-ii-q103-dulia--202609042052.md",
+      "slug": "aquinas-st-ii-ii-q103-dulia",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae II-II q.103 (Dulia)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-st-ii-ii-q103-dulia--202609042052.md"
     },
     {
       "id": "202609011201",
@@ -2899,6 +2949,30 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/luhmann-frames-the-slip-box-as-a-communication-partner--202609010112.md"
     },
     {
+      "id": "202609042050",
+      "key": "maimonides-avodah-zarah-1--202609042050",
+      "links": [],
+      "path": "reference/maimonides-avodah-zarah-1--202609042050.md",
+      "slug": "maimonides-avodah-zarah-1",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Avodah Zarah 1:1-3",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-avodah-zarah-1--202609042050.md"
+    },
+    {
+      "id": "202609042051",
+      "key": "maimonides-avodah-zarah-2-1--202609042051",
+      "links": [],
+      "path": "reference/maimonides-avodah-zarah-2-1--202609042051.md",
+      "slug": "maimonides-avodah-zarah-2-1",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Avodah Zarah 2:1",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-avodah-zarah-2-1--202609042051.md"
+    },
+    {
       "id": "202609042031",
       "key": "maimonides-charges-christianity-with-making-the-world-serve-another-god--202609042031",
       "links": [
@@ -2996,6 +3070,27 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-kings-and-wars-8-10-11--202609042022.md"
+    },
+    {
+      "id": "202609042055",
+      "key": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-avodah-zarah-1--202609042050"
+        },
+        {
+          "relation": "supports",
+          "target_id": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+        }
+      ],
+      "path": "literature/maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055.md",
+      "slug": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour",
+      "tags": [],
+      "title": "Maimonides makes the first idolaters theists who reasoned about how to honour God",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055.md"
     },
     {
       "id": "202608311922",
@@ -5295,6 +5390,27 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820.md"
     },
     {
+      "id": "202609042056",
+      "key": "the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows--202609042056",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-avodah-zarah-2-1--202609042051"
+        },
+        {
+          "relation": "supports",
+          "target_id": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+        }
+      ],
+      "path": "literature/the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows--202609042056.md",
+      "slug": "the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows",
+      "tags": [],
+      "title": "The halachah makes the prohibition independent of what the worshipper knows",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows--202609042056.md"
+    },
+    {
       "id": "202609041445",
       "key": "the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445",
       "links": [
@@ -6318,6 +6434,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920.md"
     },
     {
+      "id": "202609042062",
+      "key": "the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-st-ii-ii-q103-dulia--202609042052"
+        },
+        {
+          "relation": "supports",
+          "target_id": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+        }
+      ],
+      "path": "permanent/the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062.md",
+      "slug": "the-same-god-question-has-three-answers-because-it-has-three-questions",
+      "tags": [],
+      "title": "The same-God question wears three questions, not two",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062.md"
+    },
+    {
       "id": "202608311942",
       "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
       "links": [
@@ -7018,6 +7171,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425.md"
     },
     {
+      "id": "202609042061",
+      "key": "two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-st-ii-ii-q103-dulia--202609042052"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-avodah-zarah-1--202609042050"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "maimonides-puts-islam-inside-the-boundary-and-christianity-outside-it--202609042040"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060"
+        }
+      ],
+      "path": "permanent/two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061.md",
+      "slug": "two-traditions-give-the-same-argument-and-opposite-verdicts",
+      "tags": [],
+      "title": "Maimonides' account of the first idolatry is Aquinas' defence of dulia",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061.md"
+    },
+    {
       "id": "202609010910",
       "key": "universal-compounding-turns-bounded-room-into-selection--202609010910",
       "links": [
@@ -7283,6 +7473,43 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720.md"
+    },
+    {
+      "id": "202609042060",
+      "key": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-worship-from-honour-by-the-aspect-under-which-it-is-owed--202609042057"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-avodah-zarah-2-1--202609042051"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-halachah-makes-the-prohibition-independent-of-what-the-worshipper-knows--202609042056"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060.md",
+      "slug": "worship-carries-an-addressee-condition-that-belief-cannot-satisfy",
+      "tags": [],
+      "title": "Worship carries a condition on its addressee that correct belief cannot satisfy",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060.md"
     },
     {
       "id": "202609041000",

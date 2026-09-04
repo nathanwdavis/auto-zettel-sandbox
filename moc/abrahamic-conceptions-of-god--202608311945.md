@@ -538,6 +538,25 @@ but on whose authority it is undertaken.
 - [[the-noahide-test-grades-the-ground-of-obedience-not-the-object-of-worship--202609042041]]
 - [[the-printed-mishneh-torah-hides-the-comparison-that-makes-the-verdict-legible--202609042042]]
 
+## What worship is, added 2026-09-04: the third question
+
+Inquiry 202609041843 asked what worship must be, such that referring to the
+right being might not be enough for it. Maimonides answers in a legal code, and
+answers by granting the reference: a worshipper who "knows that the Lord is the
+true God" and serves a creature is an idolater anyway. Worship imposes a
+condition on its addressee that correct belief cannot satisfy. Aquinas locates
+the condition in the same place -- the aspect under which the due is rendered --
+and draws the line elsewhere, which turns his defence of dulia into almost
+exactly the reasoning Maimonides files as the origin of idolatry.
+
+The upshot for this whole map: the same-God question wears three questions, not
+two. Reference, description, and address. Most of the disputants collected here
+are arguing about the third in the vocabulary of the first.
+
+- [[worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060]]
+- [[two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061]]
+- [[the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

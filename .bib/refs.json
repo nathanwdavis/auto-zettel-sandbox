@@ -2257,5 +2257,107 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Foreign_Worship_and_Customs_of_the_Nations.1",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609042050",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1180
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Hilchot Avodah Zarah 1:1-3",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Foreign_Worship_and_Customs_of_the_Nations.2.1",
+    "author": [
+      {
+        "literal": "Moses Maimonides"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609042051",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1180
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Hilchot Avodah Zarah 2:1",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/3103.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Summa Theologiae",
+    "id": "202609042052",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1272
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Secunda Secundae, Question 103 (Dulia)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
+    "type": "chapter"
   }
 ]
