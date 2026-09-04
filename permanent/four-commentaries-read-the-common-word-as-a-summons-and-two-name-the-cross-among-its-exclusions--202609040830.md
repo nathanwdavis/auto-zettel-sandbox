@@ -31,6 +31,10 @@ links:
   relation: source
 - target_id: the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
   relation: supports
+- target_id: razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910
+  relation: source
+- target_id: razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905
+  relation: source
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -91,3 +95,32 @@ sharing does appear, in a modern commentary, attached to a word whose content is
 still a demand. Where the older commentaries use `عدل` and `نصفة` — fair terms —
 the modern one reaches for `مشتركة` — shared property. That drift is small,
 attested here in one author, and worth watching rather than building on.
+
+## Amendment, 2026-09-04 09:00Z cycle: a fifth commentary, and it sharpens the reading
+
+al-Razi (d. 606/1210) reads Q 3:64 the same way and gives the summons its
+clearest statement. "Come to a word `سواء` between us and you" he renders
+`هَلُمُّوا إلى كَلِمَةٍ فِيها إنْصافٌ مِن بَعْضِنا لِبَعْضٍ، ولا مَيْلَ فِيهِ
+لِأحَدٍ عَلى صاحِبِهِ` — come to a word in which there is fairness from each of
+us to the other, with no leaning of one over his fellow — and glosses
+`السَّواءُ هو العَدْلُ والإنْصافُ`, equality here being justice and fairness,
+which he derives from *insaf* as the giving of a half
+([[razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910]]).
+He then quotes al-Zajjaj that `سواء` describes the word itself, so that `فَإذا
+آمَنّا بِها نَحْنُ وأنْتُمْ كُنّا عَلى السَّواءِ والِاسْتِقامَةِ` — if we and
+you believe in it, we shall be on level and upright ground. That conditional is
+the point: the equality is the *result* of accepting the word, not a state the
+two parties are already in. It is the strongest evidence yet against reading
+`سواء` as "already shared", and it comes from the commentator most likely to
+have noticed if the other reading were available.
+
+The count in this note's title and first paragraph is therefore five
+commentaries, not four. Two further things al-Razi adds, neither of which the
+other four supply: the setting is the Najran delegation after the *mubahala*
+was declined, so the verse is what is said when the harder procedure has
+failed; and the address "O People of the Book" is itself part of the fairness,
+being among the finest of titles and used, he says, when a man turns from
+wrangling to seeking fair terms. The exclusions he attaches are the verse's own
+three, expounded against Christian doctrine directly
+([[the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925]]).
+

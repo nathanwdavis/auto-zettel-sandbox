@@ -13,8 +13,10 @@ links:
   relation: source
 - target_id: abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941
   relation: elaborates
+- target_id: the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
+  relation: shared-concept
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-04'
 ---
 Asked "Who is God?", mainstream evangelical theology does not answer with the
 attributes a philosopher would list first. It answers by naming one God who

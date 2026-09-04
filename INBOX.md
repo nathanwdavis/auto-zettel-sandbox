@@ -1879,7 +1879,7 @@ entry above, which stays `in-progress`.
 
 ## 2026-09-04 — Leads left open by the commentary sweep: al-Razi, Tantawi's single witness, and a translation-calibration debt that is now five notes deep
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** run
 
@@ -1927,3 +1927,106 @@ the base is the juristic literature that decides whether Christians count as
 *mushrikun*, and that is where the tension would have had to be resolved if
 anyone resolved it. No access route has been tried for it yet.
 
+### Appended 2026-09-04 09:00Z: item (1) is closed, item (2) is settled negatively
+
+**(1) AL-RAZI IS CAPTURED, AND THE SLUG IN THIS ENTRY WAS WRONG.** tafsir.app
+serves *Mafatih al-ghayb* under `alrazi`, not `razi`. The guess recorded above
+returns the host's ~150,400-byte empty-shell page, which is why it looked like
+an absence. Both verses were fetched on the first request with the right slug
+and are captured in full at
+`raw/202609040905-razi-mafatih-al-ghayb-3-64-and-29-46-arabic.txt`.
+
+The result: al-Razi does NOT gloss `وإلهنا وإلهكم واحد` either. `معبود` occurs
+nowhere in his comment on 29:46, checked in three independently served copies.
+The genre explanation this entry was written to test therefore fails, and the
+notes say so — 202609040915, and amendments on 202609040820 and 202609040710.
+Two further findings came with it: he grounds the verse's leniency in the People
+of the Book having *professed oneness* (202609040920), and he reads "except
+those of them who do wrong" as excluding trinitarians as associators
+(202609040925), which is the nearest thing yet to item (4)'s *mushrikun*
+question, answered from tafsir rather than from fiqh.
+
+**(2) TANTAWI: tafsir.app IS RULED OUT, NOT UNTRIED.** The site embeds its whole
+resource list in every page as `data-src` attributes — 165 entries, extractable
+with one request. *al-Wasit* / Tantawi is not among them under any spelling, so
+the three slug guesses recorded above failed because the commentary is absent,
+not because the slugs were wrong. Some other host has to be found; this one is
+finished. (`quran.ksu.edu.sa` was checked the same way and carries exactly five
+tafsirs: `tabary`, `baghawy`, `katheer`, `qortobi`, `saadi`.)
+
+**(3) THE TRANSLATION DEBT IS NOW SEVEN SOURCES DEEP.** Unpaid again this cycle,
+and the argument in the original entry — pay it once, on Ibn Kathir, because he
+alone has published English translations — is unchanged and still right.
+
+**(4) THE JURISTIC QUESTION IS STILL UNTRIED**, though it is no longer the only
+route: see 202609040925 for the exclusion argued inside tafsir.
+
+**A new lead this cycle opened.** That same 165-entry list is a free expansion
+path for this whole cluster. Among the classical commentaries on it that this
+base has never touched: al-Zamakhshari's *Kashshaf* (`kashaf`), Ibn 'Ashur
+(`ibn-aashoor`), Abu Hayyan's *al-Bahr al-muhit* (`albahr-almuheet`), al-Alusi
+(`alaloosi`), al-Baydawi (`albaydawee`), al-Nasafi (`alnasafi`), al-Mawardi
+(`almawirdee`), Ibn al-Jawzi's *Zad al-masir* (`zad-almaseer`), al-Tha'labi
+(`althalabi`), Ibn 'Atiyya (`ibn-atiyah`). The Mu'tazili-leaning Zamakhshari is
+the one most likely to break the pattern, since the four in the base so far are
+all Sunni traditionalists of one sort or another and the silence they share may
+be a school effect rather than a tradition-wide one — which is the same shape of
+objection this entry raised about genre, and it is not yet answered.
+
+## 2026-09-04 — Tooling, HIGH: the Arabic normaliser used for the mechanical quotation checks can swallow the letters it is supposed to keep
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 09:00Z cycle, against its own work.
+
+**The defect.** The normaliser this cycle first used to strip Arabic diacritics
+before substring-matching quotations against captures was built on the character
+class `[ؐ-ًؚ-ٰٟۖ-ۭـ]`. Written out, its first range runs U+0610 to U+064B, which
+contains the entire Arabic letter block U+0621-U+064A. The class therefore
+deletes letters, not just marks. Depending on what else the normaliser does to
+the needle and the haystack, the result is either a match count of zero for
+strings that are present, or a match on text that has been reduced to
+punctuation — and both look like ordinary results.
+
+**How it surfaced.** A passage visible by eye in both texts reported zero hits.
+The check that caught it was cheap and should be standard: normalise a known
+short string and print it. `norm('ضاهوهم')` returned the empty string.
+
+**What was done here.** Every mechanical check in this cycle was re-run with a
+normaliser that strips marks by explicit code point (U+064B-U+0652, U+0653-U+0655,
+U+0670, U+06D6-U+06ED, U+0640) and keeps U+0621-U+064A. The substantive results
+did not change — the `معبود` absence, and every cross-host quotation match, hold
+under the correct normaliser — but they were not trustworthy until re-run, and
+the corrected run is what the notes rest on.
+
+**The previous cycles' results were re-checked, and they hold.** The 07:00Z and
+08:00Z cycles logged their mechanical checking in the same words ("diacritics,
+tatweel, alef/ya/ta-marbuta and punctuation normalised away"), and their code is
+not preserved, so whether they used this defective idiom cannot be established
+by inspection — only by re-running. That was done here, under the corrected
+normaliser, against the captures already in `raw/`, with both controls in the
+same run:
+
+    positive control  norm('معبود') -> 'معبود'   (the needle survives normalisation)
+    al-Tabari         `معبود` in the 29:46 section:  3   <- the word IS found where it is
+    al-Qurtubi                                        0
+    Ibn Kathir                                        0
+    al-Baghawi                                        0
+    al-Sa'di                                          0
+    al-Muyassar                                       0
+    negative-side control `واحد` in each 29:46 section: 6, 1, 3, 4, 2, 1
+                                                      (every text is being read)
+
+So the load-bearing absence those cycles established is confirmed, and by a tool
+whose behaviour on a known input is now on the record. What is NOT re-checked is
+their cross-host quotation matching, because those host copies were not kept;
+re-running it means re-fetching, and it is worth doing next time any of those
+notes is touched rather than as its own errand.
+
+**The general rule this suggests, for whoever fixes it.** A normalisation
+routine used to establish an absence must be tested on a positive control (a
+string known to be in the text) and on a negative control (a string known not to
+be) in the same run, and the controls belong in the log line, not in the head of
+whoever ran it.

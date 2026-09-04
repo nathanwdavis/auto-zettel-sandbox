@@ -25,6 +25,8 @@ links:
   relation: elaborates
 - target_id: the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715
   relation: supports
+- target_id: the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -80,3 +82,22 @@ instruction on what to say — at length, and the juristic material about the
 *jizya* and the sword is developed by every one of them. The clause that says
 the two parties' God is one is the clause the tradition after al-Tabari leaves
 alone. Whatever explains that, it is not a general reticence about the verse.
+
+## Amendment, 2026-09-04 09:00Z cycle
+
+The genre objection this note filed against itself has been tested and does not
+hold. al-Razi (d. 606/1210), whose *Mafatih al-ghayb* is the classical
+commentary organised around theological questions, also passes over the clause
+without glossing it, and `معبود` occurs nowhere in his comment on Q 29:46 in any
+of three independently served copies
+([[the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915]]).
+So the silence of the jurist, the traditionist and the abridger is not a fact
+about what their books had room for. The count in this note's first paragraph —
+three commentators after al-Tabari — is now four, and the theologian is among
+them.
+
+Nothing else here changes. The note's own limit still binds: four commentators
+passing over the clause is not four commentators denying the identification, and
+al-Razi does not deny it either. He does use the word `معبود` once, on Q 3:64,
+to argue that before the Messiah the object of worship was none but God and that
+the Christians have since added to it — the vocabulary in the opposite service.

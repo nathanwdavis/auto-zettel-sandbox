@@ -177,6 +177,11 @@
     "202609040820": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
     "202609040825": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825",
     "202609040830": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
+    "202609040905": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905",
+    "202609040910": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910",
+    "202609040915": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
+    "202609040920": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
+    "202609040925": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -239,8 +244,11 @@
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
+        "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
         "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
+        "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
+        "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
         "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
@@ -321,7 +329,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 182,
+  "note_count": 187,
   "notes": [
     {
       "id": "202609040058",
@@ -1454,6 +1462,10 @@
         {
           "relation": "source",
           "target_id": "nae-statement-of-faith--202608311920"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
         }
       ],
       "path": "permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md",
@@ -1461,7 +1473,7 @@
       "tags": [],
       "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
@@ -1495,6 +1507,14 @@
         {
           "relation": "source",
           "target_id": "qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905"
         },
         {
           "relation": "source",
@@ -1868,6 +1888,10 @@
         },
         {
           "relation": "shared-concept",
+          "target_id": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920"
+        },
+        {
+          "relation": "shared-concept",
           "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
         },
         {
@@ -1886,7 +1910,7 @@
       ],
       "title": "Internal plurality is not what divides the monotheisms",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md"
     },
     {
@@ -2800,6 +2824,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003.md"
     },
     {
+      "id": "202609040910",
+      "key": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905"
+        }
+      ],
+      "path": "literature/razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910.md",
+      "slug": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm",
+      "tags": [],
+      "title": "al-Razi argues both verses from what the People of the Book already affirm, and never glosses the shared-God clause",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910.md"
+    },
+    {
+      "id": "202609040905",
+      "key": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905",
+      "links": [],
+      "path": "reference/razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905.md",
+      "slug": "razi-mafatih-al-ghayb-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Razi, Mafatih al-ghayb (al-Tafsir al-kabir), on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905.md"
+    },
+    {
       "id": "202701010011",
       "key": "reinvested-returns-compound--202701010011",
       "links": [
@@ -3362,6 +3415,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
     },
     {
+      "id": "202609040925",
+      "key": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940"
+        },
+        {
+          "relation": "supports",
+          "target_id": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920"
+        }
+      ],
+      "path": "permanent/the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925.md",
+      "slug": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause",
+      "tags": [],
+      "title": "The classical exclusion of trinitarians as associators is made inside the very verse that carries the shared-God clause",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925.md"
+    },
+    {
       "id": "202609040720",
       "key": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
       "links": [
@@ -3559,6 +3645,14 @@
           "target_id": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
         },
@@ -3603,6 +3697,35 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-general-revelation-passages-describe-a-wordless-disclosure--202609011038.md"
+    },
+    {
+      "id": "202609040920",
+      "key": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
+        }
+      ],
+      "path": "permanent/the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920.md",
+      "slug": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness",
+      "tags": [],
+      "title": "The classical commentary grounds the gentler treatment of the People of the Book in their own profession of God's oneness, not in the verse's shared-God clause",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920.md"
     },
     {
       "id": "202609040615",
@@ -3700,6 +3823,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md"
     },
     {
+      "id": "202609040915",
+      "key": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910"
+        },
+        {
+          "relation": "source",
+          "target_id": "razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        }
+      ],
+      "path": "permanent/the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915.md",
+      "slug": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect",
+      "tags": [],
+      "title": "The theological commentary passes over the shared-God clause as well, so the tradition's silence is not an artefact of the commentators' genres",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915.md"
+    },
+    {
       "id": "202609040610",
       "key": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
       "links": [
@@ -3780,6 +3932,10 @@
         {
           "relation": "elaborates",
           "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915"
         },
         {
           "relation": "supports",
@@ -4418,6 +4574,10 @@
         {
           "relation": "source",
           "target_id": "saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920"
         },
         {
           "relation": "elaborates",
