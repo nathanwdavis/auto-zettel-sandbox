@@ -16,6 +16,39 @@ asked_by: human
 result_notes:
 - the-quran-asserts-co-reference-and-difference-in-one-address--202609032315
 - a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320
+- the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
+- the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120
+- the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
+- the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715
+- the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720
+- the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
+- where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825
+- four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830
+- the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
+- the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
+- the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
+- the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010
+- the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015
+- a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020
+- the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
+- the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
+- the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140
+- the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210
+- the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
+- the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220
+- the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320
+- whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325
+- one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330
+- the-imami-commentaries-claim-the-strict-reading-of-2-221-as-their-own-and-run-the-abrogation-backwards--202609041445
+- the-some-zaydis-attribution-is-classical-and-shii-not-a-modern-sunni-summary--202609041450
+- the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455
+- the-imami-tradition-is-split-on-2-221-so-the-strict-reading-is-the-classical-commentaries-not-the-school--202609041510
+- an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515
+- the-permanence-restriction-survives-the-rejection-of-the-abrogation-as-specification-not-naskh--202609041520
+- a-zaydi-work-of-fiqh-names-al-hadi-and-al-qasim-for-the-strict-reading-so-the-attribution-no-longer-rests-on-one-witness--202609041620
+- an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625
+- both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630
+- the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635
 tags: []
 ---
 

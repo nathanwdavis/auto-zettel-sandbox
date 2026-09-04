@@ -25,8 +25,16 @@ links:
   relation: elaborates
 - target_id: the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840
   relation: elaborates
+- target_id: the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
+  relation: shared-concept
+- target_id: whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720
+  relation: elaborates
+- target_id: the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730
+  relation: elaborates
+- target_id: the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745
+  relation: elaborates
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 The Abrahamic disagreement about God is often located at the question of
 whether the one God admits real internal distinction, sorted by tradition --
@@ -43,7 +51,11 @@ none of them the Infinite. That God is *within* them is stated, not hedged:
 "You are He that binds them, and unites them, and, because You are within
 them." How much reality those distinctions have is the tradition's own long argument
 -- whether the sefirot are God's essence (*atzmut*) or His instruments
-(*kelim*) -- and this passage does not settle it: the ten are "produced", they
+(*kelim*) -- and this passage does not settle it. (That argument was an
+assumption of this note when it was written and is now sourced: Cordovero
+devotes a gate of *Pardes Rimmonim* to it and names both parties, see
+[[whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720]].)
+The ten are "produced", they
 are given "garments" and "bodies", and God is "concealed" in them, all of
 which the instrumentalist reading can absorb. This note reads them in the
 essentialist sense, which is why it is tagged contested; on the
@@ -96,3 +108,16 @@ principles *compel* assent to the Catholic Trinity exactly (see
 That precedent is a warning as much as a corroboration, and the argument
 above deliberately stops short of it. The Jewish respondents to that argument
 remain uncaptured; the gap is recorded in INBOX.
+
+**Added 2026-09-04.** The comparison this note relocates has since been made on
+the merits, from primary texts on both sides, and it does not go the way the
+"axis" framing suggests. The two readings Kabbalah left open — sefirot as
+aspects relative to God's actions, sefirot as instruments distinct from His
+essence — are the two the fourth-century councils ruled out (see
+[[the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730]]),
+and the deeper divergence is not plurality but exhaustiveness: the sefirot have
+a One outside them who is not one of them, and the persons have no fourth (see
+[[the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745]]).
+Neither displaces this note's conclusion, which is about whether the
+internal-distinction axis sorts by tradition; they say that the two internal
+distinctions, once compared, are not the same distinction.

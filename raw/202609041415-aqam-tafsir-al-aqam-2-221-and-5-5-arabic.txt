@@ -1,0 +1,97 @@
+SOURCE CAPTURE — 'Abd Allah ibn 'Abbas al-A'qam (fl. 9th c. AH), Tafsir al-A'qam: the commentary
+on Q 2:221 and on Q 5:5. Arabic, verbatim.
+School/affiliation: Zaydi Shi'i; a late-classical Yemeni Zaydi commentary, the second and later
+of the two works in altafsir.com's Zaydi group that this cycle read.
+
+Why this source. It is the Zaydi commentary that reports the school's own imams by name. Where
+Gharib al-Qur'an glosses a word and stops, al-A'qam records positions and attributes them, which
+is what a test of the claim "some Zaydis hold X" requires.
+
+Retrieved: 2026-09-04T14:15Z
+Host and route: altafsir.com, Tafasir.asp, tMadhNo=5 (تفاسيرالزيدية) tTafsirNo=47, paginated by
+  &Page=N. Read back from the served HTML: `تفاسيرالزيدية` and
+  `تفسير الأعقم/ الأعقم (ت القرن 9 هـ)` — the host dates him only to the ninth century AH and
+  names no year; no closer date is claimed here than the host supplies.
+  Q 2:221 — 1 content page
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 c98cf85981cda41c922773305a0007e11db7066b05df1e096025e70ac341b52c  (97238 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=2  sha256 37fc0c2406d1f1dc5b5a34acc928ad9e3e77fdd2e620995ead03c7567d0a3e79  (96288 bytes)
+      Page=3  sha256 4118db02f5c52e558fb988fcfeaba4e82cfc4bb8b9ecd5457251c59180cc69db  (96288 bytes)
+  Q 5:5 — 1 content page
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 a82790542ee70d72557cf732c5a3592c5bf60944d33622d54c14ab03725d829c  (92759 bytes)
+    exhaustion probes, verse text only, no commentary:
+      Page=2  sha256 465758f469b480b549134b2a494bf7549f3eb6a8a30532397fd4d8a558274599  (90952 bytes)
+      Page=3  sha256 4f513246bf67a908ef7bf59790e49dbde4dbabf4b7c936e7419046cb86beefd7  (90952 bytes)
+  A third section, Q 112:1 (1 content page, sha256
+    62d702a38c3e20aa5886323bbea44de4967627ad9830ae45b60f3e06dfd73d15), was fetched in the same
+    pass as the chrome control and is NOT reproduced below.
+
+NOTE ON SECTION BOUNDARIES. This host serves a section per ayah, but a commentary that treats
+several verses in one passage is served whole under each of them. Both sections below therefore
+open with more than one verse of Qur'anic text: the Q 2:221 section runs on into Q 2:222-223, and
+the Q 5:5 section opens with Q 5:4. Nothing was trimmed; the surrounding material is part of the
+served text and is left where the commentator put it.
+
+ONE HOST ONLY, as for the other Zaydi capture taken in this pass.
+
+EDITION. No printed edition is named by the host and none is claimed; locators are by sura:aya.
+TRANSFORMATION APPLIED, AND THE ONLY ONE. altafsir.com serves windows-1256; the
+bytes were decoded as cp1256 and the numeric HTML entities this site uses for
+Arabic (`&#1649;`-style) were unescaped. `<script>`, `<style>` and `<select>`
+elements were removed WHOLE, contents included, before anything else — they are
+machinery and form controls rather than text. BLOCK-level tags (br, p, div, tr,
+td, table, center, h1-h6, li, ul, ol, hr, form) were replaced by a newline;
+INLINE tags (font, b, a, span) were removed without inserting anything, so a
+lemma the site wraps per-word stays on one line with its `{ }` intact. Runs of
+spaces were collapsed. Site chrome was removed by cross-section frequency — a
+line occurring in three or more of the independently fetched pages is
+navigation. NOTHING was removed for being short and nothing for being numeric;
+the one length test in the pipeline runs the other way, WITHHOLDING lines over
+120 characters from the chrome remover so that a section's verse text, which is
+reprinted on every page of that section, cannot be mistaken for navigation once
+the section runs to three pages or more. Not one Arabic character was added,
+removed or reordered, and the vocalisation is as served. The SHA-256 of each
+page is of the bytes exactly as served, so the transformation is reversible
+from the URL.
+
+HOW EXHAUSTION WAS ESTABLISHED, AND WHY THE PREVIOUS RULE WAS WRONG. This base's
+standing access note said a page with a successor carries a `التالي` control.
+That is true of page 1 and of page 1 only: interior pages render the same
+forward control with the ENGLISH alt `Next`, and — the part that matters — the
+control is served INDEFINITELY, on empty pages past the end of a section as
+well as inside it. Testing for `التالي` therefore stops every section at two
+pages, and testing for either alt never stops at all. Neither control is
+evidence. What is evidence is the text: every page of a section reprints that
+section's verse as one long line, and a page carrying commentary carries more
+than that one line. Each section below was read until a page came back with the
+verse alone, and the TWO pages after the last content page were then fetched and
+are recorded, so that a single empty page inside a section could not have ended
+the read early. The rule and this capture's page counts are what the accompanying
+INBOX entry reports.
+
+========================================================================
+CAPTURED TEXT BEGINS
+========================================================================
+
+===== SECTION Q 2:221 =====
+--- Page=1  97238 bytes  sha256 c98cf85981cda41c922773305a0007e11db7066b05df1e096025e70ac341b52c
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=2&tAyahNo=221&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 2   البقرة | تفاسيرالزيدية | تفسير الأعقم/ الأعقم (ت القرن 9 هـ)
+    EXHAUSTION probe Page=2: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 96288 bytes, sha256 37fc0c2406d1f1dc5b5a34acc928ad9e3e77fdd2e620995ead03c7567d0a3e79
+    EXHAUSTION probe Page=3: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 96288 bytes, sha256 4118db02f5c52e558fb988fcfeaba4e82cfc4bb8b9ecd5457251c59180cc69db
+----- body Page=1 -----
+Altafsir.com -تفسير ايآت القرآن الكريم (47-5-221-2)
+{ وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ وَلأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ وَلاَ تُنْكِحُواْ ٱلْمُشِرِكِينَ حَتَّىٰ يُؤْمِنُواْ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُوْلَـٰئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوۤاْ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ } * { وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُواْ ٱلنِّسَآءَ فِي ٱلْمَحِيضِ وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّابِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ } * { نِسَآؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُواْ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ وَقَدِّمُواْ لأَنْفُسِكُمْ وَٱتَّقُواْ ٱللَّهَ وَٱعْلَمُوۤاْ أَنَّكُمْ مُّلاَقُوهُ وَبَشِّرِ ٱلْمُؤْمِنِينَ }
+قوله تعالى: { ولا تنكحوا المشركات } الآية، قيل: نزلت في مرثد بن ابي مرثد بعثه رسول الله (صلى الله عليه وآله وسلم) الى مكة ليخرج ناساً منها من المسلمين وكان رجلاً قوياً شجاعاً فرأته إمرأة تسمَّى عناق من اصحاب الرايات الى نفسها فأبى وقال لها: ان الله تعالى حرم الزنا، قالت: فانكحني، قال: حتى أستأذن رسول الله (صلى الله عليه وآله وسلم) فنزلت الآية وهي تدل على تحريم نكاح المشركة { ولا تنكحوا المشركين } الآية تدل على تحريم تزويج الكفار بالمسلمة والاجماع على ذلك { ويسألونك عن المحيض قل هو أذى } الآية، قيل: كانوا في الجاهلية يجتنبون مواكلة الحائض ومشاربتها ومجالستها كفعل اليهود والمجوس فسألوا النبي (صلى الله عليه وآله وسلم) عن ذلك فنزلت الآية، وقيل: كانوا يأتون النساء في أدبارهن أيام الحيض فلما سألوا عنه بيّن تحريمه، قوله تعالى: { نساؤكم حرث لكم } الآية نزلت في اليهود لما قالوا: إذا أتى الرجل المرأة من خلفها في قبلها خرج الولد أحول فذكر ذلك لرسول الله (صلى الله عليه وآله وسلم) فكذبهم الله ونزلت الآية: { فأتوا حرثكم أنّى شئتم } جامعوا كيف شئتم من حيث امركم الله عبَّر بالحرث عن الفرج مجازاً والنطفة بالبذر والولد بالزرع والآية تدل على أنّ للرجل أن يأتي المرأة في قبلها كيف شاء وتدل على بطلان من أباح اتيان النساء في أدبارهن على ما يحكى عن مالك لأنه ليس بموضع حرث وقد وردت السنَّة بتحريمه وتعظيم الأمر فيه { وقدموا لأنفسكم } ما يجب تقديمه من الأعمال الصالحة، وقيل: هو طلب الولد، وقيل: التسميَة عند الوطء.
+===== SECTION Q 5:5 =====
+--- Page=1  92759 bytes  sha256 a82790542ee70d72557cf732c5a3592c5bf60944d33622d54c14ab03725d829c
+    https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=5&tAyahNo=5&tDisplay=yes&Page=1&Size=1&LanguageId=1
+    selected: 5   المائدة | تفاسيرالزيدية | تفسير الأعقم/ الأعقم (ت القرن 9 هـ)
+    EXHAUSTION probe Page=2: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 90952 bytes, sha256 465758f469b480b549134b2a494bf7549f3eb6a8a30532397fd4d8a558274599
+    EXHAUSTION probe Page=3: 1 line(s) over 120 chars (1 = the verse text alone, no commentary); 90952 bytes, sha256 4f513246bf67a908ef7bf59790e49dbde4dbabf4b7c936e7419046cb86beefd7
+----- body Page=1 -----
+Altafsir.com -تفسير ايآت القرآن الكريم (47-5-5-5)
+{ يَسْأَلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَاتُ وَمَا عَلَّمْتُمْ مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُواْ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُواْ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُواْ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ } * { ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيّبَـٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَا ءاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلاَ مُتَّخِذِيۤ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي ٱلآخِرَةِ مِنَ ٱلْخَٰسِرِينَ }
+{ يسألونك ماذا أُحلَّ لهم } من المطاعم كأنهم حين تلا عليهم ما حرم عليهم من خبائث المأكل سألوا عمَّا أحلَّ لهم منها، فقيل: { أُحلَّ لكم الطيبات } أي ما ليس بخبيث منها، وهو كل ما لم يأت تحريمه في كتاب أو سنَّة أو قياس مجتهد { وما عَلَّمْتُم من الجوارح } عطف على الطيبات والجوارح الكواسب من سباع البهائم والطيور والكلب والفهد والنمر والعقاب { مُكلِّبِين } ، المكلب مؤدب الجوارح ومضربها بالصيد ورائضها لذلك بما علم من الجبل وطرق التأديب، وإنما خصَّ الكلب لأن التأديب أكثر ما يكون فيه، أو لأن السبع يسمى كلباً، ومنه قوله (عليه السلام): " اللهم سلِّط عليه كلباً من كلابك " فأكله الأسد { تعلِّمُونهنَّ مِمَّا علَّمكم الله } من علم التكليب لأنه الهام من الله، ومكتسب بالعقل، وقيل: مما عرفكم أن تعلموه من اتباع الصيد، وإرسال صاحبه، وانزجاره بزجرة، وانصرافه بدعائه. قال جار الله: فإن قلتَ: إلى ما يرجع الضمير في قوله: { واذكروا اسم الله عليه }؟ قلتُ: إما أن يرجع إلى ما أمسكن على معنى وسموا عليه إذا أدركتم ذكاته أو إلى: { ما علَّمْتُم من الجوارح } أي سموا عليه عند إرساله اليوم، قيل: أراد الوقت يوم نزوله { أحلَّ لكم الطيبات } يعني أبيح لكم الحلال من الذبائح والمطاعم { وطعام الذين أُوتوا الكتاب } قيل: هو ذبائحهم، وقيل: جميع مطاعمهم، وقيل: لا تحل ذبائحهم، والمراد بالمطاعم الحنطة والشعير عن القاسم ويحيى (عليهم السلام) { وطعامكم حلٌّ لهم } فلا عليكم أن تطعمونهم، وقيل: أراد الذبائح { والمحصنات } الحرائر العفائف وتخصيصهنَّ نعت على تخيير المؤمنين لنطفهم والإِماء من المسلمين يصح نكاحهنَّ بالاتفاق { والمحصنات من الذين أُوتوا الكتاب } هم اليهود والنصارى، واختلفوا في معناه قيل: نساء أهل الكتاب عن أكثر المفسرين والذين آمنوا منهم إزالة الشبهة أي من كانت يهودية فآمنت يجوز أن يتزوج بها عن يحيى والقاسم (عليهم السلام)، وقيل: أراد الحرائر من أهل الكتاب فتحلَّ الحرائر، ولا تحل الإِماء عن مجاهد وجماعة، وإليه ذهب الشافعي { ولا متخذي أخدان } ، حرائر والخدن يقع على الذكر والأنثى { ومن يكفر بالإِيمان } الذي أنزل على محمد (صلى الله عليه وآله وسلم) { وهو في الآخرة من الخاسرين }.

@@ -50,7 +50,7 @@ verification:
   source: https://openlibrary.org/isbn/3531115332
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:32Z'
+  date: '2026-09-04T16:23:05Z'
 raw_capture: raw/202609010110-luhmann-communicating-with-slip-boxes.txt
 links: []
 created: '2026-09-01'

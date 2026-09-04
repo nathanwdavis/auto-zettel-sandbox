@@ -59,9 +59,8 @@ site; the paper's colophon carries the publication date (April 2007) and the
 Institute's copyright. Capture is bounded excerpts: the summary, the "Natural
 Theology" section entire, and the paragraph opening p. 3.
 
-No `identifier_check` is recorded here, deliberately: this paper has no DOI,
-ISBN, PMID or arXiv id to check. A live `verify_refs.py` run stamps
-`identifier_check: failed` on it anyway, because `citations.arxiv_id()` reads
+`identifier_check: failed` is recorded here by the live `verify_refs.py` run, even
+though this paper has no DOI, ISBN, PMID or arXiv id to check, because `citations.arxiv_id()` reads
 the CSL `number` field as an arXiv identifier and a Faraday Paper's `number` is
 its series number — the run queries arXiv for `id_list=1`, finds nothing, and
 records a rot that does not exist. The false line was removed rather than the

@@ -43,7 +43,7 @@ verification:
   source: https://openlibrary.org/isbn/9780521855310
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:34Z'
+  date: '2026-09-04T16:23:11Z'
 raw_capture: raw/202609011500-plantinga-two-dozen-excerpts.txt
 links: []
 created: '2026-09-01'

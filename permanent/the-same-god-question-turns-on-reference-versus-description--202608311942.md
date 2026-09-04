@@ -33,8 +33,10 @@ links:
   relation: elaborates
 - target_id: a-common-word-locates-the-shared-ground-in-command-not-reference--202609032320
   relation: elaborates
+- target_id: the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
+  relation: contradicts
 created: '2026-08-31'
-updated: '2026-09-03'
+updated: '2026-09-04'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One

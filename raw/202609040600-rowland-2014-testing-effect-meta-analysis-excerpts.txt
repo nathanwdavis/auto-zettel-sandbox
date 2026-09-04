@@ -1,0 +1,296 @@
+CAPTURE: Christopher A. Rowland, "The Effect of Testing Versus Restudy on
+         Retention: A Meta-Analytic Review of the Testing Effect",
+         Psychological Bulletin 140, no. 6 (2014): 1432-1463.
+DOI: 10.1037/a0037559
+PMID: 25150680
+FETCHED: 2026-09-04T05:56Z
+SOURCE URL (what actually returned the article):
+  https://courseware.epfl.ch/assets/courseware/v1/fdde2f0aa590bf3b1324077a6bf1540c/asset-v1:EPFL+DEMO+2020+type@asset+block/Rowland2014-meta-analysis.pdf
+PROVENANCE, and it is documented on the file's own first page rather than
+  inferred: the PDF carries a ResearchGate cover sheet reading "All content
+  following this page was uploaded by Christopher A Rowland on 10 February
+  2016", with the RG publication id 264988491 and the author's affiliation at
+  time of upload (Eckerd College). So the file originates in the AUTHOR'S OWN
+  deposit of his own article -- rung (c) of the house access ladder
+  (skills/source-access-triage), author self-archiving -- and the copy this
+  cycle obtained is a re-host of that file as a course asset on the EPFL
+  courseware server. Not a scraper mirror and not a pirate site; the chain from
+  author to this capture is stated on page 1 of the document itself.
+BYTES: 307,294
+SHA-256: f038ae8cec85ecb96d1c1216c2e27109ed86d2fb4c1f303837ced7ee54ccebd4
+PAGES: 34 PDF pages = 1 ResearchGate cover + 1 APA advance-online cover +
+  32 article pages numbered 1-32 in the running foot ("N ROWLAND" on versos,
+  "N TESTING META-ANALYSIS" on rectos). Article page n = PDF page n - 2,
+  checked against the running foot rather than assumed.
+EXTRACTION: pypdf 6.16.2 text layer, real text layer, no OCR.
+
+THIS IS AN EXCERPT CAPTURE, not a full-text capture, AND THE REASON IS PRINTED
+ON EVERY PAGE OF THE SOURCE. Each page of the article carries the notice "This
+document is copyrighted by the American Psychological Association or one of its
+allied publishers. This article is intended solely for the personal use of the
+individual user and is not to be disseminated broadly." This repository is
+public. The full 32-page text was read for the notes it grounds; only the
+passages below are committed, and anything quoted here can be re-derived from
+the URL and checksum above. This is the same treatment the base already gives
+the Karpicke 2025 chapter (raw/202609040325-...), and it is a departure from
+the full-text captures of Roediger and Karpicke 2006, Agarwal et al. 2008 and
+Agarwal, Nunes and Blunt 2021, which were author-posted or gold open access.
+
+PAGINATION LIMIT, stated here so no note in this base forgets it. This is the
+ADVANCE ONLINE PUBLICATION version (its cover page reads "Online First
+Publication, August 25, 2014"), whose own pages run 1-32. The version of record
+runs pp. 1432-1463 of Psychological Bulletin 140.6. The two cannot be converted
+without the typeset copy, which this environment could not obtain. Every
+locator this base takes from this source therefore reads *advance online, p. N*
+and never a journal page.
+
+WHY THIS SOURCE. It is the third and most independent of the three audits of
+the retrieval-practice literature named in
+karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330,
+and the only one written from outside the Roediger-Karpicke line: Rowland was
+at Colorado State University with no authorship on any paper this base cites.
+INBOX has named it the highest-value outstanding item for two cycles.
+
+TEXT-LAYER ARTIFACTS: the APA typesetting encodes mathematical symbols as
+private-use glyph names that pypdf emits literally -- /H11005 for "=", /H11021 for
+"<", /H11022 for ">", /H11002 for a minus sign, /H11350 for ">=", /H11569 for a
+significance asterisk. Every one of these is silently expanded to the symbol it
+denotes in the excerpts below; no word content is affected. Hyphenation at line
+ends is joined. Where a numeric value appears below it was read from the
+expanded text and checked against the surrounding sentence.
+
+--- EXCERPTS, article pages of the advance online version, verbatim apart from
+--- the artifact expansions described above.
+
+[p. 1, abstract, complete]
+
+"Engaging in a test over previously studied information can serve as a potent
+learning event, a phenomenon referred to as the testing effect. Despite a surge
+of research in the past decade, existing theories have not yet provided a
+cohesive account of testing phenomena. The present study uses meta-analysis to
+examine the effects of testing versus restudy on retention. Key results indicate
+support for the role of effortful processing as a contributor to the testing
+effect, with initial recall tests yielding larger testing benefits than
+recognition tests. Limited support was found for existing theoretical accounts
+attributing the testing effect to enhanced semantic elaboration, indicating that
+consideration of alternative mechanisms is warranted in explaining testing
+effects. Future theoretical accounts of the testing effect may benefit from
+consideration of episodic and contextually derived contributions to retention
+resulting from memory retrieval. Additionally, the bifurcation model of the
+testing effect is considered as a viable framework from which to characterize
+the patterns of results present across the literature."
+
+Keywords, same page: "testing effect, retrieval practice, meta-analysis, memory,
+retrieval". Byline affiliation, same page: "Colorado State University".
+
+[p. 6, the retention-interval boundary condition as the literature stated it
+before this meta-analysis]
+
+"There is substantial agreement in the literature that testing effects emerge
+following long retention intervals (of days or weeks). However, many researchers
+have observed that testing effects are of lesser magnitude, null, or even
+reverse to restudy advantages, at short"
+
+-- sentence continues "retention intervals on the order of minutes (e.g.,
+Bouwmeester & Verkoeijen, 2011; Congleton & Rajaram, 2012; Roediger & Karpicke
+2006b; Toppino & Cohen, 2009; Wheeler et al., 2003)." NOTE the range named by
+the paper's own framing of the question: minutes at one end, days or weeks at
+the other. Nothing in this article is measured at semester length or beyond.
+
+[p. 8, inclusion and exclusion criteria; the classroom exclusion is criterion
+(d) and is quoted in full because it is load-bearing for this base]
+
+"Studies must have (a) assessed memory performance for the same information that
+was initially tested and/or restudied (k = 4 studies removed); (b) treated all
+information equally in both test and restudy conditions (k = 3 studies removed);
+(c) not instructed participants to restrict output of certain items at the final
+assessment (k = 1 study removed); (d) not assessed participant learning of
+information for a real or simulated class in which they were enrolled (k = 13
+studies eliminated; but see Bangert-Drowns et al., 1991, for a relevant
+meta-analysis); and (e) not utilized a clinical participant population (k = 1
+study removed)."
+
+[p. 8, the final sample]
+
+"One hundred and fifty-nine effect sizes drawing from data reported in 61
+studies, published or otherwise reported from 1975 through 2013, met inclusion
+criteria and were used in the analysis."
+
+Search close date, same page: "gathered by March 2013". Initial yield, same
+page: "308 published and 23 unpublished studies".
+
+[p. 11, the two data sets]
+
+"Analyses were carried out on a primary, full data set (k = 159), along with a
+supplementary high-exposure (k = 92) data set. The full data set included all
+studies selected for the meta-analysis, whereas the high-exposure data set
+included only those studies that either provided feedback or yielded greater
+than 75% initial test performance."
+
+[p. 12, Figure 1, stem-and-leaf plot of all 159 effect sizes -- transcribed
+here as counts per stem, not as the plot's own layout. The leaf counts sum to
+exactly 159, which is how this transcription was checked.]
+
+  stem : count of leaves
+  -1.5:1  -1.4:0  -1.3:0  -1.2:2  -1.1:2  -1.0:0  -0.9:0  -0.8:0  -0.7:1
+  -0.6:1  -0.5:4  -0.4:2  -0.3:3  -0.2:2  -0.1:6  -0.0:4
+   0.0:7   0.1:5   0.2:12  0.3:11  0.4:8   0.5:14  0.6:9   0.7:10  0.8:15
+   0.9:9   1.0:6   1.1:5   1.2:4   1.3:4   1.4:2   1.5:1   1.6:1   1.7:2
+   1.8:0   1.9:2   2.0:2   2.1:0   2.2:1   2.3:0   2.4:0   2.5:0   2.6:0
+   2.7:1
+  Negative stems total 28; non-negative stems total 131; sum 159.
+  Figure caption, verbatim: "Stem-and-leaf plot of effect sizes included in the
+  meta-analysis."
+
+[p. 13, Table 1, Full Data Set Categorical Moderator Analyses -- the rows this
+base uses. Columns are g, 95% CI lower limit, upper limit, k. QB values are the
+between-levels heterogeneity tests; ** = p < .01, * = p < .05.]
+
+  Publication status            QB = 13.04 **
+    Published        0.58  0.49  0.67  122
+    Unpublished      0.25  0.10  0.41   37
+  Sample source                 QB = 0.83 (n.s.)
+    College          0.49  0.40  0.58  136
+    Other            0.59  0.40  0.77   23
+  Initial test type             QB = 13.84 **
+    Cued recall      0.61  0.52  0.69  104
+    Free recall      0.29  0.07  0.52   36
+    Recognition      0.29  0.10  0.47   19
+  Retention interval (categorical)  QB = 11.65 **
+    < 1 day          0.41  0.31  0.51  103
+    >= 1 day         0.69  0.56  0.81   56
+
+[p. 14, Table 2, High-Exposure Data Set Categorical Moderator Analyses -- the
+rows this base uses.]
+
+  Publication status            QB = 0.42 (n.s.)
+    Published        0.67  0.56  0.77   79
+    Unpublished      0.60  0.42  0.78   13
+  Retention interval (categorical)  QB = 4.14 *
+    < 1 day          0.58  0.47  0.70   57
+    >= 1 day         0.78  0.63  0.94   35
+
+[p. 13, the publication-status result in the author's own words]
+
+"Heterogeneity was detected between levels in the publication status moderator
+analysis. Studies classified as published had a larger mean weighted effect size
+(g = 0.58, CI [0.49, 0.67]) than those unpublished (g = 0.25, CI [0.10, 0.41]),
+although both were reliably greater than 0. However, caution is recommended in
+interpreting this difference, as no difference between published and unpublished
+effect sizes was present in the high-exposure data"
+
+-- sentence continues "set (g = 0.66 and 0.60, respectively). A closer look at
+the data suggests that unpublished reports typically had lower initial test
+performance and no feedback. The issue of publication bias will be returned to
+later in the Discussion." [pp. 13-14]
+
+[p. 15, the retention-interval categorical result]
+
+"The categorical moderator analysis of retention interval yielded significant
+heterogeneity between levels. Studies with retention intervals of at least 1 day
+were associated with larger testing effects (g = 0.69, CI [0.56, 0.81]) than
+those with retention intervals less than 1 day (g = 0.41, CI [0.31, 0.51])."
+
+[p. 15, retrievability and reexposure -- the boundary condition]
+
+"The moderator analysis of retrievability and reexposure yielded heterogeneity
+between levels. Studies not providing feedback yielded a positive relationship
+between initial retrieval success and the magnitude of the testing effect, such
+that initial test performance less than or equal to 50% did not produce a
+reliable testing effect (g = 0.03, CI [-0.21, 0.27], p = .79), whereas reliable
+testing advantages were found following 51%-75% initial retrieval success
+(g = 0.29, CI [0.08, 0.49]) and greater than 75% initial retrieval success
+(g = 0.56, CI [0.42, 0.70]). Studies with feedback, regardless of retrieval
+success, yielded the numerically largest testing effects (g = 0.73, CI [0.61,
+0.86])."
+
+[p. 15, feedback as a moderator]
+
+"The moderator analysis of feedback yielded significant heterogeneity between
+levels, with studies providing feedback (i.e., a re-presentation of originally
+studied information at least once after a testing opportunity) yielding larger
+testing effects (g = 0.73, CI [0.61, 0.86]) than studies not providing feedback
+(g = 0.39, CI [0.29, 0.49]). Despite the feedback advantage, studies not
+providing feedback still reliably produced testing effects, indicating that even
+when total exposure time to information is biased against the test condition (as
+tests are rarely performed with perfect accuracy), a benefit of retrieval over
+restudy can still reliably emerge."
+
+[p. 16, the continuous moderator result and the headline estimate]
+
+"In both data sets, only the continuous retention interval analysis was
+significant. As in the corresponding categorical moderator analysis, the
+magnitude of the testing effect appears to grow with the duration of the
+retention interval."
+
+"Using meta-analysis, the present study demonstrates the reliability of the
+testing effect. The estimated mean weighted testing effect generated by the
+random-effects model was positive (g = 0.50, CI [0.42, 0.58]) and statistically
+reliable (p < .001)."
+
+[p. 16, Table 3 / Table 4 slope estimates for log retention interval, read from
+the tables: full data set b = 0.08304, SE 0.02651, CI [0.03108, 0.13500],
+Z = 3.13, p < .05; high-exposure data set b = 0.06238, SE 0.02942, CI [0.00472,
+0.12005], Z = 2.12, p < .05.]
+
+[p. 18, the retention-interval discussion]
+
+"The present meta-analysis does show that testing effects are larger in
+magnitude following longer retention intervals, confirming the pattern of
+results often observed in the literature. However, an additional key finding is
+that testing reliably benefits retention compared with restudy even at short
+intervals."
+
+[p. 20, the publication-bias limitation]
+
+"A primary issue is that of publication bias (often referred to as the file
+drawer problem; Rosenthal, 1979). That is, because most academic journals rarely
+publish null results, the published literature may provide a skewed portrait of
+the phenomena of interest (i.e., null results are likely to gather dust in one's
+file drawer)."
+
+"A direct means to reduce publication bias is to include unpublished studies in
+a meta-analysis. For the present meta-analysis, I included both published and
+unpublished studies that met inclusion criteria. An indication of possible
+publication bias was detected from the analysis of publication status in the
+full data set, such that published studies produced larger testing effects;
+unpublished studies produced smaller, though statistically reliable effects."
+
+"More important, many of the more popular techniques provide skewed to
+potentially misleading information, especially in the presence of substantial
+heterogeneity, as was the case in the present study"
+
+"A more useful means for the present meta-analysis was to investigate whether
+the unpublished reports were biased in a manner that related to identified
+factors that impact the testing effect. This was the case, with effect sizes
+derived from unpublished studies (k = 37) appearing to cluster within two
+moderators that were found to substantially impact the magnitude of the testing
+effect: feedback (which was absent in 89% of effect sizes derived from
+unpublished studies) and relatively low initial test performance (M = 59% for
+effect sizes derived from those unpublished studies reporting the data)."
+
+[p. 21, the conclusion the author draws from that]
+
+"The high-exposure data set mitigated these confounds and, in the publication
+status analysis, revealed that unpublished studies produced similarly sized
+testing effects as published studies. As a result, the unreliable testing effect
+found in the unpublished studies in the full data set was very likely
+attributable to the designs and procedures employed, thereby leading to a
+negatively biased effect estimate."
+
+--- NEGATIVE SEARCH, run over the extracted text of all 34 PDF pages, case
+--- insensitive. This is the fourth retrieval-practice source on which this base
+--- has run it, and the count is the point.
+
+  "note-taking"      0
+  "note taking"      0
+  "notetaking"       0
+  "notes"            1   (a single occurrence, and not about note-taking)
+  "external memory"  0
+  "offloading"       0
+  "slip box"         0
+  "zettelkasten"     0
+  "transactive"      0
+
+Nothing in the most independent audit of the retrieval-practice literature
+concerns note-taking, externalised memory, accumulation or linking.

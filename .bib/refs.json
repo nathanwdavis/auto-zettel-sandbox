@@ -1130,5 +1130,639 @@
     "publisher-place": "Amman",
     "title": "A Common Word Between Us and You",
     "type": "report"
+  },
+  {
+    "URL": "https://www.acommonword.com/the-acw-document/",
+    "author": [
+      {
+        "literal": "138 Muslim scholars, clerics and intellectuals"
+      }
+    ],
+    "id": "202609040058",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          13
+        ]
+      ]
+    },
+    "publisher": "The Royal Aal al-Bayt Institute for Islamic Thought",
+    "publisher-place": "Amman, Jordan",
+    "title": "A Common Word Between Us and You",
+    "type": "report"
+  },
+  {
+    "DOI": "10.1177/0956797614524581",
+    "PMID": "24760141",
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "Pam A."
+      },
+      {
+        "family": "Oppenheimer",
+        "given": "Daniel M."
+      }
+    ],
+    "container-title": "Psychological Science",
+    "id": "202609040155",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          6
+        ]
+      ]
+    },
+    "page": "1159-1168",
+    "publisher": "SAGE Publications",
+    "title": "The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "DOI": "10.1007/s10648-019-09468-2",
+    "author": [
+      {
+        "family": "Morehead",
+        "given": "Kayla"
+      },
+      {
+        "family": "Dunlosky",
+        "given": "John"
+      },
+      {
+        "family": "Rawson",
+        "given": "Katherine A."
+      }
+    ],
+    "container-title": "Educational Psychology Review",
+    "id": "202609040156",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "page": "753-780",
+    "publisher": "Springer",
+    "title": "How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014)",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "DOI": "10.1111/j.1467-9280.2006.01693.x",
+    "author": [
+      {
+        "family": "Roediger",
+        "given": "Henry L.",
+        "suffix": "III"
+      },
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      }
+    ],
+    "container-title": "Psychological Science",
+    "id": "202609040305",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    "page": "249-255",
+    "publisher": "SAGE Publications",
+    "title": "Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "DOI": "10.1002/acp.1391",
+    "author": [
+      {
+        "family": "Agarwal",
+        "given": "Pooja K."
+      },
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      },
+      {
+        "family": "Kang",
+        "given": "Sean H. K."
+      },
+      {
+        "family": "Roediger",
+        "given": "Henry L.",
+        "suffix": "III"
+      },
+      {
+        "family": "McDermott",
+        "given": "Kathleen B."
+      }
+    ],
+    "container-title": "Applied Cognitive Psychology",
+    "id": "202609040315",
+    "issue": "7",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "861-876",
+    "publisher": "Wiley",
+    "title": "Examining the Testing Effect with Open- and Closed-Book Tests",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "DOI": "10.1016/B978-0-443-15754-7.00074-2",
+    "ISBN": "9780443157554",
+    "author": [
+      {
+        "family": "Karpicke",
+        "given": "Jeffrey D."
+      }
+    ],
+    "chapter-number": "4.21",
+    "container-title": "Learning and Memory: A Comprehensive Reference",
+    "edition": "3",
+    "id": "202609040325",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "411-441",
+    "publisher": "Elsevier",
+    "title": "Retrieval-based learning",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1007/s10648-021-09595-9",
+    "author": [
+      {
+        "family": "Agarwal",
+        "given": "Pooja K."
+      },
+      {
+        "family": "Nunes",
+        "given": "Ludmila D."
+      },
+      {
+        "family": "Blunt",
+        "given": "Janell R."
+      }
+    ],
+    "container-title": "Educational Psychology Review",
+    "id": "202609040505",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          14
+        ]
+      ]
+    },
+    "page": "1409-1453",
+    "publisher": "Springer",
+    "title": "Retrieval Practice Consistently Benefits Student Learning: a Systematic Review of Applied Research in Schools and Classrooms",
+    "type": "article-journal",
+    "volume": "33"
+  },
+  {
+    "DOI": "10.1037/a0037559",
+    "PMID": "25150680",
+    "author": [
+      {
+        "family": "Rowland",
+        "given": "Christopher A."
+      }
+    ],
+    "container-title": "Psychological Bulletin",
+    "id": "202609040600",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1432-1463",
+    "publisher": "American Psychological Association (APA)",
+    "title": "The effect of testing versus restudy on retention: A meta-analytic review of the testing effect.",
+    "type": "article-journal",
+    "volume": "140"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/15/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn Jarīr al-Ṭabarī"
+      }
+    ],
+    "id": "202609040700",
+    "issued": {
+      "date-parts": [
+        [
+          923
+        ]
+      ]
+    },
+    "title": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/90/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Qurṭubī"
+      }
+    ],
+    "id": "202609040800",
+    "issued": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "title": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/14/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Ismāʿīl ibn ʿUmar Ibn Kathīr"
+      }
+    ],
+    "id": "202609040802",
+    "issued": {
+      "date-parts": [
+        [
+          1373
+        ]
+      ]
+    },
+    "title": "Tafsīr al-Qurʾān al-ʿAẓīm",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/94/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū Muḥammad al-Ḥusayn ibn Masʿūd al-Baghawī"
+      }
+    ],
+    "id": "202609040804",
+    "issued": {
+      "date-parts": [
+        [
+          1122
+        ]
+      ]
+    },
+    "title": "Maʿālim al-tanzīl",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/91/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "ʿAbd al-Raḥmān ibn Nāṣir al-Saʿdī"
+      }
+    ],
+    "id": "202609040806",
+    "issued": {
+      "date-parts": [
+        [
+          1956
+        ]
+      ]
+    },
+    "title": "Taysīr al-Karīm al-Raḥmān fī tafsīr kalām al-Mannān",
+    "type": "book"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/16/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Nukhbat min ʿulamāʾ al-tafsīr (committee)"
+      }
+    ],
+    "id": "202609040808",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "publisher": "Majmaʿ al-Malik Fahd li-ṭibāʿat al-muṣḥaf al-sharīf",
+    "publisher-place": "Medina",
+    "title": "al-Tafsīr al-muyassar",
+    "type": "book"
+  },
+  {
+    "URL": "https://tafsir.app/alrazi/29/46",
+    "author": [
+      {
+        "literal": "Fakhr al-Dīn Muḥammad ibn ʿUmar al-Rāzī"
+      }
+    ],
+    "id": "202609040905",
+    "issued": {
+      "date-parts": [
+        [
+          1210
+        ]
+      ]
+    },
+    "title": "Mafātīḥ al-ghayb",
+    "type": "book"
+  },
+  {
+    "URL": "https://tafsir.app/kashaf/29/46",
+    "author": [
+      {
+        "literal": "Abū al-Qāsim Maḥmūd ibn ʿUmar al-Zamakhsharī"
+      }
+    ],
+    "id": "202609041000",
+    "issued": {
+      "date-parts": [
+        [
+          1144
+        ]
+      ]
+    },
+    "title": "al-Kashshāf ʿan ḥaqāʾiq ghawāmiḍ al-tanzīl",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn al-Ḥasan al-Ṭūsī"
+      }
+    ],
+    "id": "202609041100",
+    "issued": {
+      "date-parts": [
+        [
+          1067
+        ]
+      ]
+    },
+    "title": "al-Tibyān al-jāmiʿ li-ʿulūm al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=3&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAlī al-Faḍl ibn al-Ḥasan al-Ṭabrisī"
+      }
+    ],
+    "id": "202609041105",
+    "issued": {
+      "date-parts": [
+        [
+          1153
+        ]
+      ]
+    },
+    "title": "Majmaʿ al-bayān fī tafsīr al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=7&tTafsirNo=57&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad Sayyid Ṭanṭāwī"
+      }
+    ],
+    "id": "202609041110",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "title": "al-Tafsīr al-Wasīṭ li-l-Qurʾān al-Karīm",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Manṣūr Muḥammad ibn Muḥammad al-Māturīdī"
+      }
+    ],
+    "id": "202609041200",
+    "issued": {
+      "date-parts": [
+        [
+          944
+        ]
+      ]
+    },
+    "title": "Taʾwīlāt ahl al-sunna",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=5&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Qurṭubī"
+      }
+    ],
+    "id": "202609041300",
+    "issued": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "title": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=9&tTafsirNo=85&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad ʿAlī al-Ṣābūnī"
+      }
+    ],
+    "id": "202609041305",
+    "issued": {
+      "date-parts": [
+        [
+          1972
+        ]
+      ]
+    },
+    "title": "Tafsīr āyāt al-aḥkām",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=39&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn al-Ḥasan al-Ṭūsī"
+      }
+    ],
+    "id": "202609041400",
+    "issued": {
+      "date-parts": [
+        [
+          1067
+        ]
+      ]
+    },
+    "title": "al-Tibyān al-jāmiʿ li-ʿulūm al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=3&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū ʿAlī al-Faḍl ibn al-Ḥasan al-Ṭabrisī"
+      }
+    ],
+    "id": "202609041405",
+    "issued": {
+      "date-parts": [
+        [
+          1153
+        ]
+      ]
+    },
+    "title": "Majmaʿ al-bayān fī tafsīr al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=89&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Zayd ibn ʿAlī ibn al-Ḥusayn (attributed)"
+      }
+    ],
+    "id": "202609041410",
+    "issued": {
+      "date-parts": [
+        [
+          740
+        ]
+      ]
+    },
+    "title": "Gharīb al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=5&tTafsirNo=47&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "ʿAbd Allāh ibn ʿAbbās al-Aʿqam"
+      }
+    ],
+    "id": "202609041415",
+    "issued": {
+      "date-parts": [
+        [
+          1400
+        ]
+      ]
+    },
+    "title": "Tafsīr al-Aʿqam",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=4&tTafsirNo=56&tSoraNo=2&tAyahNo=221&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Muḥammad Ḥusayn al-Ṭabāṭabāʾī"
+      }
+    ],
+    "id": "202609041500",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "title": "al-Mīzān fī tafsīr al-Qurʾān",
+    "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/1_20191217_20191217_1729",
+    "author": [
+      {
+        "literal": "ʿAbd Allāh b. Abī al-Qāsim Ibn Miftāḥ"
+      }
+    ],
+    "id": "202609041600",
+    "publisher": "Maktabat Ahl al-Bayt",
+    "title": "Sharḥ al-Azhār (al-Muntazaʿ al-mukhtār min al-Ghayth al-midrār), vol. 4, al-nikāḥ wa-l-ṭalāq",
+    "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/BBib-Alex-09185",
+    "author": [
+      {
+        "literal": "Muḥammad Ḥasan al-Najafī"
+      }
+    ],
+    "id": "202609041605",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "publisher-place": "Beirut",
+    "title": "Jawāhir al-kalām fī sharḥ Sharāʾiʿ al-Islām, vol. 30",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Pardes_Rimmonim.4.1",
+    "author": [
+      {
+        "family": "Cordovero",
+        "given": "Moses"
+      }
+    ],
+    "id": "202609041700",
+    "issued": {
+      "date-parts": [
+        [
+          1592
+        ]
+      ]
+    },
+    "title": "Pardes Rimmonim",
+    "type": "book"
   }
 ]
