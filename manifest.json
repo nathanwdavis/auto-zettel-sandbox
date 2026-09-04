@@ -196,6 +196,11 @@
     "202609041130": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
     "202609041135": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
     "202609041140": "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
+    "202609041200": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200",
+    "202609041205": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205",
+    "202609041210": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
+    "202609041215": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
+    "202609041220": "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -260,7 +265,9 @@
         "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
         "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
+        "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
+        "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220",
         "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
         "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
         "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
@@ -272,6 +279,7 @@
         "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
         "the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140",
         "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130",
+        "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
         "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
         "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
       ],
@@ -349,7 +357,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 201,
+  "note_count": 206,
   "notes": [
     {
       "id": "202609041020",
@@ -2256,6 +2264,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md"
     },
     {
+      "id": "202609041205",
+      "key": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200"
+        }
+      ],
+      "path": "literature/maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205.md",
+      "slug": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede",
+      "tags": [],
+      "title": "al-Maturidi quotes past the shared-God clause twice without glossing it, and grounds the common word in an acknowledgement the People of the Book already make",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205.md"
+    },
+    {
+      "id": "202609041200",
+      "key": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200",
+      "links": [],
+      "path": "reference/maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200.md",
+      "slug": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Maturidi, Ta'wilat ahl al-sunna, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200.md"
+    },
+    {
       "id": "202609010841",
       "key": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841",
       "links": [
@@ -3555,6 +3592,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925.md"
     },
     {
+      "id": "202609041215",
+      "key": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205"
+        },
+        {
+          "relation": "source",
+          "target_id": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015"
+        }
+      ],
+      "path": "permanent/the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215.md",
+      "slug": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship",
+      "tags": [],
+      "title": "The classical summons presupposes that the addressees already acknowledge the same creator and disputes only where their worship goes",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215.md"
+    },
+    {
       "id": "202609040720",
       "key": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
       "links": [
@@ -3586,6 +3656,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720.md"
+    },
+    {
+      "id": "202609041220",
+      "key": "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830"
+        },
+        {
+          "relation": "source",
+          "target_id": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205"
+        },
+        {
+          "relation": "source",
+          "target_id": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720"
+        }
+      ],
+      "path": "permanent/the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220.md",
+      "slug": "the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself",
+      "tags": [],
+      "title": "The common word is read as a specimen of the better disputation, so the two verses this base pairs are joined by the commentator and not only by the reader",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220.md"
     },
     {
       "id": "202609011016",
@@ -4059,6 +4158,10 @@
         {
           "relation": "elaborates",
           "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210"
         }
       ],
       "path": "permanent/the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820.md",
@@ -4461,6 +4564,10 @@
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
         },
         {
+          "relation": "contradicts",
+          "target_id": "the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016"
         },
@@ -4635,6 +4742,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130.md"
+    },
+    {
+      "id": "202609041210",
+      "key": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205"
+        },
+        {
+          "relation": "source",
+          "target_id": "maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130"
+        }
+      ],
+      "path": "permanent/the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210.md",
+      "slug": "the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation",
+      "tags": [],
+      "title": "The silence about the shared-God clause begins in al-Tabari's own generation, so his identification was never a commonplace that the tradition later dropped",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210.md"
     },
     {
       "id": "202609041015",

@@ -434,6 +434,12 @@ an offline pass to leave a stronger existing record alone.** Restamping the date
 while weakening the method is the worst of the options, because it makes the
 downgraded record look fresher than the strong one it replaced.
 
+**2026-09-04 12:00Z: still present, still 18 files, at skill rev d986b16.** The
+CI sequence was again run against a COPY and defect (A) recurred identically —
+18 reference files rewritten, the same downgrade in each. The count did not grow
+this cycle because this cycle added no live-verified registry lookups, which is
+the only reason it held at 18. The workaround held; the defect is untouched.
+
 ## 2026-09-02 — Tooling: `verify_refs.py` erases live provenance on a network failure, and reads a report's series number as an arXiv id
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2231,9 +2237,49 @@ present IS found, in the same text by the same author, in the same pass;
 was dropped from the served text by any rule that is not about what the text IS.
 Suggested for whoever writes this into a skill, in place of the narrower rule.
 
+### Appended 2026-09-04 12:00Z: a fourth way to manufacture a false absence, and it is the one that looks most like success
+
+The 12:00Z cycle followed the four-part rule stated above (needle survives
+normalisation; a string known present is found in the same author in the same
+pass; the section read to its END by a stated stop condition; nothing dropped by
+a rule that is not about what the text IS) and rested a negative on it. Two
+things came out of the run that the rule as written does not yet cover.
+
+**(C) A HOST THAT ROUTES THE RESOURCE AND SERVES NOTHING.** Looking for a second
+host for al-Maturidi, tafsir.app returned HTTP 200 on `/maturidi/29/46` and a
+150 KB page that canonicalises to itself — so by every check a fetch normally
+makes, the source was found. It was not. The site's own data endpoint returns an
+EMPTY body for this commentator at every verse tried, with controls in the same
+pass proving the endpoint works:
+
+    get.php?src=maturidi&s=29&a=46 -> 0      get.php?src=tabari&s=29&a=46  -> 6754
+    get.php?src=maturidi&s=3&a=64  -> 0      get.php?src=qurtubi&s=3&a=64  -> 4907
+    get.php?src=maturidi&s=1&a=1   -> 0
+
+This is worse than a 404 in exactly the way this entry keeps finding things to be
+worse: it looks like a result. A cycle that had checked "does the host have it?"
+by status code and page size would have recorded a second host it does not have,
+and — if it had then diffed the empty text against the altafsir capture — would
+have "confirmed" any absence you like. The rule this suggests, as a fifth clause:
+**(v) a host counts as a second source only if it returns TEXT you can quote, and
+a control resource fetched the same way returns text too.** Status codes and page
+sizes are properties of the application, not of the corpus.
+
+**(D) CHROME REMOVAL BY CROSS-SECTION FREQUENCY LEAVES THE NON-OVERLAP BEHIND.**
+The extraction removes a line occurring in three or more independently fetched
+sections. altafsir.com's ayah dropdown is a `<select>` whose options are the
+verse numbers of the sura, so the sections compared shared options 1-69 (sura 29
+has 69 verses) and the Q 3:64 body kept `70`…`200` (sura 3 has 200) as apparent
+content. Nothing was lost and no count changed, because the fix was to remove
+`<script>`, `<style>` and `<select>` whole before anything else — by tag class,
+which is what the text IS, not by length, which clause (iv) already forbids. The
+transferable part is that clause (iv) is not self-executing: a frequency filter
+IS a rule about what the text is only as far as the sections compared vary.
+Where they partly overlap, the non-overlapping tail survives looking like prose.
+
 ## 2026-09-04 — Access, HIGH VALUE: altafsir.com is a madhhab-indexed tafsir host and it opens most of what this cluster still wants
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress      <!-- new | in-progress | answered | archived -->
 - **priority:** high
 - **asked_by:** run
 
@@ -2283,3 +2329,104 @@ altafsir-only captures are not yet safe. Specifically open: **confirm on a secon
 host that `معبود` does not occur in al-Tusi's or al-Tabrisi's comment on Q 29:46.**
 Nothing currently rests on that absence in a way that would fall, but it is
 stated in two literature notes and in 202609041135's tally of ten.
+
+### Appended 2026-09-04 12:00Z: the entry was consumed by the next cycle, and it paid
+
+The 12:00Z cycle read this entry, went straight to `tMadhNo=2&tTafsirNo=94` and
+captured al-Maturidi's *Ta'wilat ahl al-sunna* on Q 3:64 and Q 29:46 with no
+rediscovery cost at all. Everything this entry warned about was needed and was
+right: the cp1256 decode, the numeric entities, the `&Page=N` pagination (Q 29:46
+runs to two pages; Q 3:64 to one) and the block-versus-inline tag distinction.
+This is the first time in this base's experience that an access entry filed by
+one cycle was spent by the next as written, and it is the argument for filing
+them at this level of detail. Status moved `new` -> `in-progress`: most of the
+list below is still untouched.
+
+**One thing to add to the three traps, found the hard way.** The site's ayah
+dropdown is a `<select>` whose options are the verse numbers of the sura. If you
+convert `<option>` to a newline like any other block tag, a 200-verse sura puts
+200 numeric lines into your body — and if you then remove chrome by
+cross-section frequency, the overlap with a shorter sura is removed and the tail
+is NOT, so the body arrives carrying `70`, `71`, … `200` looking like content.
+The fix that matters is not "drop short lines" (the standing rule against length
+filters exists for good reason); it is to remove `<script>`, `<style>` and
+`<select>` WHOLE, contents included, before anything else, because they are
+machinery rather than text.
+
+**What was crossed off:** al-Maturidi (94) — the item this entry flagged as one
+of the two that would actually move the inquiry. **Still one request away and
+untouched:** every Shi'i, Zaydi, Ibadi and Sufi work listed above, al-Sha'rawi
+(76) and *al-Manar* (103).
+
+**Still open, and now more urgent than when this entry was filed:** the
+*Ahkam al-Qur'an* genre. It is the other of the two items named above, it is
+where the juristic *mushrikun* question actually lives, and inquiry 202609032122
+has wanted it since the first commentary sweep. Note that the Sunni catalogue
+(`tMadhNo=2`) read off the page's own selector does NOT contain al-Jassas, Ilkiya
+al-Harrasi or Ibn al-'Arabi; al-Sabuni's *Tafsir ayat al-ahkam* (85) is filed
+under a different madhhab group and was not tried this cycle. Whoever takes this
+should dump the Tafsir selector for each `tMadhNo` in turn rather than assuming
+the group.
+
+**New, and specific: second-host confirmation for al-Maturidi.** Priority
+medium. The negative claim in permanent 202609041210 — that he does not gloss
+`وإلهنا وإلهكم واحد` — rests on altafsir.com alone. Three rungs failed this
+cycle (recorded in the capture header and in the entry below). What would close
+it: any independent copy of the *Ta'wilat*, printed-edition or digital, checked
+at Q 29:46 for `معبود` and for a gloss of the clause. The internal evidence is
+unusually good — he elides the clause twice inside quotations he is actively
+using — so this is confirmation rather than rescue.
+
+## 2026-09-04 — Environment, HIGH: the container's cached skill is BEHIND the ref CI uses, and is missing two of the six gate scripts
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 12:00Z cycle, which nearly ran a short gate sequence
+without noticing.
+
+**The facts.** The remote container ships the skill at `/opt/zettel-skill`,
+symlinked into `~/.claude/skills/zettel-bootstrap`. Its checkout is at
+`7181e41` (PR #4). The skill repository's `main` is at `d986b16` (PR #16), and
+`.github/workflows/gates.yml` in THIS repo pins `ZETTEL_SKILL_REF: main`. So CI
+runs gate code the container does not have. Concretely, `/opt/zettel-skill/scripts`
+lacks `lint_skills.py`, `check_skill_sandbox.py`, `skill_review.py`,
+`inquiries.py`, `query.py`, `capture.py`, `fetch_source.py`, `ingest_drops.py`
+and `skill_trial.py`.
+
+**Why that is dangerous rather than merely annoying.** A cycle that runs "the
+gates" from the container's copy runs FOUR of the six checks CI runs, and both
+missing ones are the ones a run cannot self-police: `lint_skills.py` and
+`check_skill_sandbox.py` — the latter being the gate that enforces log.md and
+skill-impact.md append-only and `raw/` immutable. Nothing warns you. The scripts
+are simply absent, and a cycle that logs "gates: PASS" after running what it
+has is telling the truth about what it ran and the wrong thing about what it
+means. The previous five cycles logged `lint_skills: PASS` and
+`check_skill_sandbox: PASS`, so they cannot have used the container's copy —
+which means the cache changed under this schedule at some point on 2026-09-04
+and no cycle noticed.
+
+**What this cycle did instead, and it is the workaround to inherit.** Cloned the
+skill repo fresh (`git clone --depth 1 https://github.com/nathanwdavis/auto-zettel-skill.git`)
+into scratch and ran all six gates from that clone, which is exactly what CI
+does. `/opt/zettel-skill` was not modified — the rule that a run never modifies
+the skill's own repo covers `git pull` as much as an edit. All six passed.
+
+**What would fix it properly, for a human.** Either re-run the environment's
+setup script so the cache picks up `main`, or pin both sides deliberately: set
+`ZETTEL_SKILL_REF` in `gates.yml` to the same tag the setup script installs, and
+bump the pair as a release step. The remote-execution reference already warns
+that the setup cache freezes the skill version; what it does not say is that the
+content repo's CI pin and the container's cache are two independent versions
+that can drift apart, and that the drift is invisible from inside a run.
+
+**A smaller environment defect, same cycle, for whoever is in here anyway.**
+`remote_cycle.sh start` died with exit 128 before doing any work, because the
+fresh clone has no `refs/remotes/origin/HEAD` and the script computes the
+default branch with `git symbolic-ref --short refs/remotes/origin/HEAD | sed …`
+under `set -euo pipefail`. The failure message is empty; the trap fires and the
+lock it had just claimed is released, so the cycle simply stops. Worked around
+with `git remote set-head origin -a`. The fix in the script is one line: give
+the substitution a fallback, since the very next line already defaults to
+`main`.

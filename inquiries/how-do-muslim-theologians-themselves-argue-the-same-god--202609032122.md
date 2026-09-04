@@ -31,6 +31,9 @@ result_notes:
 - the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
 - the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
 - the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140
+- the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210
+- the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
+- the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -336,3 +339,65 @@ is where a ruling on whether the People of the Book are *mushrikun* would
 actually live, and which this inquiry has wanted since the first commentary
 sweep. Both are on endpoints already proven cheap, and both are written up with
 their resource ids in INBOX.
+
+## Appended 2026-09-04 12:00Z: al-Maturidi, and the question this inquiry has actually been answering
+
+Still `answered`, three more `result_notes`. The section above named exactly two
+things that would move this inquiry and argued against a third ("not another
+commentary agreeing; that is a tally mark"). The first of the two is now done:
+al-Maturidi's *Ta'wilat ahl al-sunna*, reference 202609041200, literature
+202609041205, permanent 202609041210, 202609041215 and 202609041220. The second
+— the *Ahkam al-Qur'an* literature, where a ruling on whether the People of the
+Book are *mushrikun* would live — is untouched and remains the open item.
+
+**What it settled, which is not what it was fetched for.** It was fetched as a
+school test: al-Maturidi is the eponym of one of the two schools Sunni theology
+is built on, so if the silence about `وإلهنا وإلهكم واحد` were a family trait,
+this was the last Sunni place it could hide. He is silent, so it is not — and
+that result is a tally mark of the kind the section above warned against. The
+result that matters is one nobody had asked for: **he died twenty-three years
+after al-Tabari.** Every other silent commentator in this base writes a century
+or more later, which had left open that al-Tabari's `معبود` identification was
+ordinary in his generation and was dropped afterwards. A contemporary who does
+not make it closes that reading, and it was closed by accident, by a source
+chosen for an unrelated reason.
+
+**And the silence is not what this base has been calling it.** The other five do
+not reach the clause. Al-Maturidi does: he makes the whole sentence carrying it
+the content of the command, calls that sentence the good disputation itself, and
+quotes it as far as `وَأُنزِلَ إِلَيْكُمْ` before writing `إلى آخر ما ذكر` — to
+the end of what was mentioned. He does it twice. An elision inside a quotation
+the commentator is actively commending is a different fact from an absence, and
+a stronger one, because it cannot be explained by his never having got there.
+
+**What he says instead, and why it is the best answer this inquiry has had.**
+Asked what makes the "common word" common, he grounds it in an acknowledgement
+already made: `إذ العبادة لا تكون إلا لله الذي أقروا جميعاً أنه خالق السماوات
+والأرض، وأنه ربهم` — worship is due to none but God, whom they ALL acknowledged
+to be the creator of the heavens and the earth and their Lord — anchored in
+Q 31:25 and Q 43:87 rather than asserted. The dispute is then entirely about
+where worship is directed. This inquiry was filed to find out how Muslim
+theologians themselves frame the question, and after seven cycles the answer has
+a shape: **not "do we refer to the same being" and not "do we describe him
+alike", but "do you render to the one you already acknowledge what is owed to
+him".** On that frame co-reference is the unargued premise of a rebuke, which is
+why the clause can be elided without loss — the commentator was never trying to
+establish what it states. Permanent 202608311942, the note this inquiry named as
+its test and the most-linked note in the base, has been amended to record this
+as a fourth question its grid has no slot for; that is the second amendment that
+note has taken from this inquiry.
+
+**A corroboration that was free.** al-Razi grounds the gentler treatment of the
+People of the Book in their own profession of oneness rather than in the verse's
+clause (202609040920), which could have been his idiosyncrasy. al-Maturidi makes
+the same move 270 years earlier and one step further back — from what they
+concede about the creator rather than from what they profess about oneness. Two
+instances across three centuries is a pattern.
+
+**The limit, stated plainly.** This is a single-host capture and the claim taken
+from it is a negative. Three rungs were tried for a second host and all three
+failed; the sharpest of them is worth carrying forward, because it is a new
+failure mode: tafsir.app routes the slug `maturidi`, returns HTTP 200 and a
+150 KB page, and serves an empty body for this commentator at every verse, while
+al-Tabari and al-Qurtubi come back full through the same endpoint in the same
+pass. Second-host confirmation for al-Maturidi is filed to INBOX.

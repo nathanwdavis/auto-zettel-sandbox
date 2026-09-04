@@ -1,0 +1,191 @@
+SOURCE CAPTURE — Abu Mansur Muhammad ibn Muhammad al-Maturidi al-Samarqandi (d. 333/944),
+Ta'wilat ahl al-sunna: the commentary on Q 3:64 and Q 29:46. Arabic, verbatim.
+School/affiliation: Sunni, Hanafi in law; the eponym of the Maturidi school of kalam, which
+with Ash'arism is one of the two theological schools Sunni orthodoxy is built on. He is a
+near-contemporary of al-Tabari (d. 310/923) — twenty-three years his junior in death — and
+the earliest of the commentators in this base after al-Tabari himself.
+
+Retrieved: 2026-09-04T12:00Z
+Host and route: altafsir.com (Royal Aal al-Bayt Institute for Islamic Thought,
+  Amman), Tafasir.asp, tMadhNo=2 (تفاسير أهل السنة) tTafsirNo=94, paginated by &Page=N.
+  The page's own selectors name the work and the author, and both were read back
+  from the served HTML rather than assumed from the id: the selected options are
+  `تفاسير أهل السنة` and `تأويلات أهل السنة/ الماتريدي (ت 333هـ)`.
+  Q 3:64
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=3&tAyahNo=64&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 eab5671b9b7b635215ff9f6b38d47e593bc6c3bf7c88e5064696a889b1f5a18a  (98243 bytes)
+  Q 29:46
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=29&tAyahNo=46&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 5c58e40178086e0e98909609ecad84bf0471ce5b969471909efc340e3de6afef  (97510 bytes)
+    Page=2  https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=29&tAyahNo=46&tDisplay=yes&Page=2&Size=1&LanguageId=1
+      sha256 f256a8d0205375a748598bbeb84892e577502babb6e0933b50814c14f5b01ed4  (96174 bytes)
+  A third section, Q 112:1, was fetched in the same pass and is NOT reproduced below.
+  It exists only to give the chrome filter a section unrelated to this cluster, so
+  that "a line recurring across three or more independently fetched pages" removes
+  navigation without any chance of removing commentary on the two verses at issue.
+    Page=1  https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=112&tAyahNo=1&tDisplay=yes&Page=1&Size=1&LanguageId=1
+      sha256 fe0833b583960618081f054c9350ce7033daabb86bdaf4fe354ddb5a36e13d95  (93660 bytes)
+    Page=2  https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=112&tAyahNo=1&tDisplay=yes&Page=2&Size=1&LanguageId=1
+      sha256 e7b05510a35cce4da8ed006d2c77f139f249ae8408bda32301692f9f5fd28d1c  (93260 bytes)
+
+TRANSFORMATION APPLIED, AND THE ONLY ONE. altafsir.com serves windows-1256; the
+bytes were decoded as cp1256 and the numeric HTML entities this site uses for
+Arabic (`&#1649;`-style) were unescaped. `<script>`, `<style>` and `<select>`
+elements were removed WHOLE, contents included, before anything else — they are
+machinery and form controls rather than text. BLOCK-level tags (br, p, div, tr,
+td, table, center, h1-h6, li, ul, ol, hr, form) were replaced by a newline;
+INLINE tags (font, b, a, span) were removed without inserting anything, so a
+lemma the site wraps per-word stays on one line with its `{ }` intact. Runs of
+spaces were collapsed. Site chrome was removed by cross-section frequency — a
+line occurring in three or more of the five independently fetched pages is
+navigation — plus the per-page document title. NOTHING was removed for being
+short, and nothing was removed for being numeric. Not one Arabic character was
+added, removed or reordered, and the vocalisation is as served. The SHA-256 of
+each page is of the bytes exactly as served, so the transformation is reversible
+from the URL.
+
+A DEFECT THIS CYCLE FOUND IN ITS OWN FIRST EXTRACTION, AND WHY IT MATTERS HERE.
+The first extraction converted `<option>` to a newline like any other block tag,
+which put the site's ayah dropdown into the body as bare numeric lines. Surah
+Al-'Imran has 200 verses, so the Q 3:64 body arrived carrying 131 lines reading
+`70`, `71`, ... `200` — the tail of a select whose first 69 options had been
+removed as chrome because sura 29 has 69 verses and the control section shared
+them. Two things are worth recording. First, the cheap fix that a length filter
+would also have made is the WRONG fix: it would have removed these lines for
+being short, and the standing INBOX rule against length filters exists because
+that same rule deletes real short sentences. The right fix removes them for what
+they ARE — the contents of a form control. Second, the near-miss is instructive:
+chrome removal by cross-section frequency is only as good as the sections
+compared, and two sections whose selectors PARTLY overlap leave the non-overlap
+behind looking like content. The counts below were re-run after the fix and did
+not change.
+
+PAGINATION, AND HOW EXHAUSTION WAS ESTABLISHED. altafsir.com splits a section
+across `&Page=N`; a page with a successor carries a `التالي` control calling
+`InnerLink_onchange`. Pages were fetched from Page=1 until that control was
+absent AND until a page's extracted body repeated one already seen. Q 29:46 ran
+to two pages and Q 3:64 to one; the stop condition that fired is the absent
+`التالي`, in both, with no repeat needed. This matters more than usual for this
+capture, because its central claim is a NEGATIVE one and the standing INBOX
+finding records that a first-page-only read of this very host manufactured
+exactly such a false absence for two of three commentaries in the previous
+cycle.
+
+EDITION — STATED HONESTLY. altafsir.com names no printed edition for these
+sections and the served body carries no page markers, so nothing here keys the
+text to a printed edition and none is claimed. Locators are by sura:aya. The
+Q 3:64 section carries two interjections marked `قال الشيخ - رحمه الله -`, which
+are the voice of the work's transmitter-editor rather than al-Maturidi's own —
+the *Ta'wilat* reaches us through the recension of his student Abu al-Layth
+al-Samarqandi — and they are reproduced with that marker intact and are not
+quoted in the notes as al-Maturidi's words.
+
+SECOND HOST — WHAT WAS TRIED, AND WHAT IT ESTABLISHED. The house standard is a
+second independent host for anything load-bearing, and this capture does not
+have one. Three rungs were tried and each is recorded with its failure mode
+rather than as "not found":
+
+  (a) tafsir.app — the slug `maturidi` IS routed (`/maturidi/29/46` returns 200
+      and canonicalises to itself), so a naive check would call this a hit. It is
+      not: the site's own data endpoint returns an EMPTY body for this
+      commentator at every verse tried. With controls in the same pass —
+        get.php?src=maturidi&s=29&a=46  -> data length 0
+        get.php?src=maturidi&s=3&a=64   -> data length 0
+        get.php?src=maturidi&s=1&a=1    -> data length 0
+        get.php?src=tabari&s=29&a=46    -> data length 6754   (endpoint works)
+        get.php?src=qurtubi&s=3&a=64    -> data length 4907   (endpoint works)
+      So the host lists the work and serves none of it. This is a new failure
+      mode for this base's ladder, and a nastier one than a 404: the shell page
+      is 150 KB of application and looks like a successful fetch.
+  (b) shamela.ws — reachable (HTTP 200), but its content search is a form shell
+      whose results are not served to a plain GET, and the library is not
+      verse-indexed. Same verdict as the previous cycle recorded.
+  (c) islamweb.net library search — HTTP 404 on the search route tried.
+
+WHAT THAT DOES AND DOES NOT THREATEN. Unlike the previous cycle's captures, what
+this repository takes from this one is chiefly a NEGATIVE: al-Maturidi does not
+gloss `وإلهنا وإلهكم واحد`. A single host is a real threat to a negative, and the
+notes resting on it say so. Two things reduce it without removing it. First, the
+absence is not the absence of text but the presence of an ELISION: al-Maturidi
+quotes the verse twice and both times stops at `وَأُنزِلَ إِلَيْكُمْ...` and
+writes `إلى آخر ما ذكر`, then comments on what follows the clause and on the next
+three verses. A truncated section would not produce that shape. Second, the
+section's own stop condition fired on the site's successor control rather than on
+a guess. It is filed to INBOX for second-host confirmation all the same.
+
+MECHANICAL CHECKS, WITH THE FOUR CONTROLS THE STANDING INBOX RULE REQUIRES.
+Diacritics were stripped by EXPLICIT code point (U+064B–U+0655, U+0670,
+U+06D6–U+06ED, U+0640) with the letter block U+0621–U+064A kept, and alef/ya/
+ta-marbuta normalised. All counts are on the chrome-filtered bodies below.
+
+  (i)   the needles survive normalisation:
+          norm('معبود')  -> 'معبود'
+          norm('ضاهوهم') -> 'ضاهوهم'      (the string that exposed the 09:00Z defect)
+  (ii)  strings known to be present ARE found, in the same author, same pass:
+          'عدل'   in the Q 3:64 section  -> 3
+          'يقرون' in the Q 3:64 section  -> 2
+          'السيوف' in the Q 29:46 section -> 2
+  (iii) the sections were read to their END, by the stated stop condition above.
+  (iv)  nothing was dropped by any rule that is not about what the text IS.
+
+  THE COUNTS THEMSELVES:
+          'معبود'              Q 29:46 -> 0     Q 3:64 -> 0
+          'وإلهنا وإلهكم واحد'  Q 29:46 -> 2     Q 3:64 -> 0
+          'واحد'               Q 29:46 -> 2     Q 3:64 -> 1
+  The two occurrences of the clause in the Q 29:46 section are BOTH the site's
+  own verse block, printed identically at the head of each of the two pages (663
+  characters, character-for-character the same string). The clause therefore
+  occurs zero times in al-Maturidi's own words: he never takes it up as a lemma,
+  never repeats it, and never explains it. That check — locating every occurrence
+  and reading what it belongs to, rather than reporting a count — is what makes
+  this zero publishable, and it is the same discipline the 10:00Z cycle's INBOX
+  appendix asked for.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1 — Q 3:64, `قل يا أهل الكتاب تعالوا إلى كلمة سواء بيننا وبينكم`
+═══════════════════════════════════════════════════════════════════════════════
+[page 1 of 1]
+{ قُلْ يٰأَهْلَ ٱلْكِتَابِ تَعَالَوْاْ إِلَىٰ كَلِمَةٍ سَوَآءٍ بَيْنَنَا وَبَيْنَكُمْ أَلاَّ نَعْبُدَ إِلاَّ ٱللَّهَ وَلاَ نُشْرِكَ بِهِ شَيْئاً وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَاباً مِّن دُونِ ٱللَّهِ فَإِن تَوَلَّوْاْ فَقُولُواْ ٱشْهَدُواْ بِأَنَّا مُسْلِمُونَ }
+قوله: { قُلْ يٰأَهْلَ ٱلْكِتَابِ تَعَالَوْاْ إِلَىٰ كَلِمَةٍ سَوَآءٍ بَيْنَنَا وَبَيْنَكُمْ }:
+يعني: كلمة الإخلاص والتوحيد، { سَوَآءٍ بَيْنَنَا وَبَيْنَكُمْ } ، أي: عدل، أي: تلك الكلمة عدم بيننا وبينكم لأنهم كانوا يقرون أن خالق السماوات والأرض: الله، بقوله:{ وَلَئِن سَأَلْتَهُمْ مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلأَرْضَ لَيَقُولُنَّ ٱللَّهُ } [لقمان: 25]، وكذلك يقرون أن خالقهم الله، بقوله:{ وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ } [الزخرف: 87]، لكن منهم من يعبد دون الله أوثاناً، ويقولون:{ مَا نَعْبُدُهُمْ إِلاَّ لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىۤ } [الزمر: 3]، ومنهم من يجعل له شركاء وأنداداً يشركهم في عبادته، فدعاهم رسول الله صلى الله عليه وسلم إلى ألا يجعلوا عبادتهم لغير الذي أنعم عليهم؛ إذ العبادة لا تكون إلا لله الذي أقروا جميعاً أنه خالق السماوات والأرض، وأنه ربهم، وألا يصرفوا عبادتهم إلى غير الذي أنعم عليهم؛ إذ العبادة هي لشكر وجزاء ما أنعم عليهم.
+{ أَلاَّ نَعْبُدَ إِلاَّ ٱللَّهَ وَلاَ نُشْرِكَ بِهِ شَيْئاً وَلاَ يَتَّخِذَ بَعْضُنَا بَعْضاً أَرْبَاباً مِّن دُونِ ٱللَّهِ }؛ لأن العبادة لواحد أهون وأخف من العبادة لعدد، وأن صرف العبادة إلى من أنعم عليكم أولى من صرفها إلى الذي لم ينعم عليكم؛ إذ ذاك جور وظلم في العقل أن ينعم أحد على آخر، فيشكر غيره.
+قال الشيخ - رحمه الله -: العدل في اللغة: وضع الشيء [في] موضعه، وفي إخلاص العبادة لله والتوحيد - ذلكَ وهذا معنى سواء. وجائز أن تكون كلمة يستوي فيها أنها عدل ما شهد لنا بهذا كل أنواع الحجج.
+وقوله: { فَإِن تَوَلَّوْاْ }:
+يحتمل: تولوا عن طاعة الله وتوحيده، وصرف العبادة إليه -
+{ فَقُولُواْ }.
+كذا.
+ويحتمل: فإن تولوا عن المباهلة والملاعنة - فقولوا { ٱشْهَدُواْ بِأَنَّا مُسْلِمُونَ }.
+أي: مخلصون العبادة له، صادقون الشكر على ما أنعم علينا، والله أعلم.
+قال الشيخ - رحمه الله -: فإن تولوا عن قبول ما دعوتهم إليه من الاجتماع على الكلمة.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2 — Q 29:46, `ولا تجادلوا أهل الكتاب إلا بالتي هي أحسن`
+(the site serves Q 29:46-49 as one block; the whole block is reproduced)
+═══════════════════════════════════════════════════════════════════════════════
+[page 1 of 2]
+{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ } * { وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَابَ فَٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلْكَافِرونَ } * { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطُّهُ بِيَمِينِكَ إِذاً لاَّرْتَابَ ٱلْمُبْطِلُونَ } * { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلظَّالِمُونَ }
+قوله: { وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ } الآية تخرج على وجوه ثلاثة:
+أحدها: { وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ } إلا الذين ظلموا منهم فلا تجادلوهم بالتي هي أحسن ولا غيره، وهم الذين لا يقبلون الحجة، ولا يؤمنون إذا لزمتهم الحجة، وهم أهل عناد ومكابرة، والأوّلون يقبلون الحجة، ويؤمنون بها.
+والثاني: { وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ }؛ فقوله: { إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ } ليس على الثنيا من الأوّل، ولكن على الابتداء؛ كأنه قال: { إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ } قولوا: { آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا... } إلى آخر ما ذكر؛ أي: قولوا لهم هذا، ولا تجادلوهم؛ فإنكم وإن جادلتم إياهم فلا يؤمنون، وهو كقوله:{ لِئَلاَّ يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ فَلاَ تَخْشَوْهُمْ وَٱخْشَوْنِي } [البقرة: 150] قوله: { إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ فَلاَ تَخْشَوْهُمْ } ليس على الثنيا من الأول، ولكن ابتداء نهي؛ أي: لا تخشوهم واخشوني، فعلى ذلك يحتمل الأول مثله.
+والثالث: جائز أن يكون قوله: { وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ... } إلى آخر ما ذكر: هي المجادلة الحسنة التي أمروا بها؛ لأن تلك مما يقبلها العقل والطبع، وبها جاءت الكتب والرسل، فلا سبيل إلى ردّ ذلك.
+وقال بعضهم: { وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ } أي: جادلوا الذين يصدّقون منهم ولا يكتمون نعت محمد وما في كتبهم من الحق، فأمّا الذين تعلمون أنهم يكتمون ولا يصدّقون فلا تجادلوهم، وهو كقوله:{ فَٱسْأَلُواْ أَهْلَ ٱلذِّكْرِ إِن كُنْتُم لاَ تَعْلَمُونَ } [النحل: 43] والأوّل كقوله:{ تَعَالَوْاْ إِلَىٰ كَلِمَةٍ سَوَآءٍ بَيْنَنَا وَبَيْنَكُمْ... } الآية [آل عمران: 64]، والمجادلة الحسنة هي التي جاء بها الكتاب ويوجبها العقل.
+ثم فيه دلالة جواز المناظرة والمجادلة مع الكفرة في الدين، وكذلك - قوله تعالى -:{ وَجَٰدِلْهُم بِٱلَّتِي هِيَ أَحْسَنُ } [النحل: 125] ليس كما يقول بعض الناس: إنه لا يجوز معهم المناظرة، وذلك لجهلهم بحجج الإسلام وبراهينه؛ [على] ما ينهون عن المجادلة والمناظرة معهم.
+وقال بعضهم: من لا عهد معهم فجادلهم بالسيوف، ومن كان معه عهد وكتاب فجادلهم بالحجج.
+وقال بعضهم: هو منسوخ بقوله:{ قَاتِلُواْ ٱلَّذِينَ لاَ يُؤْمِنُونَ بِٱللَّهِ... } الآية [التوبة: 29].
+ومنهم من يقول: من أدّى إليكم الجزية فلا تغلظوا له القول وقولا لهم قولا حسناً، ومن لم يؤدّ فاغلظوا لهم وجادلوهم بالسيوف، والله أعلم.
+وقوله: { وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَابَ } أي: كما أخبرناك في الكتاب، فقل لهم، أو جادلهم.
+وقوله: { فَٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يُؤْمِنُونَ بِهِ } يخرج على وجهين:
+أحدهما: الذين آتيناهم الكتاب فيتلونه حق تلاوته، فهم يؤمنون به؛ على ما ذكرنا في آية أخرى:{ ٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُ حَقَّ تِلاَوَتِهِ أُوْلَـٰئِكَ يُؤْمِنُونَ بِهِ }
+[page 2 of 2]
+{ وَلاَ تُجَادِلُوۤاْ أَهْلَ ٱلْكِتَابِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ إِلاَّ ٱلَّذِينَ ظَلَمُواْ مِنْهُمْ وَقُولُوۤاْ آمَنَّا بِٱلَّذِيۤ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَـٰهُنَا وَإِلَـٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ } * { وَكَذَلِكَ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَابَ فَٱلَّذِينَ آتَيْنَاهُمُ ٱلْكِتَابَ يُؤْمِنُونَ بِهِ وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلْكَافِرونَ } * { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطُّهُ بِيَمِينِكَ إِذاً لاَّرْتَابَ ٱلْمُبْطِلُونَ } * { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلظَّالِمُونَ }
+[البقرة: 121] فتكون هذه الآية تعريفاً للأولى، وأمّا من لم يتله حق تلاوته فلا يؤمنون به.
+والثاني: فالذين آتيناهم الكتاب وانتفعوا به؛ أي: يؤمنون بالذي أوتوا من الكتاب.
+{ وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ } يحتمل قوله: { وَمِنْ هَـٰؤُلاۤءِ } أي: من أهل مكة من يؤمن به، وقد آمن كثير منهم.
+وجائز أن يكون ذلك إلى قوم كانوا بحضرته، فقال: { وَمِنْ هَـٰؤُلاۤءِ مَن يُؤْمِنُ بِهِ } ، والله أعلم.
+{ وَمَا يَجْحَدُ بِآيَاتِنَآ إِلاَّ ٱلْكَافِرونَ } قال قتادة: لا يكون الجحد إلا بعد معرفة أن اليهود والنصارى عرفوه كما عرفوا أبناءهم، لكنهم جحدوه، وكل من أنكر شيئاً فقد جحده؛ عرفه أو لم يعرفه.
+وقوله: { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ وَلاَ تَخُطُّهُ بِيَمِينِكَ } تأويله - والله أعلم -: أي: ما كنت تتلو من قبله - أي: من قبل هذا الكتاب - من كتاب، ولو كنت تتلو لارتاب المبطلون فيقولون: إن ما أنبأتهم من الأنباء المتقدمة أو كلام الحكمة إنما تلقفت وأخذت من تلك الكتب المتقدمة أو كتب الحكماء، ولو كنت تخطه بيمينك يقولون: إن ذلك من تأليفك ووصفك؛ لأن القرآن حجة عليهم من وجهين:
+أحدهما: ما ذكر فيه من الأنباء المتقدمة المترجمة بغير لسان المتقدم ما علموا بأجمعهم أن رسول الله - صلوات الله عليه - كان لا يعرفها بمترجم ولا شهدها هو، ثم أنبأهم على ما كان، فعلموا أنه بالله عرفها.
+والثاني: هو آية معجزة نظماً ووصفاً ما يعملون أنه ليس من نظم البشر ولا وصفه، فيقول: ما كنت تتلو من قبله كتاباً فيه تلك الأنباء والحكمة ولا تخطه بيمينك؛ فيقولون: هو من تأليفك أو من نظمك، فلو كنت كذلك إذن لارتاب المبطلون بما ذكرنا على عناد منهم ومكابرة، ولا يرتاب المحقون، وإن كان كما ذكر؛ لما عرفوا صدقه بأشياء وبآيات كانت فيه.
+وقال بعضهم في قوله: { وَمَا كُنتَ تَتْلُواْ مِن قَبْلِهِ مِن كِتَابٍ } يقول: قبل القرآن { وَلاَ تَخُطُّهُ بِيَمِينِكَ } أي: لا تكتبه بيدك، ولو كنت تقرأ كتاباً من قبله أو كنت تكتب بيدك إذن لارتاب المبطلون؛ يقول: لاتهموك؛ هذا قد ذكرناه، ولكن نقول في قوله: { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ } بل هو اليقين أنك لا تقرؤه، أو لا تكتبه عند الذين أوتوا العلم، وهم مؤمنو أهل الكتاب من نحو عبد الله بن سلام وأصحابه.
+وقوله: { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ ٱلَّذِينَ أُوتُواْ ٱلْعِلْمَ } يحتمل القرآن؛ إذ فيه آيات وحدانية الله وحججه، وآيات البعث وحججه وآياته.
+ويحتمل قوله: { بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ } رسول الله صلى الله عليه وسلم كان من أول ما نشأ إلى آخر أمره آية؛ لما ذكر من النور في وجه أبيه ما دام في صلبه، ثم في وجه أمه؛ إذا وقع في رحمها، ثم من ضياء الليلة التي ولد فيها، ثم من ظل السحاب الذي أظله وقت ما خرج من وطنه، وأمثال ذلك كثير ما لا يقدر إحصاؤه، والله أعلم.

@@ -27,6 +27,8 @@ links:
   relation: supports
 - target_id: the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
   relation: elaborates
+- target_id: the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210
+  relation: supports
 - target_id: the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
   relation: supports
 - target_id: the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
@@ -136,3 +138,20 @@ witness makes it easier to forget: five commentators passing over the clause is
 not five commentators denying the identification. What is established is the
 narrow claim in this note's title, now with the two available explanations of
 the silence — genre, school — both ruled out and none put in their place.
+
+## Amendment, 2026-09-04 12:00Z cycle
+
+One reading of this note's finding is now closed. Every commentator in the
+silent set writes a century or more after al-Tabari, which left it open that the
+`معبود` identification was ordinary in his own generation and was later dropped
+— in which case the finding would be about the tradition's drift rather than
+about how singular he was. al-Maturidi (d. 333/944), a contemporary rather than
+a successor, does not make the identification either, and does not merely fail
+to reach the clause: he quotes the sentence that carries it, twice, and both
+times abbreviates past it with `إلى آخر ما ذكر`
+([[the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210]]).
+
+The count is six commentators after al-Tabari, and the earliest of them is his
+contemporary. The limit stated three times above is unchanged and is restated a
+fourth: six commentators passing over the clause is not six commentators denying
+the identification.
