@@ -261,6 +261,15 @@
   },
   "inquiries": [
     {
+      "key": "do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841",
+      "path": "inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md",
+      "priority": "high",
+      "question": "Do the conciliar texts themselves say what Hodge reports them as saying about the two rejected readings of the divine three?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-04"
+    },
+    {
       "key": "do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146",
       "path": "inquiries/do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146.md",
       "priority": "normal",
@@ -273,6 +282,15 @@
         "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
       ],
       "status": "answered",
+      "updated": "2026-09-04"
+    },
+    {
+      "key": "does-the-same-god-dispute-survive-contact-with-an-actual--202609041839",
+      "path": "inquiries/does-the-same-god-dispute-survive-contact-with-an-actual--202609041839.md",
+      "priority": "high",
+      "question": "Does the same-God dispute survive contact with an actual theory of reference, and does Kripke's causal-historical account give a different verdict from Evans's dossier account?",
+      "result_notes": [],
+      "status": "new",
       "updated": "2026-09-04"
     },
     {
@@ -371,6 +389,15 @@
       "updated": "2026-08-31"
     },
     {
+      "key": "is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844",
+      "path": "inquiries/is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844.md",
+      "priority": "normal",
+      "question": "Is divine simplicity the shared problem behind the Trinity, the sefirot and tawhid, and does 'no composition' mean the same thing in each?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-04"
+    },
+    {
       "key": "is-there-any-empirical-evidence-that-note-taking-or--202609032123",
       "path": "inquiries/is-there-any-empirical-evidence-that-note-taking-or--202609032123.md",
       "priority": "high",
@@ -419,6 +446,15 @@
       "updated": "2026-09-01"
     },
     {
+      "key": "what-did-jewish-law-and-theology-say-about-islam-and-why-is--202609041842",
+      "path": "inquiries/what-did-jewish-law-and-theology-say-about-islam-and-why-is--202609041842.md",
+      "priority": "high",
+      "question": "What did Jewish law and theology say about Islam, and why is the Jewish-Muslim leg of the same-God triangle missing while the other two are deep?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-04"
+    },
+    {
       "key": "what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030",
       "path": "inquiries/what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030.md",
       "priority": "normal",
@@ -430,6 +466,15 @@
       ],
       "status": "answered",
       "updated": "2026-09-01"
+    },
+    {
+      "key": "what-is-worship-such-that-referring-to-the-right-being--202609041843",
+      "path": "inquiries/what-is-worship-such-that-referring-to-the-right-being--202609041843.md",
+      "priority": "normal",
+      "question": "What is worship, such that referring to the right being might not be enough for it?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-04"
     }
   ],
   "note_count": 257,

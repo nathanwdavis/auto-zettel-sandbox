@@ -1490,3 +1490,10 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T18:27:21Z` main re-verified clean after the merge at 36c3319: lint_citations, lint_links, lint_skills, check_skill_sandbox all PASS, manifest current at 257 notes. The PASS lines immediately above this entry are that verification, appended by the gate scripts themselves
 - `2026-09-04T18:27:28Z` lint_citations: PASS
 - `2026-09-04T18:27:29Z` lint_links: PASS
+- `2026-09-04T18:39:20Z` capture: inquiry -> inquiries/does-the-same-god-dispute-survive-contact-with-an-actual--202609041839.md
+- `2026-09-04T18:39:21Z` capture: inquiry -> inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md
+- `2026-09-04T18:39:22Z` capture: inquiry -> inquiries/what-did-jewish-law-and-theology-say-about-islam-and-why-is--202609041842.md
+- `2026-09-04T18:39:23Z` capture: inquiry -> inquiries/what-is-worship-such-that-referring-to-the-right-being--202609041843.md
+- `2026-09-04T18:39:24Z` capture: inquiry -> inquiries/is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844.md
+- `2026-09-04T18:39:35Z` lint_links: PASS
+- `2026-09-04T18:39:47Z` lint_citations: PASS
