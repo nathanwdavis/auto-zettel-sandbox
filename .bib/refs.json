@@ -1478,5 +1478,23 @@
     },
     "title": "Mafātīḥ al-ghayb",
     "type": "book"
+  },
+  {
+    "URL": "https://tafsir.app/kashaf/29/46",
+    "author": [
+      {
+        "literal": "Abū al-Qāsim Maḥmūd ibn ʿUmar al-Zamakhsharī"
+      }
+    ],
+    "id": "202609041000",
+    "issued": {
+      "date-parts": [
+        [
+          1144
+        ]
+      ]
+    },
+    "title": "al-Kashshāf ʿan ḥaqāʾiq ghawāmiḍ al-tanzīl",
+    "type": "book"
   }
 ]

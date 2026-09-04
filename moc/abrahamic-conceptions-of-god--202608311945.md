@@ -206,6 +206,42 @@ common word is `فيها إنصاف` — a word containing fairness — and beli
 what would put the two parties `على السواء`, on level ground. The equality is
 the outcome of accepting the summons, not the state it appeals to.
 
+### The Mu'tazili, added 2026-09-04
+
+And the section above left the next objection standing, in the same shape: its
+five commentators are all Sunni traditionalists of one kind or another, so their
+shared silence might belong to that family rather than to the tradition.
+al-Zamakhshari's *al-Kashshaf* is the classical Mu'tazili commentary and the
+obvious test. It answers in the same direction, and it brings two findings of
+its own.
+
+- [[the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010]]
+- [[the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015]]
+- [[a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020]]
+
+He does not reach the clause at all — his comment on Q 29:46 stops one clause
+short of it — so both explanations this base generated for the silence, genre
+and school, are now ruled out with nothing put in their place. That is where the
+question rests: the silence is real, general, and unexplained.
+
+His Q 3:64 material is the more interesting half, because it is the base's
+strongest classical statement of common ground and its sharpest summons in the
+same paragraph. `سواء بيننا وبينكم` he glosses as a word the Qur'an, the Torah
+and the Gospel do not differ over — and then defines that word as an invitation
+to stop saying the Messiah is the son of God, reads "if they turn away" as
+turning away from *tawhid*, and has the addressee concede submission the way the
+vanquished concedes to the victor. The agreement is located in the content of
+the word, not in the parties; the summons is what he thinks the agreement
+consists in.
+
+Three verses later he offers, as one possible sense of `المشركين`, the Jews and
+the Christians, "because they associate 'Uzayr and the Messiah with Him". That
+is the first place in this base where the term is extended to the People of the
+Book, and it is offered as an option rather than a ruling. With al-Razi's
+exclusion of those who assert a son, the *mushrikun* question now has two
+independent classical witnesses from tafsir — and the juristic literature that
+would decide it is still untried.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent

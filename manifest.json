@@ -182,6 +182,11 @@
     "202609040915": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
     "202609040920": "the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920",
     "202609040925": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
+    "202609041000": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000",
+    "202609041005": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005",
+    "202609041010": "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
+    "202609041015": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
+    "202609041020": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -243,6 +248,7 @@
       "priority": "high",
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
+        "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
         "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830",
         "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925",
         "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
@@ -251,8 +257,10 @@
         "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915",
         "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
+        "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
         "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
         "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
+        "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
         "where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825"
       ],
       "status": "answered",
@@ -329,8 +337,37 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 187,
+  "note_count": 192,
   "notes": [
+    {
+      "id": "202609041020",
+      "key": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005"
+        }
+      ],
+      "path": "permanent/a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020.md",
+      "slug": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage",
+      "tags": [],
+      "title": "A classical commentary applies the term mushrikun to the People of the Book inside the common-word passage itself, and offers it as an option rather than a ruling",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020.md"
+    },
     {
       "id": "202609040058",
       "key": "a-common-word-between-us-and-you--202609040058",
@@ -3996,6 +4033,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115.md"
     },
     {
+      "id": "202609041010",
+      "key": "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005"
+        }
+      ],
+      "path": "permanent/the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010.md",
+      "slug": "the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect",
+      "tags": [],
+      "title": "The Mu'tazili commentary passes over the shared-God clause as well, so the tradition's silence is not an artefact of one theological school",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010.md"
+    },
+    {
       "id": "202609040818",
       "key": "the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818",
       "links": [
@@ -4366,6 +4432,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931.md"
     },
     {
+      "id": "202609041015",
+      "key": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "four-commentaries-read-the-common-word-as-a-summons-and-two-name-the-cross-among-its-exclusions--202609040830"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000"
+        },
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005"
+        }
+      ],
+      "path": "permanent/the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015.md",
+      "slug": "the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties",
+      "tags": [],
+      "title": "The strongest classical claim of common ground is made about the word itself, not about the parties, and it is issued as a summons in the same breath",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015.md"
+    },
+    {
       "id": "202609011531",
       "key": "tikkunei-ha-zohar--202609011531",
       "links": [],
@@ -4599,6 +4694,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/where-the-later-tradition-glosses-the-clause-it-reads-it-as-tawhid-against-partners--202609040825.md"
+    },
+    {
+      "id": "202609041000",
+      "key": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000",
+      "links": [],
+      "path": "reference/zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000.md",
+      "slug": "zamakhshari-al-kashshaf-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Zamakhshari, al-Kashshaf, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000.md"
+    },
+    {
+      "id": "202609041005",
+      "key": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000"
+        }
+      ],
+      "path": "literature/zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005.md",
+      "slug": "zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause",
+      "tags": [],
+      "title": "al-Zamakhshari calls the common word undisputed across the three scriptures, reads it as a summons to drop sonship, and never glosses the shared-God clause",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005.md"
     },
     {
       "id": "202608301300",
