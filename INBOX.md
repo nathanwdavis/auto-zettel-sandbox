@@ -754,6 +754,30 @@ essence (*atzmut*) or His instruments (*kelim*), since note 202609011543 says
 the instrumentalist reading narrows the contrast with Maimonides sharply and no
 captured source addresses it.
 
+### Appended 2026-09-04 17:00Z: the *atzmut*/*kelim* want is CLOSED, from a
+### primary text rather than the scholarship this entry was looking for
+
+The paragraph immediately above named one thing "specifically wanted": a source
+on whether the sefirot are God's essence or His instruments. It is captured.
+Moses Cordovero's *Pardes Rimmonim* devotes its **entire fourth gate** to that
+question — *Sha'ar Etzem ve-Kelim* — quoting Menachem Recanati and R. Yehudah
+Hayyat for the instruments and R. David (*Magen David*) for the essence at
+length before answering. Reference 202609041700, capture
+`raw/202609041700-cordovero-pardes-rimmonim-shaar-4-etzem-ve-kelim-hebrew.txt`,
+all ten chapters, Hebrew, **Public Domain** by Sefaria's own licence field.
+Inquiry 202609030146 is now `answered` on the strength of it plus a second
+Hodge capture; the residual (no comparative scholarship) is its own entry
+below, so this route is closed and should not be re-searched.
+
+**What this entry still wants, unchanged.** Route (1), *Ari Nohem* itself, and
+route (3), the Abulafia lead, were not attempted this cycle. Route (2) — a
+kabbalist DEFENDING the sefirot against the Christian reading — is *narrowed*
+but not met: Cordovero defends them against the charge of introducing
+multiplicity into God, which is the same charge in a different mouth, but he is
+answering fellow kabbalists and not Christians, and no text in this base yet has
+a Jewish writer answering the Christian-kabbalist argument on the merits. Leave
+this entry open for (1), (2) and (3).
+
 ## 2026-09-03 — Verified reachable, not yet captured: Ann Blair, Note Taking as an Art of Transmission (Critical Inquiry 31.1, 2004) is open access AND text-extractable from this environment class
 
 - **status:** answered        <!-- new | in-progress | answered | archived -->
@@ -3122,3 +3146,174 @@ protects any caller, not just the one that remembers the flag.
 **Meanwhile, the working rule for runs:** rehearse CI by reading `gates.yml`,
 never by running its verify step against the working tree.
 
+
+## 2026-09-04 — Policy, HUMAN RULING NEEDED: this cycle translated Hebrew into the notes itself, because the base has no translation policy
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 17:00Z cycle, which did the thing it is asking about.
+
+**The situation.** Sefaria serves *Pardes Rimmonim* in Hebrew only — its API
+reports Hebrew as the sole available language for the work. The gate this cycle
+needed is therefore untranslated, and every English phrase in
+literature/202609041710 and the five permanent notes built on it is **this
+repository's own rendering**, made by the run. That is new. Every other
+non-English source in this base arrived with a translation someone else made
+and could be blamed for: the Solomon translation of *Tiqqunei ha-Zohar*, the
+Deane *Proslogium*, the Allen *Institutes*, and — for the whole Arabic
+cluster — renderings that were likewise the base's own but of texts where the
+base had also captured a published translation to check against. Here there is
+nothing to check against.
+
+**What this cycle did, as an interim practice, not a decision.** (1) Marked
+every rendering as the repository's own at the point of use, in the reference
+note, the literature note and each permanent note. (2) Quoted the Hebrew beside
+every rendering that carries argumentative weight, so a reader who reads Hebrew
+can check it without leaving the note. (3) Mechanically verified all fifteen
+Hebrew quotations against the capture's **excerpt body only** — the protocol the
+16:00Z cycle wrote for OCR Arabic, which applies here too even though this text
+is clean digital rather than OCR, because the capture header contains Hebrew the
+base itself wrote. All fifteen matched verbatim after stripping only whitespace
+and invisible bidirectional marks.
+
+**The ask.** A human should rule on whether a run may translate at all, and if
+so under what constraints. Three options, and the second is what this cycle
+followed:
+1. **Never.** A source without a published translation is a source this base
+   cannot use, and the *atzmut*/*kelim* question stays unanswerable.
+2. **Yes, marked and quoted-beside** — the practice above, promoted to a rule.
+3. **Yes, but only for a claim corroborated by a source in a language the base
+   can read**, which would in this case have blocked most of the gate.
+
+**Why it matters more than it looks.** Option 1 is not obviously wrong. The
+2026-09-03 cycle *declined* to capture *Ari Nohem* in Hebrew precisely because
+"a Hebrew capture would need a translation policy this repository has not yet
+set". This cycle went ahead. Whichever way the ruling goes, one of those two
+cycles was wrong, and the base should not keep taking both positions.
+
+## 2026-09-04 — Tooling, HIGH: the LIVE `verify_refs.py` also downgrades verification records, on a transient lookup failure, and it did it to five notes this cycle
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run
+
+Filed by the 2026-09-04 17:00Z cycle. This is a **third observation** of the
+defect first recorded on 2026-09-02 ("`verify_refs.py` erases live provenance on
+a network failure") and it materially changes the repair advice the 16:00Z
+cycle wrote.
+
+**What happened.** The cycle ran the live verifier as step 8 requires —
+`verify_refs.py --repo . --mailto <addr>`, no `--offline` — over 75 references.
+It reported `75/75 verified` and exit 0. Five reference notes came out
+degraded: ahrens (202608301000), dweck (202609030150), housel (202608311036),
+luhmann (202609010111) and plantinga (202609011500) all went from
+`method: raw-capture+openlibrary` with `identifier_check: confirmed` to bare
+`method: raw-capture`, `source` pointing at the local capture instead of the
+registry URL, and for dweck and housel a NEW `identifier_check: failed`.
+
+**Why it is not the `--offline` defect.** The 16:00Z entry says the repair for a
+degraded record is "re-run the live verifier; it restores the richer methods and
+the `identifier_check` values". That advice is now known to be unsafe as
+stated: the live verifier is what caused this. Open Library was probed
+immediately afterwards and answered **HTTP 200 in under 7 seconds** for both
+degraded ISBNs, and Crossref answered 200 as a control — so this was a
+transient failure or rate-limiting inside a 75-reference batch, not an outage,
+and it will not reproduce on demand. That is the worst shape for a defect to
+have: it fires occasionally, reports success, and is invisible unless someone
+reads a diff of files the cycle had no reason to touch.
+
+**What the cycle did.** Reverted the five files (`git checkout --`), which
+restores the richer records established by earlier successful live lookups, and
+confirmed with `git diff -U0 reference/ | grep '^-' | grep -c
+'identifier_check: confirmed'` → 0. No re-run was attempted: re-running the
+whole batch to fix five notes risks degrading a different five.
+
+**What to change, and it strengthens the 16:00Z ask rather than replacing it.**
+That entry offered a human two options and preferred the second — "have the
+writer refuse to *lower* an existing verification method". This cycle is
+evidence for that option specifically. A `--check-only` flag on `--offline`
+would not have helped here, because the offending run was live. A writer that
+declines to replace `raw-capture+openlibrary`/`confirmed` with
+`raw-capture`/`failed` would have made this run a no-op on those five files, and
+would fix both defects with one change.
+
+**Meanwhile, the working rule for runs:** after any `verify_refs.py` run, read
+`git diff reference/` before committing, and revert any note whose verification
+method got *shorter*. Do not assume a clean gate means nothing was lost — all
+six gates passed on the degraded tree.
+
+## 2026-09-04 — Access, HIGH VALUE: Sefaria's API opens Kabbalah primary texts with machine-readable licences, and it is the route this base was missing
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run
+
+Filed by the 2026-09-04 17:00Z cycle, which used it to close a four-cycle-old
+want.
+
+**The route.** `https://www.sefaria.org/api/v3/texts/<Ref>?version=<language>`,
+where `<Ref>` is a work title with dots for its address levels — e.g.
+`Pardes_Rimmonim.4.1` for gate 4 chapter 1, `Tikkunei_Zohar.17a` for a folio.
+One request returns the whole section as a list of paragraphs with light HTML
+(`<b>`, `<br>`), so **no paging question arises** and the eleven-link-window
+trap the altafsir entries describe cannot occur here. `?version=all` does NOT
+work as its name suggests: it returns a warning listing the available languages
+and no text. Ask for `hebrew` and `english` separately.
+
+**Two things it gives that other hosts in this base's experience do not.**
+1. **A machine-readable licence per version.** Each version carries `license`
+   and `versionSource`. *Pardes Rimonim* comes back `Public Domain`; the Solomon
+   *Tiqqunei ha-Zohar* translation comes back `CC-BY-NC`. That is a fact a run
+   can act on rather than guess at, and it is directly relevant to the open
+   entry about all-rights-reserved full texts in a public repo: this cycle
+   captured a whole gate precisely because the field said Public Domain.
+2. **A structure probe.** `/api/v2/raw/index/<Work>` returns the work's schema,
+   which is how this cycle learned *Pardes Rimmonim* is addressed
+   Gate.Chapter.Paragraph before fetching anything.
+
+**Exhaustion, done the way the 14:00Z rule requires.** Chapters were requested
+in order until the host stopped: `Pardes_Rimmonim.4.11` → HTTP 404, while
+`4.10` returns content and `5.1` returns the opening of the next gate. So the
+404 is an end-of-gate and not a failed fetch, and it was established from the
+content on both sides of the boundary rather than from any navigation control.
+
+**Identifiers, so the next run does not re-search.** `Pardes_Rimmonim` (Hebrew
+only, Public Domain, gate 4 = *Sha'ar Etzem ve-Kelim*, gate 3 = whether Ein Sof
+is Keter, gate 5 = the order of emanation); `Tikkunei_Zohar` (Hebrew and the
+Solomon English, CC-BY-NC; *Patach Eliyahu* at 17a-17b, which is folio 15 in the
+edition Cordovero quotes). Both were reachable on the first request through the
+session's egress proxy.
+
+## 2026-09-04 — Still wanted after inquiry 202609030146 was closed: comparative scholarship on the Trinity and the sefirot
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run
+
+Filed by the 2026-09-04 17:00Z cycle, which closed that inquiry from primary
+texts and is recording what closing it did NOT establish.
+
+Two notes now carry a comparison that no source in this base makes:
+`the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730`
+and `the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745`.
+Both are tagged `contested`, both say in their own bodies that the alignment is
+this repository's, and both would have to be re-scored — not defended — if a
+comparative scholar is captured placing the two doctrines differently.
+
+**The specific thing to look for**, which is narrower than "get Scholem": a
+scholarly treatment of whether the sefirot are *persons* in anything like the
+sense the councils fixed for *hupostasis*, and of whether Ein Sof functions as a
+term outside the ten in the way this base now asserts. Scholem, Idel and Wolfson
+remain the obvious names and remain in copyright; before budgeting for them,
+try Unpaywall by DOI on their journal articles rather than the books, and check
+whether any of the relevant chapters have author-deposited copies. A negative
+result is worth recording here so the next run does not repeat it.
+
+**One counter-witness this base already holds and should weigh first.** Leon
+Modena and Pico both assert the resemblance these two notes deny, from opposite
+motives (202609011811, 202609030155). The new notes do not engage them
+head-on — they argue that the resemblance fails on doctrinal content, while
+Modena and Pico are evidence that it was *perceived*. Someone should decide
+whether that is a real reconciliation or a change of subject.

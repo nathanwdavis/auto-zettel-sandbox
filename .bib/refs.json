@@ -1725,5 +1725,24 @@
     "publisher-place": "Beirut",
     "title": "Jawāhir al-kalām fī sharḥ Sharāʾiʿ al-Islām, vol. 30",
     "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Pardes_Rimmonim.4.1",
+    "author": [
+      {
+        "family": "Cordovero",
+        "given": "Moses"
+      }
+    ],
+    "id": "202609041700",
+    "issued": {
+      "date-parts": [
+        [
+          1592
+        ]
+      ]
+    },
+    "title": "Pardes Rimmonim",
+    "type": "book"
   }
 ]

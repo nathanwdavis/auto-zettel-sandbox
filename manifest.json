@@ -232,6 +232,14 @@
     "202609041625": "an-imami-work-of-fiqh-holds-marriage-to-a-kitabiyya-permitted-so-the-imamiyya-names-a-party-not-the-school--202609041625",
     "202609041630": "both-traditions-transmit-al-baqir-on-both-sides-so-each-school-s-report-of-the-imams-is-a-selection--202609041630",
     "202609041635": "the-argument-from-quranic-coupling-is-in-imami-fiqh-a-century-before-the-commentary-that-carried-it--202609041635",
+    "202609041700": "cordovero-pardes-rimmonim--202609041700",
+    "202609041710": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710",
+    "202609041715": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715",
+    "202609041720": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720",
+    "202609041725": "cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725",
+    "202609041730": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
+    "202609041740": "a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740",
+    "202609041745": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -245,9 +253,15 @@
       "path": "inquiries/do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146.md",
       "priority": "normal",
       "question": "Do the Trinity and the sefirot actually resemble each other on the merits, beyond both being internal articulations of a single God?",
-      "result_notes": [],
-      "status": "in-progress",
-      "updated": "2026-09-03"
+      "result_notes": [
+        "a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740",
+        "cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725",
+        "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745",
+        "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
+        "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
+      ],
+      "status": "answered",
+      "updated": "2026-09-04"
     },
     {
       "key": "how-can-a-design-argument-confirm-theistic-belief-without--202609022344",
@@ -401,7 +415,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 237,
+  "note_count": 245,
   "notes": [
     {
       "id": "202609041020",
@@ -600,6 +614,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-slip-box-surprises-only-after-critical-mass--202609010113.md"
+    },
+    {
+      "id": "202609041740",
+      "key": "a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-systematic-theology-volume-1--202609011033"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730"
+        }
+      ],
+      "path": "permanent/a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740.md",
+      "slug": "a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it",
+      "tags": [],
+      "title": "One tradition defined its articulation of God and the other went on arguing about it",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740.md"
     },
     {
       "id": "202608311142",
@@ -1537,6 +1580,64 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350.md"
     },
     {
+      "id": "202609041700",
+      "key": "cordovero-pardes-rimmonim--202609041700",
+      "links": [],
+      "path": "reference/cordovero-pardes-rimmonim--202609041700.md",
+      "slug": "cordovero-pardes-rimmonim",
+      "tags": [],
+      "title": "Cordovero, Pardes Rimmonim, Gate 4 (Sha'ar Etzem ve-Kelim)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/cordovero-pardes-rimmonim--202609041700.md"
+    },
+    {
+      "id": "202609041725",
+      "key": "cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "cordovero-pardes-rimmonim--202609041700"
+        },
+        {
+          "relation": "source",
+          "target_id": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710"
+        },
+        {
+          "relation": "source",
+          "target_id": "tikkunei-ha-zohar--202609011531"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
+        }
+      ],
+      "path": "permanent/cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725.md",
+      "slug": "cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot",
+      "tags": [],
+      "title": "Cordovero settles the essence-or-vessels question by doubling the sefirot",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725.md"
+    },
+    {
+      "id": "202609041710",
+      "key": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "cordovero-pardes-rimmonim--202609041700"
+        }
+      ],
+      "path": "literature/cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710.md",
+      "slug": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both",
+      "tags": [],
+      "title": "Cordovero states the essence-or-vessels dispute and answers it with both",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710.md"
+    },
+    {
       "id": "202609011012",
       "key": "craig-restakes-teleology-on-anthropic-fine-tuning--202609011012",
       "links": [
@@ -1960,6 +2061,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037.md"
     },
     {
+      "id": "202609041715",
+      "key": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "hodge-systematic-theology-volume-1--202609011033"
+        }
+      ],
+      "path": "literature/hodge-on-the-two-readings-the-councils-ruled-out--202609041715.md",
+      "slug": "hodge-on-the-two-readings-the-councils-ruled-out",
+      "tags": [],
+      "title": "Hodge on the two readings of the divine three that the councils ruled out",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/hodge-on-the-two-readings-the-councils-ruled-out--202609041715.md"
+    },
+    {
       "id": "202609011033",
       "key": "hodge-systematic-theology-volume-1--202609011033",
       "links": [],
@@ -1968,7 +2086,7 @@
       "tags": [],
       "title": "Hodge, Systematic Theology, Volume I",
       "type": "reference",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/hodge-systematic-theology-volume-1--202609011033.md"
     },
     {
@@ -2174,11 +2292,23 @@
         },
         {
           "relation": "elaborates",
+          "target_id": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745"
+        },
+        {
+          "relation": "elaborates",
           "target_id": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730"
         },
         {
           "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
         }
       ],
       "path": "permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md",
@@ -5179,6 +5309,57 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
+      "id": "202609041745",
+      "key": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "cordovero-pardes-rimmonim--202609041700"
+        },
+        {
+          "relation": "source",
+          "target_id": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-systematic-theology-volume-1--202609011033"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730"
+        },
+        {
+          "relation": "source",
+          "target_id": "tikkunei-ha-zohar--202609011531"
+        }
+      ],
+      "path": "permanent/the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745.md",
+      "slug": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none",
+      "tags": [
+        "contested"
+      ],
+      "title": "The sefirot have a term outside them and the persons of the Trinity have none",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745.md"
+    },
+    {
       "id": "202609011840",
       "key": "the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840",
       "links": [
@@ -5417,6 +5598,53 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015.md"
+    },
+    {
+      "id": "202609041730",
+      "key": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
+      "links": [
+        {
+          "relation": "contradicts",
+          "target_id": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811"
+        },
+        {
+          "relation": "source",
+          "target_id": "cordovero-pardes-rimmonim--202609041700"
+        },
+        {
+          "relation": "source",
+          "target_id": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715"
+        },
+        {
+          "relation": "source",
+          "target_id": "hodge-systematic-theology-volume-1--202609011033"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "source",
+          "target_id": "tikkunei-ha-zohar--202609011531"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
+        }
+      ],
+      "path": "permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md",
+      "slug": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out",
+      "tags": [
+        "contested"
+      ],
+      "title": "The two kabbalistic readings of the sefirot are the two readings the councils ruled out",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md"
     },
     {
       "id": "202609041435",
@@ -5850,6 +6078,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-people-of-the-book-are-mushrikun-is-a-disputed-question-of-law--202609041325.md"
+    },
+    {
+      "id": "202609041720",
+      "key": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "cordovero-pardes-rimmonim--202609041700"
+        },
+        {
+          "relation": "source",
+          "target_id": "cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536"
+        }
+      ],
+      "path": "permanent/whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720.md",
+      "slug": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah",
+      "tags": [],
+      "title": "Whether the sefirot are God's essence or His instruments is a dispute inside Kabbalah",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720.md"
     },
     {
       "id": "202609041000",
