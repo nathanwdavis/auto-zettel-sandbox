@@ -37,7 +37,7 @@ verification:
   source: https://doi.org/10.1007/978-1-137-45528-4_9
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:30Z'
+  date: '2026-09-04T16:22:57Z'
 raw_capture: raw/202609011533-goshen-gottstein-shituf-abstract.txt
 links: []
 created: '2026-09-01'

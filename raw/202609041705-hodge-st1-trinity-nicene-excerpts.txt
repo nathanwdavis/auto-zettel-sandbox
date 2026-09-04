@@ -1,0 +1,418 @@
+Verbatim capture (three excerpts) for reference 202609011033, SECOND capture.
+Charles Hodge, Systematic Theology, Volume I (New York: Scribner, Armstrong,
+and Co., 1872-73). Public domain. Etext: Christian Classics Ethereal Library,
+https://www.ccel.org/ccel/hodge/theology1.html (plain-text cache:
+https://www.ccel.org/ccel/h/hodge/theology1/cache/theology1.txt).
+
+WHY A SECOND CAPTURE ON AN EXISTING REFERENCE. The reference note
+202609011033 already carries raw/202609011033-hodge-st1-knowability-excerpts.txt,
+which is Part I chapters I, II and IV -- the knowability of God and the
+teleological argument. It contains nothing from Part I chapter VI, "The
+Trinity", and so cannot ground any claim about what the Church doctrine of the
+Trinity asserts or denies. This cycle needed exactly that, to give the Christian
+side of inquiry 202609030146 (Trinity and sefirot compared on the merits) the
+same standing as the Jewish side. raw/ is immutable, so the earlier capture is
+untouched and this file is added beside it; the reference note lists it under
+`excerpt_captures`, the field the base already uses for Housel and Ahrens.
+
+Retrieved: 2026-09-04T17:05Z, one request, via curl through the session's
+egress proxy. HTTP 200, 2,024,265 bytes.
+  sha256 of the whole downloaded file:
+  4d9c41f569b4c539316cfbe539ec547defa1620b1fe34165d1eeefc4af6b89f0
+The excerpts below are contiguous line ranges of that file, reproduced
+unaltered. CCEL's plain-text cache indents body text by three spaces; that
+indentation is the etext's and is preserved.
+
+EXHAUSTION. Each excerpt runs to its own section's end and stops at the first
+line of the next section, named in its label; no excerpt ends in the middle of
+an argument. The whole file arrives in one request, so no paging question
+arises.
+
+Excerpt D: Part I, ch. VI ("The Trinity"), § 3, the sub-section "The Sabellian
+  Theory", complete -- lines 20286-20312, ending where "Arianism." begins.
+Excerpt E: Part I, ch. VI, § 3, the sub-sections "Arianism." through the end of
+  § 3 -- lines 20313-20354, ending where "§ 4. The Church Doctrine as presented
+  by the Council of Nice." begins.
+Excerpt F: Part I, ch. VI, § 4 A ("The Objects for which that Council was
+  convened"), complete, including the Council's creed and its anathemas --
+  lines 20355-20510, ending where "B. Council of Constantinople." begins.
+Excerpt G: Part I, ch. VI, § 5 ("Points decided by these Councils") COMPLETE --
+  A ("Against Sabellianism"), B ("Against the Arians and Semi-Arians") and
+  C ("The Mutual Relation of the Persons of the Trinity") -- lines 20599-20734,
+  ending where "§ 6. Examination of the Nicene Doctrine." begins.
+
+The [EXCERPT ...] markers are file structure, not source text.
+
+--------------------------------------------------------------------------------
+
+[EXCERPT D — The Sabellian Theory]
+
+   The Sabellian Theory.
+
+   Another method of solving this great problem and of satisfying the
+   religious convictions of the Church, was that adopted by the
+   Monarchians, Patripassians, or Unitarians, as they were indifferently
+   called. They admitted a modal trinity. They acknowledged the true
+   divinity of Christ, but denied any personal distinctions in the
+   Godhead. The same person is at once Father, Son, and Holy Spirit; these
+   terms expressing the different relations in which God reveals Himself
+   in the world and in the Church. Praxeas, of Asia Minor, who taught this
+   doctrine in Rome, A.D. 200; Noetus, of Smyrna, A.D. 230; Beryll, bishop
+   of Bostra, in Arabia, A.D. 250; and especially Sabellius, a presbyter
+   of Ptolemais, A.D. 250, after whom this doctrine was called
+   Sabellianism, were the principal advocates of this theory. The only
+   point as to which this doctrine satisfied the religious convictions of
+   Christians, was the true divinity of our Lord. But as it denied the
+   distinct personality of the Father and of the Spirit, to whom every
+   believer felt himself to stand in a personal relation, to whom worship
+   and prayers were addressed, it could not be received by the people of
+   God. Its opposition to Scripture was apparent. In the Bible the Father
+   is represented as constantly addressing the Son as "Thou," as loving
+   Him, as sending Him, as rewarding and exalting Him; and the Son as
+   constantly addresses the Father and refers everything to his will, so
+   that their distinct personality is one of the most clearly revealed
+   doctrines of the Word of God. Sabellianism was, therefore, soon almost
+   universally rejected.
+
+
+[EXCERPT E — Arianism, the Semi-Arians, and the close of § 3]
+
+   Arianism.
+
+   Although Origen had insisted on the distinct personality of the Son,
+   and upon his eternal generation, and although he freely called him God,
+   nevertheless he would not admit his equality with God. The Father,
+   alone, according to him was hi theos, the Son was simply theos. The Son
+   was theos ek theou and not auto-theos. And this subordination was not
+   simply as to the mode of subsistence and operation, but as to nature;
+   for Origen taught that the Son was of a different essence from the
+   Father, heteros kat' ousian, and owed his existence to the will of the
+   Father. His disciples carried out his doctrine and avowedly made Christ
+   a creature. This was done by Dionysius of Alexandria, a scholar of
+   Origen, who spoke of the Son as poiema and ktisma, a mode of
+   representation, however, which he subsequently retracted or explained
+   away. It is plain, however, that the principles of Origen were
+   inconsistent with the true divinity of Christ. It was not long,
+   therefore, before Arius, another presbyter of Alexandria, openly
+   maintained that the Son was not eternal, but was posterior to the
+   Father; that He was created not from the substance of God, but ek ouk
+   onton, and therefore was not homoousios with the Father. He admitted
+   that the Son existed before any other creature, and that it was by Him
+   God created the world.
+
+   It is to be constantly remembered that these speculations were the
+   business of the theologians. They neither expressed nor affected to
+   express the mind of the Church. The great body of the people drew their
+   faith, then, as now, immediately from the Scriptures and from the
+   services of the sanctuary. They were baptized in the name of the
+   Father, and of the Son, and of the Holy Ghost. They addressed
+   themselves to the Father as the creator of heaven and earth, and as
+   their reconciled God and Father, and to Jesus Christ as their Redeemer,
+   and to the Holy Ghost as their sanctifier and comforter. They loved,
+   worshipped, and trusted the one as they did the others. This was the
+   religious belief of the Church, which remained undisturbed by the
+   speculations and controversies of the theologians, in their attempts to
+   vindicate and explain the common faith. This state of confusion was,
+   however, a great evil, and in order to bring the Church to an agreement
+   as to the manner in which this fundamental doctrine of Christianity
+   should be stated, the Emperor Constantine summoned the First Ecumenical
+   Council, to meet at Nice, in Nicomedia, A.D. 325.
+     __________________________________________________________________
+
+
+[EXCERPT F — § 4 A, the objects of the Council of Nice, with the creed and anathemas]
+
+   § 4. The Church Doctrine as presented by the Council of Nice.
+
+   A. The Objects for which that Council was convened.
+
+   The object for which the Council was called together was three-fold.
+   (1.) To remedy the confusion which prevailed in the use of several
+   important words employed in discussions on the doctrine of the Trinity.
+   (2.) To condemn errors which had been adopted in different parts of the
+   Church. (3.) To frame such a statement of the doctrine as would include
+   all its Scriptural elements, and satisfy the religious convictions of
+   the mass of believers. This was an exceedingly difficult task.
+
+   1. Because the usus loquendi of certain important terms was not then
+   determined. The word hupostasis, for example, was used in two opposite
+   senses. It was often taken, in its etymological sense, for substance,
+   and is used by the Council itself as synonymous with ousia. But it had
+   already begun to be used in the sense of person. As it expresses
+   reality, as opposed to what is phenomenal or apparent, or mode of
+   manifestation, it came to be universally used in the Greek Church, in
+   the latter sense, as a safeguard against the idea of a mere modal
+   Trinity. It will be admitted that great confusion must prevail, if one
+   man should say there is only one hupostasis in the Godhead, and another
+   affirm that there are three, when both meant the same thing, the one
+   using the word in the sense of substance, and the other in that of
+   person.
+
+   In the Latin Church the same difficulty was experienced in the use of
+   the words substantia and subsistentia. These words were often
+   interchanged as equivalent, and both were used, sometimes in the sense
+   of substance, and sometimes in that of suppositum. Usage finally
+   determined the former to mean substance or essence, and the latter a
+   mode in which substance exists, i.e., suppositum. According to
+   established usage, therefore, there is one substance, and there are
+   three subsistences in the Godhead.
+
+   To express the idea of a suppositum intelligens, or self-conscious
+   agent, the Greeks first used the word prosopon. But as that word
+   properly means the face, the aspect, and as it was used by the
+   Sabellians to express their doctrine of the threefold aspect under
+   which the Godhead was revealed, it was rejected, and the word
+   hupostasis adopted. The Latin word persona (from per and sono) properly
+   means a mask worn by an actor and through which he spoke; and then the
+   role or character which the actor sustained. On this account the word
+   had a struggle before it was adopted in the terminology of theology.
+
+   The celebrated term homoousios, so long the subject of controversy, was
+   not free from ambiguity. It expressed plainly enough sameness of
+   substance, but whether that sameness was specific or numerical, the
+   usage of the word left undecided. Porphyry is quoted as saying, that
+   the souls of men and of irrational animals are homoousioi, and
+   Aristotle as saying that the stars are homoousioi, and men and brutes
+   are said to be homoousioi as to their bodies; and in like manner
+   angels, demons, and human souls, are said to be all homoousioi. In this
+   sense, Peter, James, and John are homoousioi, as having the same nature
+   in kind. On this account the use of the word was objected to, as
+   admitting of a Tritheistic interpretation. The Council, however,
+   determined the sense in which it was to be understood in their
+   decisions, by saying that the Son was begotten ek tes housias tou
+   patros, and by denying that He was created. As God is a spirit, and as
+   we are spirits, we are said, in Scripture, to be like Him, and to be
+   his children, to be of the same nature. But with regard to the Son it
+   was declared that He was of the same numerical essence with the Father;
+   He is truly God, possessing the same attributes and entitled to the
+   same homage. Thus explained, the word became an insuperable barrier
+   against the adoption of the Nicene Creed by any who denied the true
+   divinity of the Son of God.
+
+   Difference of Opinion among the Members of the Council.
+
+   2. A second difficulty with which the Council had to contend was
+   diversity of opinion among its own members. All the conflicting views
+   which had agitated the Church were there represented. The principal
+   parties were, first, the Arians, who held, (1.) That the Son owed his
+   existence to the will of the Father. (2.) That He was not eternal; but
+   that there was a time when He was not. (3.) That He was created ex ouk
+   onton, out of nothing, and was therefore ktisma kai poiema. (4.) That
+   He was not immutable, but treptos phusei. (5.) That his preëminence
+   consisted in the fact that He alone was created immediately by God,
+   whereas all other creatures were created by the Son. (6.) He was not
+   God of Himself, but was made God, etheopoiethe; that is, on account of
+   his exalted nature, and the relation in which He stands to all other
+   creatures, as Creator and Governor, He was entitled to divine worship.
+
+   One of the passages of Scripture on which the Arians principally relied
+   was Prov. viii. 22, which in the Septuagint is rendered: ektise me
+   archen hodon autou (He created me in the beginning of his ways). As
+   Wisdom, there spoken of, was universally understood to be the Logos,
+   and as the Septuagint was regarded as authoritative, this passage
+   seemed to prove, beyond dispute, that the Logos or Son was created. The
+   Orthodox were forced to explain away this passage by saying that
+   ktizein was here to be taken in the sense of gennan, the word elsewhere
+   used to express the relation between the Father and the Son. Ignorance,
+   or neglect of the Hebrew, prevented their answering the argument of the
+   Arians by showing that the word qnh, here rendered by the Septuagint
+   ektise, means not only to establish, but to possess. The Vulgate,
+   therefore, correetly renders the passage, "Dominus possidet me;" and
+   the English version also reads, "The Lord possessed me." The Arians
+   proper constituted a small minority of the Council.
+
+   The Semi-Arians.
+
+   The second party included the Semi-Arians and the disciples of Origen.
+   These held with the Arians, (1.) That the Son owed his existence to the
+   will of the Father. (2.) That He was not of the same essence, but
+   heteros kat' ousian. They seemed to hold that there was an essence
+   intermediate between the divine substance and created substances. It
+   was in reference to this form of opinion that Augustine afterwards
+   said, [474] "Unde liquido apparet ipsum factum non esse per quem facta
+   sunt omnia. Et si factus non est, creatura non est: si autem creatura
+   non est, ejusdem cum Patre substantiæ est. Omnis enim substantia quæ
+   Deus non est, creatura est; et quæ creatura non est, Deus est."
+
+   (3) The Son was, therefore, subordinate to the Father, not merely in
+   rank or mode of subsistence, but in nature. He belonged to a different
+   order of beings. He was not autotheos, ho Theos, or ho alethinos theos;
+   but simply theos, a term which, according to Origen, could be properly
+   applied to the higher orders of intelligent creatures.
+
+   (4.) The Son, although thus inferior to the Father, having life in
+   Himself, was the source of life, i.e., the Creator.
+
+   (5.) The Holy Spirit, according to most of the Arians and to Origen,
+   was created by the Son, -- the first and highest of the creatures
+   called into being by his power.
+
+   The Orthodox.
+
+   The third party in the Council were the Orthodox, who constituted the
+   great majority. All Christians were the worshippers of Christ. He was
+   to them the object of supreme love and the ground of their confidence;
+   to Him they were subject in heart and life. They looked to Him for
+   everything. He was their God in the highest sense of the word. He was,
+   moreover, in their apprehension, a distinct person, and not merely
+   another name for the Father. But as the conviction was no less deeply
+   rooted in the minds of Christians, that there is only one God or divine
+   Being, the problem which the Council had to solve was to harmonize
+   these apparently incompatible convictions, namely, that there is only
+   one God, and yet that the Father is God, and the Son, as a distinct
+   person, is God, the same in substance and equal in power and glory. The
+   only thing to be done was, to preserve the essential elements of the
+   doctrine, and yet not make the statement of it self-contradictory. To
+   meet these conditions, the Council framed the following Creed, namely,
+   "We believe in one God, the Father almighty, the maker of all things
+   visible and invisible; and in one Lord Jesus Christ, the Son of God,
+   only begotten, begotten of the Father, that is, of the essence of the
+   Father, God of God, Light of Light, very God of very God, begotten and
+   not made, consubstantial with the Father, by whom all things were made
+   whether in heaven or on earth; who for us men and our salvation came
+   down from heaven; and was incarnate and became man, suffered and rose
+   again on the third day; ascended into heaven, and will come to judge
+   the living and the dead. And we believe in the Holy Ghost. But those
+   who say, that there was a time when He (the Son) was not, that He was
+   not before He was made, or was made out of nothing, or of another or
+   different essence or substance, that He was a creature, or mutable, or
+   susceptible of change, the Holy Catholic Church anathematizes."
+
+
+[EXCERPT G — § 5 complete (A, B, C), the points the Councils decided]
+
+   § 5. Points decided by these Councils.
+
+   A. Against Sabellianism.
+
+   These Councils decided that the terms Father, Son, and Spirit, were not
+   expressive merely of relations ad extra, analogous to the terms,
+   Creator, Preserver, and Benefactor. This was the doctrine known as
+   Sabellianism, which assumed that the Supreme Being is not only one in
+   essence, but one in person. The Church doctrine asserts that Father,
+   Son, and Spirit express internal, necessary, and eternal relations in
+   the Godhead; that they are personal designations, so that the Father is
+   one person, the Son another person, and the Spirit another person. They
+   differ not as allo kai allo, but as allos kai allos; each says I, and
+   each says Thou, to either of the others. The word used in the Greek
+   Church to express this fact was first prosopon, and afterwards, and by
+   general consent hupostasis; in the Latin Church, "persona," and in
+   English, person. The idea expressed by the word in its application to
+   the distinctions in the Godhead, is just as clear and definite as in
+   its application to men.
+
+   B. Against the Arians and Semi-Arians.
+
+   The Councils held that the Father, Son, and Spirit are the same in
+   substance, and equal in power and glory. Whatever divine perfection,
+   whether eternity, immutability, infinity, omnipotence, or holiness,
+   justice, goodness, or truth, can be predicated of the one, can in the
+   same sense and measure be predicated of the others. These attributes
+   belonging to the divine essence, and that essence being common to the
+   three persons, the attributes or perfections are in like manner common
+   to each. It is not the Father as such, nor the Son as such, who is
+   self-existent, infinite, and eternal, but the Godhead, or divine
+   essence, which subsists in the three persons. The Greek words used to
+   express that which was common to the three persons of the Trinity were,
+   as we have seen, ousia, phusis, and at first, hupostasis; to which
+   correspond the Latin words substantia, or essentia, and natura; and the
+   English, substance, essence, and nature. The word selected by the
+   Nicene fathers to express the idea of community of substance, was,
+   homoousios. But this word, as we have already seen, may express either
+   specific sameness, or numerical identity. In the former sense, all
+   spirits, whether God, angels, or men, are homoousioi. They are similar
+   in essence, i.e., they are rational intelligences. That the Council
+   intended the word to be taken in the latter sense, as expressing
+   numerical identity, is plain, (1.) Because in its wider sense
+   homoousios does not differ from homoiousios, which word the Council
+   refused to adopt. The Arians were willing to admit that the Father,
+   Son, and Spirit were homoiousioi, but refused to admit that they were
+   homoousioi. This proves that the words were used in radically different
+   senses. (2.) Because this Council declares that the Son was eternal;
+   that He was not created or made, but begotten ek tes ousias tou patros,
+   "of the very essence of the Father." (3.) This is implied in the
+   explanation of "eternal generation" universally adopted by the Nicene
+   fathers, as "the eternal communication of the same numerical essence
+   whole and entire, from the Father to the Son." (4.) If the term
+   homoousios be taken in the sense of specific sameness, then the Nicene
+   Creed teaches Tritheism. The Father, Son, and Spirit are three Gods in
+   the same sense that Abraham, Isaac, and Jacob are three men, for all
+   men in that sense of the term are homoousioi. It is the clear doctrine
+   of these Councils that the same numerical, infinite, indivisible
+   essence subsists in the three persons of the Trinity. This is still
+   further evident from the inadequate illustrations of this great mystery
+   which the early fathers sought for in nature; as of the light, heat,
+   and splendor of the sun; the fountain and its streams; and especially
+   from memory, intelligence, and will in man. In all these illustrations,
+   however inadequate, the point of analogy was unity (numerical identity)
+   of essence with triplicity.
+
+   C. The Mutual Relation of the Persons of the Trinity.
+
+   On this subject the Nicene doctrine includes, --
+
+   1. The principle of the subordination of the Son to the Father, and of
+   the Spirit to the Father and the Son. But this subordination does not
+   imply inferiority. For as the same divine essence with all its infinite
+   perfections is common to the Father, Son, and Spirit, there can be no
+   inferiority of one person to the other in the Trinity. Neither does it
+   imply posteriority; for the divine essence common to the several
+   persons is self-existent and eternal. The subordination intended is
+   only that which concerns the mode of subsistence and operation, implied
+   in the Scriptural facts that the Son is of the Father, and the Spirit
+   is of the Father and the Son, and that the Father operates through the
+   Son, and the Father and the Son through the Spirit.
+
+   2. The several persons of the Trinity are distinguished by a certain
+   "property," as it is called, or characteristic. That characteristic is
+   expressed by their distinctive appellations. The first person is
+   characterized as Father, in his relation to the second person; the
+   second is characterized as Son, in relation to the first person; and
+   the third as Spirit, in relation to the first and second persons.
+   Paternity, therefore, is the distinguishing property of the Father;
+   filiation of the Son; and procession of the Spirit. It will be observed
+   that no attempt at explanation of these relations is given in these
+   ecumenical creeds, namely, the Nicene, that of Constantinople, and the
+   Athanasian. The mere facts as revealed in Scripture are affirmed.
+
+   3. The third point decided concerning the relation of the persons of
+   the Trinity, one to the other, relates to their union. As the essence
+   of the Godhead is common to the several persons, they have a common
+   intelligence, will, and power. There are not in God three
+   intelligences, three wills, three efficiencies. The Three are one God,
+   and therefore have one mind and will. This intimate union was expressed
+   in the Greek Church by the word perichoresis, which the Latin words
+   inexistentia, inhabitatio, and intercommunio, were used to explain.
+   These terms were intended to express the Scriptural facts that the Son
+   is in the Father, and the Father in the Son; that where the Father is,
+   there the Son and Spirit are; that what the one does the others do (the
+   Father creates, the Son creates, the Spirit creates), or, as our Lord
+   expresses it, "What things soever" the Father "doeth, these also doeth
+   the Son likewise." (John v. 19.) So also what the one knows, the others
+   know. "The Spirit searcheth all things, yea, the deep things of God.
+   For what man knoweth the things of a man, save the spirit of man which
+   is in him? even so the things of God knoweth no man, but the Spirit of
+   God." (1 Cor. ii. 10, 11.) A common knowledge implies a common
+   consciousness. In man the soul and body are distinct, yet, while
+   united, they have a common life. We distinguish between acts of the
+   intellect, and acts of the will, and yet in every act of the will there
+   is an exercise of the intelligence; as in every act of the affections
+   there is a joint action of the intelligence and will. These are not
+   illustrations of the relations of the persons of the Trinity, which are
+   ineffable, but of the fact that in other and entirely different spheres
+   there is this community of life in different subsistences, -- different
+   subsistences, at least so far as the body and soul are concerned.
+
+   This fact -- of the intimate union, communion, and inhabitation of the
+   persons of the Trinity -- is the reason why everywhere in Scripture,
+   and instinctively by all Christians, God as God is addressed as a
+   person, in perfect consistency with the Tripersonality of the Godhead.
+   We can, and do pray to each of the Persons separately; and we pray to
+   God as God; for the three persons are one God; one not only in
+   substance, but in knowledge, will, and power. To expect that we, who
+   cannot understand anything, not even ourselves, should understand these
+   mysteries of the Godhead, is to the last degree unreasonable. But as in
+   every other sphere we must believe what we cannot understand; so we may
+   believe all that God has revealed in his Word concerning Himself,
+   although we cannot understand the Almighty unto perfection.
+     __________________________________________________________________

@@ -1,0 +1,397 @@
+Verbatim capture of "A Common Word Between Us and You" (2007), the open letter
+from Muslim scholars to the leaders of the Christian churches.
+
+Fetched 2026-09-04T00:56:12Z from https://www.acommonword.com/the-acw-document/
+(HTTP 200), the site of the initiative itself, published by The Royal Aal
+al-Bayt Institute for Islamic Thought, Jordan. HTML tags stripped and runs of
+whitespace collapsed; no wording altered, nothing reordered, nothing omitted
+from the document body. The document carries the line "(c) 2007 C.E., 1428
+A.H., The Royal Aal al-Bayt Institute for Islamic Thought, Jordan."
+
+Arabic honorifics appear in the source after the names of prophets and are kept
+where they occurred. Roman-numeral markers (i, ii, iii ...) are the document's
+own endnote references; the NOTES section they point to is captured in full at
+the end.
+
+TWO DISTINCT TEXTS ARE CAPTURED BELOW, and they must not be conflated:
+
+  PART A -- the letter itself, as published on the ACW document page. This
+  opens with the Summary and Abridgement, then gives the full letter in three
+  sections (I Love of God, II Love of the Neighbour, III Come to a Common Word
+  Between Us and You), then the NOTES.
+
+  PART B -- the site's own editorial INTRODUCTION page
+  (https://www.acommonword.com/introduction-to-a-common-word-between-us-and-you/,
+  fetched at the same time). This is the initiative describing its own letter;
+  it is the source for the date, the signatory count and the circumstances, and
+  it is NOT part of the letter's text. Claims about what the letter SAYS must
+  rest on Part A; claims about who signed it and when rest on Part B.
+
+===============================================================================
+PART A -- THE LETTER
+===============================================================================
+
+A Common Word between Us and You 
+(Summary and Abridgement) In the Name of God, the Compassionate, the Merciful 
+Muslims and Christians together make up well over half of the world’s population. Without peace and justice between these two religious communities, there can be no meaningful peace in the world. The future of the world depends on peace between Muslims and Christians. 
+
+The basis for this peace and understanding already exists. It is part of the very foundational principles of both faiths: love of the One God, and love of the neighbour. These principles are found over and over again in the sacred texts of Islam and Christianity. The Unity of God, the necessity of love for Him, and the necessity of love of the neighbour is thus the common ground between Islam and Christianity. The following are only a few examples: 
+
+Of God’s Unity, God says in the Holy Qur’an: Say: He is God, the One! / God, the Self-Sufficient Besought of all! (Al-Ikhlas, 112:1-2). Of the necessity of love for God, God says in the Holy Qur’an: So invoke the Name of thy Lord and devote thyself to Him with a complete devotion (Al-Muzzammil, 73:8). Of the necessity of love for the neighbour, the Prophet Muhammad ( صلى الله عليه وسلم ) said: “None of you has faith until you love for your neighbour what you love for yourself.” 
+
+In the New Testament, Jesus Christ ( عليه سلام ) said: ‘Hear, O Israel, the Lord our God, the Lord is One. / And you shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment. / And the second, like it, is this: ‘You shall love your neighbour as yourself.’There is no other commandment greater than these.” (Mark 12:29-31) In the Holy Qur’an, God Most High enjoins Muslims to issue the following call to Christians (and Jews— the People of the Scripture ): Say: O People of the Scripture! Come to a common word between us and you: that we shall worship none but God, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside God. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him). Aal ‘Imran 3:64 The words: we shall ascribe no partner unto Him relate to the Unity of God, and the words: worship none but God, relate to being totally devoted to God. Hence they all relate to the First and Greatest Commandment . According to one of the oldest and most authoritative commentaries on the Holy Qur’an the words: that none of us shall take others for lords beside God , mean ‘that none of us should obey the other in disobedience to what God has commanded’. This relates to the Second Commandment because justice and freedom of religion are a crucial part of love of the neighbour. 
+
+Thus in obedience to the Holy Qur’an, we as Muslims invite Christians to come together with us on the basis of what is common to us, which is also what is most essential to our faith and practice: the Two Commandments of love. In the Name of God, the Compassionate, the Merciful,
+And may peace and blessings be upon the Prophet Muhammad 
+A COMMON WORD 
+BETWEEN US AND YOU 
+In the Name of God, the Compassionate, the Merciful,
+Call unto the way of thy Lord with wisdom and fair exhortation, and contend with them in the fairest way. Lo! thy Lord is Best Aware of him who strayeth from His way, and He is Best Aware of those who go aright. The Holy Qur’an, Al-Nahl, 16:125 (I) LOVE OF GOD 
+LOVE OF GOD IN ISLAM 
+The Testimonies of Faith 
+
+The central creed of Islam consists of the two testimonies of faith or Shahadahsi , which state that: There is no god but God, Muhammad is the messenger of God . These Two Testimonies are the sine qua non of Islam. He or she who testifies to them is a Muslim; he or she who denies them is not a Muslim. Moreover, the Prophet Muhammad ( صلى الله عليه وسلم ) said: The best remembrance is: ‘There is no god but God’ ... ii 
+
+The Best that All the Prophets have Said 
+
+Expanding on the best remembrance , the Prophet Muhammad ( صلى الله عليه وسلم ) also said: The best that I have said—myself, and the prophets that came before me —is: ‘There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things’ iii . The phrases which follow the First Testimony of faith are all from the Holy Qur’an; each describe a mode of love of God, and devotion to Him.
+
+The words: He Alone , remind Muslims that their heartsiv must be devoted to God Alone, since God says in the Holy Qur’an: God hath not assigned unto any man two hearts within his body (Al-Ahzab, 33:4). God is Absolute and therefore devotion to Him must be totally sincere.
+
+The words: He hath no associate , remind Muslims that they must love God uniquely, without rivals within their souls, since God says in the Holy Qur’an: Yet there are men who take rivals unto God: they love them as they should love God. But those of faith are more intense in their love for God... (Al-Baqarah, 2:165). Indeed, [T]heir flesh and their hearts soften unto the remembrance of God... (Al-Zumar, 39:23).
+
+The words: His is the sovereignty , remind Muslims that their minds or their understandings must be totally devoted to God, for the sovereignty is precisely everything in creation or existence and everything that the mind can know. And all is in God’s Hand, since God says in the Holy Qur’an: Blessed is He in Whose Hand is the sovereignty, and, He is Able to do all things (Al-Mulk, 67:1).
+
+The words: His is the praise remind Muslims that they must be grateful to God and trust Him with all their sentiments and emotions. God says in the Holy Qur’an:
+
+And if thou wert to ask them: Who created the heavens and the earth, and constrained the sun and the moon (to their appointed work)? they would say: God. How then are they turned away ? / God maketh the provision wide for whom He will of His servants, and straiteneth it for whom (He will). Lo! God is Aware of all things. / And if thou wert to ask them: Who causeth water to come down from the sky, and therewith reviveth the earth after its death ? they verily would say: God. Say: Praise be to God! But most of them have no sense. (Al-’Ankabut, 29:61-63) v 
+
+For all these bounties and more, human beings must always be truly grateful:
+
+God is He Who created the heavens and the earth, and causeth water to descend from the sky, thereby producing fruits as food for you, and maketh the ships to be of service unto you, that they may run upon the sea at His command, and hath made of service unto you the rivers; / And maketh the sun and the moon, constant in their courses, to be of service unto you, and hath made of service unto you the night and the day./ And He giveth you of all ye ask of Him, and if ye would count the graces of God ye cannot reckon them. Lo! man is verily a wrong-doer, an ingrate. (Ibrahim, 14:32-34) vi 
+
+Indeed, the Fatihah—which is the greatest chapter in the Holy Qur’an vii —starts with praise to God: 
+
+In the Name of God, the Infinitely Good, the All-Merciful. / 
+Praise be to God, the Lord of the worlds. / 
+The Infinitely Good, the All-Merciful. / 
+Owner of the Day of Judgement. / 
+Thee we worship, and Thee we ask for help. / 
+Guide us upon the straight path. / 
+The path of those on whom is Thy Grace, not those who deserve anger nor those who are astray. 
+(Al-Fatihah, 1:1-7)
+
+The Fatihah , recited at least seventeen times daily by Muslims in the canonical prayers, reminds us of the praise and gratitude due to God for His Attributes of Infinite Goodness and All-Mercifulness, not merely for His Goodness and Mercy to us in this life but ultimately, on the Day of Judgement viii when it matters the most and when we hope to be forgiven for our sins. It thus ends with prayers for grace and guidance, so that we might attain—through what begins with praise and gratitude— salvation and love, for God says in the Holy Qur’an: Lo! those who believe and do good works, the Infinitely Good will appoint for them love. (Maryam, 19:96)
+
+The words: and He hath power over all things , remind Muslims that they must be mindful of God’s Omnipotence and thus fear God ix . God says in the Holy Qur’an:
+
+… [A]nd fear God, and know that God is with the God-fearing. / Spend your wealth for the cause of God, and be not cast by your own hands to ruin; and do good. Lo! God loveth the virtuous. / ... (Al-Baqarah, 2:194-5)...
+
+[A]nd fear God, and know that God is severe in punishment. (Al-Baqarah, 2:196)
+
+Through fear of God, the actions, might and strength of Muslims should be totally devoted to God. God says in the Holy Qur’an: 
+
+...[A]nd know that God is with those who fear Him. (Al-Tawbah, 9:36) ...
+
+O ye who believe! What aileth you that when it is said unto you: Go forth in the way of God, ye are bowed down to the ground with heaviness. Take ye pleasure in the life of the world rather than in the Hereafter ? The comfort of the life of the world is but little in the Hereafter. / If ye go not forth He will afflict you with a painful doom, and will choose instead of you a folk other than you. Ye cannot harm Him at all. God is Able to do all things. (Al-Tawbah, 9:38-39) 
+
+The words: His is the sovereignty and His is the praise and He hath power over all things , when taken all together, remind Muslims that just as everything in creation glorifies God, everything that is in their souls must be devoted to God: 
+
+All that is in the heavens and all that is in the earth glorifieth God; His is the sovereignty and His is the praise and He hath power over all things. (Al-Taghabun, 64:1)
+
+For indeed, all that is in people’s souls is known, and accountable, to God:
+
+He knoweth all that is in the heavens and the earth, and He knoweth what ye conceal and what ye publish. And God is Aware of what is in the breasts (of men). (Al-Taghabun, 64:4)
+
+As we can see from all the passages quoted above, souls are depicted in the Holy Qur’an as having three main faculties: the mind or the intelligence, which is made for comprehending the truth; the will which is made for freedom of choice, and sentiment which is made for loving the good and the beautiful x . Put in another way, we could say that man’s soul knows through understanding the truth, through willing the good, and through virtuous emotions and feeling love for God. Continuing in the same chapter of the Holy Qur’an (as that quoted above), God orders people to fear Him as much as possible, and to listen (and thus to understand the truth); to obey (and thus to will the good), and to spend (and thus to exercise love and virtue), which, He says, is better for our souls. By engaging everything in our souls—the faculties of knowledge, will, and love—we may come to be purified and attain ultimate success:
+
+So fear God as best ye can, and listen, and obey, and spend; that is better for your souls. And those who are saved from the pettiness of their own souls, such are the successful. (Al-Taghabun, 64:16)
+
+In summary then, when the entire phrase He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things is added to the testimony of faith— There is no god but God —it reminds Muslims that their hearts, their individual souls and all the faculties and powers of their souls (or simply their entire hearts and souls) must be totally devoted and attached to God. Thus God says to the Prophet Muhammad ( صلى الله عليه وسلم ) in the Holy Qur’an: 
+
+Say: Lo! my worship and my sacrifice and my living and my dying are for God, Lord of the Worlds. / He hath no partner. This am I commanded, and I am first of those who surrender (unto Him). / Say: Shall I seek another than God for Lord, when He is Lord of all things? Each soul earneth only on its own account, nor doth any laden bear another’s load... (Al-An’am, 6:162-164)
+
+These verses epitomize the Prophet Muhammad’s ( صلى الله عليه وسلم ) complete and utter devotion to God. Thus in the Holy Qur’an God enjoins Muslims who truly love God to follow this example xi , in order in turn to be loved xii by God:
+
+Say, (O Muhammad, to mankind): If ye love God, follow me; God will love you and forgive you your sins. God is Forgiving, Merciful. (Aal ‘Imran, 3:31)
+
+Love of God in Islam is thus part of complete and total devotion to God; it is not a mere fleeting, partial emotion. As seen above, God commands in the Holy Qur’an: Say: Lo! my worship and my sacrifice and my living and my dying are for God, Lord of the Worlds. / He hath no partner. The call to be totally devoted and attached to God heart and soul, far from being a call for a mere emotion or for a mood, is in fact an injunction requiring all-embracing, constant and active love of God. It demands a love in which the innermost spiritual heart and the whole of the soul—with its intelligence, will and feeling—participate through devotion.
+
+None Comes with Anything Better 
+
+We have seen how the blessed phrase: There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things —which is the best that all the prophets have said—makes explicit what is implicit in the best remembrance (There is no god but God) by showing what it requires and entails, by way of devotion. It remains to be said that this blessed formula is also in itself a sacred invocation—a kind of extension of the First Testimony of faith ( There is no god but God )—the ritual repetition of which can bring about, through God’s grace, some of the devotional attitudes it demands, namely, loving and being devoted to God with all one’s heart, all one’s soul, all one’s mind, all one’s will or strength, and all one’s sentiment. Hence the Prophet Muhammad ( صلى الله عليه وسلم ) commended this remembrance by saying: 
+
+He who says: ‘There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things’ one hundred times in a day, it is for them equal to setting ten slaves free, and one hundred good deeds are written for them and one hundred bad deeds are effaced, and it is for them a protection from the devil for that day until the evening. And none offers anything better than that, save one who does more than that. xiii 
+
+In other words, the blessed remembrance, There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things , not only requires and implies that Muslims must be totally devoted to God and love Him with their whole hearts and their whole souls and all that is in them, but provides a way, like its beginning (the testimony of faith)—through its frequent repetition xiv —for them to realize this love with everything they are. 
+
+God says in one of the very first revelations in the Holy Qur’an: So invoke the Name of thy Lord and devote thyself to Him with a complete devotion (Al-Muzzammil, 73:8).
+
+LOVE OF GOD AS THE FIRST AND GREATEST COMMANDMENT IN THE BIBLE 
+
+The Shema in the Book of Deuteronomy (6:4-5), a centrepiece of the Old Testament and of Jewish liturgy, says: Hear, O Israel: The LORD our God, the LORD is one! / You shall love the LORD your God with all your heart, and with all your soul, and with all your strength. xv 
+
+Likewise, in the New Testament, when Jesus Christ, the Messiah ( عليه سلام ), is asked about the Greatest Commandment, he answers ( عليه سلام ): 
+
+But when the Pharisees heard that he had silenced the Sadducees, they gathered together. / Then one of them, a lawyer, asked Him a question, testing Him, and saying, / “Teacher, which is the great commandment in the law?” / Jesus said to him, ” ‘You shall love the LORD your God with all your heart, with all your soul, and with all your mind.’ / This is the first and greatest commandment. / And the second is like it: ‘You shall love your neighbour as yourself.’/ On these two commandments hang all the Law and the Prophets.” (Matthew 22:34-40)
+
+And also: 
+
+Then one of the scribes came, and having heard them reasoning together, perceiving that he had answered them well, asked him, “Which is the first commandment of all?” / Jesus answered him, “The first of all the commandments is: ‘Hear, O Israel, the LORD our God, the LORD is one. / And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’This is the first commandment. / And the second, like it, is this: ‘You shall love your neighbour as yourself.’There is no other commandment greater than these.” (Mark 12:28-31)
+
+The commandment to love God fully is thus the First and Greatest Commandment of the Bible. Indeed, it is to be found in a number of other places throughout the Bible including: Deuteronomy 4:29, 10:12, 11:13 (also part of the Shema ), 13:3, 26:16, 30:2, 30:6, 30:10; Joshua 22:5; Mark 12:32-33 and Luke 10:27-28. 
+
+However, in various places throughout the Bible, it occurs in slightly different forms and versions. For instance, in Matthew 22:37 ( You shall love the LORD your God with all your heart, with all your soul, and with all your mind ), the Greek word for “heart” is kardia , the word for “soul” is psyche , and the word for “mind” is dianoia . In the version from Mark 12:30 ( And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength ) the word “strength” is added to the aforementioned three, translating the Greek word ischus . 
+
+The words of the lawyer in Luke 10:27 (which are confirmed by Jesus Christ ( عليه سلام ) in Luke 10:28) contain the same four terms as Mark 12:30. The words of the scribe in Mark 12:32 (which are approved of by Jesus Christ ( عليه سلام ) in Mark 12:34) contain the three terms kardia (“heart”), dianoia (“mind”), and ischus (“strength”). 
+
+In the Shema of Deuteronomy 6:4-5 (Hear, O Israel: The LORD our God, the LORD is one! / You shall love the LORD your God with all your heart, and with all your soul, and with all your strength). In Hebrew the word for “heart” is lev, the word for “soul” is nefesh, and the word for “strength” is me’od. 
+
+In Joshua 22:5, the Israelites are commanded by Joshua ( عليه سلام ) to love God and be devoted to Him as follows: 
+
+“But take careful heed to do the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God, to walk in all His ways, to keep His commandments, to hold fast to Him, and to serve Him with all your heart and with all your soul.” (Joshua 22:5)
+
+What all these versions thus have in common—despite the language differences between the Hebrew Old Testament, the original words of Jesus Christ ( عليه سلام ) in Aramaic, and the actual transmitted Greek of the New Testament—is the command to love God fully with one’s heart and soul and to be fully devoted to Him. This is the First and Greatest Commandment for human beings. 
+
+In the light of what we have seen to be necessarily implied and evoked by the Prophet Muhammad’s ( صلى الله عليه وسلم ) blessed saying: ‘The best that I have said—myself, and the prophets that came before me—is: ‘There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things’ xvi , we can now perhaps understand the words ‘The best that I have said—myself, and the prophets that came before me’ as equating the blessed formula ‘There is no god but God, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things’ precisely with the ‘First and Greatest Commandment’ to love God, with all one’s heart and soul, as found in various places in the Bible. That is to say, in other words, that the Prophet Muhammad ( صلى الله عليه وسلم ) was perhaps, through inspiration, restating and alluding to the Bible’s First Commandment. God knows best, but certainly we have seen their effective similarity in meaning. Moreover, we also do know (as can be seen in the endnotes), that both formulas have another remarkable parallel: the way they arise in a number of slightly differing versions and forms in different contexts, all of which, nevertheless, emphasize the primacy of total love and devotion to God xvii . 
+
+(II) LOVE OF THE NEIGHBOUR 
+LOVE OF THE NEIGHBOUR IN ISLAM There are numerous injunctions in Islam about the necessity and paramount importance of love for—and mercy towards—the neighbour. Love of the neighbour is an essential and integral part of faith in God and love of God because in Islam without love of the neighbour there is no true faith in God and no righteousness. The Prophet Muhammad ( صلى الله عليه وسلم ) said: “None of you has faith until you love for your brother what you love for yourself.” xviii And: “None of you has faith until you love for your neighbour what you love for yourself.” xix 
+
+However, empathy and sympathy for the neighbour—and even formal prayers— are not enough. They must be accompanied by generosity and self-sacrifice. God says in the Holy Qur’an:
+
+It is not righteousness that ye turn your faces xx to the East and the West; but righteous is he who believeth in God and the Last Day and the angels and the Scripture and the prophets; and giveth wealth, for love of Him, to kinsfolk and to orphans and the needy and the wayfarer and to those who ask, and to set slaves free; and observeth proper worship and payeth the poor-due. And those who keep their treaty when they make one, and the patient in tribulation and adversity and time of stress. Such are they who are sincere. Such are the pious. (Al-Baqarah 2:177) 
+
+And also:
+
+Ye will not attain unto righteousness until ye expend of that which ye love. And whatsoever ye expend, God is Aware thereof. (Aal ‘Imran, 3:92)
+
+Without giving the neighbour what we ourselves love, we do not truly love God or the neighbour. 
+
+LOVE OF THE NEIGHBOUR IN THE BIBLE 
+
+We have already cited the words of the Messiah, Jesus Christ ( عليه سلام ), about the paramount importance, second only to the love of God, of the love of the neighbour: 
+
+This is the first and greatest commandment. / And the second is like it: ‘You shall love your neighbour as yourself.’/ On these two commandments hang all the Law and the Prophets. (Matthew 22:38-40)
+
+And:
+
+And the second, like it, is this: ‘You shall love your neighbour as yourself.’There is no other commandment greater than these.” (Mark 12:31)
+
+It remains only to be noted that this commandment is also to be found in the Old Testament:
+
+You shall not hate your brother in your heart. You shall surely rebuke your neighbour, and not bear sin because of him. / You shall not take vengeance, nor bear any grudge against the children of your people, but you shall love your neighbour as yourself: I am the LORD. (Leviticus 19:17-18)
+
+Thus the Second Commandment, like the First Commandment, demands generosity and self-sacrifice, and On these two commandments hang all the Law and the Prophets. (III) COME TO A COMMON WORD BETWEEN US AND YOU 
+A COMMON WORD Whilst Islam and Christianity are obviously different religions—and whilst there is no minimising some of their formal differences—it is clear that the Two Greatest Commandments are an area of common ground and a link between the Qur’an, the Torah and the New Testament. What prefaces the Two Commandments in the Torah and the New Testament, and what they arise out of, is the Unity of God—that there is only one God. For the Shema in the Torah, starts: (Deuteronomy 6:4) Hear, O Israel: The LORD our God, the LORD is one! Likewise, Jesus ( عليه سلام ) said: (Mark 12:29) “The first of all the commandments is: ‘Hear, O Israel, the LORD our God, the LORD is one”. Likewise, God says in the Holy Qur’an: Say: He, God, is One. / God, the Self-Sufficient Besought of all. (Al-Ikhlas, 112:1-2). Thus the Unity of God, love of Him, and love of the neighbour form a common ground upon which Islam and Christianity (and Judaism) are founded. 
+
+This could not be otherwise since Jesus ( عليه سلام ) said: (Matthew 22:40) “On these two commandments hang all the Law and the Prophets.” Moreover, God confirms in the Holy Qur’an that the Prophet Muhammad ( صلى الله عليه وسلم ) brought nothing fundamentally or essentially new: Naught is said to thee (Muhammad) but what already was said to the messengers before thee (Fussilat 41:43). And: Say (Muhammad): I am no new thing among the messengers (of God), nor know I what will be done with me or with you. I do but follow that which is Revealed to me, and I am but a plain warner (Al-Ahqaf, 46:9). Thus also God in the Holy Qur’an confirms that the same eternal truths of the Unity of God, of the necessity for total love and devotion to God (and thus shunning false gods), and of the necessity for love of fellow human beings (and thus justice), underlie all true religion:
+
+And verily We have raised in every nation a messenger, (proclaiming): Worship God and shun false gods. Then some of them (there were) whom God guided, and some of them (there were) upon whom error had just hold. Do but travel in the land and see the nature of the consequence for the deniers! (Al-Nahl, 16:36)
+
+We verily sent Our messengers with clear proofs, and revealed with them the Scripture and the Balance, that mankind may stand forth in justice... (Al-Hadid, 57:25)
+
+In the Holy Qur’an, God Most High tells Muslims to issue the following call to Christians (and Jews— the People of the Scripture ):
+
+Say: O People of the Scripture! Come to a common word between us and you: that we shall worship none but God, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside God. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him). (Aal ‘Imran 3:64)
+
+Clearly, the blessed words: we shall ascribe no partner unto Him relate to the Unity of God. Clearly also, worshipping none but God , relates to being totally devoted to God and hence to the First and Greatest Commandment . According to one of the oldest and most authoritative commentaries (tafsir) on the Holy Qur’an—the Jami’ Al-Bayan fi Ta’wil Al-Qur’an of Abu Ja’far Muhammad bin Jarir Al-Tabari (d. 310 A.H. / 923 C.E.)— that none of us shall take others for lords beside God , means ‘that none of us should obey in disobedience to what God has commanded, nor glorify them by prostrating to them in the same way as they prostrate to God’. In other words, that Muslims, Christians and Jews should be free to each follow what God commanded them, and not have ‘to prostrate before kings and the like’ xxi ; for God says elsewhere in the Holy Qur’an: Let there be no compulsion in religion... (Al-Baqarah, 2:256). This clearly relates to the Second Commandment and to love of the neighbour of which justice xxii and freedom of religion are a crucial part. God says in the Holy Qur’an: 
+
+God forbiddeth you not those who warred not against you on account of religion and drove you not out from your homes, that ye should show them kindness and deal justly with them. Lo! God loveth the just dealers. (Al-Mumtahinah, 60:8)
+
+We thus as Muslims invite Christians to remember Jesus’s ( عليه سلام ) words in the Gospel (Mark 12:29-31): 
+
+...the LORD our God, the LORD is one. / And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’This is the first commandment. / And the second, like it, is this: ‘You shall love your neighbour as yourself.’There is no other commandment greater than these. 
+
+As Muslims, we say to Christians that we are not against them and that Islam is not against them—so long as they do not wage war against Muslims on account of their religion, oppress them and drive them out of their homes, (in accordance with the verse of the Holy Qur’an [ Al-Mumtahinah, 60:8] quoted above). Moreover, God says in the Holy Qur’an:
+
+They are not all alike. Of the People of the Scripture there is a staunch community who recite the revelations of God in the night season, falling prostrate (before Him). / They believe in God and the Last Day, and enjoin right conduct and forbid indecency, and vie one with another in good works. These are of the righteous. / And whatever good they do, nothing will be rejected of them. God is Aware of those who ward off (evil). (Aal-’Imran, 3:113-115)
+
+Is Christianity necessarily against Muslims? In the Gospel Jesus Christ ( عليه سلام ) says: 
+
+He who is not with me is against me, and he who does not gather with me scatters abroad. (Matthew 12:30)
+
+For he who is not against us is on our side. (Mark 9:40)
+
+...for he who is not against us is on our side. (Luke 9:50)
+
+According to the Blessed Theophylact’s xxiii Explanation of the New Testament , these statements are not contradictions because the first statement (in the actual Greek text of the New Testament) refers to demons, whereas the second and third statements refer to people who recognised Jesus, but were not Christians. Muslims recognize Jesus Christ as the Messiah, not in the same way Christians do (but Christians themselves anyway have never all agreed with each other on Jesus Christ’s ( عليه سلام ) nature), but in the following way: ...the Messiah Jesus son of Mary is a Messenger of God and His Word which he cast unto Mary and a Spirit from Him... (Al-Nisa’, 4:171). We therefore invite Christians to consider Muslims not against and thus with them , in accordance with Jesus Christ’s ( عليه سلام ) words here.
+
+Finally, as Muslims, and in obedience to the Holy Qur’an, we ask Christians to come together with us on the common essentials of our two religions... that we shall worship none but God, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside God... (Aal ‘Imran, 3:64).
+
+Let this common ground be the basis of all future interfaith dialogue between us, for our common ground is that on which hangs all the Law and the Prophets (Matthew 22:40). God says in the Holy Qur’an:
+
+Say (O Muslims): We believe in God and that which is revealed unto us and that which was revealed unto Abraham, and Ishmael, and Isaac, and Jacob, and the tribes, and that which Moses and Jesus received, and that which the prophets received from their Lord. We make no distinction between any of them, and unto Him we have surrendered. / And if they believe in the like of that which ye believe, then are they rightly guided. But if they turn away, then are they in schism, and God will suffice thee against them. He is the Hearer, the Knower. (Al-Baqarah, 2:136-137)
+
+Between Us and You
+
+Finding common ground between Muslims and Christians is not simply a matter for polite ecumenical dialogue between selected religious leaders. Christianity and Islam are the largest and second largest religions in the world and in history. Christians and Muslims reportedly make up over a third and over a fifth of humanity respectively. Together they make up more than 55% of the world’s population, making the relationship between these two religious communities the most important factor in contributing to meaningful peace around the world. If Muslims and Christians are not at peace, the world cannot be at peace. With the terrible weaponry of the modern world; with Muslims and Christians intertwined everywhere as never before, no side can unilaterally win a conflict between more than half of the world’s inhabitants. Thus our common future is at stake. The very survival of the world itself is perhaps at stake.
+
+And to those who nevertheless relish conflict and destruction for their own sake or reckon that ultimately they stand to gain through them, we say that our very eternal souls are all also at stake if we fail to sincerely make every effort to make peace and come together in harmony. God says in the Holy Qur’an: Lo! God enjoineth justice and kindness, and giving to kinsfolk, and forbiddeth lewdness and abomination and wickedness. He exhorteth you in order that ye may take heed(Al Nahl, 16:90). Jesus Christ ( عليه سلام ) said: Blessed are the peacemakers ... (Matthew 5:9), and also: For what profit is it to a man if he gains the whole world and loses his soul? (Matthew 16:26).
+
+So let our differences not cause hatred and strife between us. Let us vie with each other only in righteousness and good works. Let us respect each other, be fair, just and kind to another and live in sincere peace, harmony and mutual goodwill. God says in the Holy Qur’an:
+
+And unto thee have We revealed the Scripture with the truth, confirming whatever Scripture was before it, and a watcher over it. So judge between them by that which God hath revealed, and follow not their desires away from the truth which hath come unto thee. For each We have appointed a law and a way. Had God willed He could have made you one community. But that He may try you by that which He hath given you (He hath made you as ye are). So vie one with another in good works. Unto God ye will all return, and He will then inform you of that wherein ye differ. (Al-Ma’idah, 5:48)
+
+Wal-Salaamu ‘Alaykum,
+
+Pax Vobiscum
+
+© 2007 C.E., 1428 A.H., 
+The Royal Aal al-Bayt Institute for Islamic Thought, Jordan. 
+See: A Common Word 
+NOTES 
+
+i In Arabic: La illaha illa Allah Muhammad rasul Allah . The two Shahadahs actually both occur (albeit separately) as phrases in the Holy Qur’an (in Muhammad 47:19, and Al-Fath 48:29, respectively).
+
+ii Sunan Al-Tirmidhi, Kitab Al-Da’awat, 462/5, no. 3383; Sunan Ibn Majah, 1249/2.
+
+iii Sunan Al-Tirmidhi, Kitab Al-Da’awat, Bab al-Du’a fi Yawm ‘Arafah, Hadith no. 3934. 
+It is important to note that the additional phrases, He Alone, He hath no associate, His is the sovereignty and His is the praise and He hath power over all things , all come from the Holy Qur’an, in exactly those forms, albeit in different passages. He Alone —referring to God Y—is found at least six times in the Holy Qur’an (7:70; 14:40; 39:45; 40:12; 40:84 and 60:4). He hath no associate , is found in exactly that form at least once (Al-An’am, 6:173). His is the sovereignty and His is the praise and He hath power over all things , is found in exactly this form once in the Holy Qur’an (Al-Taghabun, 64:1), and parts of it are found a number of other times (for instance, the words, He hath power over all things , are found at least five times: 5:120; 11:4; 30:50; 42:9 and 57:2).
+
+iv The Heart In Islam the (spiritual, not physical) heart is the organ of perception of spiritual and metaphysical knowledge. Of one of the Prophet Muhammad’s ( صلى الله عليه وسلم ) greatest visions God says in the Holy Qur’an: The inner heart lied not (in seeing) what it saw . (al-Najm, 53:11) Indeed, elsewhere in the Holy Qur’an, God says: [F]or indeed it is not the eyes that grow blind, but it is the hearts, which are within the bosoms, that grow blind . (Al-Hajj, 22:46; see whole verse and also: 2:9-10; 2:74; 8:24; 26:88-89; 48:4; 83:14 et al... There are in fact over a hundred mentions of the heart and its synonyms in the Holy Qur’an.)
+
+Now there are different understandings amongst Muslims as regards the direct Vision of God (as opposed to spiritual realities as such) God, be it in this life or the next—God says in the Holy Qur’an (of the Day of Judgement):
+
+That day will faces be resplendent, / Looking toward their Lord; (Al-Qiyamah, 75:22-23)
+
+Yet God also says in the Holy Qur’an:
+
+Such is God, your Lord. There is no God save Him, the Creator of all things, so worship Him. And He taketh care of all things. / Vision comprehendeth Him not, but He comprehendeth (all) vision. He is the Subtile, the Aware. / Proofs have come unto you from your Lord, so whoso seeth, it is for his own good, and whoso is blind is blind to his own hurt. And I am not a keeper over you. (Al-An’am, 6:102-104)
+
+Howbeit, it is evident that the Muslim conception of the (spiritual) heart is not very different from the Christian conception of the (spiritual) heart, as seen in Jesus’s ( عليه سلام ) words in the New Testament: 
+Blessed are the pure in heart, for they shall see God. (Matthew 5:8); and Paul’s words: For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I shall know just as I am known . (1 Corinthians 13:12)
+
+v See also: Luqman , 31:25. 
+vi See also: Al-Nahl , 16:3-18. 
+vii Sahih Bukhari, Kitab Tafsir Al-Qur’an, Bab ma Ja’a fi Fatihat Al-Kitab (Hadith no.1); also: Sahih Bukhari, Kitab Fada’il Al-Qur’an, Bab Fadl Fatihat Al-Kitab , (Hadith no.9), no. 5006.
+
+viii The Prophet Muhammad ( صلى الله عليه وسلم ) said:
+
+God has one hundred mercies. He has sent down one of them between genii and human beings and beasts and animals and because of it they feel with each other; and through it they have mercy on each other; and through it, the wild animal feels for its offspring. And God has delayed ninety-nine mercies through which he will have mercy on his servants on the Day of Judgement. (Sahih Muslm, Kitab Al-Tawbah; 2109/4; no. 2752; see also Sahih Bukhari, Kitab Al-Riqaq, no. 6469).
+
+ix Fear of God is the Beginning of Wisdom 
+
+The Prophet Muhammad ( صلى الله عليه وسلم ) is reported to have said: The chief part of wisdom is fear of God—be He exalted (Musnad al-Shahab , 100/1; Al-Dulaymi, Musnad Al-Firdaws , 270/2; Al-Tirmidhi, Nawadir Al-Usul ; 84/3; Al-Bayhaqi, Al-Dala’il and Al-Bayhaqi, Al-Shu’ab ; Ibn Lal, Al-Makarim ; Al-Ash’ari, Al-Amthal , et al.) This evidently is similar to the Prophet Solomon ( عليه سلام ) words in the Bible: The fear of the LORD is the beginning of Wisdom... (Proverbs 9:10); and: The fear of the LORD is the beginning of knowledge. (Proverbs 1:7)
+
+x The Intelligence, the Will and Sentiment in the Holy Qur’an 
+
+Thus God in the Holy Qur’an tells human being to believe in Him and call on Him (thereby using the intelligence) with fear (which motivates the will) and with hope (and thus with sentiment): 
+Only those believe in Our revelations who, when they are reminded of them, fall down prostrate and hymn the praise of their Lord, and they are not scornful, / Who forsake their beds to cry unto their Lord in fear and hope, and spend of that We have bestowed on them. / No soul knoweth what is kept hid for them of joy, as a reward for what they used to do. (Al-Sajdah, 32:15-17) 
+
+(O mankind!) Call upon your Lord humbly and in secret. Lo! He loveth not aggressors. / Work not confusion in the earth after the fair ordering (thereof), and call on Him in fear and hope. Lo! the mercy of God is near unto the virtuous. (Al-A’raf, 7:55-56) 
+
+Likewise, the Prophet Muhammad ( صلى الله عليه وسلم ) himself is described in terms which manifest knowledge (and hence the intelligence), eliciting hope (and hence sentiment) and instilling fear (and hence motivating the will):
+
+O Prophet! Lo! We have sent thee as a witness and a bringer of good tidings and a warner. (Al-Ahzab, 33:45) 
+
+Lo! We have sent thee (O Muhammad) as a witness and a bearer of good tidings and a warner, (Al-Fath, 48:8) 
+
+xi A Goodly Example 
+
+The love and total devotion of the Prophet Muhammad ( صلى الله عليه وسلم ) to God is for Muslims the model that they seek to imitate. God says in the Holy Qur’an:
+Verily in the messenger of God ye have a goodly example for him who hopeth for God and the Last Day, and remembereth God much. (Al-Ahzab, 33:21) 
+
+The totality of this love excludes worldliness and egotism, and is itself beautiful and loveable to Muslims. Love of God is itself loveable to Muslims. God says in the Holy Qur’an:
+And know that the messenger of God is among you. If he were to obey you in many matters, ye would surely fall into misfortune; but God hath made the faith loveable to you and hath beautified it in your hearts, and hath made disbelief and lewdness and rebellion hateful unto you. Such are they who are the rightly guided. (Al-Hujurat, 49:7) 
+
+xii This ‘particular love’ is in addition to God’s universal Mercy which embraceth all things (Al-A’raf, 7:156) ; but God knows best.
+
+xiii Sahih Al-Bukhari, Kitab Bad’ al-Khalq, Bab Sifat Iblis wa Junudihi; Hadith no. 3329.
+
+Other Versions of the Blessed Saying 
+
+This blessed saying of the Prophet Muhammad’s ( صلى الله عليه وسلم ) , is found in dozens of hadith (sayings of the Prophet Muhammad r) in differing contexts in slightly varying versions. 
+
+The one we have quoted throughout in the text ( There is no god but God, He alone. He hath no associate. His is the sovereignty, and His is the praise, and He hath power over all things ) is in fact the shortest version. It is to be found in Sahih al-Bukhari: Kitab al-Adhan (no. 852); Kitab al-Tahajjud (no. 1163); Kitab al-’Umrah (no. 1825); Kitab Bad’ al-Khalq (no. 3329); Kitab al-Da’awat (nos. 6404, 6458, 6477); Kitab al-Riqaq (no. 6551); Kitab al-I’tisam bi’l-Kitab (no. 7378); in Sahih Muslim: Kitab al-Masajid (nos. 1366, 1368, 1370, 1371, 1380); Kitab al-Hajj (nos. 3009, 3343); Kitab al-Dhikr wa’l-Du’a’ (nos. 7018, 7020, 7082, 7084); in Sunan Abu Dawud: Kitab al-Witr (nos. 1506, 1507, 1508); Kitab al-Jihad (no. 2772); Kitab al-Kharaj (no. 2989); Kitab al-Adab (nos. 5062, 5073, 5079); in Sunan al-Tirmidhi: Kitab al-Hajj (no. 965); Kitab al-Da’awat (nos. 3718, 3743, 3984); in Sunan al-Nasa’i: Kitab al-Sahw (nos. 1347, 1348, 1349, 1350, 1351); Kitab Manasik al-Hajj (nos. 2985, 2997); Kitab al-Iman wa’l-Nudhur (no. 3793); in Sunan Ibn Majah: Kitab al-Adab (no. 3930); Kitab al-Du’a’ (nos. 4000, 4011); and in Muwatta’ Malik: Kitab al-Qur’an (nos. 492, 494); Kitab al-Hajj (no. 831).
+
+A longer version including the words yuhyi wa yumit —(There is no god but God, He alone. He hath no associate. His is the sovereignty, and His is the praise. He giveth life, and He giveth death, and He hath power over all things.)—is to be found in Sunan Abu Dawud: Kitab al-Manasik (no. 1907); in Sunan al-Tirmidhi: Kitab al-Salah (no. 300); Kitab al-Da’awat (nos. 3804, 3811, 3877, 3901); and in Sunan al-Nasa’i: Kitab Manasik al-Hajj (nos. 2974, 2987, 2998); Sunan Ibn Majah: Kitab al-Manasik (no. 3190).
+
+Another longer version including the words bi yadihi al-khayr —(There is no god but God, He alone. He hath no associate. His is the sovereignty, and His is the praise. In His Hand is the good, and He hath power over all things.)—is to be found in Sunan Ibn Majah: Kitab al-Adab (no. 3931); Kitab al-Du’a’ (no. 3994).
+
+The longest version, which includes the words yuhyi wa yumit wa Huwa Hayyun la yamut bi yadihi al-khayr —(There is no god but God, He alone. He hath no associate. His is the sovereignty, and His is the praise. He giveth life, and He giveth death. He is the Living, who dieth not. In His Hand is the good, and He hath power over all things.)—is to be found in Sunan al-Tirmidhi: Kitab al-Da’awat (no. 3756) and in Sunan Ibn Majah: Kitab al-Tijarat (no. 2320), with the difference that this latter hadith reads: bi yadihi al-khayr kuluhu (in His Hand is all good).
+
+It is important to note, however, that the Prophet Muhammad r, only described the first (shortest) version as: the best that I have said—myself, and the prophets that came before me , and only of that version did the Prophet ( صلى الله عليه وسلم ) say: And none comes with anything better than that, save one who does more than that. 
+
+(These citations refer to the numbering system of The Sunna Project’s Encyclopaedia of Hadith (Jam’ Jawami’ al-Ahadith wa’l-Asanid) , prepared in cooperation with the scholars of al-Azhar, which includes Sahih al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Sunan al-Tirmidhi, Sunan al-Nasa’i, Sunan Ibn Majah, and Muwatta’ Malik. )
+
+xiv Frequent Remembrance of God in the Holy Qur’an 
+
+The Holy Qur’an is full of injunctions to invoke or remember God frequently:
+
+Remember the name of thy Lord at morn and evening. (Al-Insan , 76:25)
+
+So remember God, standing, sitting and [lying] down on your sides (Al-Nisa, 4:103).
+
+And do thou (O Muhammad) remember thy Lord within thyself humbly and with awe, below thy breath, at morn and evening. And be not thou of the neglectful (Al-’Araf, 7:205).
+
+... Remember thy Lord much, and praise (Him) in the early hours of night and morning (Aal ‘Imran, 3:41).
+
+O ye who believe! Remember God with much remembrance. / And glorify Him early and late (Al-Ahzab, 33:41-42). 
+
+(See also: 2:198-200; 2:203; 2:238-239; 3:190-191; 6:91; 7:55; 7:180; 8:45; 17:110; 22:27-41; 24:35-38; 26:227; 62:9-10; 87:1-17, et al.)
+
+Similarly, the Holy Qur’an is full of verses that emphasize the paramount importance of the Remembrance of God (see: 2:151-7; 5:4; 6:118; 7:201; 8:2-4; 13:26-28; 14:24-27; 20:14; 20:33-34; 24:1; 29:45; 33:35; 35:10; 39:9; 50:37; 51:55-58; and 33:2; 39:22-23 and 73:8-9 as already quoted, et al.), and the dire consequences of not practising it (see: 2:114; 4:142; 7:179-180; 18:28; 18:100-101; 20:99-101; 20:124-127; 25:18; 25:29; 43:36; 53:29; 58:19; 63:9; 72:17 et al.; see also 107:4-6). 
+
+Hence God ultimately says in the Holy Qur’an:
+
+Has not the time arrived for the believers that their hearts in all humility should engage in the remembrance of God... ? (Al-Hadid, 57:16); 
+...[S]lacken not in remembrance of Me (Taha, 20:42),
+and: Remember your Lord whenever you forget (Al-Kahf, 18:24).
+
+xv Herein all Biblical Scripture is taken from the New King James Version. Copyright © 1982 by Thomas Nelson, Inc. Used by permission. All rights reserved.
+
+xvi Sunan Al-Tirmithi, Kitab Al-Da’wat, Bab al-Du’a fi Yawm ‘Arafah, Hadith no. 3934. Op. cit...
+
+xvii 
+In the Best Stature 
+
+Christianity and Islam have comparable conceptions of man being created in the best stature and from God’s own breath. The Book of Genesis says: 
+
+(Genesis, 1:27) So God created man in His own image; in the image of God He created him; male and female He created them. 
+
+And: 
+
+(Genesis, 2:7) And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being. 
+
+And the Prophet Muhammad ( صلى الله عليه وسلم ) said: Verily God created Adam in His own image. (Sahih Al-Bukhari, Kitab Al-Isti’than, 1; Sahih Muslim, Kitab Al-Birr 115; Musnad Ibn Hanbal, 2: 244, 251, 315, 323 etc. et al.)
+
+And We created you, then fashioned you, then told the angels: Fall ye prostrate before Adam! And they fell prostrate, all save Iblis, who was not of those who make prostration. (Al-A’raf, 7:11)
+
+By the fig and the olive / By Mount Sinai, / And by this land made safe / Surely We created man of the best stature / Then We reduced him to the lowest of the low, / Save those who believe and do good works, and theirs is a reward unfailing. / So who henceforth will give the lie to the about the judgment? / Is not God the wisest of all judges? (Al-Tin, 95:1-8)
+
+God it is Who appointed for you the earth for a dwelling-place and the sky for a canopy, and fashioned you and perfected your shapes, and hath provided you with good things. Such is God, your Lord. Then blessed be God, the Lord of the Worlds! (Al-Ghafir, 40:64)
+
+Nay, but those who do wrong follow their own lusts without knowledge. Who is able to guide him whom God hath sent astray ? For such there are no helpers. / So set thy purpose (O Muhammad) for religion as a man by nature upright – the nature (framed) of God, in which He hath created man. There is no altering (the laws of) God’s creation. That is the right religion, but most men know not—/ (Al-Rum, 30:29-30)
+
+And when I have fashioned him and breathed into him of My Spirit, then fall down before him prostrate, (Sad, 38:72)
+
+And when thy Lord said unto the angels: Lo! I am about to place a viceroy in the earth, they said: Wilt thou place therein one who will do harm therein and will shed blood, while we, we hymn Thy praise and sanctify Thee ? He said: Surely I know that which ye know not. / And He taught Adam all the names, then showed them to the angels, saying: Inform Me of the names of these, if ye are truthful/ They said: Be glorified! We have no knowledge saving that which Thou hast taught us. Lo! Thou, only Thou, art the Knower, the Wise. / He said: O Adam! Inform them of their names, and when he had informed them of their names, He said: Did I not tell you that I know the secret of the heavens and the earth ? And I know that which ye disclose and which ye hide. / And when We said unto the angels: Prostrate yourselves before Adam, they fell prostrate, all save Iblis. He demurred through pride, and so became a disbeliever... / And We said: O Adam! Dwell thou and thy wife in the Garden, and eat ye freely (of the fruits) thereof where ye will; but come not nigh this tree lest ye become wrong-doers. (Al-Baqarah, 2:30-35)
+
+xviii Sahih Al-Bukhari, Kitab al-Iman, Hadith no.13.
+
+xix Sahih Muslim , Kitab al-Iman, 67-1, Hadith no. 45.
+
+xx The classical commentators on the Holy Qur’an (see: Tafsir Ibn Kathir, Tafsir Al-Jalalayn ) generally agree that this is a reference to (the last movements of) the Muslim prayer.
+
+xxi Abu Ja’far Muhammad Bin Jarir Al-Tabari, Jami’ al-Bayan fi Ta’wil al-Qur’an, (Dar al-Kutub al-’Ilmiyyah , Beirut, Lebanon, 1st ed, 1992/1412,) tafsir of Aal-’Imran , 3:64; Volume 3, pp. 299-302.
+
+xxii According to grammarians cited by Tabari (op cit.) the word ‘common’ ( sawa’ ) in ‘a common word between us’ also means ‘just’, ‘fair’ ( adl ).
+
+xxiii The Blessed Theophylact (1055-1108 C.E.) was the Orthodox Archbishop of Ochrid and Bulgaria (1090-1108 C.E.). His native language was the Greek of the New Testament. His Commentary is currently available in English from Chrysostom Press.
+
+===============================================================================
+PART B -- THE INITIATIVE'S OWN INTRODUCTION (editorial, not the letter's text)
+Fetched 2026-09-04T00:56:12Z from
+https://www.acommonword.com/introduction-to-a-common-word-between-us-and-you/
+===============================================================================
+
+On October 13th 2006, one month to the day after Pope Benedict XVI’s Regensburg address of September 13th 2006, 38 Islamic authorities and scholars from around the world, representing all denominations and schools of thought, joined together to deliver an answer to the Pope in the spirit of open intellectual exchange and mutual understanding. In their Open Letter to the Pope , for the first time in recent history, Muslim scholars from every branch of Islam spoke with one voice about the true teachings of Islam. 
+
+Exactly one year after that letter, on October 13th 2007 Muslims expanded their message. In A Common Word Between Us and You, 138 Muslim scholars, clerics and intellectuals have unanimously come together for the first time since the days of the Prophet ( صلى الله عليه وسلم ) to declare the common ground between Christianity and Islam. Like the Open Letter, the signatories to this message come from every denomination and school of thought in Islam. Every major Islamic country or region in the world is represented in this message, which is addressed to the leaders of all the world’s churches, and indeed to all Christians everywhere.
+
+The final form of the letter was presented at a conference in September 2007 held under the theme of “Love in the Quran,” by the Royal Academy of The Royal Aal al-Bayt Institute for Islamic Thought in Jordan, under the Patronage of H.M. King Abdullah II. Indeed, the most fundamental common ground between Islam and Christianity, and the best basis for future dialogue and understanding, is the love of God and the love of the neighbor.
+
+Never before have Muslims delivered this kind of definitive consensus statement on Christianity. Rather than engage in polemic, the signatories have adopted the traditional and mainstream Islamic position of respecting the Christian scripture and calling Christians to be more, not less, faithful to it.
+
+It is hoped that this document will provide a common constitution for the many worthy organizations and individuals who are carrying out interfaith dialogue all over the world. Often these groups are unaware of each other, and duplicate each other’s efforts. Not only can A Common Word Between Us give them a starting point for cooperation and worldwide co-ordination, but it does so on the most solid theological ground possible: the teachings of the Qu’ran and the Prophet ( صلى الله عليه وسلم ), and the commandments described by Jesus Christ (عليه سلام) in the Bible. Thus despite their differences, Islam and Christianity not only share the same Divine Origin and the same Abrahamic heritage, but the same two greatest commandments.

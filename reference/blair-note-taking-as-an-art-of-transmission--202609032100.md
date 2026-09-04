@@ -36,7 +36,7 @@ verification:
   source: https://doi.org/10.1086/427303
   verified: true
   identifier_check: confirmed
-  date: '2026-09-03T20:57:51Z'
+  date: '2026-09-04T16:22:51Z'
 raw_capture: raw/202609032100-blair-note-taking-art-of-transmission-excerpts.txt
 links: []
 created: '2026-09-03'

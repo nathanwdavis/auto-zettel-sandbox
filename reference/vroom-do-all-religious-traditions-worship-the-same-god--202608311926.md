@@ -37,7 +37,7 @@ verification:
   source: https://doi.org/10.1017/s0034412500020217
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:36Z'
+  date: '2026-09-04T16:23:18Z'
 raw_capture: raw/202608311912-vroom-1990-abstract.txt
 links: []
 created: '2026-08-31'

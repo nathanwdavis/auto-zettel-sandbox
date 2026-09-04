@@ -31,6 +31,10 @@ links:
   relation: elaborates
 - target_id: a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005
   relation: contradicts
+- target_id: the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115
+  relation: contradicts
+- target_id: the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
+  relation: contradicts
 created: '2026-08-31'
 updated: '2026-09-04'
 ---
@@ -103,3 +107,32 @@ distinct, the distinction really does explain how the disputants above talk past
 each other, and Pauw's sentence really does state it. What does not survive is
 the claim of exhaustiveness. Read this note as an account of one family of
 answers — the ones that accept the question — and not as the map of the terrain.
+
+**A limit on this note, added 2026-09-04.** Every source above is Christian or
+secular: Pauw, Nostra Aetate, Tachin, Mohler, Vroom. That was invisible while
+the note read as a neutral map of the dispute, and it is not neutral. When
+Muslim scholars addressed Christians collectively, in *A Common Word Between Us
+and You* (2007), they used neither of the two questions this note sorts
+positions by — conceding descriptive divergence outright, presupposing rather
+than arguing a shared referent, and putting a shared *obligation* where an
+answer would go
+([[the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115]]).
+The "at least" in the sentence above is therefore doing more work than it
+looks: there is at least a third question in play, *what is jointly commanded
+of us*, and this note has no slot for it. The reference/description distinction
+remains accurate for the Christian and analytic debate it was drawn from. It
+should not be presented as the shape of the dispute as such.
+
+**And a fourth question, added 2026-09-04 from the classical register.** The
+paragraph above was written from a modern collective statement. The classical
+Muslim commentaries, now captured, do not use the third question either. Asked
+what makes the "common word" common, al-Maturidi (d. 333/944) answers from what
+the addressees already concede — that God is the creator and their Lord — and
+disputes only where their worship is directed
+([[the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215]]).
+That is a fourth question again: *do you render to the one you already
+acknowledge what is owed to him*. It treats co-reference as an unargued premise
+rather than as a thesis, which is why a commentary can leave "our God and your
+God is one" unglossed and lose nothing. Two of the four questions this note now
+knows about were invisible to it while its sources were all on one side of the
+dispute.

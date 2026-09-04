@@ -32,7 +32,7 @@ verification:
   source: https://openlibrary.org/isbn/9780857197689
   verified: true
   identifier_check: confirmed
-  date: '2026-09-01T15:34:31Z'
+  date: '2026-09-04T16:23:01Z'
 raw_capture: raw/202608311036-housel-psychology-of-money.txt
 excerpt_captures:
 - raw/202608311119-housel-ch4-confounding-compounding-excerpt.txt

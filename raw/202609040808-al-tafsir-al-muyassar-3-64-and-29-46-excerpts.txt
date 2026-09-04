@@ -1,0 +1,50 @@
+SOURCE CAPTURE — al-Tafsir al-Muyassar (a committee of scholars; King Fahd Complex for the Printing of the Holy Qur'an),
+al-Tafsir al-Muyassar, on Q 3:64 and Q 29:46.
+Arabic, verbatim. NOT public domain — see the copyright note below.
+
+Retrieved: 2026-09-04T07:58Z
+Endpoint: Quran.com API v4, tafsir resource 16 (slug ar-tafsir-muyassar,
+          resource_name "الميسر", language arabic)
+  Q 3:64  https://api.quran.com/api/v4/tafsirs/16/by_ayah/3:64
+  Q 29:46 https://api.quran.com/api/v4/tafsirs/16/by_ayah/29:46
+SHA-256 of the retrieved JSON payloads:
+  3:64   76d9aa6eba19b9c55f3b5ddc0d446cb1f80d6bb3c8b820842bf1d51f303d45f6
+  29:46  d3cbe0d2ab5e56af9785d5ca63dbc8f639c4e60a6178bb899046cf991503026c
+
+TRANSFORMATION APPLIED, AND THE ONLY ONE. The API returns the comment as an
+HTML fragment. Every tag was replaced by a newline and HTML entities were
+unescaped; not one Arabic character was added, removed or reordered. The payload
+hashes above are of the JSON exactly as served, so the transformation is
+reversible from the endpoint.
+
+EDITION — STATED HONESTLY. The API names no printed edition. Locators built on
+this capture are by sura:aya, the natural and edition-independent locator for a
+verse commentary. No page of any printed edition is claimed.
+
+COPYRIGHT, AND WHY THE QUANTITY IS WHAT IT IS. This is a modern work under
+copyright, and the 2026-09-04 INBOX entry about all-rights-reserved full texts
+sitting in a public repository is still awaiting a human decision. So this
+capture takes the minimum that supports what the notes say.
+
+    The served comment is a single short paraphrase per verse — about 470 and
+    435 characters — and is reproduced in full below, because there is no
+    smaller unit that still shows what the gloss on the shared-God clause is
+    doing. This is a modern, in-copyright work, and the quantity taken is two
+    sentences.
+
+========================================================================
+Q 3:64 — resource 16
+========================================================================
+
+قل -أيها الرسول-
+ لأهل الكتاب من اليهود والنصارى:
+ تعالَوْا إلى كلمة عدل وحق نلتزم بها جميعًا: وهي أن نَخُص الله وحده بالعبادة، ولا نتخذ أي شريك معه، من وثن أو صنم أو صليب أو طاغوت أو غير ذلك، ولا يدين بعضنا لبعض بالطاعة من دون الله. فإن أعرضوا عن هذه الدعوة الطيبة فقولوا لهم -أيها المؤمنون-: اشهدوا علينا بأنا مسلمون منقادون لربنا بالعبودية والإخلاص. والدعوة إلى كلمة سواء، كما تُوجَّه إلى اليهود والنصارى، توجَّه إلى من جرى مجراهم.
+
+========================================================================
+Q 29:46 — resource 16
+========================================================================
+
+ولا تجادلوا -أيها المؤمنون- اليهودَ والنصارى إلا بالأسلوب الحسن، والقول الجميل، والدعوة إلى الحق بأيسر طريق موصل لذلك، إلا الذين حادوا عن وجه الحق وعاندوا وكابروا وأعلنوا الحرب عليكم فجالدوهم بالسيف حتى يؤمنوا، أو يعطوا الجزية عن يدٍ وهم صاغرون،
+ وقولوا:
+ آمنا بالقرآن الذي أُنزل إلينا، وآمنا بالتوراة والإنجيل اللذَيْن أُنزلا إليكم، وإلهنا وإلهكم واحد لا شريك له في ألوهيته، ولا في ربوبيته، ولا في أسمائه وصفاته، ونحن له خاضعون متذللون بالطاعة فيما أمرنا به، ونهانا عنه.
+
