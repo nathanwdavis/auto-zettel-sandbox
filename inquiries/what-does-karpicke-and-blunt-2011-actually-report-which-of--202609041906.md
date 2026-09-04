@@ -20,17 +20,29 @@ Opened by the 2026-09-04T18:53Z cycle, which found the gap and could not close
 it from the source it had.
 
 Reading Camerer et al. 2018 first-hand established that two of the twenty-one
-findings in the Social Sciences Replication Project come from this base's own
-retrieval-practice literature: a Karpicke and Blunt paper in *Science* (2011),
-which replicated at stage 1, and Pyc and Rawson (2010), which replicated only
-after stage 2. That is the first pre-registered, high-powered replication
-evidence this base has on the retrieval side of its evidence cluster, and it
-currently cannot be used, for a reason permanent 202609041920 states about
-itself: **this repository does not hold the Karpicke and Blunt paper.** It knows
-the finding replicated only from a list of superscript reference numbers read
-against a figure-legend key. It does not know which result the SSRP chose, what
-that result was, or how it relates to
+findings in the Social Sciences Replication Project are attributed to authors
+whose surnames recur across this base's memory-and-learning cluster: a Karpicke
+and Blunt paper in *Science* (2011), which replicated at stage 1, and Pyc and
+Rawson (2010), which replicated only after stage 2.
+
+That is the whole of what is known, and the question exists because it is so
+little. **This repository does not hold either paper**, and the SSRP supplies
+only a surname, a year and a journal — no title, no abstract, no design.
+Whether these are retrieval-practice papers at all is therefore a guess, and
+permanent 202609041920 refuses it explicitly, on the ground that this base
+already holds
+[[morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205]]
+— the same Rawson, in the note-taking literature rather than the
+retrieval-practice one. Surname does not fix a literature. Nor is it known
+which result within each paper the SSRP chose, what that result was, or how
+any of it bears on
 [[retrieval-not-re-exposure-is-what-makes-learning-last--202609040340]].
+
+*(Corrected 2026-09-04T19:22Z. This paragraph originally said the two findings
+"come from this base's own retrieval-practice literature" and called them the
+first pre-registered replication evidence on the retrieval side. Both assert
+the attribution the note this inquiry cites is careful to refuse; the wording
+predated that note's own correction and was flagged on PR #64 after it merged.)*
 
 What would answer this:
 

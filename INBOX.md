@@ -3808,3 +3808,45 @@ verifying and recording are different jobs and the gates only need the first.
 This is the third distinct form of one root cause — the verifier treats its own
 current lookup as authoritative over a record it did not write — and the two
 earlier entries plus this one should probably be closed by a single change.
+
+## 2026-09-04 — Tooling: cycles append to log.md with printf and it silently eats apostrophes, so the run log is not searchable for the words it most needs
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T19:22Z correction run, on a review-bot finding against
+the 18:53Z cycle's own log entries.
+
+**WHAT IS WRONG.** Several entries appended by the 18:53Z cycle have their
+apostrophes stripped or replaced by a dot: `Publisher.s PDF` where the source
+says "Publisher's PDF", and `the file s own cover sheet`, `this cycle s log`,
+`the publisher s notice` where each wants an apostrophe. The cause is the
+append itself: the entries were written with `printf` from a single-quoted
+shell string, and an apostrophe inside one either terminates the quoting or is
+mangled by the escaping used to avoid that.
+
+**WHY IT IS WORTH AN ENTRY RATHER THAN A SHRUG.** Two reasons, and the second
+is the real one.
+
+  1. `log.md` is APPEND-ONLY by house rule and `check_skill_sandbox` enforces
+     it against the whole-cycle diff. So these lines cannot be repaired. Every
+     instance is permanent, which makes the rate at which they accumulate the
+     only variable anyone controls.
+  2. The log is this repository's memory of its own operation, and it is used
+     by SEARCH — every cycle greps it for the last `serendipity_sweep:` entry,
+     the last `skill-smith:` entry, a defect it half-remembers. A quoted phrase
+     that does not match what the source actually says is a quotation this base
+     cannot find again, and the words most likely to carry an apostrophe are
+     exactly the ones being quoted from a source.
+
+**THE FIX, for whoever writes the next cycle's appends.** Do not build log
+lines as shell strings. Write them through a quoted heredoc (`<<'EOF'`), which
+passes apostrophes through untouched, or through `capture.py`-style Python that
+takes the text as data. This cycle's own INBOX entries went through
+`capture.py --body -` with a quoted heredoc and have no such damage anywhere in
+them, which is the demonstration: the same text, the same session, one route
+intact and the other not.
+
+Worth a line in the skill's remote maintenance prompt, since the prompt is what
+tells every cycle to append one line per step and says nothing about how.

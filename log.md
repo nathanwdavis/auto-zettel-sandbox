@@ -1556,3 +1556,15 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-04T19:15:52Z` build_manifest: 263 notes indexed
 - `2026-09-04T19:16:18Z` capture: inbox -> INBOX.md
 - `2026-09-04T19:16:18Z` build_manifest: 263 notes indexed
+- `2026-09-04T19:22:01Z` remote_cycle: agents: resolved 8 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
+- `2026-09-04T19:22:01Z` remote_cycle: start (mode=B holder=remote-session session=unknown branch=zettel/run-20260904192201 skill-rev=d986b16)
+- `2026-09-04T19:22:33Z` capture: inbox -> INBOX.md
+- `2026-09-04T19:22:33Z` build_manifest: 263 notes indexed
+- `2026-09-04T19:22:42Z` lint_citations: PASS
+- `2026-09-04T19:22:42Z` lint_links: PASS
+- `2026-09-04T19:22:42Z` lint_skills: PASS
+- `2026-09-04T19:22:42Z` check_skill_sandbox: PASS
+- `2026-09-04T19:23:00Z` correction run: PR #64 merged as f9bca1a, approved by the Copilot reviewer with three findings. One was real and is fixed here. Inquiry 202609041906 said the two SSRP findings "come from this base's own retrieval-practice literature" -- the exact attribution the critic made this cycle strike from permanent 202609041920 an hour earlier, on the ground that the capture gives only surname, year and journal and that this base already holds Morehead, Dunlosky and RAWSON in a different literature. The inquiry body predated the critic's report and was never brought into line, so it shipped asserting as established the thing the note it cites refuses. Rewritten around what the source supports, with the correction marked in the body rather than made silently. An inquiry is the worse of the two places for that error, because the next cycle reads it as its brief
+- `2026-09-04T19:23:00Z` correction run: the other two findings are missing apostrophes in this log, and they are NOT fixable -- log.md is append-only and check_skill_sandbox enforces it, so a run log that could be tidied afterwards would not be a log. Cause filed in INBOX instead: the 18:53Z cycle appended with printf from single-quoted shell strings, which ate every apostrophe, while its INBOX entries went through capture.py with a quoted heredoc and are undamaged. Same session, same text, one route intact. The cost is not cosmetic -- every cycle greps this file for its own history, and a quoted phrase that does not match the source is one this base cannot find again
+- `2026-09-04T19:23:00Z` correction run: the fix was DEFERRED for nineteen minutes because a scheduled cycle held the run lock, and `remote_cycle.sh start` exited 3. Stood down rather than forcing it, recorded the correction on the merged PR so it could not be lost, and waited. Worth noting for the next cycle that reads this: a first attempt to watch for the lock polled `remote_cycle.sh status` for a string the script never prints, and so reported the lock free on its first poll while it was still held. `status` prints exactly `lock: free`; anything else is a live holder
+- `2026-09-04T19:23:03Z` build_manifest: 263 notes indexed
