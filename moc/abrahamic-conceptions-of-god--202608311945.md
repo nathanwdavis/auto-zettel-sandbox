@@ -277,6 +277,33 @@ A standing item closed with them: Tantawi's *al-Wasit*, found on one host by the
 08:00Z cycle and deliberately not built on, is now attested on two independent
 hosts, which also corrected a lemma this base had recorded from the weaker copy.
 
+### al-Maturidi, added 2026-09-04: the silence turns out to be as old as the gloss
+
+The section above left two things that would move this cluster, and named the
+first: al-Maturidi's *Ta'wilat ahl al-sunna*, the last major classical
+theological school unsampled here. He does not gloss the clause either — but he
+died in 333/944, twenty-three years after al-Tabari, which makes him a
+contemporary rather than a successor and closes the reading on which al-Tabari's
+identification was a commonplace that the tradition later let go.
+
+- [[the-silence-about-the-shared-god-clause-begins-in-al-tabaris-own-generation--202609041210]]
+- [[the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215]]
+- [[the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220]]
+
+What he supplies in place of the gloss is the more useful half. Asked what makes
+the "common word" of Q 3:64 common, he answers from what the addressees already
+concede — `أقروا جميعاً أنه خالق السماوات والأرض، وأنه ربهم`, they all
+acknowledged Him to be the creator of the heavens and the earth and their Lord —
+and disputes only where their worship goes. That is a fourth question again,
+after reference, description and joint command, and it is one on which
+co-reference is the unargued premise of a rebuke rather than a thesis to be
+established. It is also why the clause can be elided and nothing lost, which is
+what he does: twice he quotes the sentence carrying it and writes `إلى آخر ما
+ذكر` instead.
+
+The remaining item from the section above is untouched and is still the one that
+would move the *mushrikun* question: the *Ahkam al-Qur'an* literature.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -314,6 +341,8 @@ Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--20260
 (literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]], [[qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810]], [[ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812]], [[baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814]], [[saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816]], [[the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818]], [[razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910]]).
 Islam, the Mu'tazili and Shi'i commentaries, and a modern Azhari one: [[zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000]], [[tusi-al-tibyan-on-3-64-and-29-46--202609041100]], [[tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105]], [[tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110]]
 (literature: [[zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005]], [[tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115]], [[tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120]], [[tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125]]).
+Islam, the Maturidi school: [[maturidi-tawilat-ahl-al-sunna-on-3-64-and-29-46--202609041200]]
+(literature: [[maturidi-elides-the-shared-god-clause-and-grounds-the-common-word-in-what-they-already-concede--202609041205]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

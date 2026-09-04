@@ -1550,5 +1550,23 @@
     },
     "title": "al-Tafsīr al-Wasīṭ li-l-Qurʾān al-Karīm",
     "type": "book"
+  },
+  {
+    "URL": "https://www.altafsir.com/Tafasir.asp?tMadhNo=2&tTafsirNo=94&tSoraNo=29&tAyahNo=46&tDisplay=yes",
+    "author": [
+      {
+        "literal": "Abū Manṣūr Muḥammad ibn Muḥammad al-Māturīdī"
+      }
+    ],
+    "id": "202609041200",
+    "issued": {
+      "date-parts": [
+        [
+          944
+        ]
+      ]
+    },
+    "title": "Taʾwīlāt ahl al-sunna",
+    "type": "book"
   }
 ]
