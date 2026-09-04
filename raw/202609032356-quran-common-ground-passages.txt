@@ -1,0 +1,48 @@
+Verbatim capture of Qur'an passages in which the Qur'an addresses the People
+of the Scripture on shared ground: the affirmation that the God addressed is
+one and the same, the call to a common word, and the acknowledgement of
+prior revelation.
+
+Fetched 2026-09-03T23:55:56Z from the AlQuran Cloud API
+(https://api.alquran.cloud/v1/ayah/<ref>/en.pickthall), edition en.pickthall —
+Marmaduke Pickthall, The Meaning of the Glorious Koran (1930), a translation in
+the public domain.
+
+WHY THIS CAPTURE EXISTS. It is the deliberate complement to
+raw/202608311910-quran-tawhid-passages.txt, which holds Surah 112, 4:171 and
+5:73 — all three of which mark DIFFERENCE (divine oneness against
+association, "say not 'Three'", "they surely disbelieve who say: Allah is the
+third of three"). That capture was assembled to bear on the same-God question
+and contains no verse running the other way, which makes it selection-shaped
+whether or not it was meant that way. raw/ is immutable, so the correction is
+a second capture rather than an edit to the first. Neither capture is the
+Qur'an's whole word on the subject; read together they are less unbalanced
+than either alone.
+
+Surah 29 (Al-Ankaboot, "The Spider"), Meccan revelation, ayah 46, complete:
+And argue not with the People of the Scripture unless it be in (a way) that is better, save with such of them as do wrong; and say: We believe in that which hath been revealed unto us and revealed unto you; our Allah and your Allah is One, and unto Him we surrender.
+
+Surah 3 (Aal-i-Imraan), Medinan revelation, ayah 64, complete:
+Say: O People of the Scripture! Come to an agreement between us and you: that we shall worship none but Allah, and that we shall ascribe no partner unto Him, and that none of us shall take others for lords beside Allah. And if they turn away, then say: Bear witness that we are they who have surrendered (unto Him).
+
+Surah 2 (Al-Baqara), Medinan revelation, ayat 136-137, complete:
+2:136  Say (O Muslims): We believe in Allah and that which is revealed unto us and that which was revealed unto Abraham, and Ishmael, and Isaac, and Jacob, and the tribes, and that which Moses and Jesus received, and that which the prophets received from their Lord. We make no distinction between any of them, and unto Him we have surrendered.
+2:137  And if they believe in the like of that which ye believe, then are they rightly guided. But if they turn away, then are they in schism, and Allah will suffice thee (for defence) against them. He is the Hearer, the Knower.
+
+Surah 5 (Al-Maaida), Medinan revelation, ayah 48, complete:
+And unto thee have We revealed the Scripture with the truth, confirming whatever Scripture was before it, and a watcher over it. So judge between them by that which Allah hath revealed, and follow not their desires away from the truth which hath come unto thee. For each We have appointed a divine law and a traced-out way. Had Allah willed He could have made you one community. But that He may try you by that which He hath given you (He hath made you as ye are). So vie one with another in good works. Unto Allah ye will all return, and He will then inform you of that wherein ye differ.
+
+TRANSLATION NOTE, recorded because a note in this base turns on it. At 3:64
+Pickthall as served by this API renders the phrase kalima sawa' as "Come to an
+agreement between us and you". The 2007 open letter A Common Word Between Us
+and You renders the same phrase "Come to a common word between us and you" and
+takes its title from that rendering; its quotations of the Qur'an are its own
+and are not identified as Pickthall's, though much of its wording elsewhere
+tracks Pickthall closely. The two renderings are of the same Arabic. Anything
+citing "a common word" as Qur'anic wording is citing the letter's rendering,
+not this one.
+
+Two limits on this capture. It is a translation, and the doctrinal weight in
+Islam rests on the Arabic. And each ayah here is captured complete but without
+its surrounding passage, so context beyond the verse boundary is not in
+evidence.

@@ -6,14 +6,16 @@ aliases:
 - '202609032122'
 type: inquiry
 created: '2026-09-03'
-updated: '2026-09-03'
+updated: '2026-09-04'
 question: How do Muslim theologians themselves argue the same-God question, and what
   happens to the base's conclusions when the Islamic side is argued from inside rather
   than described from outside?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005
+- the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -86,3 +88,70 @@ If the reference/description framing is one that Muslim theologians do not
 actually use, that note is a Christian-philosophical frame presented as the
 neutral shape of the dispute, and the run should say so plainly rather than
 adding a corroborating footnote.
+
+**Answer (2026-09-04):** Answered on the test this inquiry set, and the answer
+is yes — an existing permanent note had to change, and it was the most-linked
+note in the base.
+
+*A Common Word Between Us and You* (2007) is now captured and grounded
+([[a-common-word-between-us-and-you--202609032358]], literature
+[[a-common-word-grounds-common-ground-in-shared-commandment--202609040001]]).
+Candidate source 1 was reachable in full from the initiative's own site; the
+excerpt captured is the material bearing on the same-God question.
+
+What it shows is not another answer on the reference/description grid. The
+letter never asks whether Muslims and Christians worship the same God, and never
+answers it in those terms — checked directly against the captured text, where
+neither the phrase nor the question in any wording occurs. It grounds the
+relation between the two communities in shared commandment instead ("love of
+the One God, and love of the neighbour"), and concedes doctrinal difference in
+the same sentence that asserts the commonality. So the framing in
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]] is
+a framing that a party to the dispute, speaking collectively and to Christians,
+declines to use.
+
+That note has accordingly been amended, plainly and in its own body, with a
+section saying that its grid is built entirely from Christian and secular
+sources and is not the shape of the dispute as such. What survives is stated
+too: the reference/description distinction is real and does explain how its own
+four sources talk past each other. What does not survive is the claim of
+exhaustiveness. The new note carries a `contradicts` link to it, not a
+corroborating footnote. See
+[[a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005]].
+
+The structural echo is worth recording: shituf
+([[shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542]])
+reaches the same move from inside halakhah — refuse the identification question,
+answer one about obligation instead. Two traditions, asked whether the other's
+God is theirs, both change the subject. That is now visible in the base because
+both sides are argued from inside.
+
+The second note out of this cycle is the sharper one:
+[[the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010]].
+Qur'an 3:64's "ascribe no partner unto Him" is both the clause that rules
+trinitarian language out (the same objection as 4:171 and 5:73) and the clause
+the letter's whole invitation is built on. The generosity and the demand are one
+sentence read twice.
+
+THE CHEAP CHECKABLE PIECE IS DONE. The selection-shaped Qur'an capture is
+corrected, not by editing raw/ (immutable) but by a second capture:
+raw/202609032356-quran-common-ground-passages.txt holds 29:46 ("our Allah and
+your Allah is One, and unto Him we surrender"), plus 3:64, 2:136-137 and 5:48,
+from the same public-domain Pickthall edition via the same API. Reference
+202608311923 gains it as an `excerpt_capture`, and its body now records why the
+first selection was one-sided. One thing the check turned up that the inquiry
+did not anticipate: the letter does NOT quote 29:46, the verse that speaks most
+directly to shared divine identity, even though it is the affirming verse —
+which is itself evidence that declining the identity question was a choice.
+
+WHAT IS NOT ANSWERED, and why this inquiry's wider question stays open even
+though its stated test is met. This is ONE document, and a collective ecumenical
+letter with a stated peacemaking purpose is a genre with its own reasons for
+setting a divisive question aside. It establishes that this statement declines
+the question, NOT that Muslim theology declines it. Candidate sources 3 and 4
+were not attempted this cycle and are exactly what would test it — Ibn Taymiyya's
+*al-Jawab al-Sahih*, which argues the question head-on and is the hostile witness
+the Jewish side got in Modena, and al-Ghazali's *Faysal al-Tafriqa* on who counts
+as outside the faith. Candidate source 2, Saritoprak, is also still uncaptured,
+so he remains named in this base only secondhand. Those three are filed as a
+fresh INBOX lead rather than left inside a closed inquiry.

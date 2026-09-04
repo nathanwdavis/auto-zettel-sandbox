@@ -944,3 +944,170 @@ A run may not edit config.yml topics to match what it has already written —
 that would let the base silently redefine its own scope, and the genesis rule
 is that topics are asked of the human and never guessed. Recording it here so
 the next run reads a decision instead of re-deriving the discrepancy.
+
+## 2026-09-04 — Tooling, HIGH: `remote_cycle.sh start` fails with exit 128 in any fresh clone, because `origin/HEAD` is unset and `set -e` defeats its own fallback
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 cycle, hit on its first action)
+
+This cycle could not start until it worked around a reproducible bug in the
+skill's own entrypoint. Filing it because an unattended run with no session to
+diagnose it would simply have died here, and the symptom ("start failed;
+releasing lock", exit 128) names nothing.
+
+WHAT HAPPENS. `remote_cycle.sh start` does:
+
+    DEFAULT_BRANCH="$(git -C "$REPO" symbolic-ref --short refs/remotes/origin/HEAD 2>/dev/null | sed 's|origin/||')"
+    DEFAULT_BRANCH="${DEFAULT_BRANCH:-main}"
+
+The `:-main` fallback shows the author knew the probe can fail. But the script
+runs under `set -e` with an `ERR` trap installed a few lines earlier, and a
+failing command substitution in an assignment still trips both — the `2>/dev/null`
+hides the message, not the exit status. So the trap fires, prints "start failed;
+releasing lock", releases the just-claimed lock, and exits 128 before the
+fallback is ever consulted.
+
+WHY IT BITES HERE AND NOT ON A LAPTOP. `refs/remotes/origin/HEAD` is set by
+`git clone`, but NOT by the shallow/filtered checkout that the remote execution
+container performs. `git symbolic-ref refs/remotes/origin/HEAD` in this
+container returns "fatal: ref refs/remotes/origin/HEAD is not a symbolic ref".
+Every remote cycle in a fresh container is therefore affected; a laptop clone
+is not, which is why this has not shown up before.
+
+WORKAROUND USED THIS CYCLE (local git state only, nothing committed):
+`git remote set-head origin -a`, after which `start` succeeded normally.
+
+SUGGESTED FIX, in the skill repo, one line:
+
+    DEFAULT_BRANCH="$(git -C "$REPO" symbolic-ref --short refs/remotes/origin/HEAD 2>/dev/null | sed 's|origin/||' || true)"
+
+or compute it with `|| echo main`. The same pattern is worth grepping for
+elsewhere in the script — any `VAR="$(cmd)"` under `set -e` whose failure is
+meant to be tolerated has the same defect. Related in spirit to the open
+2026-09-03 entry about `maintenance_run.sh` reporting success on a no-op cycle:
+both are cases where the wrapper's failure signal does not match what happened.
+
+## 2026-09-04 — The connector sweep re-proposed the same ten pairs, exactly as the librarian entry predicted; it has a structural defect worth fixing at the source
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 cycle, step 5)
+
+The sweep was due (connector_cadence daily; last run 2026-09-03T21:00:44Z) and
+was run on a graph that had gained three notes. It produced 10 proposals and all
+10 were rejected again, for the same reasons as on 2026-09-03. This is the
+prediction in the open librarian entry ("expect this sweep to keep re-proposing
+these same pairs; they are not rejections that will stick on their own") coming
+true within one day, so it is now an observation rather than a forecast.
+
+The 10 split the same way as before:
+
+- EIGHT had a MOC as one endpoint, and in SEVEN of those the MOC already lists
+  the note it was paired with (verified by grep this cycle, not assumed). One of
+  the seven was a note this very cycle had just added to the MOC. The eighth,
+  atomic-notes-compound-over-time -> compound-growth MOC, is the cross-topic
+  pair whose connection the base already carries better through the dedicated
+  bridge note 202608311038, which is listed in BOTH MOCs.
+- TWO were literature -> permanent pairs about the same source (craig 202609011012
+  -> 202609011015; paley 202609011010 -> 202609011016). These are the real
+  finding and they are already filed as the open librarian entry of 2026-09-03.
+
+SO THERE IS A CHEAP FIX AT THE SOURCE, in the skill repo, that would raise the
+sweep's signal a lot: `serendipity_sweep.py` should not propose a pair when one
+endpoint is a MOC that already links the other. A MOC is a term-dense hub by
+construction and the community detector splits hub from spokes, so
+"cross-community" carries no information on such a pair — it is an artifact of
+graph shape, and it consumed 8 of 10 slots in this run and 7 of 10 in the last.
+Suppressing it would have left this run proposing exactly the two pairs that are
+genuinely informative. A weaker variant, if excluding MOC endpoints entirely is
+thought too blunt: exclude only pairs where the MOC's body already contains a
+wikilink to the other endpoint, which is the case actually verified here.
+
+Until then the sweep is close to pure cost on this base: two cycles running, and
+the adjudication effort has gone almost entirely into re-rejecting the same
+artifact. Consider whether connector_cadence should be relaxed from daily while
+this stands.
+
+## 2026-09-04 — Confirmed again, with a number: `verify_refs.py` live-mode provenance downgrade hit 43 reference notes in one run
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 cycle, step 8)
+
+Not a new defect — it is the one already filed on 2026-09-01 and 2026-09-02.
+This entry adds the measurement, because the earlier entries describe the
+mechanism and the scale turns out to be the whole reference layer.
+
+This cycle had to run `verify_refs.py` for a legitimate reason: a new reference
+note (A Common Word, 202609032358) had empty `chicago_note`/`chicago_bib`, which
+`lint_citations` correctly hard-fails on, and those strings must be rendered by
+the tool rather than hand-written. The run reported 45/45 verified and exit 0.
+It also rewrote 44 reference notes, 43 of which it had no reason to touch.
+
+Two kinds of damage in that diff:
+
+- Provenance downgrade, the serious one. Notes whose verification recorded a
+  live authoritative lookup were rewritten to the weaker raw-capture record —
+  e.g. housel-the-psychology-of-money 202608311036 went from
+  `method: raw-capture+openlibrary`, `source: https://openlibrary.org/isbn/9780857197689`,
+  `identifier_check: confirmed` to plain `method: raw-capture` with the local
+  capture as source, losing the confirmed identifier check outright. ELEVEN
+  notes showed this shape, measured by re-running the tool against a pristine
+  scratch copy of the repository rather than eyeballed: six lost
+  `raw-capture+crossref` and five lost `raw-capture+openlibrary`, and the
+  `identifier_check: confirmed` line went with them.
+- Date churn on the rest: `verification.date` restamped to today on ~31 notes
+  nothing else changed in, which is noise in every future diff.
+
+HANDLED THIS CYCLE by reverting all 43 with `git checkout --` and keeping only
+the two files that genuinely changed (the new reference note, and the Qur'an
+note this cycle edited). Both lints re-run clean afterwards, so the revert costs
+nothing. Recording the workaround because it is the right one and the next run
+should do the same: run `verify_refs.py` when a new reference needs rendering,
+then revert everything it touched that you did not edit.
+
+Note for whoever fixes it: the earlier entries propose making the tool not
+rewrite untouched notes. The stronger version is that `verify_refs` should never
+DOWNGRADE a verification record — if a note already claims a stronger method
+than the one this run could establish, the existing record should win, or the
+run should say it could not re-confirm it, rather than silently overwriting a
+stronger claim with a weaker one.
+
+## 2026-09-04 — Leads left open by the Muslim-voice cycle (inquiry 202609032122, now answered on its stated test)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-04 cycle)
+
+Inquiry 202609032122 is answered on the test it set for itself — an existing
+permanent note had to change, and 202608311942 was amended. But its wider
+question, how Muslim theologians argue the same-God question, now rests on ONE
+document, and that document is a collective ecumenical letter with a stated
+peacemaking purpose. That genre has its own reasons for setting a divisive
+question aside, so "A Common Word declines the question" is solid while "Muslim
+theology declines it" is not established and is explicitly disclaimed in the
+notes. Three named sources would test it and none was attempted this cycle:
+
+1. Ibn Taymiyya, *al-Jawab al-Sahih li-man baddala din al-Masih*. The hostile
+   witness, and the highest-value one: it argues the question head-on rather
+   than dissolving it, and would do for the Muslim side exactly what Modena's
+   *Ari Nohem* did for the Jewish side — give the base a source from inside the
+   tradition that wants the answer to come out the other way. Old enough to be
+   out of copyright in the original; the question is whether a usable English
+   translation is reachable.
+2. Al-Ghazali, *Faysal al-Tafriqa bayna al-Islam wa-l-Zandaqa*. The classical
+   treatment of who counts as outside the faith and why, i.e. the Muslim
+   counterpart to the shituf material the base already holds on the Jewish side.
+3. Zeki Saritoprak. Still named in this base only secondhand, as someone quoted
+   in the NPR piece (202608311943 and the Wheaton literature note). Something he
+   actually wrote would fix that, and it is the most likely of the three to be
+   openly available.
+
+Worth doing in that order, and 1 and 2 are the ones that would change
+conclusions rather than add corroboration. Note also, for whoever takes this up,
+a finding from this cycle that bears on it: *A Common Word* does not quote
+Qur'an 29:46 ("our Allah and your Allah is One"), the verse most directly on
+shared divine identity, though it is the affirming verse and was available to
+it. Whether classical Muslim theology reads 29:46 as bearing on identity at all
+is a good question to put to sources 1 and 2.

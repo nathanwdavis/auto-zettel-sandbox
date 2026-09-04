@@ -130,6 +130,10 @@
     "202609032105": "blair-on-note-taking-as-transmission-and-delegated-memory--202609032105",
     "202609032110": "systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110",
     "202609032115": "the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115",
+    "202609032358": "a-common-word-between-us-and-you--202609032358",
+    "202609040001": "a-common-word-grounds-common-ground-in-shared-commandment--202609040001",
+    "202609040005": "a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005",
+    "202609040010": "the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -137,127 +141,70 @@
     "202701010012": "linear-growth-lacks-a-feedback-loop--202701010012",
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
-  "inquiries": [
-    {
-      "key": "do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146",
-      "path": "inquiries/do-the-trinity-and-the-sefirot-actually-resemble-each-other--202609030146.md",
-      "priority": "normal",
-      "question": "Do the Trinity and the sefirot actually resemble each other on the merits, beyond both being internal articulations of a single God?",
-      "result_notes": [],
-      "status": "in-progress",
-      "updated": "2026-09-03"
-    },
-    {
-      "key": "how-can-a-design-argument-confirm-theistic-belief-without--202609022344",
-      "path": "inquiries/how-can-a-design-argument-confirm-theistic-belief-without--202609022344.md",
-      "priority": "high",
-      "question": "How can a design argument confirm theistic belief without grounding it, and what is a real worked example of the distinction?",
-      "result_notes": [
-        "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
-        "hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355",
-        "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
-      ],
-      "status": "answered",
-      "updated": "2026-09-02"
-    },
-    {
-      "key": "how-did-jewish-thinkers-respond-to-the-christian-kabbalist--202609030145",
-      "path": "inquiries/how-did-jewish-thinkers-respond-to-the-christian-kabbalist--202609030145.md",
-      "priority": "high",
-      "question": "How did Jewish thinkers respond to the Christian-kabbalist claim that Kabbalah's own principles compel the Trinity?",
-      "result_notes": [
-        "the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155"
-      ],
-      "status": "answered",
-      "updated": "2026-09-03"
-    },
-    {
-      "key": "how-do-kabbalists-answer-the-same-god-question--202609011526",
-      "path": "inquiries/how-do-kabbalists-answer-the-same-god-question--202609011526.md",
-      "priority": "high",
-      "question": "How do Kabbalists answer the same-God question?",
-      "result_notes": [
-        "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
-        "kabbalah-separates-acknowledging-god-from-addressing-him--202609011540",
-        "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542",
-        "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "how-do-muslim-theologians-themselves-argue-the-same-god--202609032122",
-      "path": "inquiries/how-do-muslim-theologians-themselves-argue-the-same-god--202609032122.md",
-      "priority": "high",
-      "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
-      "result_notes": [],
-      "status": "new",
-      "updated": "2026-09-03"
-    },
-    {
-      "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
-      "path": "inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md",
-      "priority": "high",
-      "question": "How does mainstream evangelical Christian theology answer the question 'Who is God?', and how does that compare to other Abrahamic religions? Do they all actually share the same God, or different Gods with some common attributes?",
-      "result_notes": [
-        "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941",
-        "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940",
-        "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943",
-        "the-same-god-question-turns-on-reference-versus-description--202608311942"
-      ],
-      "status": "answered",
-      "updated": "2026-08-31"
-    },
-    {
-      "key": "is-there-any-empirical-evidence-that-note-taking-or--202609032123",
-      "path": "inquiries/is-there-any-empirical-evidence-that-note-taking-or--202609032123.md",
-      "priority": "high",
-      "question": "Is there any empirical evidence that note-taking or externalized memory actually improves thinking and writing, and does any of it reach the slip-box claims this base makes?",
-      "result_notes": [],
-      "status": "new",
-      "updated": "2026-09-03"
-    },
-    {
-      "key": "what-are-the-top-5-teleological-arguments-for-an--202609010930",
-      "path": "inquiries/what-are-the-top-5-teleological-arguments-for-an--202609010930.md",
-      "priority": "normal",
-      "question": "What are the top 5 teleological arguments for an evangelical view on the existence of God?",
-      "result_notes": [
-        "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
-        "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "what-can-we-infer-about-the-same-god-question-from-st--202609010821",
-      "path": "inquiries/what-can-we-infer-about-the-same-god-question-from-st--202609010821.md",
-      "priority": "normal",
-      "question": "What can we infer about the same-God question from St Anselm's ontological argument for the existence of God?",
-      "result_notes": [
-        "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842",
-        "anselms-formula-identifies-god-by-description-alone--202609010840",
-        "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    },
-    {
-      "key": "what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030",
-      "path": "inquiries/what-does-the-doctrine-of-the-knowability-of-god-have-in--202609011030.md",
-      "priority": "normal",
-      "question": "What does the doctrine of the knowability of God have in common with the various teleological arguments for the existence of God?",
-      "result_notes": [
-        "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041",
-        "knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040",
-        "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
-      ],
-      "status": "answered",
-      "updated": "2026-09-01"
-    }
-  ],
-  "note_count": 135,
+  "note_count": 139,
   "notes": [
+    {
+      "id": "202609040005",
+      "key": "a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609032358"
+        },
+        {
+          "relation": "source",
+          "target_id": "a-common-word-grounds-common-ground-in-shared-commandment--202609040001"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005.md",
+      "slug": "a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question",
+      "tags": [],
+      "title": "A collective Muslim address to Christian leaders declines the same-God question rather than answering it",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005.md"
+    },
+    {
+      "id": "202609032358",
+      "key": "a-common-word-between-us-and-you--202609032358",
+      "links": [],
+      "path": "reference/a-common-word-between-us-and-you--202609032358.md",
+      "slug": "a-common-word-between-us-and-you",
+      "tags": [],
+      "title": "A Common Word Between Us and You",
+      "type": "reference",
+      "updated": "2026-09-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/a-common-word-between-us-and-you--202609032358.md"
+    },
+    {
+      "id": "202609040001",
+      "key": "a-common-word-grounds-common-ground-in-shared-commandment--202609040001",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609032358"
+        }
+      ],
+      "path": "literature/a-common-word-grounds-common-ground-in-shared-commandment--202609040001.md",
+      "slug": "a-common-word-grounds-common-ground-in-shared-commandment",
+      "tags": [],
+      "title": "A Common Word grounds Muslim-Christian common ground in shared commandment rather than in a shared object of worship",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/a-common-word-grounds-common-ground-in-shared-commandment--202609040001.md"
+    },
     {
       "id": "202609022356",
       "key": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
@@ -362,7 +309,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -2140,9 +2087,9 @@
       "path": "reference/quran-tawhid-passages--202608311923.md",
       "slug": "quran-tawhid-passages",
       "tags": [],
-      "title": "Qur'an 112; 4:171; 5:73",
+      "title": "Qur'an 112; 2:136-137; 3:64; 4:171; 5:48; 5:73; 29:46",
       "type": "reference",
-      "updated": "2026-08-31",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/quran-tawhid-passages--202608311923.md"
     },
     {
@@ -2581,6 +2528,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
     },
     {
+      "id": "202609040010",
+      "key": "the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005"
+        },
+        {
+          "relation": "source",
+          "target_id": "a-common-word-between-us-and-you--202609032358"
+        },
+        {
+          "relation": "source",
+          "target_id": "a-common-word-grounds-common-ground-in-shared-commandment--202609040001"
+        },
+        {
+          "relation": "supports",
+          "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
+        },
+        {
+          "relation": "source",
+          "target_id": "quran-tawhid-passages--202608311923"
+        }
+      ],
+      "path": "permanent/the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010.md",
+      "slug": "the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation",
+      "tags": [],
+      "title": "The Qur'anic clause that excludes trinitarian language is the same clause that grounds the invitation to common ground",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010.md"
+    },
+    {
       "id": "202609011016",
       "key": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
       "links": [
@@ -2941,6 +2921,10 @@
       "key": "the-same-god-question-turns-on-reference-versus-description--202608311942",
       "links": [
         {
+          "relation": "contradicts",
+          "target_id": "a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005"
+        },
+        {
           "relation": "elaborates",
           "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
         },
@@ -2988,7 +2972,7 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
@@ -3058,6 +3042,14 @@
           "target_id": "atomic-notes-and-compound-interest-share-a-reinvestment-loop--202608311038"
         },
         {
+          "relation": "source",
+          "target_id": "housel-on-compounding-as-time-in-the-loop--202608311037"
+        },
+        {
+          "relation": "source",
+          "target_id": "housel-the-psychology-of-money--202608311036"
+        },
+        {
           "relation": "elaborates",
           "target_id": "linear-growth-lacks-a-feedback-loop--202701010012"
         },
@@ -3071,7 +3063,7 @@
       "tags": [],
       "title": "Time horizon dominates rate",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/time-horizon-dominates-rate--202701010013.md"
     },
     {

@@ -1,0 +1,144 @@
+Verbatim capture of the passages of "A Common Word Between Us and You" (2007)
+that bear on whether Muslims and Christians worship the same God.
+
+Fetched 2026-09-03T23:55:00Z from https://www.acommonword.com/the-acw-document/
+(HTTP 200), the official site of the initiative. Text extracted from the page's
+HTML; markup stripped, wording unaltered. Typographic quotation marks and the
+Arabic honorific glyphs that follow the names of prophets on the page are
+reproduced as they appear, except that the honorifics are omitted here for
+legibility and their positions are not otherwise marked.
+
+WHAT THIS DOCUMENT IS. An open letter dated 2007 C.E. / 1428 A.H. from Muslim
+scholars, clerics and intellectuals to the leaders of the Christian churches,
+published by The Royal Aal al-Bayt Institute for Islamic Thought, Jordan, which
+holds the copyright line on the page. It is commonly described as the letter of
+138 Muslim scholars, after the number of its original signatories; the page
+carries a "Signatories" section, and a separate "Christian Signatories" section
+recording later Christian endorsement. The page presents a "(Summary and
+Abridgement)" first and then the full document in three parts: (I) LOVE OF GOD,
+(II) LOVE OF THE NEIGHBOUR, (III) COME TO A COMMON WORD BETWEEN US AND YOU.
+The page has no page numbers; the section headings below are the locators.
+
+NOTE ON WHAT IS *NOT* HERE, recorded because it is the point of the capture.
+The document nowhere asks whether Muslims and Christians worship the same God,
+and nowhere answers that question in those terms. It was read through for the
+phrase and for the question in any wording, and neither occurs. What follows is
+what it says instead. Passages were selected for their bearing on the same-God
+question; the document's long middle sections on the two commandments within
+each scripture are not reproduced.
+
+--- From the Summary and Abridgement ---
+
+"Muslims and Christians together make up well over half of the world's
+population. Without peace and justice between these two religious communities,
+there can be no meaningful peace in the world. The future of the world depends
+on peace between Muslims and Christians."
+
+"The basis for this peace and understanding already exists. It is part of the
+very foundational principles of both faiths: love of the One God, and love of
+the neighbour. These principles are found over and over again in the sacred
+texts of Islam and Christianity. The Unity of God, the necessity of love for
+Him, and the necessity of love of the neighbour is thus the common ground
+between Islam and Christianity."
+
+"Thus in obedience to the Holy Qur'an, we as Muslims invite Christians to come
+together with us on the basis of what is common to us, which is also what is
+most essential to our faith and practice: the Two Commandments of love."
+
+--- From part (I), LOVE OF GOD IN ISLAM, "The Testimonies of Faith" ---
+
+"The central creed of Islam consists of the two testimonies of faith or
+Shahadahs, which state that: There is no god but God, Muhammad is the messenger
+of God. These Two Testimonies are the sine qua non of Islam. He or she who
+testifies to them is a Muslim; he or she who denies them is not a Muslim."
+
+--- From part (III), COME TO A COMMON WORD BETWEEN US AND YOU ---
+
+"Whilst Islam and Christianity are obviously different religions—and whilst
+there is no minimising some of their formal differences—it is clear that the
+Two Greatest Commandments are an area of common ground and a link between the
+Qur'an, the Torah and the New Testament."
+
+"What prefaces the Two Commandments in the Torah and the New Testament, and
+what they arise out of, is the Unity of God—that there is only one God. For the
+Shema in the Torah, starts: (Deuteronomy 6:4) Hear, O Israel: The LORD our God,
+the LORD is one! Likewise, Jesus said: (Mark 12:29) 'The first of all the
+commandments is: "Hear, O Israel, the LORD our God, the LORD is one".' Likewise,
+God says in the Holy Qur'an: Say: He, God, is One. / God, the Self-Sufficient
+Besought of all. (Al-Ikhlas, 112:1-2). Thus the Unity of God, love of Him, and
+love of the neighbour form a common ground upon which Islam and Christianity
+(and Judaism) are founded."
+
+"Moreover, God confirms in the Holy Qur'an that the Prophet Muhammad brought
+nothing fundamentally or essentially new: Naught is said to thee (Muhammad) but
+what already was said to the messengers before thee (Fussilat 41:43)."
+
+"Thus also God in the Holy Qur'an confirms that the same eternal truths of the
+Unity of God, of the necessity for total love and devotion to God (and thus
+shunning false gods), and of the necessity for love of fellow human beings (and
+thus justice), underlie all true religion".
+
+The letter's central Qur'anic text, quoted in its own rendering:
+
+"Say: O People of the Scripture! Come to a common word between us and you: that
+we shall worship none but God, and that we shall ascribe no partner unto Him,
+and that none of us shall take others for lords beside God. And if they turn
+away, then say: Bear witness that we are they who have surrendered (unto Him).
+(Aal 'Imran 3:64)"
+
+Its gloss on that verse, which assigns the clauses to the two commandments and
+relies on al-Tabari for the third:
+
+"Clearly, the blessed words: we shall ascribe no partner unto Him relate to the
+Unity of God. Clearly also, worshipping none but God, relates to being totally
+devoted to God and hence to the First and Greatest Commandment. According to one
+of the oldest and most authoritative commentaries (tafsir) on the Holy
+Qur'an—the Jami' Al-Bayan fi Ta'wil Al-Qur'an of Abu Ja'far Muhammad bin Jarir
+Al-Tabari (d. 310 A.H. / 923 C.E.)—that none of us shall take others for lords
+beside God, means 'that none of us should obey in disobedience to what God has
+commanded, nor glorify them by prostrating to them in the same way as they
+prostrate to God'. In other words, that Muslims, Christians and Jews should be
+free to each follow what God commanded them, and not have 'to prostrate before
+kings and the like'".
+
+On Christ, stated as a difference and not smoothed over:
+
+"Muslims recognize Jesus Christ as the Messiah, not in the same way Christians
+do (but Christians themselves anyway have never all agreed with each other on
+Jesus Christ's nature), but in the following way: ...the Messiah Jesus son of
+Mary is a Messenger of God and His Word which he cast unto Mary and a Spirit
+from Him... (Al-Nisa', 4:171)."
+
+The closing invitation, and the terms it is put in:
+
+"Finally, as Muslims, and in obedience to the Holy Qur'an, we ask Christians to
+come together with us on the common essentials of our two religions... that we
+shall worship none but God, and that we shall ascribe no partner unto Him, and
+that none of us shall take others for lords beside God... (Aal 'Imran, 3:64).
+Let this common ground be the basis of all future interfaith dialogue between
+us, for our common ground is that on which hangs all the Law and the Prophets
+(Matthew 22:40)."
+
+"So let our differences not cause hatred and strife between us. Let us vie with
+each other only in righteousness and good works. Let us respect each other, be
+fair, just and kind to another and live in sincere peace, harmony and mutual
+goodwill."
+
+The letter closes on Qur'an 5:48, in its own rendering, ending: "...Had God
+willed He could have made you one community. But that He may try you by that
+which He hath given you (He hath made you as ye are). So vie one with another in
+good works. Unto God ye will all return, and He will then inform you of that
+wherein ye differ. (Al-Ma'idah, 5:48)"
+
+"Wal-Salaamu 'Alaykum, Pax Vobiscum"
+
+"© 2007 C.E., 1428 A.H., The Royal Aal al-Bayt Institute for Islamic Thought,
+Jordan."
+
+LIMITS OF THIS CAPTURE. It is an excerpt, not the complete document; the two
+long expository sections on love of God and love of the neighbour within each
+scripture are represented only by the passages above. The signatory list was
+not captured, so the count of 138 is not verified from this capture and is
+reported here as the letter's common description rather than as something read
+off the page. The document is in English on this site; whether an Arabic
+original is authoritative over it was not established.

@@ -29,8 +29,10 @@ links:
   relation: elaborates
 - target_id: shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542
   relation: elaborates
+- target_id: a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005
+  relation: contradicts
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One
@@ -69,3 +71,35 @@ is entitled to settle the matter.
 So "do they worship the same God?" is not one question with a hidden answer. It
 is at least two questions wearing one sentence, and most of the heat comes from
 answering one of them while the other side answers the other.
+
+## The framing is not neutral, and this note should not be read as if it were
+
+Added 2026-09-04, and stated plainly because the alternative is to leave a
+distortion standing in the base's most-linked note.
+
+Every source this note is built on treats "do they worship the same God?" as
+*the* question and disagrees only about how to answer it. Gjelten is a secular
+journalist, Nostra Aetate a Catholic council, Tachin a Reformed theologian,
+Vroom a philosopher of religion. There is no Muslim among them, and the same-God
+dispute is in large part a dispute about Islam. The reference/description grid
+was therefore built entirely out of Christian and secular materials and then
+presented above as the shape of the dispute as such.
+
+It is not that shape. *A Common Word Between Us and You* (2007), a collective
+letter from Muslim scholars, clerics and intellectuals to the leaders of the
+Christian churches, never asks the question and never answers it in these terms;
+it substitutes a different basis
+for the relation — what each community is commanded to do — and concedes
+doctrinal difference in the same breath
+([[a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005]]).
+Declining to choose between reference and description is a third position, taken
+by a party to the dispute, that this note's grid has no cell for. The Jewish
+route reaches the same place independently: shituf answers about the worshipper
+rather than about the worshipped
+([[shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542]]).
+
+What survives is still worth keeping: reference and description really are
+distinct, the distinction really does explain how the disputants above talk past
+each other, and Pauw's sentence really does state it. What does not survive is
+the claim of exhaustiveness. Read this note as an account of one family of
+answers — the ones that accept the question — and not as the map of the terrain.

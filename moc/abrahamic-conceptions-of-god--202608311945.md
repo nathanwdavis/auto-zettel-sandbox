@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 # Abrahamic conceptions of God
 
@@ -122,6 +122,35 @@ sefirot are God's essence or His instruments. That is inquiry 202609030146,
 open, and the reason it is open is that the comparative scholarship is in
 copyright and was not reachable.
 
+## The Muslim route: the question declined
+
+Until 2026-09-04 this cluster answered a question about Islam almost entirely in
+Christian and secular voices — the base held one Islamic primary text, the
+Qur'an capture, which is scripture rather than anyone's argument. Worked for
+inquiry 202609032122.
+
+- [[a-collective-muslim-address-to-christian-leaders-declines-the-same-god-question--202609040005]]
+- [[the-clause-that-excludes-the-trinity-is-the-clause-that-grounds-the-invitation--202609040010]]
+
+What *A Common Word Between Us and You* (2007) supplies is not another answer on
+the grid but a refusal of the grid: it never asks whether the two worship the
+same God, and grounds the relation in shared commandment instead, conceding
+doctrinal difference in the same sentence. That is why the first of these notes
+carries a `contradicts` link to
+[[the-same-god-question-turns-on-reference-versus-description--202608311942]],
+which has been amended to say so rather than absorb it as a footnote. The
+second note is the sharp edge of the same source: Qur'an 3:64's "ascribe no
+partner unto Him" is at once the clause that rules trinitarian language out and
+the clause the invitation is built on, so the generosity and the demand are one
+sentence read twice.
+
+Two gaps this route still has. It rests on a single document, and a collective
+ecumenical letter has its own reasons for setting a divisive question aside —
+Ibn Taymiyya's *al-Jawab al-Sahih*, which argues the question head-on, is the
+hostile witness that would test it and is not captured. And al-Ghazali's
+*Faysal al-Tafriqa*, the classical treatment of who counts as outside the faith,
+is likewise absent.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -134,5 +163,7 @@ The Hoyle state: [[hoyle-the-universe-past-and-present-reflections--202609022346
 (literature: [[hoyle-reads-a-superintellect-off-the-carbon-resonance-and-stops-there--202609022350]], [[polkinghorne-trades-coerciveness-for-insight-and-names-the-exits--202609022351]], [[the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
+The Muslim voice: [[a-common-word-between-us-and-you--202609032358]]
+(literature: [[a-common-word-grounds-common-ground-in-shared-commandment--202609040001]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
 (literature: [[calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036]], [[hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037]], [[the-general-revelation-passages-describe-a-wordless-disclosure--202609011038]]).
