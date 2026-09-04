@@ -9,7 +9,7 @@ title: Reference and description are not the alternatives the same-God dispute t
   them to be
 tags: []
 links:
-- target_id: laporte-rigid-designators-sep--202609041920
+- target_id: laporte-rigid-designators-sep--202609041950
   relation: source
 - target_id: laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925
   relation: source

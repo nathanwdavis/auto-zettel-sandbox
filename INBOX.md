@@ -3522,12 +3522,65 @@ look for whether the replicating paper also audits the original, and read that
 section first — it is usually short, it is usually near the end, and it changes
 how much the original's untested claims are worth.**
 
+## 2026-09-04 — Tooling, HIGH: verify_refs.py resolves DOIs against Crossref ONLY, so every DataCite-registered DOI in this base is permanently indistinguishable from a rotted identifier
 ## 2026-09-04 — Source needed: Bogardus and Urban, 'How to Tell Whether Christians and Muslims Worship the Same God', Faith and Philosophy 34.2 (2017), DOI 10.5840/faithphil201741178. OpenAlex reports a bronze-OA copy at place.asburyseminary.edu/cgi/viewcontent.cgi?article=2450&context=faithandphilosophy, but that URL returns HTTP 403 to an automated fetch (checked 2026-09-04, with and without a browser user agent). The literature note bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838 is still grounded in the abstract only, and cycle 202609041839 could not upgrade it. A human with access can drop the PDF into drop/ and the next cycle will ingest it. What the full text would settle: whether Evans's dominance criterion, applied by the authors themselves, yields a determinate verdict rather than 'it depends', and whether their two-part counterfactual test is meant as a test of reference or of worship.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** human
 
+Filed by the 2026-09-04T18:53Z cycle, which closed a three-day-old standing
+warning by hand and found the reason it had stood for three days.
+
+**THE DEFECT.** `scripts/verify_refs.py` has exactly one DOI endpoint:
+
+    CROSSREF = "https://api.crossref.org/works/{doi}?mailto={mailto}"
+
+There is no DataCite path. A DOI registered with DataCite therefore returns 404
+from the only registry the verifier asks, and the note is written with
+`identifier_check: failed` — the same value a DOI that has genuinely rotted
+gets. The two states are not distinguishable in the record, which is the part
+that matters: this base's whole verification discipline rests on keeping
+"unreachable" separate from "does not exist", and here they are collapsed.
+
+**THE CASE.** `reference/schmidt-niklas-luhmanns-card-index--202609010302`
+(Schmidt, "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
+*Sociologica* 12.1, DOI `10.6092/issn.1971-8853/8350`). The 2026-09-01 cycle
+diagnosed this correctly from Crossref's agency endpoint and wrote the
+diagnosis into the note's body. Three subsequent cycles then logged it as
+"identifier unresolved at any registry", which is not what the note says and is
+not true. Nobody queried DataCite. `https://api.datacite.org/dois/<doi>`
+returns the record on the first request, and every field matches the note:
+title, creator `Schmidt, Johannes F.K.`, publicationYear 2018, publisher and
+container *Sociologica* vol. 12, and the article URL already on file. The
+record was raised to `identifier_check: confirmed`, `method:
+raw-capture+datacite`, by hand.
+
+**AND IT WILL NOT STAY RAISED.** The live `verify_refs.py` run in step 8 of
+this cycle immediately rewrote that block back to `method: raw-capture` /
+`identifier_check: failed`, because a hand-recorded state it cannot reproduce
+is a state it overwrites. It was restored, and the note's body now says so, but
+any future cycle that runs the verifier and does not diff `reference/`
+afterwards will silently undo the fix again. This is the same class as the two
+open `verify_refs` entries above (the offline rewrite and the transient-failure
+downgrade) and the third instance of one root cause: the verifier treats its own
+lookup as authoritative over a record it did not write.
+
+**WHAT WOULD FIX IT, in the skill repo, not here.** Add DataCite as a second
+DOI registry — `https://api.datacite.org/dois/<doi>` — tried when Crossref
+404s, recording `datacite` as the method on success. Separately, and more
+important than the registry itself, `identifier_check` needs a third value:
+`not-in-registry` (checked, absent, no evidence of rot) as distinct from
+`failed` (lookup error or contradicted metadata). Without that distinction the
+DataCite fix just moves the boundary rather than removing the confusion.
+
+**SCOPE CHECK.** One note in this base is affected today. That is not the
+reason to fix it: DataCite is the registrar for a large share of university
+press, institutional repository and data DOIs, which is exactly the class of
+source this base reaches when the ladder's rung (b) or (c) works, so the
+population of affected notes grows with the access routes that work best here.
+
+## 2026-09-04 — Access: Unpaywall's version label is not evidence, and this cycle's source was a version-of-record with explicit terms forbidding exactly what a public repo does
 (no further detail)
 
 ## 2026-09-04 — Follow-on from cycle 202609041839, not researched: the causal model relocates the same-God question onto a historical claim -- do Jewish, Christian and Muslim uses of the divine name descend by transmission from one act of naming, or from more than one? The note the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930 states this and explicitly leaves it open. Answering it needs the history of the name (YHWH / ho theos / Allah and its pre-Islamic Arabic use), not more theology, and it is the one argument that would deliver 'same God' without any agreement in doctrine.
@@ -3536,4 +3589,269 @@ how much the original's untested claims are worth.**
 - **priority:** normal
 - **asked_by:** human
 
+Filed by the 2026-09-04T18:53Z cycle. This is an appendix to the open
+human-decision entry "Full-text captures of all-rights-reserved articles sit in
+raw/ in a public repository", and it adds the first case where the question that
+entry asks is settled by the HOST rather than by inference.
+
+**WHAT HAPPENED.** Camerer et al. 2018 (DOI `10.1038/s41562-018-0399-z`) was
+reached at ladder rung (b) on the first request. Unpaywall reports two OA
+locations for the DOI and labels the good one `acceptedVersion`, hosted at
+`pure.eur.nl`. It is not an accepted version. The PDF's own EUR cover sheet
+says:
+
+    Document Version: Publisher's PDF, also known as Version of record
+    Document License/Available under: Article 25fa Dutch Copyright Act
+
+and its Terms and Conditions of Use say, in as many words, that you "may not
+reproduce or make this material available to any third party", that you "may
+download, save and print a copy of this material for your personal use only",
+and that you "may share the EUR portal link to this material".
+
+**TWO SEPARATE LESSONS, and the second is the bigger one.**
+
+1. **Unpaywall's `version` field is a lead, not a fact.** This base has been
+   using rung (b) as its most reliable route, and it has been reading the
+   version label as if it described the file. It does not always. Check the
+   file's own cover sheet, which institutional repositories almost always
+   carry, before recording what was obtained. A version-of-record behind a
+   statutory-exception licence is a different object from an author manuscript
+   posted under a repository's own terms, and only the first comes with
+   redistribution terms attached to the copy you actually hold.
+
+2. **Article 25fa is a right the AUTHOR has, not a licence granted to the
+   reader.** The Dutch Taverne amendment lets an author of a
+   publicly-funded short scientific work make it publicly available free of
+   charge after a period, whatever the publisher's contract says. It says
+   nothing about onward republication by a third party, which is why the EUR
+   cover sheet has to spell out "personal use only" alongside it. A source can
+   be perfectly legitimately free to read and still be one this repository may
+   not carry.
+
+**WHAT THIS CYCLE DID.** Applied the excerpt rule the Rowland cycle proposed
+and the 08:00Z cycle applied: fetched, read in full, and committed
+`raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt` — the passages the
+notes use, the source URL, and the SHA-256 of the exact PDF read
+(`23f01465218a980c18981321851c28fedb0fd762f9f4e4c8e1c5398e2240a34e`), so any
+quotation can be re-derived by anyone who fetches the file themselves. The PDF
+was never committed, so nothing in the immutable `raw/` layer was touched. The
+one place the rule bit was the "never rest a negative claim on an excerpt"
+clause: permanent 202609041920 turns on Sparrow et al. being ABSENT from two
+enumerated lists, so the capture quotes those lists whole, with their
+superscript reference numbers intact and a key to what the numbers mean,
+rather than quoting the sentences around them.
+
+**FOR WHOEVER DECIDES THE OPEN QUESTION.** This case does not need the human
+ruling: the host states its terms and they are not ambiguous. What it adds is
+evidence for the shape of the rule. "Excerpt anything in copyright" would have
+produced the right answer here, but so would the narrower and more defensible
+"excerpt anything whose host states redistribution terms, and read the cover
+sheet to find out whether it does". The second is checkable per source; the
+first requires a licence judgement a run is not well placed to make.
+
+## 2026-09-04 — Leads after the SSRP cycle: the OSF repository is the route to everything this cycle could not reach, and two of the 18:00Z leads are still open
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, which took lead 1 of the three the 18:00Z
+cycle left and did not take leads 2 or 3.
+
+**WHAT WAS TAKEN.** Lead 1, Camerer et al. 2018, the Social Sciences
+Replication Project. Read in full; reference 202609041855, literature
+202609041900, permanent 202609041905, 202609041910, 202609041915 and 202609041920.
+
+**LEADS 2 AND 3 ARE STILL OPEN, and both are now easier than the 18:00Z cycle
+thought**, because reading the SSRP produced a better route than the ones it
+named:
+
+  - **Lead 2, the Sparrow supplement** (`science.sciencemag.org/content/suppl/`
+    `2011/07/13/science.1207745.DC1`), wanted so the sample sizes behind
+    permanent 202609041825 can be checked rather than inherited. Untried this
+    cycle. Note that the SSRP's OSF repository may make it unnecessary: the
+    project reconstructed Sparrow's Experiment 1 design without the original
+    authors' help, and its replication report will say what it believed the
+    original design to be.
+  - **Lead 3, a replication of Sparrow Experiments 2-4.** Untried this cycle,
+    and unchanged: Semantic Scholar and OpenAlex both expose citing-works APIs
+    and neither has been tried from this container. Reading the SSRP adds one
+    fact to the negative record: it did not test Experiments 2-4 either, and
+    could not have, since its selection rule takes the first significant result
+    in a paper.
+
+**THE ROUTE THIS CYCLE FOUND AND DID NOT WALK.** The SSRP's OSF repository,
+`https://osf.io/pfdyw/`, holds the pre-replication and final replication reports
+for all 21 studies, each with an "Unplanned protocol deviations" section, plus
+the project's data and materials. That is a public, permanently-identified,
+machine-reachable host, and it answers questions the captured PDF cannot,
+because everything per-study lives in Supplementary Information the PDF does not
+include. It is the route for the new inquiry 202609041906 (Karpicke and Blunt),
+for the Sparrow design differences the project says it "cannot rule out"
+affected the result, and for lead 2. **Nobody in this base has tried an OSF
+endpoint.** Worth a triage attempt on its own account, and worth recording in
+`skills/source-access-triage` if it works, because a replication project's OSF
+repository is the general case: the paper is the summary, the OSF repository is
+the evidence.
+
+**ONE MORE SOURCE THIS CYCLE NAMED AND DID NOT FETCH.** Nature Human Behaviour
+published Correspondences by the original authors alongside the SSRP Letter,
+including one by Sparrow. Permanent 202609041910 rests on the SSRP's account of
+the non-cooperation, which is one side of it. The Correspondence by Sparrow is
+the other side and this base does not have it. That is a real one-witness
+exposure on a note that concedes a point against this base's own position, so
+the exposure currently runs in the direction of caution rather than convenience
+— but it should be closed, and the note says so.
+
+## 2026-09-04 — Process finding from the critic: an excerpt capture must not carry the capture author's own derivation, and this cycle's did
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, on its own critic's finding, and fixed
+before commit. Recorded because the mistake is structural rather than local.
+
+**WHAT HAPPENED.** The excerpt capture written this cycle,
+`raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt`, quoted the SSRP's
+enumerated replication lists correctly, and then added a paragraph of its own
+beneath them expanding the superscript reference numbers into study names, in
+its own emphasis: "Read against the key above, the stage-1 list ... is:
+Ackerman, ... KARPICKE AND BLUNT (25) ...". That derivation was correct — the
+critic re-derived it independently rather than accepting it — but it had no
+business being in `raw/`.
+
+**WHY IT MATTERS MORE THAN IT LOOKS.** `raw/` is the layer a later cycle
+consults to check what a source actually said. It is immutable precisely so
+that it can play that role. A capture that mixes the capture author's reasoning
+into the evidence destroys the independence the layer exists to provide: the
+next cycle reads the derivation as source text, cannot tell it apart from the
+quotations around it, and has no way to disagree with it. The failure mode is
+quiet and it compounds, because every note downstream then inherits an
+inference that has never been checked by anyone but its author.
+
+It is a sharper version of a rule this base already applies to literature notes
+("never paste source prose here"), running in the other direction: **never put
+your own prose in the capture.** The two layers keep each other honest only if
+neither leaks into the other.
+
+**FIXED IN THIS CYCLE.** The derivation was removed from the capture and
+replaced with a note saying explicitly that the expansion is a derivation, that
+it belongs in literature 202609041900 where it is made, and that the lists are
+quoted whole above so a later reader can perform it independently and disagree.
+The literature note now also states which identifications are confirmed by
+main-text prose (Sparrow p. 641, Pyc and Rawson p. 638) and which rest on the
+figure-legend key alone (Karpicke and Blunt).
+
+**FOR THE SKILL-SMITH (cadence ~2026-09-08), a candidate rule for
+`source-access-triage`:** an excerpt capture contains quotations, locators,
+provenance and checksums, and nothing else. Anything that begins "read against"
+or "this means" belongs in a note. Where an excerpt must carry structure the
+original supplies elsewhere — a key, a table legend, a numbering scheme — quote
+that structure as its own excerpt rather than applying it.
+
+## 2026-09-04 — Tooling, HIGH and now MEASURED: the offline verifier stripped identifier_check from 22 reference notes in one run, and this cycle committed it before noticing
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, which did the damage, caught it, and
+reverted it. This is not a new defect — it is the open entry "verify_refs.py
+--offline REWRITES verification records" — but the two open entries both
+describe it as a downgrade of INDIVIDUAL records on a TRANSIENT lookup failure,
+and that description is wrong in a way that makes it look survivable.
+
+**WHAT ACTUALLY HAPPENS.** One run of `verify_refs.py --offline --no-render` —
+the exact invocation `gates.yml` uses — rewrote 22 reference notes in this
+repository:
+
+  - `identifier_check: confirmed` stripped from all 22.
+  - 17 records collapsed from `raw-capture+crossref` to bare `raw-capture`.
+  - 5 records collapsed from `raw-capture+openlibrary` to bare `raw-capture`.
+  - `verification.source` overwritten: the DOI or Open Library URL that
+    recorded WHERE the identifier was confirmed replaced by the local raw/ path.
+
+No network was involved. Nothing failed. This is not a transient-failure
+downgrade at all — offline, the verifier re-derives what it can see from `raw/`
+and writes that as the whole truth, discarding every record of a registry check
+some earlier cycle actually performed. The evidence is not contradicted; it is
+deleted.
+
+**AND IT SHIPS SILENTLY.** This cycle ran the offline gate on a merged tree to
+confirm CI would pass, and committed the result in the merge commit before
+reading the diff. It was caught only because a `git diff` for an unrelated
+reason showed 22 reference files in the changeset. The revert
+(`git checkout <pre-merge> -- reference/`) was safe here only because main had
+touched no reference note; a cycle where main HAD touched one would have faced
+a real reconstruction.
+
+**WHY CI IS NOT AFFECTED, which is also why nobody has noticed.** CI rewrites a
+checkout it throws away, and `build_manifest.py --check` passes because the
+manifest does not index the verification block. So the gate that runs this
+command every single time is exactly the context where the mutation is
+invisible. The damage only lands when a SESSION runs it, which the maintenance
+prompt's step 8 instructs every cycle to do.
+
+**WHAT THIS BASE SHOULD DO UNTIL IT IS FIXED**, and what this cycle did:
+
+  1. Snapshot `reference/` before running the verifier, and diff afterwards.
+     `cp -r reference /tmp/...` then `diff -rq`. This cycle did that for the
+     LIVE pass and caught one downgrade; it did not do it for the offline pass
+     and lost 22.
+  2. Never run the verifier in a working tree you are about to commit. There is
+     no version of "check that CI will pass" that requires mutating the tree.
+  3. Treat any `identifier_check` or `method` line the verifier REMOVES as a
+     defect, never as a finding.
+
+**THE FIX, in the skill repo.** `verify_refs.py` should not write a weaker
+record over a stronger one. Concretely: offline, it may ADD raw-capture
+evidence and may not REMOVE a registry method or an `identifier_check` it
+cannot re-test; a `--no-write`/`--check` mode would be better still, since
+verifying and recording are different jobs and the gates only need the first.
+This is the third distinct form of one root cause — the verifier treats its own
+current lookup as authoritative over a record it did not write — and the two
+earlier entries plus this one should probably be closed by a single change.
+
+## 2026-09-04 — Tooling: cycles append to log.md with printf and it silently eats apostrophes, so the run log is not searchable for the words it most needs
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T19:22Z correction run, on a review-bot finding against
+the 18:53Z cycle's own log entries.
+
+**WHAT IS WRONG.** Several entries appended by the 18:53Z cycle have their
+apostrophes stripped or replaced by a dot: `Publisher.s PDF` where the source
+says "Publisher's PDF", and `the file s own cover sheet`, `this cycle s log`,
+`the publisher s notice` where each wants an apostrophe. The cause is the
+append itself: the entries were written with `printf` from a single-quoted
+shell string, and an apostrophe inside one either terminates the quoting or is
+mangled by the escaping used to avoid that.
+
+**WHY IT IS WORTH AN ENTRY RATHER THAN A SHRUG.** Two reasons, and the second
+is the real one.
+
+  1. `log.md` is APPEND-ONLY by house rule and `check_skill_sandbox` enforces
+     it against the whole-cycle diff. So these lines cannot be repaired. Every
+     instance is permanent, which makes the rate at which they accumulate the
+     only variable anyone controls.
+  2. The log is this repository's memory of its own operation, and it is used
+     by SEARCH — every cycle greps it for the last `serendipity_sweep:` entry,
+     the last `skill-smith:` entry, a defect it half-remembers. A quoted phrase
+     that does not match what the source actually says is a quotation this base
+     cannot find again, and the words most likely to carry an apostrophe are
+     exactly the ones being quoted from a source.
+
+**THE FIX, for whoever writes the next cycle's appends.** Do not build log
+lines as shell strings. Write them through a quoted heredoc (`<<'EOF'`), which
+passes apostrophes through untouched, or through `capture.py`-style Python that
+takes the text as data. This cycle's own INBOX entries went through
+`capture.py --body -` with a quoted heredoc and have no such damage anywhere in
+them, which is the demonstration: the same text, the same session, one route
+intact and the other not.
+
+Worth a line in the skill's remote maintenance prompt, since the prompt is what
+tells every cycle to append one line per step and says nothing about how.
 (no further detail)

@@ -7,18 +7,18 @@ aliases:
 type: literature
 title: LaPorte states that rigidity does not by itself refute descriptivism
 tags: []
-reference: laporte-rigid-designators-sep--202609041920
+reference: laporte-rigid-designators-sep--202609041950
 locator: 'SEP "Rigid Designators", preamble and section 1.1; section 3.1, the passage
   beginning "Rigidity''s work is compatible with descriptivism"'
 links:
-- target_id: laporte-rigid-designators-sep--202609041920
+- target_id: laporte-rigid-designators-sep--202609041950
   relation: source
 - target_id: rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935
   relation: supports
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
-Own-words summary of [[laporte-rigid-designators-sep--202609041920]].
+Own-words summary of [[laporte-rigid-designators-sep--202609041950]].
 
 The entry's definition is austere: "A rigid designator designates the same
 object in all possible worlds in which that object exists and never designates

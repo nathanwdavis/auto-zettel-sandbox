@@ -1,5 +1,5 @@
 Capture of https://plato.stanford.edu/entries/rigid-designators/
-Reference note: laporte-rigid-designators-sep--202609041920
+Reference note: laporte-rigid-designators-sep--202609041950
 Fetched: 2026-09-04T19:17:11Z
 Bounded excerpt, per this repository's excerpt policy. Two blocks only:
 (A) the opening definition of rigid designation and the start of section 1.1;

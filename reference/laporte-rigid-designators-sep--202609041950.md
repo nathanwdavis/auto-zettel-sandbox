@@ -1,16 +1,16 @@
 ---
-id: '202609041920'
-key: laporte-rigid-designators-sep--202609041920
+id: '202609041950'
+key: laporte-rigid-designators-sep--202609041950
 slug: laporte-rigid-designators-sep
 aliases:
-- '202609041920'
+- '202609041950'
 type: reference
 title: LaPorte, Rigid Designators (SEP)
 tags: []
 source_tier: reputable-secondary
 scripture: false
 csl_json:
-  id: '202609041920'
+  id: '202609041950'
   type: entry-encyclopedia
   title: Rigid Designators
   author:
@@ -40,10 +40,10 @@ chicago_bib: LaPorte, Joseph. “Rigid Designators.” In The Stanford Encyclope
 citation_renderer: pandoc
 verification:
   method: raw-capture
-  source: raw/202609041920-sep-rigid-designators-excerpt.txt
+  source: raw/202609041950-sep-rigid-designators-excerpt.txt
   verified: true
   date: '2026-09-04T19:18:16Z'
-raw_capture: raw/202609041920-sep-rigid-designators-excerpt.txt
+raw_capture: raw/202609041950-sep-rigid-designators-excerpt.txt
 links: []
 created: '2026-09-04'
 updated: '2026-09-04'
