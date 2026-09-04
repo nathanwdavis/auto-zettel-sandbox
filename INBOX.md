@@ -3698,3 +3698,50 @@ the other side and this base does not have it. That is a real one-witness
 exposure on a note that concedes a point against this base's own position, so
 the exposure currently runs in the direction of caution rather than convenience
 — but it should be closed, and the note says so.
+
+## 2026-09-04 — Process finding from the critic: an excerpt capture must not carry the capture author's own derivation, and this cycle's did
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, on its own critic's finding, and fixed
+before commit. Recorded because the mistake is structural rather than local.
+
+**WHAT HAPPENED.** The excerpt capture written this cycle,
+`raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt`, quoted the SSRP's
+enumerated replication lists correctly, and then added a paragraph of its own
+beneath them expanding the superscript reference numbers into study names, in
+its own emphasis: "Read against the key above, the stage-1 list ... is:
+Ackerman, ... KARPICKE AND BLUNT (25) ...". That derivation was correct — the
+critic re-derived it independently rather than accepting it — but it had no
+business being in `raw/`.
+
+**WHY IT MATTERS MORE THAN IT LOOKS.** `raw/` is the layer a later cycle
+consults to check what a source actually said. It is immutable precisely so
+that it can play that role. A capture that mixes the capture author's reasoning
+into the evidence destroys the independence the layer exists to provide: the
+next cycle reads the derivation as source text, cannot tell it apart from the
+quotations around it, and has no way to disagree with it. The failure mode is
+quiet and it compounds, because every note downstream then inherits an
+inference that has never been checked by anyone but its author.
+
+It is a sharper version of a rule this base already applies to literature notes
+("never paste source prose here"), running in the other direction: **never put
+your own prose in the capture.** The two layers keep each other honest only if
+neither leaks into the other.
+
+**FIXED IN THIS CYCLE.** The derivation was removed from the capture and
+replaced with a note saying explicitly that the expansion is a derivation, that
+it belongs in literature 202609041900 where it is made, and that the lists are
+quoted whole above so a later reader can perform it independently and disagree.
+The literature note now also states which identifications are confirmed by
+main-text prose (Sparrow p. 641, Pyc and Rawson p. 638) and which rest on the
+figure-legend key alone (Karpicke and Blunt).
+
+**FOR THE SKILL-SMITH (cadence ~2026-09-08), a candidate rule for
+`source-access-triage`:** an excerpt capture contains quotations, locators,
+provenance and checksums, and nothing else. Anything that begins "read against"
+or "this means" belongs in a note. Where an excerpt must carry structure the
+original supplies elsewhere — a key, a table legend, a numbering scheme — quote
+that structure as its own excerpt rather than applying it.

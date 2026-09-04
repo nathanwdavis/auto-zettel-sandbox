@@ -35,15 +35,20 @@ size, and, for anything that did not clear P < 0.05 there, a stage 2 powered at
 
 **The headline numbers.** Thirteen of the 21 (61.9%) produced a significant
 effect in the same direction as the original. Complementary indicators put the
-figure between 12 (57.1%, the "small telescopes" criterion) and 14 (66.7%, the
-95% prediction interval), and a Bayesian mixture model estimated the
-true-positive rate at 67%. Mean standardised effect size was 0.249 against the
+figure between 12 (57.1%, the "small telescopes" criterion, which asks whether
+the replication effect is significantly smaller than an effect the original had
+33% power to detect) and 14 (66.7%, the 95% prediction interval); a
+meta-analysis pooling original with replication gives a more optimistic 16
+(76.2%), which the project itself discounts because it assumes the originals
+are free of publication bias. An errors-in-variables mixture model estimated
+the true-positive rate at 67%. Mean standardised effect size was 0.249 against the
 originals' 0.460 — a mean relative effect size of 46.2%, which divides sharply:
 74.5% among the 13 that replicated, 0.3% among the 8 that did not (pp. 637-638).
 The project reads that split as two distinct problems in the original
 literature: some false positives, and inflated effect sizes even among the true
 ones, the mixture model putting the true positives' real effects at about 71%
-of what was published.
+of what was published. The two stages are one replication, not two: stage 2
+adds data and analyses "the first and second data collections pooled".
 
 **The finding the paper is proudest of.** Before the results were known, peer
 beliefs were elicited by survey and by prediction market. The market's average
@@ -66,11 +71,17 @@ systematically over- or under-estimates replicability, and it names two sets of
 original authors who said in published Correspondence that a later study in
 their paper was the more important one (p. 641).
 
-**Three of the 21 are sources or near-neighbours of this base's own cluster.**
-The enumerated stage lists (p. 638), read against the figure legends' key,
-place Karpicke and Blunt (2011) among the twelve that replicated in stage 1 and
-Pyc and Rawson (2010) among the two added in stage 2; Sparrow et al. (2011)
-appears in neither list. The Sparrow replication is also singled out twice: it
+**Three of the 21 carry author names that recur in this base's own cluster.**
+This is a derivation, not something the article states: the enumerated stage
+lists (p. 638) give reference numbers, and the figure legends (pp. 639-640)
+give the alphabetical key those numbers index. Read together they place
+Karpicke and Blunt (2011) among the twelve that replicated in stage 1 and Pyc
+and Rawson (2010) among the two added in stage 2; Sparrow et al. (2011) appears
+in neither list. Two of those three identities are confirmed by main-text prose
+independently of the legend — Sparrow at p. 641 and Pyc and Rawson at p. 638 —
+and Karpicke and Blunt rests on the legend alone, constrained to sort between
+Janssen (24) and Kidd (26). The article gives no title or abstract for any of
+them, so what any of these papers actually reports is not established here. The Sparrow replication is also singled out twice: it
 is the one of 21 not designed with the original authors' collaboration, because
 they did not respond to the project's queries, and the one for which the
 original authors supplied no materials, raised design differences only after

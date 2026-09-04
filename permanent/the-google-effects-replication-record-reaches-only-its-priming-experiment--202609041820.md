@@ -28,9 +28,11 @@ created: '2026-09-04'
 updated: '2026-09-04'
 ---
 
-Three published replication attempts have been made on the paper that named the
-"Google effect on memory", and all three failed. All three ran the same
-experiment, and it is not the experiment that gave the effect its name.
+Two published replication attempts have been made on the paper that named the
+"Google effect on memory", and both failed. Both ran the same experiment, and it
+is not the experiment that gave the effect its name. (This paragraph said
+"three" until 2026-09-04; the correction is in the amendment at the foot of this
+note.)
 
 Sparrow, Liu and Wegner's paper contains two research programmes. Experiment 1
 is a *priming* study: answer hard trivia questions, then name the colour of
@@ -41,13 +43,14 @@ erased, and measure what they remember afterwards. Only the second programme is
 about external memory at all
 ([[sparrow-liu-and-wegner-ran-one-priming-experiment-and-three-offloading-ones--202609041810]]).
 
-The replication record is entirely on Experiment 1. Two attempts inside the
-Social Sciences Replication Project found no significant effect with adequate
-power; a third, built specifically to answer the original author's objections
-to those two, reported a Bayes factor of 5.07 in favour of the null, rising to
-16 against the exact pattern the original claimed
+The replication record is entirely on Experiment 1. The Social Sciences
+Replication Project found no significant effect with adequate power, across a
+two-stage design whose second stage pools its data with the first; a second,
+independent attempt, built specifically to answer the original author's
+objections to that one, reported a Bayes factor of 5.07 in favour of the null,
+rising to 16 against the exact pattern the original claimed
 ([[hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815]]).
-The third paper does not test Experiments 2 through 4, does not claim anything
+The second paper does not test Experiments 2 through 4, does not claim anything
 about them, and mentions them only in its opening summary. So far as this
 repository has been able to establish, nobody has published a direct
 replication of them.
@@ -82,16 +85,26 @@ Experiments 2 through 4 is that of an unreplicated finding from an unreliable
 report, which is a long way below "established" and a long way above "refuted".
 
 *Amended 2026-09-04, after the Social Sciences Replication Project was read
-first-hand rather than through Hesselmann.* Two claims above are now sourced
-directly and both survive: the two failed attempts on Experiment 1 are the
-project's stage 1 and stage 2, and the project itself states the
-one-study-per-paper limitation this note argued for
+first-hand rather than through Hesselmann.* One claim above is confirmed and two
+are corrected.
+
+Confirmed: the project itself states the one-study-per-paper limitation this
+note argued for, so the reasoning above is no longer only this repository's
 ([[a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905]]).
-One thing has to be conceded, though. Of the twenty-one replications the
-project ran, this is the only one the original authors declined to help design,
-so it is the project's weakest instance of its own method and the project says
-it cannot rule out that the resulting design differences affected the outcome
+
+Corrected, first: "two attempts inside the Social Sciences Replication Project"
+miscounts. The SSRP ran a two-*stage* design on a single replication, and stage
+2 pools its data with stage 1 rather than testing independently. The project
+contributes **one** high-powered failure to this record, not two, which makes
+the record two published failures — the SSRP's and Hesselmann's — and not three.
+
+Corrected, second, and this one concedes ground. Of the twenty-one replications
+the project ran, this is the only one designed without the original authors'
+input, because they did not respond to the project's queries; the project
+records that it "cannot rule out" that the resulting design differences
+affected the outcome
 ([[the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910]]).
-That lowers the weight of these two failures without touching Hesselmann's
-independent null or the audit of the original's reporting, so the posture stated
-above stands — it is now resting on three legs rather than four.
+That lowers the weight of the SSRP failure without touching Hesselmann's
+independent null or the audit of the original's reporting. The posture stated
+above therefore stands, on a narrower base than this note originally claimed
+for it.

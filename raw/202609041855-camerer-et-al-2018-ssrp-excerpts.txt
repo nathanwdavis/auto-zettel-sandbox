@@ -139,11 +139,11 @@ does not replicate in stage 2. [...] Based on all of the data collected, 13
 (61.9%) studies replicated after stage 2 using the statistical significance
 criterion."
 
-Read against the key above, the stage-1 list 16-19,22-25,27,29,30,36 is:
-Ackerman, Aviezer, Balafoutas and Sutter, Derex, Gneezy, Hauser, Janssen,
-KARPICKE AND BLUNT (25), Kovacs, Morewedge, Nishi, Wilson. The stage-2
-additions 20,31 are Duncan and PYC AND RAWSON (31). Ackerman (16) then fails in
-stage 2. SPARROW ET AL. (35) appears in neither list.
+(No expansion of those reference-number lists is given here. Reading them
+against the study-number key is a derivation, not evidence, and it belongs in
+the literature note that makes it — literature 202609041900 — not in the
+capture. The lists are quoted whole above precisely so that a later reader can
+do the derivation independently, and disagree with it.)
 
 
 [4b] THE ONE PER-STUDY STATISTIC THE MAIN TEXT PRINTS, p. 638
@@ -157,6 +157,36 @@ main text; every other per-study number is in the Supplementary Information or
 plotted without values in Figs. 1-3. See [11].)
 
 
+[4c] THE TWO COMPLEMENTARY INDICATORS, NAMED, p. 638
+------------------------------------------------------------------------------
+(The abstract gives the 12-to-14 range without saying which indicator is which.
+These two sentences are what attach the numbers to the methods.)
+
+"A complementary replication criterion is to count how many replicated effects
+lie in a 95% prediction interval47, which takes into account the variability in
+both the original study and the replication study. Using this method, 14
+effects replicated (66.7%; see Fig. 2a and Supplementary Methods for details).
+This method yields the same replication outcome as the statistical significance
+criterion for 20 of the 21 studies."
+
+"The small telescopes approach estimates whether the replication effect size is
+significantly smaller than a 'small effect' in the original study with a
+one-sided test at the 5% level. A small effect is defined as the effect size
+that the original study would have had 33% power to detect. Following the small
+telescopes approach46, 12 studies (57.1%) replicate [...]. One replication has a
+significant effect in the same direction as the original study, but the effect
+size is significantly smaller than a small effect as defined by the small
+telescopes approach. This is the only difference compared to the statistical
+significance criterion."
+
+And the meta-analytic indicator, same page: "16 studies (76.2%) have a
+significant effect in the same direction as the original study in the
+meta-analysis. However, the meta-analysis assumes that the results of the
+original studies are not influenced by publication or reporting biases, making
+the meta-analytic results an overly optimistic indicator compared to criteria
+that focused on the replication evidence."
+
+
 [5] EFFECT SIZES, p. 638
 ------------------------------------------------------------------------------
 "The mean standardized effect size (correlation coefficient r) of the
@@ -166,6 +196,17 @@ P < 0.001, n = 21) and the mean relative effect size of the replications is
 46.2%. For the 13 studies that replicated, the mean relative effect size is
 74.5%, and for the 8 studies that did not replicate, the mean relative effect
 size is 0.3%."
+
+
+[5b] THE BAYESIAN ANALYSIS THE ABSTRACT REFERS TO, p. 639
+------------------------------------------------------------------------------
+"In additional Bayesian analyses, we use an errors-in-variables mixture model49
+to estimate the true-positive rate in the total sample [...]. The estimated
+true-positive rate is 67% (Supplementary Fig. 5), which is close to the other
+replicability estimates. The mixture model also estimates that the average
+relative effect size of true positives is 71% (Supplementary Fig. 5),
+suggesting that the original studies overestimated the effect sizes of true
+positives."
 
 
 [6] PEER BELIEFS AND PREDICTION MARKETS, p. 639

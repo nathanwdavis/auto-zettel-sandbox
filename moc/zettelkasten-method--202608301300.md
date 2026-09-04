@@ -127,16 +127,18 @@ keep being cited through:
 - [[the-replication-rate-was-forecast-before-it-was-measured--202609041915]]
 - [[the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920]]
 
-Read the first as a constraint on everything above it. Three of the twenty-one
-findings the Social Sciences Replication Project tested belong to the two
-literatures this section is built from — the Google effect, which did not
-replicate, and papers by Karpicke and Blunt and by Pyc and Rawson, which did —
-and the project's own limitations say it tested one result per paper and so
-settles none of them. The second and fourth are what that constraint looks like
-applied in each direction: it weakens a failure this map was relying on, and it
-withholds a success this map would have liked. The third is the one that reaches
-past this literature: the field forecast the replication rate to within one and a
-half points before any data were collected, which makes scepticism about a
-striking finding a calibrated reading rather than a mood.
+Read the first as a constraint on everything above it. The Social Sciences
+Replication Project tested one result from each of twenty-one papers — the
+Google effect among them, which did not replicate — and its own limitations say
+that this settles none of the papers. The second and fourth are what that
+constraint looks like applied in each direction: it weakens a failure this map
+was relying on, and it withholds a success this map would have liked. Read the
+fourth carefully, because it is mostly a warning about itself: two of the
+twenty-one carry author names from this section's own cluster, and the project
+gives no titles, so what those papers report is a question this base has filed
+rather than a finding it holds. The third is the one that reaches past this
+literature: peer forecasts landed within one and a half points of the observed
+replication rate and tracked the individual studies, which makes scepticism
+about a striking finding a calibrated reading rather than a mood.
 
 See also: [[compound-growth--202608311143]]

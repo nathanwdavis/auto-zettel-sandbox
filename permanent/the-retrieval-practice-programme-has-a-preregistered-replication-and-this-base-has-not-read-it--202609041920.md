@@ -5,8 +5,8 @@ slug: the-retrieval-practice-programme-has-a-preregistered-replication-and-this-
 aliases:
 - '202609041920'
 type: permanent
-title: The retrieval-practice programme has a pre-registered replication behind it,
-  and this base has not read it
+title: Two of the twenty-one replicated papers may belong to this base's own cluster,
+  and it cannot tell from what it holds
 tags: []
 links:
 - target_id: camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855
@@ -17,44 +17,54 @@ links:
   relation: elaborates
 - target_id: retrieval-not-re-exposure-is-what-makes-learning-last--202609040340
   relation: shared-concept
+- target_id: agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510
+  relation: shared-concept
+- target_id: morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
 
 Two of the twenty-one findings the Social Sciences Replication Project tested
-come from the retrieval-practice literature this repository has been building
-on: a Karpicke and Blunt paper in *Science* (2011), which replicated at stage 1,
-and a Pyc and Rawson paper in *Science* (2010), which replicated only after the
-larger stage-2 sample and returned a one-sided default Bayes factor of 6.8. By
-the same enumerated lists, Sparrow, Liu and Wegner (2011) — the Google effect —
-replicated at neither stage
+are attributed to authors whose surnames recur across this base's memory and
+learning cluster: a Karpicke and Blunt paper in *Science* (2011), which
+replicated at stage 1, and a Pyc and Rawson paper in *Science* (2010), which
+replicated only after the larger stage-2 sample and returned a one-sided
+default Bayes factor of 6.8. By the same enumerated lists, Sparrow, Liu and
+Wegner (2011) — the Google effect — replicated at neither stage
 ([[camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855]],
 [[the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900]]).
 
-That is a real asymmetry between two literatures this base treats side by side,
-and it is the first pre-registered, high-powered, single-result replication
-evidence it has for the retrieval side at all. Everything else here rests on the
-original experiments, a meta-analysis, and a survey by one of the effect's
-principals.
+The temptation is to read that as an asymmetry in this base's favour: its
+retrieval-practice sources replicate and its offloading source does not.
+**The temptation must be refused, and on two independent grounds.**
 
-But the asymmetry is smaller than it looks, and the reason is the rule in
+The first is that this repository does not hold either paper, and cannot tell
+from what it holds what they are about. All the SSRP gives is a surname, a
+year and a journal — no title, no abstract, no design. Surname is not identity
+of literature, and this base is the proof: it already holds
+[[morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205]],
+which is the same Rawson, in the note-taking literature rather than the
+retrieval-practice one, reporting a failure rather than a success. Treating
+"Karpicke and Blunt (2011)" as a retrieval-practice paper is a guess dressed as
+a citation, and the guess is in the direction this base already leans.
+
+The second holds even if the guess is right, and it is the rule in
 [[a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905]],
-which has to be applied against this base's interests as readily as for them.
-The SSRP tested one result from the Karpicke and Blunt paper — the first
-reporting a significant treatment effect — so what came back is that result, not
-the paper and certainly not the programme. A single replicated finding does not
-carry the claim in
-[[retrieval-not-re-exposure-is-what-makes-learning-last--202609040340]]; it is
-one brick under it.
+applied against this base's interests as readily as for them. The SSRP tested
+one result from each paper — the first reporting a significant treatment effect
+— so what came back is that result, not the paper and certainly not a research
+programme. A single replicated finding cannot carry the claim in
+[[retrieval-not-re-exposure-is-what-makes-learning-last--202609040340]], which
+rests on the original experiments, a classroom systematic review that
+deliberately declined to meta-analyse
+([[agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510]]),
+a laboratory meta-analysis, and a survey by one of the effect's principals.
 
-Worse, this repository does not hold the Karpicke and Blunt paper. It knows the
-finding replicated only because the paper appears in a list of reference numbers
-in the SSRP's stage-1 sentence, read against a figure legend. It does not know
-which of that paper's results was chosen, what the effect was, or how it relates
-to the notes here. Recording "the retrieval literature has a successful
-replication in the SSRP" and stopping would be exactly the borrowed confidence
-the one-study-per-paper rule warns against — worth noticing precisely because
-the borrowing would be in the direction this base already leans. The honest
-statement is narrower and it names its own gap: one untested-by-us result from
-an unread paper replicated, and until that paper is read the support cannot be
-attached to any claim here.
+So the honest statement is narrower than the finding felt when it was found,
+and it names its own gap: two papers this base cannot identify were tested, one
+result each, with outcomes it cannot yet attach to anything here. That is a
+question, not evidence, and it is filed as one — inquiry
+`what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906`,
+whose route is the project's OSF repository rather than the paper this cycle
+captured.

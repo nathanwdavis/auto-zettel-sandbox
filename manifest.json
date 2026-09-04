@@ -4507,6 +4507,10 @@
           "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
         },
         {
+          "relation": "supports",
+          "target_id": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835"
         },
@@ -4522,7 +4526,7 @@
       "path": "permanent/the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910.md",
       "slug": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with",
       "tags": [],
-      "title": "The failed Google-effect replication is the one of twenty-one its authors would not help with",
+      "title": "The failed Google-effect replication is the one of twenty-one whose original authors did not respond",
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910.md"
@@ -5643,7 +5647,7 @@
       "path": "permanent/the-replication-rate-was-forecast-before-it-was-measured--202609041915.md",
       "slug": "the-replication-rate-was-forecast-before-it-was-measured",
       "tags": [],
-      "title": "The replication rate was forecast before it was measured",
+      "title": "Peers forecast which findings would replicate, so the failures were not chance",
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-replication-rate-was-forecast-before-it-was-measured--202609041915.md"
@@ -5657,8 +5661,16 @@
           "target_id": "a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510"
+        },
+        {
           "relation": "source",
           "target_id": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205"
         },
         {
           "relation": "shared-concept",
@@ -5672,7 +5684,7 @@
       "path": "permanent/the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920.md",
       "slug": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it",
       "tags": [],
-      "title": "The retrieval-practice programme has a pre-registered replication behind it, and this base has not read it",
+      "title": "Two of the twenty-one replicated papers may belong to this base's own cluster, and it cannot tell from what it holds",
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920.md"
