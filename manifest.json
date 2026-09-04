@@ -265,6 +265,17 @@
     "202609041935": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935",
     "202609041940": "every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940",
     "202609041950": "laporte-rigid-designators-sep--202609041950",
+    "202609041955": "nicene-creed-325--202609041955",
+    "202609041956": "constantinople-381-canon-1--202609041956",
+    "202609041957": "excursus-heresies-canon-1--202609041957",
+    "202609041958": "chalcedon-definition--202609041958",
+    "202609042000": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000",
+    "202609042001": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001",
+    "202609042002": "the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002",
+    "202609042003": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003",
+    "202609042010": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010",
+    "202609042011": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011",
+    "202609042012": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -278,8 +289,12 @@
       "path": "inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md",
       "priority": "high",
       "question": "Do the conciliar texts themselves say what Hodge reports them as saying about the two rejected readings of the divine three?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010",
+        "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011",
+        "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -503,7 +518,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 270,
+  "note_count": 281,
   "notes": [
     {
       "id": "202609041020",
@@ -1592,6 +1607,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855.md"
     },
     {
+      "id": "202609042003",
+      "key": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "chalcedon-definition--202609041958"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
+        }
+      ],
+      "path": "literature/chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003.md",
+      "slug": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god",
+      "tags": [],
+      "title": "Chalcedon defines the natures in Christ, not the persons in God",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003.md"
+    },
+    {
+      "id": "202609041958",
+      "key": "chalcedon-definition--202609041958",
+      "links": [],
+      "path": "reference/chalcedon-definition--202609041958.md",
+      "slug": "chalcedon-definition",
+      "tags": [],
+      "title": "The Definition of Faith of Chalcedon, 451 (NPNF2-14)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/chalcedon-definition--202609041958.md"
+    },
+    {
       "id": "202609011811",
       "key": "christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811",
       "links": [
@@ -1707,6 +1755,18 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350.md"
+    },
+    {
+      "id": "202609041956",
+      "key": "constantinople-381-canon-1--202609041956",
+      "links": [],
+      "path": "reference/constantinople-381-canon-1--202609041956.md",
+      "slug": "constantinople-381-canon-1",
+      "tags": [],
+      "title": "Canon I of Constantinople, 381 (NPNF2-14)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/constantinople-381-canon-1--202609041956.md"
     },
     {
       "id": "202609041700",
@@ -2012,6 +2072,18 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940.md"
+    },
+    {
+      "id": "202609041957",
+      "key": "excursus-heresies-canon-1--202609041957",
+      "links": [],
+      "path": "reference/excursus-heresies-canon-1--202609041957.md",
+      "slug": "excursus-heresies-canon-1",
+      "tags": [],
+      "title": "Percival's excursus on the heresies condemned in Canon I (NPNF2-14)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/excursus-heresies-canon-1--202609041957.md"
     },
     {
       "id": "202609041825",
@@ -3206,6 +3278,51 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042.md"
+    },
+    {
+      "id": "202609042010",
+      "key": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "constantinople-381-canon-1--202609041956"
+        },
+        {
+          "relation": "source",
+          "target_id": "nicene-creed-325--202609041955"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000"
+        },
+        {
+          "relation": "refutes",
+          "target_id": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730"
+        }
+      ],
+      "path": "permanent/nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010.md",
+      "slug": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one",
+      "tags": [],
+      "title": "Nicaea anathematized the Arian reading and said nothing about the modalist one",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010.md"
+    },
+    {
+      "id": "202609041955",
+      "key": "nicene-creed-325--202609041955",
+      "links": [],
+      "path": "reference/nicene-creed-325--202609041955.md",
+      "slug": "nicene-creed-325",
+      "tags": [],
+      "title": "The Nicene Creed of 325, with its anathemas (NPNF2-14)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/nicene-creed-325--202609041955.md"
     },
     {
       "id": "202609010704",
@@ -4634,6 +4751,64 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220.md"
     },
     {
+      "id": "202609042001",
+      "key": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "constantinople-381-canon-1--202609041956"
+        },
+        {
+          "relation": "supports",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
+        }
+      ],
+      "path": "literature/the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001.md",
+      "slug": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon",
+      "tags": [],
+      "title": "The council of 381 anathematizes Sabellianism by party name, in a canon",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001.md"
+    },
+    {
+      "id": "202609042011",
+      "key": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "constantinople-381-canon-1--202609041956"
+        },
+        {
+          "relation": "source",
+          "target_id": "excursus-heresies-canon-1--202609041957"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "hodge-on-the-two-readings-the-councils-ruled-out--202609041715"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002"
+        }
+      ],
+      "path": "permanent/the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011.md",
+      "slug": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine",
+      "tags": [],
+      "title": "The councils condemned a party; the doctrine attributed to them is supplied by their editors and reporters",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011.md"
+    },
+    {
       "id": "202609011016",
       "key": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
       "links": [
@@ -5449,6 +5624,27 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md"
     },
     {
+      "id": "202609042000",
+      "key": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "source",
+          "target_id": "nicene-creed-325--202609041955"
+        }
+      ],
+      "path": "literature/the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000.md",
+      "slug": "the-nicene-anathemas-of-325-are-directed-at-one-side-only",
+      "tags": [],
+      "title": "The Nicene anathemas of 325 are directed at one side only",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000.md"
+    },
+    {
       "id": "202609041135",
       "key": "the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135",
       "links": [
@@ -5978,6 +6174,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
+      "id": "202609042012",
+      "key": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "source",
+          "target_id": "nicene-creed-325--202609041955"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720"
+        }
+      ],
+      "path": "permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012.md",
+      "slug": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other",
+      "tags": [],
+      "title": "The sefirot comparison keeps its Arian leg and loses its Sabellian one",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012.md"
+    },
+    {
       "id": "202609041745",
       "key": "the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745",
       "links": [
@@ -6255,6 +6488,27 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900.md"
+    },
+    {
+      "id": "202609042002",
+      "key": "the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "excursus-heresies-canon-1--202609041957"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
+        }
+      ],
+      "path": "literature/the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002.md",
+      "slug": "the-standard-edition-has-to-supply-what-the-canon-left-as-a-name",
+      "tags": [],
+      "title": "The standard edition has to supply what the canon left as a name",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-standard-edition-has-to-supply-what-the-canon-left-as-a-name--202609042002.md"
     },
     {
       "id": "202609041015",

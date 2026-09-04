@@ -504,6 +504,20 @@ never been made.
 - [[the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930]]
 - [[every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940]]
 
+### The councils themselves, added 2026-09-04: the reporter checked against the record
+
+Inquiry 202609041841 took the one claim in this map that rested on a single
+nineteenth-century witness -- Hodge on what the councils ruled out -- to the
+conciliar texts. Result: the Arian half is in the creed of 325, word for word;
+the Sabellian half is not in any creed, and reaches us as a bare party name in a
+canon of 381 plus a Victorian editor's gloss. Chalcedon is about the natures in
+Christ and contributes nothing. The sefirot comparison keeps one leg and loses
+the other.
+
+- [[nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010]]
+- [[the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011]]
+- [[the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
