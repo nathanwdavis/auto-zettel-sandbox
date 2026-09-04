@@ -9,10 +9,13 @@ created: '2026-09-04'
 updated: '2026-09-04'
 question: What is worship, such that referring to the right being might not be enough
   for it?
-status: new
+status: answered
 priority: normal
 asked_by: human
-result_notes: []
+result_notes:
+- worship-carries-an-addressee-condition-that-belief-cannot-satisfy--202609042060
+- two-traditions-give-the-same-argument-and-opposite-verdicts--202609042061
+- the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062
 tags: []
 ---
 "Worship" is the base's most-used and least-examined word: it appears in some

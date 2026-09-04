@@ -3871,3 +3871,11 @@ tells every cycle to append one line per step and says nothing about how.
 - **asked_by:** human
 
 (no further detail)
+
+## 2026-09-04 — Not done by cycle 202609041843, and it is the leg that would test the result: the Islamic account of what makes an act 'ibada. The cycle answered the worship question from Jewish and Christian primary sources only (Hilchot Avodah Zarah, Summa II-II q.103), and the permanent note the-same-god-question-has-three-answers-because-it-has-three-questions--202609042062 asserts that the classical tafsir position is an ADDRESS claim on the basis of notes already in the base rather than on a source about worship itself. Worth grounding: Ibn Taymiyya's al-'Ubudiyya, or the tafsir on Q 1:5 (iyyaka na'budu), or the fiqh of tawassul and intercession -- which is the exact Islamic analogue of the Maimonides/Aquinas disagreement about honouring God's servants, and would say whether the Islamic line falls where Maimonides puts it or where Aquinas does. Also unexamined: whether the act/acceptance distinction (is a condition on worship a condition on the ACT being worship, or on God ACCEPTING it?) separates any of the disputants -- the original inquiry raised it and this cycle did not reach it.
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+(no further detail)
