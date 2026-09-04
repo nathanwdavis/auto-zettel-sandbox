@@ -159,6 +159,11 @@
     "202609040610": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
     "202609040615": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615",
     "202609040620": "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620",
+    "202609040700": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700",
+    "202609040705": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705",
+    "202609040710": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
+    "202609040715": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
+    "202609040720": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -220,8 +225,11 @@
       "priority": "high",
       "question": "How do Muslim theologians themselves argue the same-God question, and what happens to the base's conclusions when the Islamic side is argued from inside rather than described from outside?",
       "result_notes": [
+        "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
+        "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
         "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
-        "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+        "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
+        "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
       ],
       "status": "answered",
       "updated": "2026-09-04"
@@ -297,7 +305,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 164,
+  "note_count": 169,
   "notes": [
     {
       "id": "202609040058",
@@ -3029,6 +3037,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/systematic-method-is-what-makes-a-note-usable-by-someone-who-did-not-take-it--202609032110.md"
     },
     {
+      "id": "202609040700",
+      "key": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700",
+      "links": [],
+      "path": "reference/tabari-jami-al-bayan-on-3-64-and-29-46--202609040700.md",
+      "slug": "tabari-jami-al-bayan-on-3-64-and-29-46",
+      "tags": [],
+      "title": "al-Tabari, Jami' al-bayan 'an ta'wil ay al-Qur'an, on Q 3:64 and Q 29:46",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/tabari-jami-al-bayan-on-3-64-and-29-46--202609040700.md"
+    },
+    {
+      "id": "202609040705",
+      "key": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700"
+        }
+      ],
+      "path": "literature/tabari-on-the-common-word-and-the-shared-god-clause--202609040705.md",
+      "slug": "tabari-on-the-common-word-and-the-shared-god-clause",
+      "tags": [],
+      "title": "al-Tabari reads 3:64 as a summons and glosses 29:46's shared-God clause as a shared object of worship",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/tabari-on-the-common-word-and-the-shared-god-clause--202609040705.md"
+    },
+    {
       "id": "202608311925",
       "key": "tachin-do-they-worship-the-same-god--202608311925",
       "links": [],
@@ -3122,6 +3159,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
+    },
+    {
+      "id": "202609040720",
+      "key": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+        }
+      ],
+      "path": "permanent/the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720.md",
+      "slug": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared",
+      "tags": [],
+      "title": "The \"common word\" of Q 3:64 is a summons in its classical reading, not a description of ground already shared",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720.md"
     },
     {
       "id": "202609011016",
@@ -3274,6 +3340,39 @@
       "type": "permanent",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155.md"
+    },
+    {
+      "id": "202609040710",
+      "key": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710.md",
+      "slug": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship",
+      "tags": [],
+      "title": "Islam's foundational commentary answers the co-reference question affirmatively, and treats it as needing no argument",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710.md"
     },
     {
       "id": "202609011038",
@@ -3458,12 +3557,24 @@
           "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
         },
         {
+          "relation": "supports",
+          "target_id": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120"
         },
         {
           "relation": "contradicts",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
         }
       ],
       "path": "permanent/the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115.md",
@@ -3644,6 +3755,14 @@
           "target_id": "quran-tawhid-passages--202608311923"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-common-word-is-a-summons-in-its-classical-reading-not-ground-already-shared--202609040720"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
           "relation": "supports",
           "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
         },
@@ -3764,6 +3883,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-vocabulary-does-not-begin-as-articulation-within-god--202609011840.md"
+    },
+    {
+      "id": "202609040715",
+      "key": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabari-jami-al-bayan-on-3-64-and-29-46--202609040700"
+        },
+        {
+          "relation": "source",
+          "target_id": "tabari-on-the-common-word-and-the-shared-god-clause--202609040705"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115"
+        }
+      ],
+      "path": "permanent/the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715.md",
+      "slug": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended",
+      "tags": [],
+      "title": "The Qur'anic shared-God formula reaches the tradition as a rule of speech for suspended judgement, not as a thesis",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715.md"
     },
     {
       "id": "202608311931",

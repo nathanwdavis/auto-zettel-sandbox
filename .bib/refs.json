@@ -1350,5 +1350,23 @@
     "title": "The effect of testing versus restudy on retention: A meta-analytic review of the testing effect.",
     "type": "article-journal",
     "volume": "140"
+  },
+  {
+    "URL": "https://api.quran.com/api/v4/tafsirs/15/by_ayah/29:46",
+    "author": [
+      {
+        "literal": "Abū Jaʿfar Muḥammad ibn Jarīr al-Ṭabarī"
+      }
+    ],
+    "id": "202609040700",
+    "issued": {
+      "date-parts": [
+        [
+          923
+        ]
+      ]
+    },
+    "title": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān",
+    "type": "book"
   }
 ]
