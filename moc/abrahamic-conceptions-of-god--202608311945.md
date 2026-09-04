@@ -242,6 +242,41 @@ exclusion of those who assert a son, the *mushrikun* question now has two
 independent classical witnesses from tafsir — and the juristic literature that
 would decide it is still untried.
 
+### The Shi'i commentaries, added 2026-09-04: the silence breaks
+
+Everything above was Sunni. That was never a decision; it was what the hosts
+this base had happened to use carried, and it went unnoticed because every
+source in the frame shared the property. altafsir.com indexes commentaries by
+*madhhab* and carries a Twelver Shi'i shelf, and one request each to al-Tusi's
+*al-Tibyan* (d. 460/1067) and al-Tabrisi's *Majma' al-bayan* (d. 548/1153)
+overturns the generalisation the two sections above had built.
+
+- [[the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130]]
+- [[the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135]]
+- [[the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140]]
+
+Both gloss the clause, in the same three words: `{ وإلهنا وإلهكم واحد }
+لا شريك له`. So the silence is a school effect after all — at a boundary the
+al-Zamakhshari test could not see, because that test looked for the widest
+doctrinal gap *among Sunnis* and found the silence on both sides of it. The
+three notes above amend 202609040820, 202609040915 and 202609041010 accordingly;
+none of those results is withdrawn, and each is now bounded to the sample it was
+drawn from.
+
+The second consequence runs the other way and tightens the base's central claim
+here. The gloss the two Imami commentators give is `لا شريك له` — the denial of
+partnership — and not al-Tabari's `معبود`. `معبود` is now absent from ten
+commentaries across five centuries, three schools and both branches, and of the
+six that *do* gloss the clause, five read it as *tawhid*.
+The reading this base had filed as what the "later" tradition does turns out to
+be eleventh-century. Al-Tabari's identification of a shared object of worship —
+the base's most direct textual support for co-reference — is held by exactly one
+commentator out of eleven.
+
+A standing item closed with them: Tantawi's *al-Wasit*, found on one host by the
+08:00Z cycle and deliberately not built on, is now attested on two independent
+hosts, which also corrected a lemma this base had recorded from the weaker copy.
+
 ## Christian kabbalism: the parallel as a conversion argument
 
 The comparison the note above draws for itself has a historical precedent
@@ -277,6 +312,8 @@ Islam, argued from inside: [[a-common-word-between-us-and-you--202609040058]], [
 (literature: [[a-common-word-builds-common-ground-from-the-two-commandments--202609040110]], [[the-quran-also-tells-muslims-to-say-our-god-and-yours-is-one--202609040105]]).
 Islam, the classical commentary: [[tabari-jami-al-bayan-on-3-64-and-29-46--202609040700]], [[qurtubi-al-jami-li-ahkam-al-quran-on-3-64-and-29-46--202609040800]], [[ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802]], [[baghawi-maalim-al-tanzil-on-3-64-and-29-46--202609040804]], [[razi-mafatih-al-ghayb-on-3-64-and-29-46--202609040905]]; and two modern ones for comparison: [[saadi-taysir-al-karim-al-rahman-on-3-64-and-29-46--202609040806]], [[al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808]]
 (literature: [[tabari-on-the-common-word-and-the-shared-god-clause--202609040705]], [[qurtubi-organises-29-46-into-two-legal-questions-and-neither-is-the-shared-god-clause--202609040810]], [[ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812]], [[baghawi-lemmatises-the-shared-god-clause-and-then-supplies-only-hadith--202609040814]], [[saadi-turns-the-shared-god-clause-into-a-premise-for-disputation--202609040816]], [[the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818]], [[razi-argues-the-verse-from-what-the-people-of-the-book-already-affirm--202609040910]]).
+Islam, the Mu'tazili and Shi'i commentaries, and a modern Azhari one: [[zamakhshari-al-kashshaf-on-3-64-and-29-46--202609041000]], [[tusi-al-tibyan-on-3-64-and-29-46--202609041100]], [[tabrisi-majma-al-bayan-on-3-64-and-29-46--202609041105]], [[tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110]]
+(literature: [[zamakhshari-calls-the-common-word-undisputed-across-the-three-scriptures-and-never-glosses-the-shared-god-clause--202609041005]], [[tusi-glosses-the-shared-god-clause-as-no-partner-and-breaks-the-classical-silence--202609041115]], [[tabrisi-gives-the-same-gloss-word-for-word-and-calls-the-common-word-a-call-to-tawhid--202609041120]], [[tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125]]).
 Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
 (literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]

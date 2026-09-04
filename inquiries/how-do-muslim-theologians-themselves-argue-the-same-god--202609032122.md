@@ -28,6 +28,9 @@ result_notes:
 - the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010
 - the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015
 - a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020
+- the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
+- the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
+- the-shared-god-gloss-and-the-sword-sit-in-one-paragraph-across-the-sunni-shii-divide--202609041140
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -289,3 +292,47 @@ is a finding about the tradition rather than a gap in the reading of it.
 What would still move it is a commentator who glosses the clause. Both families
 the base has searched are now exhausted as explanations; the Shi'i commentaries
 are the cheapest unsearched place, and are named in INBOX.
+
+## Appended 2026-09-04 11:30Z: the clause IS glossed, and the answer changes shape rather than degree
+
+Still `answered`, and three more `result_notes` — but for the opposite reason to
+the last four appendices. Those recorded tests that came out the way the base
+expected and extended the answer. This one came out the other way.
+
+The section above says "what would still move it is a commentator who glosses
+the clause". Two do. al-Tusi's *al-Tibyan* (d. 460/1067) and al-Tabrisi's
+*Majma' al-bayan* (d. 548/1153), the two commentaries that Imami exegesis is
+built on, both gloss `وإلهنا وإلهكم واحد`, in the same three words: `لا شريك له`.
+They were found on a host this base had not used, altafsir.com, which indexes
+commentaries by *madhhab*.
+
+**What that does to the answer.** The "asymmetric silence" the section above
+calls this inquiry's real finding is still real, but it is a silence of the
+SUNNI commentaries this base sampled, not of the tradition. The frame was never
+chosen; it was inherited from which hosts the earlier cycles happened to use,
+and it was invisible because every source inside it shared the property. Both
+explanations the base generated and rejected — genre, school — were rejected on
+evidence drawn entirely from inside that frame, and the school one turns out to
+be right at the boundary the frame concealed.
+
+**What that does NOT do to the answer, and this is the more important half.**
+It does not restore al-Tabari. The Shi'i gloss is `لا شريك له` — the denial that
+God has a partner — and not `معبود`, the identification of a shared object of
+worship. `معبود` is now absent from ten commentaries across five centuries,
+three schools and both branches of the tradition, and of the six commentaries in
+this base that gloss the clause at all, five read it as *tawhid*. So the
+answer's centre of gravity is unmoved and its support is firmer: when Muslim
+exegesis addresses this clause, it reads it as a claim about God's indivisibility
+addressed TO the other party, not as a claim that the two parties refer to the
+same God. Al-Tabari's reading — this cluster's most direct textual support for
+co-reference — is held by exactly one commentator out of eleven.
+
+**What would move it now.** Not another commentary agreeing; that is a tally
+mark, and this cycle's own experience is the argument against spending a cycle
+on one. Two things would: al-Maturidi's *Ta'wilat ahl al-sunna*, the last major
+classical theological school unsampled here and now one request away; and the
+*Ahkam al-Qur'an* literature (al-Jassas, Ilkiya al-Harrasi, Ibn al-'Arabi), which
+is where a ruling on whether the People of the Book are *mushrikun* would
+actually live, and which this inquiry has wanted since the first commentary
+sweep. Both are on endpoints already proven cheap, and both are written up with
+their resource ids in INBOX.

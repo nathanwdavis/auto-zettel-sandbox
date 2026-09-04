@@ -17,9 +17,21 @@ links:
   relation: elaborates
 - target_id: the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710
   relation: supports
+- target_id: the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
+
+> **AMENDED 2026-09-04 11:30Z — the genre result stands; its scope does not.**
+> This note disposes of the suggestion that the silence follows from the
+> commentators' genres, and that holds: al-Razi is silent too. But the frame in
+> which it was argued was Sunni throughout, and the clause IS glossed outside
+> that frame — al-Tusi and al-Tabrisi gloss it as `لا شريك له`
+> ([[the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130]]).
+> "The tradition's silence" in the title should be read as "the silence of the
+> Sunni commentaries this base has sampled". Nothing about the genre argument
+> itself is withdrawn.
 
 Fakhr al-Din al-Razi (d. 606/1210) comments on Q 29:46 at length and never
 glosses `وإلهنا وإلهكم واحد`. That closes the one explanation this base had left

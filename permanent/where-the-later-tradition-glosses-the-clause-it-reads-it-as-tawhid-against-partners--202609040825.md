@@ -23,9 +23,29 @@ links:
   relation: supports
 - target_id: the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
   relation: shared-concept
+- target_id: the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135
+  relation: elaborates
+- target_id: tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125
+  relation: source
+- target_id: tantawi-al-tafsir-al-wasit-on-3-64-and-29-46--202609041110
+  relation: source
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
+
+> **AMENDED 2026-09-04 11:30Z — the reading is not "later"; it is classical, and
+> there is now a third modern witness.** This note drew the no-partner reading
+> from two modern commentaries and framed it as what the *later* tradition does.
+> The framing was an artefact of the sample: al-Tusi (d. 460) and al-Tabrisi
+> (d. 548) give the same reading in the same words, `لا شريك له`, three centuries
+> before the earliest commentary cited below
+> ([[the-no-partner-reading-of-the-clause-is-classical-not-modern--202609041135]]).
+> Separately, Tantawi's *al-Wasit* — held back by the 08:00Z cycle because it
+> stood on one host — is now attested on two independent hosts, altafsir.com and
+> quranpedia.net, reading `لا شريك له لا فى ذاته ولا فى صفاته`
+> ([[tantawi-extends-the-denial-of-partnership-into-the-essence-and-the-attributes--202609041125]]).
+> The cross-check also corrects a detail this base had recorded: his lemma does
+> NOT drop `وإلهنا`; that truncation belonged to the quran.com copy.
 
 The classical commentaries after al-Tabari leave `وَإِلَهُنَا وَإِلَهُكُمْ
 وَاحِدٌ` without comment

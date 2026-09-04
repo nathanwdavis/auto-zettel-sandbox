@@ -17,9 +17,24 @@ links:
   relation: elaborates
 - target_id: the-maabud-identification-is-al-tabaris-own-and-the-commentaries-after-him-do-not-repeat-it--202609040820
   relation: supports
+- target_id: the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130
+  relation: contradicts
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
+
+> **AMENDED 2026-09-04 11:30Z — the title claim is too wide, and the limit this
+> note named for itself is what caught it.** The last paragraph below says the
+> survey is not exhaustive and that the Shi'i tradition has not been touched.
+> It has now been touched, and the clause is glossed there: al-Tusi (d. 460) and
+> al-Tabrisi (d. 548) both gloss `وإلهنا وإلهكم واحد` as `لا شريك له`
+> ([[the-shii-commentaries-do-gloss-the-clause-so-the-classical-silence-is-a-sunni-fact--202609041130]]).
+> So the silence IS a school effect — at the Sunni/Shi'i boundary, which this
+> note did not test, rather than at the Mu'tazili/Ash'ari one, which it did.
+> What survives unchanged is the claim about the sample: within the Sunni
+> commentaries, the widest theological gap available does not explain the
+> silence. What fails is the generalisation from that sample to "the tradition".
+> Read the note below as bounded to the Sunni commentaries throughout.
 
 al-Zamakhshari (d. 538/1144) comments on Q 29:46 and never reaches
 `وإلهنا وإلهكم واحد`. That closes the last standing explanation for the silence
