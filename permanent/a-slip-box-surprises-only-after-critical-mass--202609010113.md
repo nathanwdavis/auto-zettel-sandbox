@@ -18,8 +18,10 @@ links:
   relation: supports
 - target_id: time-horizon-dominates-rate--202701010013
   relation: analogous
+- target_id: the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215
+  relation: contradicts
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-04'
 ---
 A note collection has two regimes. Below a threshold of size and internal
 linkage it is a container: queries return only what was deliberately put in.
@@ -41,3 +43,14 @@ dominates per-period yield on the note-taking side of the analogy
 in years of use, not in cleverness of individual notes — though one
 practitioner's account establishes the pattern for one box, not a general
 law.
+
+**Limit, added 2026-09-04.** That last clause is the whole of what stands
+behind the threshold claim, and this cycle looked for something better and did
+not find it. No experiment tests it: the note-taking literature measures how a
+person writes during one lecture and scores a test taken shortly after, which
+is the wrong construct on the wrong time scale for a claim about years of
+accumulation
+([[the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215]]).
+So the regime described above rests where it did — on one practitioner
+describing his own box — and the reason no better evidence is cited here is
+that none appears to exist, not that none was sought.

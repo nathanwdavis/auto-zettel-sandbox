@@ -1,0 +1,64 @@
+CAPTURE: Kayla Morehead, John Dunlosky and Katherine A. Rawson, "How Much
+         Mightier Is the Pen than the Keyboard for Note-Taking? A Replication
+         and Extension of Mueller and Oppenheimer (2014)," Educational
+         Psychology Review 31, no. 3 (September 2019): 753-80.
+DOI: 10.1007/s10648-019-09468-2
+ERIC: EJ1225471 (peerreviewed flag: T)
+FETCHED: 2026-09-04T01:56Z
+
+WHAT THIS CAPTURE IS, AND WHAT IT IS NOT. This is the AUTHOR ABSTRACT ONLY,
+  as deposited in ERIC (U.S. Department of Education, Institute of Education
+  Sciences), retrieved through the ERIC REST API. It is NOT the article.
+  Nothing beyond the words below may be quoted, paraphrased or attributed to
+  this paper -- in particular no experiment detail, no sample size, no effect
+  size, and no statement about which of the two experiments produced which
+  trend beyond what the abstract itself says. Grounding tier under
+  skills/source-access-triage step 2: "publisher abstract only".
+
+ACCESS LADDER TRIED 2026-09-04 (source-access-triage step 1):
+  (a) Publisher's own page, link.springer.com/article/10.1007/s10648-019-09468-2
+      -> HTTP 200 but a 3,038-byte body: the JS/auth shell, not the article.
+      This is the identical failure the 2026-09-01 Goshen-Gottstein triage
+      recorded against the same publisher, so it is a standing condition of
+      link.springer.com from this environment class, not a transient.
+  (b) Unpaywall by DOI -> is_oa false, zero oa_locations. OpenAlex agrees:
+      oa_status "closed", any_repository_has_fulltext false, AND OpenAlex
+      holds no abstract_inverted_index for this work (length 0), so the
+      OpenAlex abstract route that rescued the 2026-09-01 Goshen-Gottstein
+      chapter is not available here.
+  (c) Author/institutional pages: www.dunlosky.org was attempted and is not
+      reachable from this environment at all -- the egress proxy refused the
+      CONNECT (curl 56, "connect_rejected"), which is an environment policy
+      result and NOT evidence about whether a copy is posted there. Recorded
+      that way on purpose so a later run with different egress re-tries it.
+  (d) 2019, in copyright: no public-domain etext.
+  (e) Not in PubMed or Europe PMC (Educational Psychology Review is not
+      indexed there); the Wayback Machine has been egress-blocked for this
+      environment class since 2026-09-01 and was not re-tried.
+  NOT TRIED, DELIBERATELY: ResearchGate, which search results did surface
+  with an apparent PDF. The house rule (source-access-triage step 1) forbids
+  scraper/mirror routes, and an author self-deposit on a commercial network
+  is not distinguishable from a scrape at fetch time.
+
+ONE INDEX, NOT TWO. Unlike the Mueller and Oppenheimer capture beside this
+  one, this abstract has ONE witness: ERIC. Europe PMC and PubMed do not
+  index the journal and OpenAlex holds no abstract, so no second independent
+  copy exists to collate against. ERIC is an authoritative government index
+  that receives its records from the publisher, so this is a sound single
+  witness -- but it IS single, and it is recorded as such rather than left
+  to be assumed.
+
+--- BEGIN VERBATIM: ERIC record EJ1225471, field `description` (author abstract) ---
+Many students use laptops to take notes in classes, but does using them impact later test performance? In a high-profile investigation comparing note-taking writing on paper versus typing on a laptop keyboard, Mueller and Oppenheimer ("Psychological Science," 25, 1159-1168, 2014) concluded that taking notes by longhand is superior. We conducted a direct replication of Mueller and Oppenheimer (2014) and extended their work by including groups who took notes using eWriters and who did not take notes. Some trends suggested longhand superiority; however, performance did not consistently differ between any groups (experiments 1 and 2), including a group who did not take notes (experiment 2). Group differences were further decreased after students studied their notes (experiment 2). A meta-analysis (combining direct replications) of test performance revealed small (nonsignificant) effects favoring longhand. Based on the present outcomes and other available evidence, concluding which method is superior for improving the functions of note-taking seems premature.
+
+--- END VERBATIM ---
+
+ERIC record fields, verbatim, for the bibliographic check:
+  id: EJ1225471
+  title: How Much Mightier Is the Pen than the Keyboard for Note-Taking? A Replication and Extension of Mueller and Oppenheimer (2014)
+  author: Morehead, Kayla; Dunlosky, John; Rawson, Katherine A.
+  source: Educational Psychology Review
+  publicationdateyear: 2019
+  issn: ISSN-1040-726X
+  peerreviewed: T
+  url: http://dx.doi.org/10.1007/s10648-019-09468-2

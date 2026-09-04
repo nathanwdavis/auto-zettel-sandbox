@@ -1023,3 +1023,120 @@ limits on what it can claim.
 NOT A BLOCKER. Nothing above is a defect in what landed. The cycle's notes
 state their own limits, and this entry exists so the limits are worked on
 rather than forgotten.
+
+## 2026-09-04 — Source-access gaps left open by the note-taking evidence cycle (inquiry 202609032123), including an unread corrigendum to a paper this base now cites
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed 2026-09-04 under skills/source-access-triage step 4. Three gaps, one of
+which is more serious than the usual paywall entry and is listed first.
+
+(1) THE UNREAD CORRIGENDUM. "Corrigendum: The Pen Is Mightier Than the
+Keyboard: Advantages of Longhand Over Laptop Note Taking", Psychological
+Science 29, no. 9 (September 2018): 1565-68. DOI 10.1177/0956797618781773,
+PMID 30063408. Four pages of correction to a paper this base now cites in two
+permanent notes, and its CONTENT is entirely unavailable: journals.sagepub.com
+returns the same 403 bot challenge as the parent article, and the record
+carries NO abstract in PubMed, in Europe PMC, or in OpenAlex -- all three
+report abstract length 0. So the base knows THAT a corrigendum was published
+and nothing at all about what it changed. Reference 202609040155 states this
+in its body and no note here says or implies what was corrected. This is the
+highest-value item in the entry: a four-page correction to the single
+most-cited note-taking experiment could bear on whether literature note
+202609040200 and permanent note 202609040210 are describing the paper as it
+now stands. WHAT WOULD CLOSE IT: any institutional or library access to SAGE,
+or a browser that clears the challenge.
+
+(2) Pam A. Mueller and Daniel M. Oppenheimer, "The Pen Is Mightier Than the
+Keyboard", Psychological Science 25, no. 6 (2014): 1159-68. DOI
+10.1177/0956797614524581, PMID 24760141. Ladder tried 2026-09-04: (a)
+journals.sagepub.com -> HTTP 403, 5,665-byte bot-challenge body, with and
+without a browser user-agent; (b) Unpaywall by DOI -> is_oa false, zero
+oa_locations, and OpenAlex agrees independently (oa_status "closed",
+any_repository_has_fulltext false), so no OA copy exists to find; (c) nothing
+to try at (c) for the same reason; (d) 2014, in copyright; (e) not in PubMed
+Central or Europe PMC full text. ResearchGate NOT tried (house rule forbids
+mirror routes). Grounded on the publisher abstract, which WAS cross-checked
+against two independent indexes (NCBI E-utilities and EBI Europe PMC) and is
+identical word for word under Unicode normalisation. Grounding-limited by
+this: reference 202609040155, literature 202609040200, and both permanent
+notes 202609040210 and 202609040215 wherever they characterise the study.
+
+(3) Kayla Morehead, John Dunlosky and Katherine A. Rawson, "How Much Mightier
+Is the Pen than the Keyboard for Note-Taking?", Educational Psychology Review
+31, no. 3 (2019): 753-80. DOI 10.1007/s10648-019-09468-2, ERIC EJ1225471.
+Ladder tried 2026-09-04: (a) link.springer.com -> HTTP 200 but a 3,038-byte
+JS/auth shell, the identical standing condition the 2026-09-01
+Goshen-Gottstein triage recorded against the same publisher; (b) Unpaywall
+is_oa false and OpenAlex "closed", AND OpenAlex holds no abstract_inverted_index
+for this work, so the OpenAlex-abstract route that rescued Goshen-Gottstein is
+not available; (c) www.dunlosky.org could not be reached AT ALL -- the egress
+proxy refused the CONNECT (curl 56, "connect_rejected"), which is an
+environment-policy result and NOT evidence about whether an author copy is
+posted there, so a run with different egress should re-try this rung first;
+(d) 2019, in copyright; (e) not indexed in PubMed/Europe PMC, and the Wayback
+Machine has been egress-blocked for this environment class since 2026-09-01.
+ResearchGate surfaced an apparent PDF in search results and was NOT used.
+Grounded on the ERIC author abstract, which unlike (2) has ONE witness -- no
+second index holds a copy to collate against. Grounding-limited by this:
+reference 202609040156, literature 202609040205, and both permanent notes.
+
+ENVIRONMENT NOTE, not a source gap: Open Library was again unreachable this
+cycle (HTTP 000 transport failure on both ISBNs tried) while Crossref returned
+200 on a control request, so this is the same registry-specific outage the
+2026-09-04T01:12 cycle recorded and it is now confirmed across two runs. Six
+reference notes were downgraded by the live verify_refs pass and restored from
+HEAD, as before. Recorded here only because the next run will meet it too;
+the standing entry for the underlying tool defect is the 2026-09-02
+verify_refs one and it was not duplicated.
+
+## 2026-09-04 — Retrieval practice, the generation effect and transactive memory: the untouched half of inquiry 202609032123, and a contradiction the base should go looking for
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04 note-taking evidence cycle, which answered one half of
+inquiry 202609032123 and left the inquiry `in-progress` rather than claiming
+the other half. This entry exists so the remainder is worked rather than lost
+in a long inquiry body.
+
+WHAT IS DONE. The direct note-taking experiments are now in the base, with
+their replication history: Mueller and Oppenheimer 2014 and the Morehead,
+Dunlosky and Rawson 2019 direct replication, written up as permanent notes
+202609040210 and 202609040215. The finding is that the famous effect did not
+replicate and that none of that literature reaches a slip-box claim.
+
+WHAT IS NOT. Candidate sources 2 and 3 of the original inquiry, untouched:
+
+  (1) Retrieval practice / the testing effect. Roediger and Karpicke 2006,
+      "Test-Enhanced Learning", Psychological Science 17, no. 3: 249-55, DOI
+      10.1111/j.1467-9280.2006.01693.x -- VERIFIED TO EXIST via Crossref this
+      cycle and NOT captured; Unpaywall reports is_oa false, so it will need
+      the access ladder. This is the highest-value item and the reason is
+      specific rather than general: if retrieval is what consolidates
+      learning, then handing memory to paper has a measurable COST, and that
+      bears directly against Chavigny's "too much memorizing can be harmful
+      to the higher intellectual qualities" in permanent note 202609032115 --
+      which is currently the base's account of why the note became an
+      external memory, argued from a historian and with nothing measured on
+      either side. The original inquiry was right to call this a
+      contradiction to look for rather than a corroboration, and a
+      contradiction found would be worth more to this base than another
+      supporting citation.
+  (2) The generation effect.
+  (3) Transactive / external memory, e.g. Sparrow, Liu and Wegner 2011 on
+      search engines and memory.
+
+ALSO STILL OPEN, and named in permanent 202609040215 as what would actually
+close the gap: any study that operationalises ACCUMULATION and LINKING rather
+than the medium of writing, and that measures an outcome months or years out
+rather than a post-lecture test. Nothing found this cycle suggests one exists.
+If a run establishes that none does, that is a result and should be written as
+such -- the same standard the original inquiry set.
+
+WATCH THE TIER RULE, restated from the original inquiry because it is the easy
+mistake here: a psychology finding cited from a news write-up or a blog is
+general-web. These should be peer-reviewed captures or they should not land.

@@ -136,6 +136,12 @@
     "202609040110": "a-common-word-builds-common-ground-from-the-two-commandments--202609040110",
     "202609040115": "the-muslim-consensus-statement-makes-common-ground-out-of-command-not-reference--202609040115",
     "202609040120": "the-quran-supplies-a-shared-god-formula-and-an-excluding-one--202609040120",
+    "202609040155": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155",
+    "202609040156": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156",
+    "202609040200": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200",
+    "202609040205": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205",
+    "202609040210": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
+    "202609040215": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -222,9 +228,12 @@
       "path": "inquiries/is-there-any-empirical-evidence-that-note-taking-or--202609032123.md",
       "priority": "high",
       "question": "Is there any empirical evidence that note-taking or externalized memory actually improves thinking and writing, and does any of it reach the slip-box claims this base makes?",
-      "result_notes": [],
-      "status": "new",
-      "updated": "2026-09-03"
+      "result_notes": [
+        "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
+        "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+      ],
+      "status": "in-progress",
+      "updated": "2026-09-04"
     },
     {
       "key": "what-are-the-top-5-teleological-arguments-for-an--202609010930",
@@ -265,7 +274,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 141,
+  "note_count": 147,
   "notes": [
     {
       "id": "202609040058",
@@ -330,6 +339,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356.md"
     },
     {
+      "id": "202609040210",
+      "key": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156"
+        },
+        {
+          "relation": "source",
+          "target_id": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        }
+      ],
+      "path": "permanent/a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210.md",
+      "slug": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven",
+      "tags": [],
+      "title": "A failed replication leaves the mechanism standing and the effect unproven",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210.md"
+    },
+    {
       "id": "202609010113",
       "key": "a-slip-box-surprises-only-after-critical-mass--202609010113",
       "links": [
@@ -350,6 +396,10 @@
           "target_id": "luhmann-frames-the-slip-box-as-a-communication-partner--202609010112"
         },
         {
+          "relation": "contradicts",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        },
+        {
           "relation": "analogous",
           "target_id": "time-horizon-dominates-rate--202701010013"
         }
@@ -359,7 +409,7 @@
       "tags": [],
       "title": "A slip box surprises only after critical mass",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-slip-box-surprises-only-after-critical-mass--202609010113.md"
     },
     {
@@ -669,6 +719,10 @@
           "target_id": "one-idea-per-note-enables-reuse--202701010002"
         },
         {
+          "relation": "contradicts",
+          "target_id": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
+        },
+        {
           "relation": "elaborates",
           "target_id": "titles-stated-as-claims-force-clarity--202701010003"
         }
@@ -678,7 +732,7 @@
       "tags": [],
       "title": "Atomic notes compound over time",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
     },
     {
@@ -1823,6 +1877,68 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/meyer-of-molecules-and-straw-men--202609011311.md"
+    },
+    {
+      "id": "202609040156",
+      "key": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156",
+      "links": [],
+      "path": "reference/morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156.md",
+      "slug": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen",
+      "tags": [],
+      "title": "Morehead, Dunlosky and Rawson, How Much Mightier Is the Pen than the Keyboard for Note-Taking?",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156.md"
+    },
+    {
+      "id": "202609040205",
+      "key": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200"
+        }
+      ],
+      "path": "literature/morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205.md",
+      "slug": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold",
+      "tags": [],
+      "title": "Morehead, Dunlosky and Rawson report a direct replication that did not hold",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205.md"
+    },
+    {
+      "id": "202609040200",
+      "key": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155"
+        }
+      ],
+      "path": "literature/mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200.md",
+      "slug": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing",
+      "tags": [],
+      "title": "Mueller and Oppenheimer attribute the longhand advantage to not transcribing",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200.md"
+    },
+    {
+      "id": "202609040155",
+      "key": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155",
+      "links": [],
+      "path": "reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155.md",
+      "slug": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard",
+      "tags": [],
+      "title": "Mueller and Oppenheimer, The Pen Is Mightier Than the Keyboard",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155.md"
     },
     {
       "id": "202608311930",
@@ -2980,6 +3096,55 @@
       "type": "permanent",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115.md"
+    },
+    {
+      "id": "202609040215",
+      "key": "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "a-slip-box-surprises-only-after-critical-mass--202609010113"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "a-trusted-structure-frees-attention-from-willpower--202608311142"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "atomic-notes-compound-over-time--202701010001"
+        },
+        {
+          "relation": "source",
+          "target_id": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156"
+        },
+        {
+          "relation": "source",
+          "target_id": "morehead-dunlosky-and-rawson-report-a-direct-replication-that-did-not-hold--202609040205"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-attribute-the-longhand-advantage-to-not-transcribing--202609040200"
+        },
+        {
+          "relation": "source",
+          "target_id": "mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "one-idea-per-note-enables-reuse--202701010002"
+        }
+      ],
+      "path": "permanent/the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215.md",
+      "slug": "the-note-taking-experiments-do-not-reach-the-slip-box-claims",
+      "tags": [],
+      "title": "The note-taking experiments do not reach the slip-box claims",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215.md"
     },
     {
       "id": "202609040105",
