@@ -3523,6 +3523,7 @@ section first — it is usually short, it is usually near the end, and it change
 how much the original's untested claims are worth.**
 
 ## 2026-09-04 — Tooling, HIGH: verify_refs.py resolves DOIs against Crossref ONLY, so every DataCite-registered DOI in this base is permanently indistinguishable from a rotted identifier
+## 2026-09-04 — Source needed: Bogardus and Urban, 'How to Tell Whether Christians and Muslims Worship the Same God', Faith and Philosophy 34.2 (2017), DOI 10.5840/faithphil201741178. OpenAlex reports a bronze-OA copy at place.asburyseminary.edu/cgi/viewcontent.cgi?article=2450&context=faithandphilosophy, but that URL returns HTTP 403 to an automated fetch (checked 2026-09-04, with and without a browser user agent). The literature note bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838 is still grounded in the abstract only, and cycle 202609041839 could not upgrade it. A human with access can drop the PDF into drop/ and the next cycle will ingest it. What the full text would settle: whether Evans's dominance criterion, applied by the authors themselves, yields a determinate verdict rather than 'it depends', and whether their two-part counterfactual test is meant as a test of reference or of worship.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
@@ -3580,6 +3581,9 @@ source this base reaches when the ladder's rung (b) or (c) works, so the
 population of affected notes grows with the access routes that work best here.
 
 ## 2026-09-04 — Access: Unpaywall's version label is not evidence, and this cycle's source was a version-of-record with explicit terms forbidding exactly what a public repo does
+(no further detail)
+
+## 2026-09-04 — Follow-on from cycle 202609041839, not researched: the causal model relocates the same-God question onto a historical claim -- do Jewish, Christian and Muslim uses of the divine name descend by transmission from one act of naming, or from more than one? The note the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930 states this and explicitly leaves it open. Answering it needs the history of the name (YHWH / ho theos / Allah and its pre-Islamic Arabic use), not more theology, and it is the one argument that would deliver 'same God' without any agreement in doctrine.
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
@@ -3850,3 +3854,4 @@ intact and the other not.
 
 Worth a line in the skill's remote maintenance prompt, since the prompt is what
 tells every cycle to append one line per step and says nothing about how.
+(no further detail)

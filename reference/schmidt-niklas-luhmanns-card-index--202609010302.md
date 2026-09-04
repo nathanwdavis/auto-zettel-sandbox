@@ -34,11 +34,11 @@ chicago_bib: 'Schmidt, Johannes F. K. “Niklas Luhmann’s Card Index: The Fabr
   of Serendipity.” Sociologica 12, no. 1 (2018): 53–60. https://doi.org/10.6092/issn.1971-8853/8350.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture+datacite
-  source: https://api.datacite.org/dois/10.6092/issn.1971-8853/8350
+  method: raw-capture
+  source: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-04T19:05:00Z'
+  identifier_check: failed
+  date: '2026-09-04T19:32:29Z'
 raw_capture: raw/202609010301-schmidt-luhmann-card-index-serendipity.txt
 links: []
 created: '2026-09-01'

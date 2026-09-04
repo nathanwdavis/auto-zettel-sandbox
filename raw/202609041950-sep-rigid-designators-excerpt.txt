@@ -1,0 +1,71 @@
+Capture of https://plato.stanford.edu/entries/rigid-designators/
+Reference note: laporte-rigid-designators-sep--202609041950
+Fetched: 2026-09-04T19:17:11Z
+Bounded excerpt, per this repository's excerpt policy. Two blocks only:
+(A) the opening definition of rigid designation and the start of section 1.1;
+(B) the passage in section 3.1 on rigidity and descriptivism.
+Everything else in the entry, including the bibliography, is omitted.
+
+===== BLOCK A: the definition, and 1.1 Names, Ordinary Descriptions, and Identity Statements =====
+
+A rigid designator designates the same object in all possible worlds
+in which that object exists and never designates anything else. This
+technical concept in the philosophy of language has critical
+consequences felt throughout philosophy. In their fullest generality,
+the consequences are metaphysical and epistemological. Whether a
+statement’s designators are rigid or non-rigid may determine whether
+it is necessarily true, necessarily false, or contingent. This
+metaphysical status is sometimes out of accord with what one would
+expect given a statement’s apparent epistemological status as a
+posteriori or a priori. Statements affected include central ones under
+investigation in philosophical subdisciplines from the philosophy of
+science to mind to ethics and aesthetics. Hence, much of the
+discussion in various subdisciplines of philosophy is explicitly or
+implicitly framed around the distinction between rigid and non-rigid
+designators.
+
+1. A Basic Characterization of Rigid Designation, its Interest, and the Breadth of its Application
+
+1.1 Names, Ordinary Descriptions, and Identity Statements
+
+===== BLOCK B: rigidity and descriptivism =====
+
+Rigidity’s work is compatible with descriptivism. Although some
+philosophers seem to have the impression that the important work that
+rigidity performs is to 
+refute
+ descriptivism, this seems to
+be a mistake. A related impression is that the important work that
+
+Kripke
+ performs is to refute descriptivism: the rigidity of
+terms and more just falls out of anti-descriptivism, so
+anti-descriptivism is what really matters at bottom (see below,
+
+§4.2
+).
+ But there are strong reasons to resist this assessment of rigidity’s
+importance or lack thereof, too.
+
+First, it might be replied that even if names are non-descriptive,
+directly referring terms, it might not follow that they are rigid: a
+directly referential designator can be nonrigid, at least in principle
+(see 
+
+note 5
+).
+ If this thought is right, then the work that rigidity performs for
+names does not follow from anti-descriptivism. More is required.
+
+Further, even if rigidity does follow from anti-descriptivism,
+anti-descriptivism does not follow from rigidity: so rigidity’s work
+is not 
+limited
+ to that of direct reference. We have seen that
+descriptive designators may be rigid: e.g., world-indexed designators.
+But rigidity performs much of the same work on these as on arguably
+nondescriptive expressions like names. For example, ‘The evening
+star in α = the morning star in α’ would seem to be
+a necessarily true, a posteriori statement whose necessity and
+aposteriority cannot be explained in terms of the nondescriptive
+nature of the designators flanking the ‘=’ sign.

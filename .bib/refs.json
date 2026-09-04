@@ -1973,5 +1973,83 @@
     "title": "Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015",
     "type": "article-journal",
     "volume": "2"
+  },
+  {
+    "URL": "https://plato.stanford.edu/entries/reference/",
+    "author": [
+      {
+        "family": "Michaelson",
+        "given": "Eliot"
+      }
+    ],
+    "container-title": "The Stanford Encyclopedia of Philosophy",
+    "edition": "Spring 2024",
+    "editor": [
+      {
+        "family": "Zalta",
+        "given": "Edward N."
+      },
+      {
+        "family": "Nodelman",
+        "given": "Uri"
+      }
+    ],
+    "id": "202609041921",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          12
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "Metaphysics Research Lab, Stanford University",
+    "title": "Reference",
+    "type": "entry-encyclopedia"
+  },
+  {
+    "URL": "https://plato.stanford.edu/entries/rigid-designators/",
+    "author": [
+      {
+        "family": "LaPorte",
+        "given": "Joseph"
+      }
+    ],
+    "container-title": "The Stanford Encyclopedia of Philosophy",
+    "edition": "Spring 2022",
+    "editor": [
+      {
+        "family": "Zalta",
+        "given": "Edward N."
+      }
+    ],
+    "id": "202609041950",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          3
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "Metaphysics Research Lab, Stanford University",
+    "title": "Rigid Designators",
+    "type": "entry-encyclopedia"
   }
 ]
