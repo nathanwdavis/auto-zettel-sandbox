@@ -3745,3 +3745,66 @@ provenance and checksums, and nothing else. Anything that begins "read against"
 or "this means" belongs in a note. Where an excerpt must carry structure the
 original supplies elsewhere — a key, a table legend, a numbering scheme — quote
 that structure as its own excerpt rather than applying it.
+
+## 2026-09-04 — Tooling, HIGH and now MEASURED: the offline verifier stripped identifier_check from 22 reference notes in one run, and this cycle committed it before noticing
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, which did the damage, caught it, and
+reverted it. This is not a new defect — it is the open entry "verify_refs.py
+--offline REWRITES verification records" — but the two open entries both
+describe it as a downgrade of INDIVIDUAL records on a TRANSIENT lookup failure,
+and that description is wrong in a way that makes it look survivable.
+
+**WHAT ACTUALLY HAPPENS.** One run of `verify_refs.py --offline --no-render` —
+the exact invocation `gates.yml` uses — rewrote 22 reference notes in this
+repository:
+
+  - `identifier_check: confirmed` stripped from all 22.
+  - 17 records collapsed from `raw-capture+crossref` to bare `raw-capture`.
+  - 5 records collapsed from `raw-capture+openlibrary` to bare `raw-capture`.
+  - `verification.source` overwritten: the DOI or Open Library URL that
+    recorded WHERE the identifier was confirmed replaced by the local raw/ path.
+
+No network was involved. Nothing failed. This is not a transient-failure
+downgrade at all — offline, the verifier re-derives what it can see from `raw/`
+and writes that as the whole truth, discarding every record of a registry check
+some earlier cycle actually performed. The evidence is not contradicted; it is
+deleted.
+
+**AND IT SHIPS SILENTLY.** This cycle ran the offline gate on a merged tree to
+confirm CI would pass, and committed the result in the merge commit before
+reading the diff. It was caught only because a `git diff` for an unrelated
+reason showed 22 reference files in the changeset. The revert
+(`git checkout <pre-merge> -- reference/`) was safe here only because main had
+touched no reference note; a cycle where main HAD touched one would have faced
+a real reconstruction.
+
+**WHY CI IS NOT AFFECTED, which is also why nobody has noticed.** CI rewrites a
+checkout it throws away, and `build_manifest.py --check` passes because the
+manifest does not index the verification block. So the gate that runs this
+command every single time is exactly the context where the mutation is
+invisible. The damage only lands when a SESSION runs it, which the maintenance
+prompt's step 8 instructs every cycle to do.
+
+**WHAT THIS BASE SHOULD DO UNTIL IT IS FIXED**, and what this cycle did:
+
+  1. Snapshot `reference/` before running the verifier, and diff afterwards.
+     `cp -r reference /tmp/...` then `diff -rq`. This cycle did that for the
+     LIVE pass and caught one downgrade; it did not do it for the offline pass
+     and lost 22.
+  2. Never run the verifier in a working tree you are about to commit. There is
+     no version of "check that CI will pass" that requires mutating the tree.
+  3. Treat any `identifier_check` or `method` line the verifier REMOVES as a
+     defect, never as a finding.
+
+**THE FIX, in the skill repo.** `verify_refs.py` should not write a weaker
+record over a stronger one. Concretely: offline, it may ADD raw-capture
+evidence and may not REMOVE a registry method or an `identifier_check` it
+cannot re-test; a `--no-write`/`--check` mode would be better still, since
+verifying and recording are different jobs and the gates only need the first.
+This is the third distinct form of one root cause — the verifier treats its own
+current lookup as authoritative over a record it did not write — and the two
+earlier entries plus this one should probably be closed by a single change.
