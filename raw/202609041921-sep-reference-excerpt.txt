@@ -1,0 +1,22 @@
+Capture of https://plato.stanford.edu/entries/reference/
+Reference note: michaelson-reference-sep--202609041921
+Fetched: 2026-09-04T19:17:48Z
+Bounded excerpt, per this repository's excerpt policy. Two blocks only:
+(A) the statement of the causal theory's two components;
+(B) the summary enumerating the four models of reference-fixing, through the
+    author's remark that the four are not strictly exclusive.
+Everything else in the entry, including the bibliography, is omitted.
+Wording is verbatim; the entry's HTML line wrapping has been normalised to
+paragraphs and footnote markers dropped, so the text is greppable.
+
+===== BLOCK A: the causal theory's two components =====
+
+The causal theory is generally presented as having two components: one dealing with reference fixing, the other dealing with reference borrowing. Reference, on this sort of view, is fixed by a dubbing. In other words, a language user gives a name to an object by saying something like “You are to be called N .” The paradigm case is one where the dubber is occurrently perceiving the target object when they utter this. After this initial act of reference-fixing, the name gets passed on from speaker to speaker through communicative exchanges. Speakers succeed in referring to something by means of its name, on this sort of view, because underlying their uses of the name are links in a causal chain stretching back to the initial dubbing of the object with that name. Subsequent speakers thus effectively ‘borrow’ their reference from speakers earlier in the chain, though borrowers needn’t be able to identify any of the lenders they are in fact relying on. All that is required is that borrowers are appropriately linked to their lenders through chains of communication.
+
+===== BLOCK B: the four models of reference-fixing =====
+
+1. On the descriptivist model, words refer in virtue of being associated with a specific descriptive contents that serve to identify particular objects or individuals as their referents. This descriptive content might be associated with a given term on a particular occasion in a number of different ways: in virtue of its being something the speaker associates with the term, in virtue of its being what the community associates with the term, that the relevant experts in the community associate with the term, etc.
+ 2. On the causal model, words refer in virtue of being associated with chains of use leading back to an initiating use or ‘baptism’ of the referent. Extending this model beyond names has proven difficult, but one option is to insist that it is really the perceptual connection that underlies most baptismal events that runs the show. In that case, perceptually-grounded uses of demonstratives, deictic pronouns, and definite descriptions can be folded into the picture relatively easily, with anaphoric uses treated as something akin to links in a chain of reference-borrowing. [ 18 ]
+ 3. On the character model, words refer in virtue of being associated with regular rules of reference. Paradigm rules of this sort involve only repeatable, publicly-identifiable elements of the context and serve to connect particular terms to particular elements of the context.
+ 4. On the intentionalist model, words refer in virtue of being used, intentionally, to refer to particular objects. In other words, words refer in virtue of their being uttered as part of complex intentional acts which somehow target particular objects or individuals.
+ As should be clear by now, these four models aren’t strictly exclusive of each other. One might, for instance, conceive of the classical descriptivism—which appeals to the speaker’s mental state in order to associate a particular description with a particular token referential term—as a particular kind of intentionalism. Presumably, speakers will only manifest the right sort of mental state when they are intentionally using a referential term to refer. Likewise, one might view the causal theory as a special case of the character theory: in the case of terms like names, the invariant rule of use associated with a particular name is itself to be explained in terms of a chain of uses leading back to a specific object or individual.

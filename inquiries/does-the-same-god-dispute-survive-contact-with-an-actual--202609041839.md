@@ -10,10 +10,13 @@ updated: '2026-09-04'
 question: Does the same-God dispute survive contact with an actual theory of reference,
   and does Kripke's causal-historical account give a different verdict from Evans's
   dossier account?
-status: new
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935
+- the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930
+- every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940
 tags: []
 ---
 The base's most load-bearing distinction -- reference versus description -- is

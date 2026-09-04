@@ -488,6 +488,22 @@ from primary texts neither of which knows the other, and the comparative
 scholarship that would test it remains unread. That hunt is now its own INBOX
 entry rather than a reason to keep the inquiry open.
 
+## The semantics, added 2026-09-04: the borrowed distinction, checked
+
+The reference/description distinction that organises this whole map was taken
+from the philosophy of language and never checked against it. Inquiry
+202609041839 checked it. The distinction does not survive intact: rigidity is
+compatible with descriptivism, the field offers four models of reference-fixing
+rather than two, and the four are not mutually exclusive. Sorted by that
+taxonomy, every argument for co-reference on file here turns out to be a
+descriptivist argument, and the causal model's argument -- that the traditions
+co-refer because their uses of the name descend from one act of naming -- has
+never been made.
+
+- [[rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935]]
+- [[the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930]]
+- [[every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940]]
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

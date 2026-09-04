@@ -252,6 +252,13 @@
     "202609041830": "the-remember-where-not-what-result-compares-cued-recall-with-uncued--202609041830",
     "202609041835": "the-google-effect-headline-rests-on-four-words-seen-once-each--202609041835",
     "202609041840": "the-offloading-literature-varies-expectation-not-accumulation--202609041840",
+    "202609041920": "laporte-rigid-designators-sep--202609041920",
+    "202609041921": "michaelson-reference-sep--202609041921",
+    "202609041925": "laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925",
+    "202609041926": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926",
+    "202609041930": "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930",
+    "202609041935": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935",
+    "202609041940": "every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -289,8 +296,12 @@
       "path": "inquiries/does-the-same-god-dispute-survive-contact-with-an-actual--202609041839.md",
       "priority": "high",
       "question": "Does the same-God dispute survive contact with an actual theory of reference, and does Kripke's causal-historical account give a different verdict from Evans's dossier account?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940",
+        "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935",
+        "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930"
+      ],
+      "status": "answered",
       "updated": "2026-09-04"
     },
     {
@@ -477,7 +488,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 257,
+  "note_count": 264,
   "notes": [
     {
       "id": "202609041020",
@@ -1906,6 +1917,47 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
+      "id": "202609041940",
+      "key": "every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "beckwith-locates-co-reference-in-general-revelation--202609010837"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "bogardus-and-urban-make-co-reference-turn-on-dossier-dominance--202609010838"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
+        },
+        {
+          "relation": "source",
+          "target_id": "michaelson-reference-sep--202609041921"
+        },
+        {
+          "relation": "source",
+          "target_id": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710"
+        }
+      ],
+      "path": "permanent/every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940.md",
+      "slug": "every-co-reference-argument-on-file-is-a-descriptivist-argument",
+      "tags": [],
+      "title": "Every argument for co-reference this base has collected is a descriptivist argument",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/every-co-reference-argument-on-file-is-a-descriptivist-argument--202609041940.md"
+    },
+    {
       "id": "202609041825",
       "key": "expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825",
       "links": [
@@ -2549,6 +2601,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md"
     },
     {
+      "id": "202609041920",
+      "key": "laporte-rigid-designators-sep--202609041920",
+      "links": [],
+      "path": "reference/laporte-rigid-designators-sep--202609041920.md",
+      "slug": "laporte-rigid-designators-sep",
+      "tags": [],
+      "title": "LaPorte, Rigid Designators (SEP)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/laporte-rigid-designators-sep--202609041920.md"
+    },
+    {
+      "id": "202609041925",
+      "key": "laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "laporte-rigid-designators-sep--202609041920"
+        },
+        {
+          "relation": "supports",
+          "target_id": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935"
+        }
+      ],
+      "path": "literature/laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925.md",
+      "slug": "laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism",
+      "tags": [],
+      "title": "LaPorte states that rigidity does not by itself refute descriptivism",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925.md"
+    },
+    {
       "id": "202701010012",
       "key": "linear-growth-lacks-a-feedback-loop--202701010012",
       "links": [
@@ -2863,6 +2948,43 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/meyer-of-molecules-and-straw-men--202609011311.md"
+    },
+    {
+      "id": "202609041921",
+      "key": "michaelson-reference-sep--202609041921",
+      "links": [],
+      "path": "reference/michaelson-reference-sep--202609041921.md",
+      "slug": "michaelson-reference-sep",
+      "tags": [],
+      "title": "Michaelson, Reference (SEP)",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/michaelson-reference-sep--202609041921.md"
+    },
+    {
+      "id": "202609041926",
+      "key": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "michaelson-reference-sep--202609041921"
+        },
+        {
+          "relation": "supports",
+          "target_id": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930"
+        }
+      ],
+      "path": "literature/michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926.md",
+      "slug": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive",
+      "tags": [],
+      "title": "Michaelson sets out four models of reference-fixing and declines to make them exclusive",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926.md"
     },
     {
       "id": "202609040156",
@@ -3595,6 +3717,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md"
     },
     {
+      "id": "202609041935",
+      "key": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "laporte-rigid-designators-sep--202609041920"
+        },
+        {
+          "relation": "source",
+          "target_id": "laporte-states-that-rigidity-does-not-by-itself-refute-descriptivism--202609041925"
+        },
+        {
+          "relation": "source",
+          "target_id": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926"
+        },
+        {
+          "relation": "refutes",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935.md",
+      "slug": "rigidity-does-not-draw-the-line-the-same-god-dispute-draws",
+      "tags": [],
+      "title": "Reference and description are not the alternatives the same-God dispute takes them to be",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/rigidity-does-not-draw-the-line-the-same-god-dispute-draws--202609041935.md"
+    },
+    {
       "id": "202609040310",
       "key": "roediger-and-karpicke-measured-retrieval-against-re-exposure-and-let-time-decide--202609040310",
       "links": [
@@ -4268,6 +4419,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
+    },
+    {
+      "id": "202609041930",
+      "key": "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930",
+      "links": [
+        {
+          "relation": "contradicts",
+          "target_id": "anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842"
+        },
+        {
+          "relation": "source",
+          "target_id": "michaelson-reference-sep--202609041921"
+        },
+        {
+          "relation": "source",
+          "target_id": "michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        }
+      ],
+      "path": "permanent/the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930.md",
+      "slug": "the-causal-model-makes-co-reference-independent-of-doctrinal-agreement",
+      "tags": [],
+      "title": "On the causal model, co-reference is independent of doctrinal agreement altogether",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-causal-model-makes-co-reference-independent-of-doctrinal-agreement--202609041930.md"
     },
     {
       "id": "202609040925",
