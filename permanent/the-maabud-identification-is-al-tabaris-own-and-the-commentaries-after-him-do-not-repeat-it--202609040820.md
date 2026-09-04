@@ -101,3 +101,21 @@ passing over the clause is not four commentators denying the identification, and
 al-Razi does not deny it either. He does use the word `معبود` once, on Q 3:64,
 to argue that before the Messiah the object of worship was none but God and that
 the Christians have since added to it — the vocabulary in the opposite service.
+
+## Amendment, 2026-09-04 10:00Z cycle
+
+The school objection filed by the cycle above has also been tested, and it does
+not hold either. al-Zamakhshari (d. 538/1144), whose *al-Kashshaf* is the
+classical Mu'tazili commentary and the one major classical tafsir outside the
+Sunni traditionalist family, does not reach the clause at all: neither `معبود`
+nor `واحد` occurs anywhere in his comment on Q 29:46, on either of two
+independently served copies
+([[the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010]]).
+The count is now five commentators after al-Tabari, across four centuries, two
+theological families and four genres.
+
+The limit is unchanged and worth restating a third time, because each new
+witness makes it easier to forget: five commentators passing over the clause is
+not five commentators denying the identification. What is established is the
+narrow claim in this note's title, now with the two available explanations of
+the silence — genre, school — both ruled out and none put in their place.

@@ -124,3 +124,19 @@ wrangling to seeking fair terms. The exclusions he attaches are the verse's own
 three, expounded against Christian doctrine directly
 ([[the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925]]).
 
+
+## Amendment, 2026-09-04 10:00Z cycle
+
+A fifth commentary reads it the same way, and it is the one that had the best
+chance of reading it otherwise. al-Zamakhshari is the only commentator in this
+base who says the word is undisputed across the Qur'an, the Torah and the Gospel
+— and he says it in the sentence before he glosses the invitation as
+`تعالوا إليها حتى لا نقول: عزيز ابن الله، ولا المسيح ابن الله`, come to it so
+that we may not say "'Uzayr is the son of God" nor "the Messiah is the son of
+God". So the count in this note's title is now five commentaries reading the
+verse as a summons, and three naming the sonship or the cross among what the
+summons excludes. The reason his agreement is worth more than a fifth tally
+mark is set out in
+[[the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015]]:
+he locates the common ground in the content of the word, not in the parties, and
+that is exactly the distinction the summons reading turns on.

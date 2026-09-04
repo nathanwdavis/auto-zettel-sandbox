@@ -73,3 +73,14 @@ object of worship was none but God, so the matter had to remain so afterwards.
 That is an argument that the Christians have since added to the object of
 worship — the opposite direction of travel from al-Tabari's identification. The
 vocabulary was available to him and he put it to the contrary use.
+
+## Amendment, 2026-09-04 10:00Z cycle
+
+The school objection this note's cycle filed against its own result has been
+tested in the cycle after it and does not hold: al-Zamakhshari's *al-Kashshaf*,
+the classical Mu'tazili commentary, passes over the clause as well
+([[the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010]]).
+Both explanations this base generated for the silence — that it belongs to
+certain genres, that it belongs to one theological family — are now ruled out,
+and nothing has replaced them. That is the honest state of the question: the
+silence is real, general, and unexplained.

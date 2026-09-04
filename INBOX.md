@@ -1973,6 +1973,49 @@ all Sunni traditionalists of one sort or another and the silence they share may
 be a school effect rather than a tradition-wide one — which is the same shape of
 objection this entry raised about genre, and it is not yet answered.
 
+### Appended 2026-09-04 10:00Z: the school objection is closed, and the free list is nine deep
+
+**THE MU'TAZILI TEST WAS RUN AND CAME OUT THE SAME WAY.** al-Zamakhshari's
+*al-Kashshaf* is on tafsir.app under `kashaf`, both verses on the first request,
+and it is captured in full at
+`raw/202609041000-zamakhshari-al-kashshaf-3-64-and-29-46-arabic.txt`. He does not
+gloss `وإلهنا وإلهكم واحد` — his comment on 29:46 stops one clause short of it,
+and neither `معبود` nor `واحد` occurs anywhere in it, on tafsir.app or on the
+independent quranpedia.net copy. So the "it may be a school effect" objection
+this entry raised against the genre finding fails in its turn, and both
+explanations the base generated for the silence are now spent (202609041010, and
+amendments on 202609040820 and 202609040915).
+
+Two further findings came with it, and the second is the more valuable:
+- He is the only commentator in this base who says the common word is undisputed
+  across the Qur'an, the Torah and the Gospel — and he defines that word, in the
+  next sentence, as a summons to stop saying the Messiah is the son of God
+  (202609041015). The base's strongest classical statement of common ground and
+  its sharpest summons are the same paragraph.
+- At Q 3:67 he offers `أو أراد بالمشركين اليهود والنصارى` as a possible sense,
+  which is the first place in this base where a classical commentator extends
+  *mushrikun* to the People of the Book (202609041020). Item (4) of this entry
+  now has two independent tafsir witnesses; the *fiqh* is still untried, and
+  that is still where a ruling would live.
+
+**WHAT IS LEFT ON THE FREE LIST, AND WHY IT IS NOW LOWER VALUE.** Nine of the ten
+classical commentaries named above are still uncaptured — Ibn 'Ashur, Abu
+Hayyan, al-Alusi, al-Baydawi, al-Nasafi, al-Mawardi, Ibn al-Jawzi, al-Tha'labi,
+Ibn 'Atiyya — and each is one request. But the argument that made Zamakhshari
+worth a cycle does not transfer to them: he was the school test, and the school
+test is now spent. A tenth commentator agreeing adds a tally mark. What would
+still change the base's position is a commentator who *does* gloss the clause,
+and the cheapest places left to look for one are outside this list entirely —
+the Shi'i commentaries (al-Tusi's *Tibyan*, al-Tabrisi's *Majma' al-bayan*),
+which no host checked so far carries and which belong to neither family the base
+has now ruled out.
+
+**Unchanged and still open from the entry above:** Tantawi still stands on one
+witness and still needs a host that is not tafsir.app or quran.ksu.edu.sa; the
+translation debt is now EIGHT sources deep and the Ibn Kathir calibration
+argument for paying it once is unchanged and still right; the juristic
+*mushrikun* literature is untried.
+
 ## 2026-09-04 — Tooling, HIGH: the Arabic normaliser used for the mechanical quotation checks can swallow the letters it is supposed to keep
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -2030,3 +2073,22 @@ routine used to establish an absence must be tested on a positive control (a
 string known to be in the text) and on a negative control (a string known not to
 be) in the same run, and the controls belong in the log line, not in the head of
 whoever ran it.
+
+### Appended 2026-09-04 10:00Z: the rule was followed on its first outing, and it earned its keep
+
+The 10:00Z cycle rested a negative claim on Arabic string counts and followed
+this entry's rule without being asked twice: marks stripped by explicit code
+point (U+064B–U+0655, U+0670, U+06D6–U+06ED, U+0640), the letter block kept, and
+the controls run in the same pass and written into the capture header rather than
+into anyone's memory —
+
+    norm('معبود')  -> 'معبود'      (needle survives)
+    norm('ضاهوهم') -> 'ضاهوهم'     (the string that exposed the defective class)
+    `الذمة` in the independent host's 29:46 section -> 2   (the section is read)
+    `واحد` in the same commentator's 3:64 comment   -> 2   (the tool can see the word)
+
+The last of those is the one this entry did not think to ask for and should:
+when the absent string is a common word, the cheapest proof that its absence is
+real is to count it somewhere it IS expected, in the same text by the same
+author. That control, not the positive control on the needle, is what makes a
+zero publishable. Suggested for whoever writes the rule into a skill.

@@ -25,6 +25,9 @@ result_notes:
 - the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915
 - the-gentler-argument-is-grounded-in-the-people-of-the-books-own-profession-of-oneness--202609040920
 - the-classical-exclusion-of-trinitarians-is-made-inside-the-verse-that-carries-the-shared-god-clause--202609040925
+- the-mutazili-commentary-passes-over-the-clause-too-so-the-silence-is-not-a-school-effect--202609041010
+- the-strongest-classical-claim-of-common-ground-is-made-about-the-word-not-about-the-parties--202609041015
+- a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020
 tags: []
 ---
 Filed by the 2026-09-03 gap-filling graph walk. This is a STRUCTURAL gap, not
@@ -262,3 +265,27 @@ still the same two things: the juristic *mushrikun* literature, and any
 commentator outside the Sunni traditionalist mainstream (al-Zamakhshari is
 reachable and untried) who might break the pattern of silence rather than
 extend it.
+
+## Appended 2026-09-04 10:00Z: the school objection, and where the answer now stands
+
+Still `answered`, and three more `result_notes` are added for the same reason as
+before: what arrived extends the answer rather than unsettling it. What arrived
+is al-Zamakhshari (d. 538/1144), *al-Kashshaf*, the classical Mu'tazili
+commentary, brought in as the test of whether the silence of the five
+commentators before him belongs to their theological family rather than to the
+tradition. It does not. He passes over the shared-God clause as well.
+
+The state of this inquiry's answer, stated once so the next run does not have to
+reconstruct it from six cycles of amendments: the modern Muslim voice (the 2007
+letter, the consensus statement) makes common ground out of *command* rather
+than out of reference. The Qur'an supplies both a shared-God formula and an
+excluding one. The foundational commentary, al-Tabari, does identify the two
+parties' object of worship — and no commentator captured since repeats him, in
+four centuries, across two theological families and four genres, while every one
+of them expounds the rest of the same verse at length. Nobody denies him either.
+That asymmetric silence is the answer this inquiry has actually produced, and it
+is a finding about the tradition rather than a gap in the reading of it.
+
+What would still move it is a commentator who glosses the clause. Both families
+the base has searched are now exhausted as explanations; the Shi'i commentaries
+are the cheapest unsearched place, and are named in INBOX.
