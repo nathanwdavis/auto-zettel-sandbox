@@ -35,10 +35,11 @@ chicago_bib: 'Rowland, Christopher A. “The Effect of Testing Versus Restudy on
   (2014): 1432–63. https://doi.org/10.1037/a0037559.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609040600-rowland-2014-testing-effect-meta-analysis-excerpts.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1037/a0037559
   verified: true
-  date: '2026-09-04T19:14:29Z'
+  identifier_check: confirmed
+  date: '2026-09-04T16:23:14Z'
 raw_capture: raw/202609040600-rowland-2014-testing-effect-meta-analysis-excerpts.txt
 links: []
 created: '2026-09-04'

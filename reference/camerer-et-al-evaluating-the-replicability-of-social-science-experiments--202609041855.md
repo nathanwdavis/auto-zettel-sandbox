@@ -83,10 +83,11 @@ chicago_bib: 'Camerer, Colin F., Anna Dreber, Felix Holzmeister, et al. “Evalu
   and 2015.” Nature Human Behaviour 2, no. 9 (2018): 637–44. https://doi.org/10.1038/s41562-018-0399-z.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1038/s41562-018-0399-z
   verified: true
-  date: '2026-09-04T19:14:29Z'
+  identifier_check: confirmed
+  date: '2026-09-04T19:03:33Z'
 raw_capture: raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt
 links: []
 created: '2026-09-04'

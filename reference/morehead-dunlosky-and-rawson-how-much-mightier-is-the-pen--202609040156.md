@@ -40,10 +40,11 @@ chicago_bib: 'Morehead, Kayla, John Dunlosky, and Katherine A. Rawson. “How Mu
   and Oppenheimer (2014).” Educational Psychology Review 31, no. 3 (2019): 753–80.
   https://doi.org/10.1007/s10648-019-09468-2.'
 verification:
-  method: raw-capture
-  source: raw/202609040156-morehead-dunlosky-rawson-2019-abstract.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1007/s10648-019-09468-2
   verified: true
-  date: '2026-09-04T19:14:29Z'
+  identifier_check: confirmed
+  date: '2026-09-04T16:23:06Z'
 raw_capture: raw/202609040156-morehead-dunlosky-rawson-2019-abstract.txt
 links: []
 created: '2026-09-04'

@@ -32,10 +32,11 @@ chicago_bib: 'Blair, Ann. “Note Taking as an Art of Transmission.” Critical 
   31, no. 1 (2004): 85–107. https://doi.org/10.1086/427303.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609032100-blair-note-taking-art-of-transmission-excerpts.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1086/427303
   verified: true
-  date: '2026-09-04T19:14:29Z'
+  identifier_check: confirmed
+  date: '2026-09-04T16:22:51Z'
 raw_capture: raw/202609032100-blair-note-taking-art-of-transmission-excerpts.txt
 links: []
 created: '2026-09-03'

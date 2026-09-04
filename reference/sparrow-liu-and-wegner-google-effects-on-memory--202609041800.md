@@ -41,10 +41,11 @@ chicago_bib: 'Sparrow, Betsy, Jenny Liu, and Daniel M. Wegner. “Google Effects
   333, no. 6043 (2011): 776–78. https://doi.org/10.1126/science.1207745.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609041800-sparrow-liu-and-wegner-2011-google-effects-on-memory-excerpts.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1126/science.1207745
   verified: true
-  date: '2026-09-04T19:14:29Z'
+  identifier_check: confirmed
+  date: '2026-09-04T18:14:29Z'
 raw_capture: raw/202609041800-sparrow-liu-and-wegner-2011-google-effects-on-memory-excerpts.txt
 links: []
 created: '2026-09-04'
