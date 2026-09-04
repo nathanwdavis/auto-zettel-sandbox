@@ -154,6 +154,11 @@
     "202609040505": "agarwal-nunes-and-blunt-retrieval-practice-in-schools-and-classrooms--202609040505",
     "202609040510": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510",
     "202609040515": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515",
+    "202609040600": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600",
+    "202609040605": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605",
+    "202609040610": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
+    "202609040615": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615",
+    "202609040620": "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -242,9 +247,12 @@
       "question": "Is there any empirical evidence that note-taking or externalized memory actually improves thinking and writing, and does any of it reach the slip-box claims this base makes?",
       "result_notes": [
         "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210",
+        "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620",
         "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
         "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345",
         "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340",
+        "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615",
+        "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
         "the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215"
       ],
       "status": "in-progress",
@@ -289,7 +297,7 @@
       "updated": "2026-09-01"
     }
   ],
-  "note_count": 159,
+  "note_count": 164,
   "notes": [
     {
       "id": "202609040058",
@@ -389,6 +397,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210.md"
+    },
+    {
+      "id": "202609040620",
+      "key": "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600"
+        }
+      ],
+      "path": "permanent/a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620.md",
+      "slug": "a-failed-retrieval-that-is-never-corrected-buys-nothing",
+      "tags": [],
+      "title": "A failed retrieval that is never corrected buys nothing",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620.md"
     },
     {
       "id": "202609010113",
@@ -1636,6 +1677,10 @@
         {
           "relation": "contradicts",
           "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610"
         }
       ],
       "path": "permanent/in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515.md",
@@ -2608,6 +2653,10 @@
           "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
         },
         {
+          "relation": "elaborates",
+          "target_id": "a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620"
+        },
+        {
           "relation": "source",
           "target_id": "agarwal-et-al-put-the-notes-on-the-desk-and-measured-what-happened-a-week-later--202609040320"
         },
@@ -2638,6 +2687,22 @@
         {
           "relation": "source",
           "target_id": "roediger-and-karpicke-test-enhanced-learning--202609040305"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610"
         }
       ],
       "path": "permanent/retrieval-not-re-exposure-is-what-makes-learning-last--202609040340.md",
@@ -2676,6 +2741,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/roediger-and-karpicke-test-enhanced-learning--202609040305.md"
+    },
+    {
+      "id": "202609040605",
+      "key": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600"
+        }
+      ],
+      "path": "literature/rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605.md",
+      "slug": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom",
+      "tags": [],
+      "title": "Rowland meta-analysed the laboratory half and excluded the classroom",
+      "type": "literature",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605.md"
+    },
+    {
+      "id": "202609040600",
+      "key": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600",
+      "links": [],
+      "path": "reference/rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600.md",
+      "slug": "rowland-the-effect-of-testing-versus-restudy-on-retention",
+      "tags": [],
+      "title": "Rowland, The Effect of Testing Versus Restudy on Retention",
+      "type": "reference",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600.md"
     },
     {
       "id": "202609010302",
@@ -3203,6 +3297,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-general-revelation-passages-describe-a-wordless-disclosure--202609011038.md"
     },
     {
+      "id": "202609040615",
+      "key": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-failed-replication-leaves-the-mechanism-standing-and-the-effect-unproven--202609040210"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330"
+        },
+        {
+          "relation": "supports",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600"
+        }
+      ],
+      "path": "permanent/the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615.md",
+      "slug": "the-independent-audit-puts-the-effect-at-half-a-standard-deviation",
+      "tags": [],
+      "title": "The independent audit puts the testing effect at half a standard deviation",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615.md"
+    },
+    {
       "id": "202609011320",
       "key": "the-information-design-argument-turns-on-where-selection-begins--202609011320",
       "links": [
@@ -3263,6 +3390,39 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md"
+    },
+    {
+      "id": "202609040610",
+      "key": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "retrieval-not-re-exposure-is-what-makes-learning-last--202609040340"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605"
+        },
+        {
+          "relation": "source",
+          "target_id": "rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600"
+        }
+      ],
+      "path": "permanent/the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610.md",
+      "slug": "the-laboratory-and-classroom-evidence-were-separated-on-purpose",
+      "tags": [],
+      "title": "The laboratory and classroom evidence were separated on purpose",
+      "type": "permanent",
+      "updated": "2026-09-04",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610.md"
     },
     {
       "id": "202609022352",

@@ -593,6 +593,20 @@ rehearse CI must restore afterwards or it will commit sixteen silent
 downgrades. (Defect (B) also recurred, its eighth occurrence, on polkinghorne
 202609022347. Restored from HEAD as usual.)
 
+**2026-09-04T06:15Z — defect (B) recurred TWICE in one cycle, its ninth and
+tenth occurrences, and that is the useful new datum.** This cycle ran
+verify_refs live twice — once after writing the new notes and once as the final
+gate — and BOTH passes re-added `identifier_check: failed` to polkinghorne
+202609022347, each time requiring a restore from HEAD. So the defect is not
+merely per-cycle but per-invocation: the restore step has to follow every
+verify_refs call, not just the last one, or an intervening `build_manifest` will
+index the damaged file. Defect (A) did NOT recur this cycle: no other reference
+note was touched by either live pass, Open Library and Crossref were both
+reachable throughout, and the offline pass was not run. The count of reference
+notes is now 53 and the two that sit at bare `raw-capture` beside an identifier
+are unchanged — 202609022347 (this defect) and 202609010302 (Schmidt, a DataCite
+DOI that Crossref legitimately does not carry).
+
 ## 2026-09-02 — Lead: capture Kragh on the history of the carbon-12 resonance's anthropic reading
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -1148,7 +1162,11 @@ verify_refs one and it was not duplicated.
 
 ## 2026-09-04 — Retrieval practice, the generation effect and transactive memory: the untouched half of inquiry 202609032123, and a contradiction the base should go looking for
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
+- **2026-09-04T06:00Z:** status corrected from `new` to `in-progress`. Item (1)
+  was marked done by the 03:00Z cycle in the body below and the status line was
+  not moved with it. Items (2) and (3) are untouched and are the whole of what
+  is left; no cycle has yet taken them.
 - **priority:** normal
 - **asked_by:** human
 
@@ -1226,6 +1244,23 @@ Mueller and Oppenheimer; do not cite the headline alone.
 operationalises accumulation and linking, or measures an outcome months or years
 out. The 2025 survey of retrieval-based learning runs 31 pages and never once
 uses the words note-taking, notes, external memory or offloading.
+
+**2026-09-04T06:00Z cycle — items (2) and (3) were NOT taken, and the reason is
+that a different entry named a better use of the cycle.** The Rowland 2014 audit
+was the highest-value outstanding item in the base by two entries' reckoning and
+it is now read; see the 2026-09-04 robustness entry below. Items (2) and (3) are
+untouched and remain the whole of what is left in this entry: the generation
+effect, and transactive/external memory (Sparrow, Liu and Wegner 2011, DOI
+10.1126/science.1207745, closed). Whoever takes item (3) should note that it is
+the only remaining item in this entry that is *about* externalised memory rather
+than about learning — which, given that four retrieval-practice sources have now
+been searched and none of them mentions notes or offloading at all, makes it the
+one place the base is still likely to find a measurement on its own subject
+rather than an adjacent one. Two access routes worth trying on it before the
+ladder, both learned since this entry was written: ask a host's own API for a
+file list rather than following its landing page, and when a copy turns up on an
+unexpected academic domain, open it and read its first page for a deposit
+statement.
 
 ## 2026-09-04 — The retrieval-practice robustness claim rests on a self-assessment, and the audit that would settle it is sitting in gold open access
 
@@ -1403,3 +1438,210 @@ taking`, `notetaking`, `external memory`, `offloading`, `slip box` and
 `zettelkasten` occur ZERO times in all 65 pages. The standing "nothing
 operationalises accumulation and linking" item is now evidenced on three
 independent retrieval-practice sources rather than assumed.
+
+**2026-09-04T06:00Z cycle — ITEM (2), ROWLAND 2014, IS DONE. It was the item
+this entry called the highest-value one and it was, though not for the reason
+given.** Captured as reference 202609040600, literature 202609040605, capture
+`raw/202609040600-rowland-2014-testing-effect-meta-analysis-excerpts.txt`
+(excerpts, and see the separate INBOX entry filed this cycle for why the capture
+is excerpts rather than full text — the article was read in full). Three
+permanent notes: 202609040610, 202609040615, 202609040620.
+
+  (i) **ACCESS.** The route this entry recommended — OSF, the author's
+      institutional repository, host APIs rather than landing pages — did not
+      work, and is recorded with its failures in the reference note and in the
+      access entry filed alongside this one. What worked was a plain web search
+      turning up the article as a course asset on a university teaching server,
+      whose first page is a ResearchGate cover sheet documenting the author's
+      own 2016 deposit. Publisher (Incapsula bot challenge) and every OA index
+      (Unpaywall, OpenAlex, Semantic Scholar, OpenAIRE, unanimously closed) both
+      failed, which is the third cycle running that rung (c) has been the one to
+      deliver.
+
+ (ii) **THE ROBUSTNESS QUESTION THIS ENTRY EXISTS FOR IS NOW ANSWERED, AND THE
+      ANSWER IS YES WITH NUMBERS.** `g = 0.50, CI [0.42, 0.58]`, 159 effect
+      sizes from 61 studies reported 1975-2013, from an author with no
+      connection to the Roediger-Karpicke line. Permanent note 202609040340's
+      standing paragraph is rewritten again to say so. Two qualifications go
+      with it and are in 202609040615: 28 of the 159 effect sizes are negative
+      (counted off the paper's own stem-and-leaf plot, whose leaves sum to
+      exactly 159), and the published-versus-unpublished gap the author detected
+      — 0.58 against 0.25 — was argued away on design grounds rather than
+      corrected for, with no funnel plot or trim-and-fill reported and a stated
+      reason for not running them.
+
+(iii) **AND THE SURVEY'S "THREE META-ANALYSES" DESCRIPTION IS NOW TWO FOR TWO ON
+      BEING WORTH CHECKING.** Rowland 2014 IS a meta-analysis, so the chapter
+      was right about this one and wrong about Agarwal et al. 2021. Literature
+      note 202609040330 carries both halves now.
+
+ (iv) **THE UNANTICIPATED FINDING, and it revises a note this base wrote six
+      hours ago.** Rowland excluded classroom studies by explicit inclusion
+      criterion (d), thirteen of them, pointing readers to a different review;
+      Agarwal, Nunes and Blunt excluded the laboratory for the symmetrical
+      reason. The two reviews share no studies at all. And their delay ranges
+      barely overlap — Rowland's moderator is binary at one day over a
+      literature he frames as running from minutes to "days or weeks", theirs
+      runs from a 1-3 day delay to an end-of-semester one they gloss as
+      "approximately 6-15 weeks". So the reverse-gradient conflict recorded in
+      202609040515 is not a conflict; it is two adjacent stretches of one curve
+      that rises to a few days and falls after. Written up as 202609040610, with
+      credit where it is due: the classroom reviewers proposed exactly this
+      explanation themselves (p. 43), inferring the laboratory range from a
+      third review; what is new is checking it against the laboratory review
+      directly, and the disjoint-criteria fact, which they do not mention.
+      202609040515 is amended in place rather than left standing.
+
+**WHAT REMAINS OPEN IN THIS ENTRY.** Adesope, Trevisan and Sundararajan 2017
+(DOI 10.3102/0034654316689306) is now the last unread audit of the three, and
+this cycle's route is the one to try first for it: a web search for an
+academic-domain PDF, then open the file and look for a deposit statement on its
+first page before judging its provenance. Its result is also now specifically
+wanted rather than merely owed — it is the review whose delay distribution
+(64% of studies at six or fewer days) the classroom reviewers cite second-hand
+to support the taper hypothesis, so reading it directly would test 202609040610
+on the point that note is weakest. Then Agarwal and Roediger 2011 (DOI
+10.1080/09658211.2011.613840) and the four pre-1985 classroom studies. Status
+stays `in-progress`.
+
+**ALSO MEASURED AGAIN, fourth source running:** across all 34 pages of Rowland
+the strings `note-taking`, `note taking`, `notetaking`, `external memory`,
+`offloading`, `slip box`, `zettelkasten` and `transactive` occur ZERO times;
+`notes` occurs once and not about note-taking. Four independent
+retrieval-practice sources, no mention of externalised memory in any of them.
+
+## 2026-09-04 — Full-text captures of all-rights-reserved articles sit in raw/ in a public repository, and this cycle declined to add a third (human decision needed)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T06:00Z Rowland cycle, which hit the question and made a
+conservative call it does not have the standing to make permanently.
+
+**WHAT HAPPENED THIS CYCLE.** Rowland 2014 (DOI 10.1037/a0037559, Psychological
+Bulletin) was obtained in full and read in full. Every page of the PDF carries
+the printed notice `This document is copyrighted by the American Psychological
+Association or one of its allied publishers. This article is intended solely for
+the personal use of the individual user and is not to be disseminated broadly.`
+This repository is public (config.yml `visibility: public`). Committing the
+extracted 32-page text would put a verbatim copy of an all-rights-reserved
+article on a public GitHub repository, which is the thing that notice forbids in
+as many words. So the capture at
+`raw/202609040600-rowland-2014-testing-effect-meta-analysis-excerpts.txt` is an
+EXCERPT capture: the passages the notes actually use, plus the source URL and a
+SHA-256 so any quotation can be re-derived. Nothing in the notes is
+under-grounded by this — the full text was read, so design, criteria, counts and
+the author's reasoning are all reportable, which is the standard
+`skills/source-access-triage` step 2 sets for a source read in full.
+
+**WHY IT IS AN INBOX ENTRY AND NOT JUST A CHOICE.** The base is not consistent
+on this, and the inconsistency predates this cycle:
+
+  - `raw/202609040305-roediger-karpicke-2006-...-fulltext.txt` — Psychological
+    Science, closed access, captured FULL TEXT from the author's lab page.
+  - `raw/202609040315-agarwal-et-al-2008-...-fulltext.txt` — closed access,
+    captured FULL TEXT from the same lab page.
+  - `raw/202609040325-karpicke-2025-...-excerpts.txt` — in-copyright Elsevier
+    chapter, captured as EXCERPTS.
+  - `raw/202609040505-agarwal-nunes-blunt-2021-...-fulltext.txt` — gold OA
+    accepted manuscript, FULL TEXT. This one raises no question at all.
+  - `raw/202609040600-rowland-2014-...-excerpts.txt` — closed access, EXCERPTS,
+    this cycle.
+
+The two full-text captures of closed articles were made in good faith from
+author-posted copies, and author self-archiving is a legitimate access rung. But
+"the author may post this" and "this repository may republish it" are different
+permissions, and the second one is the one that matters for a public repo. The
+raw/ layer is immutable by house rule and knowledge is never rolled back to make
+something else pass, so this cycle did not touch those two files and is not
+proposing that a future cycle quietly does.
+
+**WHAT A HUMAN NEEDS TO DECIDE**, because a run should not:
+
+  1. Is EXCERPT capture the standing rule for any source whose licence is not
+     open, with FULL TEXT reserved for open-access and public-domain sources? If
+     so it belongs in `skills/source-access-triage` as a new step, and the
+     skill-smith cadence (~2026-09-08) is where that lands.
+  2. What to do about the two existing full-text captures of closed articles.
+     Options a human might take that a run may not: leave them (a considered
+     decision, and defensible for a small research repository), replace them
+     with excerpt captures plus checksums (which costs nothing in grounding,
+     since every note that cites them quotes specific passages), or make the
+     repository private, which config.yml says is a genesis-time choice.
+  3. Whether the excerpt standard is too strict for this base's purposes. The
+     argument against it: full text in raw/ is what lets a later cycle re-check
+     a claim without re-fetching, and re-fetch is exactly the step that fails
+     most often in this environment.
+
+**WHAT THIS CYCLE DID NOT DO,** so it is not mistaken for an answer: it did not
+delete or edit any existing capture, did not change any note that cites one, and
+did not weaken any claim. The three notes it wrote from Rowland are grounded on
+a full reading and cite page locators that a reader with the article can check.
+
+## 2026-09-04 — Access and environment findings from the Rowland cycle: a third piece of evidence for the rung-(c) amendment, and two hosts that failed in new ways
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T06:00Z cycle. Two of these belong to the standing
+source-access proposal; two are environment facts that will save a later run a
+detour.
+
+**THIRD INDEPENDENT PIECE OF EVIDENCE FOR THE RUNG-(c) AMENDMENT.** The proposal
+drafted by the 2026-09-04T03:00Z cycle and reinforced by the 05:00Z one — promote
+`skills/source-access-triage` rung (c), author or institutional pages, to first
+recourse for experimental psychology — is now supported by a third case, and this
+one extends it in a direction neither earlier case covered. The tally for Rowland
+2014: rung (a) psycnet.apa.org returned HTTP 200 with a 1,038-byte Incapsula
+bot-challenge shell; rung (b) failed unanimously and with more sources agreeing
+than usual — Unpaywall `is_oa false` / `oa_status closed` / zero locations,
+OpenAlex the same plus `any_repository_has_fulltext: false`, Semantic Scholar
+`openAccessPdf.status: CLOSED` with the abstract elided at the publisher's
+request, OpenAIRE one record and no full-text location. Rung (c) worked.
+
+**The extension, and it is the transferable part.** The two earlier cases found
+the file on a host that is obviously the author's (a lab publications index, an
+OSF project API). This one did not. What returned the article was a course asset
+on `courseware.epfl.ch`, found by a plain web search — a university's teaching
+server, which is nobody's idea of an author page. The reason it counts as rung
+(c) rather than as an unattributable mirror is that the FILE ITSELF documents its
+own provenance: page 1 is a ResearchGate cover sheet reading `All content
+following this page was uploaded by Christopher A Rowland on 10 February 2016`,
+with the publication id and the author's affiliation. So the suggested wording
+for the amendment gains a clause: when a copy turns up on a host that is not the
+author's, open it and look for a deposit statement before judging it, because
+author-deposited files carry their provenance with them and re-hosts inherit it.
+A file whose first page says who uploaded it and when is a different object from
+an anonymous scrape.
+
+**ENVIRONMENT: `api.fatcat.wiki` is egress-blocked from this container.** The
+Internet Archive Scholar / fatcat API is the natural way to ask "is any preserved
+full text known for this DOI", and it does not merely 4xx — `curl` reports
+`(35) Recv failure: Connection reset by peer` and no HTTP status at all, which is
+the signature of the egress policy rather than of the service. Do not spend a
+rung on it. `api.osf.io`, `api.openaire.eu`, `api.unpaywall.org`,
+`api.openalex.org`, `api.semanticscholar.org`, `api.crossref.org`,
+`eutils.ncbi.nlm.nih.gov` and `courseware.epfl.ch` were all reachable in the same
+pass.
+
+**ENVIRONMENT: mountainscholar.org (Colorado's institutional repository) is a
+DSpace 7 Angular app whose REST API is not where the convention puts it.** It was
+tried because Rowland was at Colorado State University and a university
+repository is the textbook rung-(c) target. `/search?q=...` returns a 1,140-byte
+JS shell; `/server/api` and `/rest/items` both return the app's own 404 page
+(382 KB of Angular, HTTP 404), so the backend is not co-located with the
+frontend under either conventional path. A later run that needs it should read
+the frontend's runtime config for the REST base URL rather than guessing paths,
+or fall back to OAI-PMH. Not pursued further this cycle because the article was
+already in hand by then, and because a 2014 APA journal article was never a
+likely repository deposit in the first place — the dissertation would be.
+
+**PubMed is a reliable abstract rung for anything with a PMID.**
+`eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=<PMID>&rettype=abstract&retmode=text`
+returned the full APA-supplied abstract for a paper whose abstract Semantic
+Scholar had elided at the publisher's request and whose publisher page was
+bot-blocked. Worth adding to the ladder as the fallback that makes abstract-only
+grounding available even when rungs (a) and (b) both fail, for anything indexed
+in MEDLINE.

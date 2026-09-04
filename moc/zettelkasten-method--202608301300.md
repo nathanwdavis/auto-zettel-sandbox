@@ -65,4 +65,22 @@ Read it against the first of the three notes above, which it contradicts on the
 one point this map most wants to be true: that a benefit measured over a week
 keeps growing over a semester. In fifty classroom experiments it does not.
 
+Extended a third time on 2026-09-04, from the last and most independent of the
+three audits — the only one written by someone outside the research line that
+produced the effect:
+
+- [[the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615]]
+- [[the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610]]
+- [[a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620]]
+
+Take them in that order. The first is the answer to the robustness question this
+map has been carrying since it started citing retrieval practice: the effect is
+real, independently measured, and half a standard deviation, with one comparison
+in six running the other way. The second dissolves the apparent quarrel between
+the laboratory and classroom results above — the two reviews excluded each
+other's studies by explicit criterion and measured adjacent stretches of delay,
+so the honest picture is a benefit that rises to a few days and falls after, with
+nothing measured at the horizons this map cares about. The third is the one that
+transfers to practice rather than to the literature.
+
 See also: [[compound-growth--202608311143]]
