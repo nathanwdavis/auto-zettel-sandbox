@@ -1,0 +1,277 @@
+EXCERPT CAPTURE — Camerer et al. 2018, the Social Sciences Replication Project
+==============================================================================
+
+Source     : Camerer, Colin F., Anna Dreber, Felix Holzmeister, Teck-Hua Ho,
+             Jürgen Huber, Magnus Johannesson, Michael Kirchler, Gideon Nave,
+             Brian A. Nosek, Thomas Pfeiffer, et al. "Evaluating the
+             replicability of social science experiments in Nature and Science
+             between 2010 and 2015." Nature Human Behaviour 2, no. 9 (2018):
+             637-644.
+DOI        : 10.1038/s41562-018-0399-z
+Fetched    : 2026-09-04T18:54Z
+Fetched from:
+  https://pure.eur.nl/ws/files/37359856/Camerer_et_al._2018_Evaluating_the_replicability_of_social_science_experiments_in_Nature_and_Science_between_2010_and_2015.pdf
+  (Erasmus University Rotterdam Research Information Portal; located via
+  Unpaywall for the DOI, which labels this location `acceptedVersion`.)
+PDF SHA-256: 23f01465218a980c18981321851c28fedb0fd762f9f4e4c8e1c5398e2240a34e
+PDF pages  : 10 (cover sheet + article pp. 637-644 + Methods/refs)
+
+WHY THIS IS AN EXCERPT AND NOT A FULL TEXT
+------------------------------------------
+Unpaywall calls this location an accepted version; the file itself does not.
+Its EUR cover sheet reads "Document Version: Publisher's PDF, also known as
+Version of record" and "Document License/Available under: Article 25fa Dutch
+Copyright Act", and states in its Terms and Conditions of Use:
+
+  "Except as permitted by the applicable copyright law, you may not reproduce
+  or make this material available to any third party without the prior written
+  permission from the copyright holder(s). Copyright law allows the following
+  uses of this material without prior permission: you may download, save and
+  print a copy of this material for your personal use only; you may share the
+  EUR portal link to this material."
+
+This repository is public (config.yml `visibility: public`), so committing the
+whole file would be making it available to third parties, which those terms
+forbid in as many words. The article was fetched and read IN FULL; what is
+committed here are the passages this repository's notes actually use, under the
+excerpt rule the 2026-09-04T06:00Z Rowland cycle proposed and the 08:00Z cycle
+applied ("excerpt in copyright, and never rest a negative claim on an
+excerpt"). The SHA-256 above identifies the exact file read, so any quotation
+below can be re-derived by anyone who fetches it themselves.
+
+This is the first capture in this base where the host states its terms
+EXPLICITLY rather than by an inferred publisher notice, so the question the
+open INBOX entry asks a human is, in this one case, already answered by the
+host: no republication.
+
+Extraction: pypdf 6.17.0 with fontTools installed, text layer only, no OCR.
+Line breaks and hyphenation are the PDF's own and have been closed up in the
+quotations below; nothing else is changed. Superscript reference markers are
+rendered inline as the digits they are, because in this article they carry the
+study identities (see the key below) and dropping them would destroy the
+evidence.
+
+STUDY-NUMBER KEY (article's reference numbers 16-36, from the figure legends,
+p. 639 and p. 640) — needed to read the replication lists below:
+  16 Ackerman et al. (2010), Science      27 Kovacs et al. (2010), Science
+  17 Aviezer et al. (2012), Science       28 Lee and Schwarz (2010), Science
+  18 Balafoutas and Sutter (2012), Sci.   29 Morewedge et al. (2010), Science
+  19 Derex et al. (2013), Nature          30 Nishi et al. (2015), Nature
+  20 Duncan et al. (2012), Science        31 Pyc and Rawson (2010), Science
+  21 Gervais and Norenzayan (2012), Sci.  32 Ramirez and Beilock (2011), Sci.
+  22 Gneezy et al. (2014), Science        33 Rand et al. (2012), Nature
+  23 Hauser et al. (2014), Nature         34 Shah et al. (2012), Science
+  24 Janssen et al. (2010), Science       35 Sparrow et al. (2011), Science
+  25 Karpicke and Blunt (2011), Science   36 Wilson et al. (2014), Science
+  26 Kidd and Castano (2013), Science
+
+
+[1] ABSTRACT, p. 637
+------------------------------------------------------------------------------
+"Being able to replicate scientific findings is crucial for scientific
+progress1-15. We replicate 21 systematically selected experimental studies in
+the social sciences published in Nature and Science between 2010 and 201516-36.
+The replications follow analysis plans reviewed by the original authors and
+pre-registered prior to the replications. The replications are high powered,
+with sample sizes on average about five times higher than in the original
+studies. We find a significant effect in the same direction as the original
+study for 13 (62%) studies, and the effect size of the replications is on
+average about 50% of the original effect size. Replicability varies between 12
+(57%) and 14 (67%) studies for complementary replicability indicators.
+Consistent with these results, the estimated true-positive rate is 67% in a
+Bayesian analysis. The relative effect size of true positives is estimated to
+be 71%, suggesting that both false positives and inflated effect sizes of true
+positives contribute to imperfect reproducibility. Furthermore, we find that
+peer beliefs of replicability are strongly related to replicability, suggesting
+that the research community could predict which results would replicate and
+that failures to replicate were not the result of chance alone."
+
+
+[2] SELECTION CRITERIA — which study inside a paper gets replicated, p. 637
+------------------------------------------------------------------------------
+"We include all experimental studies published between 2010 and 2015 that (1)
+test for an experimental treatment effect between or within subjects, (2) test
+at least one clear hypothesis with a statistically significant finding, and (3)
+were performed on students or other accessible subject pools. Twenty-one
+studies were identified to meet these criteria. We used the following three
+criteria in descending order to determine which treatment effect to replicate
+within each of these 21 papers: (a) select the first study reporting a
+significant treatment effect for papers reporting more than one study, (b) from
+that study, select the statistically significant result identified in the
+original study as the most important result among all within- and
+between-subject treatment comparisons, and (c) if there was more than one
+equally central result, randomly select one of them for replication. The
+interpretation of which was the most central and important statistically
+significant result within a study in criteria (b) above was made by us and not
+by the original authors."
+
+
+[3] THE TWO-STAGE DESIGN, p. 638
+------------------------------------------------------------------------------
+"To address the possibility of inflated effect sizes in the original studies,
+we used a high-powered design and a two-stage procedure for conducting the
+replications. In stage 1, we had 90% power to detect 75% of the original effect
+size at the 5% significance level in a two-sided test. If the original result
+replicated in stage 1 (a two-sided P < 0.05 and an effect in the same direction
+as in the original study), no further data collection was carried out. If the
+original result did not replicate in stage 1, we carried out a second data
+collection in stage 2 to have 90% power to detect 50% of the original effect
+size for the first and second data collections pooled."
+
+"On average, replication sample sizes in stage 1 were about three times as
+large as the original sample sizes and replication sample sizes in stage 2 were
+about six times as large as the original sample sizes."
+
+
+[4] WHICH STUDIES REPLICATED — the enumerated lists, p. 638
+------------------------------------------------------------------------------
+(Quoted whole, with the reference-number lists intact, so that both the
+positive membership and the absences are readable from this excerpt.)
+
+"In stage 1, we find a significant effect in the same direction as the original
+study for 12 replications16-19,22-25,27,29,30,36 (57.1%) (Fig. 1a and
+Supplementary Table 3). When we increase the statistical power further in stage
+2 (Fig. 1b and Supplementary Table 4), two additional studies20,31 replicate
+based on this criterion. By mistake, a second data collection was carried out
+for one study16 replicating in stage 1; thus, we also include this study in the
+stage 2 results to base our results on all the data collected. This study16
+does not replicate in stage 2. [...] Based on all of the data collected, 13
+(61.9%) studies replicated after stage 2 using the statistical significance
+criterion."
+
+Read against the key above, the stage-1 list 16-19,22-25,27,29,30,36 is:
+Ackerman, Aviezer, Balafoutas and Sutter, Derex, Gneezy, Hauser, Janssen,
+KARPICKE AND BLUNT (25), Kovacs, Morewedge, Nishi, Wilson. The stage-2
+additions 20,31 are Duncan and PYC AND RAWSON (31). Ackerman (16) then fails in
+stage 2. SPARROW ET AL. (35) appears in neither list.
+
+
+[4b] THE ONE PER-STUDY STATISTIC THE MAIN TEXT PRINTS, p. 638
+------------------------------------------------------------------------------
+"For example, the replication of Pyc and Rawson31 yielded a one-sided default
+Bayes factor of BF+0 = 6.8, meaning that the one-sided alternative hypothesis
+out predicted the null hypothesis of no effect by a factor of almost 7."
+
+(This is the only individual replication's statistic printed anywhere in the
+main text; every other per-study number is in the Supplementary Information or
+plotted without values in Figs. 1-3. See [11].)
+
+
+[5] EFFECT SIZES, p. 638
+------------------------------------------------------------------------------
+"The mean standardized effect size (correlation coefficient r) of the
+replications is 0.249, compared to 0.460 in the original studies (Supplementary
+Fig. 4). This difference is significant (Wilcoxon signed-ranks test, z = 3.667,
+P < 0.001, n = 21) and the mean relative effect size of the replications is
+46.2%. For the 13 studies that replicated, the mean relative effect size is
+74.5%, and for the 8 studies that did not replicate, the mean relative effect
+size is 0.3%."
+
+
+[6] PEER BELIEFS AND PREDICTION MARKETS, p. 639
+------------------------------------------------------------------------------
+"We also estimate peer beliefs about replicability using surveys and prediction
+markets50,54 [...]. The prediction markets produce a collective peer estimate of
+the probability of replication that can be interpreted as a reproducibility
+indicator50. The average prediction market belief of replicating after stage 2
+is a replication rate of 63.4% and the average survey belief is 60.6%, which
+are both close to the observed replication rate of 61.9% (Fig. 4 [...]). The
+prediction market beliefs and the survey beliefs are highly correlated and both
+are highly correlated with a successful replication (Fig. 4 and Supplementary
+Fig. 7); that is, in the aggregate, peers were very effective at predicting
+future replication success."
+
+"[T]he strong correlation between the peer predictions and the observed
+replicability is discordant with the possibility that replication failures
+occurred by chance alone. That is, researchers seem to have identified a priori
+systematic differences between the studies that replicated and those that did
+not." (p. 640)
+
+
+[7] THE ONE-STUDY-PER-PAPER LIMITATION — the project's own disclaimer, p. 640
+------------------------------------------------------------------------------
+"Another important limitation is that, for papers reporting a series of
+studies, we only replicate one of those studies, and for studies testing more
+than one hypothesis, we only replicate one hypothesis. Like previous
+large-scale replication projects, this study does not provide definitive
+insight on any of the original papers from which we designed the replication
+studies. An alternative methodology would be to replicate all results within
+the selected study or all results within all studies in a paper reporting a
+series of studies. This would give more information from each replication and a
+more precise estimate of reproducibility of each study and paper."
+
+And on the direction of the resulting bias, p. 641:
+
+"[F]or papers reporting a series of studies, we replicated the first study that
+reported a significant treatment effect. In some cases, the original authors
+argue that other studies in their papers report more important results or use
+stronger research designs26,34 (see the Correspondence by Kidd and Castano, and
+the Correspondence by Shah et al.). If the replicability of the first study
+systematically differs from the replicability of subsequent studies in a paper,
+our criteria for deciding which study to replicate will systematically
+overestimate or underestimate replicability."
+
+
+[8] THE SPARROW REPLICATION — the one the original authors would not help with
+------------------------------------------------------------------------------
+p. 640:
+
+"All of the replications but one35 were designed with the collaboration of the
+original authors (for the replication35 that was not designed with the
+collaboration of the original authors, the original authors did not respond to
+our queries). Furthermore, all of the reviewed replications but one32 were
+approved by the original authors."
+
+p. 641:
+
+"For the Sparrow et al.35 replication, the original authors did not provide us
+with any materials for the replication or feedback on our inquiries. This made
+it more difficult to replicate the experimental design of the original study.
+After the replication had been completed, the original authors noted some
+design differences compared to the original study (see the Correspondence by
+Sparrow). These design differences are discussed further in the Supplementary
+Information and we cannot rule out that they influenced the replication result.
+This illustrates the importance of open access to all of the materials of
+published studies for conducting direct replications and accumulating
+scientific knowledge."
+
+
+[9] NON-REPLICATIONS SHOW ESSENTIALLY NOTHING, p. 640
+------------------------------------------------------------------------------
+"Second, among the unsuccessful replications, there was essentially no evidence
+for the original finding. The average relative effect size was very close to
+zero for the eight findings that failed to replicate according to the
+statistical significance criterion. The expected relative effect size for a
+sample of false positives is zero, but this observation does not demand the
+conclusion that the eight original findings were false positives. Another
+possibility is that the replication studies failed to implement necessary
+features of the protocol to detect the effect38. We cannot rule out this
+alternative, but we also do not have evidence for necessary features missing
+from the replications that would reduce the observed effect sizes to zero."
+
+
+[10] WHERE THIS RATE SITS AMONG THE OTHER PROJECTS, p. 641
+------------------------------------------------------------------------------
+"The observed replication rate of 62%, based on the statistical significance
+criterion, adds to a growing pool of replicability rates from various
+systematic replication efforts with distinct selection and design criteria: the
+RPP12 (36%, n = 100 studies), the EERP13 (61%, n = 18 studies), Many Labs 111
+(77%; n = 13 studies), Many Labs 215 (50%, n = 28 studies) and Many Labs 314
+(30%, n = 10 studies). It is too early to draw a specific conclusion about the
+reproducibility rates of experimental studies in the social and behavioural
+sciences."
+
+
+[11] WHAT IS *NOT* IN THIS CAPTURE
+------------------------------------------------------------------------------
+The Supplementary Information — Supplementary Methods, Supplementary Tables
+1-7, Supplementary Figs. 1-9 — is not part of the PDF fetched and was not read.
+Every per-study number (each replication's own sample size, P value, effect
+size and Bayes factor) lives there or in Figs. 1-3, which are plots without
+printed values. So this capture supports statements about the project, its
+aggregate results and the enumerated membership of the replication lists; it
+does NOT support any claim about an individual study's replication statistics
+beyond the one worked example the main text prints (Pyc and Rawson31, one-sided
+default Bayes factor BF+0 = 6.8, p. 638). The Correspondences by the original
+authors, including the Correspondence by Sparrow, are separately published
+items and were not fetched either.

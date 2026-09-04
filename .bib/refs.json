@@ -1855,5 +1855,123 @@
     "title": "No conclusive evidence that difficult general knowledge questions cause a “Google Stroop effect”. A replication study",
     "type": "article-journal",
     "volume": "8"
+  },
+  {
+    "DOI": "10.1038/s41562-018-0399-z",
+    "author": [
+      {
+        "family": "Camerer",
+        "given": "Colin F."
+      },
+      {
+        "family": "Dreber",
+        "given": "Anna"
+      },
+      {
+        "family": "Holzmeister",
+        "given": "Felix"
+      },
+      {
+        "family": "Ho",
+        "given": "Teck-Hua"
+      },
+      {
+        "family": "Huber",
+        "given": "Jürgen"
+      },
+      {
+        "family": "Johannesson",
+        "given": "Magnus"
+      },
+      {
+        "family": "Kirchler",
+        "given": "Michael"
+      },
+      {
+        "family": "Nave",
+        "given": "Gideon"
+      },
+      {
+        "family": "Nosek",
+        "given": "Brian A."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "Thomas"
+      },
+      {
+        "family": "Altmejd",
+        "given": "Adam"
+      },
+      {
+        "family": "Buttrick",
+        "given": "Nick"
+      },
+      {
+        "family": "Chan",
+        "given": "Taizan"
+      },
+      {
+        "family": "Chen",
+        "given": "Yiling"
+      },
+      {
+        "family": "Forsell",
+        "given": "Eskil"
+      },
+      {
+        "family": "Gampa",
+        "given": "Anup"
+      },
+      {
+        "family": "Heikensten",
+        "given": "Emma"
+      },
+      {
+        "family": "Hummer",
+        "given": "Lily"
+      },
+      {
+        "family": "Imai",
+        "given": "Taisuke"
+      },
+      {
+        "family": "Isaksson",
+        "given": "Siri"
+      },
+      {
+        "family": "Manfredi",
+        "given": "Dylan"
+      },
+      {
+        "family": "Rose",
+        "given": "Julia"
+      },
+      {
+        "family": "Wagenmakers",
+        "given": "Eric-Jan"
+      },
+      {
+        "family": "Wu",
+        "given": "Hang"
+      }
+    ],
+    "container-title": "Nature Human Behaviour",
+    "id": "202609041855",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          27
+        ]
+      ]
+    },
+    "page": "637-644",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015",
+    "type": "article-journal",
+    "volume": "2"
   }
 ]

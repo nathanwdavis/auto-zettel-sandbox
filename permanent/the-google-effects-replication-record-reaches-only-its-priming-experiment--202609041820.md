@@ -20,6 +20,10 @@ links:
   relation: elaborates
 - target_id: the-note-taking-experiments-do-not-reach-the-slip-box-claims--202609040215
   relation: shared-concept
+- target_id: a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905
+  relation: supports
+- target_id: the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-04'
 ---
@@ -76,3 +80,18 @@ survive an audit is weak evidence for its untested results as well — not zero,
 but not the Science paper the citation count suggests. The right posture toward
 Experiments 2 through 4 is that of an unreplicated finding from an unreliable
 report, which is a long way below "established" and a long way above "refuted".
+
+*Amended 2026-09-04, after the Social Sciences Replication Project was read
+first-hand rather than through Hesselmann.* Two claims above are now sourced
+directly and both survive: the two failed attempts on Experiment 1 are the
+project's stage 1 and stage 2, and the project itself states the
+one-study-per-paper limitation this note argued for
+([[a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905]]).
+One thing has to be conceded, though. Of the twenty-one replications the
+project ran, this is the only one the original authors declined to help design,
+so it is the project's weakest instance of its own method and the project says
+it cannot rule out that the resulting design differences affected the outcome
+([[the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910]]).
+That lowers the weight of these two failures without touching Hesselmann's
+independent null or the audit of the original's reporting, so the posture stated
+above stands — it is now resting on three legs rather than four.

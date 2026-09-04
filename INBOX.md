@@ -3521,3 +3521,180 @@ whose cadence is not due until ~2026-09-08: when a source has been replicated,
 look for whether the replicating paper also audits the original, and read that
 section first — it is usually short, it is usually near the end, and it changes
 how much the original's untested claims are worth.**
+
+## 2026-09-04 — Tooling, HIGH: verify_refs.py resolves DOIs against Crossref ONLY, so every DataCite-registered DOI in this base is permanently indistinguishable from a rotted identifier
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, which closed a three-day-old standing
+warning by hand and found the reason it had stood for three days.
+
+**THE DEFECT.** `scripts/verify_refs.py` has exactly one DOI endpoint:
+
+    CROSSREF = "https://api.crossref.org/works/{doi}?mailto={mailto}"
+
+There is no DataCite path. A DOI registered with DataCite therefore returns 404
+from the only registry the verifier asks, and the note is written with
+`identifier_check: failed` — the same value a DOI that has genuinely rotted
+gets. The two states are not distinguishable in the record, which is the part
+that matters: this base's whole verification discipline rests on keeping
+"unreachable" separate from "does not exist", and here they are collapsed.
+
+**THE CASE.** `reference/schmidt-niklas-luhmanns-card-index--202609010302`
+(Schmidt, "Niklas Luhmann's Card Index: The Fabrication of Serendipity",
+*Sociologica* 12.1, DOI `10.6092/issn.1971-8853/8350`). The 2026-09-01 cycle
+diagnosed this correctly from Crossref's agency endpoint and wrote the
+diagnosis into the note's body. Three subsequent cycles then logged it as
+"identifier unresolved at any registry", which is not what the note says and is
+not true. Nobody queried DataCite. `https://api.datacite.org/dois/<doi>`
+returns the record on the first request, and every field matches the note:
+title, creator `Schmidt, Johannes F.K.`, publicationYear 2018, publisher and
+container *Sociologica* vol. 12, and the article URL already on file. The
+record was raised to `identifier_check: confirmed`, `method:
+raw-capture+datacite`, by hand.
+
+**AND IT WILL NOT STAY RAISED.** The live `verify_refs.py` run in step 8 of
+this cycle immediately rewrote that block back to `method: raw-capture` /
+`identifier_check: failed`, because a hand-recorded state it cannot reproduce
+is a state it overwrites. It was restored, and the note's body now says so, but
+any future cycle that runs the verifier and does not diff `reference/`
+afterwards will silently undo the fix again. This is the same class as the two
+open `verify_refs` entries above (the offline rewrite and the transient-failure
+downgrade) and the third instance of one root cause: the verifier treats its own
+lookup as authoritative over a record it did not write.
+
+**WHAT WOULD FIX IT, in the skill repo, not here.** Add DataCite as a second
+DOI registry — `https://api.datacite.org/dois/<doi>` — tried when Crossref
+404s, recording `datacite` as the method on success. Separately, and more
+important than the registry itself, `identifier_check` needs a third value:
+`not-in-registry` (checked, absent, no evidence of rot) as distinct from
+`failed` (lookup error or contradicted metadata). Without that distinction the
+DataCite fix just moves the boundary rather than removing the confusion.
+
+**SCOPE CHECK.** One note in this base is affected today. That is not the
+reason to fix it: DataCite is the registrar for a large share of university
+press, institutional repository and data DOIs, which is exactly the class of
+source this base reaches when the ladder's rung (b) or (c) works, so the
+population of affected notes grows with the access routes that work best here.
+
+## 2026-09-04 — Access: Unpaywall's version label is not evidence, and this cycle's source was a version-of-record with explicit terms forbidding exactly what a public repo does
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle. This is an appendix to the open
+human-decision entry "Full-text captures of all-rights-reserved articles sit in
+raw/ in a public repository", and it adds the first case where the question that
+entry asks is settled by the HOST rather than by inference.
+
+**WHAT HAPPENED.** Camerer et al. 2018 (DOI `10.1038/s41562-018-0399-z`) was
+reached at ladder rung (b) on the first request. Unpaywall reports two OA
+locations for the DOI and labels the good one `acceptedVersion`, hosted at
+`pure.eur.nl`. It is not an accepted version. The PDF's own EUR cover sheet
+says:
+
+    Document Version: Publisher's PDF, also known as Version of record
+    Document License/Available under: Article 25fa Dutch Copyright Act
+
+and its Terms and Conditions of Use say, in as many words, that you "may not
+reproduce or make this material available to any third party", that you "may
+download, save and print a copy of this material for your personal use only",
+and that you "may share the EUR portal link to this material".
+
+**TWO SEPARATE LESSONS, and the second is the bigger one.**
+
+1. **Unpaywall's `version` field is a lead, not a fact.** This base has been
+   using rung (b) as its most reliable route, and it has been reading the
+   version label as if it described the file. It does not always. Check the
+   file's own cover sheet, which institutional repositories almost always
+   carry, before recording what was obtained. A version-of-record behind a
+   statutory-exception licence is a different object from an author manuscript
+   posted under a repository's own terms, and only the first comes with
+   redistribution terms attached to the copy you actually hold.
+
+2. **Article 25fa is a right the AUTHOR has, not a licence granted to the
+   reader.** The Dutch Taverne amendment lets an author of a
+   publicly-funded short scientific work make it publicly available free of
+   charge after a period, whatever the publisher's contract says. It says
+   nothing about onward republication by a third party, which is why the EUR
+   cover sheet has to spell out "personal use only" alongside it. A source can
+   be perfectly legitimately free to read and still be one this repository may
+   not carry.
+
+**WHAT THIS CYCLE DID.** Applied the excerpt rule the Rowland cycle proposed
+and the 08:00Z cycle applied: fetched, read in full, and committed
+`raw/202609041855-camerer-et-al-2018-ssrp-excerpts.txt` — the passages the
+notes use, the source URL, and the SHA-256 of the exact PDF read
+(`23f01465218a980c18981321851c28fedb0fd762f9f4e4c8e1c5398e2240a34e`), so any
+quotation can be re-derived by anyone who fetches the file themselves. The PDF
+was never committed, so nothing in the immutable `raw/` layer was touched. The
+one place the rule bit was the "never rest a negative claim on an excerpt"
+clause: permanent 202609041920 turns on Sparrow et al. being ABSENT from two
+enumerated lists, so the capture quotes those lists whole, with their
+superscript reference numbers intact and a key to what the numbers mean,
+rather than quoting the sentences around them.
+
+**FOR WHOEVER DECIDES THE OPEN QUESTION.** This case does not need the human
+ruling: the host states its terms and they are not ambiguous. What it adds is
+evidence for the shape of the rule. "Excerpt anything in copyright" would have
+produced the right answer here, but so would the narrower and more defensible
+"excerpt anything whose host states redistribution terms, and read the cover
+sheet to find out whether it does". The second is checkable per source; the
+first requires a licence judgement a run is not well placed to make.
+
+## 2026-09-04 — Leads after the SSRP cycle: the OSF repository is the route to everything this cycle could not reach, and two of the 18:00Z leads are still open
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Filed by the 2026-09-04T18:53Z cycle, which took lead 1 of the three the 18:00Z
+cycle left and did not take leads 2 or 3.
+
+**WHAT WAS TAKEN.** Lead 1, Camerer et al. 2018, the Social Sciences
+Replication Project. Read in full; reference 202609041855, literature
+202609041900, permanent 202609041905, 202609041910, 202609041915 and 202609041920.
+
+**LEADS 2 AND 3 ARE STILL OPEN, and both are now easier than the 18:00Z cycle
+thought**, because reading the SSRP produced a better route than the ones it
+named:
+
+  - **Lead 2, the Sparrow supplement** (`science.sciencemag.org/content/suppl/`
+    `2011/07/13/science.1207745.DC1`), wanted so the sample sizes behind
+    permanent 202609041825 can be checked rather than inherited. Untried this
+    cycle. Note that the SSRP's OSF repository may make it unnecessary: the
+    project reconstructed Sparrow's Experiment 1 design without the original
+    authors' help, and its replication report will say what it believed the
+    original design to be.
+  - **Lead 3, a replication of Sparrow Experiments 2-4.** Untried this cycle,
+    and unchanged: Semantic Scholar and OpenAlex both expose citing-works APIs
+    and neither has been tried from this container. Reading the SSRP adds one
+    fact to the negative record: it did not test Experiments 2-4 either, and
+    could not have, since its selection rule takes the first significant result
+    in a paper.
+
+**THE ROUTE THIS CYCLE FOUND AND DID NOT WALK.** The SSRP's OSF repository,
+`https://osf.io/pfdyw/`, holds the pre-replication and final replication reports
+for all 21 studies, each with an "Unplanned protocol deviations" section, plus
+the project's data and materials. That is a public, permanently-identified,
+machine-reachable host, and it answers questions the captured PDF cannot,
+because everything per-study lives in Supplementary Information the PDF does not
+include. It is the route for the new inquiry 202609041906 (Karpicke and Blunt),
+for the Sparrow design differences the project says it "cannot rule out"
+affected the result, and for lead 2. **Nobody in this base has tried an OSF
+endpoint.** Worth a triage attempt on its own account, and worth recording in
+`skills/source-access-triage` if it works, because a replication project's OSF
+repository is the general case: the paper is the summary, the OSF repository is
+the evidence.
+
+**ONE MORE SOURCE THIS CYCLE NAMED AND DID NOT FETCH.** Nature Human Behaviour
+published Correspondences by the original authors alongside the SSRP Letter,
+including one by Sparrow. Permanent 202609041910 rests on the SSRP's account of
+the non-cooperation, which is one side of it. The Correspondence by Sparrow is
+the other side and this base does not have it. That is a real one-witness
+exposure on a note that concedes a point against this base's own position, so
+the exposure currently runs in the direction of caution rather than convenience
+— but it should be closed, and the note says so.
