@@ -1,0 +1,114 @@
+CAPTURE: Jeffrey D. Karpicke, "Retrieval-based learning," ch. 4.21 in Learning
+         and Memory: A Comprehensive Reference, 3rd ed. (Elsevier, 2025),
+         411-441.
+DOI: 10.1016/B978-0-443-15754-7.00074-2
+ISBN: 9780443157554
+FETCHED: 2026-09-04T03:02Z
+SOURCE URL (what actually returned the chapter):
+  https://learninglab.psych.purdue.edu/downloads/2025/2025_Karpicke_Retrieval_Based_Learning_Review.pdf
+PROVENANCE: Author-posted copy on the Purdue Cognition and Learning Laboratory
+  site, the author's own lab, linked from that lab's publications index at
+  https://learninglab.psych.purdue.edu/publications/. Rung (c) of the house
+  access ladder (skills/source-access-triage). Not a scraper mirror.
+BYTES: 1,528,091
+SHA-256: 9de440c52de9df83d8c73eb614848f58f0e461290bf717adfd75b55de1c20b31
+PAGES: 31 = pp. 411-441 (PDF page n = print page n - 411)
+EXTRACTION: pypdf 6.16.2 text layer, real text layer, no OCR.
+
+THIS IS AN EXCERPT CAPTURE, not a full-text capture. The chapter is 31 pages
+and only the passages below were used. The full PDF is not committed; anything
+quoted here can be re-derived from the URL and checksum above.
+
+WHY THIS SOURCE, AND ITS LIMIT. It is used for exactly two things: the state of
+the evidence twenty years after Roediger and Karpicke (2006), and what the
+field's own recent survey does and does not cover. Its limit is stated here so
+no note in this base forgets it: Karpicke is the second author of the 2006
+paper this chapter assesses, so where he reports that his own effect is robust,
+this base is reading a self-assessment and not an independent audit. The
+independent audits he names -- Rowland (2014), Adesope et al. (2017), Agarwal
+et al. (2021) -- were NOT read this cycle and are not grounding for anything
+here. What is grounded is that the field's current review claims robustness and
+names those three meta-analyses; not that this base has checked them.
+
+TEXT-LAYER ARTIFACTS: the extraction inserts a NUL byte (U+0000) between many
+words, and doubles interior spaces. Both are removed in the excerpts below and
+neither affects word content. Ligatures survive as single glyphs and are
+rendered fi/fl. En-dashes in the Key points list extract as "–" and are printed
+as en-dashes.
+
+--- EXCERPTS, printed page numbers, verbatim apart from the artifact removals
+--- described above.
+
+p. 411 (Key points, the chapter's own summary box):
+  "• Testing does more than merely assess learning – it also enhances learning
+  because of the retrieval processes learners engage in while taking tests.
+  • Retrieval practice produces robust and long-lasting effects on learning and
+  retention of knowledge.
+  • Retrieval enhances learning because it requires learners to retrieve,
+  reinstate, and update context representations.
+  • Retrieval tends to enhance learning the most when learners can successfully
+  retrieve knowledge with relatively less retrieval support.
+  • Retrieval practice enhances learning of complex educational materials as
+  assessed on measures of meaningful learning.
+  • Retrieval-based learning has been generalized across a wide range of learner
+  characteristics, materials, and classroom and school settings."
+
+p. 412 (Introduction, on the size of the literature and who has audited it):
+  "The number of papers published during the 8 years from 2016 to 2023 is
+  greater than the number published during the 25 years from 1991 to 2015.
+  Reviewing the entire literature is beyond the scope of this chapter.
+  Interested readers can look to several excellent reviews that have targeted
+  specific aspects of retrieval-based learning research. Rowland (2014) and
+  Adesope et al. (2017) carried out meta-analyses that captured large swaths of
+  the literature. Agarwal et al. (2021) provided a review and meta-analysis of
+  retrieval practice studies carried out in school and classroom settings."
+
+p. 419 (section 4.21.4, on the open-book/closed-book manipulation -- this is
+the chapter's account of the same Agarwal et al. 2008 study captured in full at
+raw/202609040315, and the two should be read together; see the note below this
+excerpt):
+  "Another way to examine retrieval practice is to have students complete the
+  same activity either while viewing the material, as an encoding task, or
+  without viewing it, as a retrieval task. In educational settings, this
+  distinction is often called open-book vs. closed-book testing. Agarwal et al.
+  (2008) directly compared open-book and closed-book quiz formats. Students read
+  educational texts and answered short-answer questions either with or without
+  access to the texts. The open-book quiz conditions led to more forgetting over
+  1 week relative to the closed-book condition, in which learners attempted to
+  retrieve answers before studying the answers. Thus, the same questioning or
+  quizzing activity was made more effective when it required learners to engage
+  in retrieval practice, rather than merely looking for answers in the text (see
+  also Agarwal and Roediger, 2011; Arnold et al., 2021)."
+
+  READER'S NOTE, this base's own observation and not the chapter's words: the
+  sentence above and the Agarwal et al. (2008) summary on that paper's own
+  p. 861 report the same data on two different measures and neither is wrong.
+  The chapter reports FORGETTING -- proportional loss from initial performance
+  -- and open-book conditions did forget more (Exp. 1: .81 -> .65 against
+  .69 -> .68 for the closed-book-with-feedback condition the relative clause
+  describes; Exp. 2: .81 -> .66 against .65 -> .66). The paper's own summary
+  reports the LEVEL of delayed retention, which was equivalent (.66 and .66 in
+  Exp. 2). A note citing either sentence alone, without the other, would
+  mislead.
+
+p. 434 (Conclusions, on replication status):
+  "The benefits of practicing retrieval have been replicated hundreds of times
+  across a range of initial retrieval tasks, and the effects of retrieval are
+  long-lasting and promote transfer, inferencing, and knowledge application.
+  Retrieval practice has been shown to enhance the learning of a wide variety of
+  materials for learners of nearly all ages and ability levels, and the effects
+  have been established in classroom settings with authentic course content."
+
+WHAT THIS CHAPTER DOES NOT CONTAIN, recorded because a note in this base turns
+on it. A full-text search of the 31-page extraction was run for "note-taking",
+"note taking", "notetaking", " notes", " external", "offload", "zettel",
+"slip-box", "slip box" and "diary". EVERY ONE of those returns ZERO
+occurrences, in the body and in the 7-page reference list alike. ("journal"
+returns 99 hits, all of them journal titles in the reference list.) So the
+field's own 2025 survey of retrieval-based learning -- 31 pages, several
+hundred references -- never once discusses taking notes, keeping notes, or
+storing knowledge outside the head. The closest it comes is the open-book
+passage on p. 419 excerpted above, which reaches the question sideways: it is
+about having the SOURCE TEXT available during a quiz, and the underlying study
+(Agarwal et al. 2008, p. 861) defines its open-book condition as one in which
+students "view notes and textbooks while taking the test".

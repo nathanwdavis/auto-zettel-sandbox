@@ -41,4 +41,19 @@ is mostly a gap:
 
 Read the second before citing anything in the list above as established.
 
+Extended later on 2026-09-04, from the other half of the same inquiry. The
+first three notes above are about *how a note is written*; these are about
+*what retrieval does*, and they are the first evidence in this base read from
+full texts rather than abstracts:
+
+- [[retrieval-not-re-exposure-is-what-makes-learning-last--202609040340]]
+- [[having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345]]
+- [[confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350]]
+
+The middle one is the load-bearing one for this map: it is the only measurement
+this base has found that manipulates access to notes and then waits, and it
+bears against the premise of
+[[the-note-became-an-external-memory-only-when-memorizing-came-to-be-seen-as-a-cost--202609032115]]
+above.
+
 See also: [[compound-growth--202608311143]]
