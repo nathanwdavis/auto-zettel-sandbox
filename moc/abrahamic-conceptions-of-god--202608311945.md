@@ -454,11 +454,39 @@ Kabbalah. Worked for inquiry 202609030145.
 
 So the parallel is now asserted from two directions with nothing in common but
 the perception of it — a Christian apologist who wanted it true, and a Jewish
-critic who wanted Kabbalah demoted. What no note here yet does is compare the
-two doctrines on the merits: three persons against ten sefirot, and whether the
-sefirot are God's essence or His instruments. That is inquiry 202609030146,
-open, and the reason it is open is that the comparative scholarship is in
-copyright and was not reachable.
+critic who wanted Kabbalah demoted.
+
+### The merits comparison, added 2026-09-04: the parallel does not survive it
+
+Inquiry 202609030146 asked whether the two doctrines resemble each other on the
+merits, and stood open because the comparative scholarship (Scholem, Idel,
+Wolfson) is in copyright. It was answered instead from primary texts on both
+sides: Cordovero's *Pardes Rimmonim* Gate 4, *Sha'ar Etzem ve-Kelim*, which is
+the tradition's own statement of the *atzmut*-or-*kelim* question, and a second
+capture on the Hodge reference covering Part I ch. VI, the Trinity chapter that
+the first Hodge capture does not reach.
+
+The dispute the earlier notes assumed turns out to be real and named — Cordovero
+opens by calling it "a great confusion fallen among the later kabbalists" — and
+Kabbalah's most influential answer refuses to choose, splitting the ten into
+inner sefirot that are essence and outer sefirot that are vessels. Set beside
+the conciliar decisions, the two options Kabbalah left open are the two
+Christianity shut: sefirot as aspects relative to God's actions has the shape of
+Sabellianism, sefirot as instruments of another essence the shape of Arianism.
+And the divergence that survives either reading is not plurality but
+exhaustiveness — the sefirot have a One outside them who is not one of them,
+where the persons have no fourth.
+
+- [[whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720]]
+- [[cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725]]
+- [[the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730]]
+- [[a-tradition-that-defines-its-articulation-and-one-that-keeps-arguing-it--202609041740]]
+- [[the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745]]
+
+Two of those are tagged `contested`: the alignment is this repository's, drawn
+from primary texts neither of which knows the other, and the comparative
+scholarship that would test it remains unread. That hunt is now its own INBOX
+entry rather than a reason to keep the inquiry open.
 
 ## Sources behind these notes
 
@@ -482,7 +510,9 @@ Islam, the *ahkam al-Qur'an* literature on Q 2:221: [[qurtubi-al-jami-li-ahkam-a
 (literature: [[qurtubi-reports-three-classical-positions-on-whether-mushrikat-covers-the-people-of-the-book--202609041310]], [[sabuni-runs-mushrik-at-two-extensions-inside-one-verse--202609041315]]).
 Islam, the Shi'i commentaries on Q 2:221 and Q 5:5 — Imami and, for the first time in this base, Zaydi: [[tusi-al-tibyan-on-2-221-and-5-5--202609041400]], [[tabrisi-majma-al-bayan-on-2-221-and-5-5--202609041405]], [[zayd-b-ali-gharib-al-quran-on-2-221-and-5-5--202609041410]], [[aqam-tafsir-al-aqam-on-2-221-and-5-5--202609041415]]
 (literature: [[tusi-holds-2-221-general-and-unabrogated-and-settles-it-on-5-5--202609041425]], [[tabrisi-lays-out-the-whole-field-and-attributes-the-strict-reading-to-ibn-umar-and-some-zaydis--202609041430]], [[the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435]], [[aqam-credits-yahya-and-al-qasim-with-reading-5-5-as-the-converted-only--202609041440]]).
-Kabbalah and Jewish law: [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
-(literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]]).
+Kabbalah and Jewish law: [[cordovero-pardes-rimmonim--202609041700]], [[ramban-commentary-on-the-torah--202609011530]], [[tikkunei-ha-zohar--202609011531]], [[shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532]], [[goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533]], [[pico-conclusiones-sive-theses-dccccc--202609011801]], [[sefer-yetzirah--202609011825]]
+(literature: [[ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535]], [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]], [[the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537]], [[goshen-gottstein-calls-shituf-a-good-internal-category--202609011538]], [[pico-makes-kabbalah-compel-the-catholic-trinity--202609011806]], [[sefer-yetzirah-counts-ten-from-the-spirit-out-to-the-six-directions--202609011830]], [[cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710]]).
 Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[hodge-systematic-theology-volume-1--202609011033]], [[general-revelation-passages--202609011034]]
 (literature: [[calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036]], [[hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037]], [[the-general-revelation-passages-describe-a-wordless-disclosure--202609011038]]).
+The Trinity, from the same Hodge volume's ch. VI (second capture on that reference):
+[[hodge-on-the-two-readings-the-councils-ruled-out--202609041715]].
