@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-05'
 ---
 # Abrahamic conceptions of God
 
@@ -470,12 +470,13 @@ The dispute the earlier notes assumed turns out to be real and named — Cordove
 opens by calling it "a great confusion fallen among the later kabbalists" — and
 Kabbalah's most influential answer refuses to choose, splitting the ten into
 inner sefirot that are essence and outer sefirot that are vessels. Set beside
-the conciliar decisions, the two options Kabbalah left open are the two
-Christianity shut: sefirot as aspects relative to God's actions has the shape of
-Sabellianism, sefirot as instruments of another essence the shape of Arianism.
-And the divergence that survives either reading is not plurality but
-exhaustiveness — the sefirot have a One outside them who is not one of them,
-where the persons have no fourth.
+the conciliar decisions, one of the two options Kabbalah left open is closed by
+the Nicene creed in its own words — sefirot as instruments of another essence
+has the shape of Arianism — while the other is excluded only by a later
+tradition of interpretation: sefirot as aspects relative to God's actions has
+the shape of Sabellianism. And the divergence that survives either reading is
+not plurality but exhaustiveness — the sefirot have a One outside them who is
+not one of them, where the persons have no fourth.
 
 - [[whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720]]
 - [[cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725]]

@@ -335,6 +335,15 @@
   },
   "inquiries": [
     {
+      "key": "do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929",
+      "path": "inquiries/do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929.md",
+      "priority": "high",
+      "question": "Do the Ash'ari and Mu'tazili positions on the divine attributes land where permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-05"
+    },
+    {
       "key": "do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841",
       "path": "inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md",
       "priority": "high",
@@ -361,6 +370,15 @@
       ],
       "status": "answered",
       "updated": "2026-09-04"
+    },
+    {
+      "key": "does-athanasius-argue-from-divine-simplicity-to-the-son-s--202609051930",
+      "path": "inquiries/does-athanasius-argue-from-divine-simplicity-to-the-son-s--202609051930.md",
+      "priority": "normal",
+      "question": "Does Athanasius argue from divine simplicity to the Son's eternal generation, as the SEP survey reports at second hand?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-05"
     },
     {
       "key": "does-the-same-god-dispute-survive-contact-with-an-actual--202609041839",
@@ -947,7 +965,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-01",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -3035,7 +3053,7 @@
       ],
       "title": "Internal plurality is not what divides the monotheisms",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md"
     },
     {
