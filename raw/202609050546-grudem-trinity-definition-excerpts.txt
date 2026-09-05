@@ -1,0 +1,109 @@
+Short verbatim excerpts from Wayne Grudem, Systematic Theology,
+chapter on "God in Three Persons: The Trinity"
+(reference: grudem-systematic-theology--202609050158).
+
+This is NOT the full chapter text -- the chapter is under copyright (Zondervan
+Academic, 2020) and is not freely republishable. These are brief direct
+quotations (the central Trinity definition and component statements), reproduced
+for citation-grounding/commentary purposes, collected from multiple independent
+secondary sources that each quote Grudem's text verbatim. The book itself was
+not otherwise accessible to this run; see SKILL.md source-access-triage,
+rungs (a)-(e) attempted.
+
+Fetched 2026-09-05T05:20Z to 2026-09-05T05:48Z via WebFetch and WebSearch.
+
+
+Source A: https://www.thespiritlife.net/76-spirit/spirit-av/2154-god-in-three-persons-the-trinity-systematic-theology-by-wayne-grudem-part-1
+Edition/Locator: No edition statement on the page. The "(226)" pagination and
+outline structure are identical to Source D below, including identical typographical
+features and section headings A)-E). This is a republication of the lesson outline,
+not an independent witness. Chapter: "God in Three Persons: The Trinity"
+
+Verbatim text, Trinity definition:
+  "God eternally exists as three persons, Father, Son, and Holy Spirit, and
+  each person is fully God, and there is one God." (Page 226)
+
+
+Source B: https://evidenceunseen.com/theology/christian-doctrine/defining-the-trinity/
+Edition/Locator: 1st edition (1994), page 226. Cited as "Wayne Grudem, Systematic
+Theology (Grand Rapids: Zondervan, 1994), 226."
+Fetched 2026-09-05T05:48Z.
+
+Verbatim text, Trinity definition:
+  "God eternally exists as three persons, Father, Son, and Holy Spirit, and
+  each person is fully God, and there is one God."
+
+
+Source C: https://theblessedrebellion.wordpress.com/2012/09/28/worldview-basics-pt-5-the-trinity/
+Edition/Locator: 1st edition (1994), page 226. Cited as "Wayne Grudem, Systematic
+Theology (Grand Rapids: Zondervan, 1994), page 226."
+Fetched 2026-09-05T05:48Z.
+
+Verbatim text, Trinity definition:
+  "God eternally exists as three persons, Father, Son, and Holy Spirit, and
+  each person is fully God, and there is one God."
+
+
+Source D: https://www.waynegrudem.com/test/2006/082706.pdf
+Edition/Locator: Unattributed lesson outline linked from waynegrudem.com
+(site-printed date 2006/08/27 beside 20060827WGrudem.mp3; PDF metadata /Author
+Mike Langley, created 2009-03-18). Heading "Chapter 14: God in Three
+Persons: The Trinity". Section "Explanation and Scriptural Basis (226)".
+Fetched 2026-09-05T05:45Z (captured via fetch_source.py; raw file
+202609050601-grudem-systematic-theology-chapter-14-course-outline.pdf).
+
+Verbatim text, Trinity definition (as printed in the outline):
+  "God eternally exists as three persons, Father, Son, and Holy Spirit, and each
+  person is fully God, and there is one God."
+  Locator: Marked "(226)" in the outline.
+
+Additional content from outline: Section B lists "Three statements summarize
+the biblical teaching (231-241)" with subsections "1) God is three persons
+(with distinction of persons and the independence of the Holy Spirit treated
+separately)," "2) Each person is fully God," and "3) There is one God."
+Section C covers "Errors have come by denying any of the three statements
+(241-248)" and treats Modalism and Arianism with specific shortcomings and
+biblical rationale.
+
+
+Source E: https://truthstory.org/blog/god-in-three-persons-the-trinity-chapter-14/
+Edition/Locator: No edition specified. Chapter 14 study guide.
+Fetched 2026-09-05T05:20Z.
+
+Verbatim text: Three component statements only; the combined sentence does NOT
+appear verbatim on this page:
+  [1] "God is three persons."
+  [2] "Each person is fully God."
+  [3] "There is one God."
+
+
+Source F (single witness; does not meet the two-witness standard):
+https://spoiledmilks.com/2021/07/30/review-systematic-theology-second-edition-grudem/
+Edition/Locator: 2nd edition (2020) review, pages 305, 307.
+Fetched 2026-09-05T05:20Z.
+
+Verbatim text (contextual only, not the main definition):
+  "if in the Trinity the Son is always subject to the authority of the Father
+  yet also equal to the Father in deity and in honor, then it is understandable
+  that...authority and submission within the relationship is compatible with
+  both persons being equal" (p. 305)
+  "God to have one will, but there are three expressions of this will" (p. 307)
+
+
+Corroboration:
+The combined Trinity definition "God eternally exists as three persons, Father,
+Son, and Holy Spirit, and each person is fully God, and there is one God" is
+witnessed in three documents, two of which are independent of the lesson outline:
+evidenceunseen.com (Source B, explicit 1994 Zondervan p. 226) and theblessedrebellion
+.wordpress.com (Source C, explicit 1994 Zondervan p. 226). The Spirit Life (Source A)
+is a republication of the lesson outline (Source D) with identical typos, headings,
+and page marks, and thus is not an independent witness.
+
+NO independent witness provides a 2nd-edition page number for this definition.
+Chapter 14 for the 2nd edition (2020) is established only by the Open Library
+table of contents in raw/202609050158-grudem-systematic-theology.txt, which lists
+"God in three persons : the Trinity" as a Part Two chapter without page numbers.
+The three component statements appear separately in Source E (Truth Story) but
+not as a combined sentence.
+Source F (spoiledmilks review) is a single witness and does not meet the
+two-witness standard.

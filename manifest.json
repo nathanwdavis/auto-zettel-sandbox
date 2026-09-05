@@ -317,6 +317,15 @@
     "202609042340": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
     "202609042345": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
     "202609050158": "grudem-systematic-theology--202609050158",
+    "202609050547": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
+    "202609050548": "grudem-trinity-three-persons-one-god--202609050548",
+    "202609050549": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
+    "202609050601": "grudem-systematic-theology-chapter-14-course-outline--202609050601",
+    "202609050602": "grudem-systematic-theology-chapter-11-course-outline--202609050602",
+    "202609050612": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612",
+    "202609050618": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
+    "202609050645": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
+    "202609050646": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -605,7 +614,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 322,
+  "note_count": 331,
   "notes": [
     {
       "id": "202609041020",
@@ -2132,6 +2141,10 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        },
+        {
           "relation": "supports",
           "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
         },
@@ -2153,7 +2166,7 @@
       "tags": [],
       "title": "The monotheisms divide over the scope of simplicity, not over plurality",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081.md"
     },
     {
@@ -2206,6 +2219,10 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "supports",
+          "target_id": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+        },
+        {
           "relation": "source",
           "target_id": "nae-statement-of-faith--202608311920"
         },
@@ -2219,7 +2236,7 @@
       "tags": [],
       "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
@@ -2464,6 +2481,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
     },
     {
+      "id": "202609050549",
+      "key": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
+      "links": [],
+      "path": "fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md",
+      "slug": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs",
+      "tags": [],
+      "title": "",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md"
+    },
+    {
+      "id": "202609050547",
+      "key": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md",
+      "slug": "grudem-divine-attributes-incommunicable-and-communicable",
+      "tags": [],
+      "title": "Grudem distinguishes God's incommunicable attributes from those God shares with human creation",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md"
+    },
+    {
       "id": "202609050158",
       "key": "grudem-systematic-theology--202609050158",
       "links": [],
@@ -2474,6 +2520,167 @@
       "type": "reference",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
+    },
+    {
+      "id": "202609050602",
+      "key": "grudem-systematic-theology-chapter-11-course-outline--202609050602",
+      "links": [],
+      "path": "reference/grudem-systematic-theology-chapter-11-course-outline--202609050602.md",
+      "slug": "grudem-systematic-theology-chapter-11-course-outline",
+      "tags": [],
+      "title": "Chapter 11: The Character of God - \"Incommunicable\" Attributes - Lesson Outline",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-11-course-outline--202609050602.md"
+    },
+    {
+      "id": "202609050601",
+      "key": "grudem-systematic-theology-chapter-14-course-outline--202609050601",
+      "links": [],
+      "path": "reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md",
+      "slug": "grudem-systematic-theology-chapter-14-course-outline",
+      "tags": [],
+      "title": "Chapter 14: God in Three Persons: The Trinity - Lesson Outline",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md"
+    },
+    {
+      "id": "202609050548",
+      "key": "grudem-trinity-three-persons-one-god--202609050548",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-trinity-three-persons-one-god--202609050548.md",
+      "slug": "grudem-trinity-three-persons-one-god",
+      "tags": [],
+      "title": "Grudem defines the Trinity as God eternally existing as three distinct fully-divine persons in one God",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-trinity-three-persons-one-god--202609050548.md"
+    },
+    {
+      "id": "202609050646",
+      "key": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-11-course-outline--202609050602"
+        }
+      ],
+      "path": "literature/grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646.md",
+      "slug": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity",
+      "tags": [],
+      "title": "Grudem's Chapter 11 outline lists five incommunicable attributes with Unity glossed as Simplicity",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646.md"
+    },
+    {
+      "id": "202609050645",
+      "key": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-14-course-outline--202609050601"
+        }
+      ],
+      "path": "literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md",
+      "slug": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement",
+      "tags": [],
+      "title": "Grudem's Chapter 14 outline maps each trinitarian error to one of the three denied statements",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md"
+    },
+    {
+      "id": "202609050612",
+      "key": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-11-course-outline--202609050602"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        }
+      ],
+      "path": "permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md",
+      "slug": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts",
+      "tags": [],
+      "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
+      "type": "permanent",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
+    },
+    {
+      "id": "202609050618",
+      "key": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-14-course-outline--202609050601"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-trinity-three-persons-one-god--202609050548"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012"
+        }
+      ],
+      "path": "permanent/grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618.md",
+      "slug": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word",
+      "tags": [],
+      "title": "Grudem's formula carries the creed's asymmetry, and a lesson outline of his chapter prints the proposition that cancels it",
+      "type": "permanent",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618.md"
     },
     {
       "id": "202609040345",
@@ -6969,6 +7176,10 @@
           "target_id": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003"
         },
         {
+          "relation": "analogous",
+          "target_id": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+        },
+        {
           "relation": "elaborates",
           "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
         },
@@ -6994,7 +7205,7 @@
       "tags": [],
       "title": "The sefirot comparison keeps its Arian leg and loses its Sabellian one",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012.md"
     },
     {

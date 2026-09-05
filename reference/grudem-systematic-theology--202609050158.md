@@ -34,6 +34,9 @@ verification:
   identifier_check: confirmed
   date: '2026-09-05T01:58:18Z'
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
+excerpt_captures:
+  - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
+  - raw/202609050546-grudem-trinity-definition-excerpts.txt
 links: []
 created: '2026-09-05'
 updated: '2026-09-05'
@@ -55,3 +58,51 @@ captured TOC entries carry no chapter numbers, so the specific numbered titles
 of chapters 12–15 are not asserted here; those chapters are cited from this book
 via locator (e.g. `locator: chs. 12–15`, or a specific chapter/page) in
 downstream literature notes.
+
+Two sets of narrow cross-verified excerpt captures have been recorded:
+
+(1) Five incommunicable-attribute definitions (independence, unchangeableness,
+eternity, omnipresence, unity) at pages 160-177 in the 1st edition (1994),
+verified by independent witnesses: Stu Station blog (pp. 160-177, no edition
+statement on the page); Truth Story study guide (no edition stated, near-matching
+text on two definitions); Reasonable Faith article (1994 edition, p. 168, eternity
+definition only); and an unattributed lesson outline on waynegrudem.com (pages
+160-180, site-printed date 2006/03/26, PDF metadata shows creation 2009-03-18 by
+Mike Langley). Four of the five definitions meet the two-witness standard for
+exact wording: independence, unchangeableness, eternity, and unity are witnessed
+exactly across multiple sources. Omnipresence is witnessed exactly by the lesson
+outline only (the other sources differ by one word each: Stu Station "IN space"
+vs outline "OF space"; Truth Story "spacial" vs "spatial"), so omnipresence does
+not meet the two-witness standard. Truth Story has near-matching text (not
+identical wording) on eternity and omnipresence, which per house standard are
+grounds for refusal, not harmonisation.
+
+(2) The central Trinity definition ("God eternally exists as three persons,
+Father, Son, and Holy Spirit, and each person is fully God, and there is one
+God") appears at page 226 in the 1st edition (1994), verified by three documents,
+two of which are independent of the lesson outline: evidenceunseen.com (explicit
+1994 Zondervan citation, p. 226); theblessedrebellion.wordpress.com (explicit
+1994 Zondervan citation, p. 226); and an unattributed lesson outline on
+waynegrudem.com (marked "(226)" in the section heading "Explanation and Scriptural
+Basis", site-printed date 2006/08/27, PDF metadata shows creation 2009-03-18 by
+Mike Langley). The Spirit Life (thespiritlife.net) is a republication of the
+waynegrudem.com lesson outline verbatim (identical typos, headings, and page marks)
+and does not constitute an independent witness. Two of the three independent
+documents print the 1994 edition explicitly. NO independent witness provides a
+2nd-edition page number for this definition.
+
+Access ladder (rungs a–e) attempted: (a) Zondervan Academic publisher page (no
+chapter preview); (b) Unpaywall/DOI (no OA copy for 2020 edition); (c)
+unattributed lesson outlines at waynegrudem.com/test/2006/ for both chapters
+discovered and captured (Chapter 11: 032606.pdf, Chapter 14: 082706.pdf; creator
+Mike Langley, created 2009-03-18 per PDF metadata; presented without author or
+date attribution on the site); (d) Wayback Machine (no viable snapshots);
+archive.org holds an in-copyright lending-restricted record (not used per house
+rule).
+
+Grounding: excerpt-only, based on secondary-source quotations and independent
+verification through the unattributed lesson outlines on waynegrudem.com,
+meeting the two-witness standard. No 2nd-edition page numbers are established
+for any definition text; 1st-edition pagination confirmed by independent
+witnesses (Stu Station blog and Reasonable Faith article) and by the lesson
+outline's page ranges.
