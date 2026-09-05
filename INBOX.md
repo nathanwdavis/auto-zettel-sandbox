@@ -3893,7 +3893,8 @@ tells every cycle to append one line per step and says nothing about how.
 
 ## 2026-09-04 — Not done by cycle 202609041844, and it is the leg the inquiry named first: the Ash'ari/Mu'tazili dispute over whether the divine attributes are eternal and distinct from the essence. The cycle answered the simplicity question from Jewish and Christian primary sources plus a survey; no Islamic primary was located in open access within budget (al-Ash'ari's Kitab al-Luma' and 'Abd al-Jabbar's Sharh al-usul al-khamsa were not found in a capturable English translation). The term 'eternity' still appears in no note in this base. The Islamic leg matters more than a third example would: it is the tradition that ran the attributes dispute HARDEST, and permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081 predicts where it should land (a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'). That prediction is testable and untested. Second lead, weaker but cheap: the Athanasius claim in that note rests on the SEP entry citing Wedgeworth 2019 and declining to pursue it -- reading Athanasius' Contra Arianos directly would either ground it or remove it.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
+- **worked 2026-09-05, both legs:** the Athanasius half is ANSWERED; the Ash'ari/Mu'tazili half is worked and still open. See the two dated blocks below.
 - **priority:** normal
 - **asked_by:** human
 
@@ -4043,3 +4044,115 @@ report says otherwise, and the discrepancy has not been chased down.
   first page of an ordinary search.
 
 (no further detail)
+
+## 2026-09-05 — Both legs of permanent 202609042081 tested against primary texts: the Athanasius leg answered, the Islamic leg still open
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-05, second cycle)
+
+This cycle took the two legs of one note — `divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081` — rather than opening new ground.
+
+**The Athanasius leg (inquiry 202609051930): ANSWERED, and it went the opposite
+way to the run's first finding.** The note's "changes sides" claim rested on the
+SEP survey reporting, from Wedgeworth 2019 at second hand, that Athanasius
+"consistently used the doctrine of divine simplicity to argue that the Son's
+eternal Generation from the Father proved his absolute deity" — a claim the
+survey itself declines to pursue. Read directly (NPNF II.4, Robertson's
+translation, via tertullian.org), Athanasius uses simplicity **both** ways:
+it constrains the *manner* of generation at *Contra Arianos* I.28 and at the
+opening of *De Decretis* 11, it serves as a *premise* at the close of §11
+("being uncompounded in nature, He is Father of One Only Son. This is why He is
+Only-begotten") and at §22 ("But if God be simple, as He is, it follows that…
+Therefore let no one be startled on hearing that the Son of God is from the
+Essence of the Father"), and in the human-word analogy of §11 the inference runs
+backwards, reading the Father's impassibility off the Word. Notes:
+[[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]],
+literature 202609052101, 202609052102, 202609052210.
+
+**What that settles, exactly, because the run got this wrong twice before
+settling it.** §22 retires the charge that the survey's report is inaccurate as
+stated — a premise-form argument from simplicity really is there. It does NOT
+vindicate the survey: §22 concludes to the Son's being *from the essence*, the
+*homoousion*, not that eternal generation proves absolute deity, and the word
+"eternal" does not occur in it; and the survey's "**consistently**" is
+positively contradicted, since simplicity appears once in the fourteen sections
+read of *Contra Arianos* I and does three different jobs inside *De Decretis* 11
+alone. 202609042081's last paragraph now records the leg as stronger in one way
+and weaker in two. **Scope:** Robertson's 1900 English, one host, no second
+transcription of the quoted passages, no Greek consulted; *Contra Arianos*
+I.19–32 of 64 and *De Decretis* 8–32 of 32.
+
+**The Islamic leg (inquiry 202609051929): worked, still `in-progress`, and the
+prediction is UNTESTED rather than confirmed.** al-Ash'ari's *al-Ibana* is now on
+file (Klein's 1940 translation; excerpt capture only, the translation being in
+copyright; literature 202609051940 and 202609051941). It establishes that he
+affirms the attributes as real and *mutually distinct in meaning*, arguing that
+collapsing "hearing, seeing" into "knowing" is absurd, and that he refuses the
+Mu'tazili reduction. It does not answer the question, because the prediction is
+about the relation of the attributes **to the essence** and al-Ibana supplies no
+relation-term: *bila kayfa* (Klein renders it "without further inquiry")
+withholds one rather than supplying a third answer. Distinctness *among*
+attributes is not a relation *to* the essence.
+
+**Two findings for whoever takes it next.** The formula the prediction quotes,
+"neither He nor other than He", occurs **nowhere in the volume** — it is a
+doctrine of the later Ash'arite school, not of this book. And the single
+relational thing al-Ibana does say, that God's names are **not other than He**
+(p. 50), sits at the *Maimonidean* end of the axis, mildly against the predicted
+midpoint rather than toward it. The right sources are al-Ash'ari's *Maqalat
+al-Islamiyyin* (which reports Ibn Kullab), al-Baqillani, or al-Juwayni.
+Whether Ibn Kullab originated the formula is an unconfirmed lead in
+`fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950`. Sources tried and
+failed this cycle: *Kitab al-Luma'* in McCarthy's edition (archive.org record is
+lending-restricted — the landing page is metadata, not the book) and Burrell,
+"Mu'tazilites, Al-Ash'ari and Maimonides on Divine Attributes", *Veritas* 52.3
+(2007), 117–131, whose host reset the connection.
+
+## 2026-09-05 — Process, HIGH, five rules this cycle paid for across seven send-backs and four critic passes
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-05, second cycle)
+
+For the skill-smith when its cadence is due (~2026-09-08), and for
+`skills/source-access-triage`. Every one of these was a real failure this cycle,
+caught by a critic or by the orchestrator, not a hypothetical.
+
+1. **A landing page is not a book.** A capture from `archive.org/details/...`
+   of a lending-restricted item is the item's metadata page. This cycle's first
+   "Kitab al-Luma' capture" was 6,497 characters of "Free Download, Borrow, and
+   Streaming". Check a capture's *length and content* against what the work
+   should be before citing it.
+2. **A byte count is not a check that a capture contains the passage.** The
+   orchestrator told a researcher to keep two captures as corroborating
+   witnesses because they held ~30,500 and ~16,300 characters of real text; the
+   researcher checked and refuted it — they held only front matter and opening
+   sections and did not reach the quoted passages at all. Search the capture for
+   the passage. Length proves nothing.
+3. **Front matter is not the work.** Twice this cycle a run quoted the
+   *translator's introduction* and attributed it to the author — first
+   transparently ("Al-As'ari probably puts the matter accurately when he says…"
+   rendered as "Al-Ash'ari reports that…"), then subtly, when the passages
+   turned out to be a creed from a *different work* (the *Maqalat*) quoted
+   inside the introduction, while the translation itself did not begin for
+   another twelve pages. Locate the work's own text before quoting from a
+   volume, and label each passage's genre in the capture.
+4. **A checksum nobody can recompute is worse than none**, and a file cannot
+   contain its own checksum. Both happened. Put the excerpt digest in the
+   reference note, and if a source digest cannot be reproduced, say so in the
+   note rather than leaving a number that invites false confidence.
+5. **Never alter anything inside quotation marks.** A capture "corrected"
+   Klein's bracketed `[p. 46]` to `[p. 100]` to agree with where the passage
+   sits in the English — but Klein's brackets track the *Arabic* edition's
+   pagination. A silent substitution inside a quotation is the one thing a
+   capture may never do, however small it looks.
+
+One more, aimed at the orchestrator rather than the researchers: **an
+instruction built on an unverified inference is the same defect the base
+forbids its researchers**, and this cycle produced one (rule 2 above) and a
+premature conclusion logged as fact (that the SEP survey was "inaccurate as
+stated", withdrawn a few hours later when the critic read past where the
+researcher had stopped). Both are corrected in `log.md` rather than quietly
+fixed.
+

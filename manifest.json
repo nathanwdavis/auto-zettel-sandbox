@@ -351,7 +351,7 @@
       "priority": "high",
       "question": "Do the Ash'ari and Mu'tazili positions on the divine attributes land where permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'?",
       "result_notes": [],
-      "status": "new",
+      "status": "in-progress",
       "updated": "2026-09-05"
     },
     {
@@ -387,8 +387,10 @@
       "path": "inquiries/does-athanasius-argue-from-divine-simplicity-to-the-son-s--202609051930.md",
       "priority": "normal",
       "question": "Does Athanasius argue from divine simplicity to the Son's eternal generation, as the SEP survey reports at second hand?",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320"
+      ],
+      "status": "answered",
       "updated": "2026-09-05"
     },
     {
