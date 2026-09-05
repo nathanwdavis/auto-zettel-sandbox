@@ -62,8 +62,8 @@ dividing question because every party is trying to satisfy the *same* constraint
 internal articulation are proposals for satisfying it, not challenges to it.
 
 The strongest evidence that this is the real axis is that the doctrine changes
-sides. Athanasius argues *from* the denial of composition to an internal
-relation: "But if God be simple, as He is, it follows that in saying `God' and
+sides. Athanasius argues *from* the denial of composition to an internal relation:
+"But if God be simple, as He is, it follows that in saying `God' and
 naming `Father,' we name nothing as if about Him, but signify his essence
 itself," and so "let no one be startled on hearing that the Son of God is from
 the Essence of the Father" (*De Decretis* 22; see
@@ -79,7 +79,7 @@ claim no longer rests on a survey's citation of one secondary author; the primar
 text has now been read, and it moves the leg in two directions at once. It is
 stronger, because a premise-form argument from simplicity to the Son's being from
 the Father's essence is actually there in *De Decretis* 22, and the pattern is not
-confined to that section: the close of *De Decretis* 11 grounds the Son's being
+confined to that section: immediately after that, *De Decretis* 11 grounds the Son's being
 Only-begotten in the Father's being "uncompounded in nature" (see
 [[athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102]]).
 It is also weaker in two ways. The survey's "consistently" is not supported —
@@ -94,7 +94,7 @@ and in the human-word analogy of §11 the inference runs backwards, reading the
 Father's impassibility off the Word (see
 [[athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102]]).
 So "changes sides" is a claim about what
-traditions do with the doctrine, and no author's usage will exhibit it cleanly;
+traditions do with the doctrine, and at least one author's usage does not exhibit it cleanly;
 see [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]].
 Scope of the check: Robertson's 1900 English from a single host, no Greek
 consulted, *Contra Arianos* I.19–32 of 64 and *De Decretis* 8–32 of 32

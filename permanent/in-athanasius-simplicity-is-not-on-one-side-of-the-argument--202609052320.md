@@ -22,9 +22,7 @@ links:
 - target_id: divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081
   relation: supports
 - target_id: the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077
-  relation: contradicts
-- target_id: no-composition-does-different-work-in-each-tradition--202609042080
-  relation: analogous
+  relation: elaborates
 created: '2026-09-05'
 updated: '2026-09-05'
 ---
@@ -48,7 +46,7 @@ of parts," so human offspring are portions of their fathers, whereas God, "being
 without parts, is Father of the Son without partition or passion" (see
 [[athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102]]).
 
-**It also works as a premise.** The close of that same section turns the
+**It also works as a premise.** Immediately after, the same section turns the
 constraint into a ground: "being uncompounded in nature, He is Father of One Only
 Son. This is why He is Only-begotten" — the Son's uniqueness read off the absence
 of composition. The clearest instance is *De Decretis* 22: "But if God be simple,

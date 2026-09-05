@@ -4156,3 +4156,47 @@ stated", withdrawn a few hours later when the critic read past where the
 researcher had stopped). Both are corrected in `log.md` rather than quietly
 fixed.
 
+## 2026-09-05 — Evidence, HIGH: a committed capture does not contain the passage three notes cite it for, and nobody noticed for two days
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-05, second cycle, critic finding)
+
+`raw/202609042072-sep-divine-simplicity-excerpt.txt` **ends at the words
+"1. Motivation"** — the start of section 1 — while its own header claims it runs
+through "its placement in the Summa, and the closing remark on the Trinity, down
+to the start of section 2." None of "Athanasius", "Wedgeworth", "consistently",
+the Summa Question-3 sentence, nor "lies beyond the scope" occurs anywhere in
+`raw/`; they appear only in note prose.
+
+**What rests on it.** `literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077`
+quotes four passages from that capture, and through it
+`permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081`
+and this cycle's `permanent/in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320`
+both turn on the survey's wording — including the single word
+"**consistently**", which this cycle spent four researcher passes and two critic
+reviews establishing is not supported by Athanasius. So the chain of custody for
+the word ran through a capture that does not contain it.
+
+**Groundedness is not affected, and that is luck rather than method.** The critic
+checked all four quotations directly against the live SEP entry and every one is
+verbatim-correct. Had the entry been revised in the interim — SEP entries are
+revised — there would have been no way to tell from this repository.
+
+**Why it was not fixed in place.** `raw/` is immutable and that capture was
+committed on 2026-09-04. The repair is a NEW capture of the Motivation section,
+attached to `reference/vallicella-divine-simplicity-sep--202609042072` as an
+`excerpt_captures` entry (the Housel and Grudem precedent), plus a line in the
+reference note body recording that the original capture's header overstates its
+extent. A future cycle should also check whether the same truncation affected
+other captures made by that run on 2026-09-04, since the failure looks like a
+fetch that stopped early while the header was written from intent rather than
+from the file.
+
+**The general rule this suggests, for the skill-smith:** a capture's header
+describes what was *meant* to be captured; only the bytes describe what *was*.
+After `fetch_source` returns, grep the capture for a distinctive phrase from the
+passage you intend to cite, before writing the note that cites it. This is the
+same class as the "byte count is not a check" rule filed above, and it is the
+second time in one cycle that a capture's extent went unverified.
+
