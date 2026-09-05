@@ -2652,5 +2652,73 @@
     },
     "title": "Chapter 11: The Character of God: \"Incommunicable\" Attributes",
     "type": "document"
+  },
+  {
+    "URL": "https://www.tertullian.org/fathers2/NPNF2-04/Npnf2-04-57.htm",
+    "author": [
+      {
+        "family": "Athanasius",
+        "given": "Saint"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 4: Athanasius: Select Works and Letters",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      }
+    ],
+    "id": "202609052014",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "Orationes contra Arianos (First Discourse Against the Arians)",
+    "translator": [
+      {
+        "family": "Robertson",
+        "given": "Archibald"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.tertullian.org/fathers2/NPNF2-04/Npnf2-04-34.htm",
+    "author": [
+      {
+        "family": "Athanasius",
+        "given": "Saint"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Volume 4: Athanasius: Select Works and Letters",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      }
+    ],
+    "id": "202609052015",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Company",
+    "publisher-place": "New York",
+    "title": "De Decretis Nicaenae Synodi (Defence of the Nicene Definition)",
+    "translator": [
+      {
+        "family": "Robertson",
+        "given": "Archibald"
+      }
+    ],
+    "type": "chapter"
   }
 ]

@@ -1754,3 +1754,9 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-05T07:10:49Z` step 8 (gates) first run FAILED on the merged tree: the researcher's last pass had written the two outline references' csl_json id, title and Chicago strings with curly quotes as YAML delimiters, so both files were unparseable, verify_refs skipped them (99/101) and lint_links reported every link to them unresolved. Orchestrator repaired the frontmatter mechanically (plain YAML quoting; id as a plain string; URL key uppercased; Chicago strings blanked for the verifier to re-render) -- no bibliographic content changed
 - `2026-09-05T07:10:49Z` step 8 (gates) re-run: verify_refs live 101/101 (both outline references verified via raw-capture and re-rendered); degraded-record check 0, the verifier's upgrades of two unrelated references restored to HEAD; build_manifest 331 notes; lint_citations clean; lint_links clean; lint_skills clean; check_skill_sandbox clean against merge-base with origin/main (invoked as gates.yml invokes it); manifest --check current. Nothing was fixed by weakening a claim, deleting a knowledge note, or marking anything verified that is not; the one deletion this cycle (202609050624) was a critic block on an uncommitted draft
 - `2026-09-05T07:10:49Z` cycle 2026-09-05 finished on branch claude/sandbox-maintenance-hjxlr4 (session-as-agent; pushed by the session after the gates; lock released after push). PR to be opened from that branch so CI gates it; never merged by the session
+- `2026-09-05T20:03:28Z` build_manifest: 337 notes indexed
+- `2026-09-05T20:03:41Z` lint_citations: PASS
+- `2026-09-05T20:03:42Z` lint_links: PASS
+- `2026-09-05T20:09:34Z` build_manifest: 337 notes indexed
+- `2026-09-05T20:09:48Z` lint_citations: PASS
+- `2026-09-05T20:09:49Z` lint_links: PASS
