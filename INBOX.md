@@ -3969,3 +3969,11 @@ The grounding for permanents 202609042201 and 202609042202 used the report's
 re-analysis of the CSV, so nothing in the base rests on resolving this. Flagged
 purely for any future re-analyst who opens the raw data: the label exists, the
 report says otherwise, and the discrepancy has not been chased down.
+
+## 2026-09-05 — Grudem, Systematic Theology 2nd ed. (2020) — chs. 12–15 (the Doctrine of God cluster: existence, knowability, incommunicable and communicable attributes, and the Trinity) are now citable via the reference note grudem-systematic-theology--202609050158, verified from Open Library metadata (ISBN 9780310517979). No chapter text was captured (copyright; personal-reading license only) and the captured TOC carries no chapter numbers, so numbered chapter titles are deliberately NOT asserted. Future expansion: when a specific claim is cited, write own-words literature notes with a locator (e.g. chapter/page) on the Grudem reference, then distil permanent notes — following the Housel copyrighted-book precedent (metadata + narrow cross-checked excerpts only, no full text). Open inquiries have been filed to queue this work, especially where Grudem's treatment of the divine attributes and the Trinity bears on the existing Abrahamic-attributes / same-God theology cluster.
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+(no further detail)
