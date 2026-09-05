@@ -3973,8 +3973,73 @@ report says otherwise, and the discrepancy has not been chased down.
 
 ## 2026-09-05 — Grudem, Systematic Theology 2nd ed. (2020) — chs. 12–15 (the Doctrine of God cluster: existence, knowability, incommunicable and communicable attributes, and the Trinity) are now citable via the reference note grudem-systematic-theology--202609050158, verified from Open Library metadata (ISBN 9780310517979). No chapter text was captured (copyright; personal-reading license only) and the captured TOC carries no chapter numbers, so numbered chapter titles are deliberately NOT asserted. Future expansion: when a specific claim is cited, write own-words literature notes with a locator (e.g. chapter/page) on the Grudem reference, then distil permanent notes — following the Housel copyrighted-book precedent (metadata + narrow cross-checked excerpts only, no full text). Open inquiries have been filed to queue this work, especially where Grudem's treatment of the divine attributes and the Trinity bears on the existing Abrahamic-attributes / same-God theology cluster.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** Done for the two Doctrine-of-God topics the inquiries named, on excerpt-only grounding; see the 2026-09-05 progress block below for what was established, what was not, and the leads left open.
 - **priority:** normal
 - **asked_by:** human
+
+- **2026-09-05 cycle progress (inquiries 202609050252 and 202609050253, both now `answered`):**
+  Two literature notes and two permanent notes on the book, grounded under the
+  Housel two-witness standard with no chapter text captured:
+  [[grudem-divine-attributes-incommunicable-and-communicable--202609050547]] and
+  [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]]
+  (attributes), [[grudem-trinity-three-persons-one-god--202609050548]] and
+  [[grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618]]
+  (Trinity; title in frontmatter now says a lesson outline of the chapter prints
+  the proposition that cancels the formula's asymmetry). Excerpt captures
+  raw/202609050545 and raw/202609050546 are linked from the book's reference
+  note via `excerpt_captures`. Two further sources were captured as references
+  of their own: the unattributed lesson outlines of ch. 11 and ch. 14 linked
+  from waynegrudem.com beside the lecture audio (site-dated 2006/03/26 and
+  2006/08/27; PDF metadata names Mike Langley, created 2009-03-18; NOT
+  established as Grudem's own text), [[grudem-systematic-theology-chapter-11-course-outline--202609050602]]
+  and [[grudem-systematic-theology-chapter-14-course-outline--202609050601]],
+  with literature notes 202609050646 and 202609050645.
+
+  **What is established, and only this.** Every definition sentence is
+  witnessed at FIRST-edition (1994) pagination: the five incommunicable
+  attributes at pp. 160-177 (four of them by two to four exact witnesses; the
+  omnipresence sentence by the lesson outline alone, the two blog witnesses each
+  differing at one word) and the Trinity definition at p. 226 by three
+  documents, two of them independent of the outline and both printing 1994.
+  NO witness anywhere gives a second-edition page, and the second edition's
+  chapter NUMBERS are established by nothing on file (the Open Library TOC
+  carries none). The inquiries asked about the 2020 edition; the answer is
+  therefore about a formula pinned to the 1994 text and only assumed to stand
+  unchanged in 2020. Both permanent notes say so.
+
+  **Source still needed, unchanged: the 2nd edition's text** (ISBN
+  9780310517979). Routes tried across four passes: Zondervan Academic page (no
+  preview); Unpaywall (nothing, trade-academic book); waynegrudem.com (the
+  lesson outlines above, but no chapter text); Google Books (no readable
+  preview obtained); Wayback (nothing); an archive.org record exists and was not
+  used (in copyright; house rule). What the text would settle: the 2nd-ed.
+  pagination and chapter numbers; the definitions' wording in 2020; Grudem's
+  own handling of modalism (the outline prints the proposition but the chapter
+  has not been read); the eternal-generation change between editions and the
+  retained eternal-submission position, both currently single-witness leads in
+  fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549;
+  Grudem's definition of the communicable attributes, which no capture covers.
+  A human with a copy can drop excerpts into drop/.
+
+  **A note the critic blocked and this cycle dropped, worth writing later
+  against a better case:** "two witnesses to a wording are not two witnesses to
+  an edition" -- the idea is sound (corroboration counts attach to a claim, and
+  wording and edition travel separately), but the case this cycle built it on
+  turned out not to exhibit it (the supposed second-edition label was the run's
+  own inference). It was deleted, not merged.
+
+  **Candidate rules for the skill-smith (source-access-triage), from four
+  critic passes on one stream:** (1) a witness that reproduces another
+  witness's typos, headings and page marks is a republication, not an
+  independent witness -- check before counting; (2) read a PDF's document
+  metadata (/Author, /CreationDate) and the host page's own date before calling
+  anything author-published; a file on the author's site is not thereby the
+  author's; (3) near-match means REFUSE, one word is enough ('in space' vs 'of
+  space' cost the omnipresence sentence its second witness); (4) never record
+  the run's own inference (an edition, a chapter number) in a witness's voice
+  inside raw/; (5) rung (c) of the ladder is not exhausted until the author's
+  site has been searched for lesson materials by chapter, which here sat on the
+  first page of an ordinary search.
 
 (no further detail)

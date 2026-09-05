@@ -10,22 +10,22 @@ tags: []
 source_tier: reputable-secondary
 scripture: false
 csl_json:
-  id: ‘202609050602’
+  id: '202609050602'
   type: document
-  title: ‘Chapter 11: The Character of God: “Incommunicable” Attributes’
+  title: 'Chapter 11: The Character of God: "Incommunicable" Attributes'
   issued:
     date-parts:
     - - 2006
-  url: https://www.waynegrudem.com/test/2006/032606.pdf
+  URL: https://www.waynegrudem.com/test/2006/032606.pdf
   genre: lesson outline
   container-title: Lesson outlines accompanying Wayne Grudem’s Systematic Theology
     lectures (waynegrudem.com)
-chicago_note: ‘”Chapter 11: The Character of God: ‘Incommunicable’ Attributes,” in
+chicago_note: '“Chapter 11: The Character of God: ‘Incommunicable’ Attributes,” in
   Lesson Outlines Accompanying Wayne Grudem’s Systematic Theology Lectures (Waynegrudem.com),
-  lesson outline, 2006, https://www.waynegrudem.com/test/2006/032606.pdf.’
-chicago_bib: ‘”Chapter 11: The Character of God: ‘Incommunicable’ Attributes.” In
+  lesson outline, 2006, https://www.waynegrudem.com/test/2006/032606.pdf.'
+chicago_bib: '“Chapter 11: The Character of God: ‘Incommunicable’ Attributes.” In
   Lesson Outlines Accompanying Wayne Grudem’s Systematic Theology Lectures (Waynegrudem.com),
-  lesson outline. 2006. https://www.waynegrudem.com/test/2006/032606.pdf.’
+  lesson outline. 2006. https://www.waynegrudem.com/test/2006/032606.pdf.'
 citation_renderer: pandoc
 verification:
   method: raw-capture

@@ -518,6 +518,12 @@ the other.
 - [[the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011]]
 - [[the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012]]
 
+### Grudem's formula: the same asymmetry reappears, added 2026-09-05
+
+Seventeen centuries after Nicaea, the same asymmetry—one rival excluded by proposition, the other by a single word—recurs in Grudem's summary statement of the Trinity doctrine. But where Nicaea ends, the chapter continues, and the outline records how it closes the gap the conciliar asymmetry left open.
+
+- [[grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618]] — Grudem states the doctrine in one sentence that opposes the Arian reading with a contradictory proposition (each person is fully God) but opposes the modalist reading with one word (persons); the outline for the chapter shows how the full exposition closes the gap the creed left open.
+
 ## The Jewish verdict on Islam, added 2026-09-04: the third leg of the triangle
 
 Inquiry 202609041842 asked why the Jewish-Muslim leg was empty while the other
@@ -579,6 +585,7 @@ says what kind of thing the Ways have shown to exist.
 - [[no-composition-does-different-work-in-each-tradition--202609042080]]
 - [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
 - [[the-base-read-question-two-and-skipped-question-three--202609042082]]
+- [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]] — Grudem's five incommunicable-attribute definitions each deny something creaturely in God and then fence the denial at the point where God acts or feels differently; a new setting on the simplicity axis determined by what the denial preserves rather than by how far an analysis of composition runs.
 
 ## Sources behind these notes
 

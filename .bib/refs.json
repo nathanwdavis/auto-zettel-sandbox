@@ -2624,33 +2624,33 @@
     "type": "book"
   },
   {
-    "container-title": "Lesson outlines accompanying Wayne Grudem's Systematic Theology lectures (waynegrudem.com)",
+    "URL": "https://www.waynegrudem.com/test/2006/082706.pdf",
+    "container-title": "Lesson outlines accompanying Wayne Grudem’s Systematic Theology lectures (waynegrudem.com)",
     "genre": "lesson outline",
     "id": "202609050601",
     "issued": {
       "date-parts": [
         [
-          2009
+          2006
         ]
       ]
     },
     "title": "Chapter 14: God in Three Persons: The Trinity",
-    "type": "document",
-    "url": "https://www.waynegrudem.com/test/2006/082706.pdf"
+    "type": "document"
   },
   {
-    "container-title": "Lesson outlines accompanying Wayne Grudem's Systematic Theology lectures (waynegrudem.com)",
+    "URL": "https://www.waynegrudem.com/test/2006/032606.pdf",
+    "container-title": "Lesson outlines accompanying Wayne Grudem’s Systematic Theology lectures (waynegrudem.com)",
     "genre": "lesson outline",
     "id": "202609050602",
     "issued": {
       "date-parts": [
         [
-          2009
+          2006
         ]
       ]
     },
     "title": "Chapter 11: The Character of God: \"Incommunicable\" Attributes",
-    "type": "document",
-    "url": "https://www.waynegrudem.com/test/2006/032606.pdf"
+    "type": "document"
   }
 ]

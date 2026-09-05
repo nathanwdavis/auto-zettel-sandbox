@@ -10,22 +10,22 @@ tags: []
 source_tier: reputable-secondary
 scripture: false
 csl_json:
-  id: ‘202609050601’
+  id: '202609050601'
   type: document
-  title: ‘Chapter 14: God in Three Persons: The Trinity’
+  title: 'Chapter 14: God in Three Persons: The Trinity'
   issued:
     date-parts:
     - - 2006
-  url: https://www.waynegrudem.com/test/2006/082706.pdf
+  URL: https://www.waynegrudem.com/test/2006/082706.pdf
   genre: lesson outline
   container-title: Lesson outlines accompanying Wayne Grudem’s Systematic Theology
     lectures (waynegrudem.com)
-chicago_note: ‘”Chapter 14: God in Three Persons: The Trinity,” in Lesson Outlines
+chicago_note: '“Chapter 14: God in Three Persons: The Trinity,” in Lesson Outlines
   Accompanying Wayne Grudem’s Systematic Theology Lectures (Waynegrudem.com), lesson
-  outline, 2006, https://www.waynegrudem.com/test/2006/082706.pdf.’
-chicago_bib: ‘”Chapter 14: God in Three Persons: The Trinity.” In Lesson Outlines
+  outline, 2006, https://www.waynegrudem.com/test/2006/082706.pdf.'
+chicago_bib: '“Chapter 14: God in Three Persons: The Trinity.” In Lesson Outlines
   Accompanying Wayne Grudem’s Systematic Theology Lectures (Waynegrudem.com), lesson
-  outline. 2006. https://www.waynegrudem.com/test/2006/082706.pdf.’
+  outline. 2006. https://www.waynegrudem.com/test/2006/082706.pdf.'
 citation_renderer: pandoc
 verification:
   method: raw-capture

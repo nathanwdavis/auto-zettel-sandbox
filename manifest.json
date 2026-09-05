@@ -461,8 +461,10 @@
       "path": "inquiries/how-does-grudem-s-systematic-theology-2nd-ed-2020-frame-the--202609050253.md",
       "priority": "normal",
       "question": "How does Grudem's Systematic Theology (2nd ed., 2020) frame the doctrine of the Trinity ('God in Three Persons') in its Doctrine of God chapters, and how does that connect to the divine-simplicity and internal-distinction threads already in the theology cluster? Ground resulting notes in Grudem via a locator on reference grudem-systematic-theology--202609050158, excerpts cross-checked per the Housel standard, no full text.",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+      ],
+      "status": "answered",
       "updated": "2026-09-05"
     },
     {
@@ -558,8 +560,10 @@
       "path": "inquiries/what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252.md",
       "priority": "normal",
       "question": "What does Grudem's Systematic Theology (2nd ed., 2020) argue about the divine attributes in its Doctrine of God chapters (the incommunicable and communicable attributes), and how does that bear on the existing Abrahamic-attributes / same-God cluster in this repo? Ground any resulting notes in Grudem via a chapter/page locator on reference grudem-systematic-theology--202609050158, capturing only narrow cross-checked excerpts (Housel precedent), never full text.",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+      ],
+      "status": "answered",
       "updated": "2026-09-05"
     },
     {
@@ -2591,7 +2595,7 @@
       "path": "literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md",
       "slug": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement",
       "tags": [],
-      "title": "Grudem's Chapter 14 outline maps each trinitarian error to one of the three denied statements",
+      "title": "The lesson outline of Grudem's chapter 14 names the denied statement for two of the three errors",
       "type": "literature",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md"
