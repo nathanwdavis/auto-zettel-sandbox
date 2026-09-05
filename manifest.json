@@ -326,6 +326,10 @@
     "202609050618": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
     "202609050645": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
     "202609050646": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
+    "202609051935": "al-ash-ari-al-ibana-klein-translation--202609051935",
+    "202609051940": "al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940",
+    "202609051941": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941",
+    "202609051950": "ibn-kullab-formula-origin-unconfirmed--202609051950",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -618,7 +622,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 331,
+  "note_count": 335,
   "notes": [
     {
       "id": "202609041020",
@@ -1073,6 +1077,35 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202609051940",
+      "key": "al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-ash-ari-al-ibana-klein-translation--202609051935"
+        }
+      ],
+      "path": "literature/al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940.md",
+      "slug": "al-ash-ari-affirms-god-eternally-knowing-powerful-living",
+      "tags": [],
+      "title": "Al-Ash'ari in al-Ibana: God has always had the attributes of primacy, power, knowledge",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940.md"
+    },
+    {
+      "id": "202609051935",
+      "key": "al-ash-ari-al-ibana-klein-translation--202609051935",
+      "links": [],
+      "path": "reference/al-ash-ari-al-ibana-klein-translation--202609051935.md",
+      "slug": "al-ash-ari-al-ibana-klein-translation",
+      "tags": [],
+      "title": "Al-Ibanah 'an Usul ad-Diyanah: The Elucidation of Islam's Foundation",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-ash-ari-al-ibana-klein-translation--202609051935.md"
     },
     {
       "id": "202609040808",
@@ -2931,6 +2964,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md"
     },
     {
+      "id": "202609051950",
+      "key": "ibn-kullab-formula-origin-unconfirmed--202609051950",
+      "links": [],
+      "path": "fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md",
+      "slug": "ibn-kullab-formula-origin-unconfirmed",
+      "tags": [],
+      "title": "Unconfirmed: Ibn Kullab as originator of 'neither He nor other' formula",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md"
+    },
+    {
       "id": "202609041600",
       "key": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600",
       "links": [],
@@ -3810,6 +3855,23 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155.md"
+    },
+    {
+      "id": "202609051941",
+      "key": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-ash-ari-al-ibana-klein-translation--202609051935"
+        }
+      ],
+      "path": "literature/mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941.md",
+      "slug": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes",
+      "tags": [],
+      "title": "Mu'tazili position as reported by al-Ash'ari in al-Ibana: deny attributes and collapse them into knowing",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941.md"
     },
     {
       "id": "202608311930",

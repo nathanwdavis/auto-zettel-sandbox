@@ -2652,5 +2652,38 @@
     },
     "title": "Chapter 11: The Character of God: \"Incommunicable\" Attributes",
     "type": "document"
+  },
+  {
+    "author": [
+      {
+        "family": "al-Ash'ari",
+        "given": "Abu al-Hasan 'Ali ibn Isma'il"
+      },
+      {
+        "family": "Klein",
+        "given": "Walter C."
+      }
+    ],
+    "id": "202609051935",
+    "issued": {
+      "date-parts": [
+        [
+          1940
+        ]
+      ]
+    },
+    "number-of-pages": 143,
+    "publisher": "American Oriental Society",
+    "publisher-place": "New Haven, CT",
+    "series": "American Oriental Series",
+    "title": "Al-Ibanah 'an Usul ad-Diyanah: The Elucidation of Islam's Foundation",
+    "translator": [
+      {
+        "family": "Klein",
+        "given": "Walter C."
+      }
+    ],
+    "type": "book",
+    "volume": 19
   }
 ]
