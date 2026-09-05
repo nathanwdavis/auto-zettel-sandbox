@@ -34,7 +34,7 @@ links:
 - target_id: the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745
   relation: elaborates
 created: '2026-09-01'
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 The Abrahamic disagreement about God is often located at the question of
 whether the one God admits real internal distinction, sorted by tradition --
@@ -113,7 +113,9 @@ remain uncaptured; the gap is recorded in INBOX.
 the merits, from primary texts on both sides, and it does not go the way the
 "axis" framing suggests. The two readings Kabbalah left open — sefirot as
 aspects relative to God's actions, sefirot as instruments distinct from His
-essence — are the two the fourth-century councils ruled out (see
+essence — are excluded unequally: the creed of 325 anathematizes the second in
+its own words, and only a later tradition of interpretation excludes the first
+(see
 [[the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730]]),
 and the deeper divergence is not plurality but exhaustiveness: the sefirot have
 a One outside them who is not one of them, and the persons have no fourth (see

@@ -3868,7 +3868,8 @@ tells every cycle to append one line per step and says nothing about how.
 
 ## 2026-09-04 — Correction owed, from cycle 202609041841: permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730 states its left-hand leg as 'to the letter, the position Hodge reports the councils as condemning'. The conciliar texts do not condemn the ad extra reading in any creed or canon; only a bare party name ('that of the Sabellians', Canon I of 381) is conciliar, and the doctrinal content comes from Percival's editor quoting William Bright in 1900. permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012 records the corrected version and links back, but the 202609041730 note itself has NOT been rewritten -- a later run should either soften its left-hand leg or reground it on Tertullian's Against Praxeas and Dionysius of Alexandria, which is where the fourth-century rejection of modalism actually lives.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** Softened the left-hand leg of permanent/202609041730 to reflect that Hodge's report of what the councils condemned belongs to a nineteenth-century tradition of interpretation, while the church's actual rejection of modalism is earlier (Tertullian, Dionysius) and outside the conciliar record. The conciliar texts do not condemn the *ad extra* reading — only a bare party name appears in Canon I of 381, with doctrinal content supplied by the nineteenth-century reporters, Hodge (1872) and Bright (1882) as quoted by Percival's 1900 excursus. Rewritten the comparison section to emphasize the asymmetry: the Arian/vessels reading is ruled out by Nicaea's creed in its own words; the Sabellian/aspects reading is ruled out by the rejection of modalism outside the conciliar record (Tertullian, Dionysius, Arian complaints) and then supplied to the conciliar record by Hodge and Bright. Updated the title to say "one ruled out by the Nicene creed and one only by tradition." Added typed links to permanent/202609042010 (nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one) and permanent/202609042011 (the-councils-condemned-a-party-and-hodge-supplies-the-doctrine) with relation "elaborates".
 - **priority:** normal
 - **asked_by:** human
 
@@ -3892,7 +3893,8 @@ tells every cycle to append one line per step and says nothing about how.
 
 ## 2026-09-04 — Not done by cycle 202609041844, and it is the leg the inquiry named first: the Ash'ari/Mu'tazili dispute over whether the divine attributes are eternal and distinct from the essence. The cycle answered the simplicity question from Jewish and Christian primary sources plus a survey; no Islamic primary was located in open access within budget (al-Ash'ari's Kitab al-Luma' and 'Abd al-Jabbar's Sharh al-usul al-khamsa were not found in a capturable English translation). The term 'eternity' still appears in no note in this base. The Islamic leg matters more than a third example would: it is the tradition that ran the attributes dispute HARDEST, and permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081 predicts where it should land (a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'). That prediction is testable and untested. Second lead, weaker but cheap: the Athanasius claim in that note rests on the SEP entry citing Wedgeworth 2019 and declining to pursue it -- reading Athanasius' Contra Arianos directly would either ground it or remove it.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
+- **worked 2026-09-05, both legs:** the Athanasius half is ANSWERED; the Ash'ari/Mu'tazili half is worked and still open. See the two dated blocks below.
 - **priority:** normal
 - **asked_by:** human
 
@@ -3972,8 +3974,229 @@ report says otherwise, and the discrepancy has not been chased down.
 
 ## 2026-09-05 — Grudem, Systematic Theology 2nd ed. (2020) — chs. 12–15 (the Doctrine of God cluster: existence, knowability, incommunicable and communicable attributes, and the Trinity) are now citable via the reference note grudem-systematic-theology--202609050158, verified from Open Library metadata (ISBN 9780310517979). No chapter text was captured (copyright; personal-reading license only) and the captured TOC carries no chapter numbers, so numbered chapter titles are deliberately NOT asserted. Future expansion: when a specific claim is cited, write own-words literature notes with a locator (e.g. chapter/page) on the Grudem reference, then distil permanent notes — following the Housel copyrighted-book precedent (metadata + narrow cross-checked excerpts only, no full text). Open inquiries have been filed to queue this work, especially where Grudem's treatment of the divine attributes and the Trinity bears on the existing Abrahamic-attributes / same-God theology cluster.
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered        <!-- new | in-progress | answered | archived -->
+- **answer:** Done for the two Doctrine-of-God topics the inquiries named, on excerpt-only grounding; see the 2026-09-05 progress block below for what was established, what was not, and the leads left open.
 - **priority:** normal
 - **asked_by:** human
 
+- **2026-09-05 cycle progress (inquiries 202609050252 and 202609050253, both now `answered`):**
+  Two literature notes and two permanent notes on the book, grounded under the
+  Housel two-witness standard with no chapter text captured:
+  [[grudem-divine-attributes-incommunicable-and-communicable--202609050547]] and
+  [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]]
+  (attributes), [[grudem-trinity-three-persons-one-god--202609050548]] and
+  [[grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618]]
+  (Trinity; title in frontmatter now says a lesson outline of the chapter prints
+  the proposition that cancels the formula's asymmetry). Excerpt captures
+  raw/202609050545 and raw/202609050546 are linked from the book's reference
+  note via `excerpt_captures`. Two further sources were captured as references
+  of their own: the unattributed lesson outlines of ch. 11 and ch. 14 linked
+  from waynegrudem.com beside the lecture audio (site-dated 2006/03/26 and
+  2006/08/27; PDF metadata names Mike Langley, created 2009-03-18; NOT
+  established as Grudem's own text), [[grudem-systematic-theology-chapter-11-course-outline--202609050602]]
+  and [[grudem-systematic-theology-chapter-14-course-outline--202609050601]],
+  with literature notes 202609050646 and 202609050645.
+
+  **What is established, and only this.** Every definition sentence is
+  witnessed at FIRST-edition (1994) pagination: the five incommunicable
+  attributes at pp. 160-177 (four of them by two to four exact witnesses; the
+  omnipresence sentence by the lesson outline alone, the two blog witnesses each
+  differing at one word) and the Trinity definition at p. 226 by three
+  documents, two of them independent of the outline and both printing 1994.
+  NO witness anywhere gives a second-edition page, and the second edition's
+  chapter NUMBERS are established by nothing on file (the Open Library TOC
+  carries none). The inquiries asked about the 2020 edition; the answer is
+  therefore about a formula pinned to the 1994 text and only assumed to stand
+  unchanged in 2020. Both permanent notes say so.
+
+  **Source still needed, unchanged: the 2nd edition's text** (ISBN
+  9780310517979). Routes tried across four passes: Zondervan Academic page (no
+  preview); Unpaywall (nothing, trade-academic book); waynegrudem.com (the
+  lesson outlines above, but no chapter text); Google Books (no readable
+  preview obtained); Wayback (nothing); an archive.org record exists and was not
+  used (in copyright; house rule). What the text would settle: the 2nd-ed.
+  pagination and chapter numbers; the definitions' wording in 2020; Grudem's
+  own handling of modalism (the outline prints the proposition but the chapter
+  has not been read); the eternal-generation change between editions and the
+  retained eternal-submission position, both currently single-witness leads in
+  fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549;
+  Grudem's definition of the communicable attributes, which no capture covers.
+  A human with a copy can drop excerpts into drop/.
+
+  **A note the critic blocked and this cycle dropped, worth writing later
+  against a better case:** "two witnesses to a wording are not two witnesses to
+  an edition" -- the idea is sound (corroboration counts attach to a claim, and
+  wording and edition travel separately), but the case this cycle built it on
+  turned out not to exhibit it (the supposed second-edition label was the run's
+  own inference). It was deleted, not merged.
+
+  **Candidate rules for the skill-smith (source-access-triage), from four
+  critic passes on one stream:** (1) a witness that reproduces another
+  witness's typos, headings and page marks is a republication, not an
+  independent witness -- check before counting; (2) read a PDF's document
+  metadata (/Author, /CreationDate) and the host page's own date before calling
+  anything author-published; a file on the author's site is not thereby the
+  author's; (3) near-match means REFUSE, one word is enough ('in space' vs 'of
+  space' cost the omnipresence sentence its second witness); (4) never record
+  the run's own inference (an edition, a chapter number) in a witness's voice
+  inside raw/; (5) rung (c) of the ladder is not exhausted until the author's
+  site has been searched for lesson materials by chapter, which here sat on the
+  first page of an ordinary search.
+
 (no further detail)
+
+## 2026-09-05 — Both legs of permanent 202609042081 tested against primary texts: the Athanasius leg answered, the Islamic leg still open
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** maintenance-run (2026-09-05, second cycle)
+
+This cycle took the two legs of one note — `divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081` — rather than opening new ground.
+
+**The Athanasius leg (inquiry 202609051930): ANSWERED, and it went the opposite
+way to the run's first finding.** The note's "changes sides" claim rested on the
+SEP survey reporting, from Wedgeworth 2019 at second hand, that Athanasius
+"consistently used the doctrine of divine simplicity to argue that the Son's
+eternal Generation from the Father proved his absolute deity" — a claim the
+survey itself declines to pursue. Read directly (NPNF II.4, Robertson's
+translation, via tertullian.org), Athanasius uses simplicity **both** ways:
+it constrains the *manner* of generation at *Contra Arianos* I.28 and at the
+opening of *De Decretis* 11, it serves as a *premise* at the close of §11
+("being uncompounded in nature, He is Father of One Only Son. This is why He is
+Only-begotten") and at §22 ("But if God be simple, as He is, it follows that…
+Therefore let no one be startled on hearing that the Son of God is from the
+Essence of the Father"), and in the human-word analogy of §11 the inference runs
+backwards, reading the Father's impassibility off the Word. Notes:
+[[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]],
+literature 202609052101, 202609052102, 202609052210.
+
+**What that settles, exactly, because the run got this wrong twice before
+settling it.** §22 retires the charge that the survey's report is inaccurate as
+stated — a premise-form argument from simplicity really is there. It does NOT
+vindicate the survey: §22 concludes to the Son's being *from the essence*, the
+*homoousion*, not that eternal generation proves absolute deity, and the word
+"eternal" does not occur in it; and the survey's "**consistently**" is
+positively contradicted, since simplicity appears once in the fourteen sections
+read of *Contra Arianos* I and does three different jobs inside *De Decretis* 11
+alone. 202609042081's last paragraph now records the leg as stronger in one way
+and weaker in two. **Scope:** Robertson's 1900 English, one host, no second
+transcription of the quoted passages, no Greek consulted; *Contra Arianos*
+I.19–32 of 64 and *De Decretis* 8–32 of 32.
+
+**The Islamic leg (inquiry 202609051929): worked, still `in-progress`, and the
+prediction is UNTESTED rather than confirmed.** al-Ash'ari's *al-Ibana* is now on
+file (Klein's 1940 translation; excerpt capture only, the translation being in
+copyright; literature 202609051940 and 202609051941). It establishes that he
+affirms the attributes as real and *mutually distinct in meaning*, arguing that
+collapsing "hearing, seeing" into "knowing" is absurd, and that he refuses the
+Mu'tazili reduction. It does not answer the question, because the prediction is
+about the relation of the attributes **to the essence** and al-Ibana supplies no
+relation-term: *bila kayfa* (Klein renders it "without further inquiry")
+withholds one rather than supplying a third answer. Distinctness *among*
+attributes is not a relation *to* the essence.
+
+**Two findings for whoever takes it next.** The formula the prediction quotes,
+"neither He nor other than He", occurs **nowhere in the volume** — it is a
+doctrine of the later Ash'arite school, not of this book. And the single
+relational thing al-Ibana does say, that God's names are **not other than He**
+(p. 50), sits at the *Maimonidean* end of the axis, mildly against the predicted
+midpoint rather than toward it. The right sources are al-Ash'ari's *Maqalat
+al-Islamiyyin* (which reports Ibn Kullab), al-Baqillani, or al-Juwayni.
+Whether Ibn Kullab originated the formula is an unconfirmed lead in
+`fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950`. Sources tried and
+failed this cycle: *Kitab al-Luma'* in McCarthy's edition (archive.org record is
+lending-restricted — the landing page is metadata, not the book) and Burrell,
+"Mu'tazilites, Al-Ash'ari and Maimonides on Divine Attributes", *Veritas* 52.3
+(2007), 117–131, whose host reset the connection.
+
+## 2026-09-05 — Process, HIGH, five rules this cycle paid for across seven send-backs and four critic passes
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-05, second cycle)
+
+For the skill-smith when its cadence is due (~2026-09-08), and for
+`skills/source-access-triage`. Every one of these was a real failure this cycle,
+caught by a critic or by the orchestrator, not a hypothetical.
+
+1. **A landing page is not a book.** A capture from `archive.org/details/...`
+   of a lending-restricted item is the item's metadata page. This cycle's first
+   "Kitab al-Luma' capture" was 6,497 characters of "Free Download, Borrow, and
+   Streaming". Check a capture's *length and content* against what the work
+   should be before citing it.
+2. **A byte count is not a check that a capture contains the passage.** The
+   orchestrator told a researcher to keep two captures as corroborating
+   witnesses because they held ~30,500 and ~16,300 characters of real text; the
+   researcher checked and refuted it — they held only front matter and opening
+   sections and did not reach the quoted passages at all. Search the capture for
+   the passage. Length proves nothing.
+3. **Front matter is not the work.** Twice this cycle a run quoted the
+   *translator's introduction* and attributed it to the author — first
+   transparently ("Al-As'ari probably puts the matter accurately when he says…"
+   rendered as "Al-Ash'ari reports that…"), then subtly, when the passages
+   turned out to be a creed from a *different work* (the *Maqalat*) quoted
+   inside the introduction, while the translation itself did not begin for
+   another twelve pages. Locate the work's own text before quoting from a
+   volume, and label each passage's genre in the capture.
+4. **A checksum nobody can recompute is worse than none**, and a file cannot
+   contain its own checksum. Both happened. Put the excerpt digest in the
+   reference note, and if a source digest cannot be reproduced, say so in the
+   note rather than leaving a number that invites false confidence.
+5. **Never alter anything inside quotation marks.** A capture "corrected"
+   Klein's bracketed `[p. 46]` to `[p. 100]` to agree with where the passage
+   sits in the English — but Klein's brackets track the *Arabic* edition's
+   pagination. A silent substitution inside a quotation is the one thing a
+   capture may never do, however small it looks.
+
+One more, aimed at the orchestrator rather than the researchers: **an
+instruction built on an unverified inference is the same defect the base
+forbids its researchers**, and this cycle produced one (rule 2 above) and a
+premature conclusion logged as fact (that the SEP survey was "inaccurate as
+stated", withdrawn a few hours later when the critic read past where the
+researcher had stopped). Both are corrected in `log.md` rather than quietly
+fixed.
+
+## 2026-09-05 — Evidence, HIGH: a committed capture does not contain the passage three notes cite it for, and nobody noticed for two days
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-05, second cycle, critic finding)
+
+`raw/202609042072-sep-divine-simplicity-excerpt.txt` **ends at the words
+"1. Motivation"** — the start of section 1 — while its own header claims it runs
+through "its placement in the Summa, and the closing remark on the Trinity, down
+to the start of section 2." None of "Athanasius", "Wedgeworth", "consistently",
+the Summa Question-3 sentence, nor "lies beyond the scope" occurs anywhere in
+`raw/`; they appear only in note prose.
+
+**What rests on it.** `literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077`
+quotes four passages from that capture, and through it
+`permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081`
+and this cycle's `permanent/in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320`
+both turn on the survey's wording — including the single word
+"**consistently**", which this cycle spent four researcher passes and two critic
+reviews establishing is not supported by Athanasius. So the chain of custody for
+the word ran through a capture that does not contain it.
+
+**Groundedness is not affected, and that is luck rather than method.** The critic
+checked all four quotations directly against the live SEP entry and every one is
+verbatim-correct. Had the entry been revised in the interim — SEP entries are
+revised — there would have been no way to tell from this repository.
+
+**Why it was not fixed in place.** `raw/` is immutable and that capture was
+committed on 2026-09-04. The repair is a NEW capture of the Motivation section,
+attached to `reference/vallicella-divine-simplicity-sep--202609042072` as an
+`excerpt_captures` entry (the Housel and Grudem precedent), plus a line in the
+reference note body recording that the original capture's header overstates its
+extent. A future cycle should also check whether the same truncation affected
+other captures made by that run on 2026-09-04, since the failure looks like a
+fetch that stopped early while the header was written from intent rather than
+from the file.
+
+**The general rule this suggests, for the skill-smith:** a capture's header
+describes what was *meant* to be captured; only the bytes describe what *was*.
+After `fetch_source` returns, grep the capture for a distinctive phrase from the
+passage you intend to cite, before writing the note that cites it. This is the
+same class as the "byte count is not a check" rule filed above, and it is the
+second time in one cycle that a capture's extent went unverified.
+

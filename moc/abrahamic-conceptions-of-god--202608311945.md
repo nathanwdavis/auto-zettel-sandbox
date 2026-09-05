@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-05'
 ---
 # Abrahamic conceptions of God
 
@@ -470,12 +470,13 @@ The dispute the earlier notes assumed turns out to be real and named — Cordove
 opens by calling it "a great confusion fallen among the later kabbalists" — and
 Kabbalah's most influential answer refuses to choose, splitting the ten into
 inner sefirot that are essence and outer sefirot that are vessels. Set beside
-the conciliar decisions, the two options Kabbalah left open are the two
-Christianity shut: sefirot as aspects relative to God's actions has the shape of
-Sabellianism, sefirot as instruments of another essence the shape of Arianism.
-And the divergence that survives either reading is not plurality but
-exhaustiveness — the sefirot have a One outside them who is not one of them,
-where the persons have no fourth.
+the conciliar decisions, one of the two options Kabbalah left open is closed by
+the Nicene creed in its own words — sefirot as instruments of another essence
+has the shape of Arianism — while the other is excluded only by a later
+tradition of interpretation: sefirot as aspects relative to God's actions has
+the shape of Sabellianism. And the divergence that survives either reading is
+not plurality but exhaustiveness — the sefirot have a One outside them who is
+not one of them, where the persons have no fourth.
 
 - [[whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720]]
 - [[cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725]]
@@ -517,6 +518,12 @@ the other.
 - [[nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010]]
 - [[the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011]]
 - [[the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012]]
+
+### Grudem's formula: the same asymmetry reappears, added 2026-09-05
+
+Seventeen centuries after Nicaea, the same asymmetry—one rival excluded by proposition, the other by a single word—recurs in Grudem's summary statement of the Trinity doctrine. But where Nicaea ends, the chapter continues, and the outline records how it closes the gap the conciliar asymmetry left open.
+
+- [[grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618]] — Grudem states the doctrine in one sentence that opposes the Arian reading with a contradictory proposition (each person is fully God) but opposes the modalist reading with one word (persons); the outline for the chapter shows how the full exposition closes the gap the creed left open.
 
 ## The Jewish verdict on Islam, added 2026-09-04: the third leg of the triangle
 
@@ -569,16 +576,20 @@ it at six kinds of metaphysical composition and does not reach the persons.
 
 That relocates this map's fault line. The monotheisms are not divided by whether
 oneness admits internal distinction; they are all satisfying one constraint, and
-divided over its reach. The doctrine even changes sides -- it has been used to
-argue *for* the Son's deity, not only against internal plurality.
+divided over its reach. The doctrine even changes sides -- in Athanasius the same denial of
+composition that elsewhere excludes internal distinction is the premise that the
+Son is from the Father's own essence, not only an argument against internal
+plurality.
 
 This section also closes a gap in the natural-theology branch above: the base
 read Summa I q.2 for the Five Ways and never read q.3, which is where Aquinas
 says what kind of thing the Ways have shown to exist.
 
 - [[no-composition-does-different-work-in-each-tradition--202609042080]]
+- [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]] — Simplicity works as constraint on generation, as premise for distinction, and as inference from impassibility, all within the same author — showing that where the doctrine stands in an argument is a property of the passage, not of the tradition.
 - [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
 - [[the-base-read-question-two-and-skipped-question-three--202609042082]]
+- [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]] — Grudem's five incommunicable-attribute definitions each deny something creaturely in God and then fence the denial at the point where God acts or feels differently; a new setting on the simplicity axis determined by what the denial preserves rather than by how far an analysis of composition runs.
 
 ## Sources behind these notes
 

@@ -317,6 +317,26 @@
     "202609042340": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
     "202609042345": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
     "202609050158": "grudem-systematic-theology--202609050158",
+    "202609050547": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
+    "202609050548": "grudem-trinity-three-persons-one-god--202609050548",
+    "202609050549": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
+    "202609050601": "grudem-systematic-theology-chapter-14-course-outline--202609050601",
+    "202609050602": "grudem-systematic-theology-chapter-11-course-outline--202609050602",
+    "202609050612": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612",
+    "202609050618": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
+    "202609050645": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
+    "202609050646": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
+    "202609051935": "al-ash-ari-al-ibana-klein-translation--202609051935",
+    "202609051940": "al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940",
+    "202609051941": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941",
+    "202609051950": "ibn-kullab-formula-origin-unconfirmed--202609051950",
+    "202609052014": "athanasius-orationes-contra-arianos-i--202609052014",
+    "202609052015": "athanasius-de-decretis--202609052015",
+    "202609052101": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101",
+    "202609052102": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102",
+    "202609052103": "access-route-notes-on-npnf-sources--202609052103",
+    "202609052210": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
+    "202609052320": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -325,6 +345,15 @@
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
   "inquiries": [
+    {
+      "key": "do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929",
+      "path": "inquiries/do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929.md",
+      "priority": "high",
+      "question": "Do the Ash'ari and Mu'tazili positions on the divine attributes land where permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'?",
+      "result_notes": [],
+      "status": "in-progress",
+      "updated": "2026-09-05"
+    },
     {
       "key": "do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841",
       "path": "inquiries/do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841.md",
@@ -352,6 +381,17 @@
       ],
       "status": "answered",
       "updated": "2026-09-04"
+    },
+    {
+      "key": "does-athanasius-argue-from-divine-simplicity-to-the-son-s--202609051930",
+      "path": "inquiries/does-athanasius-argue-from-divine-simplicity-to-the-son-s--202609051930.md",
+      "priority": "normal",
+      "question": "Does Athanasius argue from divine simplicity to the Son's eternal generation, as the SEP survey reports at second hand?",
+      "result_notes": [
+        "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320"
+      ],
+      "status": "answered",
+      "updated": "2026-09-05"
     },
     {
       "key": "does-the-same-god-dispute-survive-contact-with-an-actual--202609041839",
@@ -452,8 +492,10 @@
       "path": "inquiries/how-does-grudem-s-systematic-theology-2nd-ed-2020-frame-the--202609050253.md",
       "priority": "normal",
       "question": "How does Grudem's Systematic Theology (2nd ed., 2020) frame the doctrine of the Trinity ('God in Three Persons') in its Doctrine of God chapters, and how does that connect to the divine-simplicity and internal-distinction threads already in the theology cluster? Ground resulting notes in Grudem via a locator on reference grudem-systematic-theology--202609050158, excerpts cross-checked per the Housel standard, no full text.",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+      ],
+      "status": "answered",
       "updated": "2026-09-05"
     },
     {
@@ -549,8 +591,10 @@
       "path": "inquiries/what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252.md",
       "priority": "normal",
       "question": "What does Grudem's Systematic Theology (2nd ed., 2020) argue about the divine attributes in its Doctrine of God chapters (the incommunicable and communicable attributes), and how does that bear on the existing Abrahamic-attributes / same-God cluster in this repo? Ground any resulting notes in Grudem via a chapter/page locator on reference grudem-systematic-theology--202609050158, capturing only narrow cross-checked excerpts (Housel precedent), never full text.",
-      "result_notes": [],
-      "status": "new",
+      "result_notes": [
+        "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+      ],
+      "status": "answered",
       "updated": "2026-09-05"
     },
     {
@@ -605,7 +649,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 322,
+  "note_count": 342,
   "notes": [
     {
       "id": "202609041020",
@@ -934,7 +978,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-01",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -973,6 +1017,18 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md"
+    },
+    {
+      "id": "202609052103",
+      "key": "access-route-notes-on-npnf-sources--202609052103",
+      "links": [],
+      "path": "fleeting/access-route-notes-on-npnf-sources--202609052103.md",
+      "slug": "access-route-notes-on-npnf-sources",
+      "tags": [],
+      "title": "",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/access-route-notes-on-npnf-sources--202609052103.md"
     },
     {
       "id": "202609040320",
@@ -1060,6 +1116,35 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202609051940",
+      "key": "al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-ash-ari-al-ibana-klein-translation--202609051935"
+        }
+      ],
+      "path": "literature/al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940.md",
+      "slug": "al-ash-ari-affirms-god-eternally-knowing-powerful-living",
+      "tags": [],
+      "title": "Al-Ash'ari in al-Ibana: God has always had the attributes of primacy, power, knowledge",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940.md"
+    },
+    {
+      "id": "202609051935",
+      "key": "al-ash-ari-al-ibana-klein-translation--202609051935",
+      "links": [],
+      "path": "reference/al-ash-ari-al-ibana-klein-translation--202609051935.md",
+      "slug": "al-ash-ari-al-ibana-klein-translation",
+      "tags": [],
+      "title": "Al-Ibanah 'an Usul ad-Diyanah: The Elucidation of Islam's Foundation",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-ash-ari-al-ibana-klein-translation--202609051935.md"
     },
     {
       "id": "202609040808",
@@ -1383,6 +1468,85 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q2--202609011201.md"
+    },
+    {
+      "id": "202609052015",
+      "key": "athanasius-de-decretis--202609052015",
+      "links": [],
+      "path": "reference/athanasius-de-decretis--202609052015.md",
+      "slug": "athanasius-de-decretis",
+      "tags": [],
+      "title": "Athanasius, De Decretis Nicaenae Synodi (Defence of the Nicene Definition)",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/athanasius-de-decretis--202609052015.md"
+    },
+    {
+      "id": "202609052210",
+      "key": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        }
+      ],
+      "path": "literature/athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210.md",
+      "slug": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence",
+      "tags": [],
+      "title": "In De Decretis 22, simplicity premises the inference that the Son is from the Father's essence",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210.md"
+    },
+    {
+      "id": "202609052102",
+      "key": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        }
+      ],
+      "path": "literature/athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102.md",
+      "slug": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation",
+      "tags": [],
+      "title": "In De Decretis, Athanasius contrasts human generation (composite, partitive) with divine generation (uncompounded, without partition)",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102.md"
+    },
+    {
+      "id": "202609052101",
+      "key": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-orationes-contra-arianos-i--202609052014"
+        }
+      ],
+      "path": "literature/athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101.md",
+      "slug": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation",
+      "tags": [],
+      "title": "In Discourse I sections 19-32, divine simplicity constrains how generation must be understood; premise-form arguments appear elsewhere",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101.md"
+    },
+    {
+      "id": "202609052014",
+      "key": "athanasius-orationes-contra-arianos-i--202609052014",
+      "links": [],
+      "path": "reference/athanasius-orationes-contra-arianos-i--202609052014.md",
+      "slug": "athanasius-orationes-contra-arianos-i",
+      "tags": [],
+      "title": "Athanasius, Orationes contra Arianos I (First Discourse Against the Arians)",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/athanasius-orationes-contra-arianos-i--202609052014.md"
     },
     {
       "id": "202608311038",
@@ -2132,6 +2296,34 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-orationes-contra-arianos-i--202609052014"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320"
+        },
+        {
           "relation": "supports",
           "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
         },
@@ -2153,7 +2345,7 @@
       "tags": [],
       "title": "The monotheisms divide over the scope of simplicity, not over plurality",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081.md"
     },
     {
@@ -2206,6 +2398,10 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "supports",
+          "target_id": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+        },
+        {
           "relation": "source",
           "target_id": "nae-statement-of-faith--202608311920"
         },
@@ -2219,7 +2415,7 @@
       "tags": [],
       "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
@@ -2464,6 +2660,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
     },
     {
+      "id": "202609050549",
+      "key": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
+      "links": [],
+      "path": "fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md",
+      "slug": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs",
+      "tags": [],
+      "title": "",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md"
+    },
+    {
+      "id": "202609050547",
+      "key": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md",
+      "slug": "grudem-divine-attributes-incommunicable-and-communicable",
+      "tags": [],
+      "title": "Grudem distinguishes God's incommunicable attributes from those God shares with human creation",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md"
+    },
+    {
       "id": "202609050158",
       "key": "grudem-systematic-theology--202609050158",
       "links": [],
@@ -2474,6 +2699,167 @@
       "type": "reference",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
+    },
+    {
+      "id": "202609050602",
+      "key": "grudem-systematic-theology-chapter-11-course-outline--202609050602",
+      "links": [],
+      "path": "reference/grudem-systematic-theology-chapter-11-course-outline--202609050602.md",
+      "slug": "grudem-systematic-theology-chapter-11-course-outline",
+      "tags": [],
+      "title": "Chapter 11: The Character of God - \"Incommunicable\" Attributes - Lesson Outline",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-11-course-outline--202609050602.md"
+    },
+    {
+      "id": "202609050601",
+      "key": "grudem-systematic-theology-chapter-14-course-outline--202609050601",
+      "links": [],
+      "path": "reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md",
+      "slug": "grudem-systematic-theology-chapter-14-course-outline",
+      "tags": [],
+      "title": "Chapter 14: God in Three Persons: The Trinity - Lesson Outline",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md"
+    },
+    {
+      "id": "202609050548",
+      "key": "grudem-trinity-three-persons-one-god--202609050548",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-trinity-three-persons-one-god--202609050548.md",
+      "slug": "grudem-trinity-three-persons-one-god",
+      "tags": [],
+      "title": "Grudem defines the Trinity as God eternally existing as three distinct fully-divine persons in one God",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-trinity-three-persons-one-god--202609050548.md"
+    },
+    {
+      "id": "202609050646",
+      "key": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-11-course-outline--202609050602"
+        }
+      ],
+      "path": "literature/grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646.md",
+      "slug": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity",
+      "tags": [],
+      "title": "Grudem's Chapter 11 outline lists five incommunicable attributes with Unity glossed as Simplicity",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646.md"
+    },
+    {
+      "id": "202609050645",
+      "key": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-14-course-outline--202609050601"
+        }
+      ],
+      "path": "literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md",
+      "slug": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement",
+      "tags": [],
+      "title": "The lesson outline of Grudem's chapter 14 names the denied statement for two of the three errors",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645.md"
+    },
+    {
+      "id": "202609050612",
+      "key": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-11-course-outline--202609050602"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "no-composition-does-different-work-in-each-tradition--202609042080"
+        }
+      ],
+      "path": "permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md",
+      "slug": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts",
+      "tags": [],
+      "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
+      "type": "permanent",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
+    },
+    {
+      "id": "202609050618",
+      "key": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology-chapter-14-course-outline--202609050601"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-trinity-three-persons-one-god--202609050548"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012"
+        }
+      ],
+      "path": "permanent/grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618.md",
+      "slug": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word",
+      "tags": [],
+      "title": "Grudem's formula carries the creed's asymmetry, and a lesson outline of his chapter prints the proposition that cancels it",
+      "type": "permanent",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618.md"
     },
     {
       "id": "202609040345",
@@ -2720,6 +3106,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md"
     },
     {
+      "id": "202609051950",
+      "key": "ibn-kullab-formula-origin-unconfirmed--202609051950",
+      "links": [],
+      "path": "fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md",
+      "slug": "ibn-kullab-formula-origin-unconfirmed",
+      "tags": [],
+      "title": "Unconfirmed: Ibn Kullab as originator of 'neither He nor other' formula",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md"
+    },
+    {
       "id": "202609041600",
       "key": "ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600",
       "links": [],
@@ -2730,6 +3128,47 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-miftah-sharh-al-azhar-vol-4-on-the-unbelieving-wife--202609041600.md"
+    },
+    {
+      "id": "202609052320",
+      "key": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101"
+        },
+        {
+          "relation": "source",
+          "target_id": "athanasius-orationes-contra-arianos-i--202609052014"
+        },
+        {
+          "relation": "supports",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        }
+      ],
+      "path": "permanent/in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320.md",
+      "slug": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument",
+      "tags": [],
+      "title": "In Athanasius, simplicity is not on one side of the argument about internal distinction",
+      "type": "permanent",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320.md"
     },
     {
       "id": "202609040515",
@@ -2824,7 +3263,7 @@
       ],
       "title": "Internal plurality is not what divides the monotheisms",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md"
     },
     {
@@ -3599,6 +4038,23 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/mueller-and-oppenheimer-the-pen-is-mightier-than-the-keyboard--202609040155.md"
+    },
+    {
+      "id": "202609051941",
+      "key": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "al-ash-ari-al-ibana-klein-translation--202609051935"
+        }
+      ],
+      "path": "literature/mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941.md",
+      "slug": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes",
+      "tags": [],
+      "title": "Mu'tazili position as reported by al-Ash'ari in al-Ibana: deny attributes and collapse them into knowing",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941.md"
     },
     {
       "id": "202608311930",
@@ -6969,6 +7425,10 @@
           "target_id": "chalcedon-defines-the-natures-in-christ-and-not-the-persons-in-god--202609042003"
         },
         {
+          "relation": "analogous",
+          "target_id": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
+        },
+        {
           "relation": "elaborates",
           "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
         },
@@ -6994,7 +7454,7 @@
       "tags": [],
       "title": "The sefirot comparison keeps its Arian leg and loses its Sabellian one",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012.md"
     },
     {
@@ -7390,8 +7850,16 @@
       "key": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077",
       "links": [
         {
+          "relation": "shared-concept",
+          "target_id": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210"
+        },
+        {
           "relation": "supports",
           "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320"
         },
         {
           "relation": "supports",
@@ -7407,7 +7875,7 @@
       "tags": [],
       "title": "The survey puts the doctrine in four traditions and reports simplicity used as an argument for the Trinity",
       "type": "literature",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077.md"
     },
     {
@@ -7464,6 +7932,14 @@
           "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
         },
         {
+          "relation": "elaborates",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
+        },
+        {
           "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
         },
@@ -7477,9 +7953,9 @@
       "tags": [
         "contested"
       ],
-      "title": "The two kabbalistic readings of the sefirot are the two readings the councils ruled out",
+      "title": "The two kabbalistic readings align with one ruled out by the Nicene creed and one only by tradition",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md"
     },
     {

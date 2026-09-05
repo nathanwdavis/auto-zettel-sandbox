@@ -13,10 +13,11 @@ question: How does Grudem's Systematic Theology (2nd ed., 2020) frame the doctri
   in the theology cluster? Ground resulting notes in Grudem via a locator on reference
   grudem-systematic-theology--202609050158, excerpts cross-checked per the Housel
   standard, no full text.
-status: new
+status: answered
 priority: normal
 asked_by: human
-result_notes: []
+result_notes:
+- grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618
 tags: []
 ---
 How does Grudem's Systematic Theology (2nd ed., 2020) frame the doctrine of the Trinity ('God in Three Persons') in its Doctrine of God chapters, and how does that connect to the divine-simplicity and internal-distinction threads already in the theology cluster? Ground resulting notes in Grudem via a locator on reference grudem-systematic-theology--202609050158, excerpts cross-checked per the Housel standard, no full text.
