@@ -448,6 +448,15 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "how-does-grudem-s-systematic-theology-2nd-ed-2020-frame-the--202609050253",
+      "path": "inquiries/how-does-grudem-s-systematic-theology-2nd-ed-2020-frame-the--202609050253.md",
+      "priority": "normal",
+      "question": "How does Grudem's Systematic Theology (2nd ed., 2020) frame the doctrine of the Trinity ('God in Three Persons') in its Doctrine of God chapters, and how does that connect to the divine-simplicity and internal-distinction threads already in the theology cluster? Ground resulting notes in Grudem via a locator on reference grudem-systematic-theology--202609050158, excerpts cross-checked per the Housel standard, no full text.",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-05"
+    },
+    {
       "key": "how-does-mainstream-evangelical-christian-theology-answer--202608311909",
       "path": "inquiries/how-does-mainstream-evangelical-christian-theology-answer--202608311909.md",
       "priority": "high",
@@ -534,6 +543,15 @@
       ],
       "status": "answered",
       "updated": "2026-09-04"
+    },
+    {
+      "key": "what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252",
+      "path": "inquiries/what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252.md",
+      "priority": "normal",
+      "question": "What does Grudem's Systematic Theology (2nd ed., 2020) argue about the divine attributes in its Doctrine of God chapters (the incommunicable and communicable attributes), and how does that bear on the existing Abrahamic-attributes / same-God cluster in this repo? Ground any resulting notes in Grudem via a chapter/page locator on reference grudem-systematic-theology--202609050158, capturing only narrow cross-checked excerpts (Housel precedent), never full text.",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-05"
     },
     {
       "key": "what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906",
