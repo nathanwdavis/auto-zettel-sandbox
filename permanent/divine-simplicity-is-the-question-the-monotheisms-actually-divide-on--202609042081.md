@@ -18,8 +18,10 @@ links:
   relation: supports
 - target_id: abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941
   relation: contradicts
+- target_id: grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612
+  relation: elaborates
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 [[abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941]]
 puts the fault line at whether oneness admits internal distinction. That is close
@@ -59,3 +61,11 @@ thing they agree about, and disagree over the reach of.
 **The strength of this note's last leg.** The Athanasius claim is a survey's
 citation of one secondary author, and the entry declines to pursue it. It is
 recorded here as what made the pattern visible, not as a demonstrated result.
+
+**Added 2026-09-05.** A fourth setting is now on file, and it is fixed on a
+different principle from the three above: Grudem's five definitions of the
+incommunicable attributes each deny something — need, change, succession of
+moments, spatial extension, division into parts — and four of the five then stop
+the denial with a clause preserving that God acts, feels, or acts differently in
+time and place, the fifth with a clause about what we see of him (see
+[[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]]).

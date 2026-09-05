@@ -1,0 +1,148 @@
+Short verbatim excerpts from Wayne Grudem, Systematic Theology,
+Chapter 11: "The Character of God: 'Incommunicable' Attributes"
+(reference: grudem-systematic-theology--202609050158).
+
+This is NOT the full chapter text -- the chapter is under copyright (Zondervan
+Academic, 2020) and is not freely republishable. These are brief direct
+quotations (five incommunicable-attribute definitions), reproduced for
+citation-grounding/commentary purposes, collected from multiple independent
+secondary sources that each quote Grudem's text verbatim. The book itself was
+not otherwise accessible to this run; see SKILL.md source-access-triage,
+rungs (a)-(e) attempted.
+
+Fetched 2026-09-05T05:20Z to 2026-09-05T05:48Z via WebFetch and WebSearch.
+
+
+Source A: https://stustation.wordpress.com/2011/06/19/systematic-theology-by-wayne-grudem-part-10/
+Edition/Locator: 1st edition (1994), pages 160-177 (based on pagination).
+Chapter: "The Character of God: 'Incommunicable' Attributes"
+Fetched 2026-09-05T05:20Z.
+
+Verbatim text, five incommunicable attributes (AS PRINTED on the page):
+  [1] Independence (p. 160): "God does not need us or the rest of creation for
+  anything, yet we and the rest of creation can glorify him and bring him joy."
+  [2] Unchangeableness (p. 163): "God is unchanging in his being, perfections,
+  purposes, and promises, yet God does act and feel emotions, and he acts and
+  feels differently in response to different situations."
+  [3] Eternity (p. 168): "God has no beginning, end, or succession of moments in
+  his own being, and he sees all time equally vividly, yet God sees events in
+  time and acts in time."
+  [4] Omnipresence (p. 173): "God does not have size or spatial dimensions and is
+  present at every point IN space with his whole being, yet God acts differently
+  in different places."
+  [5] Unity (p. 177): "God is not divided into parts, yet we see different
+  attributes of God emphasized at different times."
+
+
+Source B: https://truthstory.org/blog/the-character-of-god-incommunicable-attributes-chapter-11/
+Edition/Locator: Edition not specified. Study guide format. Chapter 11.
+Fetched 2026-09-05T05:20Z.
+
+Verbatim text, five incommunicable attributes (AS PRINTED on the page):
+  [1] Independence: "God does not need us or the rest of creation for anything,
+  yet we and the rest of creation can glorify him and bring him joy."
+  [Matches Source A exactly]
+
+  [2] Unchangeableness: "God is unchanging in his being, perfections, purposes,
+  and promises, yet God does act and feel emotions, and he acts and feels
+  differently in response to different situations."
+  [Matches Source A exactly]
+
+  [3] Eternity: "God has no beginning, end, or succession of moments in his own
+  being, and he sees all time equally vividly, yet God see events in time and
+  acts in time."
+  [NEAR-MATCH to Source A: differs by ONE WORD — "God see" (missing 's') vs
+  Source A "God sees". Per house standard, near-match is cause for refusal, not
+  harmonisation.]
+
+  [4] Omnipresence: "God does not have size or spacial dimensions and is present
+  at every point of space with his whole being, yet God acts differently in
+  different places."
+  [DIFFERS from Source A: "at every point OF space" vs Stu Station "IN space";
+  "spacial" (misspelling) vs Stu Station "spatial". Per house standard, differs at
+  two points from exact-match source.]
+
+  [5] Unity: "God is not divided into parts, yet we see different attributes of
+  God emphasized at different times."
+  [Matches Source A exactly]
+
+
+Source C: https://www.reasonablefaith.org/writings/popular-writings/sciencetheology/a-critique-of-grudems-formulation-and-defense-of-the-doctrine-of-divine-ete
+Edition/Locator: 1st edition (1994), page 168 (cited to support Craig's critique
+of Grudem's eternity definition).
+Fetched 2026-09-05T05:20Z.
+Partial quotation (Eternity attribute only):
+
+Verbatim text for Eternity:
+  "God has no beginning, end, or succession of moments in his own being, and he
+  sees all time equally vividly, yet God sees events in time and acts in time."
+  (p. 168)
+  [Matches Source A exactly]
+
+
+Source D: https://www.waynegrudem.com/test/2006/032606.pdf
+Edition/Locator: Unattributed lesson outline linked from waynegrudem.com
+(site-printed date 2006/03/26 beside 20060326WGrudem.mp3; PDF metadata /Author
+Mike Langley, created 2009-03-18). Section "B) The Incommunicable Attributes
+of God (160-180)".
+Fetched 2026-09-05T05:45Z (captured via fetch_source.py; raw file
+202609050602-grudem-systematic-theology-chapter-11-course-outline.pdf).
+
+Verbatim text, five incommunicable attributes (as printed in the outline):
+  [1] Independence (aseity/self-existence) (160-163)
+  Definition: "God does not need us or the rest of creation for anything, yet we and
+  the rest of creation can glorify him and bring him joy."
+  [Matches Source A exactly]
+
+  [2] Unchangeableness (immutability) (163-168)
+  Definition: "God is unchanging in his being, perfections, purposes, and promises,
+  yet God does act and feel emotions, and he acts and feels differently in response
+  to different situations."
+  [Matches Source A exactly]
+
+  [3] Eternity (168-173)
+  Definition: "God has no beginning, end, or succession of moments in his own being,
+  and he sees all time equally vividly, yet God sees events in time and acts in time."
+  [Matches Source A exactly]
+
+  [4] Omnipresence (173-177)
+  Definition: "God does not have size or spatial dimensions and is present at every
+  point OF space with his whole being, yet God acts differently in different places."
+  [One exact word match to Source A only; differs from Source A at "OF space" vs "IN space"]
+
+  [5] Unity (Simplicity) (177-180)
+  Definition: "God is not divided into parts, yet we see different attributes of God
+  emphasized at different times."
+  [Matches Source A exactly]
+
+
+Corroboration:
+
+INDEPENDENCE: Three independent witnesses with identical wording (Source A
+Stu Station p. 160; Source B Truth Story; Source D lesson outline p. 160).
+Two-witness standard MET.
+
+UNCHANGEABLENESS: Three independent witnesses with identical wording (Source A
+Stu Station p. 163; Source B Truth Story; Source D lesson outline p. 163).
+Two-witness standard MET.
+
+ETERNITY: Three independent witnesses with identical wording (Source A Stu
+Station p. 168; Source C Reasonable Faith p. 168; Source D lesson outline
+p. 168). Source B Truth Story differs by one word ("God see" vs "God sees").
+Two-witness standard MET by exact-match sources.
+
+OMNIPRESENCE: One exact witness (the lesson outline, Source D, p. 173). Stu
+Station (Source A, p. 173) prints "at every point IN space" (differs at one word
+from lesson outline's "OF space"); Truth Story (Source B) prints "spacial"
+(differs at one word from "spatial"). Two-witness standard NOT MET for this
+sentence: only the lesson outline provides the exact wording.
+
+UNITY: Three independent witnesses with identical wording (Source A Stu Station
+p. 177; Source B Truth Story; Source D lesson outline p. 177). Two-witness
+standard MET.
+
+SUMMARY: Four of five incommunicable attributes meet or exceed the two-witness
+standard for exact wording. Omnipresence does not: it is witnessed by the
+lesson outline only; other sources differ by one word each. 1st-edition
+pagination confirmed in Sources A, C, and D. No 2nd-edition page numbers
+confirmed in any captured witness.

@@ -20,8 +20,10 @@ links:
   relation: elaborates
 - target_id: whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720
   relation: shared-concept
+- target_id: grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618
+  relation: analogous
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 Checking the councils against their reporter does not demolish the comparison in
 [[the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730]].
