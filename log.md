@@ -1826,3 +1826,6 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-05T20:11:58Z` step 6 (merge): stream B merged into claude/sandbox-maintenance-hjxlr4. The researcher had never committed on its worktree branch, so the first merge was a silent no-op that reported success while bringing nothing across -- caught by listing the merged files rather than trusting the merge's exit status. Committed on the worktree branch, then merged; log.md conflicted (both sides append) and was resolved as a union of both sides in timestamp order, which is the only resolution an append-only file admits. Post-merge: build_manifest 337 notes, lint_citations clean, lint_links clean
 - `2026-09-05T20:12:12Z` lint_citations: PASS
 - `2026-09-05T20:12:13Z` lint_links: PASS
+- `2026-09-05T20:15:51Z` build_manifest: 338 notes indexed
+- `2026-09-05T20:16:04Z` lint_citations: PASS
+- `2026-09-05T20:16:05Z` lint_links: PASS

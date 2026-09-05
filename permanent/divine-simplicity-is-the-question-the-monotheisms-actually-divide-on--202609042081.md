@@ -20,6 +20,18 @@ links:
   relation: contradicts
 - target_id: grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612
   relation: elaborates
+- target_id: athanasius-de-decretis--202609052015
+  relation: source
+- target_id: athanasius-orationes-contra-arianos-i--202609052014
+  relation: source
+- target_id: athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210
+  relation: source
+- target_id: athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102
+  relation: source
+- target_id: athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101
+  relation: source
+- target_id: in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320
+  relation: shared-concept
 created: '2026-09-04'
 updated: '2026-09-05'
 ---
@@ -50,17 +62,44 @@ dividing question because every party is trying to satisfy the *same* constraint
 internal articulation are proposals for satisfying it, not challenges to it.
 
 The strongest evidence that this is the real axis is that the doctrine changes
-sides. On the survey's report, the Trinity has been taken as a *motive* for
-divine simplicity rather than a problem for it, Athanasius having used simplicity
-"to argue that the Son's eternal Generation from the Father proved his absolute
-deity" (see [[the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077]]).
-A constraint that one tradition uses to *rule out* internal distinction and
-another uses to *establish* it is not the thing they disagree about. It is the
-thing they agree about, and disagree over the reach of.
+sides. Athanasius argues *from* the denial of composition to an internal
+relation: "But if God be simple, as He is, it follows that in saying `God' and
+naming `Father,' we name nothing as if about Him, but signify his essence
+itself," and so "let no one be startled on hearing that the Son of God is from
+the Essence of the Father" (*De Decretis* 22; see
+[[athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210]]).
+The premise that elsewhere excludes composition is here the premise that puts the
+Son inside the Father's essence. A constraint that one tradition uses to *rule
+out* internal distinction and another uses to *establish* it is not the thing
+they disagree about. It is the thing they agree about, and disagree over the
+reach of.
 
-**The strength of this note's last leg.** The Athanasius claim is a survey's
-citation of one secondary author, and the entry declines to pursue it. It is
-recorded here as what made the pattern visible, not as a demonstrated result.
+**The strength of this note's last leg, rechecked 2026-09-05.** The Athanasius
+claim no longer rests on a survey's citation of one secondary author; the primary
+text has now been read, and it moves the leg in two directions at once. It is
+stronger, because a premise-form argument from simplicity to the Son's being from
+the Father's essence is actually there in *De Decretis* 22, and the pattern is not
+confined to that section: the close of *De Decretis* 11 grounds the Son's being
+Only-begotten in the Father's being "uncompounded in nature" (see
+[[athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102]]).
+It is also weaker in two ways. The survey's "consistently" is not supported —
+simplicity appears once in the fourteen sections read of *Contra Arianos* I, and
+what §22 concludes is the Son's origin from the essence, not that eternal
+generation proves absolute deity. And within a single father the doctrine does
+several jobs at once: at *Contra Arianos* I.28 and at the opening of
+*De Decretis* 11 it constrains the *manner* of generation rather than
+establishing anything (see
+[[athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101]]),
+and in the human-word analogy of §11 the inference runs backwards, reading the
+Father's impassibility off the Word (see
+[[athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102]]).
+So "changes sides" is a claim about what
+traditions do with the doctrine, and no author's usage will exhibit it cleanly;
+see [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]].
+Scope of the check: Robertson's 1900 English from a single host, no Greek
+consulted, *Contra Arianos* I.19–32 of 64 and *De Decretis* 8–32 of 32
+([[athanasius-de-decretis--202609052015]],
+[[athanasius-orationes-contra-arianos-i--202609052014]]).
 
 **Added 2026-09-05.** A fourth setting is now on file, and it is fixed on a
 different principle from the three above: Grudem's five definitions of the

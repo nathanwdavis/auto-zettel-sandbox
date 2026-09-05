@@ -18,8 +18,12 @@ links:
   relation: supports
 - target_id: divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081
   relation: supports
+- target_id: athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210
+  relation: shared-concept
+- target_id: in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320
+  relation: shared-concept
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-05'
 ---
 Own-words summary of [[vallicella-divine-simplicity-sep--202609042072]].
 
@@ -53,3 +57,6 @@ from the Father proved his absolute deity," and then declines to pursue it.
 That last is a lead recorded at the strength it has: a survey's report of one
 secondary author's claim about Athanasius, not a reading of Athanasius. The
 entry itself says pursuing it "lies beyond the scope."
+
+*Pointer, 2026-09-05:* that sentence has since been checked against the primary
+text — see [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]].
