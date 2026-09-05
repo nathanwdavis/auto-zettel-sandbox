@@ -576,15 +576,17 @@ it at six kinds of metaphysical composition and does not reach the persons.
 
 That relocates this map's fault line. The monotheisms are not divided by whether
 oneness admits internal distinction; they are all satisfying one constraint, and
-divided over its reach. The doctrine even changes sides -- it has been used to
-argue *for* the Son's deity, not only against internal plurality.
+divided over its reach. The doctrine even changes sides -- in Athanasius the same denial of
+composition that elsewhere excludes internal distinction is the premise that the
+Son is from the Father's own essence, not only an argument against internal
+plurality.
 
 This section also closes a gap in the natural-theology branch above: the base
 read Summa I q.2 for the Five Ways and never read q.3, which is where Aquinas
 says what kind of thing the Ways have shown to exist.
 
 - [[no-composition-does-different-work-in-each-tradition--202609042080]]
-- [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]] — Simplicity works as constraint on generation, as premise for distinction, and as inference from impassibility, all within the same author—showing that where the doctrine stands in an argument is a property of the passage, not of the tradition.
+- [[in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320]] — Simplicity works as constraint on generation, as premise for distinction, and as inference from impassibility, all within the same author — showing that where the doctrine stands in an argument is a property of the passage, not of the tradition.
 - [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
 - [[the-base-read-question-two-and-skipped-question-three--202609042082]]
 - [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]] — Grudem's five incommunicable-attribute definitions each deny something creaturely in God and then fence the denial at the point where God acts or feels differently; a new setting on the simplicity axis determined by what the denial preserves rather than by how far an analysis of composition runs.
