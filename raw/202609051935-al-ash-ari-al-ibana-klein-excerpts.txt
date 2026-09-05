@@ -1,0 +1,112 @@
+CAPTURE METADATA
+================
+Source: al-Ash'ari, Al-Ibanah 'an Usul al-Diyana (The Elucidation of Islam's Foundation)
+Translator: Walter C. Klein, American Oriental Society (1940)
+URL accessed: https://archive.org/stream/Al-bnaheng.-Ear.pdf/Al-ibanahAshari_djvu.txt
+Capture date: 2026-09-05
+Capture time window: 2026-09-05T19:35:00Z to 2026-09-05T20:15:00Z
+Source OCR file SHA-256: 194807ce52d7e3aafa4397036c8efbcdc18f3a0b00dd77835cd020747b00155f
+Note: Copyright 1940 American Oriental Society. Excerpts extracted from Klein's English translation.
+Only passages actually cited in literature notes appear below.
+
+================
+AL-IBANA PROPER (Klein's Translation)
+================
+
+PASSAGE 1: al-Ash'ari's PREFACE TO AL-IBANA — GOD'S ETERNAL ATTRIBUTES
+Source: al-Ibana 'an Usul al-Diyana, Klein's translation
+Printed page: p. 43
+Genre: al-Ash'ari's own text in al-Ibana
+
+From al-Ash'ari (Klein translation, p. 43):
+
+"He has always had the attributes of primacy and power, and He will always
+continue to be knowing and cognizant. His knowledge embraces created things,
+His will is fully realized in them, and the secrets of things are not far
+from Him. The vicissitudes of passing time do not alter Him, nor does fatigue
+or weariness overtake Him in the creation of anything He creates, nor does
+exhaustion or loss of power touch Him."
+
+================
+PASSAGE 2: al-Ash'ari ON GOD'S NAMES NOT OTHER THAN HE
+Source: al-Ibana 'an Usul al-Diyana, Klein's translation
+Printed page: p. 50
+Genre: al-Ash'ari's own text in al-Ibana
+
+From al-Ash'ari (Klein translation, p. 50):
+
+"and that anybody who thinks that the names of God are other than He is in
+error; and that God has knowledge (as He said, 'in His knowledge He sent it
+down,' and as He said, 'and no female conceiveth or bringeth forth without
+His knowledge'). We also assert that God has hearing and sight, and we do not
+deny it as the Mutazilah, the Jahmiyyah, and the Harijites deny it; and we
+assert that God has prowess (quwwah) (as He has said, 'Saw they not that God
+Who created them was mightier than they in prowess?')."
+
+================
+PASSAGE 3: al-Ash'ari REPORTS MU'TAZILI POSITION ON ATTRIBUTES
+Source: al-Ibana 'an Usul al-Diyana, Klein's translation
+Printed page: pp. 99-100
+Genre: al-Ash'ari's own text in al-Ibana (Questions and Answers section)
+
+From al-Ash'ari (Klein translation, pp. 99-100):
+
+"Question. The Mu'taziiah deny the attributes of the Lord of the Worlds, and
+think that the meaning of 'hearing, seeing,' is identical with the meaning of
+'knowing,' just as the Christians think that God's hearing is His sight and
+His visibility and His Word and His knowledge and His Son. May God be very
+far above that! It may be said to the Mu'taziiah: Since you think that
+'hearing, seeing' mean 'knower,' do you not agree that 'wielder of power'
+[p. 46] means 'knower'? Therefore, since you think that the meaning of
+'hearing, seeing' is 'wielder of power,' do you not think that the meaning of
+'wielder of power' is 'knower'? And therefore, since you think that 'living
+one' means 'wielder of power,' why do you not think that 'wielder of power'
+means 'knower'? Wherefore, if they say, 'In that case everything known must
+be an object of power,' the answer is: If 'hearing, seeing' meant 'knower,'
+every known thing would certainly be heard; but since that is impossible,
+your belief is false."
+
+================
+AL-ASH'ARI'S CREED FROM MAQALAT AL-ISLAMIYYIN
+(Quoted in Klein's Introductory Essay, pp. 31-33)
+================
+
+PASSAGE 4: al-Ash'ari's CREED — PHYSICAL ATTRIBUTES WITH "BILA KAYFA"
+Source: al-Ash'ari's creed as preserved in Maqalat al-Islamiyyin, quoted in Klein's introductory essay
+Printed page: p. 31-32
+Genre: al-Ash'ari's creed text from Maqalat, not al-Ibana translation
+
+From al-Ash'ari's creed (quoted in Klein essay, pp. 31-32):
+
+"II. God is upon His throne, as He has said, 'The Merciful is seated on
+The Throne.' He has two hands, bila kayfa, as He has said, 'I have created
+with My two hands,' and as He has said, 'Nay! outstretched are both His
+hands;' and He has two eyes, bila kayfa, as He has said, 'Under Our eyes
+it floated on;' and He has a face, as He has said, 'And the face of thy
+Lord shall abide resplendent with majesty and glory.'"
+
+================
+PASSAGE 5: al-Ash'ari's CREED — DIVINE NAMES NOT OTHER THAN GOD
+Source: al-Ash'ari's creed as preserved in Maqalat al-Islamiyyin, quoted in Klein's introductory essay
+Printed page: p. 32-33
+Genre: al-Ash'ari's creed text from Maqalat, not al-Ibana translation
+
+From al-Ash'ari's creed (quoted in Klein essay, pp. 32-33):
+
+"III. It is not to be said that the names of God are anything but Himself,
+as the Mu'tazilah and the Harijites believe. The Sunnites confess that God
+has knowledge, as He has said, 'In His knowledge He sent it down,' and as
+He has said, 'And no female conceiveth or bringeth forth without His knowledge.'"
+
+================
+PASSAGE 6: al-Ash'ari's CREED — SUNNITES ASSERT HEARING, SIGHT, POWER
+Source: al-Ash'ari's creed as preserved in Maqalat al-Islamiyyin, quoted in Klein's introductory essay
+Printed page: p. 33
+Genre: al-Ash'ari's creed text from Maqalat, not al-Ibana translation
+
+From al-Ash'ari's creed (quoted in Klein essay, p. 33):
+
+"IV. They assert the existence of His hearing and sight; and they do not
+deny that those things belong to God, as the Mu'tazilah do. They assert
+that God has prowess (quwwah), as He has said, 'Saw they not that God Who
+created them was mightier than they in prowess?'"
