@@ -7464,6 +7464,14 @@
           "target_id": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543"
         },
         {
+          "relation": "elaborates",
+          "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
+        },
+        {
           "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
         },
@@ -7477,9 +7485,9 @@
       "tags": [
         "contested"
       ],
-      "title": "The two kabbalistic readings of the sefirot are the two readings the councils ruled out",
+      "title": "The two kabbalistic readings align with one ruled out by the Nicene creed and one only by tradition",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md"
     },
     {
