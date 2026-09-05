@@ -326,6 +326,12 @@
     "202609050618": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618",
     "202609050645": "grudems-chapter-14-outline-maps-each-trinitarian-error-to-a-denied-statement--202609050645",
     "202609050646": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646",
+    "202609052014": "athanasius-orationes-contra-arianos-i--202609052014",
+    "202609052015": "athanasius-de-decretis--202609052015",
+    "202609052101": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101",
+    "202609052102": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102",
+    "202609052103": "access-route-notes-on-npnf-sources--202609052103",
+    "202609052210": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -636,7 +642,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 331,
+  "note_count": 337,
   "notes": [
     {
       "id": "202609041020",
@@ -1004,6 +1010,18 @@
       "type": "permanent",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md"
+    },
+    {
+      "id": "202609052103",
+      "key": "access-route-notes-on-npnf-sources--202609052103",
+      "links": [],
+      "path": "fleeting/access-route-notes-on-npnf-sources--202609052103.md",
+      "slug": "access-route-notes-on-npnf-sources",
+      "tags": [],
+      "title": "",
+      "type": "fleeting",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/access-route-notes-on-npnf-sources--202609052103.md"
     },
     {
       "id": "202609040320",
@@ -1414,6 +1432,85 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q2--202609011201.md"
+    },
+    {
+      "id": "202609052015",
+      "key": "athanasius-de-decretis--202609052015",
+      "links": [],
+      "path": "reference/athanasius-de-decretis--202609052015.md",
+      "slug": "athanasius-de-decretis",
+      "tags": [],
+      "title": "Athanasius, De Decretis Nicaenae Synodi (Defence of the Nicene Definition)",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/athanasius-de-decretis--202609052015.md"
+    },
+    {
+      "id": "202609052210",
+      "key": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077"
+        }
+      ],
+      "path": "literature/athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210.md",
+      "slug": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence",
+      "tags": [],
+      "title": "In De Decretis 22, simplicity premises the inference that the Son is from the Father's essence",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210.md"
+    },
+    {
+      "id": "202609052102",
+      "key": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-de-decretis--202609052015"
+        }
+      ],
+      "path": "literature/athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102.md",
+      "slug": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation",
+      "tags": [],
+      "title": "In De Decretis, Athanasius contrasts human generation (composite, partitive) with divine generation (uncompounded, without partition)",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102.md"
+    },
+    {
+      "id": "202609052101",
+      "key": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "athanasius-orationes-contra-arianos-i--202609052014"
+        }
+      ],
+      "path": "literature/athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101.md",
+      "slug": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation",
+      "tags": [],
+      "title": "In Discourse I sections 19-32, divine simplicity constrains how generation must be understood; premise-form arguments appear elsewhere",
+      "type": "literature",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101.md"
+    },
+    {
+      "id": "202609052014",
+      "key": "athanasius-orationes-contra-arianos-i--202609052014",
+      "links": [],
+      "path": "reference/athanasius-orationes-contra-arianos-i--202609052014.md",
+      "slug": "athanasius-orationes-contra-arianos-i",
+      "tags": [],
+      "title": "Athanasius, Orationes contra Arianos I (First Discourse Against the Arians)",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/athanasius-orationes-contra-arianos-i--202609052014.md"
     },
     {
       "id": "202608311038",
