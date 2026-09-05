@@ -316,6 +316,7 @@
     "202609042335": "the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335",
     "202609042340": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
     "202609042345": "the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345",
+    "202609050158": "grudem-systematic-theology--202609050158",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -586,7 +587,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 321,
+  "note_count": 322,
   "notes": [
     {
       "id": "202609041020",
@@ -2443,6 +2444,18 @@
       "type": "reference",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
+    },
+    {
+      "id": "202609050158",
+      "key": "grudem-systematic-theology--202609050158",
+      "links": [],
+      "path": "reference/grudem-systematic-theology--202609050158.md",
+      "slug": "grudem-systematic-theology",
+      "tags": [],
+      "title": "Grudem, Systematic Theology",
+      "type": "reference",
+      "updated": "2026-09-05",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {
       "id": "202609040345",

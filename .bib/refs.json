@@ -2600,5 +2600,27 @@
     "publisher": "Social Sciences Replication Project, Open Science Framework",
     "title": "Replication of Why Testing Improves Memory: Mediator Effectiveness Hypothesis by Pyc, M. A. / Rawson, K. A. (2010): Replication Report",
     "type": "report"
+  },
+  {
+    "ISBN": "9780310517979",
+    "author": [
+      {
+        "family": "Grudem",
+        "given": "Wayne A."
+      }
+    ],
+    "edition": "2",
+    "id": "202609050158",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Zondervan Academic",
+    "publisher-place": "Grand Rapids, MI",
+    "title": "Systematic Theology: An Introduction to Biblical Doctrine",
+    "type": "book"
   }
 ]
