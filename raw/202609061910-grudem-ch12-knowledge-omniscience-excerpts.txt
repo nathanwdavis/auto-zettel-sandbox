@@ -1,0 +1,150 @@
+Short verbatim excerpts from Wayne Grudem, Systematic Theology: An Introduction
+to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 12, the
+section headed "3. Knowledge (Omniscience)" with its sub-sections a-f
+(reference: grudem-systematic-theology--202609050158).
+
+PROVENANCE. The repository owner (nathanwdavis) supplied the complete text of
+this section in a Claude Code session on 2026-09-06, as an export from their
+own licensed copy in Logos Bible Study. The export's footer reads "Exported
+from Logos Bible Study, 9:48 PM August 30, 2026" and its RIS block reads:
+  TI  - Systematic Theology: An Introduction to Biblical Doctrine
+  AU  - Grudem, Wayne
+  CY  - Grand Rapids, MI
+  ET  - Second Edition
+  PB  - Zondervan Academic
+  PY  - 2020
+  SP  - 1586
+The "1586" matches the Open Library extent for this ISBN ("xxvi, 1586 p.",
+raw/202609050158-grudem-systematic-theology.txt). The RIS block carries NO
+page range (unlike the owner's drop of pages 221-222, which carries "SE -
+221-222"), so no page numbers are recorded here. "Chapter 12" is the owner's
+statement; the export itself shows only the section heading "3. Knowledge
+(Omniscience)" and the sub-headings a-f. The section cites Bruce Ware's God's
+Lesser Glory (2000) and a count by Steven C. Roy, so the text cannot be the
+1994 first edition. This is the first capture in this repository of the
+SECOND edition's own wording; every earlier Grudem capture was witnessed at
+first-edition pages.
+
+Footnotes are absent from the export. Where the section quotes Rice, Pinnock,
+Ware, Roy, or Augustine, the quotation is available here only as Grudem quotes
+it; none of those authors has been read directly by this repository.
+
+EXTENT. This is NOT the full section. The book is under copyright and the
+repository is public, so only the sentences that this repository's notes cite
+are reproduced, as brief quotations for citation-grounding and commentary. The
+full section runs roughly 2,900 words under the sub-headings:
+  a. God Knows Himself
+  b. God Knows All Things Actual
+  c. God Knows All Things Possible
+  d. God Is Always Aware of Everything
+  e. The Challenge of Open Theism: Does God Know Future Human Choices?
+  f. If God Knows Our Future Choices, How Can They Be Free?
+Each excerpt below is set between >>> and <<< markers; the text between the
+markers is exactly as exported, including the export's typographic quotation
+marks (“ ” ’), ellipses and en-dashes. Nothing inside the markers has been
+altered. One apparent typographical slip in the source ("the multiple of
+examples") is reproduced as printed. Bracketed lines outside the markers are
+the capturer's notes.
+
+Captured 2026-09-06T19:10Z by the session, from the owner-supplied export.
+
+------------------------------------------------------------------------
+
+[1] Definition (opening sentence of the section):
+>>>God’s knowledge may be defined as follows: God fully knows himself and all things actual and possible in one simple and eternal act.<<<
+
+[2] Sub-section a, "God Knows Himself":
+[Scripture cited in the sub-section: 1 Cor. 2:10–11; 1 John 1:5.]
+>>>It says first that God fully knows himself. This is an amazing fact since God’s own being is infinite or unlimited. Of course, only he who is infinite can fully know himself in every detail.<<<
+
+[3] Sub-section b, "God Knows All Things Actual":
+[Scripture cited in the sub-section: Heb. 4:13 (cf. 2 Chron. 16:9; Job 28:24;
+Matt. 10:29–30); Isa. 46:9–10 (cf. 42:8–9); Matt. 6:8; Matt. 10:30; Ps. 139:1–2,
+4, 16.]
+>>>The definition also says that God knows “all things actual.” This means all things that exist and all things that happen.<<<
+
+[4] Sub-section c, "God Knows All Things Possible":
+>>>The definition of God’s knowledge given above also specifies that God knows “all things possible.” This is because there are some instances in Scripture where God gives information about events that might happen but that do not actually come to pass.<<<
+[The examples the sub-section gives are David at Keilah, 1 Sam. 23:11–13;
+Jesus on Tyre, Sidon and Sodom, Matt. 11:21, 23; and 2 Kings 13:19. The
+scripture is quoted there in the ESV; the decisive clauses as printed:]
+>>>And the LORD said, “He will come down.” Then David said, “Will the men of Keilah surrender me and my men into the hand of Saul?” And the LORD said, “They will surrender you.”<<<
+>>>For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes<<<
+>>>For if the mighty works done in you had been done in Sodom, it would have remained until this day<<<
+
+[5] Sub-section c, later:
+>>>The fact that God knows all things possible can also be deduced from God’s full knowledge of himself. If God fully knows himself, he knows everything he is able to do, which includes all things that are possible.<<<
+
+[6] Sub-section c, later:
+>>>But there are thousands upon thousands of other variations or kinds of animals and fish and other things that God could have created but did not.<<<
+>>>God’s infinite knowledge includes detailed knowledge of what each of those other possible creations would have been like and what would have happened in each of them!<<<
+
+[7] Sub-section d, "God Is Always Aware of Everything":
+>>>Our definition of God’s knowledge speaks of God knowing everything in one “simple act.” Here again the word simple is used in the sense “not divided into parts.” This means that God is always fully aware of everything.<<<
+
+[8] Sub-section d, continuing:
+>>>If he should wish to tell us the number of grains of sand on the seashore or the number of stars in the sky, he would not have to count them all quickly like some kind of giant computer, nor would he have to call the number to mind because it was something he had not thought about for a time. Rather, he always knows all things at once.<<<
+
+[9] Sub-section d, continuing:
+>>>He does not have to reason to conclusions or ponder carefully before he answers, for he knows the end from the beginning, and he never learns and never forgets anything<<<
+
+[10] Sub-section d, continuing:
+>>>Every bit of God’s knowledge is always fully present in his consciousness; it never grows dim or fades into his nonconscious memory.<<<
+
+[11] Sub-section d, on "eternal act":
+>>>Finally, the definition talks about God’s knowledge as not only a simple act but also an “eternal act.” This means that God’s knowledge never changes or grows. If he were ever to learn something new, he would not have been omniscient beforehand. From all eternity God has known all things that would happen and all things that he would do.<<<
+
+[11b] Sub-section d, the two objections answered (Isa. 43:25 and Jer. 7:31;
+19:5; 31:35):
+>>>The verses in Jeremiah are probably better translated quite literally, “nor did it enter into my heart” (KJV), giving the sense, “nor did I wish for it, desire it, think of it in a positive way.”<<<
+
+[12] Sub-section e, "The Challenge of Open Theism", opening:
+>>>If God knows everything that will happen, how can our choices be at all “free”?<<<
+>>>This difficulty has loomed so large that some theologians have concluded that God does not know all of the future, and they have adopted a view known as “open theism.”<<<
+>>>Therefore the future is not fixed or certain but “open,” even to God.<<<
+
+[13] Sub-section e, Richard Rice as quoted by Grudem:
+>>>Rice says, “God knows a great deal about what will happen.… All that God does not know is the content of future free decisions, and this is because decisions are not there to know until they occur.” In order to take this position and maintain God’s omniscience, Rice redefines omniscience: “An omniscient being knows everything logically knowable,” and then he defines “logically knowable” to exclude future human choices.<<<
+
+[14] Sub-section e, Clark Pinnock as quoted by Grudem:
+>>>Clark Pinnock also explains how he came to this position: “I knew the Calvinist argument that exhaustive foreknowledge was tantamount to predestination because it implies the fixity of all things from ‘eternity past,’ and I could not shake off its logical force.”<<<
+>>>God too moves into a future not wholly known because not yet fixed.”<<<
+
+[15] Sub-section e, Grudem's response:
+>>>But such a position is unsatisfactory because it ultimately means that God is ignorant of all future human choices, which is clearly contrary to much of the Bible.<<<
+>>>Such a God is not truly omniscient, for he learns many billions of new facts every day, as he watches to find out what human beings will choose to do.<<<
+>>>Every human event that happens is the result of at least one and often dozens of human choices.<<<
+>>>This idea stands contrary to the multiple of examples of unfailing predictive prophecy in Scripture, the fulfillment of which demonstrates that God is the true God.<<<
+
+[16] Sub-section e, Bruce Ware as quoted by Grudem:
+>>>He demonstrates that, particularly in Isaiah 40–48, “the true God knows and declares the future (including future free human actions) before it occurs, while those imposter rivals neither know nor declare any such thing.”<<<
+
+[17] Sub-section e, two of the five Isaiah passages as printed (the five are
+cited there as Isa. 41:23, 26, 29; 42:8–9; 44:6–7; 44:24–26, 28; 46:9–10):
+>>>Tell us what is to come hereafter,
+      that we may know that you are gods.…
+    Who declared it from the beginning, that we might know,
+      and beforehand, that we might say, “He is right”?<<<
+[cited there as Isa. 41:23, 26, 29]
+>>>I am God, and there is none like me,
+    declaring the end from the beginning
+      and from ancient times things not yet done,<<<
+[cited there as Isa. 46:9–10]
+
+[18] Sub-section e, Ware's conclusion as quoted by Grudem:
+>>>Ware concludes, “How utterly impertinent and presumptuous to deny of God divine foreknowledge and so deny the very basis by which God himself has declared that his claim to deity shall be vindicated and made known.”<<<
+
+[19] Sub-section e, Steven C. Roy's count as reported by Grudem:
+>>>Steven C. Roy has compiled a list of 4,017 biblical prophecies, of which 2,323 relate to free human decisions. Scripture does not view such prophecies as God’s opinion of “what will most likely occur” (as open theism would claim) but as God’s firm declarations of what will certainly occur.<<<
+
+[20] Sub-section f, Augustine as reported by Grudem:
+>>>it may be helpful at this point to note the suggestion of Augustine, who said that God has given us “reasonable self-determination.” There is some advantage in the fact that his statement does not involve the terms free or freedom, for these terms often have different meanings to different people.<<<
+
+[20b] Sub-section f, continuing:
+>>>This is simply affirming that our choices really do determine what will happen.<<<
+
+[21] Sub-section f, continuing:
+>>>Whether or not we reach a satisfactory understanding of the way in which our choices are “free,” that is not the really important issue; for us, it is important that we think, choose, and act, and that these thoughts, choices, and actions are real and actually have eternal significance. If God knows all our thoughts, words, and actions long before they occur, then there must be some sense in which our choices are not absolutely free.<<<
+
+[22] Sub-section f, closing, Bruce Ware as quoted by Grudem:
+>>>If we wish to use the expression “free will,” it is fair to say that our choices are “free” in the way that Bruce Ware defines “freedom of inclination”: “We are free when we choose according to our strongest inclination or deepest desire. In short, we are free when we do what we most want to do.” But further discussion of this issue is better left until it can be treated more fully in chapter 16.<<<

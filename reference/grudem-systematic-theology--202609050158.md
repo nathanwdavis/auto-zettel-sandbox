@@ -28,18 +28,18 @@ chicago_note: 'Wayne A. Grudem, Systematic Theology: An Introduction to Biblical
 chicago_bib: 'Grudem, Wayne A. Systematic Theology: An Introduction to Biblical Doctrine.
   2nd ed. Zondervan Academic, 2020.'
 verification:
-  method: raw-capture+openlibrary
-  source: https://openlibrary.org/isbn/9780310517979
+  method: raw-capture
+  source: raw/202609050158-grudem-systematic-theology.txt
   verified: true
-  identifier_check: confirmed
-  date: '2026-09-05T01:58:18Z'
+  date: '2026-09-06T19:18:39Z'
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
 excerpt_captures:
-  - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
-  - raw/202609050546-grudem-trinity-definition-excerpts.txt
+- raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
+- raw/202609050546-grudem-trinity-definition-excerpts.txt
+- raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt
 links: []
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: '2026-09-06'
 citation_renderer: pandoc
 ---
 Bibliographic record. The raw capture is Open Library metadata for ISBN
@@ -106,3 +106,24 @@ meeting the two-witness standard. No 2nd-edition page numbers are established
 for any definition text; 1st-edition pagination confirmed by independent
 witnesses (Stu Station blog and Reasonable Faith article) and by the lesson
 outline's page ranges.
+
+(3) Added 2026-09-06: a third excerpt capture,
+raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt, of a different
+kind from the two above. The repository owner supplied the complete text of
+chapter 12, section 3, "Knowledge (Omniscience)" (sub-sections a-f), as an
+export from their own licensed copy in Logos Bible Study; the export's RIS
+block prints the second edition, Zondervan Academic 2020, and an extent of 1586
+pages, matching the Open Library record above. So this is the FIRST capture in
+the repository of the second edition's own wording, read in full by the session;
+every quotation in the capture was checked programmatically as an exact
+substring of the export before any note was written on it. Only the sentences
+the notes cite are retained (36 short passages of a roughly 2,900-word
+section), because the book is in copyright and this repository is public. The
+export carries no page range, so no second-edition page numbers are established
+by it either, and it carries no footnotes, so the authors Grudem quotes in that
+section (Rice, Pinnock, Ware, Roy, Augustine) remain unread here. The capture
+records its own extent and provenance in its header. SHA-256 of the capture as
+committed: 40efac84cf183a5dea48329b7dc6041a5b6a4ebd663078e7f9d32faec663665f.
+A separate owner drop of pages 221-222 of the same chapter (the spirituality
+attribute) sits in drop/ awaiting the next cycle's ingest and is not cited by
+anything.

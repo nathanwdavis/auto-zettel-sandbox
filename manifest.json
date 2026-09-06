@@ -337,6 +337,11 @@
     "202609052103": "access-route-notes-on-npnf-sources--202609052103",
     "202609052210": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
     "202609052320": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320",
+    "202609061915": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915",
+    "202609061920": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920",
+    "202609061921": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921",
+    "202609061922": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922",
+    "202609061923": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -598,6 +603,20 @@
       "updated": "2026-09-05"
     },
     {
+      "key": "what-does-grudem-s-systematic-theology-2nd-ed-2020-argue-in--202609061912",
+      "path": "inquiries/what-does-grudem-s-systematic-theology-2nd-ed-2020-argue-in--202609061912.md",
+      "priority": "normal",
+      "question": "What does Grudem's Systematic Theology (2nd ed., 2020) argue in ch. 12, sec. 3 'Knowledge (Omniscience)' about God's knowledge of himself, of the actual, of the possible, and of future free human choices (against open theism), and how does that bear on the simplicity axis and the identification threads already in the theology cluster? Ground notes in the owner-supplied Logos export captured as excerpts on reference grudem-systematic-theology--202609050158.",
+      "result_notes": [
+        "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922",
+        "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921",
+        "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
+        "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+      ],
+      "status": "answered",
+      "updated": "2026-09-06"
+    },
+    {
       "key": "what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906",
       "path": "inquiries/what-does-karpicke-and-blunt-2011-actually-report-which-of--202609041906.md",
       "priority": "high",
@@ -649,7 +668,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 342,
+  "note_count": 347,
   "notes": [
     {
       "id": "202609041020",
@@ -978,7 +997,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -1313,6 +1332,10 @@
           "target_id": "anselm-proslogium--202609010830"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
           "relation": "supports",
           "target_id": "maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841"
         },
@@ -1334,7 +1357,7 @@
       "tags": [],
       "title": "Anselm's formula identifies God by description alone",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselms-formula-identifies-god-by-description-alone--202609010840.md"
     },
     {
@@ -2320,6 +2343,10 @@
           "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320"
         },
@@ -2345,7 +2372,7 @@
       "tags": [],
       "title": "The monotheisms divide over the scope of simplicity, not over plurality",
       "type": "permanent",
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081.md"
     },
     {
@@ -2398,6 +2425,10 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
           "relation": "supports",
           "target_id": "grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618"
         },
@@ -2415,7 +2446,7 @@
       "tags": [],
       "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
       "type": "permanent",
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
@@ -2672,6 +2703,81 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md"
     },
     {
+      "id": "202609061922",
+      "key": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md",
+      "slug": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it",
+      "tags": [],
+      "title": "Grudem and the open theist accept the same entailment and give up opposite sides of it",
+      "type": "permanent",
+      "updated": "2026-09-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md"
+    },
+    {
+      "id": "202609061921",
+      "key": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "anselms-formula-identifies-god-by-description-alone--202609010840"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md",
+      "slug": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience",
+      "tags": [],
+      "title": "Grudem answers open theism with Isaiah's test of deity, not with the definition of omniscience",
+      "type": "permanent",
+      "updated": "2026-09-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md"
+    },
+    {
+      "id": "202609061915",
+      "key": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915.md",
+      "slug": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism",
+      "tags": [],
+      "title": "Grudem defines omniscience as one simple and eternal act, and rejects open theism by Isaiah's test of deity",
+      "type": "literature",
+      "updated": "2026-09-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915.md"
+    },
+    {
       "id": "202609050547",
       "key": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
       "links": [
@@ -2689,6 +2795,31 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md"
     },
     {
+      "id": "202609061923",
+      "key": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+        }
+      ],
+      "path": "permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md",
+      "slug": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do",
+      "tags": [],
+      "title": "Grudem grounds God's knowledge of the possible in self-knowledge, and his scriptural cases are about what creatures would do",
+      "type": "permanent",
+      "updated": "2026-09-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
+    },
+    {
       "id": "202609050158",
       "key": "grudem-systematic-theology--202609050158",
       "links": [],
@@ -2697,7 +2828,7 @@
       "tags": [],
       "title": "Grudem, Systematic Theology",
       "type": "reference",
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {
@@ -2800,6 +2931,10 @@
           "target_id": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+        },
+        {
           "relation": "source",
           "target_id": "maimonides-denies-god-has-attributes-at-all-not-merely-that-they-divide-him--202609042075"
         },
@@ -2813,8 +2948,45 @@
       "tags": [],
       "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
       "type": "permanent",
-      "updated": "2026-09-05",
+      "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
+    },
+    {
+      "id": "202609061920",
+      "key": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudems-chapter-11-outline-lists-five-incommunicable-attributes-with-unity-glossed-as-simplicity--202609050646"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        }
+      ],
+      "path": "permanent/grudems-simple-act-of-knowing-denies-process-not-composition--202609061920.md",
+      "slug": "grudems-simple-act-of-knowing-denies-process-not-composition",
+      "tags": [],
+      "title": "Grudem's \"simple act\" of knowing denies process in God, not composition",
+      "type": "permanent",
+      "updated": "2026-09-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-simple-act-of-knowing-denies-process-not-composition--202609061920.md"
     },
     {
       "id": "202609050618",
