@@ -32,8 +32,10 @@ links:
   relation: source
 - target_id: in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320
   relation: shared-concept
+- target_id: grudems-simple-act-of-knowing-denies-process-not-composition--202609061920
+  relation: elaborates
 created: '2026-09-04'
-updated: '2026-09-05'
+updated: '2026-09-06'
 ---
 [[abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941]]
 puts the fault line at whether oneness admits internal distinction. That is close
@@ -108,3 +110,5 @@ moments, spatial extension, division into parts — and four of the five then st
 the denial with a clause preserving that God acts, feels, or acts differently in
 time and place, the fifth with a clause about what we see of him (see
 [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]]).
+
+**Added 2026-09-06.** The same author's definition of omniscience, now on file in the second edition's own words, reuses the gloss "not divided into parts" for the act of knowing and makes it mean that God never counts, recalls, infers, learns or forgets — a denial of process rather than of composition, which keeps the attribute of knowledge intact where Maimonides' setting would consume it (see [[grudems-simple-act-of-knowing-denies-process-not-composition--202609061920]]).

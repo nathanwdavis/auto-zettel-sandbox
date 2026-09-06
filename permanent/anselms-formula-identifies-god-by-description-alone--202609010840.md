@@ -20,8 +20,10 @@ links:
   relation: shared-concept
 - target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
   relation: contradicts
+- target_id: grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921
+  relation: shared-concept
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-06'
 ---
 The ontological argument's subject is introduced by a bare definite
 description -- "a being than which nothing greater can be conceived" -- and by

@@ -17,8 +17,10 @@ links:
   relation: shared-concept
 - target_id: grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618
   relation: supports
+- target_id: grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921
+  relation: shared-concept
 created: '2026-08-31'
-updated: '2026-09-05'
+updated: '2026-09-06'
 ---
 Asked "Who is God?", mainstream evangelical theology does not answer with the
 attributes a philosopher would list first. It answers by naming one God who

@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-05'
+updated: '2026-09-06'
 ---
 # Abrahamic conceptions of God
 
@@ -590,6 +590,25 @@ says what kind of thing the Ways have shown to exist.
 - [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
 - [[the-base-read-question-two-and-skipped-question-three--202609042082]]
 - [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]] — Grudem's five incommunicable-attribute definitions each deny something creaturely in God and then fence the denial at the point where God acts or feels differently; a new setting on the simplicity axis determined by what the denial preserves rather than by how far an analysis of composition runs.
+
+### Omniscience, added 2026-09-06: the second edition speaks for itself
+
+Until this date the base had nothing on God's knowledge — no note used the
+words *omniscience* or *foreknowledge* — and every Grudem note rested on
+first-edition sentences quoted by third parties. The owner supplied the second
+edition's section on knowledge (ch. 12, sec. 3) from a licensed Logos copy,
+and it was read whole; only the cited sentences are kept in raw/.
+
+- [[grudems-simple-act-of-knowing-denies-process-not-composition--202609061920]] — the "not divided into parts" gloss recurs from the unity definition, but applied to the act of knowing it denies counting, recalling, inferring, learning and forgetting: stages in the knower, not parts in the being. The other face of the setting the note above put on the simplicity axis.
+- [[grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921]] — Rice redefines omniscience as "everything logically knowable", so the definitional argument only restates the dispute; the argument Grudem rests on is Isaiah 40–48, where God makes declaring the future his own criterion of deity. An identification of God by a mark, as in the Anselmian route above, but a mark supplied by a track record.
+- [[grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922]] — Pinnock "could not shake off" the inference from exhaustive foreknowledge to fixity and dropped the foreknowledge; Grudem concedes the same inference and drops absolute freedom, keeping Augustine's "reasonable self-determination". The disagreement is over which side Scripture fixes, not over the logic.
+- [[grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923]] — the deduction from self-knowledge reaches what God could do; the scriptural cases (Keilah, Tyre and Sidon) are about what creatures would do; the section offers them as one ground and the bridge between them is supplied only by the concession at its end.
+
+The four do not settle the doctrine and are not meant to; they record what
+one standard evangelical text argues, in its own words, and where it touches
+this map: the simplicity axis (the first), identification of God by
+description (the second), and the same-God cluster's habit of finding that a
+dispute framed as a disagreement is an agreement over reach (the third).
 
 ## Sources behind these notes
 
