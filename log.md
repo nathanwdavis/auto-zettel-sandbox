@@ -1952,3 +1952,11 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T21:40:35Z` step 6 (critic, self-review): PASS. New reference/literature/permanent notes checked for groundedness, atomicity, clarity, link quality. All eight Arabic quotations in the notes verified as exact substrings of the committed capture, which was itself transcribed from the two committed page images; edition attribution to Ritter hedged as an internal-feature inference; the one illegible word marked [غير واضح] and not quoted; Mu'tazili contrast rests on the existing al-Ibana-grounded note 202609051941, not on a fresh unverified claim. No note left below threshold.
 - `2026-09-07T21:40:35Z` step 7 (skill-smith): SKIPPED -- skill_smith_cadence weekly, last skill-smith 2026-09-01T11:01Z, next ~2026-09-08; no proposal awaiting a human decision.
 - `2026-09-07T21:40:35Z` step 10 (inquiries + INBOX): inquiry 202609051929 -> answered, result_notes 202609072135. INBOX entry filed recording the answer and three residual leads (Mu'tazili own-voice source; Ibn Kullab origination; DLI page-image capture route).
+- `2026-09-07T21:42:10Z` verify_refs: 105/105 verified
+- `2026-09-07T21:42:26Z` lint_citations: PASS
+- `2026-09-07T21:42:27Z` lint_links: PASS
+- `2026-09-07T21:42:27Z` lint_skills: PASS
+- `2026-09-07T21:42:28Z` check_skill_sandbox: PASS
+- `2026-09-07T21:42:28Z` remote_cycle: gates PASS
+- `2026-09-07T21:42:28Z` remote_cycle: finish zettel/run-20260907211923 (skill-rev=17e9f39; lock released after push)
+- `2026-09-07T21:42:28Z` remote_cycle: PR for zettel/run-20260907211923 must be opened by the session (GitHub CLI not installed in this container)
