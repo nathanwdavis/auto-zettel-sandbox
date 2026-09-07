@@ -4200,3 +4200,28 @@ passage you intend to cite, before writing the note that cites it. This is the
 same class as the "byte count is not a check" rule filed above, and it is the
 second time in one cycle that a capture's extent went unverified.
 
+## 2026-09-07 — Dropped source ready: TY  - BOOK
+
+- **status:** answered
+- **answer:** The drop was pages 221-222 of Grudem's *Systematic Theology* (2nd
+  ed., 2020) on the attribute of God's spirituality — the same book already on
+  file as reference `grudem-systematic-theology--202609050158`. The automatic
+  ingest had created a separate malformed stub reference (`ty-book--202609071342`,
+  titled "TY - BOOK" from the unparsed RIS header); that stub was removed this
+  cycle because a second reference note for one physical book violates FR-4 (one
+  reference per source), and its capture `raw/202609071342-ty-book.txt` was
+  re-homed onto the existing Grudem reference as an excerpt capture. From it:
+  literature note
+  [[grudem-defines-god-s-spirituality-as-immateriality--202609071347]] (own
+  words, locator "2nd ed., pp. 221-222") and permanent note
+  [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]]
+  (Grudem's spirituality definition already asserts "no parts or dimensions", the
+  partlessness classical theology names simplicity, recurring under a third
+  Grudem attribute-definition). Filed into MOC
+  abrahamic-conceptions-of-god--202608311945 under Divine simplicity; reciprocal
+  `elaborates` link added on
+  grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.
+  This drop carries a page locator, so it establishes the first second-edition
+  page numbers on file for this book. Source not re-fetched.
+- **priority:** normal
+- **asked_by:** human

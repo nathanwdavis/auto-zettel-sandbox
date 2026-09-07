@@ -37,9 +37,10 @@ excerpt_captures:
 - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
 - raw/202609050546-grudem-trinity-definition-excerpts.txt
 - raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt
+- raw/202609071342-ty-book.txt
 links: []
 created: '2026-09-05'
-updated: '2026-09-06'
+updated: '2026-09-07'
 citation_renderer: pandoc
 ---
 Bibliographic record. The raw capture is Open Library metadata for ISBN
@@ -112,9 +113,10 @@ raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt, of a different
 kind from the two above. The repository owner supplied the complete text of
 chapter 12, section 3, "Knowledge (Omniscience)" (sub-sections a-f), as an
 export from their own licensed copy in Logos Bible Study; the export's RIS
-block prints the second edition, Zondervan Academic 2020, and an extent of 1586
-pages, matching the Open Library record above. So this is the FIRST capture in
-the repository of the second edition's own wording, read in full by the session;
+block prints the second edition, Zondervan Academic 2020, and the line
+`SP  - 1586`, whose value 1586 matches the Open Library record above. So this
+is the FIRST capture in the repository of the second edition's own wording,
+read in full by the session;
 every quotation in the capture was checked programmatically as an exact
 substring of the export before any note was written on it. Only the sentences
 the notes cite are retained (36 short passages of a roughly 2,900-word
@@ -124,6 +126,22 @@ by it either, and it carries no footnotes, so the authors Grudem quotes in that
 section (Rice, Pinnock, Ware, Roy, Augustine) remain unread here. The capture
 records its own extent and provenance in its header. SHA-256 of the capture as
 committed: 40efac84cf183a5dea48329b7dc6041a5b6a4ebd663078e7f9d32faec663665f.
-A separate owner drop of pages 221-222 of the same chapter (the spirituality
-attribute) sits in drop/ awaiting the next cycle's ingest and is not cited by
-anything.
+
+(4) Added 2026-09-07: the owner drop of pages 221-222 (the spirituality
+attribute), foreseen at the end of paragraph (3) above, has now been ingested
+and is attached here as the excerpt capture raw/202609071342-ty-book.txt. Its
+provenance is the same as (3): a drop of the owner's own licensed copy, and its
+trailing RIS block prints the second edition, Zondervan Academic 2020, and the
+same `SP  - 1586` line noted in paragraph (3), whose value 1586 matches the
+book's Open Library page count. It carries roughly five paragraphs of pp.
+221-222 verbatim (in copyright; kept small), closing with the
+chapter's formal definition of God's spirituality. Unlike the ch. 12 export,
+this drop DOES carry a page locator — pp. 221-222 — so it establishes the FIRST
+second-edition page numbers on file for this book. The automatic drop ingest
+created a separate stub reference note (`ty-book--202609071342`) for it; that
+stub was removed this cycle because it duplicated this same physical book (FR-4,
+one reference per source), and the capture was re-homed here as an excerpt
+instead. The pp. 221-222 material is distilled at
+[[grudem-defines-god-s-spirituality-as-immateriality--202609071347]] and the
+atomic claim drawn from it at
+[[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]].

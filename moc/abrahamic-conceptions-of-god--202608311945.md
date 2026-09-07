@@ -610,6 +610,15 @@ this map: the simplicity axis (the first), identification of God by
 description (the second), and the same-God cluster's habit of finding that a
 dispute framed as a disagreement is an agreement over reach (the third).
 
+### Spirituality, added 2026-09-07: partlessness under a third heading
+
+An owner drop of the second edition's pages 221-222 — the spirituality
+attribute, and the first second-edition page numbers on file for this book —
+adds one more sighting of the same "no parts" denial the two subsections above
+track.
+
+- [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]] — Grudem's formal definition of God's spirituality reads that God "has no parts or dimensions," so the partlessness clause classical theology names simplicity turns up inside a third Grudem attribute-definition (spirituality, alongside unity and knowledge), each time as a denial fenced by a positive that keeps God being or acting.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

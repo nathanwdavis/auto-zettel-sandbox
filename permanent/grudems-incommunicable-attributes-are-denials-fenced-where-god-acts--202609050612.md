@@ -25,8 +25,10 @@ links:
   relation: source
 - target_id: grudems-simple-act-of-knowing-denies-process-not-composition--202609061920
   relation: elaborates
+- target_id: grudem-s-definition-of-spirituality-already-asserts-that--202609071348
+  relation: elaborates
 created: '2026-09-05'
-updated: '2026-09-06'
+updated: '2026-09-07'
 ---
 All five of Grudem's definitions of God's "incommunicable" attributes are built
 to one pattern: a denial of something creaturely in God, then the word *yet*,
@@ -110,3 +112,5 @@ wholly inside the classical settings, and neither the sentence nor the outline
 decides between the two readings.
 
 **Added 2026-09-06.** The second edition's own section on God's knowledge, now on file, shows the other face of this setting: the same gloss "not divided into parts" is applied there to the act of knowing and cashed out as a denial of counting, recalling, inferring and learning in God — stages in the knower rather than parts in the being (see [[grudems-simple-act-of-knowing-denies-process-not-composition--202609061920]]).
+
+**Added 2026-09-07.** The denial "no parts" is not confined to the unity attribute after all: Grudem's definition of *spirituality* (2nd ed., pp. 221-222, now on file from an owner drop) reads that God "has no parts or dimensions," fenced by the positive that God is nonetheless "pure being," more real and more excellent than any creature. So the same partlessness clause recurs at a third attribute-definition, the same denial-then-affirmation shape each time (see [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]]).
