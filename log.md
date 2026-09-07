@@ -1960,3 +1960,7 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T21:42:28Z` remote_cycle: gates PASS
 - `2026-09-07T21:42:28Z` remote_cycle: finish zettel/run-20260907211923 (skill-rev=17e9f39; lock released after push)
 - `2026-09-07T21:42:28Z` remote_cycle: PR for zettel/run-20260907211923 must be opened by the session (GitHub CLI not installed in this container)
+- `2026-09-07T21:49:19Z` verify_refs: 105/105 verified
+- `2026-09-07T21:49:25Z` build_manifest: 352 notes indexed
+- `2026-09-07T21:49:39Z` lint_citations: PASS
+- `2026-09-07T21:49:40Z` lint_links: PASS

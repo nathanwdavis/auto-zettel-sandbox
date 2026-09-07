@@ -69,8 +69,6 @@ al-Kullabiyya's *sifat*, verify the Arabic verbatim, and read whether the
 attributes-to-essence relation there is the predicted midpoint or (as al-Ibana's
 "names are not other than He" suggested) sits nearer the Maimonidean end.
 
-## 2026-09-07
-
 ## 2026-09-07 (answered)
 
 Resolved this cycle from the primary text the two prior cycles named as the route.

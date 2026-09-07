@@ -8,7 +8,7 @@ type: fleeting
 title: "Unconfirmed: Ibn Kullab as originator of 'neither He nor other' formula"
 tags: []
 created: "2026-09-05"
-updated: "2026-09-05"
+updated: "2026-09-07"
 ---
 
 Multiple web sources (Wikipedia, IlmGate blog) attribute the formula "neither identical to nor distinct from the essence" (lā huwa wa-lā ghayruhu) to Ibn Kullab (d. ca. 240/855 CE), stating that al-Ash'ari (d. 324/935) inherited this doctrine from Ibn Kullab's school.

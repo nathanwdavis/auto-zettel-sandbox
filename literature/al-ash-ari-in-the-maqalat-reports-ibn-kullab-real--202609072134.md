@@ -11,7 +11,8 @@ created: '2026-09-07'
 updated: '2026-09-07'
 tags: []
 reference: maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129
-locator: 1930 ed. (Bibliotheca Islamica, ed. Ritter), pp. 546 and 548
+locator: 1930 ed. (Bibliotheca Islamica; editor inferred as Ritter from internal
+  features, not read from a title page), pp. 546 and 548
 links:
 - target_id: maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129
   relation: source
