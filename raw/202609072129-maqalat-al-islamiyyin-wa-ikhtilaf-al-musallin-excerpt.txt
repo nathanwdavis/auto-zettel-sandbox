@@ -1,0 +1,61 @@
+CAPTURE METADATA
+================
+Source: al-Ash'ari, Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin (Arabic)
+Author: Abu al-Hasan 'Ali ibn Isma'il al-Ash'ari (d. 324/935-6) -- primary text, public domain
+Edition: the 1930 printed Arabic edition (archive.org identifier in.ernet.dli.2015.432632,
+  Digital Library of India scan; title page "Maqalatul Islamiyyeen Wa Ikhtilaful Musalleen",
+  creator recorded as "Imam Abul Hasan Ali Bin Ismaeel Al Ashaari", date 1930)
+Item URL: https://archive.org/details/in.ernet.dli.2015.432632
+Capture date: 2026-09-07
+Method: read from the page IMAGES (below), not from the item's OCR. The item's
+  Arabic OCR (_djvu.txt) is heavily garbled on this classical text and cannot be
+  quoted verbatim; the passages below are transcribed by eye from the scanned pages,
+  which are committed alongside this file as the visual record.
+
+Page images committed with this capture (both fetched 2026-09-07):
+  raw/202609072129-maqalat-p546-leaf254.jpg
+    from https://archive.org/download/in.ernet.dli.2015.432632/page/n254_w1600.jpg
+    SHA-256: d02555045b716ff1a678c2fb99abf636c178101f5f284261e65c9eb480cfbd61
+  raw/202609072129-maqalat-p548-leaf256.jpg
+    from https://archive.org/download/in.ernet.dli.2015.432632/page/n256_w1600.jpg
+    SHA-256: 7d6e4dbd14739bb7ec973c37f5f2b4f511b7ec27aff7b9b20a2d867b590ac46a
+Item OCR file (for reference only; garbled, NOT the basis of the transcription):
+  https://archive.org/download/in.ernet.dli.2015.432632/2015.432632.Maqalatul-Islamiyyeen_djvu.txt
+  SHA-256 as fetched 2026-09-07: c46678995343b359ad312437155ecf4274a1abd1f8886707b114a618a99b8c92
+
+Only the passages used in literature/permanent notes appear below. Verbatim Arabic
+of al-Ash'ari's text; no translation and no commentary are recorded in this file.
+A single word that could not be read with confidence is marked [غير واضح].
+
+================
+PASSAGE 1 -- printed page 546 (leaf 254)
+al-Ash'ari's doxographical exposition of Ibn Kullab's doctrine of the attributes.
+Section heading and body as printed.
+================
+
+شرح قول «عبد الله بن كلاّب»
+
+قال «عبد الله بن كلاّب» ان الله سبحانه لم يزل قديمًا باسمائه وصفاته، وانه لم يزل
+عالمًا قادرًا حيًّا سميعًا بصيرًا عزيزًا جليلًا كبيرًا عظيمًا جوادًا متكبرًا واحدًا احدًا
+صمدًا فردًا باقيًا اولًا سيّدًا مالكًا ربًّا رحمانًا مريدًا كارهًا مُحبًّا مُبغضًا راضيًا
+ساخطًا مواليًا معاديًا قائلًا متكلّمًا بعلم وقدرةٍ وحياة وسمع وبصر وعزّة وجلال
+وعظمة وكبرياء وكرم وجود وبقاء والهيبة ورحمة وارادة وكراهة وحبّ وبغض ورضًى
+وسُخط وولاية وعداوة وكلام، وان ذلك من صفات الذات وان صفات الله سبحانه هى
+اسماؤه وانه لا يجوز ان توصف الصفات بصفةٍ ولا تقوم بأنفسها وانها قائمة بالله،
+وزعم انه موجود لا بوجود وانه شىء لا بمعنًى له كان [غير واضح] شيئًا وان صفاته
+لا هى هو ولا غيره وكذلك القول فى الصفات انها لا تتغاير كما انها ليست بغيره وان
+العلم لا هو القدرة ولا غيرها وكذلك سائر الصفات
+
+وقال بعض اصحابه: الصفات لا يقال هى هو ولا يقال غيره وكذلك لا يقال كل صفة
+هى الاخرى ولا يقال غيرها ومنعوا العبارة الاولى
+
+وقال قائلون ان البارىء سبحانه ليس بغير صفاته وصفاته متغايرة، قول «حارث»
+
+================
+PASSAGE 2 -- printed page 548 (leaf 256)
+al-Ash'ari continues on Ibn Kullab: the same relation-formula applied to the
+"reported" attributes (the Face, the Eye, the Hands).
+================
+
+وقال «ابن كلاّب» فى الوجه والعين واليدين انها صفاتٌ لله لا هى الله ولا هى غيره
+كما قال فى العلم والقدرة غير انه ثبّت هذا خبرًا

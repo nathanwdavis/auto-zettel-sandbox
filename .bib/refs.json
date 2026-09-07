@@ -2753,5 +2753,24 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://archive.org/details/in.ernet.dli.2015.432632",
+    "author": [
+      {
+        "family": "al-Ash'ari",
+        "given": "Abu al-Hasan 'Ali ibn Isma'il"
+      }
+    ],
+    "id": "202609072129",
+    "issued": {
+      "date-parts": [
+        [
+          1930
+        ]
+      ]
+    },
+    "title": "Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin",
+    "type": "book"
   }
 ]

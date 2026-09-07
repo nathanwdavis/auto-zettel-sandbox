@@ -4225,3 +4225,40 @@ second time in one cycle that a capture's extent went unverified.
   page numbers on file for this book. Source not re-fetched.
 - **priority:** normal
 - **asked_by:** human
+
+
+## 2026-09-07 — Answered: the Ash'ari/Mu'tazili attributes inquiry (202609051929), grounded in the Maqalat primary text
+
+- **status:** answered
+- **priority:** high
+- **asked_by:** maintenance-run (2026-09-07 remote cycle)
+
+The HIGH-priority human inquiry 202609051929, left in-progress by the 2026-09-05
+and 2026-09-07 cycles, is answered. al-Ash'ari's *Maqalat al-Islamiyyin* (1930
+Arabic ed., archive.org Digital Library of India scan in.ernet.dli.2015.432632)
+was reached, and its section *Sharh qawl 'Abd Allah ibn Kullab* (p. 546,
+corroborated p. 548) gives the double-negation formula *la hiya huwa wa-la
+ghayruhu* ("neither He nor other than He") that the prediction quoted, with the
+attributes affirmed as real and eternal. New notes: reference
+maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129 (verbatim Arabic
+excerpt + two committed page images), literature
+al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134, permanent
+al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135; filed in MOC
+abrahamic-conceptions-of-god under Divine simplicity, reciprocal link added on
+202609042081. Prediction CONFIRMED for the Ash'ari/Kullabi leg.
+
+Residual leads for a future cycle (not blocking, filed here so they are not lost):
+
+- The Mu'tazili leg still rests on al-Ash'ari's characterisation of his opponents,
+  not a Mu'tazili source read in its own voice; 'Abd al-Jabbar's *al-Mughni* or
+  *Sharh al-Usul al-Khamsa* would be the route to argue that leg from inside.
+- Whether Ibn Kullab *originated* the "neither He nor other than He" formula, versus
+  the Ash'arite school later crediting him with a position it systematised, is not
+  settled by the Maqalat's reporting passage; al-Shahrastani's *al-Milal wa'l-Nihal*
+  is the doxographical route. Narrowed lead kept in fleeting 202609051950.
+- Access finding: Digital Library of India scans on archive.org carry readable page
+  images for classical Arabic works whose machine OCR (_djvu.txt) is far too garbled
+  to quote verbatim. Reading the page images
+  (/download/<id>/page/n<leaf>_w1600.jpg) and committing them to raw/ alongside a
+  hand transcription is a workable capture route for public-domain Arabic primary
+  texts, and stronger evidence than the OCR.

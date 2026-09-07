@@ -34,6 +34,8 @@ links:
   relation: shared-concept
 - target_id: grudems-simple-act-of-knowing-denies-process-not-composition--202609061920
   relation: elaborates
+- target_id: al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135
+  relation: elaborates
 created: '2026-09-04'
 updated: '2026-09-06'
 ---
@@ -112,3 +114,5 @@ time and place, the fifth with a clause about what we see of him (see
 [[grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612]]).
 
 **Added 2026-09-06.** The same author's definition of omniscience, now on file in the second edition's own words, reuses the gloss "not divided into parts" for the act of knowing and makes it mean that God never counts, recalls, infers, learns or forgets — a denial of process rather than of composition, which keeps the attribute of knowledge intact where Maimonides' setting would consume it (see [[grudems-simple-act-of-knowing-denies-process-not-composition--202609061920]]).
+
+**Added 2026-09-07.** The Islamic leg, which this note predicted without evidence, is now grounded in a primary text and it confirms the prediction. al-Ash'ari's *Maqalat al-Islamiyyin*, reporting Ibn Kullab, gives the double negation *la hiya huwa wa-la ghayruhu* ("neither He nor other than He") for the relation of the real attributes to the essence, while the Mu'tazila (as the same author reports them) reduce the attributes to the essence at the Maimonidean end — two settings on this one axis, dividing over the reach of the no-composition constraint exactly as the note claims the other traditions do (see [[al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135]]). This also completes the al-Ibana datum above: al-Ibana's "names are not other than He" was only half the formula, and the Maqalat supplies both halves, so the position is the midpoint rather than the Maimonidean end.

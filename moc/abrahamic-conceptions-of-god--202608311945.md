@@ -619,6 +619,18 @@ track.
 
 - [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]] — Grudem's formal definition of God's spirituality reads that God "has no parts or dimensions," so the partlessness clause classical theology names simplicity turns up inside a third Grudem attribute-definition (spirituality, alongside unity and knowledge), each time as a denial fenced by a positive that keeps God being or acting.
 
+### The Islamic kalam, added 2026-09-07: the midpoint found in the primary text
+
+The axis above predicted, without evidence, that the Islamic *kalam* would land at
+a middle setting admitting real attributes "neither He nor other than He". Inquiry
+202609051929 tested it. al-Ibana could not: it affirms the attributes as real but
+withholds the relation-term under *bila kayfa*, and its one relational datum (names
+are "not other than He") leaned Maimonidean. al-Ash'ari's own doxography, the
+*Maqalat al-Islamiyyin*, supplies the full formula in the primary text, and it
+confirms the prediction.
+
+- [[al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135]] — reporting Ibn Kullab (p. 546), the Maqalat gives both negations, *la hiya huwa wa-la ghayruhu*: the attributes are real and eternal yet neither identical with the essence (against the Mu'tazila) nor "other than" it (which would break simplicity). Two settings sit on the one axis — the Mu'tazila reducing the attributes to the essence at the Maimonidean end, the Kullabi–Ash'ariyya fencing the no-composition constraint short of them at the middle.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

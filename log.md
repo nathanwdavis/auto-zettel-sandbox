@@ -1931,3 +1931,24 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T13:57:37Z` remote_cycle: gates PASS
 - `2026-09-07T13:57:37Z` remote_cycle: finish zettel/run-20260907134210 (skill-rev=17e9f39; lock released after push)
 - `2026-09-07T13:57:37Z` remote_cycle: PR for zettel/run-20260907134210 must be opened by the session (GitHub CLI not installed in this container)
+- `2026-09-07T21:19:23Z` remote_cycle: agents: resolved 0 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
+- `2026-09-07T21:19:23Z` remote_cycle: start (mode=B holder=remote-session session=session_01LABagGo9MtLkweCq4LesL3 branch=zettel/run-20260907211923 skill-rev=17e9f39)
+- `2026-09-07T21:29:27Z` capture: reference -> reference/maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129.md (identity=url:archive.org/details/in.ernet.dli.2015.432632, verified=no)
+- `2026-09-07T21:33:24Z` verify_refs: 105/105 verified
+- `2026-09-07T21:34:53Z` capture: literature -> literature/al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134.md
+- `2026-09-07T21:35:21Z` capture: permanent -> permanent/al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135.md
+- `2026-09-07T21:37:12Z` capture: inquiry-update do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929 status=in-progress->answered result_notes=+al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135
+- `2026-09-07T21:37:39Z` build_manifest: 352 notes indexed
+- `2026-09-07T21:38:46Z` verify_refs: 105/105 verified
+- `2026-09-07T21:39:01Z` lint_citations: PASS
+- `2026-09-07T21:39:02Z` lint_links: PASS
+- `2026-09-07T21:39:02Z` lint_skills: PASS
+- `2026-09-07T21:39:03Z` check_skill_sandbox: PASS
+- `2026-09-07T21:39:04Z` remote_cycle: gates PASS
+- `2026-09-07T21:40:35Z` step 2 (INBOX + inquiries): read INBOX first; no `new` inquiries in inquiries/, one `in-progress` HIGH (202609051929 Ash'ari/Mu'tazili). Most recent INBOX entry (2026-09-07 dropped Grudem source) already answered by PR #77; no source pending in drop/. Worked the in-progress HIGH inquiry.
+- `2026-09-07T21:40:35Z` step 3 (research, self-directed, small run): reached al-Ash'ari's Maqalat al-Islamiyyin (archive.org DLI scan in.ernet.dli.2015.432632, 1930 Arabic ed.). Item OCR too garbled to quote; read the page IMAGES for leaves 254/256 (printed pp. 546/548). Captured verbatim Arabic of the Sharh qawl Ibn Kullab passage (excerpt + both page images committed to raw/, SHA-256 recorded). New: reference 202609072129 (verified raw-capture, primary-text), literature 202609072134, permanent 202609072135. Formula la hiya huwa wa-la ghayruhu grounded in primary text; prediction in 202609042081 confirmed for the Ash'ari/Kullabi leg.
+- `2026-09-07T21:40:35Z` step 4 (fleeting sweep): updated fleeting 202609051950 -- its core (formula attributed to Ibn Kullab) is now grounded in the Maqalat and carried by permanent 202609072135; narrowed to the residual origination-vs-systematisation lead. No other fleeting notes.
+- `2026-09-07T21:40:35Z` step 5 (connector sweep): SKIPPED -- connector_cadence daily but a sweep already ran today (serendipity_sweep 2026-09-07T13:51Z, all candidates read and rejected); not due again.
+- `2026-09-07T21:40:35Z` step 6 (critic, self-review): PASS. New reference/literature/permanent notes checked for groundedness, atomicity, clarity, link quality. All eight Arabic quotations in the notes verified as exact substrings of the committed capture, which was itself transcribed from the two committed page images; edition attribution to Ritter hedged as an internal-feature inference; the one illegible word marked [غير واضح] and not quoted; Mu'tazili contrast rests on the existing al-Ibana-grounded note 202609051941, not on a fresh unverified claim. No note left below threshold.
+- `2026-09-07T21:40:35Z` step 7 (skill-smith): SKIPPED -- skill_smith_cadence weekly, last skill-smith 2026-09-01T11:01Z, next ~2026-09-08; no proposal awaiting a human decision.
+- `2026-09-07T21:40:35Z` step 10 (inquiries + INBOX): inquiry 202609051929 -> answered, result_notes 202609072135. INBOX entry filed recording the answer and three residual leads (Mu'tazili own-voice source; Ibn Kullab origination; DLI page-image capture route).
