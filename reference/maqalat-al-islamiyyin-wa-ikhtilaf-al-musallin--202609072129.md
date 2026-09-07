@@ -42,12 +42,13 @@ al-Ash'ari's *Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin*, his doxography of 
 Islamic sects and their doctrines. The Arabic text is by Abu al-Hasan al-Ash'ari
 (d. 324/935-6) and is public domain. This reference is to the 1930 printed Arabic
 edition digitised by the Digital Library of India (archive.org identifier
-in.ernet.dli.2015.432632). The 1930 date and the critical apparatus of
-manuscript-variant sigla in the page footers identify it as the standard critical
-edition prepared by Hellmut Ritter (Bibliotheca Islamica 1, first published
-1929–1930); the scanned pages captured here do not themselves print the editor's
-name, so the edition is identified from those internal features rather than a title
-page read for this cycle.
+in.ernet.dli.2015.432632); the title, author, and 1930 date are taken from the
+archive.org item metadata, not from a scanned title page read for this cycle. The
+1930 date and the critical apparatus of manuscript-variant sigla in the page footers
+are consistent with the standard critical edition prepared by Hellmut Ritter
+(Bibliotheca Islamica 1, first published 1929–1930); the scanned pages captured here
+do not themselves print the editor's name, so the editor is inferred from those
+internal features rather than confirmed from a title page read for this cycle.
 
 **Capture note:** Because the item's machine OCR of this classical Arabic is heavily
 garbled and cannot be quoted verbatim, the two passages used were read directly from

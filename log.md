@@ -1964,3 +1964,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T21:49:25Z` build_manifest: 352 notes indexed
 - `2026-09-07T21:49:39Z` lint_citations: PASS
 - `2026-09-07T21:49:40Z` lint_links: PASS
+- `2026-09-07T21:57:56Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-07T21:58:50Z` verify_refs: 105/105 verified
+- `2026-09-07T21:58:56Z` build_manifest: 352 notes indexed
+- `2026-09-07T21:59:10Z` lint_citations: PASS
+- `2026-09-07T21:59:11Z` lint_links: PASS
