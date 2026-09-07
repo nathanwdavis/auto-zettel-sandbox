@@ -6,7 +6,7 @@ aliases:
 - '202609051929'
 type: inquiry
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: '2026-09-07'
 question: Do the Ash'ari and Mu'tazili positions on the divine attributes land where
   permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting
   real attributes that are 'neither He nor other than He'?
@@ -41,3 +41,29 @@ Testing this properly needs a source where the school's relational formula
 actually lives: al-Ash'ari's *Maqalat al-Islamiyyin* (which reports Ibn Kullab),
 al-Baqillani, or al-Juwayni. Whether Ibn Kullab originated the formula is an
 unconfirmed lead in fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.
+
+## 2026-09-07
+
+**2026-09-07, bounded attempt, left open.** This cycle's main work was a human
+drop (Grudem on spirituality), so the kalam inquiry got a bounded source-hunt
+rather than a full stream. The prior cycle established that testing the
+prediction needs a source where the school's relational formula
+("neither He nor other than He") actually lives — al-Ash'ari's *Maqalat
+al-Islamiyyin* (which reports Ibn Kullab), al-Baqillani, or al-Juwayni. Progress
+on that: the *Maqalat* is located as a capturable Arabic full text on the
+Internet Archive (the Digital Library of India copy of the 1930 edition,
+archive.org/details/in.ernet.dli.2015.432632, ~328 pp.; a second Turkish/Arabic
+scan also carries full-text layers). No open English translation of the relevant
+section was found — the standard studies that quote the *la huwa wa la ghayruhu*
+formula (Wolfson, Frank, Gimaret) are in copyright. So the route forward is the
+primary Arabic text, read for the passage where al-Ash'ari reports the Kullabi
+position on the attributes' relation to the essence.
+
+Not done this cycle, deliberately: capturing and construing that passage to this
+base's standard is a research stream of its own — the al-Ibana stream on the
+same question cost several critic passes over Arabic pagination and translation
+fidelity, and a rushed Arabic synthesis on a HIGH-priority human inquiry would be
+worse than leaving it open. Next cycle: capture the *Maqalat* passage(s) on
+al-Kullabiyya's *sifat*, verify the Arabic verbatim, and read whether the
+attributes-to-essence relation there is the predicted midpoint or (as al-Ibana's
+"names are not other than He" suggested) sits nearer the Maimonidean end.

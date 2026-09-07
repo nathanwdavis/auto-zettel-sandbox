@@ -342,6 +342,8 @@
     "202609061921": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921",
     "202609061922": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922",
     "202609061923": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
+    "202609071347": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
+    "202609071348": "grudem-s-definition-of-spirituality-already-asserts-that--202609071348",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -357,7 +359,7 @@
       "question": "Do the Ash'ari and Mu'tazili positions on the divine attributes land where permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'?",
       "result_notes": [],
       "status": "in-progress",
-      "updated": "2026-09-05"
+      "updated": "2026-09-07"
     },
     {
       "key": "do-the-conciliar-texts-themselves-say-what-hodge-reports--202609041841",
@@ -668,7 +670,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 347,
+  "note_count": 349,
   "notes": [
     {
       "id": "202609041020",
@@ -2761,6 +2763,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md"
     },
     {
+      "id": "202609071347",
+      "key": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-defines-god-s-spirituality-as-immateriality--202609071347.md",
+      "slug": "grudem-defines-god-s-spirituality-as-immateriality",
+      "tags": [],
+      "title": "Grudem defines God's spirituality as immateriality, partlessness, imperceptibility, and supreme excellence",
+      "type": "literature",
+      "updated": "2026-09-07",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-god-s-spirituality-as-immateriality--202609071347.md"
+    },
+    {
       "id": "202609061915",
       "key": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915",
       "links": [
@@ -2820,6 +2839,31 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
     },
     {
+      "id": "202609071348",
+      "key": "grudem-s-definition-of-spirituality-already-asserts-that--202609071348",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-god-s-spirituality-as-immateriality--202609071347"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        }
+      ],
+      "path": "permanent/grudem-s-definition-of-spirituality-already-asserts-that--202609071348.md",
+      "slug": "grudem-s-definition-of-spirituality-already-asserts-that",
+      "tags": [],
+      "title": "Grudem's definition of spirituality already asserts that God has no parts",
+      "type": "permanent",
+      "updated": "2026-09-07",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-s-definition-of-spirituality-already-asserts-that--202609071348.md"
+    },
+    {
       "id": "202609050158",
       "key": "grudem-systematic-theology--202609050158",
       "links": [],
@@ -2828,7 +2872,7 @@
       "tags": [],
       "title": "Grudem, Systematic Theology",
       "type": "reference",
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {
@@ -2919,6 +2963,10 @@
           "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudem-s-definition-of-spirituality-already-asserts-that--202609071348"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
         },
@@ -2948,7 +2996,7 @@
       "tags": [],
       "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-07",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
     },
     {
