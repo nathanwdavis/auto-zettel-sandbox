@@ -130,8 +130,9 @@ committed: 40efac84cf183a5dea48329b7dc6041a5b6a4ebd663078e7f9d32faec663665f.
 attribute), foreseen at the end of paragraph (3) above, has now been ingested
 and is attached here as the excerpt capture raw/202609071342-ty-book.txt. Its
 provenance is the same as (3): a drop of the owner's own licensed copy, and its
-trailing RIS block prints the second edition, Zondervan Academic 2020, and an
-extent of 1586 pages, matching the Open Library record. It carries roughly five
+trailing RIS block prints the second edition, Zondervan Academic 2020, and the
+line `SP  - 1586` — the RIS start-page field, not a page-count field — whose
+value 1586 matches the book's Open Library page count. It carries roughly five
 paragraphs of pp. 221-222 verbatim (in copyright; kept small), closing with the
 chapter's formal definition of God's spirituality. Unlike the ch. 12 export,
 this drop DOES carry a page locator — pp. 221-222 — so it establishes the FIRST
