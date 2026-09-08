@@ -1,0 +1,162 @@
+Short verbatim excerpts from Wayne Grudem, Systematic Theology: An Introduction
+to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 13, "The
+Character of God: 'Communicable' Attributes (Part 2)", section D "Attributes of
+Purpose", items 14 (Will), 15 (Freedom) and 16 (Omnipotence)
+(reference: grudem-systematic-theology--202609050158).
+
+PROVENANCE. The repository owner (nathanwdavis) supplied this section as a
+15-page PDF in a Claude Code session on 2026-09-08, exported from their own
+licensed copy in Logos Bible Study, with the same running attribution to the
+second edition that the ch. 16 export carries. About 4,500 words; read entire by
+the session before any note was written. Fourth owner-supplied capture of the
+second edition, after the ch. 12 omniscience export (raw/202609061910), the pp.
+221-222 spirituality drop (raw/202609071342) and the ch. 16 providence export
+(raw/202609081823).
+
+PAGE NUMBERS. The export prints no book folios. Two of the section's own
+footnotes cite chapter 16 by book page: God's decrees at "pp. 440-42" and the
+relation of God's will to evil at "pp. 428-34". Both overlap the anchors the
+ch. 16 capture yielded from that chapter's internal references (pp. 440-41 and
+pp. 428-33) and extend each by a page; the difference is recorded and nothing
+in this repository turns on it. "Export p. N" below is the PDF page, 1-15.
+
+TEXT RECONSTRUCTION. Same defect as the ch. 16 export, plus one slot that
+chapter did not use. The embedded font subsets map the ligatures "Th", "tt" and
+"ft" onto ASCII glyph slots, here ! " # and -- new -- & ("&ere" for There,
+"&ough" for Though), with U+FFFE for line-break hyphenation. A full sweep for
+any non-alphanumeric character adjacent to letters was run over BOTH this export
+and the ch. 16 export before reconstruction; it found the & slot here and
+confirmed the ch. 16 text contains no &, so that earlier capture is unaffected.
+All 22 affected word-forms here were resolved individually, and every passage
+below was then checked as an exact substring of the reconstruction.
+
+EXTENT. This is NOT the full section. The book is under copyright and this
+repository is public, so only the passages this repository's notes cite are
+retained: 31 of them. (Two were added on a second pass: the passage-locating
+step matched quotations against single export pages, so the two that straddle a
+page break -- the definition of God's will, and the naming of the will of
+precept -- were silently dropped and then caught by a check of every quotation
+the notes use against the capture.) This capture was assembled AFTER the notes were written,
+from the quotations they actually use -- the procedure the ch. 16 ingest arrived
+at the hard way, having written its capture first and then found sixteen cited
+passages missing from it.
+
+CONTENTS NOT RETAINED. The section's fuller scriptural surveys under each
+heading; the treatment of God's omnipotence beyond its definition and the
+"cannot" list; and the chapter's promised material on the summary attributes
+(perfection, blessedness, beauty, glory), which the opening paragraph announces
+but the export does not reach.
+
+--- BEGIN EXCERPTS ---
+
+[export p. 1]
+mental attributes (knowledge, wisdom, and truthfulness),
+
+[export p. 2]
+all things,
+
+[export p. 2]
+might more explicitly be translated, 'who continually brings about everything
+in the universe according to the counsel of his will.'
+
+[export p. 3]
+not simply the fact of Jesus' death but all the detailed events connected with
+it
+
+[export p. 4]
+I am who I am
+
+[export p. 4]
+free choices
+
+[export p. 5]
+would rob God of his total independence. It would be to say that without us
+God could not truly be God.
+
+[export p. 6]
+Your will be done
+
+[export p. 6]
+includes most of his hidden decrees by which he governs the universe and
+determines everything that will happen,
+
+[export p. 6]
+pp. 440-42
+
+[export p. 6]
+sometimes also called God's will of decree.
+
+[export p. 6]
+would simply be to pray, 'May what is going to happen happen.' That would be a
+hollow prayer indeed, for it would not be asking for anything at all.
+
+[export p. 8]
+because the New Testament is clear that there will be a final judgment and not
+all will be saved.
+
+[export p. 9]
+; his revealed will is
+
+[export p. 9]
+I will come to you soon, if the Lord wills
+
+[export p. 10]
+Are There Two Wills in God?
+
+[export p. 10]
+by the hands of lawless men
+
+[export p. 10]
+definite plan and foreknowledge of God
+
+[export p. 10]
+pp. 428-34.
+
+[export p. 10]
+we must never understand it to imply that we are freed from responsibility for
+evil or that God is ever to be blamed for sin. Scripture never speaks that
+way, and we may not either, even though how this can be so may remain a
+mystery for us in this age.
+
+[export p. 11]
+that attribute of God whereby he does whatever he pleases
+
+[export p. 12]
+God's omnipotence means that God is able to do all his holy will,
+
+[export p. 14]
+We exercise choice and make real decisions regarding the events of our lives.
+Although our will is not absolutely free in the way God's is, God has
+nonetheless given us relative freedom within our spheres of activity in the
+universe he has created.
+
+[export p. 14]
+absolutely free,
+
+[export p. 14]
+an echo deep within every soul created in the image of God.
+
+[export p. 14]
+faint reflection
+
+[export p. 14]
+has made us in such a way that we show in our lives some faint reflection of
+each of them,
+
+[export p. 14]
+relative freedom.
+
+[export p. 14]
+spheres of activity
+
+[export pp. 1-2 | spans a page break]
+God’s will is that attribute of God whereby he approves and determines to
+bring about every action necessary for the existence and activity of himself
+and all creation.
+
+[export pp. 5-6 | spans a page break]
+Because God’s revealed will usually contains his commands or “precepts” for
+our moral conduct, God’s revealed will is sometimes also called God’s will of
+precept or will of command.
+
+--- END EXCERPTS ---

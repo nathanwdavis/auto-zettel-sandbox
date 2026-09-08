@@ -41,6 +41,8 @@ excerpt_captures:
 - raw/202609071342-ty-book.txt
 - raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt
 - raw/202609081823-grudem-ch16-providence-excerpts.txt
+- raw/202609081903-grudem-ch13-will-freedom-omnipotence-excerpts.txt
+- raw/202609081918-grudem-ch16-pharaoh-excerpts.txt
 links: []
 created: '2026-09-05'
 updated: '2026-09-08'
@@ -228,3 +230,52 @@ in the export, although the chapter's own definition names government as the
 third subtopic; whether that is the book or the export is not established, and
 no note here asserts anything about section C. SHA-256 of the capture as
 committed: 100416424ce39e6c247401cccaff5458c34d5c7d69e94d300a5c127adc249e0e.
+
+(7) Added 2026-09-08: a fourth owner drop, chapter 13 section D — "Attributes of
+Purpose", items 14 (Will), 15 (Freedom), 16 (Omnipotence) — as a 15-page Logos
+PDF, about 4,500 words, read entire. Attached as
+raw/202609081903-grudem-ch13-will-freedom-omnipotence-excerpts.txt, holding the
+29 passages the notes cite. Distilled at
+[[grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904]],
+with three atomic claims:
+[[grudems-two-wills-are-sorted-from-outside-the-verse--202609081905]],
+[[deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906]] and
+[[human-will-is-god-likeness-qualified-as-relative--202609081907]].
+
+Three things this capture settles or corrects for the record. First, its opening
+paragraph names chapter 12's contents in the book's own words — God's being
+(spirituality, invisibility), his "mental attributes (knowledge, wisdom, and
+truthfulness)", and his moral attributes — which CONFIRMS from the primary text
+the inference recorded in paragraph (5), that the wisdom material at pp. 232-233
+belongs to chapter 12 alongside knowledge. Second, two of its footnotes cite
+chapter 16 by book page, at "pp. 440-42" for the decrees and "pp. 428-34" for
+God's will and evil; both overlap the anchors paragraph (6) took from chapter
+16's own cross-references (440-41 and 428-33) and extend each by one page, so
+the wider ranges are now on file and the one-page discrepancy is recorded rather
+than silently harmonised. Third, its ligature encoding uses one glyph slot the
+ch. 16 export did not — & for "Th". That was found by a full sweep for any
+non-alphanumeric character adjacent to letters, run over this export AND back
+over the ch. 16 export; the sweep confirmed ch. 16's text contains no &, so the
+capture at paragraph (6) is unaffected and needed no correction.
+
+Procedurally this capture was built the right way round: the notes were written
+first and the retained passages assembled from the quotations they actually use,
+which is the rule paragraph (6)'s ingest arrived at only after its critic pass
+found sixteen cited passages missing from a capture written too early. SHA-256
+of the capture as committed: 15813f46eb653f2f0563d87359f7527c835423a8ce1bec948794eaaf423851c9.
+
+(8) Added 2026-09-08: raw/202609081918-grudem-ch16-pharaoh-excerpts.txt, six
+further passages from the SAME chapter 16 export as paragraph (6) — section B.7
+on the hardening of Pharaoh's heart, plus Joseph at Gen. 50:20. They were not
+cited when that chapter was ingested; inquiry 202609081908, comparing Grudem
+with Maimonides' Hilchot Teshuvah 6:3, made the notes cite them, and the result
+is at [[on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917]].
+
+They are a separate file for a reason worth recording. They were first appended
+to the capture at paragraph (6), which is an edit to an immutable raw/ capture;
+`check_skill_sandbox.py` flagged it (`raw-modified`, FR-33) before the commit,
+the earlier file was restored untouched, and the passages were re-homed here as
+an addition. The provenance, reconstruction method and extent statement in
+paragraph (6) govern both files, and each new passage was checked as an exact
+substring of the reconstructed chapter by the same method. SHA-256 of this
+capture as committed: 0745361d946980cc9cf443bc966cea949c738bcec87c7901db32022064e773d2.

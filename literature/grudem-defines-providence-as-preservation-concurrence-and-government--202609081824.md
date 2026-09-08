@@ -38,3 +38,14 @@ Grudem states the limit himself: "It seems better to affirm that God causes all 
 **Human action (E).** The section exists to block the inference from providence to passivity, and it does so by making means part of what is ordained: "God has ordained that our actions have effects. God has ordained that events will come about by our causing them." Worked through responsibility, prayer, Calvin on using remedies, and Paul at Corinth and in the shipwreck, where a revealed outcome still required that the sailors stay aboard. The summary is flat: "A hearty belief in God's providence is not a discouragement but a spur to action."
 
 **Gaps.** No "C. GOVERNMENT" heading appears in the export although the definition names government as the third subtopic and the chapter's special-terms list includes it; whether that is the book or the export is not established, and nothing here rests on section C. The export prints no book folios, so the page anchors in the locator come from the chapter's own cross-references, not from the page images. Grudem's footnotes cite Calvin, Berkhof, Bavinck, Feinberg and Ware, none of whom this repository has read directly; Calvin's *Institutes* is on file as a reference note but was not consulted for the passages quoted here.
+
+**Amended 2026-09-08.** Section B.7's treatment of the hardening of Pharaoh's
+heart, summarised above only by the two sentences on the mystery of God's
+relation to sin, is now captured in six further passages at
+raw/202609081918-grudem-ch16-pharaoh-excerpts.txt, added when inquiry
+202609081908 set Grudem beside Maimonides' Hilchot Teshuvah 6:3. Grudem states
+the reading that makes the hardening a response to Pharaoh's own prior
+hardening, and answers it on the chronology of Exodus and on concurrence; the
+comparison is at [[on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917]].
+The gap noted above — that the evil sections are the largest unworked seam in
+the capture — is narrowed, not closed.

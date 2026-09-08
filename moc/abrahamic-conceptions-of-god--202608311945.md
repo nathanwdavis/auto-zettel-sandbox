@@ -698,6 +698,29 @@ numbers on file for that section, sitting immediately before the wisdom pages
 its own authority, that most of what arrives in a life arrives through other
 people's choices, into Grudem's own argument.
 
+## Free will under sovereignty, added 2026-09-08: the first leg argued from a Jewish source
+
+Inquiry 202609081908 asked how the Christian doctrine of human free will under
+God's sovereignty differs from the doctrines of the traditions holding the same
+Pentateuch. The map was badly placed to answer it: it held Grudem's
+compatibilism in detail and Maimonides on the divine *attributes*, but not one
+Jewish or Islamic source on free will. Hilchot Teshuvah 5:1-5 and 6:3 and
+Pirkei Avot 3:15 are now on file, and the answer runs through four notes.
+
+- [[the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914]] — both traditions concede a mystery and neither claims to resolve the pair; what differs is where the mystery is placed. Maimonides puts it in divine knowledge ("He, may His name be praised, and His knowledge are one") and keeps the human half without doubt; Grudem puts it in the human half ("Exactly how can God cause us to choose something willingly?") and keeps exhaustive ordination. Each concedes precisely where the other's evidence would have to land.
+- [[simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915]] — the simplicity axis this map built for the same-God question turns out to do work in the free-will question. The identity of God with his knowledge is what disarms the argument from foreknowledge to necessity for Maimonides; Grudem holds a thinner simplicity, denying process in the knower rather than the knower/known distinction, and concedes the entailment instead of dissolving it.
+- [[commandment-texts-as-capacity-or-as-precept--202609081916]] — the two read a commandment as different kinds of evidence. For Maimonides "I have set before you today life" establishes "that the choice is in your hands," and free will is "a pillar of the Torah and mitzvot." Grudem's secret/revealed will assigns commands to the revealed will, which is compatible with the decree running otherwise, so the inference is blocked before it starts.
+- [[on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917]] — the one place the disagreement is explicit on both sides. Maimonides makes the hardening a judicial withdrawal of repentance after freely chosen sin; Grudem states that reading almost verbatim as an objection and answers it on the chronology of Exodus and on concurrence. Both build on Ex. 9:16, to opposite ends.
+
+Two boundaries this section should not be read past. Maimonides is not "Judaism"
+— Ra'avad objected to Hilchot Teshuvah 5:5 in the standard printings, no
+commentary is captured, and determinist strands in the rabbinic material are
+absent here. And the other two claimants to the Pentateuch are still missing:
+the Samaritans, who hold it and nothing else and are therefore the sharpest test
+of any Pentateuch-only argument, and the Islamic *qadar* literature, of which
+this map has the attribute debates (Mu'tazili and Ash'ari) but nothing on human
+acts. The Islamic leg is the one this base has the infrastructure to reach next.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
