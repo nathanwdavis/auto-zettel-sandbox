@@ -1,8 +1,17 @@
-Short verbatim excerpts from Wayne Grudem, Systematic Theology: An Introduction
-to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 13, "The
+Short RECONSTRUCTED excerpts from Wayne Grudem, Systematic Theology: An
+Introduction to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 13, "The
 Character of God: 'Communicable' Attributes (Part 2)", section D "Attributes of
 Purpose", items 14 (Will), 15 (Freedom) and 16 (Omnipotence)
 (reference: grudem-systematic-theology--202609050158).
+
+NOT a verbatim capture, and deliberately not called one, for the same reason as
+raw/202609081823: the PDF's text layer maps ligatures onto ASCII glyph slots, so
+what follows is a reconstruction of the printed text rather than a transcription
+of it (see TEXT RECONSTRUCTION below). Every passage below was checked as an
+exact substring of the reconstruction. Unlike the chapter 16 capture, NO page of
+this export was rendered as an image and read directly, so the reconstruction
+here rests on the resolution table alone; anything turning on the exact printed
+form of a passage should be checked against a page image first.
 
 PROVENANCE. The repository owner (nathanwdavis) supplied this section as a
 15-page PDF in a Claude Code session on 2026-09-08, exported from their own

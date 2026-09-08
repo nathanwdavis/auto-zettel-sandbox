@@ -1,6 +1,18 @@
-Short verbatim excerpts from Wayne Grudem, Systematic Theology: An Introduction
-to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 16, "God's
-Providence" (reference: grudem-systematic-theology--202609050158).
+Short RECONSTRUCTED excerpts from Wayne Grudem, Systematic Theology: An
+Introduction to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter
+16, "God's Providence" (reference: grudem-systematic-theology--202609050158).
+
+NOT a verbatim capture, and deliberately not called one. README defines raw/ as
+"Verbatim source captures", and this file does not meet that description: the
+PDF's text layer could not be read directly (see TEXT RECONSTRUCTION below), so
+what follows is a reconstruction of the printed text rather than a transcription
+of it. What IS claimed: every passage below was checked as an exact substring of
+the reconstruction, and the reconstruction was checked against rendered images of
+six pages, read directly, which matched character for character. What is NOT
+claimed: that the pages not rendered were verified the same way, or that italic
+emphasis, line breaks and footnote-marker placement survive. Anything turning on
+the exact printed form of a passage should be re-read from a page image before it
+is asserted.
 
 PROVENANCE. The repository owner (nathanwdavis) supplied the complete chapter
 as a PDF in a Claude Code session on 2026-09-08, exported from their own

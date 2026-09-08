@@ -18,7 +18,7 @@ A citation-grounded Zettelkasten, cultivated by the
 | `reference/` | Bibliographic records, one per source. |
 | `moc/` | Maps of content. |
 | `fleeting/` | Short-lived captures, swept each cycle. |
-| `raw/` | Verbatim source captures. Immutable. |
+| `raw/` | Source captures, verbatim where the source allows it. Immutable. |
 | `inquiries/` | Open questions and their answering notes. |
 | `proposed-links/` | Connector queue awaiting review. |
 | `skills/` | Self-authored child skills, pending human promotion. |
@@ -29,7 +29,19 @@ A citation-grounded Zettelkasten, cultivated by the
 
 Every claim traces to a verified source. A note whose reference cannot be
 verified — by a capture in `raw/` or an authoritative metadata lookup — fails
-the lint and never lands. Notes are named `<title-slug>--<timestamp-id>.md`;
+the lint and never lands.
+
+A capture is verbatim wherever the source permits it, and most are. Some sources
+do not permit it: a PDF whose embedded font subsets map ligatures onto ASCII
+glyph slots cannot be transcribed by reading its text layer, and what a capture
+of it holds is a *reconstruction* of the printed text. Such a file must say so in
+its first line, must record how the reconstruction was made and how it was
+checked, and must state plainly what fidelity is and is not being claimed —
+because a reader who takes a reconstruction for a transcription will quote
+characters the book does not contain. The three Grudem chapter captures of
+2026-09-08 are the worked examples.
+
+Notes are named `<title-slug>--<timestamp-id>.md`;
 the timestamp is immutable and the slug is frozen at creation, so links stay
 stable when a title is reworded.
 

@@ -2046,3 +2046,17 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-08T19:26:19Z` lint_skills: PASS
 - `2026-09-08T19:26:19Z` check_skill_sandbox: PASS
 - `2026-09-08T19:26:20Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:33:57Z` check_skill_sandbox: PASS
+- `2026-09-08T19:34:57Z` verify_refs: 107/107 verified
+- `2026-09-08T19:34:59Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:35:14Z` lint_citations: PASS
+- `2026-09-08T19:35:15Z` lint_links: PASS
+- `2026-09-08T19:35:15Z` check_skill_sandbox: PASS
+- `2026-09-08T19:35:40Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:35:55Z` lint_citations: PASS
+- `2026-09-08T19:35:56Z` lint_links: PASS
+- `2026-09-08T19:35:56Z` check_skill_sandbox: PASS
+- `2026-09-08T19:36:17Z` session (PR #79 review): the automated reviewer raised two comments, both the same legitimate finding — three captures opened with "verbatim excerpts" while their own TEXT RECONSTRUCTION sections described a reconstruction, contradicting README's definition of raw/ as "Verbatim source captures". Accepted. raw/202609081823, raw/202609081903 and raw/202609081918 now say RECONSTRUCTED in their first line and state what fidelity is and is not claimed; the chapter 13 file records that NO page of it was rendered as an image, so its reconstruction rests on the resolution table alone, unlike chapter 16's. The root inconsistency was in README, which promised something the repository no longer delivered, so its ground rules were amended too: a capture is verbatim wherever the source permits it, and a source that does not permit it must say so in the capture's first line. raw/202609081644 (pp. 232-233) and the two Sefaria captures were NOT changed — they are genuine transcriptions. Reference note paragraph (9) records the correction and the three recomputed SHA-256 values.
+- `2026-09-08T19:36:17Z` session (process note): the header edits changed the captures' SHA-256 values, which the reference note records; all three were recomputed rather than left stale. Editing these files is legitimate only because they are ADDITIONS in the open PR and have not landed on main — check_skill_sandbox against origin/main confirms it reports no raw-modified violation. Once merged they are immutable and a correction of this kind would have to be an additive file, as the Pharaoh passages were.
+- `2026-09-08T19:36:17Z` session (own error, corrected): a defensive `git checkout HEAD -- reference/` was chained into the same command as a real edit to the reference note, and silently discarded that edit along with the offline-verify damage it was meant to undo. The reference-note corrections were redone. Do not combine a revert with an edit to the same path in one command.
+- `2026-09-08T19:36:18Z` build_manifest: 377 notes indexed

@@ -229,7 +229,7 @@ One caution for anyone citing this capture: no "C. GOVERNMENT" heading appears
 in the export, although the chapter's own definition names government as the
 third subtopic; whether that is the book or the export is not established, and
 no note here asserts anything about section C. SHA-256 of the capture as
-committed: 100416424ce39e6c247401cccaff5458c34d5c7d69e94d300a5c127adc249e0e.
+committed: 2f6694955044977a099aed7408b9eced458050937a683fb725f2958b31757d09.
 
 (7) Added 2026-09-08: a fourth owner drop, chapter 13 section D — "Attributes of
 Purpose", items 14 (Will), 15 (Freedom), 16 (Omnipotence) — as a 15-page Logos
@@ -262,7 +262,7 @@ Procedurally this capture was built the right way round: the notes were written
 first and the retained passages assembled from the quotations they actually use,
 which is the rule paragraph (6)'s ingest arrived at only after its critic pass
 found sixteen cited passages missing from a capture written too early. SHA-256
-of the capture as committed: 15813f46eb653f2f0563d87359f7527c835423a8ce1bec948794eaaf423851c9.
+of the capture as committed: ad14778b9823aeebec80616afdce8009a5d42ba1979ee31a869a10a9e17bdb66.
 
 (8) Added 2026-09-08: raw/202609081918-grudem-ch16-pharaoh-excerpts.txt, six
 further passages from the SAME chapter 16 export as paragraph (6) — section B.7
@@ -278,4 +278,23 @@ the earlier file was restored untouched, and the passages were re-homed here as
 an addition. The provenance, reconstruction method and extent statement in
 paragraph (6) govern both files, and each new passage was checked as an exact
 substring of the reconstructed chapter by the same method. SHA-256 of this
-capture as committed: 0745361d946980cc9cf443bc966cea949c738bcec87c7901db32022064e773d2.
+capture as committed: 8aeedd4b15ee54c848b2d9a62293211d21890df72bc39bfe3d63208b0d23c3dd.
+
+(9) Corrected 2026-09-08, on review of PR #79. The captures at paragraphs (6),
+(7) and (8) opened with the words "verbatim excerpts", and the automated
+reviewer pointed out that this contradicts both their own TEXT RECONSTRUCTION
+sections and the README's definition of raw/ as verbatim source captures. The
+objection is right and the label is now corrected: all three say RECONSTRUCTED
+in their first line and carry an explicit statement of what fidelity is and is
+not claimed -- that every retained passage was checked as an exact substring of
+the reconstruction, that six pages of the chapter 16 export were additionally
+rendered as images and read directly, and that NO page of the chapter 13 export
+was, so its reconstruction rests on the resolution table alone. The SHA-256
+values recorded above are the corrected files'. The README's ground rules were
+amended in the same change, since the inconsistency was really there: a capture
+is verbatim wherever the source permits it, and a source that does not permit it
+must say so in the capture's first line rather than in a section further down.
+The pp. 232-233 wisdom capture of paragraph (5) is untouched, because it IS
+verbatim -- character for character, curly quotation marks and en-dashes
+included -- and the Sefaria captures made the same day are likewise genuine
+transcriptions.
