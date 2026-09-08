@@ -17,6 +17,10 @@ links:
   relation: elaborates
 - target_id: grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921
   relation: shared-concept
+- target_id: concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826
+  relation: elaborates
+- target_id: a-situation-is-made-of-other-peoples-choices--202609081830
+  relation: supports
 created: '2026-09-08'
 updated: '2026-09-08'
 ---
@@ -71,3 +75,23 @@ pastoral and polemical passages of one book and should be replaced by that
 chapter's own argument when it can be captured. Finally, the claim about what
 the open theist can and cannot say is an inference from the position as Grudem
 reports it; no open theist has been read directly in this base.
+
+**Amended 2026-09-08, from chapter 16.** The limits above named the providence
+chapter as the thing that would replace this note's inference with an argument,
+and said the note "should be replaced by that chapter's own argument when it can
+be captured." The chapter is now on file, and it does two things to this note.
+It supplies the mechanism the wisdom passage asserted without defending —
+concurrence, on which every event is "fully (100 percent) caused by God and
+fully (100 percent) caused by the creature as well," God as primary cause and
+creaturely properties as the observable secondary ones
+([[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]]). And
+it turns the second paragraph's premise from this base's reading into Grudem's
+own argument: objecting to middle knowledge, he insists that "every situation in
+which people find themselves is itself the result of thousands, in fact
+millions, of individual human choices," so that no one can bring about a
+situation without determining the choices it is made of
+([[a-situation-is-made-of-other-peoples-choices--202609081830]]). What remains
+this base's own is the *pairing* of the two chapters; Grudem does not cite his
+wisdom section here. One thing the chapter does not supply is an explanation:
+he lists "Exactly how can God cause us to choose something willingly?" among the
+questions his position cannot answer.

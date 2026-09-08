@@ -36,3 +36,17 @@ The worked case is Paul's thorn. Grudem cites 2 Cor. 12:7 for the thorn and 12:8
 **One thing the passage does that is worth recording exactly.** The ESV wording Grudem quotes makes "all things" the grammatical subject: *all things work together for good*. Both of his restatements of it supply God as the agent of that working — "God does work wisely in all the things that come into our lives," and "God causes all things to move us toward his ultimate goal for our lives." Whether Rom. 8:28 should be construed with God as subject is a real and contested question about the verse, turning on a textual variant this base has not examined; the point here is only that Grudem's paraphrase settles it in one direction without marking that it has, in a passage where the quoted rendering does not.
 
 **Gaps.** (1) The chapter's formal definition of God's wisdom is not in the capture, so this base still has no statement of what Grudem takes God's wisdom to *be*, only of what it does in a life and what portion of it is shared. (2) The mechanism behind "God causes all things" is not argued here; the omniscience section already deferred the corresponding question about freedom to the chapter on providence, and that chapter is still not on file — it is now the single most-cited absence in the base's Grudem material. (3) No verse cited here has been independently captured, so Rom. 8:28-29, 2 Cor. 12:7-10, James 1:5 and 3:13-18, Ps. 19:7 and 111:10, Prov. 1:7, 9:10 and 11:2, and Deut. 4:6-8 are all on file only as Grudem quotes or cites them. (4) No footnotes accompanied the passage, so nothing here is traceable to a source Grudem was reading.
+
+**Amended 2026-09-08.** Gap (2) above — that the mechanism behind "God causes
+all things" is not argued here, and that the providence chapter carrying it was
+"the single most-cited absence in the base's Grudem material" — is closed. The
+owner supplied chapter 16 in full on the same day; it is captured at
+raw/202609081823 and distilled at
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+and [[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]].
+Chapter 16 also uses Rom. 8:28 itself, in the same consoling register, glossing
+adversity as something that "has not come about because God was unable to
+prevent it, but because it too is part of his wise plan" — which ties the
+providence chapter back to the attribute this note summarises. Gaps (1), (3) and
+(4) stand: the chapter does not define God's wisdom, captures no verse
+independently, and its footnotes were read only as Grudem gives them.

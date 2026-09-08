@@ -28,10 +28,11 @@ chicago_note: 'Wayne A. Grudem, Systematic Theology: An Introduction to Biblical
 chicago_bib: 'Grudem, Wayne A. Systematic Theology: An Introduction to Biblical Doctrine.
   2nd ed. Zondervan Academic, 2020.'
 verification:
-  method: raw-capture
-  source: raw/202609050158-grudem-systematic-theology.txt
+  method: raw-capture+openlibrary
+  source: https://openlibrary.org/isbn/9780310517979
   verified: true
-  date: '2026-09-08T16:56:30Z'
+  identifier_check: confirmed
+  date: '2026-09-08T18:31:43Z'
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
 excerpt_captures:
 - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
@@ -39,6 +40,7 @@ excerpt_captures:
 - raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt
 - raw/202609071342-ty-book.txt
 - raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt
+- raw/202609081823-grudem-ch16-providence-excerpts.txt
 links: []
 created: '2026-09-05'
 updated: '2026-09-08'
@@ -171,3 +173,58 @@ first material in the repository from the COMMUNICABLE half of Grudem's
 taxonomy; every earlier capture treated an incommunicable attribute, or
 knowledge and spirituality. SHA-256 of the capture as committed:
 f88772573884ea55c24652484b727cbb3b4e172a18a49f436f2f717ada5e9cc0.
+
+(6) Added 2026-09-08: the owner supplied the WHOLE of chapter 16, "God's
+Providence," as a Logos-exported PDF (83 export pages, roughly 24,300 words),
+answering the standing INBOX request filed earlier the same day. It is attached
+as raw/202609081823-grudem-ch16-providence-excerpts.txt. This is the largest
+capture of the second edition on file and the first for which the complete text
+of a whole chapter was read by the session; per the copyright rule that governs
+paragraphs (3)-(5), only the 64 short passages the notes cite are retained, with
+the chapter's full heading outline recorded so that what is absent is visible.
+That count rose from 48 after a post-writing check of every quotation used in
+the notes against the reconstructed chapter: sixteen passages the notes cite had
+not been retained by the first pass, and three carried an extraction artifact (a
+footnote marker floated into the sentence, or foot-of-page matter falling between
+the halves of a sentence broken across a page). All are now retained, corrected,
+and flagged in place.
+
+Two things about this capture are unlike the earlier three. First, its text
+needed RECONSTRUCTION: the PDF's embedded font subsets map the ligatures "Th",
+"tt" and "ft" onto five ASCII glyph slots (! " # $ %), inconsistently from page
+to page, and mark line-break hyphenation with U+FFFE, so "Co!rell" is Cottrell,
+"swi$" is swift, and "o%en" is often. Each of 84 distinct affected word-forms was
+resolved individually, hyphenation joins were applied except where the break fell
+on a real hyphen, and every retained quotation was then checked programmatically
+as an exact substring of the reconstruction. Because a reconstruction is not a
+capture, the session additionally rendered export pp. 2, 9, 35, 64, 69 and 77 as
+page images and read them directly; all matched character for character. The
+capture header records the method in full.
+
+Second, it establishes BOOK PAGE NUMBERS for material this repository already
+holds but could not locate. The export prints no folios, but the chapter's own
+cross-references do: sec. B.7 at pp. 428-433, sec. D at pp. 440-441, the
+discussion of Cottrell on freedom at pp. 451-455, the concurrence examples at
+pp. 422-433 - and, reaching back into chapter 12, "the discussion of open theism
+in chapter 12, pp. 227-30" and "I affirmed this in chapter 12, pages 225-31."
+Those last two are the first page numbers on file for the second edition's
+treatment of God's knowledge, they sit immediately before the wisdom material of
+paragraph (5) at pp. 232-233, and the omniscience literature note's locator has
+been amended to carry them.
+
+The chapter is distilled at
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+(secs. A-E) and
+[[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]]
+(secs. F-G), with six atomic claims drawn from it:
+[[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]],
+[[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]],
+[[grudem-takes-positions-whose-standard-names-he-declines--202609081828]],
+[[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]],
+[[a-situation-is-made-of-other-peoples-choices--202609081830]] and
+[[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]].
+One caution for anyone citing this capture: no "C. GOVERNMENT" heading appears
+in the export, although the chapter's own definition names government as the
+third subtopic; whether that is the book or the export is not established, and
+no note here asserts anything about section C. SHA-256 of the capture as
+committed: 100416424ce39e6c247401cccaff5458c34d5c7d69e94d300a5c127adc249e0e.

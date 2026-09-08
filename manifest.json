@@ -352,6 +352,14 @@
     "202609081647": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647",
     "202609081648": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
     "202609081649": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649",
+    "202609081824": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824",
+    "202609081825": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825",
+    "202609081826": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826",
+    "202609081827": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827",
+    "202609081828": "grudem-takes-positions-whose-standard-names-he-declines--202609081828",
+    "202609081829": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829",
+    "202609081830": "a-situation-is-made-of-other-peoples-choices--202609081830",
+    "202609081831": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -680,7 +688,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 357,
+  "note_count": 365,
   "notes": [
     {
       "id": "202609041020",
@@ -871,6 +879,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905.md"
+    },
+    {
+      "id": "202609081830",
+      "key": "a-situation-is-made-of-other-peoples-choices--202609081830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "supports",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        }
+      ],
+      "path": "permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md",
+      "slug": "a-situation-is-made-of-other-peoples-choices",
+      "tags": [],
+      "title": "Grudem's strongest objection to middle knowledge is that a situation is itself made of other people's choices",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md"
     },
     {
       "id": "202609010113",
@@ -2114,6 +2151,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
     },
     {
+      "id": "202609081826",
+      "key": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        }
+      ],
+      "path": "permanent/concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826.md",
+      "slug": "concurrence-is-the-mechanism-the-wisdom-section-assumed",
+      "tags": [],
+      "title": "Grudem's concurrence supplies the mechanism his wisdom section asserted without argument",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826.md"
+    },
+    {
       "id": "202609040350",
       "key": "confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350",
       "links": [
@@ -2775,6 +2841,14 @@
         {
           "relation": "elaborates",
           "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
         }
       ],
       "path": "permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md",
@@ -2817,6 +2891,23 @@
       "type": "permanent",
       "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md"
+    },
+    {
+      "id": "202609081825",
+      "key": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825.md",
+      "slug": "grudem-answers-the-arminian-by-comparing-unanswered-questions",
+      "tags": [],
+      "title": "Grudem states the Arminian position at length and answers it by comparing which questions each side leaves unanswered",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825.md"
     },
     {
       "id": "202609081645",
@@ -2866,8 +2957,25 @@
       "tags": [],
       "title": "Grudem defines omniscience as one simple and eternal act, and rejects open theism by Isaiah's test of deity",
       "type": "literature",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915.md"
+    },
+    {
+      "id": "202609081824",
+      "key": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-defines-providence-as-preservation-concurrence-and-government--202609081824.md",
+      "slug": "grudem-defines-providence-as-preservation-concurrence-and-government",
+      "tags": [],
+      "title": "Grudem defines providence as preservation, concurrence and government, and makes every event fully caused twice over",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-providence-as-preservation-concurrence-and-government--202609081824.md"
     },
     {
       "id": "202609081647",
@@ -2920,6 +3028,10 @@
       "key": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
         },
@@ -2937,7 +3049,7 @@
       "tags": [],
       "title": "Grudem grounds God's knowledge of the possible in self-knowledge, and his scriptural cases are about what creatures would do",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
     },
     {
@@ -3025,6 +3137,35 @@
       "type": "reference",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md"
+    },
+    {
+      "id": "202609081828",
+      "key": "grudem-takes-positions-whose-standard-names-he-declines--202609081828",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        }
+      ],
+      "path": "permanent/grudem-takes-positions-whose-standard-names-he-declines--202609081828.md",
+      "slug": "grudem-takes-positions-whose-standard-names-he-declines",
+      "tags": [],
+      "title": "Grudem repeatedly takes a position and declines its standard name, on the ground that the name will be misread",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-takes-positions-whose-standard-names-he-declines--202609081828.md"
     },
     {
       "id": "202609050548",
@@ -3134,6 +3275,14 @@
       "id": "202609081646",
       "key": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646",
       "links": [
+        {
+          "relation": "supports",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
+        },
         {
           "relation": "elaborates",
           "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
@@ -6323,6 +6472,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
     },
     {
+      "id": "202609081831",
+      "key": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649"
+        }
+      ],
+      "path": "permanent/the-dispute-is-decided-by-which-residue-honours-god-more--202609081831.md",
+      "slug": "the-dispute-is-decided-by-which-residue-honours-god-more",
+      "tags": [],
+      "title": "Grudem decides the providence dispute by which side's unanswered questions leave God greater",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-dispute-is-decided-by-which-residue-honours-god-more--202609081831.md"
+    },
+    {
       "id": "202609041910",
       "key": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910",
       "links": [
@@ -6418,6 +6596,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155.md"
     },
     {
+      "id": "202609081829",
+      "key": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829.md",
+      "slug": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16",
+      "tags": [],
+      "title": "The entailment chapter 12 paid as a cost is the argument chapter 16 attacks with",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829.md"
+    },
+    {
       "id": "202609040710",
       "key": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
       "links": [
@@ -6461,6 +6668,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710.md"
+    },
+    {
+      "id": "202609081827",
+      "key": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md",
+      "slug": "the-freedom-grudem-deferred-is-compatibilist-freedom",
+      "tags": [],
+      "title": "The freedom chapter 12 deferred turns out to be compatibilist freedom, and chapter 16 says so in a footnote",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md"
     },
     {
       "id": "202609011038",
@@ -8917,6 +9153,10 @@
         {
           "relation": "analogous",
           "target_id": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
         }
       ],
       "path": "permanent/wisdom-in-a-life-is-read-off-the-promised-goal--202609081649.md",

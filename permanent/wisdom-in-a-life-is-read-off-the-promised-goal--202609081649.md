@@ -19,6 +19,8 @@ links:
   relation: shared-concept
 - target_id: knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040
   relation: shared-concept
+- target_id: the-dispute-is-decided-by-which-residue-honours-god-more--202609081831
+  relation: shared-concept
 created: '2026-09-08'
 updated: '2026-09-08'
 ---

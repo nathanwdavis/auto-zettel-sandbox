@@ -14,8 +14,10 @@ links:
   relation: source
 - target_id: grudems-simple-act-of-knowing-denies-process-not-composition--202609061920
   relation: shared-concept
+- target_id: a-situation-is-made-of-other-peoples-choices--202609081830
+  relation: elaborates
 created: '2026-09-06'
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 Grudem's definition makes God know "all things actual and possible", and the
 sub-section on the possible gives that clause two grounds that do not reach the
@@ -63,3 +65,18 @@ invoked, because no source stating it is on file in this repository. The link
 to [[grudems-simple-act-of-knowing-denies-process-not-composition--202609061920]]
 is for the shared premise, God's complete self-knowledge, from which both that
 note's "simple act" and this note's deduction start.
+
+**Amended 2026-09-08, from chapter 16.** This note found that the deduction from
+self-knowledge reaches what God *could do* while the scriptural cases are about
+what creatures *would do*, and that chapter 12 left the bridge between them
+unstated. Chapter 16 states it, though not in Grudem's own voice: answering the
+Molinists he says the dispute "is not about whether God knows how people would
+respond if various kinds of circumstances came about (I affirmed this in chapter
+12, pages 225–31)," and adds parenthetically "that John Frame points out that
+such knowledge is already part of God's necessary knowledge, or what Craig calls
+natural knowledge." So the two are not meant to be distinct faculties, and the
+missing bridge is Frame's identification of counterfactual knowledge with
+natural knowledge — a premise a Molinist would contest, which is why chapter 16
+can dismiss middle knowledge as redundant rather than false
+([[a-situation-is-made-of-other-peoples-choices--202609081830]]). That
+back-reference also dates this chapter-12 material to book pp. 225–231.

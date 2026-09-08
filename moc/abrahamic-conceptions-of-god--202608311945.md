@@ -661,6 +661,43 @@ circumstances — so the two halves of the confirm/ground distinction now have a
 instance apiece in this map, one from natural theology and one from the
 pastoral use of a doctrine.
 
+## Providence, added 2026-09-08: the chapter every other Grudem note deferred to
+
+The doctrine of providence had been the base's most-cited absence. Chapter 12's
+omniscience section deferred the compatibility of foreknowledge and human choice
+to it; the wisdom section at pp. 232-233 asserted that "God causes all things to
+move us toward his ultimate goal" and argued nothing for it; and two permanent
+notes named the missing chapter in their own limits. The owner supplied the whole
+of chapter 16 the same day the request was filed. It is the largest second-edition
+capture on file, the first whole chapter read here, and the first that had to be
+reconstructed from broken ligature encodings and then checked against rendered
+page images. Distilled at
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+(secs. A-E) and
+[[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]]
+(secs. F-G).
+
+Read the six in two groups. The first three are what the chapter settles:
+
+- [[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]] — every event is "fully (100 percent) caused by God and fully (100 percent) caused by the creature as well," God as the invisible primary cause and creaturely properties as the observable secondary ones. Not two shares of one quantity but two offices, which is what lets "all things" range over every event without a natural explanation ever subtracting from the divine one.
+- [[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]] — the freedom kept is Ware's "freedom of inclination," which "does not rule out the idea that our choices may ultimately be determined by God in ways invisible to us," and which a footnote glosses as "compatibilist freedom." The base had reached this by inference from a single concession in chapter 12; the primary text now says it.
+- [[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]] — the inference from foreknowledge to fixity, which chapter 12 paid as a cost, is here the argument against the Arminian who tries to keep foreknowledge without foreordination. Same step, opposite function; and the position the base had recorded as unrepresented turns out to be represented and answered.
+
+The second three are the chapter's own arguments, and each reaches somewhere
+else on this map:
+
+- [[grudem-takes-positions-whose-standard-names-he-declines--202609081828]] — determinism, compatibilism and (via Calvin, quoted with approval) free will are each granted in substance and refused as words, always because the word will be misread. A method note: it is why a reader searching Grudem for his position finds the terms only where he declines them.
+- [[a-situation-is-made-of-other-peoples-choices--202609081830]] — against Molinism, that no one can bring about a set of circumstances without determining the millions of prior human choices the circumstances are made of. It also supplies, in Frame's words, the bridge from God's knowledge of what he *could do* to his knowledge of what creatures *would do* that chapter 12 left unstated.
+- [[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]] — the chapter closes by conceding two questions Calvinism cannot answer and then choosing between two incomplete positions by which residue leaves God greater. A doxological tie-breaker, stated openly as the last word, and the same shape as the confirm/ground distinction the natural-theology branch of this map already tracks.
+
+Two consequences beyond the chapter itself. Its internal cross-references print
+book pages the exports do not, dating chapter 12's material on God's knowledge
+to pp. 225-231 and its open-theism discussion to pp. 227-230 — the first page
+numbers on file for that section, sitting immediately before the wisdom pages
+232-233. And its objection to Molinism turns a premise this base had supplied on
+its own authority, that most of what arrives in a life arrives through other
+people's choices, into Grudem's own argument.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],

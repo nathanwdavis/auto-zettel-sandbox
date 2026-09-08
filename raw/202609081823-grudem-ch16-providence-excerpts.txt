@@ -1,0 +1,365 @@
+Short verbatim excerpts from Wayne Grudem, Systematic Theology: An Introduction
+to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter 16, "God's
+Providence" (reference: grudem-systematic-theology--202609050158).
+
+PROVENANCE. The repository owner (nathanwdavis) supplied the complete chapter
+as a PDF in a Claude Code session on 2026-09-08, exported from their own
+licensed copy in Logos Bible Study. Every page carries the running attribution
+"Wayne Grudem, Systematic Theology: An Introduction to Biblical Doctrine, Second
+Edition (Grand Rapids, MI: Zondervan Academic, 2020)." and the footer "Exported
+from Logos Bible Study, 2:09 PM September 8, 2026." The export is 83 pages of
+roughly 24,300 words; the whole chapter was read by the session before any note
+was written. This is the third owner-supplied capture of the second edition,
+after the ch. 12 omniscience export (raw/202609061910) and the pp. 221-222
+spirituality drop (raw/202609071342), and by far the largest.
+
+PAGE NUMBERS. The export's own page numbers (1-83, cited below as "export p.N")
+are Logos export pages, NOT book pages: the footer numbers the export, and no
+book folio is printed. The chapter's own internal cross-references do, however,
+print second-edition book pages, and five are retained below. They anchor the
+chapter at book pp. 422-455 at least, and -- importantly for notes already in
+this repository -- they date chapter 12's treatment of God's knowledge of the
+possible to book pp. 225-231 and its open-theism discussion to pp. 227-230,
+which the ch. 12 export itself could not supply.
+
+TEXT RECONSTRUCTION. The PDF's embedded font subsets map the ligatures "Th",
+"tt" and "ft" onto five ASCII glyph slots (! " # $ %), inconsistently from page
+to page, and mark line-break hyphenation with U+FFFE. The extracted text was
+therefore reconstructed: each affected word-form was resolved individually (84
+distinct forms; e.g. word-initial -> "Th", "Co!rell" -> "Cottrell", "o%en" ->
+"often", "swi$" -> "swift"), hyphenation joins were applied except where the
+break fell on a real hyphen ("behind-the-scenes" and one URL), and running
+headers and footers were stripped. Every quotation below was then checked
+programmatically as an exact substring of the reconstructed text, and the
+reconstruction itself was checked against rendered page images of export pp. 2,
+9, 35, 64, 69 and 77 -- read directly by the session -- which matched character
+for character. Italic emphasis in the original is not reproduced here; where a
+note leans on Grudem's emphasis it says so.
+
+TWO EXTRACTION ARTIFACTS, corrected in the passages below and flagged in place.
+(a) Footnote reference numbers sometimes float into the sentence they mark, so
+the extracted text reads "God's relation 15 to sin" and "God's control19 or".
+The passages below give the reading without the marker and record what the
+extraction showed. (b) At a page break the foot-of-page material is extracted
+between the two halves of the broken sentence, so three retained passages are
+continuous in the book but interrupted in the extraction; each says so. Both
+artifacts were identified by a post-writing check of every quotation used in the
+notes against the reconstructed chapter, not by the first pass, and both were
+confirmed against the text either side of the interruption.
+
+EXTENT. This is NOT the full chapter. The book is under copyright and this
+repository is public, so only the sentences this repository's notes cite are
+retained: 64 short passages out of roughly 24,300 words. The chapter's structure
+is recorded in the outline below so that what is absent is visible.
+
+OUTLINE (headings as printed, with export page).
+  EXPLANATION AND SCRIPTURAL BASIS (1)
+  A. PRESERVATION (3)
+  B. CONCURRENCE (5): 1. Inanimate Creation (6); 2. Animals (7); 3. Seemingly
+     "Random" or "Chance" Events (8); 4. Events Fully Caused by God and Fully
+     Caused by the Creature as Well (8); 5. The Affairs of Nations (10);
+     6. All Aspects of Our Lives (10); 7. What about Evil? (16); 8. Analysis of
+     Verses Relating to God and Evil (25); 9. Are We Free? Do We Have Free
+     Will? (31)
+  D. THE DECREES OF GOD (36)
+  E. THE IMPORTANCE OF OUR HUMAN ACTIONS (37): 1-5 (37-43)
+  F. ANOTHER EVANGELICAL VIEW: THE ARMINIAN POSITION (43): 1-4 (46-50)
+  G. RESPONSE TO THE ARMINIAN POSITION (51): 1-5 (52-77), including
+     a-d on foreknowledge without foreordination, open theism, middle
+     knowledge (Molinism), and "The Difference in the Unanswered Questions"
+  BIBLIOGRAPHY (78)
+
+NOTE ON SECTION C. The chapter's own definition names three subtopics --
+preservation, concurrence, and government -- and "government" appears in the
+chapter's SPECIAL TERMS list, but no "C. GOVERNMENT" heading appears anywhere in
+this export, which runs from B.9 (export p. 31) straight to "D. THE DECREES OF
+GOD" (export p. 36). Whether the heading is absent from the book or was lost in
+the export is NOT established here, and no note in this repository asserts
+anything about the content of section C.
+
+--- BEGIN EXCERPTS ---
+
+[export p. 1 | providence defined]
+God is continually involved with all created things in such a way that he (1)
+keeps them existing and maintaining the properties with which he created them;
+(2) cooperates with created things in every action, directing their
+distinctive properties to cause them to act as they do; and (3) directs them
+to fulfill his purposes.
+
+[export p. 2 | fn1 compatibilism]
+The view advocated in this chapter is also sometimes called “compatibilism,”
+because it holds that absolute divine sovereignty is compatible with human
+significance and real human choices. I have no objection to the nuances of
+this term, but I have decided not to use it
+
+[export p. 2 | fn1 determinism]
+Though philosophers may use the term determinism (or soft determinism) to
+categorize the position I advocate in this chapter, I do not use that term
+because it is too easily misunderstood in everyday English
+
+[export p. 2 | fn1 widely understood tradition]
+place myself within a widely understood theological tradition represented by
+John Calvin and the other systematic theologians listed in the “Reformed”
+category at the end of this chapter.
+
+[export p. 2 | three subtopics]
+Under the general category of providence, we have three subtopics according to
+the three elements in the definition above: (1) preservation, (2) concurrence,
+and (3) government.
+
+[export p. 3 | not simply sustain]
+It does not mean simply “sustain.” It has the sense of active, purposeful
+control over the thing being carried from one place to another.
+
+[export p. 3 | pherō carry bear]
+The Greek word translated “upholds” is pherō, “carry, bear.”
+
+[export p. 3 | preservation defined]
+God keeps all created things existing and maintaining the properties with
+which he created them.
+
+[export p. 5 | concurrence defined]
+God cooperates with created things in every action, directing their
+distinctive properties to cause them to act as they do.
+
+[export p. 5 | the rock hurts]
+I do not just imagine that the rock in my hand is hard—it is hard. If I bump
+it against my head, I do not just imagine that it hurts—it does hurt!
+
+[export p. 6 | Eph 1:11 works all things]
+In Ephesians 1:11 Paul says that God “works all things according to the
+counsel of his will.” The word translated “works” (energeō) indicates that God
+“brings about” all things according to his own will. No event in creation
+falls outside of his providence.
+
+[export p. 9 | 100 percent]
+it is possible to affirm that in one sense events are fully (100 percent)
+caused by God and fully (100 percent) caused by the creature as well. However,
+divine and creaturely causes work in different ways.
+
+[export p. 9 | not partly caused]
+In all of these events, it is not as though the event was partly caused by God
+and partly by factors in the created world.
+
+[export p. 9 | primary cause]
+The divine cause of each event works as an invisible, behind-the-scenes,
+directing cause and therefore could be called the “primary cause” that plans
+and initiates everything that happens.
+
+[export p. 10 | secondary causes]
+creaturely factors and properties can therefore be called the “secondary
+causes” of everything that happens, even though they are the causes that are
+evident to us by observation.
+
+[export p. 14 | better to affirm]
+It seems better to affirm that God causes all things that happen but that he
+does so in such a way that he somehow upholds our ability to make willing,
+responsible choices that have real and eternal results for which we are held
+accountable. Exactly how God combines his providential control with our
+willing and significant choices, Scripture does not explain to us.
+
+[export p. 15 | Macbeth]
+On the level of the characters in the play Macbeth fully (100%) caused King
+Duncan’s death, but on the level of the creator of the play, William
+Shakespeare fully (100%) caused King Duncan’s death.
+
+[export p. 31 | Berkhof mystery, marker removed]
+we have to agree with Berkhof that ultimately “the problem of God’s relation
+to sin remains a mystery.”  [fn-marker: the reconstructed text reads “relation
+15 to sin”; the 15 is footnote 15’s marker, printed after the closing
+quotation mark in the book and floated into the sentence by the extractor]
+
+[export p. 31 | we confess we do not understand]
+But Scripture does not tell us exactly how God brings this situation about or
+how it can be that God holds us accountable for what he ordains to come to
+pass.
+
+[export p. 33 | anchor Cottrell 451-55]
+see discussion of Jack Cottrell’s objection that freedom must mean more than
+willing choices on pp. 451–55, below
+
+[export p. 33 | free in the greatest sense]
+But we are nonetheless free in the greatest sense that any creature of God
+could be free—we make willing choices, choices that have real effects.
+
+[export p. 33 | free senses denied, marker removed]
+Scripture nowhere says that we are “free” in the sense of being outside of
+God’s control or of being able to make decisions that are not caused by
+anything.  [fn-marker: the reconstructed text reads “control19 or”; 19 is
+footnote 19’s marker]
+
+[export p. 34 | libertarian free will]
+Libertarian free will is “the ability, all things being just what they are, to
+choose differently.”
+
+[export p. 34 | not to exist]
+then to be outside of that providential control would simply be not to exist!
+
+[export p. 35 | determined in ways invisible]
+it does not rule out the idea that our choices may ultimately be determined by
+God in ways invisible to us.
+
+[export p. 35 | fn23 compatibilist freedom]
+This “freedom of inclination” is also called “compatibilist freedom.”
+
+[export p. 35 | freedom of inclination]
+Freedom of inclination means that “we are free when we choose according to our
+strongest inclination or deepest desire. In short, we are free when we do what
+we most want to do.”
+
+[export p. 35 | more consistent]
+This understanding of freedom seems to me more consistent with the teachings
+of Scripture
+
+[export p. 36 | decrees defined]
+The decrees of God are the eternal plans of God whereby, before the creation
+of the world, he determined to bring about everything that happens.
+
+[export p. 38 | actions have effects]
+God has ordained that our actions have effects. God has ordained that events
+will come about by our causing them.
+
+[export p. 42 | spur to action]
+A hearty belief in God’s providence is not a discouragement but a spur to
+action.
+
+[export p. 43 | Pinnock volumes praised]
+The term Arminianism was used in the title of a responsible series of essays
+representing this position
+
+[export p. 43 | excellent defenses]
+These two books are excellent defenses of the Arminian position.
+
+[export p. 44 | Arminian position]
+God cannot cause or plan our voluntary choices.
+
+[export p. 44 | control must not include]
+Therefore they conclude that God’s providential involvement in or control of
+history must not include every specific detail of every event that happens but
+that God instead simply responds to human choices and actions as they come
+about and does so in such a way that his purposes are ultimately accomplished
+in the world.  [page-break: footnote 31 falls between “involvement in” and “or
+control of history” in the extracted text; the halves are consecutive on
+export pp. 44-45]
+
+[export p. 45 | Cottrell most persuasive]
+Cottrell’s essay is, in my view, the most comprehensive and persuasive of the
+many excellent Arminian essays in this book
+
+[export p. 45 | Cottrell no specific purpose]
+God does not have a specific, unconditional purpose for each discrete
+particle, object, person, and event within the creation.
+
+[export p. 52 | anchor examples 422-33]
+the examples are so numerous (see above, pp. 422–33)
+
+[export p. 54 | anchor B7 428-33]
+many texts that clearly say that God ordains that some people sin or do evil
+(see section B.7, pp. 428–33)
+
+[export p. 56 | the pair held together]
+This causes us to conclude that God has made us in such a way that (1) he
+ordains all that we do, and (2) we exercise our personal will and make real,
+voluntary choices.  [page-break: footnote 56 and the running matter fall
+between “and make” and “real, voluntary choices” in the extracted text; the
+two halves are consecutive on export pp. 56-57]
+
+[export p. 56 | where does Scripture say]
+Arminians have simply not answered the question, Where does Scripture say that
+a choice ordained by God is not a real choice?
+
+[export p. 58 | anchor decrees 440-41]
+See above, pp. 440–41, on God’s decrees.
+
+[export p. 63 | Calvin freedom from worry]
+Gratitude of mind for the favorable outcome of things, patience in adversity,
+and also incredible freedom from worry about the future all necessarily follow
+upon this knowledge.
+
+[export p. 63 | Rom 8:28 in ch16]
+all things work together for good for those who love God and are called
+according to his purpose (Rom. 8:28)
+
+[export p. 63 | differences immense]
+So the differences are immense.
+
+[export p. 63 | part of his wise plan]
+knowing that it has not come about because God was unable to prevent it, but
+because it too is part of his wise plan.
+
+[export p. 64 | Cottrell foreknowledge]
+I affirm that God has a true foreknowledge of future free-will choices without
+himself being the agent that causes them or renders them certain.
+
+[export p. 64 | fixed therefore not free]
+If our future choices are known, then they are fixed. And if they are fixed,
+then they are not “free” in the Arminian sense (undetermined or uncaused).
+
+[export p. 64 | open theism most consistent]
+This view (called “open theism”) seems to me to be the most consistent
+Arminian position
+
+[export p. 64 | the entailment as argument]
+even if God did not plan or cause things to happen, the fact that they are
+foreknown means that they will certainly come about.
+
+[export p. 65 | anchor open theism 227-30]
+See the discussion of open theism in chapter 12, pp. 227–30.
+
+[export p. 65 | difference between friends]
+I thank God for his ministry, and consider the following material a difference
+between friends.
+
+[export p. 65 | third Arminian viewpoint]
+But I am classifying it here as a third Arminian viewpoint because, according
+to middle knowledge, the ultimate factor that determines whether someone is
+saved is not God’s eternal choice of that individual person but the person’s
+own libertarian free will decision to believe in Christ.
+
+[export p. 66 | set of circumstances]
+God knows exactly what the free creature would do were God to place him in a
+certain set of circumstances.
+
+[export p. 69 | Frame bridge]
+God does have this kind of knowledge, whether we call it “middle knowledge” or
+something else. (And John Frame points out that such knowledge is already part
+of God’s necessary knowledge, or what Craig calls natural knowledge.)
+
+[export p. 69 | ch12 anchor 225-31]
+the debate at this point is not about whether God knows how people would
+respond if various kinds of circumstances came about (I affirmed this in
+chapter 12, pages 225–31).
+
+[export p. 71 | millions of prior choices]
+in order for God to “bring about a situation,” literally millions of prior
+human choices would have to be decided in a certain way, or else the situation
+would be different.
+
+[export p. 71 | situations are made of choices]
+every situation in which people find themselves is itself the result of
+thousands, in fact millions, of individual human choices.
+
+[export p. 72 | denies libertarian freedom]
+But such a process denies the kind of libertarian free will that middle
+knowledge advocates are claiming to protect.
+
+[export p. 77 | Arminian questions diminish]
+Their failure to resolve these questions tends to diminish the greatness of
+God—his omniscience, his omnipotence, and the absolute reliability of his
+promises for the future.
+
+[export p. 77 | diminishes wisdom and skill]
+the Arminian position diminishes the wisdom and skill of God the Creator.
+
+[export p. 77 | effect increases greatness]
+So the effect of these unanswered questions is to increase our appreciation of
+the greatness of God.
+
+[export p. 77 | second Calvinist question]
+2. Exactly how can God cause us to choose something willingly?
+
+[export p. 77 | the two Calvinist questions]
+1. Exactly how can God not be blamed for evil when he ordains that we do evil
+willingly?
+
+--- END EXCERPTS ---
