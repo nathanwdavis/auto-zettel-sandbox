@@ -1969,3 +1969,28 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T21:58:56Z` build_manifest: 352 notes indexed
 - `2026-09-07T21:59:10Z` lint_citations: PASS
 - `2026-09-07T21:59:11Z` lint_links: PASS
+- `2026-09-08T16:51:44Z` verify_refs: 105/105 verified
+- `2026-09-08T16:51:50Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:52:01Z` lint_citations: PASS
+- `2026-09-08T16:52:06Z` lint_links: PASS
+- `2026-09-08T16:52:06Z` lint_skills: PASS
+- `2026-09-08T16:52:59Z` session (on-demand ingest, branch claude/gods-wisdom-individual-lives-k36ddr): owner supplied four paragraphs of Grudem, Systematic Theology 2nd ed., pp. 232-233 (the close of the treatment of God's wisdom) with an RIS block printing `SE - 232–233` and `SP - 1586`. Same book as reference 202609050158, so no new reference note (FR-4); attached there as excerpt capture raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt, paragraph (5), SHA-256 f88772573884ea55c24652484b727cbb3b4e172a18a49f436f2f717ada5e9cc0. Capture body kept verbatim (curly quotes and en-dashes preserved; line wrapping only) and checked programmatically against the text as supplied before any note was written. Second capture on file to carry 2nd-edition page numbers; first material in the base from the COMMUNICABLE half of Grudem's taxonomy.
+- `2026-09-08T16:52:59Z` session: wrote literature 202609081645 and permanent 202609081646 (Rom. 8:28 comfort is bought with the freedom the omniscience section gave up), 202609081647 (a communicable attribute described by transfer route and fruit, not by denial), 202609081648 (fear of the Lord read as motive, not premise), 202609081649 (the wisdom is read off the promised goal, not off the events -- cross-links to the fine-tuning/confirm-ground strand). Reciprocal links on 202609061922, 202609050612, 202609022357. Literature 202609050547 amended: "in part communicable" partly answers the strict-boundary-or-spectrum gap it filed 2026-09-05.
+- `2026-09-08T16:52:59Z` session: MOC 202608311945 gained a new TOP-LEVEL section "The communicable half" (not a subsection of Divine simplicity -- wisdom is not on that axis). INBOX entry filed recording the ingest, a standing request for the owner to drop Grudem's providence chapter (now deferred to by two sections the base holds), and two leads (Rom. 8:28 agency/textual question; no verse in the passage independently captured).
+- `2026-09-08T16:52:59Z` session (critic, self-review): PASS. Every quotation in the five new notes verified as an exact substring of the committed capture. Claims Grudem does not make are marked as this base's reading on each note (202609081646 "Grudem does not draw this connection"; 202609081649 "Grudem is making no epistemological claim"). The incommunicable/communicable contrast in 202609081647 carries its cross-edition and cross-evidence-grade caveat. No second-edition section number asserted anywhere, since the drop carries no heading.
+- `2026-09-08T16:53:00Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:54:46Z` verify_refs: 105/105 verified
+- `2026-09-08T16:54:47Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:54:59Z` lint_citations: PASS
+- `2026-09-08T16:55:00Z` lint_links: PASS
+- `2026-09-08T16:55:00Z` lint_skills: PASS
+- `2026-09-08T16:56:30Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-08T16:57:27Z` verify_refs: 105/105 verified
+- `2026-09-08T16:59:46Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:59:57Z` lint_citations: PASS
+- `2026-09-08T16:59:58Z` lint_links: PASS
+- `2026-09-08T16:59:58Z` lint_skills: PASS
+- `2026-09-08T17:00:09Z` check_skill_sandbox: PASS
+- `2026-09-08T17:00:09Z` session (correction, evidence hygiene): the first gate run this session used `verify_refs.py --offline` without checking the network, which was available. Offline mode returns `Verification(True, "raw-capture", capture)` whenever a capture exists, so it rewrote 25 reference notes that had been verified ONLINE on 2026-09-04 from `method: raw-capture+openlibrary` / `identifier_check: confirmed` down to plain `raw-capture`, dropping the identifier check and re-dating the record. None of those notes was part of this ingest. All 25 were reverted with `git checkout HEAD -- reference/`, the Grudem edit was re-applied by hand, and verify_refs was re-run ONLINE: 105/105 verified.
+- `2026-09-08T17:00:09Z` session (correction, second pass): the online re-run downgraded exactly one further note, housel-the-psychology-of-money--202608311036, the same way. Cause was a transient TLS timeout against openlibrary.org, not verification rot: three follow-up requests for ISBN 9780857197689 returned the record twice and timed out once. The downgrade was reverted so the stronger 2026-09-04 record stands. Rule for future runs of this base: `--offline` is not a safe default — it silently weakens every previously online-verified reference it touches, and a single flaky lookup in an online run does the same to one note. Check `git status reference/` after every verify_refs run and revert any downgrade that is not real rot.
+- `2026-09-08T17:00:10Z` build_manifest: 357 notes indexed

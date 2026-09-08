@@ -4262,3 +4262,61 @@ Residual leads for a future cycle (not blocking, filed here so they are not lost
   (/download/<id>/page/n<leaf>_w1600.jpg) and committing them to raw/ alongside a
   hand transcription is a workable capture route for public-domain Arabic primary
   texts, and stronger evidence than the OCR.
+
+## 2026-09-08 — Ingested: owner excerpt of Grudem pp. 232-233 (God's wisdom); and a standing request for the providence chapter
+
+- **status:** answered
+- **priority:** normal
+- **asked_by:** human (session request: "ingest the above excerpt from Grudem's
+  text and link it to other applicable notes")
+
+The owner pasted four paragraphs of Grudem's *Systematic Theology* (2nd ed.,
+2020) with an RIS block printing `SE - 232–233` — the close of the treatment of
+God's **wisdom**. Same physical book as reference
+`grudem-systematic-theology--202609050158`, so per FR-4 no new reference note
+was created; the passage is attached there as excerpt capture
+`raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt` (paragraph
+(5) of that note), kept verbatim and checked programmatically against the text
+as supplied before any note was written on it. This is the second capture on
+file to establish second-edition page numbers, after the pp. 221-222
+spirituality drop, and the **first material in the repository from the
+communicable half of Grudem's taxonomy**.
+
+Written: literature
+[[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]] (locator
+"2nd ed., pp. 232-233"); permanent
+[[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]],
+[[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]],
+[[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]],
+[[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]]. Filed in MOC
+`abrahamic-conceptions-of-god--202608311945` under a new top-level section, "The
+communicable half" — deliberately not under "Divine simplicity", where the other
+Grudem attribute material sits, because wisdom is not on that axis. Reciprocal
+links added on 202609061922 (`elaborates`), 202609050612 (`elaborates`) and
+202609022357 (`analogous`); literature note 202609050547 amended, since "in part
+communicable" partly answers the strict-boundary-or-spectrum gap it filed on
+2026-09-05. Source not re-fetched; all five gates pass.
+
+**Standing request for the owner, now the base's most-cited absence.** Grudem's
+chapter on **providence** has now been deferred to by two separate sections this
+base holds. The omniscience section (ch. 12, sec. 3) defers the compatibility of
+foreknowledge and human choice to it; the wisdom section asserts that "God
+causes all things to move us toward his ultimate goal for our lives" and argues
+nothing for it. Permanent note 202609081646 reads those two passages together
+and is explicit that the chapter which would settle the question is not on file.
+If the owner can drop that chapter (or its section on God's concurrence and
+government) the same way as these three, it would replace an inference across
+two passages with the argument itself.
+
+**Two smaller leads, filed so they are not lost.**
+
+- *Rom. 8:28 agency.* Grudem quotes the ESV, where "all things" is the
+  grammatical subject of "work together", and both of his restatements make God
+  the agent of the working. There is a real textual and translational question
+  underneath this (whether ὁ θεός belongs in the verse, and whether συνεργεῖ
+  takes God or "all things" as subject) which this base has not examined and
+  which note 202609081645 flags rather than settles. Deciding it needs a
+  scripture capture and a commentary, not another Grudem excerpt.
+- *No verse cited in the passage is independently captured.* Rom. 8:28-29,
+  2 Cor. 12:7-10, James 1:5 and 3:13-18, Ps. 19:7 and 111:10, Prov. 1:7, 9:10
+  and 11:2, and Deut. 4:6-8 are on file only as Grudem quotes or cites them.

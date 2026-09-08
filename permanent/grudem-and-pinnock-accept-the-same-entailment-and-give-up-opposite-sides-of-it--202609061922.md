@@ -14,8 +14,10 @@ links:
   relation: source
 - target_id: grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921
   relation: shared-concept
+- target_id: grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646
+  relation: elaborates
 created: '2026-09-06'
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 The dispute between Grudem and open theism is not over logic. Both parties
 accept that exhaustive foreknowledge of human choices leaves those choices, in

@@ -1,0 +1,98 @@
+Verbatim excerpt from Wayne Grudem, Systematic Theology: An Introduction to
+Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), pp. 232-233 — the close
+of the treatment of God's wisdom (reference:
+grudem-systematic-theology--202609050158).
+
+PROVENANCE. The repository owner (nathanwdavis) supplied this passage in a
+Claude Code session on 2026-09-08, pasted into the session with its trailing
+RIS block attached, in the same manner as the pp. 221-222 drop already on file
+as raw/202609071342-ty-book.txt. The RIS block as supplied reads:
+
+  TY  - BOOK
+  TI  - Systematic Theology: An Introduction to Biblical Doctrine
+  AU  - Grudem, Wayne
+  CY  - Grand Rapids, MI
+  ET  - Second Edition
+  PB  - Zondervan Academic
+  PY  - 2020
+  SE  - 232–233
+  SP  - 1586
+  KW  - Religion--Christian ministry--Pastoral resources.; Religion--Biblical
+        reference--Handbooks.; Religion--Christian living--Devotional.
+  ER  -
+
+The `SP - 1586` line matches the Open Library extent for ISBN 9780310517979
+("xxvi, 1586 p.", raw/202609050158-grudem-systematic-theology.txt), as it did
+for the two earlier owner-supplied captures. The `SE - 232–233` line is a page
+locator, as `SE - 221-222` was on the spirituality drop; so this capture
+carries page numbers and the ch. 12 knowledge/omniscience export
+(raw/202609061910) did not.
+
+WHAT SECTION THIS IS. The supplied text carries no heading and no section
+number, so neither is asserted here. What the text itself establishes is that
+the passage treats the attribute of God's WISDOM ("God's wisdom is also shown
+in our individual lives"; "God's wisdom is, of course, in part communicable to
+us"), and that it is the CLOSE of that treatment rather than its opening: the
+word "also" presupposes earlier sub-sections showing God's wisdom elsewhere,
+and those sub-sections are not in this capture, nor is the chapter's formal
+definition of God's wisdom. The chapter attribution ("ch. 12") is an inference
+from the two other second-edition captures on file — spirituality at pp.
+221-222 and the section headed "3. Knowledge (Omniscience)" — and is recorded
+here as an inference, not as something the export states.
+
+EXTENT. The book is under copyright and this repository is public, so what is
+kept below is the passage the owner supplied and the notes cite, quoted for
+citation-grounding and commentary: four paragraphs, roughly 400 words. No
+footnotes accompanied the passage. Grudem's Scripture quotations are reproduced
+as he gives them; the base has not independently captured any of the verses
+cited here (Rom. 8:28-29; 2 Cor. 12:7-10; James 1:5; 3:13-18; Ps. 19:7; 111:10;
+Prov. 1:7; 9:10; 11:2; Deut. 4:6-8), so they are on file only as Grudem quotes
+or cites them.
+
+--- BEGIN EXCERPT (pp. 232-233) ---
+
+God’s wisdom is also shown in our individual lives. “And we know that for
+those who love God all things work together for good, for those who are called
+according to his purpose” (Rom. 8:28). Here Paul affirms that God does work
+wisely in all the things that come into our lives, and that through all these
+things he advances us toward the goal of conformity to the image of Christ
+(Rom. 8:29). It should be our great confidence and a source of peace day by
+day to know that God causes all things to move us toward his ultimate goal for
+our lives, namely, that we might be like Christ and thereby bring glory to
+him. Such confidence enabled Paul to accept his thorn in the flesh (2 Cor.
+12:7) as something that, though painful, God in his wisdom had chosen not to
+remove (2 Cor. 12:8–10).
+
+Every day of our lives, we may quiet our discouragement with the comfort that
+comes from the knowledge of God’s infinite wisdom: if we are his children, we
+can know that he is working wisely in our lives, even today, to bring us into
+greater conformity into the image of Christ.
+
+God’s wisdom is, of course, in part communicable to us. We can ask God
+confidently for wisdom when we need it, for he promises in his Word, “If any
+of you lacks wisdom, let him ask God, who gives generously to all without
+reproach, and it will be given him” (James 1:5). This wisdom, or skill in
+living a life pleasing to God, comes primarily from reading and obeying his
+Word: “The testimony of the Lord is sure, making wise the simple” (Ps. 19:7;
+cf. Deut. 4:6–8).
+
+“The fear of the Lord is the beginning of wisdom” (Ps. 111:10; Prov. 9:10; cf.
+Prov. 1:7), because if we fear dishonoring God or displeasing him, and if we
+fear his fatherly discipline, then we will have the motivation that makes us
+want to follow his ways and live according to his wise commands. Furthermore,
+the possession of wisdom from God will result not in pride but in humility
+(Prov. 11:2; James 3:13), not in arrogance but in a gentle and peaceful spirit
+(James 3:14–18). The person who is wise according to God’s standards will
+continually walk in dependence on the Lord and with a desire to exalt him.
+
+--- END EXCERPT ---
+
+TRANSCRIPTION NOTE. The passage is reproduced verbatim as supplied, character
+for character: curly quotation marks, apostrophes, and the en-dashes in the
+Scripture ranges (2 Cor. 12:8–10, Deut. 4:6–8, James 3:14–18) are kept as they
+were given. The only change is line wrapping, which was redone to 78 columns;
+paragraph breaks are as supplied. The wording "into greater conformity into the
+image of Christ" in the second paragraph is as supplied and is not a
+transcription error introduced here. The excerpt body of this file was checked
+programmatically against the text as supplied before any note was written on
+it.

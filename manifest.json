@@ -347,6 +347,11 @@
     "202609072129": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129",
     "202609072134": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134",
     "202609072135": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135",
+    "202609081645": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645",
+    "202609081646": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646",
+    "202609081647": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647",
+    "202609081648": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
+    "202609081649": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -675,7 +680,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 352,
+  "note_count": 357,
   "notes": [
     {
       "id": "202609041020",
@@ -1004,7 +1009,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -2766,6 +2771,10 @@
         {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
         }
       ],
       "path": "permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md",
@@ -2773,7 +2782,7 @@
       "tags": [],
       "title": "Grudem and the open theist accept the same entailment and give up opposite sides of it",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md"
     },
     {
@@ -2810,6 +2819,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md"
     },
     {
+      "id": "202609081645",
+      "key": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645.md",
+      "slug": "grudem-closes-gods-wisdom-in-the-readers-own-life",
+      "tags": [],
+      "title": "Grudem closes God's wisdom in the reader's own life, and makes the shared portion a skill in living",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645.md"
+    },
+    {
       "id": "202609071347",
       "key": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
       "links": [
@@ -2844,6 +2870,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915.md"
     },
     {
+      "id": "202609081647",
+      "key": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        }
+      ],
+      "path": "permanent/grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647.md",
+      "slug": "grudem-describes-a-communicable-attribute-by-route-and-fruit",
+      "tags": [],
+      "title": "Grudem describes a communicable attribute by its transfer route and its fruit, where the incommunicable ones were described by denial",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647.md"
+    },
+    {
       "id": "202609050547",
       "key": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
       "links": [
@@ -2857,7 +2912,7 @@
       "tags": [],
       "title": "Grudem distinguishes God's incommunicable attributes from those God shares with human creation",
       "type": "literature",
-      "updated": "2026-09-05",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md"
     },
     {
@@ -2884,6 +2939,31 @@
       "type": "permanent",
       "updated": "2026-09-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
+    },
+    {
+      "id": "202609081648",
+      "key": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648.md",
+      "slug": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise",
+      "tags": [],
+      "title": "Grudem reads the fear of the Lord as a motive rather than a premise, which is what his practical definition of wisdom requires",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648.md"
     },
     {
       "id": "202609071348",
@@ -2919,7 +2999,7 @@
       "tags": [],
       "title": "Grudem, Systematic Theology",
       "type": "reference",
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {
@@ -3006,6 +3086,10 @@
           "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
         },
@@ -3043,8 +3127,37 @@
       "tags": [],
       "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
       "type": "permanent",
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
+    },
+    {
+      "id": "202609081646",
+      "key": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646.md",
+      "slug": "grudems-romans-8-28-comfort-is-bought-with-the-freedom",
+      "tags": [],
+      "title": "Grudem's Romans 8:28 comfort is bought with the freedom his omniscience section gave up",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646.md"
     },
     {
       "id": "202609061920",
@@ -5890,6 +6003,10 @@
         {
           "relation": "source",
           "target_id": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649"
         }
       ],
       "path": "permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md",
@@ -5897,7 +6014,7 @@
       "tags": [],
       "title": "The carbon tuning's evidential weight moved, and no belief moved with it",
       "type": "permanent",
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
     },
     {
@@ -8776,6 +8893,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720.md"
+    },
+    {
+      "id": "202609081649",
+      "key": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
+        }
+      ],
+      "path": "permanent/wisdom-in-a-life-is-read-off-the-promised-goal--202609081649.md",
+      "slug": "wisdom-in-a-life-is-read-off-the-promised-goal",
+      "tags": [],
+      "title": "Grudem's wisdom in a life is read off the promised goal, not off the events, and the passage says so",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/wisdom-in-a-life-is-read-off-the-promised-goal--202609081649.md"
     },
     {
       "id": "202609042060",

@@ -18,8 +18,10 @@ links:
   relation: shared-concept
 - target_id: a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356
   relation: shared-concept
+- target_id: wisdom-in-a-life-is-read-off-the-promised-goal--202609081649
+  relation: analogous
 created: '2026-09-02'
-updated: '2026-09-02'
+updated: '2026-09-08'
 ---
 There is a test that separates a belief's ground from its confirmation without
 asking anyone to introspect: watch what happens to the belief when the evidence

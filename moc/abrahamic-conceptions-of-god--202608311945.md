@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 # Abrahamic conceptions of God
 
@@ -630,6 +630,36 @@ are "not other than He") leaned Maimonidean. al-Ash'ari's own doxography, the
 confirms the prediction.
 
 - [[al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135]] — reporting Ibn Kullab (p. 546), the Maqalat gives both negations, *la hiya huwa wa-la ghayruhu*: the attributes are real and eternal yet neither identical with the essence (against the Mu'tazila) nor "other than" it (which would break simplicity). Two settings sit on the one axis — the Mu'tazila reducing the attributes to the essence at the Maimonidean end, the Kullabi–Ash'ariyya fencing the no-composition constraint short of them at the middle.
+
+## The communicable half, added 2026-09-08: what the doctrine of God is for
+
+An owner drop of pp. 232-233 — the close of Grudem's treatment of God's wisdom,
+and the second capture on file to carry second-edition page numbers — is the
+first material here from the COMMUNICABLE half of his taxonomy, and it does not
+belong under the simplicity heading above: every Grudem attribute in that
+section is one creatures do not share. It sits on its own because it opens a
+second question this map had never asked. Everything above treats the doctrine
+of God as a description question — who is being referred to, what may be
+predicated, how far the no-composition constraint runs. This passage is where a
+doctrine of God is put to work in a life, which makes it the first material
+here on what the doctrine is *for*, and the first place where an attribute is
+described as something a creature comes to have. Distilled at
+[[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]].
+
+- [[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]] — the description changes kind: no denial anywhere, but a transfer route (petition, and "primarily reading and obeying his Word"), a starting point, a definition of the creature's share as "skill in living a life pleasing to God", and a behavioural test. It also answers half of a gap this base filed on 2026-09-05: "in part communicable" is a degree word, so the two categories are graded rather than binary.
+- [[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]] — read against the omniscience section ten pages earlier, the wisdom section is where the concession "some sense in which our choices are not absolutely free" is spent: exhaustive foreknowledge is what lets "all things" be issued as a promise about a day not yet lived. One commitment and its use, not two doctrines.
+- [[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]] — his because-clause makes "the beginning of wisdom" motivational rather than epistemic, which is what a definition of wisdom as a skill requires; the fear is specified as a son's, matching the comfort's one condition, "if we are his children".
+- [[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]] — the inference runs opposite to the design arguments mapped above: the conclusion arrives as a quoted promise and the events are what it is applied to, which is why the example chosen is a thorn that was *not* removed.
+
+The last of those reaches out of this subsection and into the teleological
+branch near the top of the map. [[the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357]]
+closed by conceding that insensitivity to moving evidence is also what an
+unfalsifiable commitment looks like, and that it could not tell the two apart
+without knowing "whether the believer can say where the belief does rest". This
+passage is a believer saying exactly that, in a text rather than in the
+circumstances — so the two halves of the confirm/ground distinction now have an
+instance apiece in this map, one from natural theology and one from the
+pastoral use of a doctrine.
 
 ## Sources behind these notes
 

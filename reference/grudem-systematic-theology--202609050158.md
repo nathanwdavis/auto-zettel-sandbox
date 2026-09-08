@@ -28,20 +28,20 @@ chicago_note: 'Wayne A. Grudem, Systematic Theology: An Introduction to Biblical
 chicago_bib: 'Grudem, Wayne A. Systematic Theology: An Introduction to Biblical Doctrine.
   2nd ed. Zondervan Academic, 2020.'
 verification:
-  method: raw-capture+openlibrary
-  source: https://openlibrary.org/isbn/9780310517979
+  method: raw-capture
+  source: raw/202609050158-grudem-systematic-theology.txt
   verified: true
-  date: '2026-09-07T21:48:54Z'
-  identifier_check: confirmed
+  date: '2026-09-08T16:56:30Z'
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
 excerpt_captures:
 - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
 - raw/202609050546-grudem-trinity-definition-excerpts.txt
 - raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt
 - raw/202609071342-ty-book.txt
+- raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt
 links: []
 created: '2026-09-05'
-updated: '2026-09-07'
+updated: '2026-09-08'
 citation_renderer: pandoc
 ---
 Bibliographic record. The raw capture is Open Library metadata for ISBN
@@ -146,3 +146,28 @@ instead. The pp. 221-222 material is distilled at
 [[grudem-defines-god-s-spirituality-as-immateriality--202609071347]] and the
 atomic claim drawn from it at
 [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]].
+
+(5) Added 2026-09-08: a second owner drop carrying a page locator,
+raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt — four
+paragraphs of pp. 232-233, the close of the treatment of God's WISDOM. Its
+provenance matches (3) and (4): the owner supplied it from their own licensed
+copy, and its trailing RIS block prints the second edition, Zondervan Academic
+2020, the same `SP  - 1586` extent line, and `SE  - 232-233`. It is therefore
+the second capture on file to establish second-edition page numbers, after the
+pp. 221-222 spirituality drop, and the pages fall after those — consistent with
+this being the same chapter as the "3. Knowledge (Omniscience)" export of (3),
+though the drop carries no heading or section number and none is asserted. The
+excerpt body was checked programmatically against the text as supplied, and is
+kept verbatim including its curly quotation marks and en-dashes; only line
+wrapping was changed. The passage carries no footnotes, and none of the verses
+it quotes or cites has been independently captured by this repository. It is
+distilled at [[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]],
+with four atomic claims drawn from it:
+[[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]],
+[[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]],
+[[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]] and
+[[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]]. This is the
+first material in the repository from the COMMUNICABLE half of Grudem's
+taxonomy; every earlier capture treated an incommunicable attribute, or
+knowledge and spirituality. SHA-256 of the capture as committed:
+f88772573884ea55c24652484b727cbb3b4e172a18a49f436f2f717ada5e9cc0.

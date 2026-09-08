@@ -13,7 +13,7 @@ links:
   - target_id: grudem-systematic-theology--202609050158
     relation: source
 created: '2026-09-05'
-updated: '2026-09-05'
+updated: '2026-09-08'
 ---
 
 **Grounding: excerpt-only, from cross-verified secondary sources (raw/202609050545-grudem-incommunicable-attributes-excerpts.txt); not full-text reading of the 2nd edition.**
@@ -23,3 +23,5 @@ Grudem organizes divine attributes into two categories in his systematic theolog
 The excerpts do not capture Grudem's definition of communicable attributes, so the term is used here only as the label for the other category in Grudem's taxonomy.
 
 **Gap: The full text would clarify the internal logic connecting Grudem's distinction between incommunicable and communicable attributes to his theology of imago Dei (humans made in God's image), and would show whether Grudem relates this distinction to classical medieval theology of analogical predication or other theological frameworks. The excerpts do not show which biblical texts Grudem uses to support each attribute or whether Grudem argues for a strict boundary or a spectrum between the two categories.**
+
+**Amended 2026-09-08.** The second of the gaps above — whether Grudem argues a strict boundary or a spectrum between the two categories — now has a partial answer from the second edition's own words, and it is a spectrum on the communicable side: at pp. 232-233 he writes that "God's wisdom is, of course, *in part* communicable to us" (capture raw/202609081644, distilled at [[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]]). The sentence above stating that the excerpts do not capture the communicable category therefore no longer holds without qualification; it holds for ch. 11's own definition of the category, which is still not on file, but the base now has one communicable attribute treated at length. What that treatment looks like, and how differently it is written from the five denials summarised here, is at [[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]]. Nothing else in this note is withdrawn: it remains a summary of the ch. 11 excerpts, which are first-edition sentences reaching this base through third parties.
