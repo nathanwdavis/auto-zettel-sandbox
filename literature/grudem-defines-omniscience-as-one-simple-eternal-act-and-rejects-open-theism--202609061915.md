@@ -8,12 +8,12 @@ type: literature
 title: Grudem defines omniscience as one simple and eternal act, and rejects open theism by Isaiah's test of deity
 tags: []
 reference: grudem-systematic-theology--202609050158
-locator: 'ch. 12, sec. 3 "Knowledge (Omniscience)", sub-sections a-f (2nd ed.; no page numbers in the owner''s Logos export, which carries no page range)'
+locator: 'ch. 12, sec. 3 "Knowledge (Omniscience)", sub-sections a-f (2nd ed.; the owner''s Logos export carries no page range, but ch. 16''s cross-references date this material to book pp. 225-231, and its open-theism discussion to pp. 227-230)'
 links:
   - target_id: grudem-systematic-theology--202609050158
     relation: source
 created: '2026-09-06'
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 
 **Grounding: excerpt capture raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt, taken from the complete text of the section as exported by the repository owner from a licensed Logos copy of the 2nd edition. The whole section was read; only the sentences cited below are retained in raw/. This is the first note in the repository grounded in the second edition's own wording rather than in first-edition pages quoted by third parties. The section's footnotes were not exported, so Rice, Pinnock, Ware, Roy and Augustine are known here only as Grudem quotes or reports them.**
@@ -33,3 +33,13 @@ The section opens with a one-sentence definition: God fully knows himself and al
 **Freedom (f).** Deferring the full treatment to the chapter on providence, Grudem adopts Augustine's phrase "reasonable self-determination", valued because it avoids the word "free": our choices are reasoned and they really determine what happens. He then concedes the entailment Pinnock felt: if God knows all our thoughts, words and actions long before they occur, "there must be some sense in which our choices are not absolutely free". Freedom, if the word is wanted, is Ware's "freedom of inclination", choosing according to one's strongest inclination or deepest desire.
 
 **Gap.** The exported section has no footnotes, so the editions and pages of Rice, Pinnock, Ware and Roy that Grudem cites are not on file, and none has been read directly. The "here again" that introduces the gloss on "simple" refers back to an earlier use in the book, presumably the unity definition, but the export does not include that earlier passage, so the cross-reference is inferred from the phrase and from the first-edition unity definition captured at raw/202609050545, not witnessed in the second edition. No second-edition page numbers are established for anything in this note.
+
+**Amended 2026-09-08.** The locator above gained page numbers this export could
+not supply. Chapter 16, ingested from the owner's PDF of the whole chapter,
+twice cross-references this section by book page: "See the discussion of open
+theism in chapter 12, pp. 227–30," and "I affirmed this in chapter 12, pages
+225–31" (of God's knowledge of what creatures would do in given circumstances).
+Both were read from rendered page images as well as from the extracted text.
+These are the first page numbers on file for the second edition's treatment of
+God's knowledge, and they sit immediately before the wisdom material captured at
+pp. 232-233.

@@ -1,0 +1,190 @@
+Verbatim capture of Moses Maimonides, Mishneh Torah, Sefer Madda, Hilchot
+Teshuvah (Laws of Repentance) 5:1-5 and 6:3 -- the treatment of free will
+(bechirah chofshit), the foreknowledge objection, and the hardening of Pharaoh's
+heart.
+
+Fetched 2026-09-08T19:10:09Z from the Sefaria API (api/v3/texts), English version.
+Version: Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007 (license: CC-BY-NC)
+Source: https://www.sefaria.org/Mishneh_Torah,_Repentance.5
+Captured because inquiry 202609081908 asks how the Christian doctrine of human
+free will under divine sovereignty differs from the doctrines of the traditions
+that hold the same Pentateuch, and this base had no Jewish free-will source at
+all -- only Maimonides on the divine attributes.
+
+HTML line-break tags in the API response were rendered as newlines and all other
+markup stripped; the bracketed insertions are the translator's, not this
+repository's. No other change.
+
+--- BEGIN VERBATIM ---
+
+[Hilchot Teshuvah 5.1]
+Free will is granted to all men. If one desires to turn himself to the path of
+good and be righteous, the choice is his. Should he desire to turn to the path
+of evil and be wicked, the choice is his.
+This is [the intent of] the Torah's statement (Genesis 3:22 : "Behold, man has
+become unique as ourselves, knowing good and evil," i.e., the human species
+became singular in the world with no other species resembling it in the
+following quality: that man can, on his own initiative, with his knowledge and
+thought, know good and evil, and do what he desires. There is no one who can
+prevent him from doing good or bad. Accordingly, [there was a need to drive
+him from the Garden of Eden,] "lest he stretch out his hand [and take from the
+tree of life]."
+
+[Hilchot Teshuvah 5.2]
+A person should not entertain the thesis held by the fools among the gentiles
+and the majority of the undeveloped among Israel that, at the time of a man's
+creation, The Holy One, blessed be He, decrees whether he will be righteous or
+wicked.
+This is untrue. Each person is fit to be righteous like Moses, our teacher, or
+wicked, like Jeroboam. [Similarly,] he may be wise or foolish, merciful or
+cruel, miserly or generous, or [acquire] any other character traits. There is
+no one who compels him, sentences him, or leads him towards either of these
+two paths. Rather, he, on his own initiative and decision, tends to the path
+he chooses.
+This was [implied by the prophet,] Jeremiah who stated [Eichah 3:38: "From the
+mouth of the Most High, neither evil or good come forth." The Creator does not
+decree that a person should be good and refrain from being evil. Accordingly,
+it is the sinner, himself, who causes his own loss.
+Therefore, it is proper for a person to cry and mourn for his sins and for
+what he has done to his soul, the evil consequences, he brought upon it. This
+is implied by the following verse [ibid.:39]: "Of what should a living man be
+aggrieved? [A man of his sins.]"
+[The prophet] continues explaining, since free choice is in our hands and our
+own decision [is what prompts us to] commit all these wrongs, it is proper for
+us to repent and abandon our wickedness, for this choice is presently in our
+hand. This is implied by the following verse [ibid.:40]: "Let us search and
+examine our ways and return [to God]."
+
+[Hilchot Teshuvah 5.3]
+This principle is a fundamental concept and a pillar [on which rests the
+totality] of the Torah and mitzvot as [Deuteronomy 30:15] states: "Behold, I
+have set before you today life [and good, death and evil]." Similarly,
+[Deuteronomy 11:26] states, "Behold, I have set before you today [the blessing
+and the curse]," implying that the choice is in your hands.
+Any one of the deeds of men which a person desires to do, he may, whether good
+or evil. Therefore, [Deuteronomy 5:26] states:
+"If only their hearts would always remain this way." From this, we can infer
+that the Creator does not compel or decree that people should do either good
+or bad. Rather, everything is left to their [own choice].
+
+[Hilchot Teshuvah 5.4]
+Were God to decree that an individual would be righteous or wicked or that
+there would be a quality which draws a person by his essential nature to any
+particular path [of behavior], way of thinking, attributes, or deeds, as
+imagined by many of the fools [who believe] in astrology - how could He
+command us through [the words of] the prophets: "Do this," "Do not do this,"
+"Improve your behavior," or "Do not follow after your wickedness?"
+[According to their mistaken conception,] from the beginning of man's
+creation, it would be decreed upon him, or his nature would draw him, to a
+particular quality and he could not depart from it.
+What place would there be for the entire Torah? According to which judgement
+or sense of justice would retribution be administered to the wicked or reward
+to the righteous? Shall the whole world's Judge not act justly!
+A person should not wonder: How is it possible for one to do whatever he wants
+and be responsible for his own deeds? - Is it possible for anything to happen
+in this world without the permission and desire of its Creator as [Psalms
+135:6] states: "Whatever God wishes, He has done in the heavens and in the
+earth?"
+One must know that everything is done in accord with His will and,
+nevertheless, we are responsible for our deeds.
+How is this [apparent contradiction] resolved? Just as the Creator desired
+that [the elements of] fire and wind rise upward and [those of] water and
+earth descend downward, that the heavenly spheres revolve in a circular orbit,
+and all the other creations of the world follow the nature which He desired
+for them, so too, He desired that man have free choice and be responsible for
+his deeds, without being pulled or forced. Rather, he, on his own initiative,
+with the knowledge which God has granted him, will do anything that man is
+able to do.
+Therefore, he is judged according to his deeds. If he does good, he is treated
+with beneficence. If he does bad, he is treated harshly. This is implied by
+the prophets' statements: "This has been the doing of your hands” [Malachi
+1:9]; "They also have chosen their own paths” [Isaiah 66:3].
+This concept was also implied by Solomon in his statement [Ecclesiastes 11:9]:
+"Young man, rejoice in your youth... but, know that for all these things God
+will bring you to judgment," i.e., know that you have the potential to do, but
+in the future, you will have to account for your deeds.
+
+[Hilchot Teshuvah 5.5]
+One might ask: Since The Holy One, blessed be He, knows everything that will
+occur before it comes to pass, does He or does He not know whether a person
+will be righteous or wicked?
+If He knows that he will be righteous, [it appears] impossible for him not to
+be righteous. However, if one would say that despite His knowledge that he
+would be righteous, it is possible for him to be wicked, then His knowledge
+would be incomplete.
+Know that the resolution to this question [can be described as]: "Its measure
+is longer than the earth and broader than the sea." Many great and fundamental
+principles and lofty concepts are dependent upon it. However, the statements
+that I will make must be known and understood [as a basis for the
+comprehension of this matter].
+As explained in the second chapter of Hilchot Yesodei HaTorah, The Holy One,
+blessed be He, does not know with a knowledge that is external from Him as do
+men, whose knowledge and selves are two [different entities]. Rather, He, may
+His name be praised, and His knowledge are one.
+Human knowledge cannot comprehend this concept in its entirety for just as it
+is beyond the potential of man to comprehend and conceive the essential nature
+of the Creator, as [Exodus 33:20] states: "No man will perceive, Me and live,"
+so, too, it is beyond man's potential to comprehend and conceive the Creator's
+knowledge. This was the intent of the prophet's [Isaiah 55:8] statements: "For
+My thoughts are not your thoughts, nor your ways, My ways."
+Accordingly, we do not have the potential to conceive how The Holy One,
+blessed be He, knows all the creations and their deeds. However, this is known
+without any doubt: That man's actions are in his [own] hands and The Holy One,
+blessed be He, does not lead him [in a particular direction] or decree that he
+do anything.
+This matter is known, not only as a tradition of faith, but also, through
+clear proofs from the words of wisdom. Consequently, the prophets taught that
+a person is judged for his deeds, according to his deeds - whether good or
+bad. This is a fundamental principle on which is dependent all the words of
+prophecy.
+
+[Hilchot Teshuvah 6.3]
+A person may commit a great sin or many sins causing the judgment rendered
+before the True Judge to be that the retribution [administered to] this
+transgressor for these sins which he willfully and consciously committed is
+that his Teshuvah will be held back. He will not be allowed the chance to
+repent from his wickedness so that he will die and be wiped out because of the
+sin he committed.
+This is implied by the Holy One, blessed be He's statement [related] by Isaiah
+[6:10]: “Make the heart of this people fat [and make their ears heavy. Smear
+over their eyes, lest they see with their eyes... understand with their
+hearts, repent and be healed].”
+Similarly, [II Chronicles 36:16] states “ They mocked the messengers of God,
+scorned His words, scoffed at His prophets until the anger of God mounted up
+against His people until there was no remedy.”
+Implied [by these verses] is that they willingly sinned, multiplying their
+iniquity until it was obliged to hold back their Teshuvah, [which is referred
+to as] the "remedy."
+For these reasons, it is written in the Torah [Exodus 4:21], "I will harden
+Pharaoh's heart." Since, he began to sin on his own initiative and caused
+hardships to the Israelites who dwelled in his land as [Exodus 1:10] states:
+"Come, let us deal wisely with them," judgment obligated that he be prevented
+from repenting so that he would suffer retribution. Therefore, The Holy One,
+blessed be He, hardened his heart.
+Why did [God] send Moses to [Pharaoh], telling him: “Send [forth the people],
+repent”? The Holy One, blessed be He, had already told Moses that he would not
+release [the people], as [Exodus 9:30] states: “I realize that you and your
+subjects [still do not fear God].”
+[The reason is stated in Exodus 9:16:] “For this alone, I have preserved you…
+so that My name will be spoken about throughout the earth],” i.e., to make
+known to all the inhabitants of the world that when the Holy One, blessed be
+He, withholds repentance from a sinner, he cannot repent, but he will die in
+the wickedness that he initially committed willfully.
+Similarly, Sichon was held liable for repentance to be withheld from him,
+because of the sins he committed, as [Deuteronomy 2:30] states: “God, your
+Lord, hardened his spirit and strengthened his heart.”
+Also, the Canaanites held back from repenting, because of their abominable
+acts, so that they would wage war against Israel as [Joshua 11:20] states:
+"This was inspired by God, to harden their hearts so that they should come
+against Israel in battle in order to utterly destroy them."
+Similarly, the Israelites during the era of Elijah committed many iniquities.
+Repentance was held back from those who committed these many sins, as [I Kings
+18:37] states: "You have turned their heart backwards," i.e., held repentance
+back from them.
+In conclusion, the Almighty did not decree that Pharaoh should harm the
+Israelites that Sichon should sin in his land, that the Canaanites should
+perform abominable acts, or that the Israelites should worship idols. They all
+sinned on their own initiative and they were obligated to have Teshuvah held
+back from them.
+
+--- END VERBATIM ---

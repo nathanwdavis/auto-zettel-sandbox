@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-06'
+updated: '2026-09-08'
 ---
 # Abrahamic conceptions of God
 
@@ -630,6 +630,96 @@ are "not other than He") leaned Maimonidean. al-Ash'ari's own doxography, the
 confirms the prediction.
 
 - [[al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135]] — reporting Ibn Kullab (p. 546), the Maqalat gives both negations, *la hiya huwa wa-la ghayruhu*: the attributes are real and eternal yet neither identical with the essence (against the Mu'tazila) nor "other than" it (which would break simplicity). Two settings sit on the one axis — the Mu'tazila reducing the attributes to the essence at the Maimonidean end, the Kullabi–Ash'ariyya fencing the no-composition constraint short of them at the middle.
+
+## The communicable half, added 2026-09-08: what the doctrine of God is for
+
+An owner drop of pp. 232-233 — the close of Grudem's treatment of God's wisdom,
+and the second capture on file to carry second-edition page numbers — is the
+first material here from the COMMUNICABLE half of his taxonomy, and it does not
+belong under the simplicity heading above: every Grudem attribute in that
+section is one creatures do not share. It sits on its own because it opens a
+second question this map had never asked. Everything above treats the doctrine
+of God as a description question — who is being referred to, what may be
+predicated, how far the no-composition constraint runs. This passage is where a
+doctrine of God is put to work in a life, which makes it the first material
+here on what the doctrine is *for*, and the first place where an attribute is
+described as something a creature comes to have. Distilled at
+[[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]].
+
+- [[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]] — the description changes kind: no denial anywhere, but a transfer route (petition, and "primarily reading and obeying his Word"), a starting point, a definition of the creature's share as "skill in living a life pleasing to God", and a behavioural test. It also answers half of a gap this base filed on 2026-09-05: "in part communicable" is a degree word, so the two categories are graded rather than binary.
+- [[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]] — read against the omniscience section ten pages earlier, the wisdom section is where the concession "some sense in which our choices are not absolutely free" is spent: exhaustive foreknowledge is what lets "all things" be issued as a promise about a day not yet lived. One commitment and its use, not two doctrines.
+- [[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]] — his because-clause makes "the beginning of wisdom" motivational rather than epistemic, which is what a definition of wisdom as a skill requires; the fear is specified as a son's, matching the comfort's one condition, "if we are his children".
+- [[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]] — the inference runs opposite to the design arguments mapped above: the conclusion arrives as a quoted promise and the events are what it is applied to, which is why the example chosen is a thorn that was *not* removed.
+
+The last of those reaches out of this subsection and into the teleological
+branch near the top of the map. [[the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357]]
+closed by conceding that insensitivity to moving evidence is also what an
+unfalsifiable commitment looks like, and that it could not tell the two apart
+without knowing "whether the believer can say where the belief does rest". This
+passage is a believer saying exactly that, in a text rather than in the
+circumstances — so the two halves of the confirm/ground distinction now have an
+instance apiece in this map, one from natural theology and one from the
+pastoral use of a doctrine.
+
+## Providence, added 2026-09-08: the chapter every other Grudem note deferred to
+
+The doctrine of providence had been the base's most-cited absence. Chapter 12's
+omniscience section deferred the compatibility of foreknowledge and human choice
+to it; the wisdom section at pp. 232-233 asserted that "God causes all things to
+move us toward his ultimate goal" and argued nothing for it; and two permanent
+notes named the missing chapter in their own limits. The owner supplied the whole
+of chapter 16 the same day the request was filed. It is the largest second-edition
+capture on file, the first whole chapter read here, and the first that had to be
+reconstructed from broken ligature encodings and then checked against rendered
+page images. Distilled at
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+(secs. A-E) and
+[[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]]
+(secs. F-G).
+
+Read the six in two groups. The first three are what the chapter settles:
+
+- [[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]] — every event is "fully (100 percent) caused by God and fully (100 percent) caused by the creature as well," God as the invisible primary cause and creaturely properties as the observable secondary ones. Not two shares of one quantity but two offices, which is what lets "all things" range over every event without a natural explanation ever subtracting from the divine one.
+- [[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]] — the freedom kept is Ware's "freedom of inclination," which "does not rule out the idea that our choices may ultimately be determined by God in ways invisible to us," and which a footnote glosses as "compatibilist freedom." The base had reached this by inference from a single concession in chapter 12; the primary text now says it.
+- [[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]] — the inference from foreknowledge to fixity, which chapter 12 paid as a cost, is here the argument against the Arminian who tries to keep foreknowledge without foreordination. Same step, opposite function; and the position the base had recorded as unrepresented turns out to be represented and answered.
+
+The second three are the chapter's own arguments, and each reaches somewhere
+else on this map:
+
+- [[grudem-takes-positions-whose-standard-names-he-declines--202609081828]] — determinism, compatibilism and (via Calvin, quoted with approval) free will are each granted in substance and refused as words, always because the word will be misread. A method note: it is why a reader searching Grudem for his position finds the terms only where he declines them.
+- [[a-situation-is-made-of-other-peoples-choices--202609081830]] — against Molinism, that no one can bring about a set of circumstances without determining the millions of prior human choices the circumstances are made of. It also supplies, in Frame's words, the bridge from God's knowledge of what he *could do* to his knowledge of what creatures *would do* that chapter 12 left unstated.
+- [[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]] — the chapter closes by conceding two questions Calvinism cannot answer and then choosing between two incomplete positions by which residue leaves God greater. A doxological tie-breaker, stated openly as the last word, and the same shape as the confirm/ground distinction the natural-theology branch of this map already tracks.
+
+Two consequences beyond the chapter itself. Its internal cross-references print
+book pages the exports do not, dating chapter 12's material on God's knowledge
+to pp. 225-231 and its open-theism discussion to pp. 227-230 — the first page
+numbers on file for that section, sitting immediately before the wisdom pages
+232-233. And its objection to Molinism turns a premise this base had supplied on
+its own authority, that most of what arrives in a life arrives through other
+people's choices, into Grudem's own argument.
+
+## Free will under sovereignty, added 2026-09-08: the first leg argued from a Jewish source
+
+Inquiry 202609081908 asked how the Christian doctrine of human free will under
+God's sovereignty differs from the doctrines of the traditions holding the same
+Pentateuch. The map was badly placed to answer it: it held Grudem's
+compatibilism in detail and Maimonides on the divine *attributes*, but not one
+Jewish or Islamic source on free will. Hilchot Teshuvah 5:1-5 and 6:3 and
+Pirkei Avot 3:15 are now on file, and the answer runs through four notes.
+
+- [[the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914]] — both traditions concede a mystery and neither claims to resolve the pair; what differs is where the mystery is placed. Maimonides puts it in divine knowledge ("He, may His name be praised, and His knowledge are one") and keeps the human half without doubt; Grudem puts it in the human half ("Exactly how can God cause us to choose something willingly?") and keeps exhaustive ordination. Each concedes precisely where the other's evidence would have to land.
+- [[simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915]] — the simplicity axis this map built for the same-God question turns out to do work in the free-will question. The identity of God with his knowledge is what disarms the argument from foreknowledge to necessity for Maimonides; Grudem holds a thinner simplicity, denying process in the knower rather than the knower/known distinction, and concedes the entailment instead of dissolving it.
+- [[commandment-texts-as-capacity-or-as-precept--202609081916]] — the two read a commandment as different kinds of evidence. For Maimonides "I have set before you today life" establishes "that the choice is in your hands," and free will is "a pillar of the Torah and mitzvot." Grudem's secret/revealed will assigns commands to the revealed will, which is compatible with the decree running otherwise, so the inference is blocked before it starts.
+- [[on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917]] — the one place the disagreement is explicit on both sides. Maimonides makes the hardening a judicial withdrawal of repentance after freely chosen sin; Grudem states that reading almost verbatim as an objection and answers it on the chronology of Exodus and on concurrence. Both build on Ex. 9:16, to opposite ends.
+
+Two boundaries this section should not be read past. Maimonides is not "Judaism"
+— Ra'avad objected to Hilchot Teshuvah 5:5 in the standard printings, no
+commentary is captured, and determinist strands in the rabbinic material are
+absent here. And the other two claimants to the Pentateuch are still missing:
+the Samaritans, who hold it and nothing else and are therefore the sharpest test
+of any Pentateuch-only argument, and the Islamic *qadar* literature, of which
+this map has the attribute debates (Mu'tazili and Ash'ari) but nothing on human
+acts. The Islamic leg is the one this base has the infrastructure to reach next.
 
 ## Sources behind these notes
 

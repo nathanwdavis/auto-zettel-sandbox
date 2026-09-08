@@ -2772,5 +2772,54 @@
     },
     "title": "Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin",
     "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Mishneh_Torah,_Repentance.5",
+    "author": [
+      {
+        "family": "Maimonides",
+        "given": "Moses"
+      }
+    ],
+    "container-title": "Mishneh Torah",
+    "id": "202609081910",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Moznaim",
+    "publisher-place": "Jerusalem",
+    "title": "Mishneh Torah, Sefer Madda, Hilchot Teshuvah 5:1-5; 6:3",
+    "translator": [
+      {
+        "family": "Touger",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Pirkei_Avot.3.15",
+    "container-title": "Mishnah",
+    "id": "202609081911",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Pirkei Avot 3:15",
+    "translator": [
+      {
+        "family": "Kulp",
+        "given": "Joshua"
+      }
+    ],
+    "type": "chapter"
   }
 ]

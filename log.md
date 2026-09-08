@@ -1969,3 +1969,94 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-07T21:58:56Z` build_manifest: 352 notes indexed
 - `2026-09-07T21:59:10Z` lint_citations: PASS
 - `2026-09-07T21:59:11Z` lint_links: PASS
+- `2026-09-08T16:51:44Z` verify_refs: 105/105 verified
+- `2026-09-08T16:51:50Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:52:01Z` lint_citations: PASS
+- `2026-09-08T16:52:06Z` lint_links: PASS
+- `2026-09-08T16:52:06Z` lint_skills: PASS
+- `2026-09-08T16:52:59Z` session (on-demand ingest, branch claude/gods-wisdom-individual-lives-k36ddr): owner supplied four paragraphs of Grudem, Systematic Theology 2nd ed., pp. 232-233 (the close of the treatment of God's wisdom) with an RIS block printing `SE - 232–233` and `SP - 1586`. Same book as reference 202609050158, so no new reference note (FR-4); attached there as excerpt capture raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt, paragraph (5), SHA-256 f88772573884ea55c24652484b727cbb3b4e172a18a49f436f2f717ada5e9cc0. Capture body kept verbatim (curly quotes and en-dashes preserved; line wrapping only) and checked programmatically against the text as supplied before any note was written. Second capture on file to carry 2nd-edition page numbers; first material in the base from the COMMUNICABLE half of Grudem's taxonomy.
+- `2026-09-08T16:52:59Z` session: wrote literature 202609081645 and permanent 202609081646 (Rom. 8:28 comfort is bought with the freedom the omniscience section gave up), 202609081647 (a communicable attribute described by transfer route and fruit, not by denial), 202609081648 (fear of the Lord read as motive, not premise), 202609081649 (the wisdom is read off the promised goal, not off the events -- cross-links to the fine-tuning/confirm-ground strand). Reciprocal links on 202609061922, 202609050612, 202609022357. Literature 202609050547 amended: "in part communicable" partly answers the strict-boundary-or-spectrum gap it filed 2026-09-05.
+- `2026-09-08T16:52:59Z` session: MOC 202608311945 gained a new TOP-LEVEL section "The communicable half" (not a subsection of Divine simplicity -- wisdom is not on that axis). INBOX entry filed recording the ingest, a standing request for the owner to drop Grudem's providence chapter (now deferred to by two sections the base holds), and two leads (Rom. 8:28 agency/textual question; no verse in the passage independently captured).
+- `2026-09-08T16:52:59Z` session (critic, self-review): PASS. Every quotation in the five new notes verified as an exact substring of the committed capture. Claims Grudem does not make are marked as this base's reading on each note (202609081646 "Grudem does not draw this connection"; 202609081649 "Grudem is making no epistemological claim"). The incommunicable/communicable contrast in 202609081647 carries its cross-edition and cross-evidence-grade caveat. No second-edition section number asserted anywhere, since the drop carries no heading.
+- `2026-09-08T16:53:00Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:54:46Z` verify_refs: 105/105 verified
+- `2026-09-08T16:54:47Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:54:59Z` lint_citations: PASS
+- `2026-09-08T16:55:00Z` lint_links: PASS
+- `2026-09-08T16:55:00Z` lint_skills: PASS
+- `2026-09-08T16:56:30Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-08T16:57:27Z` verify_refs: 105/105 verified
+- `2026-09-08T16:59:46Z` build_manifest: 357 notes indexed
+- `2026-09-08T16:59:57Z` lint_citations: PASS
+- `2026-09-08T16:59:58Z` lint_links: PASS
+- `2026-09-08T16:59:58Z` lint_skills: PASS
+- `2026-09-08T17:00:09Z` check_skill_sandbox: PASS
+- `2026-09-08T17:00:09Z` session (correction, evidence hygiene): the first gate run this session used `verify_refs.py --offline` without checking the network, which was available. Offline mode returns `Verification(True, "raw-capture", capture)` whenever a capture exists, so it rewrote 25 reference notes that had been verified ONLINE on 2026-09-04 from `method: raw-capture+openlibrary` / `identifier_check: confirmed` down to plain `raw-capture`, dropping the identifier check and re-dating the record. None of those notes was part of this ingest. All 25 were reverted with `git checkout HEAD -- reference/`, the Grudem edit was re-applied by hand, and verify_refs was re-run ONLINE: 105/105 verified.
+- `2026-09-08T17:00:09Z` session (correction, second pass): the online re-run downgraded exactly one further note, housel-the-psychology-of-money--202608311036, the same way. Cause was a transient TLS timeout against openlibrary.org, not verification rot: three follow-up requests for ISBN 9780857197689 returned the record twice and timed out once. The downgrade was reverted so the stronger 2026-09-04 record stands. Rule for future runs of this base: `--offline` is not a safe default — it silently weakens every previously online-verified reference it touches, and a single flaky lookup in an online run does the same to one note. Check `git status reference/` after every verify_refs run and revert any downgrade that is not real rot.
+- `2026-09-08T17:00:10Z` build_manifest: 357 notes indexed
+- `2026-09-08T17:00:26Z` lint_citations: PASS
+- `2026-09-08T17:00:27Z` lint_links: PASS
+- `2026-09-08T18:31:18Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-08T18:32:40Z` verify_refs: 105/105 verified
+- `2026-09-08T18:35:36Z` build_manifest: 365 notes indexed
+- `2026-09-08T18:35:50Z` lint_citations: PASS
+- `2026-09-08T18:35:51Z` lint_links: PASS
+- `2026-09-08T18:35:51Z` lint_skills: PASS
+- `2026-09-08T18:35:51Z` check_skill_sandbox: PASS
+- `2026-09-08T18:39:00Z` build_manifest: 365 notes indexed
+- `2026-09-08T18:39:15Z` lint_citations: PASS
+- `2026-09-08T18:39:16Z` lint_links: PASS
+- `2026-09-08T18:39:16Z` lint_skills: PASS
+- `2026-09-08T18:39:16Z` check_skill_sandbox: PASS
+- `2026-09-08T18:39:40Z` session (on-demand ingest, branch claude/gods-wisdom-individual-lives-k36ddr): owner supplied the WHOLE of Grudem ch. 16, "God's Providence", as a Logos-exported PDF (83 export pages, ~24,300 words), answering the standing INBOX request filed hours earlier by the pp. 232-233 wisdom ingest. Whole chapter read. Same book as reference 202609050158, so no new reference note (FR-4); attached there as excerpt capture raw/202609081823-grudem-ch16-providence-excerpts.txt, paragraph (6), 64 retained passages, SHA-256 100416424ce39e6c247401cccaff5458c34d5c7d69e94d300a5c127adc249e0e.
+- `2026-09-08T18:39:40Z` session (capture method): the PDF's embedded font subsets map the ligatures Th/tt/ft onto five ASCII glyph slots (! " # $ %) inconsistently page to page, and mark hyphenation with U+FFFE, so naive extraction gives "Co!rell" for Cottrell and "swi$" for swift. 84 distinct affected word-forms were resolved individually; hyphen joins applied except where the break fell on a real hyphen; running headers/footers stripped. Because a reconstruction is not a capture, export pp. 2, 9, 35, 64, 69 and 77 were rendered as page images and read directly by the session; all matched character for character. One cleaner bug found and fixed mid-run (a bare "%" between digits became "tt", turning "100%" into "100tt" on two lines).
+- `2026-09-08T18:39:40Z` session: wrote literature 202609081824 (secs. A-E) and 202609081825 (secs. F-G); permanent 202609081826 (concurrence is the mechanism the wisdom section assumed), 202609081827 (the deferred freedom is compatibilist freedom), 202609081828 (Grudem takes positions whose standard names he declines), 202609081829 (the entailment ch. 12 paid as a cost is the argument ch. 16 attacks with), 202609081830 (a situation is made of other people's choices; Frame supplies the bridge ch. 12 left unstated), 202609081831 (the dispute decided by which residue leaves God greater). MOC 202608311945 gained a new top-level section "Providence".
+- `2026-09-08T18:39:40Z` session (amendments, not rewrites): 202609061915 locator gains book pp. 225-231 / 227-230, taken from ch. 16's own cross-references - the first 2nd-edition page numbers on file for the omniscience section; 202609061922 (both bounded claims discharged); 202609061923 (Frame's bridge); 202609081645 (gap 2 closed); 202609081646 (mechanism now on file, and its "other people's choices" premise is now Grudem's own argument); 202609081649 (reciprocal link).
+- `2026-09-08T18:39:40Z` session (critic, self-review): PASS after one correction round. The first pass wrote the capture BEFORE the notes were finished, and a post-writing check of every quotation used in the eight new notes against the reconstructed chapter found sixteen cited passages not retained in raw/ and three carrying an extraction artifact (a footnote marker floated into the sentence at export pp. 31 and 33; foot-of-page matter falling between the halves of a sentence broken across pp. 44-45 and 56-57). Capture rebuilt at 64 passages with the artifacts corrected and flagged in place; all 77 quotations in the new notes now resolve to a committed capture. Lesson for future ingests of this size: retain the capture AFTER the notes are written, or check quotations against it before committing, because "the sentences the notes cite" is not knowable until the notes exist.
+- `2026-09-08T18:39:40Z` session (evidence hygiene, recurrence): verify_refs was run ONLINE per the rule logged earlier today. It again downgraded two unrelated reference notes (ahrens 202608301000, housel 202608311036) from raw-capture+openlibrary/confirmed to plain raw-capture. Both ISBNs were re-checked directly: openlibrary.org resolved intermittently through the proxy (ahrens 3 of 4 attempts, housel 2 of 4), so these are transient TLS timeouts, not verification rot, and both downgrades were reverted. The rule logged at 17:00Z holds and has now caught the same fault twice in one day.
+- `2026-09-08T18:39:42Z` build_manifest: 365 notes indexed
+- `2026-09-08T19:07:08Z` capture: inquiry -> inquiries/what-are-the-primary-distinctions-between-the-christian--202609081908.md
+- `2026-09-08T19:14:45Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-08T19:15:34Z` verify_refs: 107/107 verified
+- `2026-09-08T19:17:11Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:17:27Z` lint_citations: PASS
+- `2026-09-08T19:17:28Z` lint_links: PASS
+- `2026-09-08T19:17:28Z` lint_skills: PASS
+- `2026-09-08T19:17:28Z` check_skill_sandbox: FAIL (1 violation(s))
+- `2026-09-08T19:17:32Z` check_skill_sandbox: FAIL (1 violation(s))
+- `2026-09-08T19:18:23Z` check_skill_sandbox: PASS
+- `2026-09-08T19:18:40Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:18:55Z` lint_citations: PASS
+- `2026-09-08T19:18:56Z` lint_links: PASS
+- `2026-09-08T19:18:56Z` check_skill_sandbox: PASS
+- `2026-09-08T19:20:11Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:20:26Z` lint_citations: PASS
+- `2026-09-08T19:20:26Z` lint_links: PASS
+- `2026-09-08T19:20:26Z` lint_skills: PASS
+- `2026-09-08T19:20:27Z` check_skill_sandbox: PASS
+- `2026-09-08T19:20:52Z` session (ingest): owner supplied Grudem ch. 13 sec. D — items 14 (Will), 15 (Freedom), 16 (Omnipotence) — as a 15-page Logos PDF, ~4,500 words, read entire. Attached to reference 202609050158 as excerpt capture raw/202609081903 (paragraph (7)), 31 passages. Literature 202609081904; permanent 202609081905 (the two wills are sorted from outside the verse), 202609081906 (Deut. 29:29 partitions disclosure, not will), 202609081907 (human will as God-likeness qualified "relative"). This capture was built the right way round — notes first, retained passages assembled from the quotations they actually use — which is the rule the ch. 16 ingest arrived at only after its critic pass.
+- `2026-09-08T19:20:52Z` session (capture method): ch. 13's export uses one ligature glyph slot ch. 16's did not, & for "Th". Found by a full sweep for any non-alphanumeric character adjacent to letters, run over BOTH exports; the sweep confirmed ch. 16 contains no &, so raw/202609081823 needed no correction. Also confirmed from ch. 13's opening paragraph, in the book's own words, that chapter 12 covers "knowledge, wisdom, and truthfulness" — corroborating the inference recorded when the pp. 232-233 wisdom drop was ingested. Two of its footnotes give book pages for ch. 16 (decrees pp. 440-42; will and evil pp. 428-34), one page wider than the anchors ch. 16's own cross-references gave; both ranges recorded, neither harmonised away.
+- `2026-09-08T19:20:52Z` session (ad-hoc research, inquiry 202609081908 -> answered): the human question "what distinguishes the Christian doctrine of free will under sovereignty from the doctrines of other religions sharing the Pentateuch". The base had Grudem's compatibilism in depth and Maimonides on the attributes, but NO Jewish or Islamic source on free will. Captured two: Mishneh Torah Hilchot Teshuvah 5:1-5 and 6:3 (reference 202609081910, Touger via Sefaria API, CC-BY-NC) and Pirkei Avot 3:15 (reference 202609081911, Hebrew + Kulp English). Literature 202609081912 and 202609081913. Permanent 202609081914 (same wall, mystery placed on opposite sides), 202609081915 (simplicity is Maimonides' solvent for foreknowledge and Grudem never reaches for it — the simplicity axis built for the same-God question doing work in the free-will question), 202609081916 (commandment texts as evidence of capacity vs of precept), 202609081917 (Pharaoh: Grudem states Maimonides' reading almost verbatim and refuses it on chronology). MOC gained a "Free will under sovereignty" section.
+- `2026-09-08T19:20:52Z` session (RULE VIOLATION caught by the gate, and fixed): six Pharaoh passages from the ch. 16 export were APPENDED IN PLACE to the already-committed capture raw/202609081823. That edits an immutable raw/ capture; check_skill_sandbox.py flagged it (raw-modified, FR-33) before any commit. The capture was restored untouched from HEAD, the passages were re-homed as a new additive capture raw/202609081918, and the reference note's paragraph (6) was reverted to its committed description with a new paragraph (8) recording what happened and why. Lesson: when a later inquiry makes notes cite passages an earlier capture did not retain, the passages go in a NEW capture file — never back into the old one.
+- `2026-09-08T19:20:52Z` session (critic, self-review): PASS after two correction rounds. Round one: the ch. 13 capture's passage-locating step matched quotations against single export pages, so two that straddle a page break (the definition of God's will; the naming of the will of precept) were silently dropped — caught by checking every quotation the notes use against the capture, and added. Round two: one Maimonides quotation elided a whole intervening paragraph behind a single ellipsis; split into two separate quotations. All 69 quotations across the ten new notes now resolve to a committed capture; the residue is regex artifacts between adjacent quotations.
+- `2026-09-08T19:20:52Z` session (evidence hygiene, third recurrence today): verify_refs run online again downgraded two unrelated reference notes (dweck 202609030150, housel 202608311036) on transient openlibrary timeouts; re-checked by hand (2 of 3 and 1 of 3 attempts resolved), both reverted. 107/107 references verified.
+- `2026-09-08T19:20:54Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:26:18Z` lint_citations: PASS
+- `2026-09-08T19:26:19Z` lint_links: PASS
+- `2026-09-08T19:26:19Z` lint_skills: PASS
+- `2026-09-08T19:26:19Z` check_skill_sandbox: PASS
+- `2026-09-08T19:26:20Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:33:57Z` check_skill_sandbox: PASS
+- `2026-09-08T19:34:57Z` verify_refs: 107/107 verified
+- `2026-09-08T19:34:59Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:35:14Z` lint_citations: PASS
+- `2026-09-08T19:35:15Z` lint_links: PASS
+- `2026-09-08T19:35:15Z` check_skill_sandbox: PASS
+- `2026-09-08T19:35:40Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:35:55Z` lint_citations: PASS
+- `2026-09-08T19:35:56Z` lint_links: PASS
+- `2026-09-08T19:35:56Z` check_skill_sandbox: PASS
+- `2026-09-08T19:36:17Z` session (PR #79 review): the automated reviewer raised two comments, both the same legitimate finding — three captures opened with "verbatim excerpts" while their own TEXT RECONSTRUCTION sections described a reconstruction, contradicting README's definition of raw/ as "Verbatim source captures". Accepted. raw/202609081823, raw/202609081903 and raw/202609081918 now say RECONSTRUCTED in their first line and state what fidelity is and is not claimed; the chapter 13 file records that NO page of it was rendered as an image, so its reconstruction rests on the resolution table alone, unlike chapter 16's. The root inconsistency was in README, which promised something the repository no longer delivered, so its ground rules were amended too: a capture is verbatim wherever the source permits it, and a source that does not permit it must say so in the capture's first line. raw/202609081644 (pp. 232-233) and the two Sefaria captures were NOT changed — they are genuine transcriptions. Reference note paragraph (9) records the correction and the three recomputed SHA-256 values.
+- `2026-09-08T19:36:17Z` session (process note): the header edits changed the captures' SHA-256 values, which the reference note records; all three were recomputed rather than left stale. Editing these files is legitimate only because they are ADDITIONS in the open PR and have not landed on main — check_skill_sandbox against origin/main confirms it reports no raw-modified violation. Once merged they are immutable and a correction of this kind would have to be an additive file, as the Pharaoh passages were.
+- `2026-09-08T19:36:17Z` session (own error, corrected): a defensive `git checkout HEAD -- reference/` was chained into the same command as a real edit to the reference note, and silently discarded that edit along with the offline-verify damage it was meant to undo. The reference-note corrections were redone. Do not combine a revert with an edit to the same path in one command.
+- `2026-09-08T19:36:18Z` build_manifest: 377 notes indexed

@@ -31,17 +31,21 @@ verification:
   method: raw-capture+openlibrary
   source: https://openlibrary.org/isbn/9780310517979
   verified: true
-  date: '2026-09-07T21:48:54Z'
   identifier_check: confirmed
+  date: '2026-09-08T18:31:43Z'
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
 excerpt_captures:
 - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt
 - raw/202609050546-grudem-trinity-definition-excerpts.txt
 - raw/202609061910-grudem-ch12-knowledge-omniscience-excerpts.txt
 - raw/202609071342-ty-book.txt
+- raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt
+- raw/202609081823-grudem-ch16-providence-excerpts.txt
+- raw/202609081903-grudem-ch13-will-freedom-omnipotence-excerpts.txt
+- raw/202609081918-grudem-ch16-pharaoh-excerpts.txt
 links: []
 created: '2026-09-05'
-updated: '2026-09-07'
+updated: '2026-09-08'
 citation_renderer: pandoc
 ---
 Bibliographic record. The raw capture is Open Library metadata for ISBN
@@ -146,3 +150,151 @@ instead. The pp. 221-222 material is distilled at
 [[grudem-defines-god-s-spirituality-as-immateriality--202609071347]] and the
 atomic claim drawn from it at
 [[grudem-s-definition-of-spirituality-already-asserts-that--202609071348]].
+
+(5) Added 2026-09-08: a second owner drop carrying a page locator,
+raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt — four
+paragraphs of pp. 232-233, the close of the treatment of God's WISDOM. Its
+provenance matches (3) and (4): the owner supplied it from their own licensed
+copy, and its trailing RIS block prints the second edition, Zondervan Academic
+2020, the same `SP  - 1586` extent line, and `SE  - 232-233`. It is therefore
+the second capture on file to establish second-edition page numbers, after the
+pp. 221-222 spirituality drop, and the pages fall after those — consistent with
+this being the same chapter as the "3. Knowledge (Omniscience)" export of (3),
+though the drop carries no heading or section number and none is asserted. The
+excerpt body was checked programmatically against the text as supplied, and is
+kept verbatim including its curly quotation marks and en-dashes; only line
+wrapping was changed. The passage carries no footnotes, and none of the verses
+it quotes or cites has been independently captured by this repository. It is
+distilled at [[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]],
+with four atomic claims drawn from it:
+[[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]],
+[[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]],
+[[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]] and
+[[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]]. This is the
+first material in the repository from the COMMUNICABLE half of Grudem's
+taxonomy; every earlier capture treated an incommunicable attribute, or
+knowledge and spirituality. SHA-256 of the capture as committed:
+f88772573884ea55c24652484b727cbb3b4e172a18a49f436f2f717ada5e9cc0.
+
+(6) Added 2026-09-08: the owner supplied the WHOLE of chapter 16, "God's
+Providence," as a Logos-exported PDF (83 export pages, roughly 24,300 words),
+answering the standing INBOX request filed earlier the same day. It is attached
+as raw/202609081823-grudem-ch16-providence-excerpts.txt. This is the largest
+capture of the second edition on file and the first for which the complete text
+of a whole chapter was read by the session; per the copyright rule that governs
+paragraphs (3)-(5), only the 64 short passages the notes cite are retained, with
+the chapter's full heading outline recorded so that what is absent is visible.
+That count rose from 48 after a post-writing check of every quotation used in
+the notes against the reconstructed chapter: sixteen passages the notes cite had
+not been retained by the first pass, and three carried an extraction artifact (a
+footnote marker floated into the sentence, or foot-of-page matter falling between
+the halves of a sentence broken across a page). All are now retained, corrected,
+and flagged in place.
+
+Two things about this capture are unlike the earlier three. First, its text
+needed RECONSTRUCTION: the PDF's embedded font subsets map the ligatures "Th",
+"tt" and "ft" onto five ASCII glyph slots (! " # $ %), inconsistently from page
+to page, and mark line-break hyphenation with U+FFFE, so "Co!rell" is Cottrell,
+"swi$" is swift, and "o%en" is often. Each of 84 distinct affected word-forms was
+resolved individually, hyphenation joins were applied except where the break fell
+on a real hyphen, and every retained quotation was then checked programmatically
+as an exact substring of the reconstruction. Because a reconstruction is not a
+capture, the session additionally rendered export pp. 2, 9, 35, 64, 69 and 77 as
+page images and read them directly; all matched character for character. The
+capture header records the method in full.
+
+Second, it establishes BOOK PAGE NUMBERS for material this repository already
+holds but could not locate. The export prints no folios, but the chapter's own
+cross-references do: sec. B.7 at pp. 428-433, sec. D at pp. 440-441, the
+discussion of Cottrell on freedom at pp. 451-455, the concurrence examples at
+pp. 422-433 - and, reaching back into chapter 12, "the discussion of open theism
+in chapter 12, pp. 227-30" and "I affirmed this in chapter 12, pages 225-31."
+Those last two are the first page numbers on file for the second edition's
+treatment of God's knowledge, they sit immediately before the wisdom material of
+paragraph (5) at pp. 232-233, and the omniscience literature note's locator has
+been amended to carry them.
+
+The chapter is distilled at
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+(secs. A-E) and
+[[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]]
+(secs. F-G), with six atomic claims drawn from it:
+[[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]],
+[[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]],
+[[grudem-takes-positions-whose-standard-names-he-declines--202609081828]],
+[[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]],
+[[a-situation-is-made-of-other-peoples-choices--202609081830]] and
+[[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]].
+One caution for anyone citing this capture: no "C. GOVERNMENT" heading appears
+in the export, although the chapter's own definition names government as the
+third subtopic; whether that is the book or the export is not established, and
+no note here asserts anything about section C. SHA-256 of the capture as
+committed: 2f6694955044977a099aed7408b9eced458050937a683fb725f2958b31757d09.
+
+(7) Added 2026-09-08: a fourth owner drop, chapter 13 section D — "Attributes of
+Purpose", items 14 (Will), 15 (Freedom), 16 (Omnipotence) — as a 15-page Logos
+PDF, about 4,500 words, read entire. Attached as
+raw/202609081903-grudem-ch13-will-freedom-omnipotence-excerpts.txt, holding the
+29 passages the notes cite. Distilled at
+[[grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904]],
+with three atomic claims:
+[[grudems-two-wills-are-sorted-from-outside-the-verse--202609081905]],
+[[deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906]] and
+[[human-will-is-god-likeness-qualified-as-relative--202609081907]].
+
+Three things this capture settles or corrects for the record. First, its opening
+paragraph names chapter 12's contents in the book's own words — God's being
+(spirituality, invisibility), his "mental attributes (knowledge, wisdom, and
+truthfulness)", and his moral attributes — which CONFIRMS from the primary text
+the inference recorded in paragraph (5), that the wisdom material at pp. 232-233
+belongs to chapter 12 alongside knowledge. Second, two of its footnotes cite
+chapter 16 by book page, at "pp. 440-42" for the decrees and "pp. 428-34" for
+God's will and evil; both overlap the anchors paragraph (6) took from chapter
+16's own cross-references (440-41 and 428-33) and extend each by one page, so
+the wider ranges are now on file and the one-page discrepancy is recorded rather
+than silently harmonised. Third, its ligature encoding uses one glyph slot the
+ch. 16 export did not — & for "Th". That was found by a full sweep for any
+non-alphanumeric character adjacent to letters, run over this export AND back
+over the ch. 16 export; the sweep confirmed ch. 16's text contains no &, so the
+capture at paragraph (6) is unaffected and needed no correction.
+
+Procedurally this capture was built the right way round: the notes were written
+first and the retained passages assembled from the quotations they actually use,
+which is the rule paragraph (6)'s ingest arrived at only after its critic pass
+found sixteen cited passages missing from a capture written too early. SHA-256
+of the capture as committed: ad14778b9823aeebec80616afdce8009a5d42ba1979ee31a869a10a9e17bdb66.
+
+(8) Added 2026-09-08: raw/202609081918-grudem-ch16-pharaoh-excerpts.txt, six
+further passages from the SAME chapter 16 export as paragraph (6) — section B.7
+on the hardening of Pharaoh's heart, plus Joseph at Gen. 50:20. They were not
+cited when that chapter was ingested; inquiry 202609081908, comparing Grudem
+with Maimonides' Hilchot Teshuvah 6:3, made the notes cite them, and the result
+is at [[on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917]].
+
+They are a separate file for a reason worth recording. They were first appended
+to the capture at paragraph (6), which is an edit to an immutable raw/ capture;
+`check_skill_sandbox.py` flagged it (`raw-modified`, FR-33) before the commit,
+the earlier file was restored untouched, and the passages were re-homed here as
+an addition. The provenance, reconstruction method and extent statement in
+paragraph (6) govern both files, and each new passage was checked as an exact
+substring of the reconstructed chapter by the same method. SHA-256 of this
+capture as committed: 8aeedd4b15ee54c848b2d9a62293211d21890df72bc39bfe3d63208b0d23c3dd.
+
+(9) Corrected 2026-09-08, on review of PR #79. The captures at paragraphs (6),
+(7) and (8) opened with the words "verbatim excerpts", and the automated
+reviewer pointed out that this contradicts both their own TEXT RECONSTRUCTION
+sections and the README's definition of raw/ as verbatim source captures. The
+objection is right and the label is now corrected: all three say RECONSTRUCTED
+in their first line and carry an explicit statement of what fidelity is and is
+not claimed -- that every retained passage was checked as an exact substring of
+the reconstruction, that six pages of the chapter 16 export were additionally
+rendered as images and read directly, and that NO page of the chapter 13 export
+was, so its reconstruction rests on the resolution table alone. The SHA-256
+values recorded above are the corrected files'. The README's ground rules were
+amended in the same change, since the inconsistency was really there: a capture
+is verbatim wherever the source permits it, and a source that does not permit it
+must say so in the capture's first line rather than in a section further down.
+The pp. 232-233 wisdom capture of paragraph (5) is untouched, because it IS
+verbatim -- character for character, curly quotation marks and en-dashes
+included -- and the Sefaria captures made the same day are likewise genuine
+transcriptions.

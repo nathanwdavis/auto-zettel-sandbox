@@ -347,6 +347,31 @@
     "202609072129": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129",
     "202609072134": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134",
     "202609072135": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135",
+    "202609081645": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645",
+    "202609081646": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646",
+    "202609081647": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647",
+    "202609081648": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
+    "202609081649": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649",
+    "202609081824": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824",
+    "202609081825": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825",
+    "202609081826": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826",
+    "202609081827": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827",
+    "202609081828": "grudem-takes-positions-whose-standard-names-he-declines--202609081828",
+    "202609081829": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829",
+    "202609081830": "a-situation-is-made-of-other-peoples-choices--202609081830",
+    "202609081831": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831",
+    "202609081904": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904",
+    "202609081905": "grudems-two-wills-are-sorted-from-outside-the-verse--202609081905",
+    "202609081906": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906",
+    "202609081907": "human-will-is-god-likeness-qualified-as-relative--202609081907",
+    "202609081910": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910",
+    "202609081911": "pirkei-avot-3-15--202609081911",
+    "202609081912": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912",
+    "202609081913": "akiva-states-both-halves-and-reconciles-neither--202609081913",
+    "202609081914": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914",
+    "202609081915": "simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915",
+    "202609081916": "commandment-texts-as-capacity-or-as-precept--202609081916",
+    "202609081917": "on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -561,6 +586,20 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-are-the-primary-distinctions-between-the-christian--202609081908",
+      "path": "inquiries/what-are-the-primary-distinctions-between-the-christian--202609081908.md",
+      "priority": "high",
+      "question": "What are the primary distinctions between the Christian doctrine of human free will within God's sovereignty and the doctrines of the other traditions that hold the same Pentateuch — rabbinic Judaism above all, and Samaritanism, with Islam's Tawrat as the contested case? Ground the Jewish leg in primary texts (Maimonides, Hilchot Teshuvah 5; Pirkei Avot 3:15) rather than in Christian reports of it, as the Islamic leg was grounded in al-Ash'ari's Maqalat.",
+      "result_notes": [
+        "commandment-texts-as-capacity-or-as-precept--202609081916",
+        "on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917",
+        "simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915",
+        "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+      ],
+      "status": "answered",
+      "updated": "2026-09-08"
+    },
+    {
       "key": "what-are-the-top-5-teleological-arguments-for-an--202609010930",
       "path": "inquiries/what-are-the-top-5-teleological-arguments-for-an--202609010930.md",
       "priority": "normal",
@@ -675,7 +714,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 352,
+  "note_count": 377,
   "notes": [
     {
       "id": "202609041020",
@@ -868,6 +907,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-replication-project-that-tests-one-study-per-paper-cannot-settle-the-paper--202609041905.md"
     },
     {
+      "id": "202609081830",
+      "key": "a-situation-is-made-of-other-peoples-choices--202609081830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "supports",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        }
+      ],
+      "path": "permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md",
+      "slug": "a-situation-is-made-of-other-peoples-choices",
+      "tags": [],
+      "title": "Grudem's strongest objection to middle knowledge is that a situation is itself made of other people's choices",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md"
+    },
+    {
       "id": "202609010113",
       "key": "a-slip-box-surprises-only-after-critical-mass--202609010113",
       "links": [
@@ -1004,7 +1072,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -1142,6 +1210,23 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ahrens-on-the-slip-box-workflow--202608301100.md"
+    },
+    {
+      "id": "202609081913",
+      "key": "akiva-states-both-halves-and-reconciles-neither--202609081913",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pirkei-avot-3-15--202609081911"
+        }
+      ],
+      "path": "literature/akiva-states-both-halves-and-reconciles-neither--202609081913.md",
+      "slug": "akiva-states-both-halves-and-reconciles-neither",
+      "tags": [],
+      "title": "Akiva states foreknowledge and freedom as a pair and reconciles neither",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/akiva-states-both-halves-and-reconciles-neither--202609081913.md"
     },
     {
       "id": "202609051940",
@@ -2062,6 +2147,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811.md"
     },
     {
+      "id": "202609081916",
+      "key": "commandment-texts-as-capacity-or-as-precept--202609081916",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-two-wills-are-sorted-from-outside-the-verse--202609081905"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
+        }
+      ],
+      "path": "permanent/commandment-texts-as-capacity-or-as-precept--202609081916.md",
+      "slug": "commandment-texts-as-capacity-or-as-precept",
+      "tags": [],
+      "title": "The shared commandment texts are evidence of human capacity for Maimonides and evidence of God's precept for Grudem",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/commandment-texts-as-capacity-or-as-precept--202609081916.md"
+    },
+    {
       "id": "202608311143",
       "key": "compound-growth--202608311143",
       "links": [],
@@ -2107,6 +2225,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/compounding-favors-horizons-longer-than-one-life--202609010205.md"
+    },
+    {
+      "id": "202609081826",
+      "key": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        }
+      ],
+      "path": "permanent/concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826.md",
+      "slug": "concurrence-is-the-mechanism-the-wisdom-section-assumed",
+      "tags": [],
+      "title": "Grudem's concurrence supplies the mechanism his wisdom section asserted without argument",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826.md"
     },
     {
       "id": "202609040350",
@@ -2354,6 +2501,31 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
+    },
+    {
+      "id": "202609081906",
+      "key": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-two-wills-are-sorted-from-outside-the-verse--202609081905"
+        }
+      ],
+      "path": "permanent/deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906.md",
+      "slug": "deut-29-29-partitions-knowledge-and-grudem-partitions-will",
+      "tags": [],
+      "title": "Grudem's proof text for two wills partitions what God has disclosed, not what God has willed",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906.md"
     },
     {
       "id": "202609042081",
@@ -2766,6 +2938,18 @@
         {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
         }
       ],
       "path": "permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md",
@@ -2773,7 +2957,7 @@
       "tags": [],
       "title": "Grudem and the open theist accept the same entailment and give up opposite sides of it",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md"
     },
     {
@@ -2810,6 +2994,40 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md"
     },
     {
+      "id": "202609081825",
+      "key": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825.md",
+      "slug": "grudem-answers-the-arminian-by-comparing-unanswered-questions",
+      "tags": [],
+      "title": "Grudem states the Arminian position at length and answers it by comparing which questions each side leaves unanswered",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825.md"
+    },
+    {
+      "id": "202609081645",
+      "key": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645.md",
+      "slug": "grudem-closes-gods-wisdom-in-the-readers-own-life",
+      "tags": [],
+      "title": "Grudem closes God's wisdom in the reader's own life, and makes the shared portion a skill in living",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645.md"
+    },
+    {
       "id": "202609071347",
       "key": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
       "links": [
@@ -2840,8 +3058,54 @@
       "tags": [],
       "title": "Grudem defines omniscience as one simple and eternal act, and rejects open theism by Isaiah's test of deity",
       "type": "literature",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915.md"
+    },
+    {
+      "id": "202609081824",
+      "key": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-defines-providence-as-preservation-concurrence-and-government--202609081824.md",
+      "slug": "grudem-defines-providence-as-preservation-concurrence-and-government",
+      "tags": [],
+      "title": "Grudem defines providence as preservation, concurrence and government, and makes every event fully caused twice over",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-defines-providence-as-preservation-concurrence-and-government--202609081824.md"
+    },
+    {
+      "id": "202609081647",
+      "key": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612"
+        }
+      ],
+      "path": "permanent/grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647.md",
+      "slug": "grudem-describes-a-communicable-attribute-by-route-and-fruit",
+      "tags": [],
+      "title": "Grudem describes a communicable attribute by its transfer route and its fruit, where the incommunicable ones were described by denial",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647.md"
     },
     {
       "id": "202609050547",
@@ -2857,13 +3121,17 @@
       "tags": [],
       "title": "Grudem distinguishes God's incommunicable attributes from those God shares with human creation",
       "type": "literature",
-      "updated": "2026-09-05",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-divine-attributes-incommunicable-and-communicable--202609050547.md"
     },
     {
       "id": "202609061923",
       "key": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
       "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
         {
           "relation": "source",
           "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
@@ -2882,8 +3150,33 @@
       "tags": [],
       "title": "Grudem grounds God's knowledge of the possible in self-knowledge, and his scriptural cases are about what creatures would do",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
+    },
+    {
+      "id": "202609081648",
+      "key": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648.md",
+      "slug": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise",
+      "tags": [],
+      "title": "Grudem reads the fear of the Lord as a motive rather than a premise, which is what his practical definition of wisdom requires",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648.md"
     },
     {
       "id": "202609071348",
@@ -2911,6 +3204,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-s-definition-of-spirituality-already-asserts-that--202609071348.md"
     },
     {
+      "id": "202609081904",
+      "key": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904.md",
+      "slug": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed",
+      "tags": [],
+      "title": "Grudem splits God's will into necessary and free, then into secret and revealed, and defines freedom and omnipotence around it",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904.md"
+    },
+    {
       "id": "202609050158",
       "key": "grudem-systematic-theology--202609050158",
       "links": [],
@@ -2919,7 +3229,7 @@
       "tags": [],
       "title": "Grudem, Systematic Theology",
       "type": "reference",
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {
@@ -2945,6 +3255,35 @@
       "type": "reference",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology-chapter-14-course-outline--202609050601.md"
+    },
+    {
+      "id": "202609081828",
+      "key": "grudem-takes-positions-whose-standard-names-he-declines--202609081828",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        }
+      ],
+      "path": "permanent/grudem-takes-positions-whose-standard-names-he-declines--202609081828.md",
+      "slug": "grudem-takes-positions-whose-standard-names-he-declines",
+      "tags": [],
+      "title": "Grudem repeatedly takes a position and declines its standard name, on the ground that the name will be misread",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-takes-positions-whose-standard-names-he-declines--202609081828.md"
     },
     {
       "id": "202609050548",
@@ -3006,6 +3345,10 @@
           "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-divine-attributes-incommunicable-and-communicable--202609050547"
         },
@@ -3043,8 +3386,45 @@
       "tags": [],
       "title": "Grudem's incommunicable attributes are denials fenced at the point where God acts",
       "type": "permanent",
-      "updated": "2026-09-07",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612.md"
+    },
+    {
+      "id": "202609081646",
+      "key": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646.md",
+      "slug": "grudems-romans-8-28-comfort-is-bought-with-the-freedom",
+      "tags": [],
+      "title": "Grudem's Romans 8:28 comfort is bought with the freedom his omniscience section gave up",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646.md"
     },
     {
       "id": "202609061920",
@@ -3127,6 +3507,35 @@
       "type": "permanent",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-trinity-formula-closes-one-reading-in-a-clause-and-the-other-in-a-single-word--202609050618.md"
+    },
+    {
+      "id": "202609081905",
+      "key": "grudems-two-wills-are-sorted-from-outside-the-verse--202609081905",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        }
+      ],
+      "path": "permanent/grudems-two-wills-are-sorted-from-outside-the-verse--202609081905.md",
+      "slug": "grudems-two-wills-are-sorted-from-outside-the-verse",
+      "tags": [],
+      "title": "Grudem's two wills are told apart by what else is known to be true, never by the vocabulary of the verse",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudems-two-wills-are-sorted-from-outside-the-verse--202609081905.md"
     },
     {
       "id": "202609040345",
@@ -3342,6 +3751,35 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/hoyles-own-inference-terminated-in-a-superintellect-not-in-god--202609022355.md"
+    },
+    {
+      "id": "202609081907",
+      "key": "human-will-is-god-likeness-qualified-as-relative--202609081907",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        }
+      ],
+      "path": "permanent/human-will-is-god-likeness-qualified-as-relative--202609081907.md",
+      "slug": "human-will-is-god-likeness-qualified-as-relative",
+      "tags": [],
+      "title": "Grudem makes the human will an image of God's and qualifies its freedom as relative in the same sentence",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/human-will-is-god-likeness-qualified-as-relative--202609081907.md"
     },
     {
       "id": "202609040812",
@@ -3979,6 +4417,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-kings-and-wars-8-10-11--202609042022.md"
     },
     {
+      "id": "202609081912",
+      "key": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
+        }
+      ],
+      "path": "literature/maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912.md",
+      "slug": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward",
+      "tags": [],
+      "title": "Maimonides makes free will a pillar of the Torah and refers the foreknowledge paradox up into the unknowability of God's knowledge",
+      "type": "literature",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912.md"
+    },
+    {
       "id": "202609042055",
       "key": "maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055",
       "links": [
@@ -3998,6 +4453,18 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/maimonides-makes-the-first-idolaters-theists-who-reasoned-about-honour--202609042055.md"
+    },
+    {
+      "id": "202609081910",
+      "key": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910",
+      "links": [],
+      "path": "reference/maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910.md",
+      "slug": "maimonides-mishneh-torah-hilchot-teshuvah-5-6",
+      "tags": [],
+      "title": "Maimonides, Mishneh Torah, Hilchot Teshuvah 5:1-5 and 6:3",
+      "type": "reference",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910.md"
     },
     {
       "id": "202608311922",
@@ -4591,6 +5058,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934.md"
     },
     {
+      "id": "202609081917",
+      "key": "on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
+        }
+      ],
+      "path": "permanent/on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917.md",
+      "slug": "on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it",
+      "tags": [],
+      "title": "On Pharaoh's hardened heart Grudem states Maimonides' reading exactly and refuses it on chronology",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917.md"
+    },
+    {
       "id": "202701010002",
       "key": "one-idea-per-note-enables-reuse--202701010002",
       "links": [
@@ -4722,6 +5222,18 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/pico-makes-kabbalah-compel-the-catholic-trinity--202609011806.md"
+    },
+    {
+      "id": "202609081911",
+      "key": "pirkei-avot-3-15--202609081911",
+      "links": [],
+      "path": "reference/pirkei-avot-3-15--202609081911.md",
+      "slug": "pirkei-avot-3-15",
+      "tags": [],
+      "title": "Pirkei Avot 3:15 (Rabbi Akiva on foreknowledge and freedom)",
+      "type": "reference",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pirkei-avot-3-15--202609081911.md"
     },
     {
       "id": "202609011505",
@@ -5480,6 +5992,39 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532.md"
     },
     {
+      "id": "202609081915",
+      "key": "simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
+        }
+      ],
+      "path": "permanent/simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915.md",
+      "slug": "simplicity-is-maimonides-solvent-and-grudem-never-uses-it",
+      "tags": [],
+      "title": "Divine simplicity is what dissolves the foreknowledge problem for Maimonides, and Grudem holds the doctrine without ever using it that way",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915.md"
+    },
+    {
       "id": "202609041800",
       "key": "sparrow-liu-and-wegner-google-effects-on-memory--202609041800",
       "links": [],
@@ -5890,6 +6435,10 @@
         {
           "relation": "source",
           "target_id": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649"
         }
       ],
       "path": "permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md",
@@ -5897,7 +6446,7 @@
       "tags": [],
       "title": "The carbon tuning's evidential weight moved, and no belief moved with it",
       "type": "permanent",
-      "updated": "2026-09-02",
+      "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357.md"
     },
     {
@@ -6206,6 +6755,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
     },
     {
+      "id": "202609081831",
+      "key": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831",
+      "links": [
+        {
+          "relation": "analogous",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649"
+        }
+      ],
+      "path": "permanent/the-dispute-is-decided-by-which-residue-honours-god-more--202609081831.md",
+      "slug": "the-dispute-is-decided-by-which-residue-honours-god-more",
+      "tags": [],
+      "title": "Grudem decides the providence dispute by which side's unanswered questions leave God greater",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-dispute-is-decided-by-which-residue-honours-god-more--202609081831.md"
+    },
+    {
       "id": "202609041910",
       "key": "the-failed-google-effect-replication-is-the-one-its-authors-would-not-help-with--202609041910",
       "links": [
@@ -6301,6 +6879,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-first-jewish-answer-to-christian-kabbalism-conceded-the-parallel--202609030155.md"
     },
     {
+      "id": "202609081829",
+      "key": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829.md",
+      "slug": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16",
+      "tags": [],
+      "title": "The entailment chapter 12 paid as a cost is the argument chapter 16 attacks with",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829.md"
+    },
+    {
       "id": "202609040710",
       "key": "the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710",
       "links": [
@@ -6344,6 +6951,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-foundational-tafsir-glosses-the-shared-god-clause-as-a-shared-object-of-worship--202609040710.md"
+    },
+    {
+      "id": "202609081827",
+      "key": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md",
+      "slug": "the-freedom-grudem-deferred-is-compatibilist-freedom",
+      "tags": [],
+      "title": "The freedom chapter 12 deferred turns out to be compatibilist freedom, and chapter 16 says so in a footnote",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md"
     },
     {
       "id": "202609011038",
@@ -7696,6 +8332,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
+      "id": "202609081914",
+      "key": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912"
+        },
+        {
+          "relation": "source",
+          "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
+        },
+        {
+          "relation": "source",
+          "target_id": "pirkei-avot-3-15--202609081911"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        }
+      ],
+      "path": "permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md",
+      "slug": "the-same-wall-and-the-mystery-put-on-opposite-sides",
+      "tags": [],
+      "title": "Maimonides and Grudem reach the same wall and put the mystery on opposite sides of it",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md"
+    },
+    {
       "id": "202609042012",
       "key": "the-sefirot-comparison-survives-on-one-leg-and-loses-the-other--202609042012",
       "links": [
@@ -8776,6 +9449,43 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/whether-the-sefirot-are-gods-essence-or-his-instruments-is-a-dispute-inside-kabbalah--202609041720.md"
+    },
+    {
+      "id": "202609081649",
+      "key": "wisdom-in-a-life-is-read-off-the-promised-goal--202609081649",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        }
+      ],
+      "path": "permanent/wisdom-in-a-life-is-read-off-the-promised-goal--202609081649.md",
+      "slug": "wisdom-in-a-life-is-read-off-the-promised-goal",
+      "tags": [],
+      "title": "Grudem's wisdom in a life is read off the promised goal, not off the events, and the passage says so",
+      "type": "permanent",
+      "updated": "2026-09-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/wisdom-in-a-life-is-read-off-the-promised-goal--202609081649.md"
     },
     {
       "id": "202609042060",

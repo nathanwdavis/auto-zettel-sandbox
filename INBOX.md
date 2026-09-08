@@ -4262,3 +4262,144 @@ Residual leads for a future cycle (not blocking, filed here so they are not lost
   (/download/<id>/page/n<leaf>_w1600.jpg) and committing them to raw/ alongside a
   hand transcription is a workable capture route for public-domain Arabic primary
   texts, and stronger evidence than the OCR.
+
+## 2026-09-08 — Ingested: owner excerpt of Grudem pp. 232-233 (God's wisdom); and a standing request for the providence chapter
+
+- **status:** answered
+- **priority:** normal
+- **asked_by:** human (session request: "ingest the above excerpt from Grudem's
+  text and link it to other applicable notes")
+
+The owner pasted four paragraphs of Grudem's *Systematic Theology* (2nd ed.,
+2020) with an RIS block printing `SE - 232–233` — the close of the treatment of
+God's **wisdom**. Same physical book as reference
+`grudem-systematic-theology--202609050158`, so per FR-4 no new reference note
+was created; the passage is attached there as excerpt capture
+`raw/202609081644-grudem-ch12-wisdom-individual-lives-excerpts.txt` (paragraph
+(5) of that note), kept verbatim and checked programmatically against the text
+as supplied before any note was written on it. This is the second capture on
+file to establish second-edition page numbers, after the pp. 221-222
+spirituality drop, and the **first material in the repository from the
+communicable half of Grudem's taxonomy**.
+
+Written: literature
+[[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]] (locator
+"2nd ed., pp. 232-233"); permanent
+[[grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646]],
+[[grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647]],
+[[grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648]],
+[[wisdom-in-a-life-is-read-off-the-promised-goal--202609081649]]. Filed in MOC
+`abrahamic-conceptions-of-god--202608311945` under a new top-level section, "The
+communicable half" — deliberately not under "Divine simplicity", where the other
+Grudem attribute material sits, because wisdom is not on that axis. Reciprocal
+links added on 202609061922 (`elaborates`), 202609050612 (`elaborates`) and
+202609022357 (`analogous`); literature note 202609050547 amended, since "in part
+communicable" partly answers the strict-boundary-or-spectrum gap it filed on
+2026-09-05. Source not re-fetched; all five gates pass.
+
+**Standing request for the owner, now the base's most-cited absence.** Grudem's
+chapter on **providence** has now been deferred to by two separate sections this
+base holds. The omniscience section (ch. 12, sec. 3) defers the compatibility of
+foreknowledge and human choice to it; the wisdom section asserts that "God
+causes all things to move us toward his ultimate goal for our lives" and argues
+nothing for it. Permanent note 202609081646 reads those two passages together
+and is explicit that the chapter which would settle the question is not on file.
+If the owner can drop that chapter (or its section on God's concurrence and
+government) the same way as these three, it would replace an inference across
+two passages with the argument itself.
+
+**Two smaller leads, filed so they are not lost.**
+
+- *Rom. 8:28 agency.* Grudem quotes the ESV, where "all things" is the
+  grammatical subject of "work together", and both of his restatements make God
+  the agent of the working. There is a real textual and translational question
+  underneath this (whether ὁ θεός belongs in the verse, and whether συνεργεῖ
+  takes God or "all things" as subject) which this base has not examined and
+  which note 202609081645 flags rather than settles. Deciding it needs a
+  scripture capture and a commentary, not another Grudem excerpt.
+- *No verse cited in the passage is independently captured.* Rom. 8:28-29,
+  2 Cor. 12:7-10, James 1:5 and 3:13-18, Ps. 19:7 and 111:10, Prov. 1:7, 9:10
+  and 11:2, and Deut. 4:6-8 are on file only as Grudem quotes or cites them.
+
+## 2026-09-08 — Answered, same day it was asked: the standing request for Grudem's providence chapter
+
+- **status:** answered
+- **priority:** normal
+- **asked_by:** human (supplied the chapter as a PDF); the request was filed
+  earlier the same day by the pp. 232-233 wisdom ingest
+
+The owner supplied the complete text of chapter 16, "God's Providence," as a
+Logos-exported PDF — 83 export pages, roughly 24,300 words, read whole. Same
+book as reference `grudem-systematic-theology--202609050158`, so no new
+reference note; attached there as excerpt capture
+`raw/202609081823-grudem-ch16-providence-excerpts.txt` (paragraph (6)), holding
+the 48 short passages the notes cite plus the chapter's full heading outline, so
+that what is *not* retained is visible. All five gates pass.
+
+**What it closes.** Three standing items, all of them filed by earlier cycles:
+
+1. *The mechanism.* The wisdom section asserted that "God causes all things to
+   move us toward his ultimate goal" without argument. Chapter 16 supplies
+   concurrence: every event "fully (100 percent) caused by God and fully (100
+   percent) caused by the creature as well," primary and secondary causes
+   distinguished by office rather than by share.
+2. *The deferred freedom question.* Chapter 12 conceded that choices are not
+   "absolutely free" and deferred the rest here. Chapter 16 names the residue —
+   Ware's "freedom of inclination," footnoted as "compatibilist freedom" — and
+   says it "does not rule out the idea that our choices may ultimately be
+   determined by God in ways invisible to us." A base inference confirmed from
+   the primary text.
+3. *The missing bridge in 202609061923.* Chapter 12 moved between what God could
+   do and what creatures would do without saying how they connect. Chapter 16
+   gives Frame's answer: counterfactual knowledge of creatures "is already part
+   of God's necessary knowledge."
+
+**Page numbers, unexpectedly.** The export prints no book folios, but the
+chapter's own cross-references do, and two of them reach backwards: chapter 12's
+material on God's knowledge is at pp. 225-231 and its open-theism discussion at
+pp. 227-230. Those are the first page numbers on file for that section — it sits
+immediately before the wisdom pages 232-233 — and the omniscience literature
+note's locator has been amended to carry them. Also anchored: sec. B.7 at pp.
+428-433, sec. D at pp. 440-441, Cottrell on freedom at pp. 451-455.
+
+**Written.** Literature
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]
+(secs. A-E) and
+[[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]]
+(secs. F-G); permanent
+[[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]],
+[[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]],
+[[grudem-takes-positions-whose-standard-names-he-declines--202609081828]],
+[[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]],
+[[a-situation-is-made-of-other-peoples-choices--202609081830]],
+[[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]].
+Filed in MOC `abrahamic-conceptions-of-god--202608311945` under a new top-level
+section. Six existing notes amended rather than rewritten: 202609061915 (locator
+gains page anchors), 202609061922, 202609061923, 202609081645, 202609081646 and
+202609081649.
+
+**A capture caveat future cycles must not lose.** This PDF's embedded font
+subsets map the ligatures "Th", "tt" and "ft" onto five ASCII glyph slots
+(`! " # $ %`), inconsistently page to page, and mark hyphenation with U+FFFE, so
+naive extraction yields "Co!rell" for Cottrell and "swi$" for swift. The text
+was reconstructed word-form by word-form (84 distinct forms), every retained
+quotation checked as an exact substring of the reconstruction, and — because a
+reconstruction is not a capture — six pages were rendered as images and read
+directly to confirm it. Any future Logos PDF from this owner should be assumed
+to have the same defect and checked the same way.
+
+**Residual leads, not blocking.**
+
+- No "C. GOVERNMENT" heading appears in the export, though the chapter's own
+  definition names government as the third subtopic and the special-terms list
+  includes it. Whether the heading is absent from the book or lost in the export
+  is unresolved; no note asserts anything about section C. One page image of
+  export pp. 31-36 would settle it.
+- Every opponent in secs. F-G — Cottrell, Pinnock, Marshall, Basinger, Craig,
+  Frame — is known only as Grudem quotes them. Pinnock's two edited volumes
+  (*Grace Unlimited*; *The Grace of God, the Will of Man*) are the obvious route
+  to argue the Arminian leg from inside, exactly as the Mu'tazili leg still
+  needs a Mu'tazili source.
+- The chapter's treatment of evil (secs. B.7-8, roughly export pp. 16-31, book
+  pp. 428-433) was read but is represented here by only two sentences. It is the
+  largest unworked seam in the capture.

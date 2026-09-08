@@ -27,8 +27,10 @@ links:
   relation: elaborates
 - target_id: grudem-s-definition-of-spirituality-already-asserts-that--202609071348
   relation: elaborates
+- target_id: grudem-describes-a-communicable-attribute-by-route-and-fruit--202609081647
+  relation: elaborates
 created: '2026-09-05'
-updated: '2026-09-07'
+updated: '2026-09-08'
 ---
 All five of Grudem's definitions of God's "incommunicable" attributes are built
 to one pattern: a denial of something creaturely in God, then the word *yet*,

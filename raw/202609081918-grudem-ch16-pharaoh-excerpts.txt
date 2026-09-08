@@ -1,0 +1,56 @@
+Supplementary RECONSTRUCTED excerpts (not a verbatim capture; see
+raw/202609081823, whose reconstruction method and fidelity statement govern this
+file too) from Wayne Grudem, Systematic Theology, 2nd ed. (2020),
+chapter 16 "God's Providence", section B.7 ("What about Evil?"), on the hardening
+of Pharaoh's heart and on Joseph (reference:
+grudem-systematic-theology--202609050158).
+
+WHY THIS IS A SEPARATE FILE. These six passages belong to the same owner export
+as raw/202609081823-grudem-ch16-providence-excerpts.txt, and were first appended
+to it. That was wrong: raw/ captures are immutable, additions only (FR-33), and
+check_skill_sandbox caught the edit before it was committed. The earlier capture
+was restored untouched and these passages are recorded here instead. Read the two
+together; the provenance, reconstruction method and extent statement in the
+earlier file govern both.
+
+WHY THEY WERE NEEDED. They were not cited when chapter 16 was first ingested.
+Inquiry 202609081908 compared Grudem with Maimonides' Hilchot Teshuvah 6:3 on
+the hardening of Pharaoh's heart, and the comparison made the notes cite the
+passage where Grudem states and refuses the reading Maimonides gives.
+
+Each passage below was checked as an exact substring of the reconstructed
+chapter text, by the same method the earlier capture records.
+
+--- BEGIN EXCERPTS ---
+
+[export p. 18 | Joseph Gen 50:20]
+“You meant evil against me, but God meant it for good, to bring it about that
+many people should be kept alive, as they are today” (Gen. 50:20).
+
+[export p. 19 | Pharaoh hardening texts]
+The story of the exodus from Egypt repeatedly affirms that God hardened the
+heart of Pharaoh: God says, “I will harden his heart” (Ex. 4:21), “I will
+harden Pharaoh’s heart” (Ex. 7:3)
+
+[export p. 19 | the self-hardening objection]
+It is sometimes objected that Scripture also says that Pharaoh hardened his
+own heart (Ex. 8:15, 32; 9:34), and that God’s act of hardening Pharaoh’s
+heart was only in response to the initial rebellion and hardness of heart that
+Pharaoh himself exhibited of his own free will.
+
+[export p. 19 | the chronological reply]
+But it should be noted that God’s promises that he would harden Pharaoh’s
+heart (Ex. 4:21; 7:3) are made long before Scripture tells us that Pharaoh
+hardened his own heart (we read of this for the first time in Ex. 8:15).
+
+[export p. 19 | concurrence reply on Pharaoh]
+even when Pharaoh hardens his own heart, that is not inconsistent with saying
+that God is causing Pharaoh to do this, and thereby God is hardening the heart
+of Pharaoh.
+
+[export p. 19 | intensifying reply]
+if someone would object that God is just intensifying the evil desires and
+choices that were already in Pharaoh’s heart, then this kind of action could
+still in theory at least cover all the evil in the world today
+
+--- END EXCERPTS ---
