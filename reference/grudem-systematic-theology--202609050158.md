@@ -28,10 +28,11 @@ chicago_note: 'Wayne A. Grudem, Systematic Theology: An Introduction to Biblical
 chicago_bib: 'Grudem, Wayne A. Systematic Theology: An Introduction to Biblical Doctrine.
   2nd ed. Zondervan Academic, 2020.'
 verification:
-  method: raw-capture
-  source: raw/202609050158-grudem-systematic-theology.txt
+  method: raw-capture+openlibrary
+  source: https://openlibrary.org/isbn/9780310517979
   verified: true
-  date: '2026-09-06T19:18:39Z'
+  date: '2026-09-07T21:48:54Z'
+  identifier_check: confirmed
 raw_capture: raw/202609050158-grudem-systematic-theology.txt
 excerpt_captures:
 - raw/202609050545-grudem-incommunicable-attributes-excerpts.txt

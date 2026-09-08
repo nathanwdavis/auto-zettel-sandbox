@@ -36,10 +36,11 @@ chicago_bib: 'Pyc, Mary A., and Katherine A. Rawson. “Why Testing Improves Mem
   Mediator Effectiveness Hypothesis.” Science 330, no. 6002 (2010): 335. https://doi.org/10.1126/science.1191465.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609042320-pyc-rawson-2010-mediator-effectiveness-record.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1126/science.1191465
   verified: true
-  date: '2026-09-04T23:47:38Z'
+  date: '2026-09-07T21:49:11Z'
+  identifier_check: confirmed
 raw_capture: raw/202609042320-pyc-rawson-2010-mediator-effectiveness-record.txt
 links: []
 created: '2026-09-04'

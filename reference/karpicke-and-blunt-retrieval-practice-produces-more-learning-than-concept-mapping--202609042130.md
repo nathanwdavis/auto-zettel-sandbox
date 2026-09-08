@@ -40,10 +40,11 @@ chicago_bib: 'Karpicke, Jeffrey D., and Janell R. Blunt. “Retrieval Practice P
   6018 (2011): 772–75. https://doi.org/10.1126/science.1199327.'
 citation_renderer: pandoc
 verification:
-  method: raw-capture
-  source: raw/202609042130-karpicke-blunt-2011-retrieval-practice-vs-concept-mapping-excerpts.txt
+  method: raw-capture+crossref
+  source: https://doi.org/10.1126/science.1199327
   verified: true
-  date: '2026-09-04T21:51:00Z'
+  date: '2026-09-07T21:49:00Z'
+  identifier_check: confirmed
 raw_capture: raw/202609042130-karpicke-blunt-2011-retrieval-practice-vs-concept-mapping-excerpts.txt
 links: []
 created: '2026-09-04'

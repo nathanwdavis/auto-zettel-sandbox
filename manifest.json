@@ -344,6 +344,9 @@
     "202609061923": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923",
     "202609071347": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
     "202609071348": "grudem-s-definition-of-spirituality-already-asserts-that--202609071348",
+    "202609072129": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129",
+    "202609072134": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134",
+    "202609072135": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -357,8 +360,10 @@
       "path": "inquiries/do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929.md",
       "priority": "high",
       "question": "Do the Ash'ari and Mu'tazili positions on the divine attributes land where permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting real attributes that are 'neither He nor other than He'?",
-      "result_notes": [],
-      "status": "in-progress",
+      "result_notes": [
+        "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135"
+      ],
+      "status": "answered",
       "updated": "2026-09-07"
     },
     {
@@ -670,7 +675,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 349,
+  "note_count": 352,
   "notes": [
     {
       "id": "202609041020",
@@ -1166,6 +1171,44 @@
       "type": "reference",
       "updated": "2026-09-05",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-ash-ari-al-ibana-klein-translation--202609051935.md"
+    },
+    {
+      "id": "202609072134",
+      "key": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129"
+        }
+      ],
+      "path": "literature/al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134.md",
+      "slug": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real",
+      "tags": [],
+      "title": "al-Ash'ari in the Maqalat reports Ibn Kullab: real attributes, 'neither He nor other than He'",
+      "type": "literature",
+      "updated": "2026-09-07",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134.md"
+    },
+    {
+      "id": "202609072135",
+      "key": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
+        },
+        {
+          "relation": "source",
+          "target_id": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129"
+        }
+      ],
+      "path": "permanent/al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135.md",
+      "slug": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the",
+      "tags": [],
+      "title": "al-Ash'ari's Maqalat puts the Islamic attributes at the midpoint the simplicity axis predicted",
+      "type": "permanent",
+      "updated": "2026-09-07",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135.md"
     },
     {
       "id": "202609040808",
@@ -2321,6 +2364,10 @@
           "target_id": "abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941"
         },
         {
+          "relation": "elaborates",
+          "target_id": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135"
+        },
+        {
           "relation": "source",
           "target_id": "athanasius-de-decretis--202609052015"
         },
@@ -3334,7 +3381,7 @@
       "tags": [],
       "title": "Unconfirmed: Ibn Kullab as originator of 'neither He nor other' formula",
       "type": "fleeting",
-      "updated": "2026-09-05",
+      "updated": "2026-09-07",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md"
     },
     {
@@ -4033,6 +4080,18 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/malthus-pits-a-doubling-population-against-incremental-subsistence--202609010703.md"
+    },
+    {
+      "id": "202609072129",
+      "key": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129",
+      "links": [],
+      "path": "reference/maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129.md",
+      "slug": "maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin",
+      "tags": [],
+      "title": "Maqalat al-Islamiyyin wa-Ikhtilaf al-Musallin",
+      "type": "reference",
+      "updated": "2026-09-07",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129.md"
     },
     {
       "id": "202609041205",

@@ -10,10 +10,11 @@ updated: '2026-09-07'
 question: Do the Ash'ari and Mu'tazili positions on the divine attributes land where
   permanent 202609042081 predicts -- a setting between Maimonides and Aquinas, admitting
   real attributes that are 'neither He nor other than He'?
-status: in-progress
+status: answered
 priority: high
 asked_by: human
-result_notes: []
+result_notes:
+- al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135
 tags: []
 ---
 Filed by the 2026-09-05 second cycle from the standing INBOX entry 'Not done by cycle 202609041844'. 202609042081 orders the monotheisms by how far the argument from dependence is allowed to run and predicts, without evidence, where the Islamic leg falls. Islam is the tradition that ran the attributes dispute hardest and the base holds nothing on it: deep tafsir and fiqh coverage, no kalam. Ground in Islamic primary texts in translation or Arabic where capturable (al-Ash'ari, 'Abd al-Jabbar, al-Ghazali); a survey is a fallback, not the answer. The prediction is falsifiable and may be wrong.
@@ -67,3 +68,27 @@ worse than leaving it open. Next cycle: capture the *Maqalat* passage(s) on
 al-Kullabiyya's *sifat*, verify the Arabic verbatim, and read whether the
 attributes-to-essence relation there is the predicted midpoint or (as al-Ibana's
 "names are not other than He" suggested) sits nearer the Maimonidean end.
+
+## 2026-09-07 (answered)
+
+Resolved this cycle from the primary text the two prior cycles named as the route.
+al-Ash'ari's *Maqalat al-Islamiyyin* (1930 Arabic ed., archive.org DLI scan) was
+reached, and its section *Sharh qawl 'Abd Allah ibn Kullab* (p. 546, corroborated
+p. 548) gives the exact double-negation formula the prediction quoted:
+"وان صفاته لا هى هو ولا غيره" (his attributes are neither He nor other than He),
+with the attributes affirmed as real and eternal (*sifat al-dhat*, subsisting in
+God). That is the midpoint 202609042081 predicted, and it completes the al-Ibana
+datum (names "not other than He") which had given only half the formula.
+
+Answer: the prediction is CONFIRMED for the Ash'ari/Kullabi leg on the formula it
+quoted; and both Islamic schools sit on the one simplicity axis — the Mu'tazila at
+the Maimonidean end (attributes reduced to the essence, as al-Ash'ari reports them),
+the Kullabi–Ash'ariyya at the middle. Grounded in permanent note
+al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135 via reference
+maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129 and literature
+al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134.
+
+Two residual limits, carried forward rather than hidden: the Mu'tazili leg still
+rests on al-Ash'ari's characterisation of his opponents, not a Mu'tazili source in
+its own voice; and whether Ibn Kullab originated the formula (vs. the school later
+crediting him) is not settled by this reporting passage.
