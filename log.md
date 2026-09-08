@@ -2041,3 +2041,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-08T19:20:52Z` session (critic, self-review): PASS after two correction rounds. Round one: the ch. 13 capture's passage-locating step matched quotations against single export pages, so two that straddle a page break (the definition of God's will; the naming of the will of precept) were silently dropped — caught by checking every quotation the notes use against the capture, and added. Round two: one Maimonides quotation elided a whole intervening paragraph behind a single ellipsis; split into two separate quotations. All 69 quotations across the ten new notes now resolve to a committed capture; the residue is regex artifacts between adjacent quotations.
 - `2026-09-08T19:20:52Z` session (evidence hygiene, third recurrence today): verify_refs run online again downgraded two unrelated reference notes (dweck 202609030150, housel 202608311036) on transient openlibrary timeouts; re-checked by hand (2 of 3 and 1 of 3 attempts resolved), both reverted. 107/107 references verified.
 - `2026-09-08T19:20:54Z` build_manifest: 377 notes indexed
+- `2026-09-08T19:26:18Z` lint_citations: PASS
+- `2026-09-08T19:26:19Z` lint_links: PASS
+- `2026-09-08T19:26:19Z` lint_skills: PASS
+- `2026-09-08T19:26:19Z` check_skill_sandbox: PASS
+- `2026-09-08T19:26:20Z` build_manifest: 377 notes indexed
