@@ -4403,3 +4403,82 @@ to have the same defect and checked the same way.
 - The chapter's treatment of evil (secs. B.7-8, roughly export pp. 16-31, book
   pp. 428-433) was read but is represented here by only two sentences. It is the
   largest unworked seam in the capture.
+
+## 2026-09-08 — Paper outline on sovereignty and free will: the gaps it exposes
+
+- **status:** new
+- **priority:** normal
+- **asked_by:** human (session request: "outline of the various opinions, sources and connections" for a Systematic Theology paper arguing that God's sovereign will and human free will coexist and are equally true)
+
+A paper outline was written at `papers/divine-sovereignty-and-human-free-will-outline.md`
+(a new top-level directory for human-authored deliverables; not indexed by the
+manifest, not covered by the gates, see README). It draws on the Providence,
+Omniscience, two-wills and Free-will-under-sovereignty clusters in the Abrahamic
+MOC and on public-domain texts verified in the session but NOT captured here.
+Writing it exposed the following gaps. None blocks the paper; each is a source a
+later run could capture so that the outline's `[verified]`, `[second-hand]` and
+`[to verify]` tags can be promoted to `[repo]`.
+
+**Public domain, capturable now (highest value per effort).**
+
+- Calvin, *Institutes* I.16-18 (providence), II.2.7-8 (the term "free will"),
+  II.3.5 (necessity versus compulsion), III.21-24 (election). Grudem's ch. 16
+  leans on Calvin at three points and this base can only report them at second
+  hand; the existing Calvin reference (202609011032) captures only I.3 and I.5.
+  The Beveridge translation is on CCEL; the URLs used this session are in the
+  outline.
+- *Westminster Confession of Faith* 3.1, 5.1-4, 9.1-3. The single best one-sentence
+  statement of the thesis (3.1) is not on file. CCEL carries ch. 3 and ch. 5; the
+  CCEL "ch. 9" page turned out to be a PCUS variant ("Of the Holy Spirit"), so ch. 9
+  needs a different host.
+- Edwards, *Freedom of the Will* (1754), Part I secs. 1, 2, 5. CCEL
+  (`ccel.org/ccel/edwards/will/will.ii.v.html` for sec. 5).
+- Aquinas, *ST* I q.83 a.1 and q.105 a.4-5 (New Advent), the classical root of
+  concurrence; the base has q.2 and q.3 only.
+- Spurgeon, "Sovereign Grace and Man's Responsibility" (1 Aug 1858), spurgeon.org.
+- Scripture captures for the conjunction texts, none of which is on file except as
+  Grudem quotes them: Gen 50:20, Isa 10:5-15, Acts 2:23 and 4:27-28, Phil 2:12-13,
+  Prov 16:9, Luke 22:22, Rom 9:14-24, Deut 29:29 (Hebrew), and the Pharaoh
+  hardening verbs (chazaq, qashah, kaved) that 202609081917 names as the next step.
+
+**In copyright; needs an owner drop or the excerpt-and-two-witness route.**
+
+- No Arminian, Molinist or open-theist primary text: every opponent in Grudem's
+  secs. F-G is still known only as he quotes them (already filed 2026-09-08 above;
+  restated here because the outline had to tag the whole of its section IV
+  `[to verify]`). Named routes: Pinnock, ed., *Grace Unlimited* and *The Grace of
+  God, the Will of Man*; Olson, *Arminian Theology* (IVP, 2006); Craig, *The Only
+  Wise God* (Baker, 1987); Keathley, *Salvation and Sovereignty* (B&H, 2010);
+  Pinnock et al., *The Openness of God* (IVP, 1994); Boyd, *God of the Possible*
+  (Baker, 2000).
+- No Packer and no Carson. The word "antinomy" does not occur in this base. Packer,
+  *Evangelism and the Sovereignty of God* (IVP, 1961), 18-24, and Carson, *How
+  Long, O Lord?* (Baker, 1990), ch. 11, are the standard evangelical statements of
+  the posture the outline recommends; both were confirmed this session only from
+  secondary summaries.
+- Ware, *God's Greater Glory* (Crossway, 2004): "freedom of inclination" is now
+  cited at second hand in four places here.
+- Piper, "Are There Two Wills in God?" (*Still Sovereign*, Baker, 2000, 107-31):
+  named by 202609081904 as the standing treatment; desiringgod.org returned 403 to
+  this session, and only page-numbered fragments (111-12, 114) were confirmed via
+  Sam Storms's summary.
+
+**Librarian items (structure, not sources).**
+
+- The three ch. 13 two-wills notes (202609081905, 202609081906, 202609081907) appear
+  in no MOC section; they are reachable only through 202609081904 and their own
+  links. The Abrahamic MOC has a Providence section and a Free-will-under-
+  sovereignty section but no Will/decree section.
+- The MOC's "Sources behind these notes" list does not include
+  grudem-systematic-theology--202609050158,
+  maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910 or
+  pirkei-avot-3-15--202609081911.
+- Inquiry 202609081908 asked for three legs (rabbinic Judaism, Samaritanism, Islamic
+  qadar) and is marked answered on the strength of one; the MOC boundary paragraph
+  already says so. Not re-filed here, only noted.
+
+**Two quotation-fidelity items the outline had to carry.** (1) The ch. 13 capture
+(raw/202609081903) is a reconstruction with no page rendered as an image; any
+sentence from it that goes into a footnote should be re-read from the book first.
+(2) The Calvin quotations in 202609081828 are not in any raw/ file; the outline
+cites Calvin from the *Institutes* directly instead.

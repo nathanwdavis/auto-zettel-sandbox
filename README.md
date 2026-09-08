@@ -22,6 +22,7 @@ A citation-grounded Zettelkasten, cultivated by the
 | `inquiries/` | Open questions and their answering notes. |
 | `proposed-links/` | Connector queue awaiting review. |
 | `skills/` | Self-authored child skills, pending human promotion. |
+| `papers/` | Human-authored deliverables that draw on the graph (paper outlines). Not indexed, not gated. |
 | `.bib/refs.json` | Aggregated CSL-JSON bibliography. |
 | `log.md` | Append-only run log. |
 
