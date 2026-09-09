@@ -64,7 +64,8 @@ of God’s will and therefore, He has no control over it. Yet, it is not the
 same as natural knowledge because, like free knowledge, its content is
 contingent." Pohle gives the objects that the two properties pick out: a
 class "found neither in the region of pure possibility nor strictly in that
-of actuality, but partake equally of both extremes"
+of actuality, but partake equally of both extremes and in some sort belong
+to both kinds of knowledge"
 ([[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]],
 from [[pohle-molinism-catholic-encyclopedia--202609090052]]).
 

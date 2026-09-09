@@ -4547,7 +4547,7 @@ applied without having been ratified.
 **What remains, in order of value.**
 
 - The Thomist side. Banez is on file only as Pohle and Astrain report him, and
-  both are the other party. A public-domain Banez (the *Scholastica
+  both are Catholic reference-work accounts, not Dominican ones. A public-domain Banez (the *Scholastica
   commentaria* on I q. 14, or the *Apologia* against Molina) would give the
   decree-first position in its scholastic form, the position Grudem's
   entailment most resembles.

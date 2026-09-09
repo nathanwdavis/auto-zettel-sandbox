@@ -20,7 +20,7 @@ links:
 - target_id: grudem-systematic-theology--202609050158
   relation: source
 - target_id: the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829
-  relation: contradicts
+  relation: shared-concept
 - target_id: simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915
   relation: shared-concept
 - target_id: the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914
@@ -41,7 +41,8 @@ e contrario, quia illud futurum est ex suis causis, ideo cognoscere illud
 esse futurum." For the conditional case the same is said on p. 318: a free
 creature's turning one way or the other in a given order of things does "non
 provenire ex praescientia Dei, quin potius ideo Deum id praescire, quia ipsa
-res libero arbitrio praedicta libere id ipsum agere debet," and the knowledge
+res libero arbitrio praedicta libere id ipsum agere debet" (the page's
+"praedicta" is its misprint for *praedita*), and the knowledge
 by which God foresees, before creating it, what it would do is said to
 "pendere ex eo quod ipsa pro sua libertate hoc vel illud sit factura et non e
 contrario"
@@ -94,5 +95,6 @@ creature exists, can be true at all is the grounding objection
 which these pages do not face. Grudem and Molina are set side by side by this
 base; neither addresses the other, and Grudem's "fixed" can be read as
 certainty rather than causal fixity, in which case the two talk past one
-another rather than contradict. The note records the contradiction as it
-stands on the surface of the two texts.
+another rather than contradict. The note records the opposition as it
+stands on the surface of the two texts, and for that reason links the two
+as a shared concept rather than a contradiction.

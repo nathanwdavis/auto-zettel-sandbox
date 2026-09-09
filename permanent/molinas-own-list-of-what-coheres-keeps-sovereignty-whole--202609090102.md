@@ -36,7 +36,9 @@ inter se convenire et cohaerere": that "Nihil esse in potestate creaturae,
 quod etiam non sit in potestate Dei"; that "Deum sua omnipotentia inflectere
 posse nostrum liberum arbitrium quocunque ipse voluerit, praeterquam in
 peccatum," since bending it into sin "contradictionem implicat"; that God can
-do by himself whatever he does through a secondary cause; that "Deum
+bring about by himself whatever he brings about through a secondary cause,
+"nisi in effectu involvatur, ut sit a causa secunda" — unless it is part of
+the effect that it come from a secondary cause; that "Deum
 permittere posse peccata, non vero praecipere, aut ad ea incitare vel
 inclinare"; and then the reversal of dependence recorded in
 [[molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101]].
@@ -51,8 +53,8 @@ fault and defect "in solum arbitrium creatam tanquam in causam reducuntur"
 from [[molina-concordia-liberi-arbitrii--202609090050]]).
 
 Three of those items are what a Reformed reader expects to find in a
-Reformed text. Grudem's providence chapter has God as "the 'primary cause'
-that plans and initiates everything that happens"
+Reformed text. Grudem's providence chapter says the divine cause "could be called the
+'primary cause' that plans and initiates everything that happens"
 ([[concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826]]),
 and his section on God's will, in the breath that affirms the decree over the
 crucifixion, refuses to "imply that we are freed from responsibility for evil

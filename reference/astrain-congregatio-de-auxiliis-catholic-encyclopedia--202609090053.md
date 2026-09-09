@@ -48,8 +48,9 @@ the site's navigation, donation and contact lines stripped. New Advent's
 transcription garbles some Spanish diacritics ("Alcalç", "Tomçs de Lemos");
 they are kept as they stand in the capture.
 
-Recorded as reputable-secondary: a historical survey for a reference work.
-Astrain was a Jesuit and the historian of the Spanish Assistancy of the
-Society, so the account of the Dominican-Jesuit controversy is a Jesuit's;
-its dates and the wording of the 1607 decree are the facts this repository
-takes from it, and its judgements of the parties are not relied on.
+Recorded as reputable-secondary: a historical survey for a reference work,
+written from inside the Church that held the congregation. No Dominican
+account of the same events is on file, so the article's judgements of the
+parties are not relied on; its dates and the wording of the 1607 decree are
+the facts this repository takes from it. The author's own affiliation is not
+stated in the captured text and is not asserted here.

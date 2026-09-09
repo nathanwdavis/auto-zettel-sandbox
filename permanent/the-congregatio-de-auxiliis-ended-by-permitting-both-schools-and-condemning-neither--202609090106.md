@@ -76,8 +76,9 @@ a test of orthodoxy. Holding both doctrines is required; holding a theory of
 how they consist is permitted.
 
 **Limits.** The wording of the decree is Astrain's report of it; the text is
-not on file. Astrain was a Jesuit and Pohle a Catholic dogmatician, so the
-Dominican side is known here only from the other party. The analogy with
+not on file. Both articles are Catholic reference-work accounts and no
+Dominican account of the same events is on file, so the Dominican side is
+known here only as others report it. The analogy with
 al-Tabari's rule is this base's and is one of form only, a rule of speech
 under suspended judgement. The 1607 decree was a disciplinary act inside one
 communion and says nothing about the Reformed-Arminian dispute Grudem's

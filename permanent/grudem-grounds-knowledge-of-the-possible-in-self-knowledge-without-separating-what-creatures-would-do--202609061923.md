@@ -99,6 +99,6 @@ carries this note's first ground is, in Molina, the proof text for the third
 ([[grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105]]);
 and Frame's identification of counterfactual knowledge with natural
 knowledge, recorded in the amendment above as the bridge chapter 16
-supplies, is exactly the identification Molina wrote disputation 53 to
-refuse. Nothing above is withdrawn; the distinction the note drew on its own
+supplies, is exactly the identification Molina refuses on the one page of
+disputation 53 that is on file. Nothing above is withdrawn; the distinction the note drew on its own
 now has a source and a name.

@@ -13,11 +13,17 @@ page images listed under PAGE IMAGES, which are committed to raw/ alongside
 this file as the visual record, and were typed from those images. They were
 then checked word by word against two machine-OCR witnesses (below); every
 word on which the transcription and an OCR text disagree was re-read on the
-image before this file was committed. Line-end hyphenation is joined, the
-1876 edition's ligatures (ae, oe) and its punctuation, including the spaced
-colon " : " and the guillemets, are kept as printed, and the marginal glosses
-printed beside the text are recorded in square brackets at the point where
-they stand. Printed page numbers are read from the running heads.
+image before this file was committed. Line-end hyphenation is joined. The
+edition's ae and oe ligatures are EXPANDED to "ae" and "oe" throughout (the
+page prints the ligature glyphs). The edition's French-style spaced colon and
+semicolon (" : ", " ; ") are restored uniformly, including at line ends where
+the compositor suppressed the space; the guillemets are kept. The marginal
+glosses printed beside the text are recorded in square brackets at the point
+where they stand. Printed page numbers are read from the running heads.
+Before this capture was committed to the main branch a second reader (the
+repository's critic role) collated it against the same images and found two
+errors, both in marginal glosses on p. 323, neither quoted by any note;
+both are corrected here ("quarum rerum", and "earum rerum").
 WHAT IS NOT CLAIMED. That a transcription typed by eye is free of every
 slip: a reader quoting a phrase for print should confirm it on the page image
 named beside the passage. Italic emphasis in the original is not reproduced.
@@ -151,7 +157,7 @@ His ita explicatis, cum rerum omnium creatarum, ut saepe dictum est, aliae
 sint a Deo immediate ; aliae interventu solum causarum secundarum, quae agunt
 ex necessitate naturae absque ulla dependentia a libero arbitrio creato ;
 aliae denique quae a libero arbitrio creato emanant, aut ab eo variationem
-aliquam possunt suscipere ; [margin: Deus per scientiam mere naturalem qualem
+aliquam possunt suscipere ; [margin: Deus per scientiam mere naturalem quarum
 rerum causa fuerit.] in primis Deus causa fuit, sive particularis, sive
 universalis rerum omnium primi et secundi generis, per solam scientiam mere
 naturalem primo loco explicatam, accedente libera determinatione suae
@@ -163,8 +169,8 @@ cum vero ars non operetur, nisi determinata per voluntatem artificis
 executioni mandantis quod arte praescribitur, accedente voluntate divina, qua
 Deus libere voluit ut illae res essent, scientia Dei naturalis fuit causa
 earum nostro intelligendi more remota, determinatio vero libera voluntatis
-divinae proxima ac sufficiens. [margin: Quae scientia in Deo sit causa earum,
-quae a libero arbitrio creato emanat.] At licet liberum arbitrium angelicum
+divinae proxima ac sufficiens. [margin: Quae scientia in Deo sit causa earum
+rerum, quae a libero arbitrio creato emanat.] At licet liberum arbitrium angelicum
 et humanum res sint primi generis, quia tamen Deus utrumque condidit, ut in
 manu consilii sui constitutum, non solum in finem naturalem, sed etiam
 supernaturalem divina ope pervenire posset, aut ab utroque pro suo arbitratu

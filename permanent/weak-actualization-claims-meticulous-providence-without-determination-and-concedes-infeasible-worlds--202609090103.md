@@ -54,8 +54,8 @@ from [[laing-middle-knowledge-iep--202609090051]]).
 That is why the objection this base holds from Grudem does not reach Molina.
 Grudem argues that "every situation in which people find themselves is itself
 the result of thousands, in fact millions, of individual human choices," so
-that for God to "bring about a situation" those prior choices would have to
-be decided by him
+that for God to "bring about a situation" those "millions of prior human
+choices would have to be decided in a certain way"
 ([[a-situation-is-made-of-other-peoples-choices--202609081830]],
 from [[grudem-systematic-theology--202609050158]]). The objection assumes a God who assembles circumstances
 piecemeal for one creature. A God who selects an entire order of things,

@@ -64,8 +64,8 @@ possible-but-not-actual world to the actual world" grounds it in a world
 that is itself not actual. And grounding it in individuals "as they exist in
 the precreative mind of God as ideas" puts the truthmaker back in God, which
 is where the objection began. Laing's verdict concedes the shape: some
-replies are "more of a shifting of the burden of proof than an answer to the
-specific objection," even if "some sort of idea of grounding is at least
+replies "may be seen as more of a shifting of the burden of proof than an
+answer to the specific objection," even if "some sort of idea of grounding is at least
 conceivable."
 
 So the Molinist pays too, and in the same coin as the others: an admitted
