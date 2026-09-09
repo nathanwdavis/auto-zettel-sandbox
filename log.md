@@ -2110,3 +2110,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-09T01:57:00Z` lint_links: PASS
 - `2026-09-09T01:57:00Z` lint_skills: PASS
 - `2026-09-09T01:57:01Z` check_skill_sandbox: PASS
+- `2026-09-09T02:01:10Z` session (PR #82 review nits): PR #82 auto-merged at 01:58Z; Copilot approved it with two comments on the outline, a hard-to-parse sentence describing Molina's mechanism (split into two) and an undocumented tag variant "[repo, page image only]" (now the documented [repo] tag with the qualifier in plain text). Fresh change from main, as with #81.
+- `2026-09-09T02:01:22Z` lint_citations: PASS
+- `2026-09-09T02:01:23Z` lint_links: PASS
+- `2026-09-09T02:01:23Z` lint_skills: PASS
+- `2026-09-09T02:01:23Z` check_skill_sandbox: PASS

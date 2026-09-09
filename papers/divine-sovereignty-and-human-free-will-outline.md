@@ -52,10 +52,10 @@ quote nothing from it that is not in the seven captured blocks.
 - **The two parties, in one sentence each.** Grudem: every event is "fully (100 percent)
   caused by God and fully (100 percent) caused by the creature as well," God as primary
   cause and the creature as secondary **[repo]** [Concurrence is the mechanism](../permanent/concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826.md).
-  Molina: God chooses which order of things to create knowing, by a "middle knowledge,"
-  what every free creature would do in it, and then, in the repository's rendering, at the same time decided to cooperate
-  in this or that way with their free will ("simul statuit hoc vel illo modo cum libero
-  arbitrio illorum cooperari") **[repo]** [Molina distinguishes three knowledges](../literature/molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055.md).
+  Molina: God chooses which order of things to create, knowing by a "middle knowledge"
+  what every free creature would do in it. In the same decision, in the repository's
+  rendering, he decided to cooperate in this or that way with their free will ("simul
+  statuit hoc vel illo modo cum libero arbitrio illorum cooperari") **[repo]** [Molina distinguishes three knowledges](../literature/molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055.md).
 - **The evangelical stake.** Molinism is not a Catholic curiosity; Craig and Keathley
   defend it inside evangelicalism, and Grudem answers it in the same chapter that answers
   Arminianism **[to verify]** Craig, *The Only Wise God*; Keathley, *Salvation and
@@ -69,7 +69,7 @@ Four agreements, each with one witness from each side. This section carries the 
   God makes declaring the future his own test of deity (Isa 46:9-10) **[repo]** [Grudem answers open theism with Isaiah's test of deity](../permanent/grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921.md).
   Molina, one paragraph before defining middle knowledge, argues the same way: without
   foreknowledge of future contingents "perit prophetia," prophecy perishes and the greater
-  part of Scripture collapses. **[repo, page image only]** the sentence is on
+  part of Scripture collapses. **[repo]**, page image only: the sentence is on
   `raw/202609090050-molina-p317-leaf334.jpg` just above the transcribed passage; it is not in
   the transcription, so read it from the image before citing.
 - **Meticulous providence.** Grudem: God "works all things according to the counsel of his
