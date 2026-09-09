@@ -2099,3 +2099,9 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-09T01:26:57Z` lint_links: PASS
 - `2026-09-09T01:26:57Z` lint_skills: PASS
 - `2026-09-09T01:26:57Z` check_skill_sandbox: PASS
+- `2026-09-09T01:40:52Z` build_manifest: 392 notes indexed
+- `2026-09-09T01:41:06Z` lint_citations: PASS
+- `2026-09-09T01:41:07Z` lint_links: PASS
+- `2026-09-09T01:41:07Z` lint_skills: PASS
+- `2026-09-09T01:41:07Z` check_skill_sandbox: PASS
+- `2026-09-09T01:41:24Z` session (PR #80 review nit): PR #80 auto-merged at 01:28Z once the gates check passed; Copilot approved it and left one comment on literature 202609090056, that a remark about uncaptured IEP text stood immediately before a direct quotation and could be read as saying the quotation was uncaptured. Correct. Both places in the note with that shape reworded so the uncaptured-text remark sits in its own parenthesis and the quotation is introduced as captured text; the quotation checker reports every quotation inside the seven captured blocks. A merged PR is finished, so this went out as a fresh change: branch restarted from main, one commit, new PR with squash auto-merge.
