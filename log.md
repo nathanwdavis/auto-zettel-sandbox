@@ -2067,3 +2067,26 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-08T20:19:18Z` lint_skills: PASS
 - `2026-09-08T20:19:18Z` check_skill_sandbox: PASS
 - `2026-09-08T20:19:44Z` check_skill_sandbox: PASS
+- `2026-09-09T00:47:24Z` capture: inquiry -> inquiries/what-does-molina-s-doctrine-of-middle-knowledge-scientia--202609090047.md
+- `2026-09-09T01:07:03Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-09T01:08:00Z` verify_refs: 111/111 verified
+- `2026-09-09T01:08:14Z` build_manifest: 392 notes indexed
+- `2026-09-09T01:08:26Z` lint_citations: PASS
+- `2026-09-09T01:08:26Z` lint_links: PASS
+- `2026-09-09T01:08:26Z` lint_skills: PASS
+- `2026-09-09T01:09:24Z` build_manifest: 392 notes indexed
+- `2026-09-09T01:11:00Z` step 2 (session as orchestrator): INBOX read first; inquiries --status new was empty; inquiry 202609090047 filed by capture.py for the owner's request to review the IEP "Middle Knowledge" entry and Molina's own position and add the research; skills/source-access-triage/SKILL.md read before any fetch.
+- `2026-09-09T01:11:00Z` step 3 (researcher, session as agent): four sources captured by hand, none through fetch_source.py. Molina's Concordia (Paris 1876, archive.org) — disp. 52 pp. 317-318 and 323-324 and disp. 53 p. 337 located via the item OCR, read from the page images (five JPEGs committed, leaf = page + 17), transcribed by eye and checked word by word against the 1876 and 1588 OCR texts; five printing anomalies kept and listed. IEP "Middle Knowledge" (Laing) as bounded excerpts, seven blocks, 46 percent, with the IEP's own terms quoted in the header and the section outline recorded; a first cut at 53 percent was reduced before any note cited it. Catholic Encyclopedia "Molinism" (Pohle, 1911) and "Congregatio de Auxiliis" (Astrain, 1908) complete, public domain. Four reference notes (tiers: primary-text; reputable-secondary x3, justified in the bodies) and four literature notes, each with a Grounding line, locator and Gaps paragraph; the Molina note carries this base's own literal English renderings, marked as such because Freddoso's translation is in copyright.
+- `2026-09-09T01:11:00Z` step 4 (synthesizer, session as agent): seven permanent notes 202609090100-0106 and three dated amendments (202609061923, 202609081830, 202609081914; updated bumped, elaborates links appended, each ending with the withdrawal verdict: nothing withdrawn). Every quotation in the eleven new notes was checked programmatically as an exact substring of its capture (normalising curly quotes and trailing punctuation); two failures were found and fixed before review — an ellipsis inside a Latin quotation, and one IEP sentence quoted from outside the captured blocks, now paraphrased.
+- `2026-09-09T01:11:00Z` step 4 (evidence hygiene): verify_refs run online downgraded three existing references (dweck 202609030150, grudem 202609050158, plantinga 202609011500) from raw-capture+openlibrary to raw-capture when Open Library did not answer; reverted with git checkout in a command of its own, per the 2026-09-08 rule, and the manifest rebuilt. Not real rot.
+- `2026-09-09T01:12:33Z` build_manifest: 392 notes indexed
+- `2026-09-09T01:12:45Z` lint_citations: PASS
+- `2026-09-09T01:12:46Z` lint_links: PASS
+- `2026-09-09T01:12:46Z` lint_skills: PASS
+- `2026-09-09T01:12:46Z` check_skill_sandbox: PASS
+- `2026-09-09T01:13:08Z` verify_refs: 111/111 verified
+- `2026-09-09T01:13:19Z` build_manifest: 392 notes indexed
+- `2026-09-09T01:13:31Z` lint_citations: PASS
+- `2026-09-09T01:13:32Z` lint_links: PASS
+- `2026-09-09T01:13:32Z` check_skill_sandbox: PASS
+- `2026-09-09T01:13:56Z` step 8 (gates): verify_refs online 111/111, build_manifest, lint_citations, lint_links, lint_skills and check_skill_sandbox all clean on the full working state; the CI rehearsal verify_refs --offline --no-render then downgraded 25 existing references from raw-capture+crossref/openlibrary to raw-capture, exactly as the 2026-09-08 rule predicts; reverted with git checkout -- reference/ in a command of its own, manifest rebuilt, gates re-run clean. The critic's review is in progress; any finding it returns will be fixed in a follow-up commit before the pull request is opened.

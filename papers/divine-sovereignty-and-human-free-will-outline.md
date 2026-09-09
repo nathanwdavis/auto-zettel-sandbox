@@ -15,6 +15,35 @@ right response is antinomy, holding both, rather than surrendering either.
 Calvin on the mechanism; Packer, Carson and Spurgeon on the posture. Section IV gives
 the rival mechanisms a fair hearing in one paragraph each.
 
+**Revision 2026-09-09: the Molinist leg, and what it does to the thesis.** The
+repository now holds Molina's *Concordia* in his own Latin (disp. 52-53), the IEP
+survey of middle knowledge, and the Catholic Encyclopedia's history of the dispute, all
+`[repo]`; see the MOC section "Middle knowledge, added 2026-09-09". Five consequences
+for the paper:
+
+1. Molinism is itself a "both are true" position. It affirms meticulous providence (God
+   chooses a whole order of things knowing every free act in it) and libertarian
+   freedom, and Molina's own list of what "coheres" says that nothing is in the
+   creature's power that is not in God's. The thesis is therefore shared across camps.
+   The paper must argue that concurrence plus antinomy is the better *mechanism* for
+   holding both, not that it is the only home of the thesis.
+2. The decisive difference from Grudem is the order of dependence, not the amount of
+   sovereignty. Grudem: foreknown, therefore fixed. Molina: God foreknows the free act
+   because the creature would do it, "et non e contrario." Section III should name this.
+3. Grudem's "a situation is made of other people's choices" should carry no weight in
+   the paper: it touches only a God who assembles circumstances piecemeal. The honest
+   pressure on Molinism is feasibility, which the IEP concedes in its own voice: there
+   may be possible worlds God cannot actualize. That is where Grudem's "diminishes God"
+   residue actually lands.
+4. Molinism pays its own unanswered question, the grounding objection, at the joint
+   between God's knowing and the creature's choosing. Section V's claim that every
+   serious position leaves a residue now has three witnesses, and the Church's decree of
+   1607, permitting both schools and condemning neither, is a historical precedent for
+   the antinomy posture.
+5. Grudem and Molina both argue from Tyre and Sidon (Matt 11:21) and read it in opposite
+   directions; it is the one verse where the two mechanisms visibly part, and the paper
+   can use it as such. Word budget unchanged; the survey paragraph gets tighter.
+
 ## How to read the source tags
 
 Every bullet carries a tag saying how far its source has been checked.
@@ -160,6 +189,13 @@ are context, one sentence each.
     Note the repository's limit: Grudem asserts the fixed-therefore-not-free step and
     does not answer the classical reply that certainty is not necessity. One clause of
     acknowledgement is enough.
+  - The point where concurrence and middle knowledge part is the direction of
+    dependence. Molina: future contingents are not future because God knows them, "sed
+    e contrario"; God foreknows the free act because the creature would do it. Grudem's
+    decree runs the arrow the other way. Both cite Tyre and Sidon, Grudem for God's
+    knowledge of possibilities, Molina for a conditional future that is more than a
+    possibility. **[repo]** [Molina reverses the direction of dependence](../permanent/molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101.md),
+    [Grudem and Molina both argue from Tyre and Sidon](../permanent/grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105.md).
 - **Two wills: decree and precept.** Grudem's secret will "includes most of his hidden
   decrees by which he governs the universe and determines everything that will
   happen"; his revealed will is "sometimes also called God's will of precept or will of
@@ -196,16 +232,24 @@ One paragraph. Each rival keeps both doctrines but re-scales one of them; the th
   choice?" **[repo]** [Grudem answers the Arminian by comparing unanswered questions](../literature/grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825.md).
   **[to verify]** Olson, *Arminian Theology: Myths and Realities* (IVP, 2006), for the
   position stated from inside; the repository holds no Arminian primary text.
-- **Molinism** (Molina; Craig; Keathley). God's middle knowledge of what free creatures
-  *would* do lets him actualize the world he chooses. Pressure: "every situation in
-  which people find themselves is itself the result of thousands, in fact millions, of
-  individual human choices," so bringing about a situation means determining those
-  choices too, which "denies the kind of libertarian free will that middle knowledge
-  advocates are claiming to protect." **[repo]** [A situation is made of other people's choices](../permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md),
-  flagged *contested*: the objection touches Craig's "bringing about circumstances," not
-  a Molinist who says God selects a whole world. Say "Grudem argues" rather than "it is
-  shown." **[to verify]** Craig, *The Only Wise God* (Baker, 1987); Keathley, *Salvation
-  and Sovereignty: A Molinist Approach* (B&H, 2010).
+- **Molinism** (Molina, *Concordia* 1588; Craig; Keathley). Three knowledges in God:
+  natural (what could be), middle (what each free creature *would* do in any order of
+  things), free (what will be, after the decree). God chooses a whole order of things
+  knowing every free act in it, and exercises providence by placement and cooperation,
+  not by determining the act; Molina's own list of what coheres keeps sovereignty whole
+  ("nothing is in the creature's power that is not in God's"; God can bend the will
+  anywhere but into sin; God permits sin, never incites it). **[repo]** [Middle knowledge sits between natural and free knowledge](../permanent/middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100.md),
+  [Molina's own list of what coheres keeps sovereignty whole](../permanent/molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102.md).
+  Pressure, stated honestly: not Grudem's "a situation is made of other people's
+  choices," which touches only piecemeal bringing-about
+  ([the repo's note on that objection](../permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md),
+  now amended from the Molinist side), but feasibility, "there may be some possible
+  worlds that God cannot actualize," which the IEP concedes in its own voice, and the
+  grounding objection, what makes a counterfactual of freedom true before the creature
+  exists. **[repo]** [Weak actualization claims meticulous providence and concedes infeasible worlds](../permanent/weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103.md),
+  [The grounding objection is Molinism's own unanswered question](../permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md).
+  **[to verify]** Craig, *The Only Wise God* (Baker, 1987); Keathley, *Salvation and
+  Sovereignty: A Molinist Approach* (B&H, 2010), for the evangelical form.
 - **Open theism** (Pinnock, Rice, Sanders, Hasker, Basinger; Boyd). Grudem calls it
   "the most consistent Arminian position": it accepts the entailment and pays with
   God's knowledge of future free choices. Pressure: Isa 40-48 makes declaring the
@@ -258,8 +302,17 @@ One paragraph. Each rival keeps both doctrines but re-scales one of them; the th
     wall and put the mystery on opposite sides of it. Maimonides places it in God's
     knowledge ("He, may His name be praised, and His knowledge are one") and keeps the
     human half "without any doubt"; Grudem places it in the human half and keeps
-    exhaustive ordination. A residue is therefore what any serious monotheism pays for
-    holding both, not a Calvinist embarrassment. **[repo]** [The same wall and the mystery put on opposite sides](../permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md).
+    exhaustive ordination; Molina places it in God's "inscrutable comprehension" of what
+    a creature would freely do, and Molinism's named residue is the grounding objection.
+    A residue is therefore what any serious monotheism pays for holding both, not a
+    Calvinist embarrassment. **[repo]** [The same wall and the mystery put on opposite sides](../permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md)
+    (amended 2026-09-09 to three placements),
+    [The grounding objection is Molinism's own unanswered question](../permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md).
+  - Historical precedent for the posture: after twenty years and eighty-five conferences
+    before two popes, the Congregatio de Auxiliis ended in 1607 with each school
+    permitted to defend its doctrine, forbidden to condemn the other, and judgement
+    reserved. Holding both doctrines was required; a theory of how they consist was
+    permitted. One sentence in the paper. **[repo]** [The Congregatio de Auxiliis ended by permitting both schools](../permanent/the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106.md).
     Optional footnote: divine simplicity is the solvent Maimonides uses and Grudem never
     does. **[repo]** [Simplicity is Maimonides' solvent](../permanent/simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915.md),
     flagged *contested*. In a 4-page paper this is one sentence or a footnote.
@@ -279,7 +332,7 @@ One paragraph. Each rival keeps both doctrines but re-scales one of them; the th
 - Restate the thesis in one sentence, in your own words.
 
 **Cut list if over length**, in order: the Aquinas sentence in III; Prov 16:9 and Luke
-22:22 in II; the simplicity footnote in V; the Avot sentence in I.
+22:22 in II; the simplicity footnote in V; the Avot sentence in I; the 1607 sentence in V.
 
 ---
 
@@ -297,6 +350,18 @@ One paragraph. Each rival keeps both doctrines but re-scales one of them; the th
   [maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910](../reference/maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910.md).
 - Kulp, Joshua, trans. "Pirkei Avot 3:15." In *Mishnah*. Sefaria, 2019. Reference:
   [pirkei-avot-3-15--202609081911](../reference/pirkei-avot-3-15--202609081911.md).
+- Molina, Luis de. *Liberi arbitrii cum gratiae donis, divina praescientia, providentia,
+  praedestinatione et reprobatione concordia*. Lisbon, 1588; Paris: Lethielleux, 1876.
+  Part IV, disp. 52 (pp. 317-318, 323-324) and disp. 53 (p. 337), Latin transcribed from
+  the page images. Reference: [molina-concordia-liberi-arbitrii--202609090050](../reference/molina-concordia-liberi-arbitrii--202609090050.md).
+  Cite the Latin, or Freddoso's translation, *On Divine Foreknowledge* (Cornell, 1988),
+  which the repository did not use; its English renderings are the repository's own.
+- Laing, John D. "Middle Knowledge." *Internet Encyclopedia of Philosophy*.
+  https://iep.utm.edu/middlekn/. Reference: [laing-middle-knowledge-iep--202609090051](../reference/laing-middle-knowledge-iep--202609090051.md).
+- Pohle, Joseph. "Molinism." *The Catholic Encyclopedia*, vol. 10. New York: Robert
+  Appleton, 1911. Reference: [pohle-molinism-catholic-encyclopedia--202609090052](../reference/pohle-molinism-catholic-encyclopedia--202609090052.md).
+- Astrain, Antonio. "Congregatio de Auxiliis." *The Catholic Encyclopedia*, vol. 4. New
+  York: Robert Appleton, 1908. Reference: [astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053](../reference/astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053.md).
 
 ### Verified from public-domain texts this session [verified]
 
@@ -321,8 +386,9 @@ One paragraph. Each rival keeps both doctrines but re-scales one of them; the th
 
 - Ware, Bruce A. *God's Greater Glory: The Exalted God of Scripture and the Christian
   Faith*. Crossway, 2004. (Freedom of inclination; Grudem quotes it in ch. 16.)
-- Frame, John M. *The Doctrine of God*. P&R, 2002. Ch. 8, "Human Responsibility and
-  Freedom." (Grudem's bridge on middle knowledge cites Frame's *Systematic Theology*.)
+- Frame, John M. *Systematic Theology: An Introduction to Christian Belief*. P&R, 2013
+  (the work Grudem's ch. 16 cites for the bridge on middle knowledge); and *The Doctrine
+  of God*. P&R, 2002, ch. 8, "Human Responsibility and Freedom," the fuller treatment.
 - Carson, D. A. *Divine Sovereignty and Human Responsibility: Biblical Perspectives in
   Tension*. 1981; repr. Wipf and Stock, 2002.
 - Olson, Roger E. *Arminian Theology: Myths and Realities*. InterVarsity, 2006.
@@ -357,15 +423,28 @@ means citing the primary texts they rest on and making the connection yourself.
    Grudem pays in ch. 12 and a weapon he uses in ch. 16, and Pinnock accepts it too
    ([202609081829](../permanent/the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829.md),
    [202609061922](../permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md)).
+5. **Added 2026-09-09. Same verse, opposite directions.** Grudem and Molina both argue
+   from Matt 11:21; the verse is where decree-first and creature-first accounts of
+   foreknowledge part ([202609090105](../permanent/grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105.md)).
+6. **Added 2026-09-09. Three placements of the mystery.** Maimonides in the identity of
+   knower and known, Grudem in the willingness of a determined choice, Molina in the
+   inscrutable comprehension of what a creature would do; and a fourth party, the Church
+   of 1607, that declined to place it at all
+   ([202609090101](../permanent/molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101.md),
+   [202609090106](../permanent/the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106.md)).
 
-The map section for all of this is "Providence" and "Free will under sovereignty" in
+The map sections for all of this are "Providence", "Free will under sovereignty" and
+"Middle knowledge" in
 [Abrahamic conceptions of God](../moc/abrahamic-conceptions-of-god--202608311945.md).
 
 ## What the repository lacks
 
 Filed as one entry in `INBOX.md` dated 2026-09-08 ("Paper outline on sovereignty and
-free will: the gaps it exposes"). In brief: no Arminian, Molinist or open-theist
-primary text; no Edwards, Packer, Carson or confessional text; Calvin captured only for
-I.3 and I.5; no scripture capture of Gen 50:20, Isa 10:5-15, Acts 2:23 / 4:27-28,
-Phil 2:12-13, Prov 16:9 or Rom 9; Piper's essay named but unread; the three ch. 13
-two-wills notes sit in no MOC section.
+free will: the gaps it exposes"), and updated by the entry of 2026-09-09. In brief: no
+Arminian or open-theist primary text; no Edwards, Packer, Carson or confessional text;
+Calvin captured only for I.3 and I.5; no scripture capture of Gen 50:20, Isa 10:5-15,
+Acts 2:23 / 4:27-28, Phil 2:12-13, Prov 16:9 or Rom 9; Piper's essay named but unread.
+Closed on 2026-09-09: the Molinist primary text (Molina, in Latin) and a survey of the
+doctrine are on file, and the three ch. 13 two-wills notes now have a MOC subsection.
+Still open on the Molinist side: Banez and the Thomist reply, Freddoso's translation,
+and the modern literature for and against (Flint, Craig, Plantinga; Adams, Hasker).

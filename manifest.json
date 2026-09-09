@@ -372,6 +372,21 @@
     "202609081915": "simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915",
     "202609081916": "commandment-texts-as-capacity-or-as-precept--202609081916",
     "202609081917": "on-pharaoh-grudem-names-the-jewish-reading-and-refuses-it--202609081917",
+    "202609090050": "molina-concordia-liberi-arbitrii--202609090050",
+    "202609090051": "laing-middle-knowledge-iep--202609090051",
+    "202609090052": "pohle-molinism-catholic-encyclopedia--202609090052",
+    "202609090053": "astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053",
+    "202609090055": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055",
+    "202609090056": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056",
+    "202609090057": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057",
+    "202609090058": "astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058",
+    "202609090100": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100",
+    "202609090101": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101",
+    "202609090102": "molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102",
+    "202609090103": "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103",
+    "202609090104": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104",
+    "202609090105": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105",
+    "202609090106": "the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -676,6 +691,23 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-does-molina-s-doctrine-of-middle-knowledge-scientia--202609090047",
+      "path": "inquiries/what-does-molina-s-doctrine-of-middle-knowledge-scientia--202609090047.md",
+      "priority": "high",
+      "question": "What does Molina's doctrine of middle knowledge (scientia media) claim about the relation of God's sovereign will to human free will, as stated in Molina's own Concordia (1588) and in the IEP article 'Middle Knowledge', and how does it bear on the compatibilist position this base holds from Grudem's chapter 16?",
+      "result_notes": [
+        "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105",
+        "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100",
+        "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101",
+        "molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102",
+        "the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106",
+        "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104",
+        "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103"
+      ],
+      "status": "answered",
+      "updated": "2026-09-09"
+    },
+    {
       "key": "what-does-pyc-and-rawson-2010-actually-report-which-of-its--202609042341",
       "path": "inquiries/what-does-pyc-and-rawson-2010-actually-report-which-of-its--202609042341.md",
       "priority": "high",
@@ -714,7 +746,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 377,
+  "note_count": 392,
   "notes": [
     {
       "id": "202609041020",
@@ -925,6 +957,10 @@
         {
           "relation": "supports",
           "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103"
         }
       ],
       "path": "permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md",
@@ -932,7 +968,7 @@
       "tags": [],
       "title": "Grudem's strongest objection to middle knowledge is that a situation is itself made of other people's choices",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-situation-is-made-of-other-peoples-choices--202609081830.md"
     },
     {
@@ -1072,7 +1108,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -1621,6 +1657,35 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q2--202609011201.md"
+    },
+    {
+      "id": "202609090053",
+      "key": "astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053",
+      "links": [],
+      "path": "reference/astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053.md",
+      "slug": "astrain-congregatio-de-auxiliis-catholic-encyclopedia",
+      "tags": [],
+      "title": "Astrain, Congregatio de Auxiliis (Catholic Encyclopedia, 1908)",
+      "type": "reference",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053.md"
+    },
+    {
+      "id": "202609090058",
+      "key": "astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053"
+        }
+      ],
+      "path": "literature/astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058.md",
+      "slug": "astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict",
+      "tags": [],
+      "title": "Astrain records that the Congregatio de Auxiliis ended in 1607 with both doctrines permitted and neither condemned",
+      "type": "literature",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058.md"
     },
     {
       "id": "202609052015",
@@ -2924,6 +2989,51 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md"
     },
     {
+      "id": "202609090105",
+      "key": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        }
+      ],
+      "path": "permanent/grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105.md",
+      "slug": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions",
+      "tags": [],
+      "title": "Grudem and Molina both argue from Tyre and Sidon, and read the same verse in opposite directions",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105.md"
+    },
+    {
       "id": "202609061922",
       "key": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922",
       "links": [
@@ -3133,6 +3243,10 @@
           "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
         },
         {
+          "relation": "elaborates",
+          "target_id": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
         },
@@ -3143,6 +3257,10 @@
         {
           "relation": "shared-concept",
           "target_id": "grudems-simple-act-of-knowing-denies-process-not-composition--202609061920"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100"
         }
       ],
       "path": "permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md",
@@ -3150,7 +3268,7 @@
       "tags": [],
       "title": "Grudem grounds God's knowledge of the possible in self-knowledge, and his scriptural cases are about what creatures would do",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
     },
     {
@@ -4104,6 +4222,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md"
     },
     {
+      "id": "202609090056",
+      "key": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "laing-middle-knowledge-iep--202609090051"
+        }
+      ],
+      "path": "literature/laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056.md",
+      "slug": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom",
+      "tags": [],
+      "title": "Laing defines middle knowledge as God's prevolitional knowledge of counterfactuals of creaturely freedom and sorts the objections to it into three families",
+      "type": "literature",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056.md"
+    },
+    {
+      "id": "202609090051",
+      "key": "laing-middle-knowledge-iep--202609090051",
+      "links": [],
+      "path": "reference/laing-middle-knowledge-iep--202609090051.md",
+      "slug": "laing-middle-knowledge-iep",
+      "tags": [],
+      "title": "Laing, Middle Knowledge (IEP)",
+      "type": "reference",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/laing-middle-knowledge-iep--202609090051.md"
+    },
+    {
       "id": "202609041950",
       "key": "laporte-rigid-designators-sep--202609041950",
       "links": [],
@@ -4724,6 +4871,166 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/michaelson-sets-out-four-models-of-reference-fixing-and-declines-to-make-them-exclusive--202609041926.md"
     },
     {
+      "id": "202609090100",
+      "key": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-middle-knowledge-iep--202609090051"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        }
+      ],
+      "path": "permanent/middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100.md",
+      "slug": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent",
+      "tags": [],
+      "title": "Middle knowledge sits between natural and free knowledge because it shares one property with each, coming before God's will yet being contingent",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100.md"
+    },
+    {
+      "id": "202609090050",
+      "key": "molina-concordia-liberi-arbitrii--202609090050",
+      "links": [],
+      "path": "reference/molina-concordia-liberi-arbitrii--202609090050.md",
+      "slug": "molina-concordia-liberi-arbitrii",
+      "tags": [],
+      "title": "Molina, Concordia liberi arbitrii cum gratiae donis (1588; Paris 1876 edition)",
+      "type": "reference",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/molina-concordia-liberi-arbitrii--202609090050.md"
+    },
+    {
+      "id": "202609090055",
+      "key": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        }
+      ],
+      "path": "literature/molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055.md",
+      "slug": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature",
+      "tags": [],
+      "title": "Molina distinguishes three knowledges in God and makes the middle one depend on what the creature would freely do, not the reverse",
+      "type": "literature",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055.md"
+    },
+    {
+      "id": "202609090101",
+      "key": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        }
+      ],
+      "path": "permanent/molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101.md",
+      "slug": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it",
+      "tags": [],
+      "title": "Molina reverses the direction of dependence, so that God foreknows a free act because the creature would do it and not the reverse",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101.md"
+    },
+    {
+      "id": "202609090102",
+      "key": "molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        }
+      ],
+      "path": "permanent/molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102.md",
+      "slug": "molinas-own-list-of-what-coheres-keeps-sovereignty-whole",
+      "tags": [],
+      "title": "Molina's own list of what coheres keeps sovereignty whole, with nothing in the creature's power that is not in God's and a will God can bend anywhere but into sin",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102.md"
+    },
+    {
       "id": "202609040156",
       "key": "morehead-dunlosky-and-rawson-how-much-mightier-is-the-pen--202609040156",
       "links": [],
@@ -5267,6 +5574,35 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/plantinga-two-dozen-theistic-arguments--202609011500.md"
+    },
+    {
+      "id": "202609090057",
+      "key": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        }
+      ],
+      "path": "literature/pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057.md",
+      "slug": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge",
+      "tags": [],
+      "title": "Pohle turns the grace controversy into a question about the medium of God's foreknowledge, and calls the whole problem beyond the human mind",
+      "type": "literature",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057.md"
+    },
+    {
+      "id": "202609090052",
+      "key": "pohle-molinism-catholic-encyclopedia--202609090052",
+      "links": [],
+      "path": "reference/pohle-molinism-catholic-encyclopedia--202609090052.md",
+      "slug": "pohle-molinism-catholic-encyclopedia",
+      "tags": [],
+      "title": "Pohle, Molinism (Catholic Encyclopedia, 1911)",
+      "type": "reference",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pohle-molinism-catholic-encyclopedia--202609090052.md"
     },
     {
       "id": "202609022347",
@@ -6607,6 +6943,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-common-word-is-read-as-a-specimen-of-the-better-disputation-by-the-commentator-himself--202609041220.md"
     },
     {
+      "id": "202609090106",
+      "key": "the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053"
+        },
+        {
+          "relation": "source",
+          "target_id": "astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "source",
+          "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-shared-god-formula-is-issued-as-what-to-say-when-judgement-must-be-suspended--202609040715"
+        }
+      ],
+      "path": "permanent/the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106.md",
+      "slug": "the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither",
+      "tags": [],
+      "title": "The Congregatio de Auxiliis ended in 1607 by permitting both schools to teach and forbidding either to condemn the other",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106.md"
+    },
+    {
       "id": "202609042001",
       "key": "the-council-of-381-anathematizes-sabellianism-by-party-name-in-a-canon--202609042001",
       "links": [
@@ -7108,6 +7481,43 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-google-effects-replication-record-reaches-only-its-priming-experiment--202609041820.md"
+    },
+    {
+      "id": "202609090104",
+      "key": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-middle-knowledge-iep--202609090051"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        }
+      ],
+      "path": "permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md",
+      "slug": "the-grounding-objection-is-molinisms-own-unanswered-question",
+      "tags": [],
+      "title": "The grounding objection is Molinism's own unanswered question, and each of the five replies relocates it rather than removing it",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md"
     },
     {
       "id": "202609042056",
@@ -8348,6 +8758,10 @@
           "target_id": "maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910"
         },
         {
+          "relation": "elaborates",
+          "target_id": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101"
+        },
+        {
           "relation": "source",
           "target_id": "pirkei-avot-3-15--202609081911"
         },
@@ -8358,6 +8772,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104"
         }
       ],
       "path": "permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md",
@@ -8365,7 +8783,7 @@
       "tags": [],
       "title": "Maimonides and Grudem reach the same wall and put the mystery on opposite sides of it",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md"
     },
     {
@@ -9310,6 +9728,51 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936.md"
+    },
+    {
+      "id": "202609090103",
+      "key": "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-middle-knowledge-iep--202609090051"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-concordia-liberi-arbitrii--202609090050"
+        },
+        {
+          "relation": "source",
+          "target_id": "molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        }
+      ],
+      "path": "permanent/weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103.md",
+      "slug": "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds",
+      "tags": [],
+      "title": "Weak actualization is how Molinism claims meticulous providence without determination, and it concedes that some possible worlds are beyond God's reach",
+      "type": "permanent",
+      "updated": "2026-09-09",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103.md"
     },
     {
       "id": "202609040825",

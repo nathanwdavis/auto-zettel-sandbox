@@ -4465,6 +4465,8 @@ later run could capture so that the outline's `[verified]`, `[second-hand]` and
 
 **Librarian items (structure, not sources).**
 
+*Answered 2026-09-09: both structural items below were closed in the middle-knowledge cycle. The three ch. 13 notes now sit in a "The will" subsection of the Providence section, and the MOC's sources block gained a Grudem line and a Jewish-leg line. The inquiry-scope item is noted only, as it says.*
+
 - The three ch. 13 two-wills notes (202609081905, 202609081906, 202609081907) appear
   in no MOC section; they are reachable only through 202609081904 and their own
   links. The Abrahamic MOC has a Providence section and a Free-will-under-
@@ -4482,3 +4484,84 @@ later run could capture so that the outline's `[verified]`, `[second-hand]` and
 sentence from it that goes into a footnote should be re-read from the book first.
 (2) The Calvin quotations in 202609081828 are not in any raw/ file; the outline
 cites Calvin from the *Institutes* directly instead.
+
+## 2026-09-09 — Answered, same day it was asked: the Molinist leg, from Molina's Concordia and the IEP
+
+- **status:** answered
+- **priority:** high
+- **asked_by:** human (session request: "Review https://iep.utm.edu/middlekn/ and in general Molina's viewpoints related to the juxtaposition of God's Sovereign Will and human's free-will. Add this research to auto-zettel")
+
+Inquiry 202609090047 filed and answered in one session; result notes
+202609090100-202609090106. The map's Molinism had been Grudem's report of one
+Craig essay plus one objection this base had itself marked as possibly missing
+the doctrine. It now has the doctrine from inside.
+
+**What was captured, and how.**
+
+- Molina, *Concordia liberi arbitrii cum gratiae donis* (Lisbon 1588; Paris
+  1876 ed., archive.org `concordialiberia00moli`, public domain). Five printed
+  pages of Part IV (disp. 52 pp. 317-318 and 323-324; disp. 53 memb. 1
+  p. 337), located through the item's OCR, then read from the page images and
+  transcribed by eye. The OCR of this edition and of the 1588 Lisbon scan
+  (`imgmar3873MiscellaneaOpal`) were used as two witnesses for a word-by-word
+  check; every word on which transcription and OCR disagreed was re-read on
+  the image. The five JPEGs are committed beside the transcription with URLs
+  and SHA-256 in the header, on the al-Ash'ari Maqalat precedent
+  (2026-09-07). Five printing anomalies are kept as printed and listed. The
+  archive.org page-image endpoint pattern and the leaf offset (page + 17) are
+  recorded in the capture for the next reader.
+- Laing, "Middle Knowledge", IEP. In copyright; the IEP's terms permit
+  attributed quotation and forbid reposting copies, so the capture is bounded
+  excerpts (seven blocks, 46 percent of the text) with the article's section
+  outline recorded, on the SEP precedent. `fetch_source.py` was deliberately
+  NOT used on this URL: it writes the whole page.
+- Pohle, "Molinism" (Catholic Encyclopedia vol. 10, 1911) and Astrain,
+  "Congregatio de Auxiliis" (vol. 4, 1908): public domain, captured complete
+  from New Advent's transcription with the site chrome stripped.
+
+**What the notes found.** Molina reverses the direction of dependence between
+foreknowledge and the free act ("non e contrario", p. 318; the marginal gloss
+on p. 324), which is the exact step Grudem's foreknowledge-entails-fixity
+argument asserts. His own list of what "coheres" keeps sovereignty whole —
+nothing in the creature's power that is not in God's, a will God can bend
+anywhere but into sin — and his providence is exercised by choosing a whole
+order of things, so Grudem's "a situation is made of other people's choices"
+does not reach him; the honest pressure is feasibility, which the IEP concedes
+in its own voice. Molinism has its own unanswered question, the grounding
+objection. Grudem and Molina both argue from Matt. 11:21 in opposite
+directions. And the Congregatio de Auxiliis ended in 1607 by permitting both
+schools and condemning neither.
+
+**Amendments, not rewrites.** 202609061923 (the vocabulary gap it recorded is
+closed), 202609081830 (its whole-world caveat confirmed from the Molinist
+side and the objection re-aimed), 202609081914 (three placements of the
+mystery, not two). Each carries a dated block ending with what is withdrawn:
+nothing.
+
+**A policy note for the standing INBOX decision on excerpting in copyright
+(2026-09-05, still `new`).** This cycle applied the excerpt rule again to a
+born-digital encyclopedia entry and, for the first time, cited a source's own
+terms of use (the IEP's) as the reason for the bound. The rule is still being
+applied without having been ratified.
+
+**What remains, in order of value.**
+
+- The Thomist side. Banez is on file only as Pohle and Astrain report him, and
+  both are the other party. A public-domain Banez (the *Scholastica
+  commentaria* on I q. 14, or the *Apologia* against Molina) would give the
+  decree-first position in its scholastic form, the position Grudem's
+  entailment most resembles.
+- The modern literature. Freddoso's translation and introduction (Cornell,
+  1988), Flint's *Divine Providence* (1998), Craig's *The Only Wise God*
+  (1987) and *Divine Foreknowledge and Human Freedom* (1990), Plantinga's
+  *The Nature of Necessity* ch. 9 (1974), Adams's "Middle Knowledge and the
+  Problem of Evil" (1977) and Hasker's replies: all in copyright, all unread,
+  all named in the IEP's bibliography now on file. The five replies to the
+  grounding objection are one survey's classification until these are read.
+- Molina himself. Disputations 47-48 (the freedom presupposed), 31 (God and
+  sin), 49-51 (foreknowledge generally), the rest of 53, Part III on
+  providence, and the 1595 additions with the replies to Banez. The 1876
+  edition is on archive.org whole; the method used here scales.
+- Keathley's *Salvation and Sovereignty* (B&H, 2010), the evangelical
+  Molinism the paper outline names, remains unread; the outline still tags it
+  `[to verify]`.

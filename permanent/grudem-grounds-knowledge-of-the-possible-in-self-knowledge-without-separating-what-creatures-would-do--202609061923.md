@@ -16,8 +16,12 @@ links:
   relation: shared-concept
 - target_id: a-situation-is-made-of-other-peoples-choices--202609081830
   relation: elaborates
+- target_id: middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100
+  relation: elaborates
+- target_id: grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105
+  relation: elaborates
 created: '2026-09-06'
-updated: '2026-09-08'
+updated: '2026-09-09'
 ---
 Grudem's definition makes God know "all things actual and possible", and the
 sub-section on the possible gives that clause two grounds that do not reach the
@@ -80,3 +84,21 @@ natural knowledge — a premise a Molinist would contest, which is why chapter 1
 can dismiss middle knowledge as redundant rather than false
 ([[a-situation-is-made-of-other-peoples-choices--202609081830]]). That
 back-reference also dates this chapter-12 material to book pp. 225–231.
+
+**Amended 2026-09-09, from Molina and the IEP.** The paragraph on sources
+above said the classical vocabulary for the distinction this note drew was
+"deliberately not invoked, because no source stating it is on file." It is
+now on file. Molina's *Concordia* distinguishes a natural knowledge, by which
+God knows everything to which his power extends, from a middle knowledge of
+what each free will would do in any order of things
+([[middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100]]),
+and the line this note drew on chapter 12's own examples is that line: the
+deduction from self-knowledge reaches Molina's first knowledge, and the
+scriptural cases are the objects of his third. The Tyre and Sidon text that
+carries this note's first ground is, in Molina, the proof text for the third
+([[grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105]]);
+and Frame's identification of counterfactual knowledge with natural
+knowledge, recorded in the amendment above as the bridge chapter 16
+supplies, is exactly the identification Molina wrote disputation 53 to
+refuse. Nothing above is withdrawn; the distinction the note drew on its own
+now has a source and a name.
