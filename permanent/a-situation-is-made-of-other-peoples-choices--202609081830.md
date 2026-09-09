@@ -17,8 +17,10 @@ links:
   relation: supports
 - target_id: grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923
   relation: elaborates
+- target_id: weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103
+  relation: elaborates
 created: '2026-09-08'
-updated: '2026-09-08'
+updated: '2026-09-09'
 ---
 Middle knowledge offers to keep libertarian freedom and exhaustive divine
 foreknowledge together: God knows what each creature *would* freely do in any
@@ -69,3 +71,21 @@ is exactly the contested premise a Molinist would deny — it is reported here a
 Grudem's bridge, not endorsed as sound. Grudem's classification of Molinism as
 "a third Arminian viewpoint" is his own and is argued for on one ground, that
 the decisive factor in salvation is the creature's libertarian choice.
+
+**Amended 2026-09-09, from Molina and the IEP.** The limits above said the
+objection tells against Craig's bringing about of circumstances, and that a
+Molinist who says God selects a whole possible world "is not obviously
+touched by it," and said so by inference. Two Molinist sources now speak for
+themselves. Molina's unit of providential choice is an *ordo rerum*, an order
+of things in which God places men and angels having foreseen by middle
+knowledge everything their freedom would do in it; the contemporary doctrine
+calls this weak actualization, placement rather than causal determination
+([[weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103]]).
+On that account the millions of prior choices are part of what is foreseen,
+not something done to produce a situation, so the caveat is confirmed. The
+same sources concede, however, that there may be worlds God cannot actualize
+at all, which is where Grudem's charge that the Arminian residue diminishes
+God has purchase on Molinism — on feasibility, not on the mechanics this
+objection attacks. Nothing above is withdrawn; the objection stands against
+the formulation it was aimed at, and its reach is now bounded from the
+Molinist side rather than only from this base's.

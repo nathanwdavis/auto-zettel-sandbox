@@ -21,8 +21,12 @@ links:
   relation: shared-concept
 - target_id: the-dispute-is-decided-by-which-residue-honours-god-more--202609081831
   relation: shared-concept
+- target_id: molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101
+  relation: elaborates
+- target_id: the-grounding-objection-is-molinisms-own-unanswered-question--202609090104
+  relation: elaborates
 created: '2026-09-08'
-updated: '2026-09-08'
+updated: '2026-09-09'
 ---
 Both traditions arrive at the same impasse and both admit it. Neither claims to
 show how exhaustive divine knowledge and genuine human choosing consist
@@ -78,3 +82,22 @@ doctrine" is not a single thing and this note compares two authors, not two
 religions. The claim that each locates the mystery around what it refuses to
 give up is this base's reading of the two texts; neither author says it of
 himself.
+
+**Amended 2026-09-09, from Molina.** This note compared two placements of
+the mystery, in divine knowledge for Maimonides and in the willingness of a
+determined choice for Grudem, and its limits said the Molinist position
+"would place the mystery elsewhere again." It does. Molina keeps the human
+half undoubted, as Maimonides does, but does not dissolve the foreknowledge
+problem by identifying God with his knowledge; he reverses the dependence,
+so that God foreknows the free act because the creature would do it and not
+the reverse, and places the inscrutable in the mode of the knowing, a
+comprehension of each free will that he himself calls "altissima et
+inscrutabili"
+([[molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101]]).
+Molinism also has its own named unanswered question, the grounding
+objection, at the same joint
+([[the-grounding-objection-is-molinisms-own-unanswered-question--202609090104]]).
+So the placements now number three, and the observation above generalises:
+each position concedes a mystery exactly where the others' evidence would
+have to land. Nothing above is withdrawn; "two authors, not two religions"
+now reads three authors.

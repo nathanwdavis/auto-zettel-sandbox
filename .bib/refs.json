@@ -2821,5 +2821,102 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://archive.org/details/concordialiberia00moli",
+    "author": [
+      {
+        "family": "Molina",
+        "given": "Luis de"
+      }
+    ],
+    "id": "202609090050",
+    "issued": {
+      "date-parts": [
+        [
+          1876
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1588
+        ]
+      ]
+    },
+    "publisher": "P. Lethielleux",
+    "publisher-place": "Paris",
+    "title": "Liberi arbitrii cum gratiae donis, divina praescientia, providentia, praedestinatione et reprobatione concordia",
+    "type": "book"
+  },
+  {
+    "ISSN": "2161-0002",
+    "URL": "https://iep.utm.edu/middlekn/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Laing",
+        "given": "John D."
+      }
+    ],
+    "container-title": "The Internet Encyclopedia of Philosophy",
+    "id": "202609090051",
+    "title": "Middle Knowledge",
+    "type": "entry-encyclopedia"
+  },
+  {
+    "URL": "https://www.newadvent.org/cathen/10437a.htm",
+    "author": [
+      {
+        "family": "Pohle",
+        "given": "Joseph"
+      }
+    ],
+    "container-title": "The Catholic Encyclopedia",
+    "id": "202609090052",
+    "issued": {
+      "date-parts": [
+        [
+          1911
+        ]
+      ]
+    },
+    "publisher": "Robert Appleton Company",
+    "publisher-place": "New York",
+    "title": "Molinism",
+    "type": "entry-encyclopedia",
+    "volume": "10"
+  },
+  {
+    "URL": "https://www.newadvent.org/cathen/04238a.htm",
+    "author": [
+      {
+        "family": "Astrain",
+        "given": "Antonio"
+      }
+    ],
+    "container-title": "The Catholic Encyclopedia",
+    "id": "202609090053",
+    "issued": {
+      "date-parts": [
+        [
+          1908
+        ]
+      ]
+    },
+    "publisher": "Robert Appleton Company",
+    "publisher-place": "New York",
+    "title": "Congregatio de Auxiliis",
+    "type": "entry-encyclopedia",
+    "volume": "4"
   }
 ]

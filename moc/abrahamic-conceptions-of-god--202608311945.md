@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-08'
+updated: '2026-09-09'
 ---
 # Abrahamic conceptions of God
 
@@ -698,6 +698,19 @@ numbers on file for that section, sitting immediately before the wisdom pages
 its own authority, that most of what arrives in a life arrives through other
 people's choices, into Grudem's own argument.
 
+### The will, added 2026-09-09: the three chapter-13 notes given a place
+
+The ch. 13 ingest of 2026-09-08 (sec. D, items 14-16, Will, Freedom and
+Omnipotence) produced three permanent notes that no section of this map
+listed; they were reachable only through their literature note,
+[[grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904]],
+and the INBOX entry of 2026-09-08 filed the omission. They sit here because the
+two wills are the decree-side vocabulary the providence chapter assumes.
+
+- [[grudems-two-wills-are-sorted-from-outside-the-verse--202609081905]] — the secret/revealed distinction is a frame brought to the text; the assignment of 1 Tim. 2:4 and of Matt. 6:10 is settled by what else is known to be true, never by the verse's vocabulary.
+- [[deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906]] — the proof text partitions what God has disclosed, not what he has willed: a warrant for reticence rather than a proof of two wills.
+- [[human-will-is-god-likeness-qualified-as-relative--202609081907]] — the closing application makes the human will an image of God's and qualifies its freedom as relative in the same sentence, so the compatibilist position is built into what Grudem thinks a human being is.
+
 ## Free will under sovereignty, added 2026-09-08: the first leg argued from a Jewish source
 
 Inquiry 202609081908 asked how the Christian doctrine of human free will under
@@ -720,6 +733,61 @@ the Samaritans, who hold it and nothing else and are therefore the sharpest test
 of any Pentateuch-only argument, and the Islamic *qadar* literature, of which
 this map has the attribute debates (Mu'tazili and Ash'ari) but nothing on human
 acts. The Islamic leg is the one this base has the infrastructure to reach next.
+
+## Middle knowledge, added 2026-09-09: the Molinist leg argued from inside
+
+Until this date the map held Molinism only as Grudem reports it: one essay of
+Craig's quoted in chapter 16, and a single objection this base had marked in
+its own limits as touching Craig's formulation rather than the doctrine.
+Inquiry 202609090047 asked what Molina himself claims about the relation of
+God's sovereign will to human free will. Molina's *Concordia* (1588) is now on
+file in the Paris 1876 edition: five pages of disputations 52 and 53, read from
+the scanned page images, transcribed, and checked word by word against two OCR
+witnesses, with the images committed beside the transcription. The Internet
+Encyclopedia of Philosophy's survey of the doctrine and the objections to it
+is captured as bounded excerpts, and two public-domain Catholic Encyclopedia
+articles supply the history the survey lacks, up to the decree that ended the
+Congregatio de Auxiliis. Distilled at
+[[molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055]],
+[[laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056]],
+[[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]] and
+[[astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058]].
+
+Read the seven in three groups. The first two say what the doctrine is:
+
+- [[middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100]] — middle knowledge is placed by two properties, not a list of objects: like natural knowledge it comes before the act of God's will, like free knowledge its content could have been otherwise; Molina says so when asked whether it is free or natural and answers "partly each." It also closes the vocabulary gap the omniscience note recorded on itself.
+- [[molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101]] — "Futura contingentia non quia sciuntur a Deo ideo futura sunt, sed e contrario": God foreknows the free act because the creature would do it, and not the reverse. The exact step Grudem's foreknowledge-entails-fixity argument asserts, run the other way; and a third placement of the residue, in the mode of God's "inscrutable comprehension" of the creature.
+
+The next three are the doctrine's account of sovereignty, and where it pays:
+
+- [[molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102]] — nothing is in the creature's power that is not in God's; God can bend the will anywhere but into sin; God permits sin but never incites it; God cooperates with every free act and is in no way the cause of sins. Three of the five items are what a Reformed reader expects, and the first is stronger than anything in the Arminian position Grudem surveys.
+- [[weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103]] — providence is exercised by choosing a whole order of things and cooperating with the free acts foreseen in it, which is why Grudem's "a situation is made of other people's choices" does not reach Molina; but the same sources concede that there may be worlds God cannot actualize, which is where the "diminishes God" charge lands.
+- [[the-grounding-objection-is-molinisms-own-unanswered-question--202609090104]] — what makes a counterfactual of freedom true; each of the five Molinist replies relocates the question. The Molinist pays a residue too, at the joint between God's knowing and the creature's choosing, and the tie-breaker Grudem uses cannot rank the residues without assuming its answer.
+
+The last two reach elsewhere on this map:
+
+- [[grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105]] — Matt. 11:21 is Grudem's proof that God knows possibilities and Molina's proof that God knows conditional futures that are not mere possibilities; the verse is where the two mechanisms part, and the parting is exact.
+- [[the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106]] — twenty years and eighty-five conferences before two popes ended, in 1607, with each party permitted to teach and forbidden to condemn the other, and judgement reserved. The same shape as al-Tabari's rule of speech under suspended judgement, and the institutional opposite of Grudem's decision by residue: holding both doctrines is required, holding a theory of how they consist is permitted.
+
+Three notes already here are amended rather than rewritten. The omniscience
+note that had said the classical vocabulary was "deliberately not invoked,
+because no source stating it is on file" now has the source
+([[grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923]]);
+the objection note whose limits guessed that a whole-world Molinist "is not
+obviously touched by it" has the guess confirmed from the Molinist side and
+the objection re-aimed at feasibility
+([[a-situation-is-made-of-other-peoples-choices--202609081830]]); and the
+same-wall note's two placements of the mystery are now three
+([[the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914]]).
+
+Boundaries this section should not be read past. The Thomist side, Banez
+above all, is on file only as two Catholic reference-work authors report it.
+Freddoso's translation and the modern literature on both sides — Plantinga,
+Flint and Craig for, Adams and Hasker against — are unread, so the five replies
+to the grounding objection are one survey's classification. Molina's
+disputations 47-48 on freedom, disputation 31 on God and sin, and his printed
+replies to Banez are unread. Every English rendering of the Latin is this
+base's own.
 
 ## Sources behind these notes
 
@@ -749,3 +817,8 @@ Knowability: [[calvin-institutes-of-the-christian-religion--202609011032]], [[ho
 (literature: [[calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036]], [[hodge-keeps-the-design-argument-while-denying-it-originates-belief--202609011037]], [[the-general-revelation-passages-describe-a-wordless-disclosure--202609011038]]).
 The Trinity, from the same Hodge volume's ch. VI (second capture on that reference):
 [[hodge-on-the-two-readings-the-councils-ruled-out--202609041715]].
+Providence and free will, from the second edition captures of Grudem: [[grudem-systematic-theology--202609050158]]
+(literature: [[grudem-divine-attributes-incommunicable-and-communicable--202609050547]], [[grudem-trinity-three-persons-one-god--202609050548]], [[grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915]], [[grudem-defines-god-s-spirituality-as-immateriality--202609071347]], [[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]], [[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]], [[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]], [[grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904]]); and the Jewish leg, [[maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910]], [[pirkei-avot-3-15--202609081911]]
+(literature: [[maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912]], [[akiva-states-both-halves-and-reconciles-neither--202609081913]]).
+Middle knowledge: [[molina-concordia-liberi-arbitrii--202609090050]], [[laing-middle-knowledge-iep--202609090051]], [[pohle-molinism-catholic-encyclopedia--202609090052]], [[astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053]]
+(literature: [[molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055]], [[laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056]], [[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]], [[astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058]]).
