@@ -2115,3 +2115,8 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-09T02:01:23Z` lint_links: PASS
 - `2026-09-09T02:01:23Z` lint_skills: PASS
 - `2026-09-09T02:01:23Z` check_skill_sandbox: PASS
+- `2026-09-10T20:50:41Z` session (paper outline, plain-English rewrite): the owner asked for the outline in plain English and full sentences, with nothing left to guess, and with the aim changed from arguing the debate to stating the subtle differences between Grudem's concurrence and Molina's middle knowledge. papers/divine-sovereignty-and-human-free-will-outline.md rewritten in place (the survey and debate versions stay in git history): a glossary defining every term once, the thesis in one paragraph, six sections in full sentences (introduction; what both views share, with one witness per side per point; Grudem on his own terms; Molina on his own terms; six differences stated one at a time with what the views share around each, plus a six-row comparison table; conclusion), an optional paragraph for a professor who requires a verdict, two things to do before citing, and sources described in words with what each is for and whether it was checked. The source-tag system is gone; each point says in a sentence where it comes from and links the repository note. Twenty-two links checked; every quoted span verified as a substring of a capture. No note, MOC or capture touched.
+- `2026-09-10T20:51:01Z` lint_citations: PASS
+- `2026-09-10T20:51:02Z` lint_links: PASS
+- `2026-09-10T20:51:02Z` lint_skills: PASS
+- `2026-09-10T20:51:02Z` check_skill_sandbox: PASS
