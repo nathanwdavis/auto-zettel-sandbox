@@ -94,5 +94,6 @@ open theist's own reasoning: infallible foreknowledge of a choice means one
 is not free to choose otherwise, so libertarian freedom and the denial of
 foreknowledge stand or fall together. Ware does not contest it, and answers
 as Grudem does, with Isaiah's test ([[ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827]]). That makes a third witness
-for the first paragraph's claim, and it is the source of Grudem's answer
-speaking for himself. Nothing above is withdrawn.
+for the first paragraph's claim, and it is Grudem's source for that answer,
+here in his own voice rather than as Grudem quotes him. Nothing above is
+withdrawn.

@@ -21,7 +21,7 @@ links:
 - target_id: grudem-defines-providence-as-preservation-concurrence-and-government--202609081824
   relation: source
 - target_id: concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826
-  relation: contradicts
+  relation: shared-concept
 - target_id: molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102
   relation: shared-concept
 - target_id: the-dispute-is-decided-by-which-residue-honours-god-more--202609081831
@@ -66,9 +66,9 @@ which can be traced back to God", so what he rejects is that God "pre-moves
 his creatures to sin (although he does not use that term)".
 
 This is a difference inside the Reformed camp, and it is the one place on
-file where Ware and Grudem part. Grudem's concurrence is symmetrical: every
-event "fully (100 percent) caused by God and fully (100 percent) caused by
-the creature as well", and, in the sentence that governs his chapter, "It
+file where Ware and Grudem part. Grudem's concurrence is symmetrical: "in one sense events are fully (100
+percent) caused by God and fully (100 percent) caused by the creature as
+well", and, in the sentence that governs his chapter, "It
 seems better to affirm that God causes all things that happen but that he
 does so in such a way that he somehow upholds our ability to make willing,
 responsible choices"; on God and sin he ends with Berkhof, that "the problem
@@ -79,7 +79,7 @@ from [[grudem-systematic-theology--202609050158]];
 Ware's "in no case does he cause the evil to be done" denies, for one class
 of events, the claim Grudem affirms for all of them, and it denies it in
 order to answer the question Grudem lists as unanswerable, "Exactly how can
-God not be blamed for evil when he ordains that we do evil"
+God not be blamed for evil when he ordains that we do evil willingly?"
 ([[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]]).
 The two share the aim and the Isaiah-shaped doctrine of foreknowledge; they
 differ on whether God's causing of an evil act is to be affirmed and left a
@@ -105,8 +105,9 @@ paragraph describes the relation to evil as indirect and permissive, and
 that description is attributed summary here, not quotation. Grudem's "causes
 all things" is stated as what "seems better to affirm", and his chapter
 elsewhere distinguishes the divine and creaturely causes as working "in
-different ways", so the contradiction recorded in the links is between
-Ware's denial and Grudem's affirmation as each is worded, not a claim that
-Grudem holds God to be the author of sin, which he denies. Whether "occasion"
+different ways", so the opposition recorded here is between Ware's denial and Grudem's
+affirmation as each is worded, a verbal opposition that the links record as
+a shared concept rather than a contradiction, and not a claim that Grudem
+holds God to be the author of sin, which he denies. Whether "occasion"
 differs from "cause" in more than name is Helm's question, and it is not
 settled here.

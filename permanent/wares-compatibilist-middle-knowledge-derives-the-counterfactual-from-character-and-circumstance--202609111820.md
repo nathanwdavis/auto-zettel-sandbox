@@ -36,8 +36,8 @@ Ware accepts the grounding objection against Molina and keeps Molina's
 word. As Van Horn reports him, Ware "claims that God cannot have"
 libertarian middle knowledge, "for there could be no true CCFs if
 libertarianism were true", a CCF being a counterfactual of creaturely
-freedom, and his reason is the grounding objection; Laing had recorded,
-before *God's Greater Glory* appeared, that "Ware has also noted that he
+freedom, and his reason is the grounding objection; Laing had recorded, in an
+article published before *God's Greater Glory* appeared later in 2004, that "Ware has also noted that he
 finds the grounding objection to be convincing" and that he "claimed to hold
 to a Calvinistic Middle Knowledge position" at a 2000 Evangelical
 Philosophical Society session
@@ -84,15 +84,21 @@ in nothing prior to that will, which is what the grounding objection presses
 [[the-grounding-objection-is-molinisms-own-unanswered-question--202609090104]]).
 Ware's is true because of a nature and a set of factors, both of which God
 knows and, since he makes the one and arranges the other, controls. So the
-question Laing's survey called the most popular objection, what makes a
-counterfactual of freedom true, has an answer on Ware's account: the
-creature's character together with its circumstances. That is also why the
-definition of freedom Grudem borrows from Ware is not incidental. Grudem's
-"we are free when we do what we most want to do"
+question Laing's survey called the most popular objection (it says so in a
+sentence outside the captured blocks), what makes a counterfactual of
+freedom true, has an answer on Ware's account: the creature's character
+together with its circumstances. Laing's own rejoinder to grounding in
+character, that the individual does not yet exist at the logical moment of
+middle knowledge, is met on Ware's account by the first of the four things
+God knows prevolitionally, the character "in his own mind’s eye"; whether
+that is still middle knowledge is the next note's question. That is also why the
+definition of freedom Grudem borrows from Ware is not incidental. The
+"we are free when we do what we most want to do" that Grudem quotes from
+Ware (the footnote naming the book is not on file)
 ([[grudem-systematic-theology--202609050158]];
-[[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]]) is
-the first clause of Ware's sentence above, and the whole apparatus is that
-definition run forward into God's knowledge.
+[[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]])
+matches the first clause of Ware's sentence above, and the whole apparatus
+is that definition run forward into God's knowledge.
 
 **Limits.** Every sentence of Ware's here is at second hand, with Helm's and
 Van Horn's page numbers, and the book is unread; the four-part footnote is

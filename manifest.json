@@ -878,7 +878,7 @@
       "path": "permanent/a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826.md",
       "slug": "a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited",
       "tags": [],
-      "title": "A compatibilist middle knowledge escapes Molinism's feasibility limit only by claiming that any free act can be elicited from any creature, which Ware claims of evil and Laing doubts",
+      "title": "A compatibilist middle knowledge escapes Molinism's feasibility limit only by claiming that any free act can be elicited from any creature, which Laing doubts and Ware's claim of control over evil comes close to",
       "type": "permanent",
       "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826.md"
@@ -5247,7 +5247,7 @@
           "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
         },
         {
-          "relation": "elaborates",
+          "relation": "contradicts",
           "target_id": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825"
         },
         {
@@ -8848,7 +8848,7 @@
           "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
         },
         {
-          "relation": "supports",
+          "relation": "shared-concept",
           "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
         },
         {
@@ -10176,7 +10176,7 @@
       "key": "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823",
       "links": [
         {
-          "relation": "contradicts",
+          "relation": "shared-concept",
           "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
         },
         {

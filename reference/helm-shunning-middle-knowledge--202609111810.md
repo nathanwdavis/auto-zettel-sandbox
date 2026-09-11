@@ -67,6 +67,7 @@ once libertarian freedom is abandoned (with Ware's own sentences from GGG
 112-114), why that is natural knowledge, and the closing verdict. The
 epigraph (Westminster Confession 3.2), the opening paragraph, the paragraph
 defining middle knowledge, the paragraph on the freedom of indifference, the
-first paragraph of "Enter Bruce Ware" (GGG 78), and the two paragraphs on
-deliberation, temporalism and "occasioning" (GGG 119-123) were NOT captured;
+first paragraph of "Enter Bruce Ware" (GGG 78), and the three paragraphs on
+evil, deliberation, temporalism and "occasioning" (GGG 119-123) were NOT
+captured;
 notes cite them only as attributed summary and never quote them.

@@ -27,16 +27,16 @@ each a passage the notes quote from. NOT captured: section I, "Preliminaries"
 determinism and theological determinism, with the comments on them and
 footnotes 1-16); section II, "Middle Knowledge" (the exposition of Molina's
 three knowledges, the Peter example, and footnotes 17-23); the Turretin,
-Bavinck and Muller quotations in section III with footnotes 29-35 (Muller's
+Bavinck and Muller quotations in section III with footnotes 29-32 (Muller's
 point, that middle knowledge "is not a middle ground" but the Arminian and
 Jesuit position, is cited from here only as attributed summary); the
 premotion and causal-powers argument of section IV between the concession and
-the conclusion (footnotes 44-49); the rest of section V, "Modifying
+the conclusion (footnotes 43-47); the rest of section V, "Modifying
 Calvinism" (Craig's suggestion, Hodge on concursus, the two ways to reject
 premotion, counterfactuals of creaturely randomness, Lewis and Fischer;
-footnotes 54-64); section VI, "Embracing the Impossible" (counterpossibles;
-footnotes 65-73); the second paragraph of the conclusion; and footnotes
-74-76. Notes cite those only as attributed summary and never quote them.
+footnotes 52-54 and 60-64); section VI, "Embracing the Impossible"
+(counterpossibles; footnotes 65-71); the second paragraph of the
+conclusion; and footnotes 74-76. Notes cite those only as attributed summary and never quote them.
 Ware's words in this capture are available only as Van Horn quotes them
 (God's Greater Glory 114-15, 115 n. 10, 123-24), and Tiessen's likewise
 (Providence and Prayer 319; the 2009 WTJ conversation with Helm, 448 and
@@ -195,7 +195,7 @@ firming compatibilism requires abandoning the claim that God has MK. In other
 words, is “compatibilist middle knowledge” or “Middle Knowledge Calvinism” a
 coherent position, or does it reduce to Calvinism simpliciter?
 
-===== BLOCK E (pp. 815-817, with footnotes 36-42): section IV, "The Confusion in Calvinist Middle Knowledge", through Tiessen's and Ware's concession =====
+===== BLOCK E (pp. 815-817, with footnotes 33-42): section IV, "The Confusion in Calvinist Middle Knowledge", through Tiessen's and Ware's concession =====
 
 IV. THE CONFUSION IN CALVINIST MIDDLE KNOWLEDGE
 Middle Knowledge Calvinism appears to be confused. Its adherents claim that
@@ -317,7 +317,7 @@ the Doctrine of God: 4 Views 74. Ware still wants to hang onto the term “middl
 useful subset of natural knowledge, but this is clearly a misuse of the term that will inevitably lead to
 confusion.
 
-===== BLOCK F (pp. 819-820, with footnotes 50-53): the conclusion of the argument, and Tiessen's lesson =====
+===== BLOCK F (pp. 819-820, with footnotes 48-51): the conclusion of the argument, and Tiessen's lesson =====
 
 I conclude from this discussion that Calvinist proponents of MK are con-
 fused. They affirm that God knows what any creature would freely do in any possi-
@@ -401,7 +401,7 @@ Should Believe in Divine Middle Knowledge” 348, n. 12. Helm sketches a similar
 Does Not Take Risks,” in Contemporary Debates in Philosophy of Religion (ed. Michael L. Peterson and Ray-
 mond J. VanArragon; Malden, MA: Blackwell, 2004) 232–34.
 
-===== BLOCK I (pp. 826-827): section VII, "Conclusion", first paragraph =====
+===== BLOCK I (pp. 826-827, with footnotes 72-73): section VII, "Conclusion", first paragraph =====
 
 VII. CONCLUSION
 In this paper, I have argued that while those Calvinists who claim that God

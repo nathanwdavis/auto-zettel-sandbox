@@ -820,12 +820,12 @@ The next three are what the construction is for, and what it costs:
 
 - [[ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823]] — Ware's asymmetry: God causes good and only occasions evil, "in no case does he cause the evil to be done", where Grudem affirms that God causes all things and rests on Berkhof's mystery. The one place on file where Ware and Grudem part, and Molina's list of what coheres restated for a will whose choices follow from its nature.
 - [[helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824]] — Helm keeps the mystery where Augustine and Calvin left it and treats a mechanism that would shrink it as suspect for that reason. His placement of the residue is Grudem's; his attitude to it is not.
-- [[a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826]] — a compatibilist middle knowledge escapes the feasibility limit only by claiming that any act can be elicited from any creature; Ware claims it of evil, Laing doubts it, and Grudem's "a situation is made of other people's choices" does not reach Ware.
+- [[a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826]] — a compatibilist middle knowledge escapes the feasibility limit only by claiming that any act can be elicited from any creature; Laing doubts it, Ware's claim of control over evil comes close to it, and Grudem's "a situation is made of other people's choices" does not reach Ware.
 
 The last two reach the older layers of this map:
 
 - [[the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825]] — the Reformed answer to the grounding objection is the decree, and Westminster Confession 3.2 states the order of dependence opposite to Molina's "non e contrario": the one contradiction link in this section, and the confessional standing behind Grudem's decree-first inference.
-- [[ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827]] — Ware's 2002 paper states the foreknowledge-entails-fixity inference as the open theist's own reasoning and answers it, as Grudem does, with Isaiah's test; a third witness that the entailment is common ground, and the source of Grudem's answer speaking for himself.
+- [[ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827]] — Ware's 2002 paper states the foreknowledge-entails-fixity inference as the open theist's own reasoning and answers it, as Grudem does, with Isaiah's test; a third witness that the entailment is common ground, and Grudem's source for the answer in his own voice.
 
 Five notes are amended rather than rewritten. The grounding-objection note gains
 a Reformed column

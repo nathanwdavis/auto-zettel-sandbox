@@ -4597,8 +4597,8 @@ is visible:
   Helm-Tiessen concession. Ten blocks, 35 percent
   (raw/202609111812-van-horn-jets-55-4-excerpt.txt).
 - John D. Laing, "The Compatibility of Calvinism and Middle Knowledge", JETS
-  47/3 (2004) 455-67: the Molinist critique, two months before Ware's book, so
-  Ware appears only by report. Ten blocks, 40 percent
+  47/3 (2004) 455-67: the Molinist critique, published before Ware's book
+  appeared later that year, so Ware appears only by report. Ten blocks, 40 percent
   (raw/202609111813-laing-jets-47-3-excerpt.txt).
 - Bruce A. Ware, "Defining Evangelicalism's Boundaries Theologically: Is Open
   Theism Evangelical?", JETS 45/2 (2002) 193-212: the only work of Ware's on
@@ -4662,8 +4662,8 @@ positions the paper outline compares. He takes Molina's three-knowledge
 structure and Molina's claim that God secures outcomes by choosing
 circumstances, and grounds the counterfactual in the creature's nature plus its
 setting, which is Grudem's "freedom of inclination" run forward into God's
-knowledge; the grounding objection therefore does not reach him, and the
-feasibility limit does not bind him. Helm's objection, accepted by Ware and
+knowledge; the grounding objection therefore does not reach him, and, if his claim of
+control over evil generalises, the feasibility limit does not bind him. Helm's objection, accepted by Ware and
 Tiessen in 2009, is that a counterfactual grounded that way is natural (or, for
 Laing, free) knowledge, so the word "middle" names nothing new; the Reformed
 answer to the grounding objection is the decree, which Westminster Confession
@@ -4706,3 +4706,11 @@ asked for the Grudem-Molina comparison.
   "Robots, Royalty and Relationships?" (CTR 1/2, 2004).
 - Charles Rennie's two-part Reformation 21 article, "Is Middle Knowledge
   Biblical? An Evaluation", which Helm recommends.
+
+**A finding outside this cycle's diff, from the critic.** The 2026-09-08 body
+of `the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827`
+quotes Grudem as saying Christ is "continually carrying along all things",
+and that string is in no capture in raw/ (the neighbouring "would simply be
+not to exist!" is). The quotation needs either a capture of the preservation
+passage or rewording as attributed summary; left for a correction cycle,
+because today's amendment to that note did not touch the 2026-09-08 text.

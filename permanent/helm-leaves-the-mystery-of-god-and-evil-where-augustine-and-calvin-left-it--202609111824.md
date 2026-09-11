@@ -51,9 +51,9 @@ from [[helm-shunning-middle-knowledge--202609111810]]).
 
 Two things follow for the map of where each position puts its unanswered
 question ([[the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914]]).
-First, Helm's placement is Grudem's. The second of the two questions Grudem
+First, Helm's placement is Grudem's. The first of the two questions Grudem
 lists as unanswerable on his own position is "Exactly how can God not be
-blamed for evil when he ordains that we do evil"
+blamed for evil when he ordains that we do evil willingly?"
 ([[grudem-systematic-theology--202609050158]];
 [[the-dispute-is-decided-by-which-residue-honours-god-more--202609081831]]),
 and "how it is that the divine ordination meshes with human sin and evil" is

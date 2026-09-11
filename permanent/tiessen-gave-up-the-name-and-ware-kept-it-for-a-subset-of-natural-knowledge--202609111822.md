@@ -34,7 +34,8 @@ part of God’s natural knowledge." Tiessen, in the conversation with Helm
 finally brought me to the conclusion that he is correct on this point. God’s
 knowledge of counterfactuals is not different from his knowledge of
 possibilities; it is therefore part of his necessary knowledge." He then
-gave up the doctrine as well as the label (450): "the sole rationale for
+gave up the doctrine as well as the label (Van Horn's note 53, outside the
+capture, gives the page as 450): "the sole rationale for
 positing middle knowledge is to give room for libertarian creaturely freedom
 as a fact of the world God chooses to actualize. I now believe that
 rejection of the Molinist construction because of its faulty understanding
@@ -61,8 +62,9 @@ abandon the objection, presented above by Bavinck, that Molinists are
 sacrificing the aseity or pure actuality of God.74 Moreover, the grounding
 objection would also have to be abandoned." The label, that is, costs the
 weapons: the two arguments by which the Reformed have refused Molina are
-unavailable to a Reformed theologian who keeps Molina's category, and Ware
-is on record as using the second of them.
+unavailable to a Reformed theologian who keeps Molina's category, and Ware,
+as Van Horn's note 26 and Laing both report, is on record as using the
+second of them.
 
 There is a naming pattern here worth setting beside Grudem's. Grudem takes a
 standard position and declines its standard name, on the ground that the

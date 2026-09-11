@@ -38,7 +38,7 @@ freedom is to open theism, so equally central and essential is its denial of
 exhaustive divine foreknowledge"
 ([[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]],
 from [[ware-is-open-theism-evangelical--202609111814]]). Ware does not
-contest the inference; by the article's own restriction, stated in an
+contest the inference in the captured text; by the article's own restriction, stated in an
 uncaptured footnote, he argues the foreknowledge and leaves the freedom to
 his book. That is a second witness, in a Reformed voice, that the entailment
 is common ground between Grudem and open theism, and that the two sides

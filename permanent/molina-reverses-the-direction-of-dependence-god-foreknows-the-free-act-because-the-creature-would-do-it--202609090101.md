@@ -26,7 +26,7 @@ links:
 - target_id: the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914
   relation: elaborates
 - target_id: the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825
-  relation: elaborates
+  relation: contradicts
 created: '2026-09-09'
 updated: '2026-09-11'
 ---

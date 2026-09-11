@@ -25,7 +25,7 @@ links:
 - target_id: the-grounding-objection-is-molinisms-own-unanswered-question--202609090104
   relation: shared-concept
 - target_id: the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829
-  relation: supports
+  relation: shared-concept
 - target_id: pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057
   relation: shared-concept
 created: '2026-09-11'
@@ -59,9 +59,9 @@ parallel: Bañez "also held to a belief that God knows all true
 counterfactuals of freedom (which are true in virtue of an act of his will)"
 ([[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]],
 from [[laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813]]),
-which is Pohle's Thomist medium of foreknowledge, the decree, under a
-Protestant confession
-([[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]]).
+which is Pohle's Thomist medium of foreknowledge, the decree
+([[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]]);
+the Confession states the same order in Protestant form.
 
 Set beside Molina this is a contradiction in so many words, not a shared
 concept. Molina's marginal rule is that future contingents are future not

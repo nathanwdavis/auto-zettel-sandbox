@@ -48,12 +48,14 @@ John D. Laing of Southwestern Baptist Theological Seminary whose Internet
 Encyclopedia of Philosophy entry "Middle Knowledge" is on file as
 `laing-middle-knowledge-iep--202609090051`; the article's author note gives
 the same seminary. It is the Molinist side's answer to "Calvinist middle
-knowledge", written two months before Ware's *God's Greater Glory* appeared,
-so it argues against Tiessen's *Providence and Prayer* (2000) as
+knowledge", written before Ware's *God's Greater Glory* appeared later in
+2004, so it argues against Tiessen's *Providence and Prayer* (2000) as
 representative and mentions Ware only by report: a footnote records that
 Ware avowed the position at a 2000 Evangelical Philosophical Society session
 and in conversation, and the text that he finds the grounding objection
-convincing. No work of Ware's is cited, and none is on file.
+convincing. No work authored by Ware is cited (he appears once, in an
+uncaptured footnote, as co-editor of the volume containing Crabtree's
+essay), and none is on file.
 
 The article is in copyright (the Society and the author) and served openly
 by its publisher, so the capture is bounded excerpts per the repository's
