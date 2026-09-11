@@ -2120,3 +2120,19 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-10T20:51:02Z` lint_links: PASS
 - `2026-09-10T20:51:02Z` lint_skills: PASS
 - `2026-09-10T20:51:02Z` check_skill_sandbox: PASS
+- `2026-09-11T18:06:21Z` capture: inquiry -> inquiries/what-do-paul-helm-and-bruce-ware-hold-on-the-relation-of--202609111806.md
+- `2026-09-11T18:33:59Z` session (inquiry 202609111806, researcher): the owner asked for the knowledge base's gaps on Paul Helm and Bruce Ware to be filled. Five sources captured as bounded excerpts with provenance headers: Helm, "Shunning Middle Knowledge" (Helm's Deep, 2009; 43 percent), Helm, ".....And more on Molinism" (Helm's Deep, 2019; 43 percent), Van Horn, JETS 55/4 (2012; 35 percent), Laing, JETS 47/3 (2004; 40 percent), Ware, JETS 45/2 (2002; 27 percent). Blog posts fetched from Blogger and reduced to the post-body text; JETS PDFs fetched from the Society's open archive (Laing needed a browser user-agent; Van Horn fetched twice, byte-identical) and extracted with PyMuPDF, hyphenation kept, ligatures normalised, SHA-256 recorded. Ware's God's Greater Glory is not freely available and stays off file; his 1986 JETS article was located but its archive URL returned 404; the Helm-Tiessen WTJ conversation is paywalled. Five reference notes (202609111810-14) and five literature notes (202609111815-19), each with a Grounding line, a locator and a Gaps paragraph.
+- `2026-09-11T18:33:59Z` session (synthesizer): eight permanent notes (202609111820-27) on Ware's compatibilist middle knowledge and its critics, Ware's asymmetry against Grudem's symmetrical concurrence, Helm's placement of the mystery, the Reformed decree-answer to the grounding objection against Molina's order, the feasibility limit, and Ware's statement of the foreknowledge entailment; five amendments (202609090104, 202609090100, 202609090101, 202609081827, 202609061922), each a dated block ending with what is withdrawn: nothing. Every quotation in every new or amended note checked as a substring of its capture (hyphenation, whitespace and quote style ignored).
+- `2026-09-11T18:36:03Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-11T18:36:37Z` verify_refs: 116/116 verified
+- `2026-09-11T18:37:47Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-11T18:38:20Z` verify_refs: 116/116 verified
+- `2026-09-11T18:38:41Z` build_manifest: 410 notes indexed
+- `2026-09-11T18:38:57Z` lint_citations: PASS
+- `2026-09-11T18:38:58Z` lint_links: PASS
+- `2026-09-11T18:38:58Z` lint_skills: PASS
+- `2026-09-11T18:38:58Z` check_skill_sandbox: PASS
+- `2026-09-11T18:40:04Z` verify_refs: 116/116 verified
+- `2026-09-11T18:40:23Z` build_manifest: 410 notes indexed
+- `2026-09-11T18:40:40Z` lint_citations: PASS
+- `2026-09-11T18:40:41Z` lint_links: PASS

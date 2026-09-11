@@ -387,6 +387,24 @@
     "202609090104": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104",
     "202609090105": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105",
     "202609090106": "the-congregatio-de-auxiliis-ended-by-permitting-both-schools-and-condemning-neither--202609090106",
+    "202609111810": "helm-shunning-middle-knowledge--202609111810",
+    "202609111811": "helm-and-more-on-molinism--202609111811",
+    "202609111812": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812",
+    "202609111813": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813",
+    "202609111814": "ware-is-open-theism-evangelical--202609111814",
+    "202609111815": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815",
+    "202609111816": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816",
+    "202609111817": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817",
+    "202609111818": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818",
+    "202609111819": "ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819",
+    "202609111820": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820",
+    "202609111821": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821",
+    "202609111822": "tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822",
+    "202609111823": "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823",
+    "202609111824": "helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824",
+    "202609111825": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825",
+    "202609111826": "a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826",
+    "202609111827": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -653,6 +671,24 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-do-paul-helm-and-bruce-ware-hold-on-the-relation-of--202609111806",
+      "path": "inquiries/what-do-paul-helm-and-bruce-ware-hold-on-the-relation-of--202609111806.md",
+      "priority": "high",
+      "question": "What do Paul Helm and Bruce Ware hold on the relation of God's sovereign will to human freedom, in particular Ware's 'compatibilist middle knowledge' and its asymmetry of direct-causative good and indirect-permissive evil, and Helm's objection that such knowledge is natural knowledge under another name; and how does their exchange bear on the comparison of Grudem's concurrence with Molina's middle knowledge?",
+      "result_notes": [
+        "a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826",
+        "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821",
+        "helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824",
+        "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825",
+        "tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822",
+        "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823",
+        "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827",
+        "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
+      ],
+      "status": "answered",
+      "updated": "2026-09-11"
+    },
+    {
       "key": "what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252",
       "path": "inquiries/what-does-grudem-s-systematic-theology-2nd-ed-2020-argue--202609050252.md",
       "priority": "normal",
@@ -746,7 +782,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 392,
+  "note_count": 410,
   "notes": [
     {
       "id": "202609041020",
@@ -807,6 +843,47 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/a-common-word-builds-common-ground-from-the-two-commandments--202609040110.md"
     },
     {
+      "id": "202609111826",
+      "key": "a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "a-situation-is-made-of-other-peoples-choices--202609081830"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103"
+        }
+      ],
+      "path": "permanent/a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826.md",
+      "slug": "a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited",
+      "tags": [],
+      "title": "A compatibilist middle knowledge escapes Molinism's feasibility limit only by claiming that any free act can be elicited from any creature, which Ware claims of evil and Laing doubts",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826.md"
+    },
+    {
       "id": "202609022356",
       "key": "a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356",
       "links": [
@@ -838,6 +915,59 @@
       "type": "permanent",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-confirming-use-of-fine-tuning-states-its-own-non-coerciveness--202609022356.md"
+    },
+    {
+      "id": "202609111821",
+      "key": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "helm-and-more-on-molinism--202609111811"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-shunning-middle-knowledge--202609111810"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
+        }
+      ],
+      "path": "permanent/a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821.md",
+      "slug": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle",
+      "tags": [],
+      "title": "A counterfactual derived from nature and circumstance is natural knowledge for Helm and free knowledge for Laing, and on either reading it is not middle",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821.md"
     },
     {
       "id": "202609040210",
@@ -1108,7 +1238,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -3060,6 +3190,10 @@
         {
           "relation": "elaborates",
           "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827"
         }
       ],
       "path": "permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md",
@@ -3067,7 +3201,7 @@
       "tags": [],
       "title": "Grudem and the open theist accept the same entailment and give up opposite sides of it",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922.md"
     },
     {
@@ -3693,6 +3827,109 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/having-the-notes-to-hand-buys-present-performance-not-durable-knowledge--202609040345.md"
     },
     {
+      "id": "202609111811",
+      "key": "helm-and-more-on-molinism--202609111811",
+      "links": [],
+      "path": "reference/helm-and-more-on-molinism--202609111811.md",
+      "slug": "helm-and-more-on-molinism",
+      "tags": [],
+      "title": "Helm, And more on Molinism (Helm's Deep)",
+      "type": "reference",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/helm-and-more-on-molinism--202609111811.md"
+    },
+    {
+      "id": "202609111816",
+      "key": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "helm-and-more-on-molinism--202609111811"
+        }
+      ],
+      "path": "literature/helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816.md",
+      "slug": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree",
+      "tags": [],
+      "title": "Helm grounds the Reformed refusal of middle knowledge in the decree, answers the grounding objection with it, and calls Ware's \"Reformed Molinism\" an inexplicable exception",
+      "type": "literature",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816.md"
+    },
+    {
+      "id": "202609111824",
+      "key": "helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-shunning-middle-knowledge--202609111810"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        }
+      ],
+      "path": "permanent/helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824.md",
+      "slug": "helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it",
+      "tags": [],
+      "title": "Helm leaves the mystery of God and evil where Augustine and Calvin left it, and counts Ware's mechanism as an attempt to mitigate an ineffability that should stand",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824.md"
+    },
+    {
+      "id": "202609111815",
+      "key": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "helm-shunning-middle-knowledge--202609111810"
+        }
+      ],
+      "path": "literature/helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815.md",
+      "slug": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name",
+      "tags": [],
+      "title": "Helm reads Ware's compatibilist middle knowledge as natural knowledge under another name, and leaves the mystery of God and evil where the tradition left it",
+      "type": "literature",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815.md"
+    },
+    {
+      "id": "202609111810",
+      "key": "helm-shunning-middle-knowledge--202609111810",
+      "links": [],
+      "path": "reference/helm-shunning-middle-knowledge--202609111810.md",
+      "slug": "helm-shunning-middle-knowledge",
+      "tags": [],
+      "title": "Helm, Shunning Middle Knowledge (Helm's Deep)",
+      "type": "reference",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/helm-shunning-middle-knowledge--202609111810.md"
+    },
+    {
       "id": "202609041815",
       "key": "hesselmann-failed-to-recover-the-priming-effect-and-audited-the-original--202609041815",
       "links": [
@@ -4222,6 +4459,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md"
     },
     {
+      "id": "202609111818",
+      "key": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813"
+        }
+      ],
+      "path": "literature/laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818.md",
+      "slug": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma",
+      "tags": [],
+      "title": "Laing argues that a Calvinist middle knowledge is caught in a dilemma: grounded in God's will it is free knowledge, grounded in the creature it is libertarian",
+      "type": "literature",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818.md"
+    },
+    {
       "id": "202609090056",
       "key": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056",
       "links": [
@@ -4249,6 +4503,18 @@
       "type": "reference",
       "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/laing-middle-knowledge-iep--202609090051.md"
+    },
+    {
+      "id": "202609111813",
+      "key": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813",
+      "links": [],
+      "path": "reference/laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813.md",
+      "slug": "laing-the-compatibility-of-calvinism-and-middle-knowledge",
+      "tags": [],
+      "title": "Laing, The Compatibility of Calvinism and Middle Knowledge (JETS)",
+      "type": "reference",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813.md"
     },
     {
       "id": "202609041950",
@@ -4875,6 +5141,10 @@
       "key": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923"
         },
@@ -4901,6 +5171,10 @@
         {
           "relation": "source",
           "target_id": "pohle-molinism-catholic-encyclopedia--202609090052"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
         }
       ],
       "path": "permanent/middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100.md",
@@ -4908,7 +5182,7 @@
       "tags": [],
       "title": "Middle knowledge sits between natural and free knowledge because it shares one property with each, coming before God's will yet being contingent",
       "type": "permanent",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100.md"
     },
     {
@@ -4974,6 +5248,10 @@
         },
         {
           "relation": "elaborates",
+          "target_id": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825"
+        },
+        {
+          "relation": "elaborates",
           "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
         }
       ],
@@ -4982,7 +5260,7 @@
       "tags": [],
       "title": "Molina reverses the direction of dependence, so that God foreknows a free act because the creature would do it and not the reverse",
       "type": "permanent",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101.md"
     },
     {
@@ -7344,6 +7622,10 @@
         {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
         }
       ],
       "path": "permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md",
@@ -7351,7 +7633,7 @@
       "tags": [],
       "title": "The freedom chapter 12 deferred turns out to be compatibilist freedom, and chapter 16 says so in a footnote",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827.md"
     },
     {
@@ -7487,6 +7769,10 @@
       "key": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104",
       "links": [
         {
+          "relation": "elaborates",
+          "target_id": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821"
+        },
+        {
           "relation": "source",
           "target_id": "laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056"
         },
@@ -7507,8 +7793,16 @@
           "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
         }
       ],
       "path": "permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md",
@@ -7516,7 +7810,7 @@
       "tags": [],
       "title": "The grounding objection is Molinism's own unanswered question, and each of the five replies relocates it rather than removing it",
       "type": "permanent",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-grounding-objection-is-molinisms-own-unanswered-question--202609090104.md"
     },
     {
@@ -8526,6 +8820,59 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320.md"
     },
     {
+      "id": "202609111825",
+      "key": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "helm-and-more-on-molinism--202609111811"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        }
+      ],
+      "path": "permanent/the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825.md",
+      "slug": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina",
+      "tags": [],
+      "title": "The Reformed answer to the grounding objection is the decree itself, and the Westminster Confession states the order of dependence opposite to Molina's",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825.md"
+    },
+    {
       "id": "202609011537",
       "key": "the-rema-concedes-the-referent-and-regulates-the-worshipper--202609011537",
       "links": [
@@ -9400,6 +9747,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455.md"
     },
     {
+      "id": "202609111822",
+      "key": "tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "grudem-takes-positions-whose-standard-names-he-declines--202609081828"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-and-more-on-molinism--202609111811"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        }
+      ],
+      "path": "permanent/tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822.md",
+      "slug": "tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge",
+      "tags": [],
+      "title": "Under Helm's criticism Tiessen gave up middle knowledge and Ware kept the name for a subset of natural knowledge, at the price of the two standard Calvinist objections to Molinism",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822.md"
+    },
+    {
       "id": "202609011531",
       "key": "tikkunei-ha-zohar--202609011531",
       "links": [],
@@ -9664,6 +10048,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/vallicella-divine-simplicity-sep--202609042072.md"
     },
     {
+      "id": "202609111812",
+      "key": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812",
+      "links": [],
+      "path": "reference/van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812.md",
+      "slug": "van-horn-on-incorporating-middle-knowledge-into-calvinism",
+      "tags": [],
+      "title": "Van Horn, On Incorporating Middle Knowledge into Calvinism (JETS)",
+      "type": "reference",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812.md"
+    },
+    {
+      "id": "202609111817",
+      "key": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        }
+      ],
+      "path": "literature/van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817.md",
+      "slug": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle",
+      "tags": [],
+      "title": "Van Horn records Ware's and Tiessen's concession to Helm and argues that, under classical Calvinism, counterfactuals of freedom can be natural or free knowledge but not middle",
+      "type": "literature",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817.md"
+    },
+    {
       "id": "202609011315",
       "key": "venema-finds-no-thorough-search-behind-signatures-design-inference--202609011315",
       "links": [
@@ -9728,6 +10141,186 @@
       "type": "literature",
       "updated": "2026-08-31",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936.md"
+    },
+    {
+      "id": "202609111814",
+      "key": "ware-is-open-theism-evangelical--202609111814",
+      "links": [],
+      "path": "reference/ware-is-open-theism-evangelical--202609111814.md",
+      "slug": "ware-is-open-theism-evangelical",
+      "tags": [],
+      "title": "Ware, Is Open Theism Evangelical? (JETS)",
+      "type": "reference",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ware-is-open-theism-evangelical--202609111814.md"
+    },
+    {
+      "id": "202609111819",
+      "key": "ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ware-is-open-theism-evangelical--202609111814"
+        }
+      ],
+      "path": "literature/ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819.md",
+      "slug": "ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism",
+      "tags": [],
+      "title": "Ware makes exhaustive foreknowledge the boundary of evangelicalism, states the openness inference from libertarian freedom, and treats a predestined crucifixion as freely chosen",
+      "type": "literature",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819.md"
+    },
+    {
+      "id": "202609111823",
+      "key": "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823",
+      "links": [
+        {
+          "relation": "contradicts",
+          "target_id": "concurrence-is-the-mechanism-the-wisdom-section-assumed--202609081826"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-providence-as-preservation-concurrence-and-government--202609081824"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-shunning-middle-knowledge--202609111810"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "molinas-own-list-of-what-coheres-keeps-sovereignty-whole--202609090102"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-dispute-is-decided-by-which-residue-honours-god-more--202609081831"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820"
+        }
+      ],
+      "path": "permanent/ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823.md",
+      "slug": "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things",
+      "tags": [],
+      "title": "Ware makes God's agency asymmetrical, causing good and only occasioning evil, where Grudem has God cause all things and rests on Berkhof's mystery",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823.md"
+    },
+    {
+      "id": "202609111827",
+      "key": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudems-romans-8-28-comfort-is-bought-with-the-freedom--202609081646"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101"
+        },
+        {
+          "relation": "source",
+          "target_id": "ware-is-open-theism-evangelical--202609111814"
+        },
+        {
+          "relation": "source",
+          "target_id": "ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819"
+        }
+      ],
+      "path": "permanent/ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827.md",
+      "slug": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does",
+      "tags": [],
+      "title": "Ware states the foreknowledge-entails-fixity inference as open theism's own reasoning and answers it, as Grudem does, with Isaiah's test rather than by denying the entailment",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827.md"
+    },
+    {
+      "id": "202609111820",
+      "key": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815"
+        },
+        {
+          "relation": "source",
+          "target_id": "helm-shunning-middle-knowledge--202609111810"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818"
+        },
+        {
+          "relation": "source",
+          "target_id": "laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-grounding-objection-is-molinisms-own-unanswered-question--202609090104"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
+        },
+        {
+          "relation": "source",
+          "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        }
+      ],
+      "path": "permanent/wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820.md",
+      "slug": "wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance",
+      "tags": [],
+      "title": "Ware's compatibilist middle knowledge derives what a creature would do from its character and its circumstances, which is why the grounding objection does not reach it",
+      "type": "permanent",
+      "updated": "2026-09-11",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820.md"
     },
     {
       "id": "202609090103",

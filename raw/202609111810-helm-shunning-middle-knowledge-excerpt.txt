@@ -1,0 +1,70 @@
+Bounded excerpt capture of Paul Helm, "Shunning Middle Knowledge", Helm's Deep
+(paulhelmsdeep.blogspot.com), posted 2009-05-01T06:17:00Z according to the
+page's datePublished stamp,
+https://paulhelmsdeep.blogspot.com/2009/05/shunning-middle-knowledge.html,
+for reference helm-shunning-middle-knowledge--202609111810.
+Fetched 2026-09-11T18:02:27Z, HTTP 200, 137,220 bytes, from Blogger's own
+servers through this session's egress proxy; SHA-256 of the HTML as fetched
+b2ea182649fd474d258d5653e69f5aaa497628d6511002937ad48da4317947a1. The post
+text was taken from the page's "post-body" element by dropping tags and
+unescaping entities; whitespace runs collapsed; nothing else altered,
+including the post's own typographical slips. In that extraction the post is
+1,691 words.
+
+COPYRIGHT AND EXTENT. The post carries no licence statement. It is Paul
+Helm's own writing, in copyright, published by him on his own blog, so per
+this repository's excerpt policy for in-copyright web sources (the IEP
+capture of 2026-09-09 and the SEP captures of 2026-09-01 and 2026-09-04 are
+the precedents; the policy itself is the standing INBOX decision of
+2026-09-05, still unratified) this capture is BOUNDED EXCERPTS: five
+blocks, each a whole paragraph of the post, 728 words of 1,691
+(43 percent). NOT captured: the epigraph, Westminster Confession
+of Faith 3.2 (public domain; the same sentence is on file in the Van Horn
+capture of this date, block D); the opening paragraph, which names Frame and Feinberg as rumoured and
+Tiessen and Ware as avowed Calvinist adherents of middle knowledge, mentions
+Helm's conversation with Tiessen arising from Tiessen's 2007 Westminster
+Theological Journal article, and identifies the post's subject as Ware's
+God's Greater Glory (Crossway, 2004); the "Middle Knowledge" paragraph
+defining the doctrine and attributing it to Fonseca and Molina, with
+Arminius as its Protestant borrower; the paragraph arguing that middle
+knowledge "collapses" without the freedom of indifference; the first
+paragraph of "Enter Bruce Ware", which records Ware's explicit commitment to
+compatibilist freedom as revealed truth and his argument, likened to
+Jonathan Edwards's, that forms of incompatibilism are logically defective
+(GGG 78); the paragraph on
+Ware's use of middle knowledge for God's relation to evil (GGG 119f.); the
+paragraph on deliberation, "eternity past" and the charge of temporalism
+(GGG 120 fn. 12); and the paragraph on GGG 121 and 123 ("occasioning", the
+marionette). Notes cite those only as attributed summary and never quote
+them. Helm's citations "GGG <page>" are to Ware's God's Greater Glory, which
+is NOT on file in this repository; Ware's words in this capture are
+available only as Helm quotes them. Single-witness capture: the blog is the
+canonical publisher of this born-digital text, so quotations must match this
+capture verbatim.
+The post's own structure, recorded so that what is absent is visible:
+  (epigraph: Westminster Confession of Faith 3.2)
+  (opening paragraph)
+  Two preliminary points
+  Middle Knowledge
+  Enter Bruce Ware
+  (closing paragraph)
+
+===== BLOCK 1: "Two preliminary points", first paragraph: what Ware offers middle knowledge for =====
+
+Bruce Ware offers his thoughts about middle knowledge as a contribution to establishing and further understanding God’s asymmetrical attitude to good and evil. Although God works all things after the counsel of his own will, the way in which he works his will regarding evil is different from the way in which he works good, since being immaculately holy, he cannot be the author of sin, that is, he is incapable of having evil imaginations and wicked desires that immediately bring forth evil.
+
+===== BLOCK 2: "Two preliminary points", second paragraph: the Reformed replies to the charge of authoring sin, the element of mystery, and compatibilist middle knowledge as a way to mitigate it =====
+
+There is a long tradition in Reformed Theology of addressing this question, if only because the Reformed among all theological outlooks are the most frequently taxed with the objection that their views entail that God is the author of sin. Various responses have been offered; for example, that evil is a privation or loss and therefore that as a matter of metaphysical necessity God, who has fullness of being, cannot author evil; that God is a distinct type of causal agency, he is the primary cause, not to be confused with secondary, creaturely causes; and finally that God brings about evil by willingly permitting it. Each of these positions is repeated ad nauseam in the literature; they are not exclusive of each other, but can be combined to make a cumulative case against the charge of God’s authorship of evil. There remains, of course, an element of mystery, of how it is that the divine ordination meshes with human sin and evil. Augustine and Calvin, for example, routinely refer to the matter as ‘ineffable’. Bruce Ware, and others, offer 'Compatibilist Middle Knowledge' as one way in which such ineffability can be mitigated.
+
+===== BLOCK 3: "Enter Bruce Ware", second paragraph: what is left of middle knowledge once libertarian freedom is abandoned (GGG 112, 113-4, 114) =====
+
+Let us try to answer this first by seeing what according to Bruce Ware is left of middle knowledge. He notes that libertarian freedom is problematic. (GGG 112) But once we abandon libertarian freedom, according to Ware, and recognise that there is a necessary connection (that is, a causally necessary connection), ‘between knowledge of a given state of affairs and knowledge of what the agent would choose in that particular setting…’ then all is plain sailing; more light is immediately thrown on the meshing of sovereignty and responsibiity. For given this connectedness, ‘God could know what the agent would choose by knowing fully the circumstances in which the agent would make his choice’. (GGG 113-4) As Ware explains, ‘The set of factors in which the agent makes his choice constitutes a set of individually necessary and jointly necessary sufficient conditions for forming within the agent a strongest inclination or highest desire by which he then makes the one choice that is in accordance with that highest desire’. (GGG 114)
+
+===== BLOCK 4: "Enter Bruce Ware", third paragraph: why that is natural knowledge, and "muddle knowledge" (GGG 115, 115-9) =====
+
+But if God knows what Jones, if placed in circumstances C, would do, then this is surely part of God’s natural knowledge, his knowledge of all necessities and possibilities. Among these possibilities are segments like those described by Ware. Middle knowledge ‘works’ for the compatibilist, Ware says (GGG 115), but it only works because it is not genuine middle knowledge, a distinct type of divine knowledge, but part of God’s natural knowledge. It works precisely because it is not middle knowledge. The examples that he cites from Scripture (GGG115-9) are of God’s knowledge of unactualised possibilities, possibilities therefore that are counterfactual, but they are not counterfactuals of human (libertarian) freedom, and so are not middle knowledge at all. Ware can only be saying what he does because of an imperfect grasp of what the medieval theologians, and following them the Reformed and the Reformed Orthodox, have meant by God’s necessary knowledge. I fear that what results is not so much middle knowledge as muddle knowledge.
+
+===== BLOCK 5: the closing paragraph: the verdict, the three standard replies, and the mystery that remains =====
+
+The only kind of middle knowledge is that devised by Molina and his frères. There are no other kinds, and Ware’s attempt to show that there is another kind, compatibilist middle knowledge, and that it will help us deflecting from God the charge of being the author of evil, is consequently futile. There is divine counterfactual knowledge, knowledge of what might be and of what might have been, but that is part of God’s natural knowledge. And there remain the standard ways of parrying the charge of God and evil: evil as privation, primary and secondary causation, and the Augustinian idea of ‘willing permission’. But the mystery remains as well. Which is how we might expect things to be.

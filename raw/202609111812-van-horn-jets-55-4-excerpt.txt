@@ -1,0 +1,437 @@
+Bounded excerpt capture of Luke Van Horn, "On Incorporating Middle Knowledge
+into Calvinism: A Theological/Metaphysical Muddle?", Journal of the
+Evangelical Theological Society 55/4 (2012) 807-27, from the PDF that the
+Evangelical Theological Society posts in its open JETS archive,
+https://etsjets.org/wp-content/uploads/2013/02/files_JETS-PDFs_55_55-4_JETS_55-4_807-827_VanHorn.pdf,
+for reference van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812.
+Fetched 2026-09-11 (a first fetch through the session's page-fetch tool
+before 18:02:31Z, saved to disk; a second fetch by curl at 18:11:40Z through
+the session's egress proxy, HTTP 200, 1,309,867 bytes, byte-identical to the
+first), SHA-256 of the PDF
+866007f018a435510714bdbbc907da386949785d186d684b69f7f2464563cec1. Text was
+extracted from the PDF with PyMuPDF, page by page; the extractor's line
+breaks, end-of-line hyphenation, running heads and page numbers are kept as
+extracted, so a block is a contiguous run of the extraction and can contain
+the footnotes and running heads that fall inside it; the fi and fl ligature
+glyphs the extractor produces, where any, are replaced by their two-letter
+forms; nothing else altered. In that extraction the article is 11,895 words,
+footnotes included.
+
+COPYRIGHT AND EXTENT. The article is in copyright (the Society and the
+author); the Society itself posts the PDF openly. Per this repository's
+excerpt policy for in-copyright works served openly by their own publisher
+(the Behe and Craig captures are the precedents), this capture is BOUNDED
+EXCERPTS: ten blocks, 4,121 words of 11,895 (35 percent),
+each a passage the notes quote from. NOT captured: section I, "Preliminaries"
+(the definitions of incompatibilism, compatibilism, libertarianism,
+determinism and theological determinism, with the comments on them and
+footnotes 1-16); section II, "Middle Knowledge" (the exposition of Molina's
+three knowledges, the Peter example, and footnotes 17-23); the Turretin,
+Bavinck and Muller quotations in section III with footnotes 29-35 (Muller's
+point, that middle knowledge "is not a middle ground" but the Arminian and
+Jesuit position, is cited from here only as attributed summary); the
+premotion and causal-powers argument of section IV between the concession and
+the conclusion (footnotes 44-49); the rest of section V, "Modifying
+Calvinism" (Craig's suggestion, Hodge on concursus, the two ways to reject
+premotion, counterfactuals of creaturely randomness, Lewis and Fischer;
+footnotes 54-64); section VI, "Embracing the Impossible" (counterpossibles;
+footnotes 65-73); the second paragraph of the conclusion; and footnotes
+74-76. Notes cite those only as attributed summary and never quote them.
+Ware's words in this capture are available only as Van Horn quotes them
+(God's Greater Glory 114-15, 115 n. 10, 123-24), and Tiessen's likewise
+(Providence and Prayer 319; the 2009 WTJ conversation with Helm, 448 and
+450); neither book nor journal is on file here. Single-witness capture: the
+publisher's PDF; the printed journal was not consulted.
+The article's own section outline, recorded so that what is absent is visible:
+  (opening paragraph: the two theses)
+  I. Preliminaries
+  II. Middle Knowledge
+  III. Calvinist Middle Knowledge?
+  IV. The Confusion in Calvinist Middle Knowledge
+  V. Modifying Calvinism
+  VI. Embracing the Impossible
+  VII. Conclusion
+
+===== BLOCK A (p. 807): title, author and the opening paragraph stating the two theses =====
+
+JETS 55/4 (2012) 807–27
+ON INCORPORATING MIDDLE KNOWLEDGE INTO
+CALVINISM: A THEOLOGICAL/METAPHYSICAL MUDDLE?
+LUKE VAN HORN*
+As is well known, over the last thirty years or so there has been a revival of in-
+terest in the late medieval doctrine of divine scientia media, or middle knowledge,
+amongst philosophers of religion and theologians.1 Surprisingly, among theologians
+some of the more enthusiastic proponents of this doctrine are theological deter-
+minists. This has led to some controversy over whether or not theological deter-
+minism (hereafter TD) is consistent with middle knowledge (hereafter MK). As a
+result of this controversy, some former theological determinist proponents of MK
+are now renouncing the doctrine. In this paper, I will argue that both sides to this
+controversy are correct. More exactly, I will attempt to establish two theses: (1) if
+one assumes traditional Calvinism and the standard account of the truth conditions
+for counterfactuals, TD is inconsistent with MK; (2) nevertheless, there are at least
+prima facie ways of coherently combining Calvinism with MK. The former claim is
+not original, as several recent authors have also argued for it. However, in my opin-
+ion, these arguments need to be made more clearly. The way in which I advance
+the latter claim, on the other hand, is original. I shall not pretend to be comprehen-
+sive, but rather, will broadly sketch two such ways one might try to effect the har-
+monization.
+
+===== BLOCK B (pp. 812-813, with footnotes 24-28): section III, "Calvinist Middle Knowledge?": Tiessen, Ware and Feinberg, and the picture that emerges =====
+
+III. CALVINIST MIDDLE KNOWLEDGE?
+No doubt (at least partially) spurred by the controversy over open theism,
+many Calvinists have recently devoted much thought to God’s knowledge and its
+relation to divine providence. Surprisingly, some have concluded that God has MK.
+Terrence Tiessen may be the most prominent of these theologians. After rejecting
+attempts to base providence upon simple foreknowledge, he claims:
+The situation is not improved by positing that God’s knowledge of the future
+is … the knowledge of his own will, that is, the knowledge of the future that will
+be what it is because he has decided that it should be so. Without middle
+knowledge I cannot conceptualize God’s decision as either wise or cognizant of
+the freedom of his creatures. If God simply decided the future in one logical
+moment without regard to the possible responses of creatures to his own initia-
+tives and the wisest responses that he could make to those creaturely decisions,
+then any appearance of significance in those human decisions is thoroughly illu-
+sory. For these reasons I am convinced that God has middle knowledge, under-
+stood as his knowledge of all future counterfactuals. He is able to know this be-
+cause his moral creatures are voluntarily but not indeterministically free.25
+Thus, Tiessen is claiming that God has middle knowledge, but, contrary to Molin-
+ism, compatibilism is true.
+Tiessen is no lone radical. Other theologians with impeccable Reformed cre-
+dentials agree. Bruce Ware, for example, claims that God cannot have “libertarian
+
+24 It is inaccurate to say that MK is knowledge of “all counterfactual states-of-affairs,” as Travis
+James Campbell does in his “Middle Knowledge: A Reformed Critique,” WTJ 68 (2006) 3. Many coun-
+terfactuals are included in either natural or free knowledge. If God were to create a Martian, it would be a
+temporal being is a necessarily true counterfactual (and so known naturally), whereas If Calvin had been an
+Israelite, he would have been a member of God’s chosen people is contingently true, since it is true only because
+God chose the Israelites (and hence is known freely).
+25 Terrance Tiessen, Providence & Prayer: How Does God Work in the World? (Downers Grove: Inter-
+Varsity, 2000) 319.  For his entire “Middle Knowledge Calvinist” model of providence, see 289–362.
+See also his article “Why Calvinists Should Believe in Divine Middle Knowledge, Although They Reject
+Molinism,” WTJ 69 (2007) 345–66.
+
+
+ON INCORPORATING MIDDLE KNOWLEDGE INTO CALVINISM
+813
+middle knowledge,” for there could be no true CCFs if libertarianism were true.26
+Nevertheless, God does have “compatibilist middle knowledge.”
+What is different about this understanding of middle knowledge is that since
+freedom means that we always do what we most want, and since what we “most
+want” is shaped by the set of factors and circumstances that eventually give rise
+to one desire that stands above all others, therefore God can know the circum-
+stances giving rise to our highest desires, and by knowing these, he can know
+the choice that we would make, given those particular circumstances. What the
+Molinist version of middle knowledge lacked—viz., a necessary connection be-
+tween knowledge of the circumstances within which an agent makes his choice
+and knowledge of just what choice the agent would make—is here remedied by
+the replacement of libertarian freedom with compatibilist freedom. So, as a re-
+sult, middle knowledge is explicable and it “works” when compatibilist freedom
+is employed, in a way that it does not with libertarian freedom.27
+John Feinberg concurs. After endorsing the grounding objection, he explains that
+“if one holds some form of determinism as I do, there is no reason to deny that
+God has middle knowledge of what humans would do (compatibilistically)
+freely.”28
+The picture that emerges from these theologians is something like the follow-
+ing. God, prior to creating the universe, had two kinds of knowledge, natural and
+middle. His middle knowledge consists of his knowledge of how creatures would
+be causally determined to act freely if placed in various possible circumstances.
+God knows that if he were to create a deterministic world, then his creatures would
+be caused to act in certain ways, but this is compatible with their acting freely. Thus,
+God has middle knowledge of CCFs. Desiring that his creatures act freely most of
+the time and also that his providential purposes be realized, he made use of this
+knowledge when he decided which possible world to actualize. Knowing what his
+creatures would do freely in any circumstance in which he could place them, he
+chose a world in which he knew his creatures would freely do what he wanted done.
+
+26 His reason for this is the so-called “grounding objection,” one of the standard objections to Mol-
+inism. In brief, the objection is that there does not seem to be any “ground” for, anything to make true,
+CCFs. For a now-classic presentation of this objection, see Robert M. Adams, “Middle Knowledge and
+the Problem of Evil,” American Philosophical Quarterly 14 (1977) 109–17; repr. in Middle Knowledge: Theory
+and Applications (ed. William Hasker, David Basinger, and Eef Dekker; Frankfurt am Main: Peter Lang,
+2000) 35–50. Tiessen endorses this objection in his “Why Calvinists Should Believe in Divine Middle
+Knowledge” 350. For a thorough evaluation of this objection, see Jennifer Jensen, “The Grounding
+Objection to Molinism” (Ph.D. diss., University of Notre Dame, 2008).
+27 Bruce A. Ware, God’s Greater Glory: The Exalted God of Scripture and the Christian Faith (Wheaton:
+Crossway, 2004) 114–15. For his entire “compatibilist middle knowledge” account of providence, see
+110–30. See also his “Robots, Royalty and Relationships?” and his “A Modified Calvinist Doctrine of
+God,” in Perspectives on the Doctrine of God: 4 Views 76–120.
+28 John S. Feinberg, No One Like Him: The Doctrine of God (Wheaton: Crossway, 2001) 752. Cf. Mil-
+lard J. Erickson, God the Father Almighty: A Contemporary Exploration of the Divine Attributes (Grand Rapids:
+Baker, 1998) 207, n. 41. Kenneth Perszyk also argues for the consistency of compatibilism and MK, but
+he presupposes a different notion of determinism than I, Tiessen, Ware, Feinberg, and Erickson do.  See
+Kenneth J. Perszyk, “Molinism and Compatibilism,” International Journal for Philosophy of Religion 48 (2000)
+11–33.
+
+814
+JOURNAL OF THE EVANGELICAL THEOLOGICAL SOCIETY
+
+===== BLOCK C (p. 814): how surprising and odd the claims are; ends where the Turretin quotation begins, which is not captured =====
+
+It is worth pointing out just how surprising and odd the claims of these Cal-
+vinists are. Historically, middle knowledge has been a fundamental philosophical
+assumption of Calvinism’s theological arch-nemesis, Arminianism. The controversy
+over MK in the Roman Catholic Church was known by Arminius, and he incorpo-
+rated many of Molina’s views into his own system, bequeathing them to his theo-
+logical heirs.29
+Furthermore, Calvinism has historically been quite emphatic in its rejection of
+middle knowledge. Francis Turretin, for example, claims that:
+
+===== BLOCK D (p. 815): the Westminster Confession, the break with the tradition, and the question whether the position reduces to Calvinism =====
+
+The Calvinist rejection of MK even has confessional status. The Westminster Con-
+fession declares, “Although God knows whatsoever may or can come to pass, upon
+all supposed conditions; yet hath he not decreed any thing because he foresaw it as
+future, as that which would come to pass, upon such conditions.”34 Thus, Tiessen,
+Ware, and others, are breaking with their tradition by affirming that God has mid-
+dle knowledge, a doctrine which has been consistently rejected by Calvinists from
+the sixteenth century to today.35
+Or are they? The above-cited Calvinists claim that God does not have middle
+knowledge of CCFs, understood in an incompatibilist sense. But of course Tiessen
+and company deny this as well. Rather, they argue that God has “compatibilist
+middle knowledge.” Hence, they would claim not to have left the Calvinist fold.
+Perhaps not. But one wonders whether retaining their Calvinist credentials by af-
+firming compatibilism requires abandoning the claim that God has MK. In other
+words, is “compatibilist middle knowledge” or “Middle Knowledge Calvinism” a
+coherent position, or does it reduce to Calvinism simpliciter?
+
+===== BLOCK E (pp. 815-817, with footnotes 36-42): section IV, "The Confusion in Calvinist Middle Knowledge", through Tiessen's and Ware's concession =====
+
+IV. THE CONFUSION IN CALVINIST MIDDLE KNOWLEDGE
+Middle Knowledge Calvinism appears to be confused. Its adherents claim that
+God has middle knowledge, and yet also claim that human actions are causally de-
+termined, either by God or other secondary causes. Moreover, they appear to be-
+lieve that determinism is a necessary truth. Conjoined, these claims entail that
+God’s knowledge of how creatures would freely act in various circumstances is part
+of either his natural or free knowledge. Recall that MK is not simply God’s
+
+33 Richard A. Muller, “Grace, Election, and Contingent Choice: Arminius’s Gambit and the Re-
+formed Response,” in Historical and Theological Perspectives on Calvinism 265–66. Cf. James R. White, The
+Potter’s Freedom (Amityville, NY: Calvary, 2000) 34, where he suggests that not only cannot a Calvinist
+believe that God has middle knowledge, but anyone who does so is not even a genuine Protestant! In
+other work, Muller has cited a number of Calvinist and Arminian Latin treatises extensively debating
+MK. See his The Divine Essence and Attributes 419–20. Given the current controversy over MK, English
+translations of these works would no doubt be met with great interest (I, for one, would love to read
+William Twisse’s anti-Molinist Dissertatio de scientia media tribus libris absoluta [1639]).
+34 Westminster Confession of Faith, III.2.
+35 In addition to Muller and White, contemporary Calvinists who reject middle knowledge include
+Crabtree, “Problem of Divine Sovereignty”; Paul Helm, “The Augustinian-Calvinist View,” in Divine
+Foreknowledge: Four Views (ed. James K. Beilby and Paul R. Eddy; Downers Grove: InterVarsity, 2001)
+175; R. K. McGregor Wright, “The Mystery of Middle Knowledge,” Journal of Biblical Apologetics 2/1
+(Spring 2001) 37–58; Campbell, “Middle Knowledge: A Reformed Critique”; Paul Kjoss Helseth, “God
+Causes All Things,” in Four Views on Divine Providence (ed. Dennis W. Jowers; Grand Rapids: Zondervan,
+2011) 25–52; Ron Highfield, “God Controls by Liberating,” in Four Views on Divine Providence 141–64.
+
+816
+JOURNAL OF THE EVANGELICAL THEOLOGICAL SOCIETY
+knowledge of CCFs. Historically, very few have denied that God has such
+knowledge. Molina’s Thomist opponents, all of whom were theological determin-
+ists, agreed that God had such knowledge.36 Classical Calvinists have also held this.
+Bavinck, for example, explains, “Now with respect to this middle knowledge the
+question is not whether things … are not frequently related to each other by some
+such conditional connection, one that is known and willed by God himself. If this
+is all it meant, it could be accepted without any difficulty.”37 Similarly, Richard Bax-
+ter says, “And that God knoweth from Eternity the truth of all conditional propositions
+that are true, is past all doubt, If we may suppose that God had eternal propositions.
+No doubt but he knoweth now that such propositions are true. [If such causes be put,
+they will or will not produce this or that as the effect.]”38
+What distinguishes middle knowledge from natural and free knowledge is that
+its contents are known independently of God’s decree, like natural knowledge, but
+are contingently true, like free knowledge. If God’s knowledge of CCFs is to be
+middle, then they cannot be either necessary or contingently true due to God’s
+decree.
+Tiessen and Ware have both attempted to supply reasons for thinking that
+CCFs are not known through either God’s natural or free knowledge. Tiessen has
+argued that:
+In God’s natural knowledge, he has the knowledge of logical relations, causal re-
+lationships, and so on, that grounds his more particular knowledge in the middle
+stage. But it is only when God begins to contemplate the creation of a world
+with various kinds of creatures that he has reason to assess how such world his-
+tories might come out, and then he considers what it would take to bring a par-
+ticular man like Joseph into Egypt in a situation where God would be able to
+provide a context for the development of the covenant people as a nation.39
+The problem with this suggestion is that if determinism is a necessary truth,
+then God’s knowledge of “world histories” just is his knowledge of logical and
+causal relations. Thus, if God comes to know CCFs in contemplating world histo-
+ries, then CCFs are contained in his natural knowledge. Similarly, Ware claims that:
+middle knowledge is grounded on four things that God knows prevolitionally: 1)
+God’s perfect knowledge, in his own mind’s eye, of the character of the moral
+individual … 2) God’s knowledge of every factor present in any given possible
+setting in which he envisions this individual making a choice; 3) God’s
+knowledge of just how each unique set of factors, in each unique situation,
+
+36 Flint, Divine Providence 86. Strictly speaking, Molina’s Thomist opponents would have denied being
+theological determinists, since neither God nor secondary causes determine our sinful actions. Whether
+their claim is coherent I shall leave to others to decide. See, e.g., Freddoso, “Introduction” 39–42.
+37 Bavinck, God and Creation 200.
+38 Richard Baxter, Catholick Theologie: Plain, Pure, Peaceable: For Pacification of the Dogmatical Word-
+Warriours (London: Robert White, 1675) part I, sec. 12, par. 255 (42), http://books.google.com/
+books?id=dbnmAAAAMAAJ&printsec=frontcover&dq=richard+baxter+catholick+theologie&hl=en
+&sa=X&ei=OTkjT86pKMrUiAKKwq3ABw&ved=0CEYQ6AEwAQ#v=onepage&q&f=false.
+The strange punctuation is in the original. For a contemporary Calvinist recognition of this point, see
+Helm, “An Augustinian-Calvinist Response,” in Divine Foreknowledge: Four Views 155.
+39 Tiessen, “Why Calvinists Should Believe in Divine Middle Knowledge” 365.
+
+
+ON INCORPORATING MIDDLE KNOWLEDGE INTO CALVINISM
+817
+would work, along with the character of the individual, to produce one strongest
+inclination within the individual, for each unique situation so envisioned; and 4)
+God’s knowledge of just what choice the individual would in fact make, given
+the nature of his own character, the relevant factors involved in the particular
+setting in which he would make this choice, and the strongest inclination that
+would arise within him given this complete set of factors, giving rise in turn to
+this one (and only one) choice.40
+The basic idea is that by knowing every possible person’s character, every
+possible situation a person could be placed in, and what those situations would
+causally determine the person to most desire to do (and hence act on that desire),
+God can derive his knowledge of CCFs. But if God really can derive which CCFs
+are true in this way, then once again CCFs are included in his natural knowledge,
+since they would be necessary truths.
+Surprisingly, in the face of criticism (primarily by Paul Helm),41 both Tiessen
+and Ware have come to agree with the above reasoning that CCFs are part of
+God’s natural knowledge. In a paper co-authored with Helm, Tiessen explains that
+“Reflection on Professor Helm’s recent comments has finally brought me to the
+conclusion that he is correct on this point. God’s knowledge of counterfactuals is
+not different from his knowledge of possibilities; it is therefore part of his neces-
+sary knowledge.”42
+Have Tiessen and Ware shifted from error to the truth? Are they correct to
+now consider CCFs to be included in God’s natural knowledge? It all depends.
+They are definitely right, given their other beliefs, to have abandoned the idea that
+God has MK of CCFs. However, it is not obvious that CCFs are contained in his
+natural rather than free knowledge. Depending on how one thinks about the cir-
+cumstances reported in the antecedents of CCFs, they can be equally well thought
+to be either natural or free. To see this, I will have to explain more carefully than
+previous critics why God cannot have MK of CCFs if one assumes classical Calvin-
+ism.43
+First, consider divine concurrence. According to this doctrine, no secondary
+cause can cause an effect unless God concurs with the cause’s exercise of causal
+power. Historically, this has been interpreted by theological determinists to mean
+
+40 Ware, God’s Greater Glory 115, n. 10.
+41 But see also Werther, “Calvinism and Middle Knowledge.”
+42 Paul Helm and Terrance L. Tiessen, “Does Calvinism Have Room for Middle Knowledge? A
+Conversation,” WTJ 71 (2009) 448. Cf. Paul Helm, “Classical Calvinist Doctrine of God,” in Perspectives
+on the Doctrine of God: 4 Views 41–47 and Bruce A. Ware, “Response by Bruce A. Ware,” in Perspectives on
+the Doctrine of God: 4 Views 74. Ware still wants to hang onto the term “middle knowledge” as a label of a
+useful subset of natural knowledge, but this is clearly a misuse of the term that will inevitably lead to
+confusion.
+
+===== BLOCK F (pp. 819-820, with footnotes 50-53): the conclusion of the argument, and Tiessen's lesson =====
+
+I conclude from this discussion that Calvinist proponents of MK are con-
+fused. They affirm that God knows what any creature would freely do in any possi-
+ble circumstance in which it can be placed. But of course, this has always been af-
+
+48 Cf. Perszyk, “Molinism and Compatibilism” 26–27.
+49 van Inwagen, An Essay on Free Will 126–50. He chose this label because the argument has been
+presented and defended several times in the journal Mind.
+50 Tiessen, Providence and Prayer 312–14; Ware, God’s Greater Glory 85–88; and John S. Feinberg, “God
+Ordains All Things,” in Predestination and Free Will: Four Views of Divine Sovereignty and Human Freedom (ed.
+David Basinger and Randall Basinger; Downers Grove: InterVarsity, 1986) 35–37. This type of argu-
+ment against libertarianism has a long history in the Calvinist tradition, expressed most famously in
+Jonathan Edwards’s Freedom of the Will (ed. Paul Ramsey; New Haven: Yale University Press, 1957) part 2,
+section 6, “Liberty of Indifference, Not Only Not Necessary to Virtue, But Utterly Inconsistent with It”
+320–27.
+51 C must be understood not to include anything like God’s intention to miraculously prevent Peter
+from performing A. If God did have such an intention, then Peter would not be in C at all but rather a
+distinct circumstance C*.
+
+820
+JOURNAL OF THE EVANGELICAL THEOLOGICAL SOCIETY
+firmed by the majority of Christian theologians and philosophers. What makes
+these Calvinist claims distinctive is that they appear to think that if God knows this,
+then he has middle knowledge. But as I have explained, knowledge of CCFs is not
+sufficient for MK. Furthermore, Tiessen and Ware’s recent capitulation is also con-
+fused, since it is not necessary to think of CCFs as included in natural knowledge.
+Rather, even given classical Calvinist views about freedom and concurrence, CCFs
+could still be considered as part of God’s free knowledge.52 But while CCFs may be
+either natural or free, they cannot be middle, given classical Calvinism.
+Tiessen has drawn from this the lesson that the doctrine of MK is false:
+“What I had failed to see, during that time, was that the sole rationale for positing
+middle knowledge is to give room for libertarian creaturely freedom as a fact of the
+world God chooses to actualize. I now believe that rejection of the Molinist con-
+struction because of its faulty understanding of freedom also entails rejection of the
+concept of divine middle knowledge.”53
+Unfortunately, this is yet another error on Tiessen’s part. Rejection of liber-
+tarianism does not require rejection of MK. I can think of several ways in which
+Calvinism and MK might both be true. Reconciling the two requires endorsing
+controversial theological and/or philosophical positions, but when has that
+stopped anyone concerned with the nature of divine sovereignty, providence, pre-
+destination, and so forth? In what follows, I sketch two broad ways one might try
+to embrace both Calvinism and MK.
+
+===== BLOCK G (pp. 821-822, with footnotes 55-58): Ware on "occasioning" rather than causing evil (God's Greater Glory 123-24), and Van Horn's reading of it =====
+
+I do not know what Feinberg thinks about concurrence, but this suggestion
+should be acceptable to Ware. In his book God’s Greater Glory, he explicitly rejects
+the traditional Calvinist claim that God causes human sinful actions. While he is
+eager to affirm that God causes good actions and is sovereign over evil, the idea
+that he causes evil actions is difficult to square with divine goodness.58
+Perhaps we should think of God’s regulating the factors of a situation, then, as
+“occasioning” a particular choice to be made, rather than as “causing” a particu-
+lar choice to be made. Because God knows the natures of each person perfectly,
+he knows how those natures will respond to particular sets of factors presented
+
+55 Alvin Plantinga, “Materialism and Christian Belief,” in Persons: Human and Divine (ed. Peter van
+Inwagen and Dean Zimmerman; Oxford: Clarendon, 2007) 132.
+56 Hodge, Systematic Theology 604. Calvinist Paul Helm has also been critical of the doctrine of con-
+currence. See Helm, The Providence of God (Downers Grove: InterVarsity, 1994) 177–82.
+57 Freddoso, “Introduction” 18.
+58 To say the least. See Jerry Walls, “Why No Classical Theist, Let Alone Orthodox Christian,
+Should Ever Be a Compatibilist,” Philosophia Christi 13/1 (2011) 75–104.
+
+822
+JOURNAL OF THE EVANGELICAL THEOLOGICAL SOCIETY
+to them. Thus, without causing a person to do evil, he nonetheless controls the
+evil they do. He controls whether evil is done, what evil is done, and in any and
+every case he could prevent the evil from being done. But in no case does he
+cause the evil to be done.59
+Ware says that God does not “cause” evil actions, so it is possible that he
+wants to reject TD in general. However, he endorses the Mind argument and so
+thinks that all free actions, both good and evil, are caused by prior factors, and
+these may result in a causal chain which can be traced back to God. Rather, the
+context makes clear that he is rejecting the idea that God pre-moves his creatures
+to sin (although he does not use that term).
+
+===== BLOCK H (p. 822): footnote 59 =====
+
+59 Ware, God’s Greater Glory 123–24. Tiessen approvingly quotes this passage in his “Why Calvinists
+Should Believe in Divine Middle Knowledge” 348, n. 12. Helm sketches a similar view in his “God
+Does Not Take Risks,” in Contemporary Debates in Philosophy of Religion (ed. Michael L. Peterson and Ray-
+mond J. VanArragon; Malden, MA: Blackwell, 2004) 232–34.
+
+===== BLOCK I (pp. 826-827): section VII, "Conclusion", first paragraph =====
+
+VII. CONCLUSION
+In this paper, I have argued that while those Calvinists who claim that God
+has middle knowledge are confused, their claim may be correct. I have offered two
+ways in which one might attempt to combine Calvinism with a belief in middle
+knowledge, by modifying Calvinism’s claims concerning concurrence and freedom,
+or by altering/rejecting the standard account of the truth conditions for counterfac-
+tual propositions. Either way, Calvinists can appropriate at least some of Molina’s
+genius without having to sacrifice Calvinism.
+
+72 For those who think Frankfurt cases show that one does not have to be able to do otherwise in
+order to be free, we can stipulate that there is nothing in C that prevents Peter from refraining from
+performing A.
+73 Of course, as pointed out in note 23, there are other reasons having nothing to do with free will
+for suggesting that God has MK. For example, one might argue that in order for God to providentially
+govern indeterministic quantum events, he must have MK of counterfactuals of quantum activity (such
+as “If this uranium atom were in circumstance C, it would spontaneously decay at time t”). Some phi-
+losophers of religion have made mistakes similar to Tiessen’s. See, for example, Edwin Mares and Ken
+Perszyk, “Molinist Conditionals,” in Molinism: The Contemporary Debate 96.
+
+
+ON INCORPORATING MIDDLE KNOWLEDGE INTO CALVINISM
+
+===== BLOCK J (p. 827): the paragraph on what the Calvinist would have to abandon =====
+
+Nevertheless, if a Calvinist agrees with my reasoning, then she would need to
+abandon the objection, presented above by Bavinck, that Molinists are sacrificing
+the aseity or pure actuality of God.74 Moreover, the grounding objection would also
+have to be abandoned.75 If these objections reveal problems for Molinism, then
+they also do so for any version of TD that incorporates MK. Indeed, if my reason-
+ing in section six is correct, then even if the libertarian understanding of freedom is
+necessarily false, divine omniscience still entails that God has knowledge of contin-
+gent propositions whose truth he did not decree.76

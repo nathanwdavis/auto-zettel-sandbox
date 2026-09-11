@@ -1,0 +1,334 @@
+Bounded excerpt capture of John D. Laing, "The Compatibility of Calvinism and
+Middle Knowledge", Journal of the Evangelical Theological Society 47/3
+(September 2004) 455-67, from the PDF that the Evangelical Theological
+Society posts in its open JETS archive,
+https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-3_47-3-pp455-467_JETS.pdf,
+for reference laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813.
+Fetched 2026-09-11T18:04:11Z by curl through this session's egress proxy
+(an earlier attempt without a browser user-agent string was refused with
+HTTP 403), HTTP 200, 87,052 bytes; SHA-256 of the PDF
+8e58b4c2510344e591576235b8d743d54ad8140b14475cd3366ebde5c519cd67. Text was
+extracted from the PDF with PyMuPDF, page by page; the extractor's line
+breaks, end-of-line hyphenation, running heads and page numbers are kept as
+extracted, so a block is a contiguous run of the extraction and can contain
+the footnotes and running heads that fall inside it; the fi and fl ligature
+glyphs the extractor produces are replaced by their two-letter forms; nothing
+else altered. In that extraction the article is 7,581 words, footnotes
+included. The author is the John D. Laing whose IEP entry "Middle Knowledge"
+is on file as reference 202609090051; the article's author note places him
+at Southwestern Baptist Theological Seminary.
+
+COPYRIGHT AND EXTENT. The article is in copyright (the Society and the
+author); the Society itself posts the PDF openly. Per this repository's
+excerpt policy for in-copyright works served openly by their own publisher,
+this capture is BOUNDED EXCERPTS: ten blocks, 3,032 words of 7,581
+(40 percent), each a passage the notes quote from. NOT captured: the
+rest of section I (the definitions of libertarian and compatibilist freedom,
+with Feinberg's "nonconstraining" causes); section II, "The Doctrine of
+Middle Knowledge" (natural, free and middle knowledge, and Basinger on the
+limits of divine power in a Molinist providence, footnotes 3-9); the
+paragraphs of section III on Tiessen's charge that libertarian choice is
+arbitrary and on Crabtree's and Feinberg's versions of it (footnotes 12-14,
+including the long footnote 13 on Crabtree's "official" and "covert"
+accounts of Molina); footnotes 15-18 (Feinberg on the senses of "can",
+Tiessen, and the Adams and Hasker references); and footnote 22, on
+Crabtree. Notes cite those only as
+attributed summary and never quote them. Ware appears in this article only
+by report: footnote 11 records that he "claimed to hold to a Calvinistic
+Middle Knowledge position" at a 2000 Evangelical Philosophical Society
+session and confirmed it in conversation, and the main text that he "has
+also noted that he finds the grounding objection to be convincing"; no work
+of Ware's is cited, and none is on file here. Single-witness capture: the
+publisher's PDF; the printed journal was not consulted.
+The article's own section outline, recorded so that what is absent is visible:
+  I. Introduction
+  II. The Doctrine of Middle Knowledge
+  III. A Calvinist Middle Knowledge Account? A Molinist Compatibilist Account?
+  IV. Conclusion
+
+===== BLOCK A (p. 455): title, author and the opening paragraph =====
+
+JETS 47/3 (September 2004) 455–67
+THE COMPATIBILITY OF CALVINISM
+AND MIDDLE KNOWLEDGE
+john d. laing*
+i. introduction
+The doctrine of middle knowledge has seen a revival of interest in the
+last twenty years, primarily among philosophers of religion.1 However, it
+has recently enjoyed much attention in theological circles as well. More and
+more Calvinist thinkers are attempting to incorporate middle knowledge
+into their systems of thought. In this paper, I hope to evaluate the prospects
+of this endeavor. That is, I hope to determine whether or not a compatibilist
+view of freedom (as opposed to a libertarian view of freedom) can be recon-
+ciled with the doctrine of middle knowledge.
+In order to prosecute this agenda, I will begin with a brief look at the ba-
+sic differences between libertarianism and compatibilism and follow with a
+brief discussion of the doctrine of middle knowledge. I will then move to an
+examination of how it may be incorporated into a Calvinistic model of divine
+providence, using Terrance Tiessen’s Calvinistic Middle Knowledge Account
+as representative of the effort to wed the two systems of thought.
+
+===== BLOCK B (p. 459, with footnotes 10-11): section III: Tiessen's model, and Feinberg and Ware as fellow claimants =====
+
+Terrance Tiessen has recently argued for what he calls a middle knowl-
+edge Calvinist model of divine providence. He accepts that God possesses
+knowledge of how non-actual states of affairs would have been actualized;
+that is, he claims that God does have knowledge of counterfactuals. It is this
+knowledge which Tiessen equates with middle knowledge. For example,
+Tiessen writes, “I am particularly impressed with the significance of God’s
+knowledge of what would have happened in situations that never actually
+occur (counterfactuals). The most enthusiastic proponents of this concept
+have been found in the Molinist model, which called it ‘middle knowledge.’
+I am somewhat reluctant to use the term to describe my own position be-
+cause it is usually associated with a commitment to libertarian freedom.
+However, it is a simple handle to refer to the concept of God’s knowledge of
+counterfactuals of human freedom, and I will use it in my own model even
+though I do not believe human freedom to be libertarian.”10 In a similar fash-
+ion, compatibilists John Feinberg and Bruce Ware have also claimed that
+God possesses middle knowledge.11
+Tiessen clearly sees his own position as a compatibilist position in op-
+position to libertarianism, for he derides libertarian freedom as radically
+indeterministic and arbitrary. He notes that most libertarians claim that rea-
+sons do exist for why any given individual chose any given course of action,
+9 Ibid. 62.
+10 Terrance Tiessen, Providence and Prayer: How Does God Work in the World? (Downers Grove:
+InterVarsity, 2000) 290.
+11 It should be noted that while Feinberg is skeptical about the value of such knowledge, Ware,
+like Tiessen, seems to believe it to be quite promising. See Feinberg, “God Ordains All Things” 34.
+Ware claimed to hold to a Calvinistic Middle Knowledge position at the EPS session (2000 annual
+meeting, Nashville, TN) which discussed the book, Divine Foreknowledge: Four Views (ed. James
+Beilby and Paul Eddy; Downers Grove: InterVarsity, 2001) and has confirmed this in personal
+conversation.
+
+===== BLOCK C1 (p. 462): the grounding objection accepted by the compatibilists, Ware among them; ends at the page break, before footnotes 15-18 (not captured) =====
+
+Nevertheless, this view of libertarian freedom has led many compatibil-
+ists who are intrigued by middle knowledge to accept the grounding objec-
+tion—the argument that counterfactuals of creaturely freedom cannot be
+true, because nothing can be pointed to which grounds their truth. Feinberg
+approvingly cites Robert Adams’s article, which presents a version of the
+grounding objection to the truth of counterfactuals of (libertarian) crea-
+turely freedom.18 Ware has also noted that he finds the grounding objection
+to be convincing, and Tiessen seems to tacitly agree that a real problem exists
+for the grounding of the truth of counterfactuals of libertarian creaturely
+freedom. In response to the claims of Basinger regarding the limitations on
+God in a Molinist system, Tiessen writes, “His criticisms of that model [Mo-
+linism] are justified, but they do not apply to my own compatibilist model,
+which puts together divine knowledge of the outcome of hypothetical situa-
+
+===== BLOCK C2 (p. 463): the continuation, and the question what grounds a counterfactual of compatibilist freedom =====
+
+tions and human freedom of a voluntary type.”19 In other words, Tiessen does
+not believe that God is limited by the counterfactuals of compatibilist crea-
+turely freedom in his own system in the same way that he is limited by the
+counterfactuals of libertarian freedom in the traditional Molinist system.
+How, though, can Tiessen (and other compatibilists who make use of middle
+knowledge) escape this supposed weakness of the Molinist model? How can
+they overome the force of the grounding objection and others like it? What
+can ground the truth of counterfactuals of compatibilist creaturely freedom?
+
+===== BLOCK D (pp. 463-464, with footnotes 19-21): counterfactual (1) and the problem it reveals =====
+
+It seems that few options are open to the Calvinist Molinist. In order to
+investigate these questions, consider the following counterfactual:
+(1) If John were offered an extra night’s stay for free, he would (freely)
+decline.
+Is this true? Probably so—I am inclined to think that I would, indeed, de-
+cline the offer of a free night’s stay because my plane tickets are set and I
+traveled here on Permissive TDY with the United States Army [I was mo-
+bilized for Operation Noble Eagle]. However, perhaps I would accept. My lack
+of epistemic confidence, however, should not detract from the truth or fal-
+sity of the proposition under consideration. Let us suppose that (1) is true.
+The proponent of middle knowledge must claim that (1) was true prior to
+the creation of the world. After all, the content of middle knowledge informs
+God’s decision about what sort of world he will actualize. We must ask if the
+moderate Calvinist can make this claim. It seems that a moment’s reflection
+will lead us to conclude that she can. It may be the case that God deter-
+mined (1) to be true from all eternity. He may have determined to create a
+world where I, if offered, would decline a free night’s stay.
+However, this reveals the problem with the Calvinist Molinist approach,
+for the proponent of middle knowledge must make the further claim that the
+truth of (1) is in no way dependent upon the will of God. Can the moderate
+Calvinist make this claim as well? She may be able to, but it seems that she
+would be reluctant to do so, for most Calvinists want to claim that God
+is able to work in such a way as to bring about his will through the free
+actions of creatures, even if the creatures do not want to perform the re-
+quired action(s).20 Feinberg writes,
+God can guarantee that his goals will be accomplished freely even when someone
+does not want to do the act, because the decree includes not only God’s chosen
+ends but also the means to such ends. Such means include whatever circum-
+stances and factors are necessary to convince an individual (without constraint)
+that the act God has decreed is the act she or he wants to do. And, given the
+sufficient conditions, the person will do the act.21
+19 Tiessen, Providence and Prayer 316–17. It should be noted that Basinger does not mean his
+comments to be seen as a criticism of Molinism.
+20 Hence, Tiessen’s confidence regarding the strength of his position as opposed to the libertar-
+ian Molinist position.
+21 Feinberg, “God Ordains All Things” 26.
+
+journal of the evangelical theological society
+464
+
+===== BLOCK E (p. 464): Feinberg's knowledge is free knowledge, and the fundamental difference between the two views of freedom; ends where footnote 22 (on Crabtree, not captured) begins =====
+
+Feinberg goes on to note that in his view of providence, the basis for God’s
+sovereign decisions is his good pleasure and purposes and not what he fore-
+sees (and presumably, not what he sees via middle knowledge). Obviously,
+then, Feinberg does not really hold to a form of Calvinist Middle Knowledge
+and his use of the phrase, middle knowledge, only refers to a divine knowl-
+edge of counterfactuals which is not prevolitional. But this is not middle
+knowledge at all! Rather, it is merely a part of God’s free knowledge! Inter-
+estingly, Molina’s chief opponent, Domingo Bañez, also held to a belief that
+God knows all true counterfactuals of freedom (which are true in virtue of
+an act of his will).
+Thus, it seems that the fundamental difference between the compatibil-
+ist and the libertarian views of freedom, at least as viewed by many com-
+patibilists, has to do with the relationship between the creaturely will and
+God’s work in creation. Consider, again, (1). In the situation described, I could
+either accept or decline the offer. That is, either (1) is true, or “(2) If John
+were offered an extra night’s stay for free, he would (freely) accept” is true.
+Again, suppose that (1) is true. Many compatibilists claim that (1) is true
+because God created my will in such a way that I would freely choose to de-
+cline instead of accept. The point in calling the choice free is that the choice
+was self-determinative; I chose to decline freely, but in accordance with how
+my will was created to function. My will was created by God to function so
+that I will choose to decline.22 In contrast, the libertarian view of freedom
+states that God created the human will in such a way that I can freely
+choose to either accept or decline. The choice here is self-determinative as
+well, but it is not arbitrary. The choice I make is made in accordance with
+my will. It must be noted that those libertarians who claim that nothing,
+not even the individual’s will, is determinative of the choice made, seem to
+
+===== BLOCK F (p. 465): the continuation after footnote 22 =====
+
+have backed themselves into a corner—in that case, the choice does seem to
+be arbitrary. However, most libertarians claim that the individual’s will is
+what is determinative for the choice made, but God made the will so that it
+chooses on its own. Thus, the fundamental difference between these views
+of libertarianism and compatibilism lies in the implications drawn from the
+belief that God creates the individual with a free will. This understanding
+of compatibilism, though, would not be conducive to a middle knowledge po-
+sition because it requires divine knowledge of counterfactuals to be part of
+God’s free knowledge, as already noted. However, some compatibilists may
+complain that this presents a view of determinism that is much stronger
+than their own positions. Some may want to make the weaker claim that
+compatibilistic freedom merely states that sufficient reasons can be given
+for actions and that it is this view of freedom which does work well with the
+Molinist view.
+
+===== BLOCK G (pp. 465-466, with footnote 23): grounding in character, and the dilemma =====
+
+It may be possible for the compatibilist to argue that the truth of (1) is
+independent of the will of God, but the grounding objection becomes a prob-
+lem for her at this point. What grounds the truth of a counterfactual of com-
+patibilist freedom in a Calvinistic Molinist Account? The only option that
+seems to be available is to ground the truth of the counterfactual of compat-
+ibilist freedom in the psychological makeup or character of the individual in
+question. This, however, seems problematic, for some of the same reasons it
+cannot ground the truth of counterfactuals of libertarian freedom—the in-
+dividual does not yet exist at the logical moment of God’s middle knowledge,
+for God has not yet created, and may not create, him. The truth of (1) cannot
+be grounded in my character or psychological makeup because (1) was true
+prior to God’s decision to actualize a world where I am faced with such a de-
+cision, prior to his decision to actualize a world where I exist, and prior to his
+decision to actualize a world at all! This problem, however, may be overcome.
+Elsewhere, I have argued that Molina believed that individuals do pre-
+exist in the mind of God as ideas.23 If this is indeed the case, then the com-
+patibilist may claim that the truth of propositions regarding how any given
+creature would act in various circumstances are grounded in the creature as
+he or she exists in the mind of God as ideas. But what sorts of sufficient rea-
+sons for creaturely actions would the Calvinist Molinist be able to offer under
+this approach? It appears that the only option available would be simple
+self-determination. In the example that we have been considering, I would
+choose to decline the offer of a free night’s stay—that is, (1) is true—because
+I would exercise my freedom in that way. I am such that, if I were faced
+with the option of staying an extra night for free, I would decline, but I am
+not that way because God created me that way—the truth of (1) and the fal-
+sity of (2) are prevolitional. Then why am I that way? The only answer that
+seems plausible is that I am that way because it is a correct description of
+how I would exercise my freedom if faced with that decision. But is this view
+any different from a libertarian conception of freedom, and can it properly
+23 See my “Molinism and Supercomprehension: Grounding Counterfactual Truth” (Ph.D. dis-
+sertation, The Southern Baptist Theological Seminary, 2000).
+
+journal of the evangelical theological society
+466
+be called a Calvinistic approach? It does not seem to be. Rather, it seems to
+be the same kind of answer that the libertarian would give. The only suffi-
+cient reason for my choice to decline the offer is my exercising of my free-
+dom in that way; it is a choice of my free will.
+
+===== BLOCK H (pp. 466-467): whether the approach avoids Basinger's pitfalls =====
+
+We must also ask if this approach really does avoid the pitfalls of Molin-
+ism as expounded by Basinger. It does not seem that it can. Consider the fol-
+lowing counterfactual of freedom: (3) If given the choice to eat the forbidden
+fruit, Adam will (libertarianly freely) eat. We may suppose that (3) is true.
+Let us suppose further that (3) is true in all feasible worlds. That is, there
+is never a time when (4) If given the choice to eat the forbidden fruit, Adam
+will (libertarianly freely) fast is true because Adam will always freely choose
+to eat the fruit when given the choice. Thus, although a world where Adam
+freely declines the offer of the forbidden fruit is logically possible, it is not
+a live option for God; he cannot actualize a world where Adam freely fasts.
+Now consider the following conditionals of freedom:
+(5) If given the choice to eat the forbidden fruit, Adam will (compatibilisti-
+cally freely) eat.
+(6) If given the choice to eat the forbidden fruit, Adam will (compatibilisti-
+cally freely) fast.
+In a way similar to (3) and (4), suppose that (5) is true and (6) is false.
+According to Tiessen, God can actualize a world where (6) is true and (5) is
+false. But how can he, apart from Adam’s choice being in some way depen-
+dent upon the will of God? If it is dependent upon the will of God, then the
+truths of (5) and (6) are not part of God’s middle knowledge. If it is not de-
+pendent upon the will of God, then it seems that God is just as constrained
+in terms of the kind of world he can actualize in the Calvinist Molinist
+model as he is in the traditional (libertarian) Molinist model because Adam
+may never compatibilistically choose to abstain from eating the fruit. The
+compatibilist may retort that there are always some ways of making Adam
+freely choose to eat the fruit, but this is, in effect, a rejection of the possibil-
+ity of (6) always being false. That is, the compatibilist must reject (7) There
+is a possible world where (6) is never true, no matter what the prevailing
+circumstances, a claim made by the Molinist and essential to the Free Will
+Defense. Not only must the compatibilist maintain that (7) is false, but she
+must make the further claim that any possible free action can be elicited
+from any given creature, if the proper circumstances and influences obtain.
+It is hard to believe that every person can be influenced to make every kind
+of choice freely, no matter what action is under consideration. For example,
+consider the following counterfactual:
+(8) Under certain circumstances, a mother will (freely) eat her own child.
+(8) is true (Lamentations 2:20), but if the woman were specified, would
+it always be true? There may be circumstances which could influence some
+women to eat their own children, but it is difficult to believe that every
+
+calvinism and middle knowledge
+467
+mother who has ever lived (or could live) could be influenced to freely choose
+to eat her own child. Instead, it seems that (9) At least one mother could
+never be influenced to freely eat her own child is true. At least, it seems to
+be more likely than (10) Every mother could be influenced to freely eat her
+own child. Therefore, it does not appear to be the case that every set of con-
+ditionals of freedom is subject to overcoming the constraints placed upon
+God by the doctrine of middle knowledge, whether freedom is conceived of
+as libertarian or compatibilist.
+
+===== BLOCK I (p. 467): section IV, "Conclusion" =====
+
+iv. conclusion
+The proponent of a Calvinist-Middle Knowledge position seems to be
+caught between the horns of a dilemma. On the one hand, if she claims that
+the truth of counterfactuals of compatibilist freedom is grounded in the will of
+God or in the way God created the creaturely will, then she has denied the
+prevolitional character of divine knowledge of counterfactuals of creaturely
+freedom and therefore, her position is not in the middle of anything. On the
+other hand, if she claims that the truth of counterfactuals of compatibilist
+freedom are grounded in the character of the creature as he pre-exists in the
+mind of God, or that the truth of counterfactuals of compatibilistic freedom
+do not need to be grounded, then her view of freedom is virtually indistin-
+guishable from libertarian freedom. Furthermore, she cannot make use of
+one of the most attractive features of Molinism, the Free Will Defense. Thus,
+although we may be sympathetic to the theological concerns of those who
+attempt to combine middle knowledge with moderate Calvinism, we must re-
+ject it as an ultimately untenable position. The soft determinist may claim
+that God possesses knowledge of counterfactuals of compatibilist freedom,
+but she cannot claim that such knowledge is prevolitional; it must be part of
+God’s free knowledge.

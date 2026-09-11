@@ -17,8 +17,10 @@ links:
   relation: elaborates
 - target_id: grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915
   relation: source
+- target_id: wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820
+  relation: elaborates
 created: '2026-09-08'
-updated: '2026-09-08'
+updated: '2026-09-11'
 ---
 Chapter 12's section on God's knowledge ended by conceding that "there must be
 some sense in which our choices are not absolutely free," adopting Ware's
@@ -71,3 +73,16 @@ which this repository has not read; Ware is now cited at second hand in three
 separate places here. And chapter 16 no more explains how a determined choice is
 a willing one than chapter 12 did: Grudem lists that as one of the two questions
 his own position cannot answer.
+
+**Amended 2026-09-11, from Helm and Van Horn.** The limits above said Ware's
+definitions were quoted from a book this repository has not read, and that
+Ware was by then cited at second hand in three places. The book is still
+unread, but the definition is now on file in two further second-hand
+witnesses with page numbers: Van Horn's quotation of *God's Greater Glory*
+114-15, "freedom means that we always do what we most want", and Helm's of
+p. 114, the "strongest inclination or highest desire" by which the agent
+"makes the one choice that is in accordance with that highest desire". Both
+witnesses also show what Ware builds on the definition and Grudem does not
+borrow: a "compatibilist middle knowledge" by which God knows the choice
+from the character and the circumstances ([[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]]). Nothing above is
+withdrawn.
