@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-09'
+updated: '2026-09-11'
 ---
 # Abrahamic conceptions of God
 
@@ -789,6 +789,68 @@ disputations 47-48 on freedom, disputation 31 on God and sin, and his printed
 replies to Banez are unread. Every English rendering of the Latin is this
 base's own.
 
+## The Reformed reply to middle knowledge, added 2026-09-11: Helm and Ware
+
+The Molinist leg above left the Reformed side of the modern debate to Grudem's
+one chapter. Inquiry 202609111806 asked what Paul Helm and Bruce Ware hold on
+sovereignty and freedom, in particular Ware's "compatibilist middle knowledge",
+its asymmetry of divine agency in good and evil, and Helm's objection that such
+knowledge is natural knowledge under another name. Five sources are now on
+file, all as bounded excerpts: two posts from Helm's own blog (2009, on Ware;
+2019, on the seventeenth-century Reformed and the Westminster Confession), two
+refereed JETS articles that carry the exchange (Laing's Molinist critique of
+2004; Van Horn's 2012 survey, which quotes Ware's *God's Greater Glory* with
+page numbers and records the concession Ware and Tiessen made to Helm), and
+Ware's own 2002 JETS paper on open theism, the only work of Ware's here in his
+own words. *God's Greater Glory* itself remains unread; every sentence of it on
+file is quoted by Helm or Van Horn. Distilled at
+[[helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815]],
+[[helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816]],
+[[van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817]],
+[[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]] and
+[[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]].
+
+Read the eight in three groups. The first three are the construction and its critics:
+
+- [[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]] — Ware accepts the grounding objection against Molina and answers it for himself: the counterfactual is true because of the creature's character and its circumstances, both of which God knows and controls. Grudem's borrowed "freedom of inclination" is the first clause of the construction.
+- [[a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821]] — Helm: a counterfactual so derived is natural knowledge, "muddle knowledge"; Laing: free knowledge, "not in the middle of anything"; Van Horn: either, but not middle. The disagreement about the shelf is the finding, and it runs through Helm's own two posts.
+- [[tiessen-gave-up-the-name-and-ware-kept-it-for-a-subset-of-natural-knowledge--202609111822]] — under the criticism Tiessen gave up the doctrine and Ware kept the name for a subset of natural knowledge; Van Horn says a Calvinist who keeps middle knowledge must give up the aseity objection and the grounding objection, the two weapons the Reformed have used against Molina.
+
+The next three are what the construction is for, and what it costs:
+
+- [[ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823]] — Ware's asymmetry: God causes good and only occasions evil, "in no case does he cause the evil to be done", where Grudem affirms that God causes all things and rests on Berkhof's mystery. The one place on file where Ware and Grudem part, and Molina's list of what coheres restated for a will whose choices follow from its nature.
+- [[helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824]] — Helm keeps the mystery where Augustine and Calvin left it and treats a mechanism that would shrink it as suspect for that reason. His placement of the residue is Grudem's; his attitude to it is not.
+- [[a-compatibilist-middle-knowledge-escapes-the-feasibility-limit-only-by-claiming-every-act-can-be-elicited--202609111826]] — a compatibilist middle knowledge escapes the feasibility limit only by claiming that any act can be elicited from any creature; Laing doubts it, Ware's claim of control over evil comes close to it, and Grudem's "a situation is made of other people's choices" does not reach Ware.
+
+The last two reach the older layers of this map:
+
+- [[the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825]] — the Reformed answer to the grounding objection is the decree, and Westminster Confession 3.2 states the order of dependence opposite to Molina's "non e contrario": the one contradiction link in this section, and the confessional standing behind Grudem's decree-first inference.
+- [[ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827]] — Ware's 2002 paper states the foreknowledge-entails-fixity inference as the open theist's own reasoning and answers it, as Grudem does, with Isaiah's test; a third witness that the entailment is common ground, and Grudem's source for the answer in his own voice.
+
+Five notes are amended rather than rewritten. The grounding-objection note gains
+a Reformed column
+([[the-grounding-objection-is-molinisms-own-unanswered-question--202609090104]]);
+the two-properties note now excludes the compatibilist variant on its own terms
+([[middle-knowledge-sits-between-natural-and-free-knowledge-because-it-is-prevolitional-yet-contingent--202609090100]]);
+the dependence-reversal note records the confessional denial
+([[molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101]]);
+the freedom-of-inclination note gains Ware's definition at second hand with
+page numbers
+([[the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827]]); and
+the same-entailment note gains Ware as a third witness
+([[grudem-and-pinnock-accept-the-same-entailment-and-give-up-opposite-sides-of-it--202609061922]]).
+Each carries a dated block ending with what is withdrawn: nothing.
+
+Boundaries this section should not be read past. Ware's book is unread, and his
+own vocabulary for the asymmetry (direct and causative for good, indirect and
+permissive for evil, as the secondary literature reports it) is in no capture.
+The Helm-Tiessen conversation of 2009, Ware's 2008 response, Tiessen's books,
+Helm's *The Providence of God* and the seventeenth-century Reformed (Twisse,
+Rutherford, Turretin, van Mastricht) are known only as Helm and Van Horn report
+them. The Confession is on file only as quoted. Ware's 1986 article on
+immutability, the source of his "relational mutability", was located in the
+Society's index but not captured.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -822,3 +884,5 @@ Providence and free will, from the second edition captures of Grudem: [[grudem-s
 (literature: [[maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912]], [[akiva-states-both-halves-and-reconciles-neither--202609081913]]).
 Middle knowledge: [[molina-concordia-liberi-arbitrii--202609090050]], [[laing-middle-knowledge-iep--202609090051]], [[pohle-molinism-catholic-encyclopedia--202609090052]], [[astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053]]
 (literature: [[molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055]], [[laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056]], [[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]], [[astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058]]).
+The Reformed reply to middle knowledge: [[helm-shunning-middle-knowledge--202609111810]], [[helm-and-more-on-molinism--202609111811]], [[van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812]], [[laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813]], [[ware-is-open-theism-evangelical--202609111814]]
+(literature: [[helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815]], [[helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816]], [[van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817]], [[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]], [[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]]).

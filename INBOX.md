@@ -4565,3 +4565,152 @@ applied without having been ratified.
 - Keathley's *Salvation and Sovereignty* (B&H, 2010), the evangelical
   Molinism the paper outline names, remains unread; the outline still tags it
   `[to verify]`.
+
+## 2026-09-11 — Answered, same day it was asked: Helm and Ware, the Reformed reply to middle knowledge
+
+**What was asked.** Inquiry 202609111806 (asked_by human, priority high): what
+Paul Helm and Bruce Ware hold on the relation of God's sovereign will to human
+freedom, in particular Ware's "compatibilist middle knowledge" and its asymmetry
+of divine agency in good and evil, and Helm's objection that such knowledge is
+natural knowledge under another name; and how their exchange bears on the
+comparison of Grudem's concurrence with Molina's middle knowledge. Answered the
+same day; the inquiry is `answered` with the eight permanent notes below as its
+`result_notes`.
+
+**What was captured, and how.** Five references, every one a bounded excerpt of
+an in-copyright text, with the fetch instant, byte count and SHA-256 in each
+capture header and a section outline of the whole source so that what is absent
+is visible:
+
+- Paul Helm, "Shunning Middle Knowledge", Helm's Deep, 1 May 2009: Helm's own
+  analysis of Ware's *God's Greater Glory*, quoting it by page. Five whole
+  paragraphs, 43 percent of the post
+  (raw/202609111810-helm-shunning-middle-knowledge-excerpt.txt).
+- Paul Helm, ".....And more on Molinism", Helm's Deep, 1 November 2019: the
+  seventeenth-century Reformed objection under Westminster Confession 3.2, the
+  decree as the answer to the grounding objection, and Ware as "an odd and an
+  inexplicable exception". Four paragraphs, 43 percent
+  (raw/202609111811-helm-and-more-on-molinism-excerpt.txt).
+- Luke Van Horn, "On Incorporating Middle Knowledge into Calvinism: A
+  Theological/Metaphysical Muddle?", JETS 55/4 (2012) 807-27, from the Society's
+  open archive: quotes Ware pp. 114-15, 115 n. 10 and 123-24, Tiessen, and the
+  Helm-Tiessen concession. Ten blocks, 35 percent
+  (raw/202609111812-van-horn-jets-55-4-excerpt.txt).
+- John D. Laing, "The Compatibility of Calvinism and Middle Knowledge", JETS
+  47/3 (2004) 455-67: the Molinist critique, published before Ware's book
+  appeared later that year, so Ware appears only by report. Ten blocks, 40 percent
+  (raw/202609111813-laing-jets-47-3-excerpt.txt).
+- Bruce A. Ware, "Defining Evangelicalism's Boundaries Theologically: Is Open
+  Theism Evangelical?", JETS 45/2 (2002) 193-212: the only work of Ware's on
+  file in his own words. Seven blocks, 27 percent
+  (raw/202609111814-ware-jets-45-2-excerpt.txt).
+
+The blog posts were fetched by curl from Blogger and the post text taken from
+the page's post-body element. The JETS PDFs were fetched from etsjets.org (the
+Laing PDF refused a plain curl with HTTP 403 and needed a browser user-agent
+string; the Van Horn PDF was fetched twice, byte-identical) and their text
+extracted with PyMuPDF, keeping the extractor's line breaks, end-of-line
+hyphenation, running heads and page numbers, with the fi/fl ligature glyphs
+replaced by two-letter forms; so a block is a contiguous run of the extraction
+and can contain the footnotes that fall inside it. Every quotation in every new
+or amended note was checked as a substring of its capture by a checker that
+ignores hyphenation, whitespace and quote style.
+
+**What was looked for and not captured.** Ware's *God's Greater Glory*
+(Crossway, 2004): in copyright, no publisher excerpt, not freely available;
+every sentence of it on file is quoted by Helm or Van Horn with their page
+numbers. Ware's "An Evangelical Reformulation of the Doctrine of the
+Immutability of God", JETS 29/4 (1986) 431-46, the source of his "relational
+mutability": the Society's index page lists it, but the two archive URL
+patterns tried returned 404, and the Monergism repost was not used as a source.
+Helm and Tiessen, "Does Calvinism Have Room for Middle Knowledge? A
+Conversation", WTJ 71 (2009) 437-54: paywalled; known here as Van Horn quotes
+it (pp. 448, 450). Tiessen's own site returned HTTP 503. Ware's "Robots,
+Royalty and Relationships?" (Criswell Theological Review, 2004): not found
+free online. Helm's 2019-10-01 review post repeats the paragraph on Ware and
+was read but not captured.
+
+**A policy note for the standing INBOX decision on excerpting in copyright
+(2026-09-05, still `new`).** The excerpt rule was applied this cycle to two
+kinds of source it had not met: a scholar's self-published blog posts, which
+carry no licence statement, and journal PDFs that the publisher itself posts
+openly. Both were treated as in-copyright bounded excerpts on the IEP and
+Behe precedents, at 27 to 43 percent. The blog posts are tiered
+`primary-text` on the Behe precedent (the author's own statement, hosted by
+himself, no editorial review), the JETS articles `peer-reviewed` on the venue.
+The rule is still being applied without having been ratified.
+
+**Notes written.** Five literature notes (202609111815-19), one per reference.
+Eight permanent notes: Ware's compatibilist middle knowledge derives the
+counterfactual from character and circumstance (202609111820); a counterfactual
+so derived is natural knowledge for Helm and free knowledge for Laing, and not
+middle either way (202609111821); Tiessen gave up the name and Ware kept it for
+a subset of natural knowledge (202609111822); Ware's asymmetry, causing good and
+occasioning evil, against Grudem's "God causes all things" (202609111823); Helm
+leaves the mystery where Augustine and Calvin left it (202609111824); the
+Reformed answer to the grounding objection is the decree, and WCF 3.2 runs
+opposite to Molina (202609111825); a compatibilist middle knowledge escapes the
+feasibility limit only by claiming every act can be elicited (202609111826);
+Ware states the foreknowledge entailment as open theism's own reasoning and
+answers it as Grudem does (202609111827). Five amendments, each a dated block
+ending "nothing withdrawn": 202609090104, 202609090100, 202609090101,
+202609081827, 202609061922. The MOC gained a section, "The Reformed reply to
+middle knowledge, added 2026-09-11", and a sources line.
+
+**What the answer says, in one paragraph.** Ware is the bridge between the two
+positions the paper outline compares. He takes Molina's three-knowledge
+structure and Molina's claim that God secures outcomes by choosing
+circumstances, and grounds the counterfactual in the creature's nature plus its
+setting, which is Grudem's "freedom of inclination" run forward into God's
+knowledge; the grounding objection therefore does not reach him, and, if his claim of
+control over evil generalises, the feasibility limit does not bind him. Helm's objection, accepted by Ware and
+Tiessen in 2009, is that a counterfactual grounded that way is natural (or, for
+Laing, free) knowledge, so the word "middle" names nothing new; the Reformed
+answer to the grounding objection is the decree, which Westminster Confession
+3.2 states in the order opposite to Molina's. Ware's real departure is not
+from Molina but from Grudem: God causes good and only occasions evil, "in no
+case does he cause the evil to be done", where Grudem has God cause all things
+and rests on Berkhof's mystery; Helm keeps the mystery there and judges the
+mechanism futile. And Ware's one text on file in his own words shows him
+accepting the foreknowledge-entails-fixity inference as open theism's premise
+and answering it with Isaiah's test, exactly as Grudem does; Molina alone on
+this map denies the inference.
+
+**Effect on the paper outline.** The six differences of Section V stand; the
+outline's Sources section now lists the five new references as checked and
+says which sentences of Ware's book are on file at second hand. A seventh
+difference (Ware's asymmetry against Grudem's symmetry) is available if the
+paper widens from two voices to three, and is not added, because the owner
+asked for the Grudem-Molina comparison.
+
+**What remains, in order of value.**
+
+- Ware's *God's Greater Glory* itself, chapters on providence (Helm and Van
+  Horn cite pp. 78-130). If the owner has a copy, a PDF or scan of those pages
+  in `drop/` would let the second-hand quotations be checked and Ware's own
+  terms for the asymmetry captured; until then every Ware sentence but the
+  2002 article is at one remove.
+- Helm's *The Providence of God* (IVP, 1993) and "God Does Not Take Risks"
+  (2004), which Van Horn says sketches a view like Ware's; the Helm-Tiessen
+  conversation (WTJ 71, 2009); Ware's response in *Perspectives on the
+  Doctrine of God* (B&H, 2008), p. 74; Tiessen, *Providence and Prayer* (IVP,
+  2000): all in copyright, all unread.
+- The Reformed orthodox on middle knowledge: Twisse's *Dissertatio de scientia
+  media* (1639), Turretin, *Institutes* III.xiii and IV.iii, van Mastricht
+  2.267f. Turretin's Latin and any pre-1929 English rendering are public
+  domain and could be captured whole.
+- The Westminster Confession as a reference in its own right; it is on file
+  only as Helm and Van Horn quote 3.2. A public-domain edition can be captured
+  whole.
+- Ware's 1986 JETS article on immutability (find the working archive URL) and
+  "Robots, Royalty and Relationships?" (CTR 1/2, 2004).
+- Charles Rennie's two-part Reformation 21 article, "Is Middle Knowledge
+  Biblical? An Evaluation", which Helm recommends.
+
+**A finding outside this cycle's diff, from the critic.** The 2026-09-08 body
+of `the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827`
+quotes Grudem as saying Christ is "continually carrying along all things",
+and that string is in no capture in raw/ (the neighbouring "would simply be
+not to exist!" is). The quotation needs either a capture of the preservation
+passage or rewording as attributed summary; left for a correction cycle,
+because today's amendment to that note did not touch the 2026-09-08 text.

@@ -1,0 +1,102 @@
+Bounded excerpt capture of Paul Helm, ".....And more on Molinism", Helm's
+Deep (paulhelmsdeep.blogspot.com), posted 2019-11-01T08:16:00+01:00
+according to the page's datePublished stamp,
+https://paulhelmsdeep.blogspot.com/2019/11/and-more-on-molinism.html,
+for reference helm-and-more-on-molinism--202609111811.
+Fetched 2026-09-11T18:02:28Z, HTTP 200, 143,097 bytes, from Blogger's own
+servers through this session's egress proxy; SHA-256 of the HTML as fetched
+403e60cc65ab7d812fca5217947886bff2471224b68db91b5d71b9854260db7d. The post
+text was taken from the page's "post-body" element by dropping tags and
+unescaping entities; whitespace runs collapsed (the post's soft line breaks
+are kept); nothing else altered, including the post's own typographical
+slips. In that extraction the post is 1,236 words. The post's title
+begins with five full stops on the page itself.
+
+COPYRIGHT AND EXTENT. The post carries no licence statement. It is Paul
+Helm's own writing, in copyright, published by him on his own blog, so per
+this repository's excerpt policy for in-copyright web sources (see the
+2026-09-09 IEP capture) this capture is BOUNDED EXCERPTS: four blocks, each
+a whole paragraph of the post, 528 words of 1,236 (43 percent).
+NOT captured: the opening paragraph on Rutherford, Twisse, Turretin
+(Institutes I, 212-217) and Rester's 2019 translation of van Mastricht; the
+text of Westminster Confession 3.1 and 3.2 as Helm quotes it (Helm labels
+the second passage "III"; it is chapter 3, paragraph 2 of the Confession,
+and Helm's own 2009 post cites it correctly as 3.2); the paragraph quoting
+van Mastricht (which the post cites as "Theological - Practical Theology,
+2.267f." and quotes at "2. 268") on why middle knowledge is superfluous; the paragraph drawing "two or three things" from that
+quotation (the decree is free; providence as continuous creation; WCF 5.2 on
+second causes falling out "necessarily, freely or contingently"); the
+paragraph on why Calvinists do not figure in current debates about Molinism,
+"a debate within the libertarian guild"; and the closing note recommending
+Charles Rennie's Reformation 21 article. Notes cite those only as attributed
+summary and never quote them. Blocks 2 to 4 also appear, in nearly the
+same words, in Helm's post of 2019-10-01, "A review of a book on Molinism",
+which is not captured; that post adds that the Reformed objection to
+counterfactuals true prior to the decree is "one of the few places at which
+contemporary discussion of Molinism connects with the original Reformed
+objections". Helm's citation "God's Greater Glory, pp.110-112" is to Ware's
+book, which is NOT on file here. Single-witness capture: the blog is the
+canonical publisher of this born-digital text.
+The post's own structure, recorded so that what is absent is visible:
+  (heading: Luis De Molina (1535-1600))
+  (opening paragraph)
+  WCF
+  Van Mastricht
+  (four paragraphs on Twisse, Rutherford, the decree, the grounding objection, and Ware)
+  (paragraph on the current debate)
+  oo0oo
+  Note (on Charles Rennie's article)
+
+===== BLOCK 1: "WCF": what Helm says the Confession's paragraph on decree and foreknowledge does to middle knowledge =====
+
+Paragraph III cuts off middle knowledge, which has God being
+presented by an array of counterfactuals of (libertarian ) freedom, and his
+election of that one which is most accord 
+with his purposes. Not so, says the Confession. God’s decrees and his foreknowledge cover the
+same ground, and are grounded by the divine intuition, not by God's inspection of
+un-decreed possibilities. His decrees
+are the ground of whatever happens. They do not include decreeing based on what
+he foreknew as future, nor of what he foreknew would occur as a result of
+conditions other than his decree. These statements should be amplified by the chapter
+on Providence, and on questions 12- 14 of the Larger Catechism.
+
+===== BLOCK 2: Twisse and Rutherford: cutting middle knowledge off at the root =====
+
+Theologians such as William Twisse and Samuel Rutherford were not so
+much interested in whether Molinism was internally satisfactory, that whether God know the outcome of a
+counterfactual of libertarian freedom, as in cutting it off at the root, because they could not conceive of any
+counterfactuals of creaturely freedom being true that were not first decreed by
+God, and true because of this, and so part of his free knowledge. What is a
+counterfactual? It is not a ‘factual’, what is decreed. So if X, something
+decreed, were be expressed in a counterfactual of the form, ‘If X were to
+have….’ Or If X had done D, it would have …..’ none of these are facts, because
+not decreed. The counterfactual does not follow from what has already been
+decreed, but it is simply a ‘free floating’ form of words. So they argued ad
+hominem against Molinism by denying the very idea of middle knowledge.
+
+===== BLOCK 3: the Reformed answer to the grounding objection =====
+
+Their answer to the ‘grounding’ objection would be that what grounds the
+truth is not a state of affairs that exists apart from the decree of God, but
+only what is decreed, one of the countless events, or states of affairs, brought
+to exist by God’s decree. For what comes to pass is only what is decreed. So
+the idea of middle knowledge, some category between the divine natural knowledge
+(his knowledge of all possibilities), and free knowledge (his knowledge of
+actualities) of what he has decreed, and so brought into being, all
+actualities), of God, is inadmissible. How could it be known to God that in
+circumstances C, A will freely do P other than by being unconditionally decreed
+by him, and so being an aspect of the divine free knowledge.
+
+===== BLOCK 4: knowledge of what God will decree, and Ware as the exception =====
+
+For the Reformed who debated Molinism in the seventeenth century, God’s
+knowledge of what takes place in his creation, whatever else it is, is
+necessarily knowledge of what he will decree. So the idea that there are states
+of affairs, including the counterfactuals of creaturely freedom, which are
+distinct from the divine mind and which are made true or false only by acts of
+creaturely freedom which God abets by supporting and enabling, is quite
+unacceptable. Theologians such as Bruce Ware, who find a place for ‘Reformed
+Molinism’ (God’s Greater Glory, pp.110-112) are an odd and an
+inexplicable exception. The problem with introducing such a theological view
+into the current work on middle knowledge is that it has the effect of changing
+the subject.

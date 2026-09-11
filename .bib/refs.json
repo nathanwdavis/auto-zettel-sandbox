@@ -2918,5 +2918,138 @@
     "title": "Congregatio de Auxiliis",
     "type": "entry-encyclopedia",
     "volume": "4"
+  },
+  {
+    "URL": "https://paulhelmsdeep.blogspot.com/2009/05/shunning-middle-knowledge.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Helm",
+        "given": "Paul"
+      }
+    ],
+    "container-title": "Helm's Deep",
+    "id": "202609111810",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5,
+          1
+        ]
+      ]
+    },
+    "title": "Shunning Middle Knowledge",
+    "type": "post-weblog"
+  },
+  {
+    "URL": "https://paulhelmsdeep.blogspot.com/2019/11/and-more-on-molinism.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Helm",
+        "given": "Paul"
+      }
+    ],
+    "container-title": "Helm's Deep",
+    "id": "202609111811",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          1
+        ]
+      ]
+    },
+    "title": "And more on Molinism",
+    "type": "post-weblog"
+  },
+  {
+    "URL": "https://etsjets.org/wp-content/uploads/2013/02/files_JETS-PDFs_55_55-4_JETS_55-4_807-827_VanHorn.pdf",
+    "author": [
+      {
+        "family": "Van Horn",
+        "given": "Luke"
+      }
+    ],
+    "container-title": "Journal of the Evangelical Theological Society",
+    "id": "202609111812",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "807-827",
+    "title": "On Incorporating Middle Knowledge into Calvinism: A Theological/Metaphysical Muddle?",
+    "type": "article-journal",
+    "volume": "55"
+  },
+  {
+    "URL": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-3_47-3-pp455-467_JETS.pdf",
+    "author": [
+      {
+        "family": "Laing",
+        "given": "John D."
+      }
+    ],
+    "container-title": "Journal of the Evangelical Theological Society",
+    "id": "202609111813",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          9
+        ]
+      ]
+    },
+    "page": "455-467",
+    "title": "The Compatibility of Calvinism and Middle Knowledge",
+    "type": "article-journal",
+    "volume": "47"
+  },
+  {
+    "URL": "https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_45_45-2_45-2-PP193-212_JETS.pdf",
+    "author": [
+      {
+        "family": "Ware",
+        "given": "Bruce A."
+      }
+    ],
+    "container-title": "Journal of the Evangelical Theological Society",
+    "id": "202609111814",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    },
+    "page": "193-212",
+    "title": "Defining Evangelicalism's Boundaries Theologically: Is Open Theism Evangelical?",
+    "type": "article-journal",
+    "volume": "45"
   }
 ]

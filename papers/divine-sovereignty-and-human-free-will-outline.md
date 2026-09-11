@@ -346,12 +346,38 @@ The paper needs about six of these. The first four are the spine.
 - Antonio Astrain, "Congregatio de Auxiliis," in *The Catholic Encyclopedia*, vol. 4 (Robert
   Appleton Company, 1908). Only needed for the historical note in the conclusion. The record
   is [astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053](../reference/astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053.md).
+- Paul Helm, "Shunning Middle Knowledge," Helm's Deep (blog), 1 May 2009,
+  https://paulhelmsdeep.blogspot.com/2009/05/shunning-middle-knowledge.html. Helm's own
+  analysis of Ware's compatibilist middle knowledge, quoting Ware by page. Use it if you
+  mention Ware; the record is [helm-shunning-middle-knowledge--202609111810](../reference/helm-shunning-middle-knowledge--202609111810.md).
+- Paul Helm, ".....And more on Molinism," Helm's Deep (blog), 1 November 2019. The Reformed
+  answer to middle knowledge from the Westminster Confession and the seventeenth-century
+  divines. The record is [helm-and-more-on-molinism--202609111811](../reference/helm-and-more-on-molinism--202609111811.md).
+- Luke Van Horn, "On Incorporating Middle Knowledge into Calvinism: A Theological/Metaphysical
+  Muddle?," *Journal of the Evangelical Theological Society* 55, no. 4 (2012): 807-27. The
+  best single account of the Helm-Ware-Tiessen exchange; it quotes Ware's *God's Greater
+  Glory* at pages 114-15, 115 n. 10 and 123-24. The record is
+  [van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812](../reference/van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812.md).
+- John D. Laing, "The Compatibility of Calvinism and Middle Knowledge," *Journal of the
+  Evangelical Theological Society* 47, no. 3 (2004): 455-67. The Molinist reply to a
+  Calvinist middle knowledge, by the author of the IEP entry above. The record is
+  [laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813](../reference/laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813.md).
+- Bruce A. Ware, "Defining Evangelicalism's Boundaries Theologically: Is Open Theism
+  Evangelical?," *Journal of the Evangelical Theological Society* 45, no. 2 (2002): 193-212.
+  The only text of Ware's the repository holds in his own words; it gives his foreknowledge
+  argument, the one Grudem borrows. The record is
+  [ware-is-open-theism-evangelical--202609111814](../reference/ware-is-open-theism-evangelical--202609111814.md).
 
 **Cited from memory and not checked; confirm title, edition, and page before citing.**
 
 - Bruce A. Ware, *God's Greater Glory: The Exalted God of Scripture and the Christian Faith*
   (Crossway, 2004). This is where the "freedom of inclination" definition comes from; Grudem
-  quotes it in chapter 16.
+  quotes it in chapter 16. The book itself is still not on file, but its sentences on
+  freedom and middle knowledge (pages 113 to 115) and on God occasioning rather than causing
+  evil (pages 123 to 124) are on file as Helm and Van Horn quote them; see
+  [Ware's compatibilist middle knowledge derives the counterfactual from character and circumstance](../permanent/wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820.md)
+  and [Ware makes God's agency asymmetrical](../permanent/ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823.md).
+  If you cite the book, take the page numbers from the book, not from these notes.
 - William Lane Craig, *The Only Wise God: The Compatibility of Divine Foreknowledge and
   Human Freedom* (Baker, 1987). The evangelical defense of middle knowledge that Grudem
   answers.
@@ -374,5 +400,6 @@ Reformed side.
 The Dominican side of the original dispute, above all Domingo Báñez, is known here only as
 the two Catholic Encyclopedia articles report it. Craig and Keathley have not been read
 directly. Molina's own discussion of the freedom he presupposes, in disputations 47 and 48,
-is not on file. These gaps are recorded in the repository's INBOX under the entries dated
-2026-09-08 and 2026-09-09.
+is not on file. Ware's *God's Greater Glory* is known only through Helm's and Van Horn's
+quotations, and Helm's own *The Providence of God* is not on file. These gaps are recorded in
+the repository's INBOX under the entries dated 2026-09-08, 2026-09-09 and 2026-09-11.

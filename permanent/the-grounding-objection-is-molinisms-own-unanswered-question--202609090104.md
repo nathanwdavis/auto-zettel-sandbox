@@ -21,8 +21,14 @@ links:
   relation: shared-concept
 - target_id: the-dispute-is-decided-by-which-residue-honours-god-more--202609081831
   relation: shared-concept
+- target_id: wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820
+  relation: elaborates
+- target_id: a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821
+  relation: elaborates
+- target_id: the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825
+  relation: elaborates
 created: '2026-09-09'
-updated: '2026-09-09'
+updated: '2026-09-11'
 ---
 
 Every position this base has read on sovereignty and freedom leaves a
@@ -89,3 +95,19 @@ who finds the closest-world or divine-ideas reply successful will reject it.
 Molina's "inscrutabili" is his word for the comprehension, but he does not
 offer it as a concession; the parallel with Grudem's and Maimonides'
 concessions is drawn here.
+
+**Amended 2026-09-11, from Helm, Van Horn and Laing.** This note said the
+Molinist pays the grounding objection and that each of the five replies
+relocates it. Two further ways of paying are now on file, both Reformed.
+Ware, a compatibilist, accepts the objection against Molina and grounds his
+own counterfactuals in the creature's character together with its
+circumstances, so that the question has an answer
+([[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]]); the answer's cost, on Helm's and Van Horn's showing, is that a
+knowledge so grounded is natural or free and not middle
+([[a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821]]), and Van Horn adds that a Calvinist who wants to keep middle
+knowledge anyway must give up the grounding objection itself. The
+seventeenth-century Reformed answer, as Helm reports it, is the decree: what
+makes the counterfactual true is only what is decreed
+([[the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825]]), which from the Molinist side concedes the objection's own
+premise rather than meeting it. Nothing above is withdrawn; the map of who
+pays where now has a Reformed column.

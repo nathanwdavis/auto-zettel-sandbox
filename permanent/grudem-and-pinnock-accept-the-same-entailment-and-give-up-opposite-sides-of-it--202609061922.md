@@ -20,8 +20,10 @@ links:
   relation: elaborates
 - target_id: the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829
   relation: elaborates
+- target_id: ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827
+  relation: elaborates
 created: '2026-09-06'
-updated: '2026-09-08'
+updated: '2026-09-11'
 ---
 The dispute between Grudem and open theism is not over logic. Both parties
 accept that exhaustive foreknowledge of human choices leaves those choices, in
@@ -85,3 +87,13 @@ foreordination, quoted at length — and answers it with this note's own
 entailment, now running as an argument rather than a concession
 ([[the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829]]).
 Nothing above is withdrawn; the bound held.
+
+**Amended 2026-09-11, from Ware.** The entailment this note found Grudem and
+Pinnock sharing is stated by Ware, in his 2002 paper on open theism, as the
+open theist's own reasoning: infallible foreknowledge of a choice means one
+is not free to choose otherwise, so libertarian freedom and the denial of
+foreknowledge stand or fall together. Ware does not contest it, and answers
+as Grudem does, with Isaiah's test ([[ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827]]). That makes a third witness
+for the first paragraph's claim, and it is Grudem's source for that answer,
+here in his own voice rather than as Grudem quotes him. Nothing above is
+withdrawn.

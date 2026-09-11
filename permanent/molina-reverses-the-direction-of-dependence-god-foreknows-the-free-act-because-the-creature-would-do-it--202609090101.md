@@ -25,8 +25,10 @@ links:
   relation: shared-concept
 - target_id: the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914
   relation: elaborates
+- target_id: the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825
+  relation: contradicts
 created: '2026-09-09'
-updated: '2026-09-09'
+updated: '2026-09-11'
 ---
 
 The sentence that separates Molina from every decree-first account is a
@@ -98,3 +100,17 @@ certainty rather than causal fixity, in which case the two talk past one
 another rather than contradict. The note records the opposition as it
 stands on the surface of the two texts, and for that reason links the two
 as a shared concept rather than a contradiction.
+
+**Amended 2026-09-11, from the Westminster Confession as Helm and Van Horn
+quote it.** This note called Grudem's entailment a Reformed cousin of the
+Thomist decree-first position and said Molina's reversal was aimed at
+exactly that step. The Reformed statement of the step is now on file:
+chapter 3, paragraph 2 of the Confession, that God has not decreed anything
+because he foresaw it as future or as what would come to pass upon such
+conditions, which Helm reads as written to cut middle knowledge off
+([[the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825]]). That is Molina's "non e contrario" denied in so many words, so
+the confessional order and Molina's are linked there as a contradiction,
+where this note, comparing Molina with Grudem's looser "fixed", stopped at a
+shared concept. Laing adds that Bañez held the counterfactuals of freedom
+true in virtue of an act of God's will, which is the Thomist medium Pohle
+reports, stated from the Dominican side. Nothing above is withdrawn.

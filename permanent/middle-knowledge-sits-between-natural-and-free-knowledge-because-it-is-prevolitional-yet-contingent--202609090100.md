@@ -23,8 +23,12 @@ links:
   relation: source
 - target_id: grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923
   relation: shared-concept
+- target_id: wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820
+  relation: elaborates
+- target_id: a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821
+  relation: elaborates
 created: '2026-09-09'
-updated: '2026-09-09'
+updated: '2026-09-11'
 ---
 
 Molina's *scientia media* is defined by its position between two knowledges
@@ -88,3 +92,14 @@ prior to God's will and contingent — is what the grounding objection contests
 ([[the-grounding-objection-is-molinisms-own-unanswered-question--202609090104]]),
 and this note states the definition, not its success. The English renderings
 of Molina are this repository's own.
+
+**Amended 2026-09-11, from Helm, Van Horn and Laing.** The two properties
+this note used to place middle knowledge now do work as a test. Ware's
+"compatibilist middle knowledge" keeps the first, coming before God's will,
+by deriving the counterfactual from the creature's character and its
+circumstances ([[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]]), and on Van Horn's argument loses the second, since
+a counterfactual so derived is a necessary truth; Helm files it under
+natural knowledge, Laing under free, and all three agree it is not middle
+([[a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821]]). The definition stated above therefore excludes the compatibilist
+variant on its own terms, which is what Van Horn means by calling its
+Calvinist proponents confused. Nothing above is withdrawn.

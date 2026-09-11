@@ -1,0 +1,322 @@
+Bounded excerpt capture of Bruce A. Ware, "Defining Evangelicalism's
+Boundaries Theologically: Is Open Theism Evangelical?", Journal of the
+Evangelical Theological Society 45/2 (June 2002) 193-212, from the PDF that
+the Evangelical Theological Society posts in its open JETS archive,
+https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_45_45-2_45-2-PP193-212_JETS.pdf,
+for reference ware-is-open-theism-evangelical--202609111814.
+Fetched 2026-09-11T18:06:08Z by curl through this session's egress proxy,
+HTTP 200, 109,465 bytes; SHA-256 of the PDF
+1dc4fd2044bdd671f75a8c2de486223d10ea35a7e04eea2013cf38d07b721a6b. Text was
+extracted from the PDF with PyMuPDF, page by page; the extractor's line
+breaks, end-of-line hyphenation, running heads and page numbers are kept as
+extracted, so a block is a contiguous run of the extraction and can contain
+the footnotes and running heads that fall inside it; the fi and fl ligature
+glyphs the extractor produces are replaced by their two-letter forms; nothing
+else altered. In that extraction the article is 10,461 words, footnotes
+included. The author note records that the paper was delivered at the
+Society's 53rd annual meeting, Colorado Springs, 15 November 2001, and
+places Ware at The Southern Baptist Theological Seminary.
+
+COPYRIGHT AND EXTENT. The article is in copyright (the Society and the
+author); the Society itself posts the PDF openly. Per this repository's
+excerpt policy for in-copyright works served openly by their own publisher,
+this capture is BOUNDED EXCERPTS: seven blocks, 2,782 words of 10,461
+(27 percent), each a passage the notes quote from. NOT captured: the
+second half of section I (why Pinnock is right to raise the question, and
+footnotes 4-8); the preamble to section II; section II.1.a-e and h (the
+entailments of ignorance, who would be born, false beliefs, wisdom,
+rightness of action, the hermeneutic); section II.2 (revelation and
+Scripture, a-e, with Roy's count of predictive texts); section II.3.a-e and
+g-i (the gospel: sin foreknown, election, substitution, imputation, the
+covenant with Abraham, the resurrection, Old Testament justification and
+sacrifice); section II.4.a and c (guidance; prayer); and the second comment
+of section III, quoting Tidball on what evangelicals are, with footnotes
+31-33. Notes cite those only as attributed summary and never quote them. The
+article restricts itself, by its own statement in footnote 7 (not captured),
+to open theism's denial of exhaustive foreknowledge and does not argue the
+question of libertarian freedom; Ware's God's Lesser Glory (Crossway, 2000),
+which it cites for the fuller case, is on file here only as Grudem quotes
+it. Single-witness capture: the publisher's PDF; the printed journal was not
+consulted.
+The article's own section outline, recorded so that what is absent is visible:
+  I. Introduction
+  II. Implications of the Openness Denial of Exhaustive Divine Foreknowledge
+     1. God: his character, purposes, and work (a-h)
+     2. Revelation and Scripture: their accuracy and surety (a-e)
+     3. The gospel of salvation: its design and truthfulness (a-i)
+     4. The Christian life: its faith and hope in God (a-d)
+  III. Open Theism and Boundaries for Evangelicalism
+  IV. Conclusion
+
+===== BLOCK A (pp. 193-194, with footnotes 1-3 and the author note): title, author and section I, "Introduction", to the end of the paragraph on what is essential to open theism =====
+
+JETS 45/2 (June 2002) 193–212
+DEFINING EVANGELICALISM’S BOUNDARIES
+THEOLOGICALLY: IS OPEN THEISM EVANGELICAL?
+bruce a. ware*
+i. introduction
+Clark Pinnock is exactly right. After noting (correctly) in his Most Moved
+Mover that Arminians and Augustinians have co-existed throughout much
+of the church’s history, and that a number of evangelical theologians today
+(and not just open theists) are working toward refinements in an evangeli-
+cal doctrine of God, he asks, “Why draw the line at foreknowledge?”1 A few
+pages later, he returns to this question: “In raising the issue of the divine
+foreknowledge, we have not transgressed some rule of theological discourse
+and placed ourselves outside the pale of orthodoxy. Why can an evangelical
+not propose a different view of this matter? What church council has de-
+clared it to be impossible? Since when has this become the criterion of being
+orthodox or unorthodox, evangelical or not evangelical?”2
+What does Pinnock mean when he says that open theists have raised the
+issue of divine foreknowledge? Simply this: Open theism affirms God’s ex-
+haustive knowledge of the past and present, but it denies exhaustive divine
+foreknowledge, in that it denies that God knows—or can know—the future
+free decisions and actions of his moral creatures, even while it affirms that
+God knows all future possibilities and all divinely determined and logically-
+necessary future actualities. As William Hasker explains, “Since the future
+is genuinely open, since it is possible for a free agent to act in any of several
+different ways, it follows that it is not possible for God to have complete
+and exhaustive knowledge of the entire future.”3 So, the specific denial of
+exhaustive divine foreknowledge is embraced in open theism as central and
+essential to its own identity.
+And essential it is. For to open theists, the very notion of the future’s
+“openness” is only viable if future free choices and actions are both fully
+1 Clark H. Pinnock, Most Moved Mover: A Theology of God’s Openness (Grand Rapids: Baker,
+2001) 106.
+2 Ibid. 110.
+3 William Hasker, “An Adequate God,” in John B. Cobb, Jr. and Clark H. Pinnock, eds.,
+Searching for an Adequate God: A Dialogue between Process and Free Will Theists (Grand Rapids:
+Eerdmans, 2000) 218.
+* Bruce Ware is senior associate dean of the School of Theology and professor of Christian
+theology at The Southern Baptist Theological Seminary, 2825 Lexington Road, Louisville, KY
+40280. This paper was delivered at the 53rd annual meeting of the Evangelical Theological Soci-
+ety in Colorado Springs, CO, November 15, 2001.
+
+journal of the evangelical theological society
+194
+unknown and fully unknowable to God. Were God to know some future
+choice, say, of what you will have for dinner this evening, since God’s knowl-
+edge is infallible, it must be the case that you will have for dinner what God
+knows you will, in which case you are not free to choose otherwise. As cen-
+tral and essential as libertarian freedom is to open theism, so equally cen-
+tral and essential is its denial of exhaustive divine foreknowledge.
+
+===== BLOCK B (pp. 199-200, with footnote 13): section II.1.f and 1.g: the idols of Isaiah 40-48, and God's self-chosen basis for asserting his deity =====
+
+f. Open theism’s denial of exhaustive divine foreknowledge encourages in
+its followers adherence to a view of God which is strikingly and centrally
+similar to the biblical idolatry denounced in Isaiah 40–48. What is true both
+of the God of open theism and of these idols is that neither can declare what
+specific future events will unfold, events that involve innumerable future free
+choices and actions of human beings.
+But the true God can! For example,
+the expansiveness and comprehensiveness of God’s foreknowledge claim in
+Isa 46:10 (“Declaring the end from the beginning, and from ancient times
+things which have not been done”) is then expressed in concrete form in
+46:11 (“calling a bird of prey from the east, the man of my purpose from
+a far country”) as he predicts the coming of a man, Cyrus no doubt, whom
+he knows will accomplish his purposes. That is, God knows specific future
+events, people, free choices and actions, and their effects. But, which of the
+idols can do this, asks the Lord! Furthermore, God says of the worshippers
+of those idols who do not know and cannot declare such future actions of
+free creatures, “he who chooses you is an abomination” (Isa 41:24), and of
+the idols themselves, “Behold, all of them are false; their works are worth-
+less, their molten images are wind and emptiness” (Isa 41:29). By its deny-
+ing of God’s foreknowledge of future free creaturely choices and actions,
+open theism is vulnerable to the charge of commending as God one whom
+the true God declares is false and worthless.
+g. Open theism’s denial of exhaustive divine foreknowledge dishonors and
+belittles both the true and living God and the divine Son of the Father by
+denying to both one of their self-chosen bases for asserting the uniqueness of
+their deity, namely, that God alone, as God, knows and declares what the fu-
+ture will be.
+In Isa 41:23, God challenges the idols, “Declare the things
+that are going to come afterward, that we may know that you are gods.”
+They cannot; but God, because he is God, declares the future. And what God
+declares, over and over again, involves countless future choices and actions
+of his free creatures (e.g. Isa 41:21–29; 42:8–9; 43:8–13; 44:6–8; 45:1–7, 18–
+25; 46:8–11; 48:3–8). Jesus likewise is here dishonored, for just like God in
+Isaiah, so too Jesus asserts his claim to deity as resting in part on his abil-
+ity to declare the future. In John 13:19, Jesus says, “From now on I am
+telling you before it comes to pass, so that when it does occur, you may be-
+lieve that I am He.” Is it mere coincidence that just a few verses later we
+hear Jesus declare unequivocally to Peter, “Truly, truly, I say to you [not:
+13 Sanders, God Who Risks 50.
+
+journal of the evangelical theological society
+200
+‘Probably, probably, I tell you my well-informed prognostication’], a rooster
+will not crow until you deny Me three times”? How dare we deny to God
+what God himself has chosen as a basis for asserting his own unique deity!
+
+===== BLOCK C (pp. 206-207, with footnotes 25-27; the marker of 28 without its text): section II.3.f: the crucifixion, Sanders and Boyd =====
+
+f. Open theism’s denial of exhaustive divine foreknowledge renders uncer-
+tain the execution of God’s plan of salvation through the delivering up of his
+Son by crucifixion on the cross; or, if God foreknows and predestines the
+death of Christ, then, by openness standards of freedom and morality, it ren-
+ders Christ’s obedience and offering himself up to be crucified to be the de-
+termined, constrained, and morally vacuous actions of a divinely engineered
+robot. We shall consider each possibility in order.
+First, while it is harmful
+enough to the surety of God’s covenant commitment to say, as Sanders has,
+that, had Abraham not obeyed, God might seek another through whom to
+fulfill his covenant promise to bless the nations, it is altogether more dev-
+astating to the truthfulness of God’s long salvific covenant pledge to suggest
+that Christ, as a free agent, might not have chosen to go to the cross. Sand-
+ers writes, “Although Scripture attests that the incarnation was planned
+from the creation of the world, this is not so with the cross. The path of the
+cross comes about only through God’s interaction with humans in history.
+Until this moment in history other routes were, perhaps, open.”25 Though
+startling, does not the open view require this possibility? If Christ is a
+moral agent and if his actions are free, it follows that Christ could choose to
+be given over or not, and then it follows that God cannot have known, prior
+to his choice, just what Christ would do. In light of Psalm 22, Isa 52:13–
+53:12, Acts 2:23, 4:27–28, and 1 Pet 1:20, this implication of the open view
+contradicts precious biblical teaching while it undercuts the certainty and
+surety of God’s eternal saving promise and purpose.
+But, second, some may be aware that Greg Boyd asserts a different po-
+sition from Sanders on this point, claiming that “Scripture portrays the cru-
+cifixion as a predestined event” even if “it was not certain from eternity that
+Pilot [sic], Herod, or Caiaphas would play the roles they played in the cru-
+cifixion.”26 Boyd explains, “Since God determines whatever he wants to
+about world history, we should not find it surprising that the central defin-
+ing event in world history—the crucifixion—included a number of predes-
+tined aspects. It seems that the incarnation and crucifixion were part of
+God’s plan from ‘before the foundation of the world.’ ”27 Of course, holding
+this position has the advantage of avoiding the implication just noted,
+namely, of the uncertainty of the cross if God cannot know in advance what
+Christ will choose to do. Yet I am startled and incredulous that any open
+theist would want to solve this problem by asserting that the event of the
+25 Ibid., 100.
+26 Boyd, God of the Possible 45.
+27 Ibid. 44–45. Boyd’s full last paragraph of this discussion reads, “While Scripture portrays
+the crucifixion as a predestined event, it never suggests that the individuals who participated in
+this event were predestined to do so or foreknown as doing so. It was certain that Jesus would be
+crucified, but it was not certain from eternity that Pilot [sic], Herod, or Caiaphas would play the
+roles they played in the crucifixion. They participated in Christ’s death of their own free wills”
+(ibid. 45; italics added). Yet it seems impossible that, when Boyd says, “it never suggests that the
+individuals who participated in this event were predestined to do so,” that he would include
+Christ’s actual choice to go to the cross as left uncertain. If so, in what meaningful sense could we
+see “the crucifixion as a predestined event”?
+
+defining evangelicalism’s boundaries theologically
+207
+crucifixion was divinely foreknown and predestined. After all, even if God
+may not know the roles that Pilate or Herod might play, if the event of the
+crucifixion is predestined, must God not know, at bare minimum, that his
+Son will choose to go to the cross? But just call to mind the strong and emo-
+tionally-charged language open theists regularly offer to the notion that
+God cannot foreknow what creatures freely do. If God knows what they will
+do, their actions cannot genuinely be free. Rather, they are robots, and
+there can be no true love, no true moral action, and no true relationship
+between the constrained agent and God. In fact, some open theists go so far
+as to call God’s predetermination of future actions, carried out in a non-
+consensual manner, as instances of divine rape!28 What can save Boyd’s
+position from being charged with entailing, on openness grounds, that the
+crucifixion of Christ, as predetermined by God, constituted the most egre-
+gious act of divine coercion perpetrated in the history of the universe?
+Furthermore, if the event of the crucifixion was predestined, does this not
+require that every act of Christ’s earthly obedience was also constrained,
+since what was predestined was (obviously) an efficacious crucifixion, that
+is, the crucifixion of a truly sinless atoning sacrifice? But if his life of obedi-
+ence and crucifixion was constrained, is it not, then, morally vacuous, and
+is not the cross, then, worthless? And further yet, if the event of the cruci-
+fixion was predestined “before the foundation of the world,” does this not
+entail God’s foreknowledge of sin? How could God predestine a crucifixion to
+save from sin if sin is not certain? But, what then of human freedom and
+moral responsibility in choosing originally to rebel against God? My own
+view is that consistent open theism will follow Sanders, not Boyd, on this
+point. In any event, I will proceed by unfolding the implications of open the-
+ism assuming Sanders’s view.
+
+===== BLOCK D (p. 208): section II.4.b: suffering permitted for purposes God knows =====
+
+b. Open theism’s denial of exhaustive divine foreknowledge undermines
+the Christian’s hope that affliction, suffering, and trials in life are permitted
+by God for what he knows will turn out to be ultimately good purposes (e.g.
+Rom 8:28; cf. Rom 5:1–5; James 1:2–4).
+Adding to the above point is the
+problem that any assurance we might have had that these hardships are
+part of a bigger, wise, and good plan is now taken away. God’s plans change,
+and, frankly, many, many things happen that he wishes did not. God simply
+cannot give assurances that things will work out for good because he does
+not know how the future will unfold. Face it, we may encounter gratuitous
+evil at any turn, unexpected and unwanted by God, and utterly pointless in
+its purpose for us. Do not expect God to know what you and I cannot know,
+that is, that there are good purposes ultimately for this suffering. Accept
+it; this is the nature of life lived with a God lacking such knowledge of the
+future.
+
+defining evangelicalism’s boundaries theologically
+209
+
+===== BLOCK E (p. 209): section II.4.d: risk against assurance =====
+
+d. Open theism’s denial of exhaustive divine foreknowledge calls into
+question the Church’s ultimate eschatological hope that God will surely ac-
+complish all his plans and purposes, exactly as he has told us in Scripture
+that he will, and openness assurances that he will succeed ring hollow, in
+that not even God knows (that is, can know) what unexpected turns lie ahead
+and how severely these may thwart his purposes or cause him to change his
+plans.
+Openness advocates want it both ways. They want high risk, and
+they also want high assurance of God’s success. They cannot have it both
+ways. Clearly, what wins in the open view is risk; what loses is assurance of
+God’s success. If even God cannot now know the outcome of his purposes
+with free creatures, we certainly cannot be sure whether those plans and
+purposes will prevail.
+
+===== BLOCK F (pp. 209-210, with footnotes 29-30): section III, "Open Theism and Boundaries for Evangelicalism", opening and first comment =====
+
+iii. open theism and boundaries for evangelicalism
+So we return to Dr. Pinnock’s questions: “Why draw the line at
+foreknowledge? . . . What church council has declared it to be impossible?
+Since when has this become the criterion of being orthodox or unorthodox,
+evangelical or not evangelical?”30 Allow me two comments, and then my
+conclusion.
+First, no church council took up this matter, because no serious proposal
+was ever set before the church that would deny what all Christians believed
+without question, namely, that God, as God, knew the future, as well as the
+29 Ibid. 276–77.
+30 Pinnock, Most Moved Mover 106, 110.
+
+journal of the evangelical theological society
+210
+past and present, exhaustively. Because church councils, creeds, and con-
+fessions are occasional in nature, and because no reason ever occasioned
+councils or synods to speak on this issue, therefore God’s exhaustive fore-
+knowledge was accepted without defense or formal creedal declaration. But
+does this history not also imply that when something as fundamental and
+basic to Christian commitment as, in this case, its confidence in God’s
+exhaustive foreknowledge is questioned, or rather denied, that Christians
+ought to unite to declare now what we believe on this matter? In other
+words, as the church in past generations felt obligated to face these weighty
+doctrinal deviations and give voice to its most cherished and non-negotiable
+commitments, so too in our day thoughtful Christians, particularly Chris-
+tian leaders, must speak out on the openness proposal to say what the glory
+of God, the truthfulness of Scripture, and our own consciences require.
+
+===== BLOCK G (pp. 211-212): section IV, "Conclusion" =====
+
+iv. conclusion
+My conclusion is this. The cost to doctrine and faith by open theism’s de-
+nial of exhaustive divine foreknowledge is too great to be accepted within
+evangelicalism. It would be easier to say, let the discussion continue (which
+it will regardless, to be sure) and allow difference of opinion here as we do
+in other matters. After all, drawing the lines will no doubt be perceived by
+some as narrow, perhaps “fundamentalistic,” and unloving, though these
+perceptions will be unfounded. Yet, to fail to challenge a proposal as mas-
+sive in its harmful implications for theology and for the church as found in
+the openness proposal would be utterly irresponsible, and by its neglect, our
+failure would constitute complicity in the harmful effects these doctrinal in-
+novations have for our evangelical theology and for the life of the church.
+
+journal of the evangelical theological society
+212
+So, with deep and abiding longings to honor God and his Word, to see the
+church strengthened, and to retain whatever integrity evangelicalism has
+through its core commitments, I would urge this conclusion: open theism,
+by its denial of exhaustive divine foreknowledge, has shown itself to be un-
+acceptable as a viable, legitimate model within evangelicalism. May God
+grant mercy, wisdom, strength of character, fidelity, and love as we en-
+deavor to follow him and his word in the days ahead.
