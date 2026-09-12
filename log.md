@@ -2191,3 +2191,10 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-12T00:38:16Z` verify_refs: 116/116 verified
 - `2026-09-12T00:38:50Z` lint_citations: PASS
 - `2026-09-12T00:38:50Z` lint_links: PASS
+- `2026-09-12T06:40:42Z` verify_refs: 117/117 verified
+- `2026-09-12T06:40:51Z` build_manifest: 415 notes indexed
+- `2026-09-12T06:41:03Z` lint_citations: PASS
+- `2026-09-12T06:41:04Z` lint_links: PASS
+- `2026-09-12T06:42:00Z` cycle (WCF capture + sovereignty/free-will grounding): addressed the WCF portion of the human INBOX entry 2026-09-08 (sovereignty/free-will paper outline). Captured the Westminster Confession of Faith chapters 3 §§1-2, 5 §§1-4 and 9 §§1-3 verbatim from the OPC edition (opc.org/wcf.html, the correct host for ch. 9 "Of Free Will"; CCEL's ch. 9 is a PCUS variant) into raw/202609120640-westminster-confession-3-5-9.txt. Added reference westminster-confession-of-faith--202609120640 (primary-text, Chicago strings rendered by verify_refs from csl_json), literature the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645 (locators WCF 3.1/3.2/5.1-4/9.1-3), and permanent the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650 (WCF 3.1 stated as a single proposition; source edge to the new ref, shared-concept to 202609111825, supports to 202609081827). Wired into MOC 202608311945 under "Free will under sovereignty" plus a sources-block line. Opportunistic groundedness upgrade: added a direct `source` edge from 202609111825 (whose WCF 3.2 quote was second-hand via Van Horn/Helm) to the new WCF reference; body substance left unchanged. INBOX 2026-09-08 moved new -> in-progress with a dated WCF-closed progress note; remaining public-domain gaps (Calvin, Edwards, Aquinas, Spurgeon, scriptures) left open. Gates: verify_refs 117/117 (offline), build_manifest 415 notes (--check clean), lint_citations clean, lint_links clean.
+- `2026-09-12T06:42:56Z` lint_citations: PASS
+- `2026-09-12T06:42:57Z` lint_links: PASS

@@ -407,6 +407,9 @@
     "202609111827": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827",
     "202609120030": "the-sep-motivation-section-derives-simplicity-from-aseity-and-necessity-and-uses-it-to-dissolve-euthyphro--202609120030",
     "202609120040": "divine-simplicity-dissolves-the-euthyphro-dilemma-by-making-god-the-standard--202609120040",
+    "202609120640": "westminster-confession-of-faith--202609120640",
+    "202609120645": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645",
+    "202609120650": "the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -784,7 +787,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 412,
+  "note_count": 415,
   "notes": [
     {
       "id": "202609041020",
@@ -8893,6 +8896,10 @@
         {
           "relation": "source",
           "target_id": "van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith--202609120640"
         }
       ],
       "path": "permanent/the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825.md",
@@ -8900,7 +8907,7 @@
       "tags": [],
       "title": "The Reformed answer to the grounding objection is the decree itself, and the Westminster Confession states the order of dependence opposite to Molina's",
       "type": "permanent",
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825.md"
     },
     {
@@ -9728,6 +9735,48 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md"
     },
     {
+      "id": "202609120650",
+      "key": "the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650",
+      "links": [
+        {
+          "relation": "supports",
+          "target_id": "the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith--202609120640"
+        }
+      ],
+      "path": "permanent/the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650.md",
+      "slug": "the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition",
+      "tags": [],
+      "title": "The Westminster Confession asserts sovereign ordination and creaturely liberty as a single proposition (WCF 3.1)",
+      "type": "permanent",
+      "updated": "2026-09-12",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650.md"
+    },
+    {
+      "id": "202609120645",
+      "key": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith--202609120640"
+        }
+      ],
+      "path": "literature/the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645.md",
+      "slug": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will",
+      "tags": [],
+      "title": "The Westminster Confession joins eternal decree to the natural liberty of the will",
+      "type": "literature",
+      "updated": "2026-09-12",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645.md"
+    },
+    {
       "id": "202609041435",
       "key": "the-zaydi-glossary-reads-mushrikat-as-those-not-of-the-people-of-the-book--202609041435",
       "links": [
@@ -10418,6 +10467,18 @@
       "type": "permanent",
       "updated": "2026-09-09",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/weak-actualization-claims-meticulous-providence-without-determination-and-concedes-infeasible-worlds--202609090103.md"
+    },
+    {
+      "id": "202609120640",
+      "key": "westminster-confession-of-faith--202609120640",
+      "links": [],
+      "path": "reference/westminster-confession-of-faith--202609120640.md",
+      "slug": "westminster-confession-of-faith",
+      "tags": [],
+      "title": "The Westminster Confession of Faith (OPC edition)",
+      "type": "reference",
+      "updated": "2026-09-12",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-confession-of-faith--202609120640.md"
     },
     {
       "id": "202609040825",
