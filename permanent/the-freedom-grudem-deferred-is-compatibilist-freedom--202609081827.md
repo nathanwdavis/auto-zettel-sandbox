@@ -54,14 +54,15 @@ technical name attached. The base's inference is confirmed from the primary
 text, which is the outcome the standing request for this chapter was filed to
 get.
 
-One further sentence is worth keeping because it changes the *kind* of claim
+One further point is worth keeping because it changes the *kind* of claim
 being made. Grudem argues that the freedom his opponents want is not merely
 unscriptural but incoherent given preservation: because God continually upholds
-every creature in existence — the verb he presses is *pherō*, "carry, bear,"
-which "does not mean simply" a static holding-in-being but carries "the sense of
-active, purposeful control over the thing being carried from one place to
-another" — "to be outside of that providential control would simply be not to
-exist!" That is not
+every creature in existence. On the reconstructed capture — whose wording still
+awaits page-image verification, so it is given here as summary rather than
+quotation — Grudem presses the Greek verb pherō, glossed carry or bear, and
+argues that preservation is not a static holding-in-being but an active,
+purposeful control over the thing being carried, so that to be outside of that
+providential control would, on his account, be not to exist at all. That is not
 an appeal to a text about freedom; it is an argument
 that libertarian independence is unavailable to a creature whose existence is
 moment-by-moment upheld. The doctrine of preservation, in other words, is doing
@@ -91,15 +92,18 @@ borrow: a "compatibilist middle knowledge" by which God knows the choice
 from the character and the circumstances ([[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]]). Nothing above is
 withdrawn.
 
-**Corrected 2026-09-12, on an INBOX finding (2026-09-11 critic).** The
-2026-09-08 body attributed to Grudem the words "continually carrying along all
-things," and that exact string is in no capture in `raw/`. The claim it carried
-— that preservation is a moment-by-moment upholding of existence — is grounded
-in the ch. 16 capture (raw/202609081823, via
+**Corrected 2026-09-12, on INBOX findings.** The 2026-09-08 body attributed to
+Grudem the words "continually carrying along all things," and that exact string
+is in no capture in `raw/`; it has been removed. The claim it carried — that
+preservation is a moment-by-moment upholding of existence — is drawn from the
+ch. 16 capture (raw/202609081823, via
 [[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]),
-which gives *pherō*, "carry, bear," the gloss that it "does not mean simply
-'sustain'" but has "the sense of active, purposeful control over the thing being
-carried from one place to another," and the "would simply be not to exist!"
-line at p. 34. The sentence has been rewritten to quote only those verified
-strings and to state the upholding as attributed summary. The reading is
-unchanged; one unverified quotation was removed.
+which is a RECONSTRUCTION, not a verbatim capture. The passages it supplies here
+— the pherō gloss on preservation at export p. 3 and the "not to exist" line at
+export p. 34 — are not among the six page images that were rendered and read
+directly to check the reconstruction (export pp. 2, 9, 35, 64, 69, 77). Because
+the Grudem source is currently access-blocked and page-image verification of
+pp. 3 and 34 is not presently possible (documented in INBOX), those passages are
+now rendered as ATTRIBUTED SUMMARY / PARAPHRASE of Grudem's position rather than
+as direct quotation, pending page-image verification. The reading is unchanged;
+no verbatim wording is asserted from the unverified reconstruction.
