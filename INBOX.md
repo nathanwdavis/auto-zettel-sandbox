@@ -4158,7 +4158,19 @@ fixed.
 
 ## 2026-09-05 — Evidence, HIGH: a committed capture does not contain the passage three notes cite it for, and nobody noticed for two days
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** answered
+- **resolved 2026-09-12:** Section 1 ("Motivation") of the SEP "Divine
+  Simplicity" entry re-fetched and captured to
+  raw/202609120015-sep-divine-simplicity-motivation-section.txt, attached to
+  reference 202609042072 as an `excerpt_capture` (the immutable 2026-09-04
+  capture was left untouched). The new capture contains all four passages the
+  chain cited ("Question 3 right after Question 2", the Trinity-"motivating DDS"
+  sentence, the Wedgeworth quotation that Athanasius "consistently used the
+  doctrine of divine simplicity", and "lies beyond the scope"). A body note on
+  the reference records that the original capture's header overstated its extent.
+  The general "grep the bytes before citing" rule is left for the skill-smith as
+  a separate standing item; not fixed here (skill repo is out of scope for a
+  content cycle).
 - **priority:** high
 - **asked_by:** maintenance-run (2026-09-05, second cycle, critic finding)
 
@@ -4714,3 +4726,13 @@ and that string is in no capture in raw/ (the neighbouring "would simply be
 not to exist!" is). The quotation needs either a capture of the preservation
 passage or rewording as attributed summary; left for a correction cycle,
 because today's amendment to that note did not touch the 2026-09-08 text.
+
+- **status:** answered
+- **resolved 2026-09-12:** Reworded as attributed summary rather than capturing
+  a new passage. The unverified "continually carrying along all things" quote
+  was removed from the 2026-09-08 body of 202609081827; the preservation claim
+  now quotes only strings verified in raw/202609081823 (via reference
+  202609081824): *pherō* "carry, bear," the "not … simply 'sustain'" / "active,
+  purposeful control over the thing being carried" gloss (p. 3), and "would
+  simply be not to exist!" (p. 34). A dated "Corrected 2026-09-12" block records
+  the change on the note. Reading unchanged; one unverified quotation removed.

@@ -46,9 +46,11 @@ verification:
   verified: true
   date: '2026-09-04T19:57:55Z'
 raw_capture: raw/202609042072-sep-divine-simplicity-excerpt.txt
+excerpt_captures:
+- raw/202609120015-sep-divine-simplicity-motivation-section.txt
 links: []
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-12'
 ---
 
 Bibliographic record. The Stanford Encyclopedia of Philosophy entry on divine
@@ -59,3 +61,18 @@ bounded excerpt per this repository's excerpt policy.
 Recorded as reputable-secondary. Used here only for the cross-tradition mapping
 and the placement of the doctrine, not as authority on any tradition's own
 formulation -- for which the primary records on file are cited instead.
+
+**Capture-extent correction, 2026-09-12.** The primary capture
+`raw/202609042072-sep-divine-simplicity-excerpt.txt` (2026-09-04) stops at the
+words "1. Motivation": it holds the entry's preamble paragraph but NOT section 1,
+even though its header claimed to run "down to the start of section 2." Four
+passages that literature note
+[[the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077]]
+quotes (the Aquinas *Summa* "Question 3 right after Question 2" sentence, the
+Trinity-as-"motivating DDS" sentence, the Wedgeworth 2019 quotation on
+Athanasius, and "lies beyond the scope of this entry") therefore had no bytes
+behind them on file, though the critic had checked them against the live entry.
+The whole of section 1 has now been re-fetched and captured to
+`raw/202609120015-sep-divine-simplicity-motivation-section.txt` (an
+`excerpt_capture` above), which contains all four verbatim. This closes the
+2026-09-05 INBOX finding of that name.
