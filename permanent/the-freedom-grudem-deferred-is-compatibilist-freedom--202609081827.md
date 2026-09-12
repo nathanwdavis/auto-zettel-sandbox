@@ -20,7 +20,7 @@ links:
 - target_id: wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820
   relation: elaborates
 created: '2026-09-08'
-updated: '2026-09-11'
+updated: '2026-09-12'
 ---
 Chapter 12's section on God's knowledge ended by conceding that "there must be
 some sense in which our choices are not absolutely free," adopting Ware's
@@ -56,9 +56,13 @@ get.
 
 One further sentence is worth keeping because it changes the *kind* of claim
 being made. Grudem argues that the freedom his opponents want is not merely
-unscriptural but incoherent given preservation: since Christ is "continually
-carrying along all things," to be outside providential control "would simply be
-not to exist!" That is not an appeal to a text about freedom; it is an argument
+unscriptural but incoherent given preservation: because God continually upholds
+every creature in existence — the verb he presses is *pherō*, "carry, bear,"
+which "does not mean simply" a static holding-in-being but carries "the sense of
+active, purposeful control over the thing being carried from one place to
+another" — "to be outside of that providential control would simply be not to
+exist!" That is not
+an appeal to a text about freedom; it is an argument
 that libertarian independence is unavailable to a creature whose existence is
 moment-by-moment upheld. The doctrine of preservation, in other words, is doing
 work in the doctrine of freedom.
@@ -86,3 +90,16 @@ witnesses also show what Ware builds on the definition and Grudem does not
 borrow: a "compatibilist middle knowledge" by which God knows the choice
 from the character and the circumstances ([[wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820]]). Nothing above is
 withdrawn.
+
+**Corrected 2026-09-12, on an INBOX finding (2026-09-11 critic).** The
+2026-09-08 body attributed to Grudem the words "continually carrying along all
+things," and that exact string is in no capture in `raw/`. The claim it carried
+— that preservation is a moment-by-moment upholding of existence — is grounded
+in the ch. 16 capture (raw/202609081823, via
+[[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]]),
+which gives *pherō*, "carry, bear," the gloss that it "does not mean simply
+'sustain'" but has "the sense of active, purposeful control over the thing being
+carried from one place to another," and the "would simply be not to exist!"
+line at p. 34. The sentence has been rewritten to quote only those verified
+strings and to state the upholding as attributed summary. The reading is
+unchanged; one unverified quotation was removed.

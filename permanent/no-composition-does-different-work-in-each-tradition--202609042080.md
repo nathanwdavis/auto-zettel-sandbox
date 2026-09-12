@@ -21,8 +21,10 @@ links:
   relation: source
 - target_id: maimonides-denies-any-composition-in-gods-unity--202608311932
   relation: elaborates
+- target_id: divine-simplicity-dissolves-the-euthyphro-dilemma-by-making-god-the-standard--202609120040
+  relation: shared-concept
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-12'
 ---
 [[maimonides-denies-any-composition-in-gods-unity--202608311932]] ends by issuing
 a challenge — "any account on which the one God contains real internal

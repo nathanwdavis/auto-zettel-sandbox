@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-11'
+updated: '2026-09-12'
 ---
 # Abrahamic conceptions of God
 
@@ -630,6 +630,15 @@ are "not other than He") leaned Maimonidean. al-Ash'ari's own doxography, the
 confirms the prediction.
 
 - [[al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135]] — reporting Ibn Kullab (p. 546), the Maqalat gives both negations, *la hiya huwa wa-la ghayruhu*: the attributes are real and eternal yet neither identical with the essence (against the Mu'tazila) nor "other than" it (which would break simplicity). Two settings sit on the one axis — the Mu'tazila reducing the attributes to the essence at the Maimonidean end, the Kullabi–Ash'ariyya fencing the no-composition constraint short of them at the middle.
+
+### The Euthyphro payoff, added 2026-09-12
+
+Section 1 of the SEP entry — which the 2026-09-04 capture stopped short of, and a
+2026-09-12 repair capture now supplies in full — lists a motivation for the
+doctrine the subsections above did not carry: divine simplicity offered as a
+solution to the Euthyphro dilemma.
+
+- [[divine-simplicity-dissolves-the-euthyphro-dilemma-by-making-god-the-standard--202609120040]] — if God is goodness itself rather than a possessor of goodness he is the standard rather than subject to one, and if he is identical with his willing he cannot will otherwise than the good; both horns of the dilemma assume a distinction simplicity denies. A payoff claimed for the conclusion, distinct from the argument from dependence that reaches it.
 
 ## The communicable half, added 2026-09-08: what the doctrine of God is for
 

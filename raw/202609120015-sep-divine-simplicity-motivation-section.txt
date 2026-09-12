@@ -1,0 +1,37 @@
+Capture of https://plato.stanford.edu/entries/divine-simplicity/
+Reference note id: 202609042072
+Fetched: 2026-09-12T00:15:51Z
+Provenance: fetched by curl over HTTPS; article HTML 129969 bytes,
+SHA-256 1214cf229658d974f4671d27fe13b4004dea7a2c6b2b7093fc17abc1a57f9c0b. Text is the <p> content of section 1 in document order,
+HTML tags stripped and line wrapping normalised to one paragraph per block
+(same normalisation as the 2026-09-04 capture on this reference).
+
+Bounded excerpt, per this repository's excerpt policy. This is a REPAIR capture
+attached to reference 202609042072 as an excerpt_capture. The 2026-09-04 primary
+capture (raw/202609042072-sep-divine-simplicity-excerpt.txt) stopped at the words
+"1. Motivation" -- it holds only the entry's preamble paragraph ("DDS is
+represented not only in classical Christian theology...") and NOT section 1,
+although its header claimed to run "down to the start of section 2." This file
+supplies the whole of section 1, "Motivation," which contains the four passages
+the literature note 202609042077 quotes: the Summa "Question 3 right after
+Question 2" sentence, the Trinity-as-"motivating DDS" sentence, the Wedgeworth
+(2019, 62) quotation that Athanasius "consistently used the doctrine of divine
+simplicity," and "lies beyond the scope of this entry." Sections 2-7 and the
+bibliography remain NOT captured.
+Wording verbatim; SEP entry, Winter 2023 edition, substantive revision 2023-10-20.
+
+===== EXCERPT: section 1, "Motivation" (complete) =====
+
+1. Motivation
+
+What could motivate such a strange and seemingly incoherent doctrine? One central consideration in its favor derives from the Anselmian definition of God as maximally perfect, as that than which no greater can be conceived. A God who was less than maximally perfect would not be an absolute reality and an appropriate object of worship. A God who was less than ultimate and absolute would be an idol. Now an absolute reality must be a se, from itself, and so not dependent on anything distinct from itself either for its nature or for its existence. If God had properties in the way creatures have them, however, he would be distinct from them and so dependent on them. This is the case whether one thinks of a property of x as a constituent of x, or as an entity external to x to which x is tied by the asymmetrical relation (or nonrelational tie) of instantiation. If the properties of x are constituents or ontological (proper) parts of x, then x will depend on them in the same way that any whole composed of parts depends on its parts. But if x is tied to its properties by the asymmetrical relation of instantiation, it is still the case that x will depend on them: if x is F in virtue of x’s instantiation of F-ness, then F-ness is a logically prior condition of x’s being F. In sum, the divine aseity would seem to require that God be rather than have his attributes.
+
+One can also arrive at the simplicity doctrine via the divine necessity. As maximally perfect, as that than which no greater can be conceived, God must be a metaphysically necessary being, one that cannot not exist. A necessary being is one whose possibility entails its existence, and whose nonexistence entails its impossibility. But what could be the ground of this necessity of existence if not the identity in God of essence and existence, possibility and actuality? Saying that God exists in all metaphysically possible worlds does not provide a ground, but merely a graphic Leibnizian representation, of the notion of necessary being. The possible worlds representation also does not distinguish the necessity of God from that of an abstract object such as the set of even primes. God is not just another necessary being among necessary beings; he is uniquely necessary as the source and ground of everything distinct from himself, including all non-divine necessary beings. Indeed, God is uniquely unique, i.e., unique in his mode of uniqueness, in that he is not one of a kind, or necessarily one of a kind, but unique in transcending the kind-instance difference altogether. A divine being cannot possess contingent modal status: if God exists, then he is necessary, and if he does not exist, then he is impossible. So if God exists, then there is a very tight connection between the divine nature and the divine existence. The simplicity doctrine in its traditional and strongest form assays this ‘tightness’ as identity. The divine simplicity thus grounds the divine necessity. God is necessary because he is simple. It is easy to see that the divine simplicity also grounds God’s possession of essential properties. God has his attributes essentially because he is identical to his attributes. Nothing is more essential to a thing than something to which it is identical.
+
+A third motivation for DDS lies in the fact that it provides a solution to the ancient Euthyphro dilemma first presented by Plato in his eponymous dialog. Does God command the good because it is good, and forbid the bad because it is bad, or is the good good and the bad bad because God commands/forbids it? If the former, God’s willing would be subject to an external standard logically antecedent to God to the detriment of the divine sovereignty. If the latter, the content of morality would be arbitrary because subject to God’s free will. On DDS, however, the dilemma is a false alternative. If God is goodness itself in its prime instance, then he is not subject to a standard; he is the standard. And if God, being simple, just is his willing, then he cannot will anything other than the good and the appearance of arbitrarity vanishes. See Feser (2009, 129) who draws on Stump (2003).
+
+Note that while the traditional approach to divine simplicity is in terms of identity, this approach is open to what Dolezal (2011, 136–144) calls the “harmonist challenge” according to which, on one variation, that of Immink (1987), the divine attributes are not identical but necessarily equivalent. Dolezal also counts Swinburne (1994) among the harmonists. Harmonism will not be discussed further in this entry. See Dolezal (2011) for competent critique of harmonism and for an overall excellent defense of DDS.
+
+Besides perfection and necessity, immateriality, eternity, and immutability also seem to point to simplicity as their ground. Because God is simple, he cannot have parts and so cannot have material or temporal parts. And because God is simple, he cannot harbor any unrealized potentialities, and so must be immutable. The centrality of DDS to medieval philosophical theology is shown by its position in the order of topics in Aquinas’ Summa Theologica. It occurs as Question 3 right after Question 2 on the existence of God.
+
+Finally, the triune nature of the God of classical Christian theism may also be taken as motivating DDS within Christian theology, and this despite the initial suspicion that Trinity is incompatible with divine simplicity. According to Wedgeworth (2019, 62), “Athanasius of Alexandria consistently used the doctrine of divine simplicity to argue that the Son’s eternal Generation from the Father proved his absolute deity ….” To pursue this further lies beyond the scope of this entry.
