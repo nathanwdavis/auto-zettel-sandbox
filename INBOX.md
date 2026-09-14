@@ -4418,7 +4418,7 @@ to have the same defect and checked the same way.
 
 ## 2026-09-08 — Paper outline on sovereignty and free will: the gaps it exposes
 
-- **status:** new
+- **status:** in-progress
 - **priority:** normal
 - **asked_by:** human (session request: "outline of the various opinions, sources and connections" for a Systematic Theology paper arguing that God's sovereign will and human free will coexist and are equally true)
 
@@ -4443,6 +4443,19 @@ later run could capture so that the outline's `[verified]`, `[second-hand]` and
   statement of the thesis (3.1) is not on file. CCEL carries ch. 3 and ch. 5; the
   CCEL "ch. 9" page turned out to be a PCUS variant ("Of the Holy Spirit"), so ch. 9
   needs a different host.
+  - **2026-09-12 progress (WCF closed):** captured verbatim from the OPC edition
+    (opc.org/wcf.html, the correct host carrying ch. 9 "Of Free Will") — chapters
+    3 §§1-2, 5 §§1-4, 9 §§1-3, in raw/202609120640-westminster-confession-3-5-9.txt.
+    New reference westminster-confession-of-faith--202609120640, literature
+    the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645,
+    and permanent
+    the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650
+    (WCF 3.1 as the single-proposition statement of the thesis). Wired into the
+    Abrahamic MOC's "Free will under sovereignty" section, and the WCF 3.2 quote
+    in 202609111825 now carries a direct `source` edge to the new reference.
+    The remaining public-domain gaps in this entry (Calvin I.16-18/II/III,
+    Edwards, Aquinas ST I q.83 & q.105, Spurgeon, the conjunction scriptures)
+    stay open; entry stays in-progress.
 - Edwards, *Freedom of the Will* (1754), Part I secs. 1, 2, 5. CCEL
   (`ccel.org/ccel/edwards/will/will.ii.v.html` for sec. 5).
 - Aquinas, *ST* I q.83 a.1 and q.105 a.4-5 (New Advent), the classical root of

@@ -20,6 +20,8 @@ links:
   relation: source
 - target_id: laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818
   relation: source
+- target_id: westminster-confession-of-faith--202609120640
+  relation: source
 - target_id: molina-reverses-the-direction-of-dependence-god-foreknows-the-free-act-because-the-creature-would-do-it--202609090101
   relation: contradicts
 - target_id: the-grounding-objection-is-molinisms-own-unanswered-question--202609090104
@@ -29,7 +31,7 @@ links:
 - target_id: pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057
   relation: shared-concept
 created: '2026-09-11'
-updated: '2026-09-11'
+updated: '2026-09-12'
 ---
 
 The Westminster Confession, chapter 3, paragraph 2, as Van Horn quotes it:

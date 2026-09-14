@@ -743,6 +743,17 @@ of any Pentateuch-only argument, and the Islamic *qadar* literature, of which
 this map has the attribute debates (Mu'tazili and Ash'ari) but nothing on human
 acts. The Islamic leg is the one this base has the infrastructure to reach next.
 
+### The confession behind the thesis, added 2026-09-12
+
+The section above argued the Christian side from Grudem, a modern systematic
+text, and from the Jewish comparison; the Christian confessional standard the
+sovereignty/free-will paper outline actually argues from was on file only as
+Grudem and Van Horn quote it. The Westminster Confession is now captured
+directly (chapters 3, 5 and 9) from the OPC edition — the correct host for
+chapter 9 "Of Free Will", where CCEL's page is a PCUS variant.
+
+- [[the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650]] — WCF 3.1 states the eternal decree and the establishment of creaturely liberty in a single sentence, so the Confession denies that sovereignty and freedom are two doctrines to be balanced; chapter 9 makes that liberty compatibilist — freedom from compulsion, not from the decree. It reaches forward into the Reformed-reply section below, where WCF 3.2's order of dependence does the polemical work against middle knowledge.
+
 ## Middle knowledge, added 2026-09-09: the Molinist leg argued from inside
 
 Until this date the map held Molinism only as Grudem reports it: one essay of
@@ -890,7 +901,8 @@ The Trinity, from the same Hodge volume's ch. VI (second capture on that referen
 [[hodge-on-the-two-readings-the-councils-ruled-out--202609041715]].
 Providence and free will, from the second edition captures of Grudem: [[grudem-systematic-theology--202609050158]]
 (literature: [[grudem-divine-attributes-incommunicable-and-communicable--202609050547]], [[grudem-trinity-three-persons-one-god--202609050548]], [[grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915]], [[grudem-defines-god-s-spirituality-as-immateriality--202609071347]], [[grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645]], [[grudem-defines-providence-as-preservation-concurrence-and-government--202609081824]], [[grudem-answers-the-arminian-by-comparing-unanswered-questions--202609081825]], [[grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904]]); and the Jewish leg, [[maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910]], [[pirkei-avot-3-15--202609081911]]
-(literature: [[maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912]], [[akiva-states-both-halves-and-reconciles-neither--202609081913]]).
+(literature: [[maimonides-makes-free-will-a-pillar-of-the-torah-and-refers-the-paradox-upward--202609081912]], [[akiva-states-both-halves-and-reconciles-neither--202609081913]]); and the Reformed confessional standard, [[westminster-confession-of-faith--202609120640]]
+(literature: [[the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645]]).
 Middle knowledge: [[molina-concordia-liberi-arbitrii--202609090050]], [[laing-middle-knowledge-iep--202609090051]], [[pohle-molinism-catholic-encyclopedia--202609090052]], [[astrain-congregatio-de-auxiliis-catholic-encyclopedia--202609090053]]
 (literature: [[molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055]], [[laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056]], [[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]], [[astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058]]).
 The Reformed reply to middle knowledge: [[helm-shunning-middle-knowledge--202609111810]], [[helm-and-more-on-molinism--202609111811]], [[van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812]], [[laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813]], [[ware-is-open-theism-evangelical--202609111814]]

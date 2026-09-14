@@ -3051,5 +3051,24 @@
     "title": "Defining Evangelicalism's Boundaries Theologically: Is Open Theism Evangelical?",
     "type": "article-journal",
     "volume": "45"
+  },
+  {
+    "URL": "https://www.opc.org/wcf.html",
+    "author": [
+      {
+        "literal": "Westminster Assembly"
+      }
+    ],
+    "id": "202609120640",
+    "issued": {
+      "date-parts": [
+        [
+          1646
+        ]
+      ]
+    },
+    "publisher": "The Orthodox Presbyterian Church",
+    "title": "The Westminster Confession of Faith",
+    "type": "book"
   }
 ]
