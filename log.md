@@ -2209,3 +2209,40 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-14T16:42:03Z` lint_links: PASS
 - `2026-09-14T16:42:33Z` lint_citations: PASS
 - `2026-09-14T16:42:34Z` lint_links: PASS
+- `2026-09-14T16:57:22Z` remote_cycle: agents: resolved 8 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
+- `2026-09-14T16:57:22Z` remote_cycle: start (mode=B holder=remote-session session=unknown branch=zettel/run-20260914165722 skill-rev=17e9f39)
+- `2026-09-14T16:57:23Z` capture: inquiry -> inquiries/what-are-the-earliest-preserved-writings-that-touch-on-the--202609141657.md
+- `2026-09-14T16:58:10Z` capture: inquiry-update what-are-the-earliest-preserved-writings-that-touch-on-the--202609141657 status=new->in-progress
+- `2026-09-14T16:58:40Z` capture: reference -> reference/justin-martyr-first-apology--202609141658.md (identity=url:newadvent.org/fathers/0126.htm, verified=no)
+- `2026-09-14T16:58:45Z` fetch_source: justin-martyr-first-apology--202609141658 <- https://www.newadvent.org/fathers/0126.htm (renderer=none, 171704 bytes)
+- `2026-09-14T16:59:18Z` capture: reference -> reference/irenaeus-against-heresies-book-iv--202609141659.md (identity=url:newadvent.org/fathers/0103437.htm, verified=no)
+- `2026-09-14T16:59:19Z` fetch_source: irenaeus-against-heresies-book-iv--202609141659 <- https://www.newadvent.org/fathers/0103437.htm (renderer=none, 25101 bytes)
+- `2026-09-14T16:59:22Z` capture: reference -> reference/origen-de-principiis-book-iii--202609141700.md (identity=url:newadvent.org/fathers/04123.htm, verified=no)
+- `2026-09-14T16:59:23Z` fetch_source: origen-de-principiis-book-iii--202609141700 <- https://www.newadvent.org/fathers/04123.htm (renderer=none, 292628 bytes)
+- `2026-09-14T16:59:26Z` capture: reference -> reference/augustine-on-grace-and-free-will--202609141701.md (identity=url:newadvent.org/fathers/1510.htm, verified=no)
+- `2026-09-14T16:59:27Z` fetch_source: augustine-on-grace-and-free-will--202609141701 <- https://www.newadvent.org/fathers/1510.htm (renderer=none, 185113 bytes)
+- `2026-09-14T17:01:46Z` capture: literature -> literature/justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702.md
+- `2026-09-14T17:02:18Z` capture: literature -> literature/irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703.md
+- `2026-09-14T17:02:19Z` capture: literature -> literature/origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704.md
+- `2026-09-14T17:05:16Z` capture: literature -> literature/augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705.md
+- `2026-09-14T17:06:19Z` capture: permanent -> permanent/the-earliest-preserved-christian-writings-on-free-will--202609141706.md
+- `2026-09-14T17:07:34Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-14T17:07:43Z` verify_refs: 121/121 verified
+- `2026-09-14T17:08:20Z` capture: permanent -> permanent/justin-states-the-foreknowledge-entails-necessity-inference--202609141708.md
+- `2026-09-14T17:08:42Z` capture: permanent -> permanent/origen-answers-the-hardening-of-pharaoh-with-the--202609141709.md
+- `2026-09-14T17:09:08Z` capture: permanent -> permanent/the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710.md
+- `2026-09-14T17:10:44Z` verify_refs: 121/121 verified
+- `2026-09-14T17:10:56Z` lint_citations: PASS
+- `2026-09-14T17:10:56Z` lint_links: PASS
+- `2026-09-14T17:10:56Z` lint_skills: PASS
+- `2026-09-14T17:10:58Z` check_skill_sandbox: PASS
+- `2026-09-14T17:10:58Z` remote_cycle: gates PASS
+- `2026-09-14T17:11:26Z` capture: inquiry-update what-are-the-earliest-preserved-writings-that-touch-on-the--202609141657 status=in-progress->answered result_notes=+the-earliest-preserved-christian-writings-on-free-will--202609141706,justin-states-the-foreknowledge-entails-necessity-inference--202609141708,origen-answers-the-hardening-of-pharaoh-with-the--202609141709,the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710
+- `2026-09-14T17:12:23Z` verify_refs: 121/121 verified
+- `2026-09-14T17:12:35Z` lint_citations: PASS
+- `2026-09-14T17:12:36Z` lint_links: PASS
+- `2026-09-14T17:12:36Z` lint_skills: PASS
+- `2026-09-14T17:12:37Z` check_skill_sandbox: PASS
+- `2026-09-14T17:12:37Z` remote_cycle: gates PASS
+- `2026-09-14T17:12:37Z` remote_cycle: finish zettel/run-20260914165722 (skill-rev=17e9f39; lock released after push)
+- `2026-09-14T17:12:37Z` remote_cycle: PR for zettel/run-20260914165722 must be opened by the session (GitHub CLI not installed in this container)

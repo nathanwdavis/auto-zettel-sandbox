@@ -410,6 +410,18 @@
     "202609120640": "westminster-confession-of-faith--202609120640",
     "202609120645": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645",
     "202609120650": "the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650",
+    "202609141658": "justin-martyr-first-apology--202609141658",
+    "202609141659": "irenaeus-against-heresies-book-iv--202609141659",
+    "202609141700": "origen-de-principiis-book-iii--202609141700",
+    "202609141701": "augustine-on-grace-and-free-will--202609141701",
+    "202609141702": "justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702",
+    "202609141703": "irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703",
+    "202609141704": "origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704",
+    "202609141705": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705",
+    "202609141706": "the-earliest-preserved-christian-writings-on-free-will--202609141706",
+    "202609141708": "justin-states-the-foreknowledge-entails-necessity-inference--202609141708",
+    "202609141709": "origen-answers-the-hardening-of-pharaoh-with-the--202609141709",
+    "202609141710": "the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -624,6 +636,20 @@
       "updated": "2026-09-04"
     },
     {
+      "key": "what-are-the-earliest-preserved-writings-that-touch-on-the--202609141657",
+      "path": "inquiries/what-are-the-earliest-preserved-writings-that-touch-on-the--202609141657.md",
+      "priority": "high",
+      "question": "What are the earliest preserved writings that touch on the debate in the Christian church between the doctrine of the sovereignty of God and the doctrine of human free will?",
+      "result_notes": [
+        "justin-states-the-foreknowledge-entails-necessity-inference--202609141708",
+        "origen-answers-the-hardening-of-pharaoh-with-the--202609141709",
+        "the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710",
+        "the-earliest-preserved-christian-writings-on-free-will--202609141706"
+      ],
+      "status": "answered",
+      "updated": "2026-09-14"
+    },
+    {
       "key": "what-are-the-primary-distinctions-between-the-christian--202609081908",
       "path": "inquiries/what-are-the-primary-distinctions-between-the-christian--202609081908.md",
       "priority": "high",
@@ -787,7 +813,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 415,
+  "note_count": 427,
   "notes": [
     {
       "id": "202609041020",
@@ -1970,6 +1996,35 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202609141701",
+      "key": "augustine-on-grace-and-free-will--202609141701",
+      "links": [],
+      "path": "reference/augustine-on-grace-and-free-will--202609141701.md",
+      "slug": "augustine-on-grace-and-free-will",
+      "tags": [],
+      "title": "Augustine, On Grace and Free Will",
+      "type": "reference",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/augustine-on-grace-and-free-will--202609141701.md"
+    },
+    {
+      "id": "202609141705",
+      "key": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-on-grace-and-free-will--202609141701"
+        }
+      ],
+      "path": "literature/augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705.md",
+      "slug": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be",
+      "tags": [],
+      "title": "Augustine writes to monks who took his case for grace to be a denial of free will, and the dispute is now between Christians",
+      "type": "literature",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705.md"
     },
     {
       "id": "202609040814",
@@ -4357,6 +4412,93 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md"
     },
     {
+      "id": "202609141659",
+      "key": "irenaeus-against-heresies-book-iv--202609141659",
+      "links": [],
+      "path": "reference/irenaeus-against-heresies-book-iv--202609141659.md",
+      "slug": "irenaeus-against-heresies-book-iv",
+      "tags": [],
+      "title": "Irenaeus, Against Heresies, Book IV",
+      "type": "reference",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/irenaeus-against-heresies-book-iv--202609141659.md"
+    },
+    {
+      "id": "202609141703",
+      "key": "irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "irenaeus-against-heresies-book-iv--202609141659"
+        }
+      ],
+      "path": "literature/irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703.md",
+      "slug": "irenaeus-grounds-free-will-in-creation-and-aims-it-at-the",
+      "tags": [],
+      "title": "Irenaeus grounds free will in creation and aims it at the Gnostic doctrine of natures",
+      "type": "literature",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703.md"
+    },
+    {
+      "id": "202609141702",
+      "key": "justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "justin-martyr-first-apology--202609141658"
+        }
+      ],
+      "path": "literature/justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702.md",
+      "slug": "justin-answers-the-fatalist-reading-of-prophecy-by-making",
+      "tags": [],
+      "title": "Justin answers the fatalist reading of prophecy by making free choice the condition of desert",
+      "type": "literature",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702.md"
+    },
+    {
+      "id": "202609141658",
+      "key": "justin-martyr-first-apology--202609141658",
+      "links": [],
+      "path": "reference/justin-martyr-first-apology--202609141658.md",
+      "slug": "justin-martyr-first-apology",
+      "tags": [],
+      "title": "Justin Martyr, First Apology",
+      "type": "reference",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/justin-martyr-first-apology--202609141658.md"
+    },
+    {
+      "id": "202609141708",
+      "key": "justin-states-the-foreknowledge-entails-necessity-inference--202609141708",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702"
+        },
+        {
+          "relation": "source",
+          "target_id": "justin-martyr-first-apology--202609141658"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-foreknowledge-entailment-is-a-weapon-in-chapter-16--202609081829"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "ware-states-the-foreknowledge-entailment-as-open-theisms-own-reasoning-and-answers-it-as-grudem-does--202609111827"
+        }
+      ],
+      "path": "permanent/justin-states-the-foreknowledge-entails-necessity-inference--202609141708.md",
+      "slug": "justin-states-the-foreknowledge-entails-necessity-inference",
+      "tags": [],
+      "title": "Justin states the foreknowledge-entails-necessity inference in the mid-second century in order to deny it, seventeen centuries before the same inference organises the modern dispute",
+      "type": "permanent",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/justin-states-the-foreknowledge-entails-necessity-inference--202609141708.md"
+    },
+    {
       "id": "202609011540",
       "key": "kabbalah-separates-acknowledging-god-from-addressing-him--202609011540",
       "links": [
@@ -5762,6 +5904,60 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330.md"
+    },
+    {
+      "id": "202609141709",
+      "key": "origen-answers-the-hardening-of-pharaoh-with-the--202609141709",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "origen-de-principiis-book-iii--202609141700"
+        },
+        {
+          "relation": "source",
+          "target_id": "origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "ware-makes-gods-agency-asymmetrical-causing-good-and-occasioning-evil-where-grudem-has-god-cause-all-things--202609111823"
+        }
+      ],
+      "path": "permanent/origen-answers-the-hardening-of-pharaoh-with-the--202609141709.md",
+      "slug": "origen-answers-the-hardening-of-pharaoh-with-the",
+      "tags": [],
+      "title": "Origen answers the hardening of Pharaoh with the occasioning-not-causing asymmetry that Ware reaches for in the twentieth century",
+      "type": "permanent",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/origen-answers-the-hardening-of-pharaoh-with-the--202609141709.md"
+    },
+    {
+      "id": "202609141700",
+      "key": "origen-de-principiis-book-iii--202609141700",
+      "links": [],
+      "path": "reference/origen-de-principiis-book-iii--202609141700.md",
+      "slug": "origen-de-principiis-book-iii",
+      "tags": [],
+      "title": "Origen, De Principiis, Book III",
+      "type": "reference",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/origen-de-principiis-book-iii--202609141700.md"
+    },
+    {
+      "id": "202609141704",
+      "key": "origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "origen-de-principiis-book-iii--202609141700"
+        }
+      ],
+      "path": "literature/origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704.md",
+      "slug": "origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the",
+      "tags": [],
+      "title": "Origen treats the hardening of Pharaoh and Romans 9 as the standing objections to free will and answers them one by one",
+      "type": "literature",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704.md"
     },
     {
       "id": "202609011004",
@@ -7350,6 +7546,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011.md"
     },
     {
+      "id": "202609141710",
+      "key": "the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-on-grace-and-free-will--202609141701"
+        },
+        {
+          "relation": "source",
+          "target_id": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-earliest-preserved-christian-writings-on-free-will--202609141706"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650"
+        }
+      ],
+      "path": "permanent/the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710.md",
+      "slug": "the-debate-becomes-intra-christian-at-hadrumetum-where",
+      "tags": [],
+      "title": "The debate becomes intra-Christian at Hadrumetum, where Augustine's opponents are not Pelagians but monks who had read his own case for grace as a denial of free will",
+      "type": "permanent",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710.md"
+    },
+    {
       "id": "202609011016",
       "key": "the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016",
       "links": [
@@ -7467,6 +7692,51 @@
       "type": "permanent",
       "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-dispute-is-decided-by-which-residue-honours-god-more--202609081831.md"
+    },
+    {
+      "id": "202609141706",
+      "key": "the-earliest-preserved-christian-writings-on-free-will--202609141706",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-on-grace-and-free-will--202609141701"
+        },
+        {
+          "relation": "historical-connection",
+          "target_id": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705"
+        },
+        {
+          "relation": "source",
+          "target_id": "irenaeus-against-heresies-book-iv--202609141659"
+        },
+        {
+          "relation": "source",
+          "target_id": "irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703"
+        },
+        {
+          "relation": "source",
+          "target_id": "justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702"
+        },
+        {
+          "relation": "source",
+          "target_id": "justin-martyr-first-apology--202609141658"
+        },
+        {
+          "relation": "source",
+          "target_id": "origen-de-principiis-book-iii--202609141700"
+        },
+        {
+          "relation": "source",
+          "target_id": "origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704"
+        }
+      ],
+      "path": "permanent/the-earliest-preserved-christian-writings-on-free-will--202609141706.md",
+      "slug": "the-earliest-preserved-christian-writings-on-free-will",
+      "tags": [],
+      "title": "The earliest preserved Christian writings on free will defend it against fate and against Gnostic natures, not against the sovereignty of God",
+      "type": "permanent",
+      "updated": "2026-09-14",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-earliest-preserved-christian-writings-on-free-will--202609141706.md"
     },
     {
       "id": "202609041910",
