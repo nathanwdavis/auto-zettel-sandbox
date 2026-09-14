@@ -720,6 +720,31 @@ two wills are the decree-side vocabulary the providence chapter assumes.
 - [[deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906]] — the proof text partitions what God has disclosed, not what he has willed: a warrant for reticence rather than a proof of two wills.
 - [[human-will-is-god-likeness-qualified-as-relative--202609081907]] — the closing application makes the human will an image of God's and qualifies its freedom as relative in the same sentence, so the compatibilist position is built into what Grudem thinks a human being is.
 
+## The patristic floor, added 2026-09-14: where this debate does and does not begin
+
+Inquiry 202609141657 asked for the earliest preserved writings that touch the
+sovereignty/free-will debate. The base's earliest Christian voice on this axis
+had been Molina (1588); four patristic works are now on file, and they change
+the shape of the question rather than just extending it backwards. The second-
+and third-century writers argue human freedom hard and at length, but against
+fate and against the Gnostic doctrine of fixed natures — not against God's
+sovereignty, which stands on their side of the argument. The debate in its
+familiar form needs two Christian parties, and those appear only with Augustine.
+
+- [[the-earliest-preserved-christian-writings-on-free-will--202609141706]] — the framing claim: "earliest" has three different answers depending on whether the *materials*, the *difficulty*, or the *dispute between Christians* is what is being dated (Justin c. 155, Origen c. 229, Augustine 426).
+- [[justin-states-the-foreknowledge-entails-necessity-inference--202609141708]] — Justin raises the foreknowledge-entails-fixity inference himself, as an objection his appeal to prophecy invites, and denies it: the same proposition that organises the Grudem/Ware/open-theism dispute, stated in the mid-second century. It reaches forward to the Reformed-reply section below.
+- [[origen-answers-the-hardening-of-pharaoh-with-the--202609141709]] — Origen's sun that melts wax and dries mud is the occasioning-not-causing asymmetry, reached in the third century inside a libertarian account of the will rather than Ware's compatibilist one. A structural analogy, not a line of influence.
+- [[the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710]] — Augustine's opponents in *De gratia et libero arbitrio* are monks who had read his own case for grace as a denial of free will, which is the first work on file where both positions have Christian advocates.
+
+The four literature notes carrying the primary text are
+[[justin-answers-the-fatalist-reading-of-prophecy-by-making--202609141702]],
+[[irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703]],
+[[origen-treats-the-hardening-of-pharaoh-and-romans-9-as-the--202609141704]] and
+[[augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705]].
+What is *not* on file is named in the inquiry: Tertullian, Clement of
+Alexandria, Methodius' *De Autexousio*, Pelagius' own writings, Augustine's
+*Ad Simplicianum*, and the Second Council of Orange (529).
+
 ## Free will under sovereignty, added 2026-09-08: the first leg argued from a Jewish source
 
 Inquiry 202609081908 asked how the Christian doctrine of human free will under

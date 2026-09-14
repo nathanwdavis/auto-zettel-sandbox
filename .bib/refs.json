@@ -3070,5 +3070,79 @@
     "publisher": "The Orthodox Presbyterian Church",
     "title": "The Westminster Confession of Faith",
     "type": "book"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/0126.htm",
+    "author": [
+      {
+        "family": "Martyr",
+        "given": "Justin"
+      }
+    ],
+    "id": "202609141658",
+    "issued": {
+      "date-parts": [
+        [
+          1885
+        ]
+      ]
+    },
+    "title": "Justin Martyr, First Apology",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/0103437.htm",
+    "author": [
+      {
+        "family": "Irenaeus"
+      }
+    ],
+    "id": "202609141659",
+    "issued": {
+      "date-parts": [
+        [
+          1885
+        ]
+      ]
+    },
+    "title": "Irenaeus, Against Heresies, Book IV",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/04123.htm",
+    "author": [
+      {
+        "family": "Origen"
+      }
+    ],
+    "id": "202609141700",
+    "issued": {
+      "date-parts": [
+        [
+          1885
+        ]
+      ]
+    },
+    "title": "Origen, De Principiis, Book III",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/1510.htm",
+    "author": [
+      {
+        "family": "Hippo",
+        "given": "Augustine of"
+      }
+    ],
+    "id": "202609141701",
+    "issued": {
+      "date-parts": [
+        [
+          1887
+        ]
+      ]
+    },
+    "title": "Augustine, On Grace and Free Will",
+    "type": "chapter"
   }
 ]
