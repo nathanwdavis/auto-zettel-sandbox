@@ -4439,10 +4439,13 @@ later run could capture so that the outline's `[verified]`, `[second-hand]` and
   hand; the existing Calvin reference (202609011032) captures only I.3 and I.5.
   The Beveridge translation is on CCEL; the URLs used this session are in the
   outline.
-- *Westminster Confession of Faith* 3.1, 5.1-4, 9.1-3. The single best one-sentence
-  statement of the thesis (3.1) is not on file. CCEL carries ch. 3 and ch. 5; the
-  CCEL "ch. 9" page turned out to be a PCUS variant ("Of the Holy Spirit"), so ch. 9
-  needs a different host.
+- *Westminster Confession of Faith* 3.1, 5.1-4, 9.1-3. **CLOSED 2026-09-12 — captured
+  in raw/202609120640-westminster-confession-3-5-9.txt; see the progress note below for
+  the reference, literature and permanent note keys.** As recorded on 2026-09-08, when
+  this was still an open candidate: the single best one-sentence statement of the thesis
+  (3.1) was not then on file; CCEL carried ch. 3 and ch. 5, but the CCEL "ch. 9" page
+  turned out to be a PCUS variant ("Of the Holy Spirit"), so ch. 9 needed a different
+  host.
   - **2026-09-12 progress (WCF closed):** captured verbatim from the OPC edition
     (opc.org/wcf.html, the correct host carrying ch. 9 "Of Free Will") — chapters
     3 §§1-2, 5 §§1-4, 9 §§1-3, in raw/202609120640-westminster-confession-3-5-9.txt.
