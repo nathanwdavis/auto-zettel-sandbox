@@ -44,8 +44,9 @@ Chapter 9 defines the liberty the earlier chapters presuppose. The will has
 "that natural liberty, that it is neither forced, nor, by any absolute
 necessity of nature, determined to good, or evil" (9.1) — a liberty from
 compulsion, not from the decree — and the chapter then indexes that liberty
-to four estates: innocence, "mutably" free to good (9.2); the fallen state,
-which has "wholly lost all ability of will to any spiritual good" (9.3);
-grace; and glory. So "free will" in the Confession is compatibilist and
-graded: the natural liberty of 9.1 is what 3.1 says the decree establishes,
-and neither statement is offered as a qualification of the other.
+to man's estates in turn: innocence, "mutably" free to good (9.2), and then
+the fallen state, in which man "hath wholly lost all ability of will to any
+spiritual good accompanying salvation" (9.3). So "free will" in the
+Confession is compatibilist and graded across those estates: the natural
+liberty of 9.1 is what 3.1 says the decree establishes, and neither
+statement is offered as a qualification of the other.
