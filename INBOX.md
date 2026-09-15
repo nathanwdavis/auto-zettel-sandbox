@@ -4752,3 +4752,86 @@ because today's amendment to that note did not touch the 2026-09-08 text.
   purposeful control over the thing being carried" gloss (p. 3), and "would
   simply be not to exist!" (p. 34). A dated "Corrected 2026-09-12" block records
   the change on the note. Reading unchanged; one unverified quotation removed.
+
+## 2026-09-15 — Source needed: rumsfeld-department-of-defense-news-briefing-12-february--202609151856
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Could not capture https://www.globalsecurity.org/military/library/news/2002/02/mil-020212-usia01.htm: page is an empty shell and no renderer is enabled (set fetch.renderer to jina or firecrawl in config.yml, or drop the PDF into drop/). If you can obtain the source, drop the PDF into drop/ with a sidecar naming this reference's DOI or title.
+
+- **status:** answered
+- **resolved 2026-09-15, same cycle:** captured by hand. `fetch_source.py`'s
+  empty-shell detector rejected the page because most of its visible text is
+  GlobalSecurity.org navigation, not because the transcript was absent; the
+  verbatim HTML fetched with curl at 2026-09-15T18:54:27Z (SHA-256
+  796f4de858ae8679a4a99e95fe2312b2622ccff6a62065a3a1d28525e9cfd323) carries the
+  whole Washington File reprint of the 12 February 2002 briefing, including the
+  known-knowns passage, and is now
+  raw/202609151856-rumsfeld-dod-news-briefing-2002-02-12-washington-file.html,
+  recorded as the reference's `raw_capture`. No PDF drop is needed. The original
+  DoD host (archive.defense.gov) is denied by the container's egress policy and
+  defense.gov returns 403, which is why a mirror of a public-domain government
+  transcript was used; noted on the reference note.
+
+## 2026-09-15 — Leads left open by the hidden-knowledge cycle (inquiry 202609151845), and two sources needed
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** run (ad-hoc session for the owner's "hidden knowledge of God" note)
+
+The owner's account (the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913)
+is anchored and tested against nine captured sources; what follows is what the
+cycle could not reach or deliberately did not do.
+
+**Source needed: Kerwin, "None Too Solid: Medical Ignorance", Knowledge:
+Creation, Diffusion, Utilization 15.2 (1993) 166-185, DOI
+10.1177/107554709301500204.** The peer-reviewed taxonomy of ignorance (known
+unknowns, unknown unknowns, errors, tacit knowing, taboos, denials) that the
+epistemology leg of this cycle should rest on. Crossref resolves the DOI; the
+only copies are Sage's, paywalled; no open-access copy was found through
+Europe PMC or OpenAlex. Logan, "Known knowns, known unknowns, unknown unknowns
+and the propagation of scientific enquiry", J. Exp. Bot. 60.3 (2009) 712-714,
+DOI 10.1093/jxb/erp043, is the same story (OUP returns 403; PMID 19269994, not
+in PMC). Either would let the cycle's "false known" finding
+(known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918)
+rest on a source that names that cell instead of on Socrates alone. A drop
+into drop/ with a sidecar naming the DOI is the route.
+
+**Source needed: Junius, De vera theologia (1594), the archetypal/ectypal
+distinction.** The Reformed scholastic name for exactly the owner's outer
+partition: theologia archetypa is God's own knowledge of himself, theologia
+ectypa what is communicated to creatures, itself divided by the mode of the
+knower (union, vision, revelation to pilgrims). The Latin is public domain
+(Opuscula theologica selecta, ed. Kuyper, 1882, on archive.org, not captured
+this cycle because the base's translation policy is unsettled and no English
+witness is on file); the English (Noe, A Treatise on True Theology, RHB 2014)
+is in copyright. Bavinck's Gereformeerde Dogmatiek I (Dutch, public domain)
+and Muller's PRRD vol. 1 carry the same distinction at second hand. Whichever
+route a human prefers, this is the source that would turn the owner's account
+from an anchored personal framework into a documented position with a
+four-century history.
+
+**Not done, and cheap.** (1) Sanhedrin 43b, the Talmudic source Rashi reports
+for the hidden-sins reading, is on Sefaria (William Davidson Talmud, CC-BY-NC)
+and was not captured; one request would let the Rashi note rest on the primary
+passage. (2) Ibn Ezra, Ramban and Sforno on Deut 29:28, also on Sefaria, would
+say whether the jurisdiction reading is the whole of the Jewish tradition or
+Rashi's line within it. (3) Calvin III.21 was captured in Beveridge from CCEL
+because Project Gutenberg #45002, which the existing Allen reference implied
+was volume 2, is Bastiat; the Allen volume 2 was not located. (4) Luther's
+Sect. LXIV was captured from the 1931 Atherton edition of Cole; the Latin and
+the Packer-Johnston translation are not on file, so "Deus absconditus" appears
+in the notes as the literature's term, not as a quotation.
+
+**A tooling note.** `fetch_source.py` refused GlobalSecurity.org's page as an
+empty shell although 43,000 characters of transcript were in it; the detector
+seems to weigh navigation against body text and misfires on sites with heavy
+chrome. Captured by hand (see the resolved entry above). Worth a look at the
+threshold.
+
+**Policy, still open.** The 2026-09-04 entry asking for a translation policy
+is still `new`. This cycle stayed inside it by transliterating Hebrew and
+quoting only captured translations for every gloss; the Latin and Greek
+sources above were left uncaptured for the same reason.

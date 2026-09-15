@@ -1,0 +1,19 @@
+Verbatim capture for reference 202609151851.
+Rashi (Shlomo Yitzchaki, 1040-1105) on Deuteronomy 29:28 (Hebrew numbering;
+29:29 in English Bibles). Hebrew and English as served by the Sefaria API
+(https://www.sefaria.org/api/texts/Rashi_on_Deuteronomy.29.28?context=0&pad=0),
+fetched 2026-09-15T18:48:09Z via curl through the session's egress proxy.
+Hebrew version: "Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934" (licence as declared by Sefaria:
+Public Domain). English version: "Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934" (licence as declared
+by Sefaria: Public Domain). Sefaria ref: Rashi on Deuteronomy 29:28. Markup (bold tags around
+the lemma) stripped and whitespace normalized; no other change. The comment
+cites Sanhedrin 43b and Sotah 37b, which are not captured here.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (Hebrew) ---
+הנסתרת לה' אלהינו. וְאִם תֹּאמְרוּ מַה בְּיָדֵנוּ לַעֲשׂוֹת? אַתָּה מַעֲנִישׁ אֶת הָרַבִּים עַל הִרְהוּרֵי הַיָּחִיד, שֶׁנֶּאֱמַר "פֶּן יֵשׁ בָּכֶם אִישׁ וְגוֹ'", וְאַחַר כָּךְ "וְרָאוּ אֶת מַכּוֹת הָאָרֶץ הַהִוא", וַהֲלֹא אֵין אָדָם יוֹדֵעַ טְמוּנוֹתָיו שֶׁל חֲבֵרוֹ אֵין אֲנִי מַעֲנִישׁ אֶתְכֶם עַל הַנִּסְתָּרוֹת, שֶׁהֵן לַה' אֱלֹהֵינוּ, וְהוּא יִפָּרַע מֵאוֹתוֹ יָחִיד, אֲבָל "הַנִּגְלוֹת לָנוּ וּלְבָנֵינוּ" לְבָעֵר הָרָע מִקִּרְבֵּנוּ, וְאִם לֹא נַעֲשֶׂה דִּין בָּהֶם יֵעָנְשׁוּ הָרַבִּים. נָקוּד עַל לנו ולבנינו לִדְרֹשׁ שֶׁאַף עַל הַנִּגְלוֹת לֹא עָנַשׁ אֶת הָרַבִּים עַד שֶׁעָבְרוּ אֶת הַיַּרְדֵּן, מִשֶּׁקִּבְּלוּ עֲלֵיהֶם אֶת הַשְּׁבוּעָה בְּהַר גְּרִזִים וּבְהַר עֵיבָל וְנַעֲשׂוּ עֲרֵבִים זֶה לָזֶה (סוטה ל"ז; עי' סנהדרין מ"ג):
+--- END VERBATIM (Hebrew) ---
+
+--- BEGIN VERBATIM (English) ---
+הנסתרת לה' אלהינו THE SECRET THINGS BELONG UNTO THE LORD OUR GOD — And if you say, “But what can we do? Thou threatenest the many (the whole community) with punishment because of the sinful thoughts of one individual, as it is said, (v. 17): “Lest there should be among you a man, [or a woman or a family … whose heart turneth away this day from the Lord …]”, and afterwards it states, (v. 21) “And they will see the plagues of that land”. But surely no man can know the secret thoughts of his fellow! Now, I reply: I do not threaten to punish you because of secret thoughts for these belong to the Lord our God and He will exact punishment from that individual; but those things which are revealed belong to us and to our children that we may put away the evil from our midst; and if we do not execute judgment upon them, the whole community will be punished. — There are dots on the words לנו ולבננו to suggest that even for the revealed sins (those committed openly), He did not punish the community until they had crossed the Jordan — from the moment when they took upon themselves the oath on Mount Gerizim and Mount Ebal and had thus become responsible for one another (Sanhedrin 43b; cf. Sotah 37b).
+--- END VERBATIM (English) ---

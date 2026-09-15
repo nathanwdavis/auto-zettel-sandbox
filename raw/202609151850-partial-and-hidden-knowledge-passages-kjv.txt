@@ -1,0 +1,75 @@
+Verbatim capture for reference 202609151850 (scripture, FR-9).
+Twelve passages on the limits of what creatures know of God and on what God
+discloses, King James Version (public domain), as served by bible-api.com
+(https://bible-api.com/<passage>?translation=kjv, one request per passage).
+Fetched 2026-09-15T18:48:05Z to 2026-09-15T18:48:08Z via curl through the session's
+egress proxy. Verse text as served, whitespace normalized to one line per
+verse; no other change. Deuteronomy 29:29 is captured separately for
+reference 202609151849 and is not repeated here.
+--------------------------------------------------------------------------------
+
+1 Corinthians 13:9-12 (King James Version)
+1 Corinthians 13:9 For we know in part, and we prophesy in part.
+1 Corinthians 13:10 But when that which is perfect is come, then that which is in part shall be done away.
+1 Corinthians 13:11 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
+1 Corinthians 13:12 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
+
+1 Corinthians 2:9-12 (King James Version)
+1 Corinthians 2:9 But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.
+1 Corinthians 2:10 But God hath revealed
+them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
+1 Corinthians 2:11 For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
+1 Corinthians 2:12 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
+
+Romans 11:33-34 (King James Version)
+Romans 11:33 O the depth of the riches both of the wisdom and knowledge of God! how unsearchable
+are his judgments, and his ways past finding out!
+Romans 11:34 For who hath known the mind of the Lord? or who hath been his counsellor?
+
+Isaiah 55:8-9 (King James Version)
+Isaiah 55:8 For my thoughts
+are not your thoughts, neither
+are
+ your ways my ways, saith the LORD.
+Isaiah 55:9 For
+as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
+
+John 16:12-13 (King James Version)
+John 16:12 I have yet many things to say unto you, but ye cannot bear them now.
+John 16:13 Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear,
+that shall he speak: and he will shew you things to come.
+
+Daniel 2:20-22 (King James Version)
+Daniel 2:20 Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
+Daniel 2:21 And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
+Daniel 2:22 He revealeth the deep and secret things: he knoweth what
+is
+ in the darkness, and the light dwelleth with him.
+
+Job 11:7-9 (King James Version)
+Job 11:7 Canst thou by searching find out God? canst thou find out the Almighty unto perfection?
+Job 11:8 It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?
+Job 11:9 The measure thereof
+is longer than the earth, and broader than the sea.
+
+Psalms 139:6 (King James Version)
+Psalms 139:6 Such knowledge
+is too wonderful for me; it is high, I cannot
+attain unto it.
+
+Proverbs 25:2 (King James Version)
+Proverbs 25:2 It is the glory of God to conceal a thing: but the honour of kings
+is to search out a matter.
+
+Colossians 1:26-27 (King James Version)
+Colossians 1:26 Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
+Colossians 1:27 To whom God would make known what
+is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+
+Ephesians 3:3-5 (King James Version)
+Ephesians 3:3 How that by revelation he made known unto me the mystery; (as I wrote afore in few words,
+Ephesians 3:4 Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
+Ephesians 3:5 Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;
+
+Amos 3:7 (King James Version)
+Amos 3:7 Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.

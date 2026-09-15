@@ -3144,5 +3144,222 @@
     },
     "title": "Augustine, On Grace and Free Will",
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Rashi_on_Deuteronomy.29.28",
+    "author": [
+      {
+        "literal": "Rashi (Shlomo Yitzchaki)"
+      }
+    ],
+    "container-title": "Pentateuch with Targum Onkelos, Haphtaroth and Rashi's Commentary: Deuteronomy",
+    "id": "202609151851",
+    "issued": {
+      "date-parts": [
+        [
+          1934
+        ]
+      ]
+    },
+    "publisher": "Shapiro, Vallentine",
+    "publisher-place": "London",
+    "title": "Rashi on Deuteronomy 29:28",
+    "translator": [
+      {
+        "family": "Rosenbaum",
+        "given": "M."
+      },
+      {
+        "family": "Silbermann",
+        "given": "A. M."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/1012.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Summa Theologiae",
+    "id": "202609151852",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1265
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Prima Pars, Question 12 (How God is known by us)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/calvin/institutes/institutes.v.xxii.html",
+    "author": [
+      {
+        "family": "Calvin",
+        "given": "John"
+      }
+    ],
+    "container-title": "Institutes of the Christian Religion",
+    "id": "202609151853",
+    "issued": {
+      "date-parts": [
+        [
+          1845
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1559
+        ]
+      ]
+    },
+    "publisher": "Calvin Translation Society",
+    "publisher-place": "Edinburgh",
+    "title": "Institutes of the Christian Religion, Book III, Chapter 21 (Of the eternal election, by which God has predestinated some to salvation, and others to destruction)",
+    "translator": [
+      {
+        "family": "Beveridge",
+        "given": "Henry"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://ccel.org/ccel/rolt/dionysius/dionysius.v.html",
+    "author": [
+      {
+        "literal": "Dionysius the Areopagite (Pseudo-Dionysius)"
+      }
+    ],
+    "container-title": "Dionysius the Areopagite: On the Divine Names and the Mystical Theology",
+    "id": "202609151854",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "publisher": "Society for Promoting Christian Knowledge",
+    "publisher-place": "London",
+    "title": "The Mystical Theology",
+    "translator": [
+      {
+        "family": "Rolt",
+        "given": "C. E."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://classics.mit.edu/Plato/apology.html",
+    "author": [
+      {
+        "literal": "Plato"
+      }
+    ],
+    "container-title": "The Dialogues of Plato",
+    "id": "202609151855",
+    "issued": {
+      "date-parts": [
+        [
+          1871
+        ]
+      ]
+    },
+    "title": "Apology",
+    "translator": [
+      {
+        "family": "Jowett",
+        "given": "Benjamin"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.globalsecurity.org/military/library/news/2002/02/mil-020212-usia01.htm",
+    "author": [
+      {
+        "family": "Rumsfeld",
+        "given": "Donald H."
+      }
+    ],
+    "container-title": "Washington File",
+    "genre": "transcript",
+    "id": "202609151856",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          2,
+          12
+        ]
+      ]
+    },
+    "publisher": "U.S. Department of State, Office of International Information Programs",
+    "title": "Department of Defense news briefing, 12 February 2002",
+    "type": "speech"
+  },
+  {
+    "URL": "https://ccel.org/ccel/luther/bondage/bondage.xi.xxiv.html",
+    "author": [
+      {
+        "family": "Luther",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "De Servo Arbitrio, 'On the Enslaved Will', or The Bondage of the Will",
+    "editor": [
+      {
+        "family": "Atherton",
+        "given": "Henry"
+      }
+    ],
+    "id": "202609151911",
+    "issued": {
+      "date-parts": [
+        [
+          1931
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1525
+        ]
+      ]
+    },
+    "publisher": "Sovereign Grace Union",
+    "publisher-place": "London",
+    "title": "Section LXIV (the preached and offered mercy of God, and the secret will of God)",
+    "translator": [
+      {
+        "family": "Cole",
+        "given": "Henry"
+      }
+    ],
+    "type": "chapter"
   }
 ]
