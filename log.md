@@ -2327,3 +2327,17 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-18T23:38:27Z` lint_skills: PASS
 - `2026-09-18T23:38:29Z` check_skill_sandbox: PASS
 - `2026-09-18T23:38:29Z` remote_cycle: gates PASS
+- `2026-09-18T23:39:44Z` skill-smith: proposed capture-verification (create, 202609182350)
+- `2026-09-18T23:39:44Z` check_skill_sandbox: PASS
+- `2026-09-18T23:39:44Z` lint_skills: PASS
+- `2026-09-18T23:46:33Z` skill_trial: capture-verification with=0.85 without=0.852 (n=3)
+- `2026-09-18T23:50:00Z` step 7 (skill-smith, self-review; cadence weekly, last skill-smith 2026-09-01, so seventeen days overdue): pending work committed first as a70d413 and used as the sandbox base. ONE proposal, a create: skills/capture-verification (proposal 202609182350) -- the capture-extent and quotation-span check that five cycles (2026-09-04, 09-05, 09-06, 09-15, 09-18) each rewrote from scratch, with the normaliser rules, the header-honesty rule the 2026-09-05 critic asked to have filed, and the reference implementation kept in the skill so it is not written a sixth time. The second candidate (read the replicating paper's audit of the original first, INBOX 2026-09-04) was considered and left for a later smith. check_skill_sandbox --strict against a70d413: clean (only skills/capture-verification and the skill-impact.md row). lint_skills: clean. A/B trial run at once so the scores wait with the proposal: with=0.85, without=0.852, n=3 -- no measurable difference, and the same caveat as the 2026-09-01 trial applies: the three trial questions are research questions whose sources are already captured, so none exercises what the skill is for. Promotion or rejection is the human's: skill_review.py promote|reject --skill capture-verification.
+- `2026-09-18T23:51:00Z` step 9 (manifest) and step 10 (statuses): no inquiry changes status this cycle -- none was open, and the two filed by the fleeting sweep (202609182341, 202609182342) stay new for a later run. INBOX: the 2026-09-03 librarian entry answered in place; the 2026-09-15 leads entry carries a partial-resolution line; one new access entry (NPNF hosts) addressed to the skill-smith. Handoff on the session-designated branch per this session's branch requirement; the lock is released by abort after the gates below, and the PR is opened by the session with auto-merge (squash).
+- `2026-09-18T23:47:12Z` verify_refs: 135/135 verified
+- `2026-09-18T23:47:26Z` lint_citations: PASS
+- `2026-09-18T23:47:27Z` lint_links: PASS
+- `2026-09-18T23:47:27Z` lint_skills: PASS
+- `2026-09-18T23:47:28Z` check_skill_sandbox: PASS
+- `2026-09-18T23:47:28Z` remote_cycle: gates PASS
+- `2026-09-18T23:47:29Z` build_manifest: 460 notes indexed
+- `2026-09-18T23:47:32Z` remote_cycle: lock released
