@@ -5,8 +5,8 @@ slug: deut-29-29-partitions-knowledge-and-grudem-partitions-will
 aliases:
 - '202609081906'
 type: permanent
-title: Grudem's proof text for two wills partitions what God has disclosed, not what God
-  has willed
+title: Grudem's proof text for two wills partitions what God has disclosed, not what God has
+  willed
 tags: []
 links:
 - target_id: grudem-systematic-theology--202609050158
@@ -15,8 +15,10 @@ links:
   relation: source
 - target_id: grudems-two-wills-are-sorted-from-outside-the-verse--202609081905
   relation: elaborates
+- target_id: deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914
+  relation: shared-concept
 created: '2026-09-08'
-updated: '2026-09-08'
+updated: '2026-09-15'
 ---
 The secret/revealed distinction rests on one Pentateuch verse, and Grudem quotes
 it in full: "The secret things belong to the LORD our God, but the things that
@@ -63,3 +65,5 @@ cannot carry, not a claim that the doctrine is unsupported — the argument for 
 is largely in chapter 16, and in Piper's essay, which is not on file. The base
 has captured no Hebrew text of Deut. 29:29 and no commentary on it in any
 tradition; the verse is here only as Grudem quotes it in the ESV.
+
+**Amended 2026-09-15, from Rashi.** The paragraph above said this base had no Jewish or Samaritan commentary on the verse and offered the Jewish reading as "the reason to go looking, not as a finding". Rashi's comment is now captured, and the finding is sharper than the guess: on the rabbinic reading (Sanhedrin 43b as Rashi reports it) the secret things are hidden *sins*, which God alone punishes, and the revealed things are open sins, which the community must judge; the verse partitions jurisdiction over acts, not disclosure of anything. The verse itself, now on file in Hebrew and two English witnesses, has no noun under either participle, so both readings are readings. Recorded at [[deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914]]; nothing above is withdrawn.

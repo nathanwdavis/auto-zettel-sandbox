@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-12'
+updated: '2026-09-15'
 ---
 # Abrahamic conceptions of God
 
@@ -896,6 +896,52 @@ them. The Confession is on file only as quoted. Ware's 1986 article on
 immutability, the source of his "relational mutability", was located in the
 Society's index but not captured.
 
+## The hidden knowledge of God, added 2026-09-15: the owner's account, anchored and tested
+
+The owner asked that their own account of the knowledge of God be recorded and
+connected to this map: God knows everything; a subset of that he has made
+known; the remainder is hidden; and the hidden divides into known unknowns
+(mysteries, incomplete understanding) and unknown unknowns, where neither
+question nor answer is held. The map already held three things the account
+sorts, Grudem's use of Deut. 29:29 for two wills, the thinness of natural
+knowledge, and the placement of mystery in the foreknowledge debate, and it
+held the anchor verse only as Grudem quotes it. Nine sources are now on file:
+the verse itself in Hebrew and two English witnesses, twelve further passages
+on partial and hidden knowledge, Rashi's comment, *Summa* I q.12, *Institutes*
+III.21, Luther's section on God preached and God hidden, the *Mystical
+Theology*, the Delphi passage of the *Apology*, and the 2002 briefing that
+supplied the vocabulary of known and unknown unknowns. Distilled at
+[[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]],
+[[the-partial-knowledge-passages-bound-what-creatures-know--202609151904]],
+[[rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905]],
+[[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]],
+[[calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907]],
+[[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]],
+[[socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909]],
+[[rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910]] and
+[[luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912]].
+
+Read the account first, then the six notes that test it.
+
+- [[the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913]] — the owner's account, recorded as the owner's: four nested sets, the hidden a subset of what God knows, and the two lower cells asymmetric, since known unknowns can be listed and unknown unknowns only asserted as a class. Deut. 29:29 licenses the outer partition and nothing below it; no scripture on file subdivides the hidden.
+- [[deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914]] — the anchor verse has no noun under either participle. Calvin and Grudem supply things known; Rashi, reporting Sanhedrin 43b, supplies sins, and reads the verse as a rule of communal liability, which the 2023 JPS translation encodes as "concealed acts" and "overt acts". The verse anchors the hidden-knowledge partition only on the Christian reading.
+- [[aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915]] — Aquinas defines incomprehensibility as a limit of mode, "not because anything of Him is not seen; but because He is not seen as perfectly as He is capable of being seen", and runs it up every rung to the beatific vision; what stays with God even there is future contingents and secret thoughts. The owner's "incomplete understanding" turns out to be two cells, partial grasp and withheld particulars.
+- [[calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916]] — Calvin and Luther both make the hidden a known unknown whose existence is all that may be known, and attach a duty: Calvin adores it and forbids neglect of the revealed, Luther says it is "nothing unto us". Luther's line runs through God's will, and is Grudem's secret and revealed will in 1525.
+- [[for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917]] — Dionysius describes a hidden tier that is not withheld propositions but a nature beyond predicates, approached by subtraction and reached in union without disclosure; a third posture, and the same shape as the nameless *Ein Sof* already on this map.
+- [[known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918]] — the two lower cells are inquiry's agenda and inquiry's blind spot, and the account has no cell for the false known, the man who "knows nothing, and thinks that he knows", which Socrates ranks below both and which is where every misread proof text sits.
+- [[in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919]] — in Colossians and Ephesians a mystery is a thing that has crossed from the hidden to the revealed, the opposite of the owner's sense; so the boundary between the tiers is historical and moves by revelation, and John 16:12-13 is a crossing announced in advance.
+
+Boundaries this section should not be read past. The Latin of Aquinas and
+Luther and the Greek of Dionysius are not on file, and every quotation is from
+a nineteenth- or early twentieth-century English translation. The rabbinic
+reading rests on one commentator reporting one Talmudic passage that is not
+captured. The Reformed scholastic name for exactly this partition, archetypal
+against ectypal theology (Junius, 1594), is not on file in any language, and
+the peer-reviewed taxonomy of ignorance (Kerwin, 1993) is paywalled; both are
+filed in the INBOX. And the transliterations of Hebrew in the new notes are
+this base's, with every gloss taken from a captured translation, because the
+translation-policy question filed on 2026-09-04 is still open.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -932,3 +978,5 @@ Middle knowledge: [[molina-concordia-liberi-arbitrii--202609090050]], [[laing-mi
 (literature: [[molina-distinguishes-three-knowledges-and-makes-the-middle-one-depend-on-the-creature--202609090055]], [[laing-defines-middle-knowledge-as-prevolitional-knowledge-of-counterfactuals-of-freedom--202609090056]], [[pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057]], [[astrain-records-that-the-congregatio-de-auxiliis-ended-without-a-verdict--202609090058]]).
 The Reformed reply to middle knowledge: [[helm-shunning-middle-knowledge--202609111810]], [[helm-and-more-on-molinism--202609111811]], [[van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812]], [[laing-the-compatibility-of-calvinism-and-middle-knowledge--202609111813]], [[ware-is-open-theism-evangelical--202609111814]]
 (literature: [[helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815]], [[helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816]], [[van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817]], [[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]], [[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]]).
+The hidden knowledge of God: [[deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849]], [[partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850]], [[rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851]], [[aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852]], [[calvin-institutes-iii-21-of-the-eternal-election--202609151853]], [[luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911]], [[pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854]], [[plato-apology-jowett-translation--202609151855]], [[rumsfeld-department-of-defense-news-briefing-12-february--202609151856]]
+(literature: [[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]], [[the-partial-knowledge-passages-bound-what-creatures-know--202609151904]], [[rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905]], [[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]], [[calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907]], [[luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912]], [[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]], [[socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909]], [[rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910]]).

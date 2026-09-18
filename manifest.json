@@ -422,6 +422,31 @@
     "202609141708": "justin-states-the-foreknowledge-entails-necessity-inference--202609141708",
     "202609141709": "origen-answers-the-hardening-of-pharaoh-with-the--202609141709",
     "202609141710": "the-debate-becomes-intra-christian-at-hadrumetum-where--202609141710",
+    "202609151849": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849",
+    "202609151850": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850",
+    "202609151851": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851",
+    "202609151852": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852",
+    "202609151853": "calvin-institutes-iii-21-of-the-eternal-election--202609151853",
+    "202609151854": "pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854",
+    "202609151855": "plato-apology-jowett-translation--202609151855",
+    "202609151856": "rumsfeld-department-of-defense-news-briefing-12-february--202609151856",
+    "202609151903": "deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903",
+    "202609151904": "the-partial-knowledge-passages-bound-what-creatures-know--202609151904",
+    "202609151905": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905",
+    "202609151906": "aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906",
+    "202609151907": "calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907",
+    "202609151908": "the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908",
+    "202609151909": "socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909",
+    "202609151910": "rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910",
+    "202609151911": "luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911",
+    "202609151912": "luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912",
+    "202609151913": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913",
+    "202609151914": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914",
+    "202609151915": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915",
+    "202609151916": "calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916",
+    "202609151917": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917",
+    "202609151918": "known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918",
+    "202609151919": "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -598,6 +623,23 @@
       ],
       "status": "answered",
       "updated": "2026-08-31"
+    },
+    {
+      "key": "how-does-the-owner-s-three-tier-account-of-the-knowledge-of--202609151845",
+      "path": "inquiries/how-does-the-owner-s-three-tier-account-of-the-knowledge-of--202609151845.md",
+      "priority": "high",
+      "question": "How does the owner's three-tier account of the knowledge of God (the whole of what God knows; the subset he has made known to us; the subset he has not, which divides into known unknowns, mysteries where we hold the question but not the answer or only an incomplete understanding, and unknown unknowns, where we hold neither question nor answer) connect to what this base already holds on omniscience, incomprehensibility, Deut 29:29 and the placement of mystery, and which primary sources ground or contest it?",
+      "result_notes": [
+        "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915",
+        "calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916",
+        "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914",
+        "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917",
+        "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919",
+        "known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918",
+        "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+      ],
+      "status": "answered",
+      "updated": "2026-09-15"
     },
     {
       "key": "is-divine-simplicity-the-shared-problem-behind-the-trinity--202609041844",
@@ -813,7 +855,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 427,
+  "note_count": 452,
   "notes": [
     {
       "id": "202609041020",
@@ -1269,7 +1311,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-12",
+      "updated": "2026-09-15",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -1738,6 +1780,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076.md"
     },
     {
+      "id": "202609151915",
+      "key": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852"
+        },
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-of-the-christian-religion--202609011032"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        }
+      ],
+      "path": "permanent/aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915.md",
+      "slug": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by",
+      "tags": [],
+      "title": "Aquinas bounds every knowledge of God below God's own by its mode rather than by a withheld portion, which makes incomplete understanding the normal state at every rung",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915.md"
+    },
+    {
       "id": "202609011206",
       "key": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
       "links": [
@@ -1757,6 +1836,23 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-makes-god-demonstrable-only-from-effects--202609011206.md"
+    },
+    {
+      "id": "202609151906",
+      "key": "aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852"
+        }
+      ],
+      "path": "literature/aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906.md",
+      "slug": "aquinas-separates-seeing-god-from-comprehending-him-denies",
+      "tags": [],
+      "title": "Aquinas separates seeing God from comprehending him, denies that even the blessed see all that God knows, and limits this life's knowledge to that God is, not what he is",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906.md"
     },
     {
       "id": "202609042057",
@@ -1806,6 +1902,18 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-st-ii-ii-q103-dulia--202609042052.md"
+    },
+    {
+      "id": "202609151852",
+      "key": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852",
+      "links": [],
+      "path": "reference/aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852.md",
+      "slug": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae I q.12 (How God is known by us)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852.md"
     },
     {
       "id": "202609011201",
@@ -2287,6 +2395,80 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/bush-makes-the-stored-trail-the-unit-of-selection--202609010801.md"
     },
     {
+      "id": "202609151916",
+      "key": "calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907"
+        },
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-iii-21-of-the-eternal-election--202609151853"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "helm-leaves-the-mystery-of-god-and-evil-where-augustine-and-calvin-left-it--202609111824"
+        },
+        {
+          "relation": "source",
+          "target_id": "luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912"
+        },
+        {
+          "relation": "source",
+          "target_id": "luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        }
+      ],
+      "path": "permanent/calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916.md",
+      "slug": "calvin-and-luther-both-make-the-hidden-a-known-unknown-with",
+      "tags": [],
+      "title": "Calvin and Luther both make the hidden a known unknown with a rule of conduct attached, and differ on the rule: Calvin says adore it and neglect nothing revealed, Luther says it is nothing to us",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916.md"
+    },
+    {
+      "id": "202609151907",
+      "key": "calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-iii-21-of-the-eternal-election--202609151853"
+        }
+      ],
+      "path": "literature/calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907.md",
+      "slug": "calvin-fences-the-doctrine-of-election-with-deuteronomy-29",
+      "tags": [],
+      "title": "Calvin fences the doctrine of election with Deuteronomy 29:29 on both sides, forbidding scrutiny of the secret things and neglect of the revealed ones",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907.md"
+    },
+    {
+      "id": "202609151853",
+      "key": "calvin-institutes-iii-21-of-the-eternal-election--202609151853",
+      "links": [],
+      "path": "reference/calvin-institutes-iii-21-of-the-eternal-election--202609151853.md",
+      "slug": "calvin-institutes-iii-21-of-the-eternal-election",
+      "tags": [],
+      "title": "Calvin, Institutes III.21 (Of the eternal election)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/calvin-institutes-iii-21-of-the-eternal-election--202609151853.md"
+    },
+    {
       "id": "202609011032",
       "key": "calvin-institutes-of-the-christian-religion--202609011032",
       "links": [],
@@ -2762,6 +2944,10 @@
       "key": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906",
       "links": [
         {
+          "relation": "shared-concept",
+          "target_id": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914"
+        },
+        {
           "relation": "source",
           "target_id": "grudem-splits-gods-will-into-necessary-free-secret-and-revealed--202609081904"
         },
@@ -2779,8 +2965,82 @@
       "tags": [],
       "title": "Grudem's proof text for two wills partitions what God has disclosed, not what God has willed",
       "type": "permanent",
-      "updated": "2026-09-08",
+      "updated": "2026-09-15",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906.md"
+    },
+    {
+      "id": "202609151914",
+      "key": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907"
+        },
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-iii-21-of-the-eternal-election--202609151853"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906"
+        },
+        {
+          "relation": "source",
+          "target_id": "deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903"
+        },
+        {
+          "relation": "source",
+          "target_id": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        }
+      ],
+      "path": "permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914.md",
+      "slug": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition",
+      "tags": [],
+      "title": "Deuteronomy 29:29 anchors the hidden-knowledge partition only on the Christian reading, because the rabbinic reading sorts sins by jurisdiction rather than knowledge by disclosure",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914.md"
+    },
+    {
+      "id": "202609151903",
+      "key": "deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849"
+        }
+      ],
+      "path": "literature/deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903.md",
+      "slug": "deuteronomy-29-29-assigns-the-concealed-things-to-god-and",
+      "tags": [],
+      "title": "Deuteronomy 29:29 assigns the concealed things to God and the revealed things to Israel, and attaches its purpose clause to the revealed half alone",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903.md"
+    },
+    {
+      "id": "202609151849",
+      "key": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849",
+      "links": [],
+      "path": "reference/deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849.md",
+      "slug": "deuteronomy-29-29-the-secret-things-and-the-revealed-things",
+      "tags": [],
+      "title": "Deuteronomy 29:29 (the secret things and the revealed things)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849.md"
     },
     {
       "id": "202609120040",
@@ -3035,6 +3295,43 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825.md"
+    },
+    {
+      "id": "202609151917",
+      "key": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852"
+        },
+        {
+          "relation": "source",
+          "target_id": "pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908"
+        },
+        {
+          "relation": "analogous",
+          "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
+        }
+      ],
+      "path": "permanent/for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917.md",
+      "slug": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so",
+      "tags": [],
+      "title": "For Dionysius the hidden God is reached by subtraction, so unknowing is a mode of knowledge rather than a gap in it, and the hidden tier is approached without being disclosed",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917.md"
     },
     {
       "id": "202609040830",
@@ -4349,6 +4646,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-classrooms-the-retrieval-advantage-shrinks-as-the-delay-grows--202609040515.md"
     },
     {
+      "id": "202609151919",
+      "key": "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
+        },
+        {
+          "relation": "source",
+          "target_id": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-partial-knowledge-passages-bound-what-creatures-know--202609151904"
+        }
+      ],
+      "path": "permanent/in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919.md",
+      "slug": "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from",
+      "tags": [],
+      "title": "In Pauline usage a mystery is a thing that has crossed from the hidden to the revealed, so the partition between them is historical and its boundary moves by revelation",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919.md"
+    },
+    {
       "id": "202609011543",
       "key": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
       "links": [
@@ -4631,6 +4965,43 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md"
     },
     {
+      "id": "202609151918",
+      "key": "known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "plato-apology-jowett-translation--202609151855"
+        },
+        {
+          "relation": "source",
+          "target_id": "rumsfeld-department-of-defense-news-briefing-12-february--202609151856"
+        },
+        {
+          "relation": "source",
+          "target_id": "rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910"
+        },
+        {
+          "relation": "source",
+          "target_id": "socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        }
+      ],
+      "path": "permanent/known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918.md",
+      "slug": "known-unknowns-can-be-inventoried-and-unknown-unknowns-only",
+      "tags": [],
+      "title": "Known unknowns can be inventoried and unknown unknowns only asserted as a class, and the taxonomy has no cell for the false known that Socrates ranks below both",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918.md"
+    },
+    {
       "id": "202609111818",
       "key": "laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818",
       "links": [
@@ -4844,6 +5215,35 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/luhmann-frames-the-slip-box-as-a-communication-partner--202609010112.md"
+    },
+    {
+      "id": "202609151912",
+      "key": "luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911"
+        }
+      ],
+      "path": "literature/luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912.md",
+      "slug": "luther-divides-god-preached-from-god-hidden-grants-that-the",
+      "tags": [],
+      "title": "Luther divides God preached from God hidden, grants that the hidden will is real and inscrutable, and forbids every inquiry into it",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912.md"
+    },
+    {
+      "id": "202609151911",
+      "key": "luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911",
+      "links": [],
+      "path": "reference/luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911.md",
+      "slug": "luther-the-bondage-of-the-will-sect-lxiv-god-preached-and",
+      "tags": [],
+      "title": "Luther, The Bondage of the Will, Sect. LXIV (God preached and God hidden)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911.md"
     },
     {
       "id": "202609042050",
@@ -5989,6 +6389,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010.md"
     },
     {
+      "id": "202609151850",
+      "key": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850",
+      "links": [],
+      "path": "reference/partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850.md",
+      "slug": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2",
+      "tags": [],
+      "title": "Partial and hidden knowledge passages (1 Cor 13:9-12; 1 Cor 2:9-12; Rom 11:33-34; Isa 55:8-9; John 16:12-13; Dan 2:20-22; Job 11:7-9; Ps 139:6; Prov 25:2; Col 1:26-27; Eph 3:3-5; Amos 3:7)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850.md"
+    },
+    {
       "id": "202609011536",
       "key": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536",
       "links": [
@@ -6084,6 +6496,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/plantinga-two-dozen-theistic-arguments--202609011500.md"
     },
     {
+      "id": "202609151855",
+      "key": "plato-apology-jowett-translation--202609151855",
+      "links": [],
+      "path": "reference/plato-apology-jowett-translation--202609151855.md",
+      "slug": "plato-apology-jowett-translation",
+      "tags": [],
+      "title": "Plato, Apology (Jowett translation)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/plato-apology-jowett-translation--202609151855.md"
+    },
+    {
       "id": "202609090057",
       "key": "pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057",
       "links": [
@@ -6177,6 +6601,18 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/price-contrasts-compound-and-simple-interest-with-one-penny--202609010204.md"
+    },
+    {
+      "id": "202609151854",
+      "key": "pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854",
+      "links": [],
+      "path": "reference/pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854.md",
+      "slug": "pseudo-dionysius-the-mystical-theology-rolt-translation",
+      "tags": [],
+      "title": "Pseudo-Dionysius, The Mystical Theology (Rolt translation)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854.md"
     },
     {
       "id": "202609042325",
@@ -6317,6 +6753,35 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535.md"
+    },
+    {
+      "id": "202609151851",
+      "key": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851",
+      "links": [],
+      "path": "reference/rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851.md",
+      "slug": "rashi-on-deuteronomy-29-28-the-secret-things-and-the",
+      "tags": [],
+      "title": "Rashi on Deuteronomy 29:28 (the secret things and the revealed things)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851.md"
+    },
+    {
+      "id": "202609151905",
+      "key": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851"
+        }
+      ],
+      "path": "literature/rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905.md",
+      "slug": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as",
+      "tags": [],
+      "title": "Rashi reads the secret things of Deuteronomy 29:28 as hidden sins and the verse as a rule about communal liability, not about knowledge",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905.md"
     },
     {
       "id": "202609011011",
@@ -6581,6 +7046,35 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rowland-the-effect-of-testing-versus-restudy-on-retention--202609040600.md"
+    },
+    {
+      "id": "202609151856",
+      "key": "rumsfeld-department-of-defense-news-briefing-12-february--202609151856",
+      "links": [],
+      "path": "reference/rumsfeld-department-of-defense-news-briefing-12-february--202609151856.md",
+      "slug": "rumsfeld-department-of-defense-news-briefing-12-february",
+      "tags": [],
+      "title": "Rumsfeld, Department of Defense news briefing, 12 February 2002 (Washington File transcript)",
+      "type": "reference",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rumsfeld-department-of-defense-news-briefing-12-february--202609151856.md"
+    },
+    {
+      "id": "202609151910",
+      "key": "rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rumsfeld-department-of-defense-news-briefing-12-february--202609151856"
+        }
+      ],
+      "path": "literature/rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910.md",
+      "slug": "rumsfeld-sorts-what-is-known-into-known-knowns-known",
+      "tags": [],
+      "title": "Rumsfeld sorts what is known into known knowns, known unknowns and unknown unknowns, and calls the last the difficult category",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910.md"
     },
     {
       "id": "202609040806",
@@ -6867,6 +7361,23 @@
       "type": "permanent",
       "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915.md"
+    },
+    {
+      "id": "202609151909",
+      "key": "socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "plato-apology-jowett-translation--202609151855"
+        }
+      ],
+      "path": "literature/socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909.md",
+      "slug": "socrates-makes-knowing-that-he-does-not-know-the-whole-of",
+      "tags": [],
+      "title": "Socrates makes knowing that he does not know the whole of his wisdom, and counts it an advantage over the man who thinks he knows",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909.md"
     },
     {
       "id": "202609041800",
@@ -8353,6 +8864,79 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-kalam-commentary-is-silent-on-the-clause-too-so-the-silence-is-not-a-genre-effect--202609040915.md"
     },
     {
+      "id": "202609151913",
+      "key": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "calvin-and-luther-both-make-the-hidden-a-known-unknown-with--202609151916"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "deut-29-29-partitions-knowledge-and-grudem-partitions-will--202609081906"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914"
+        },
+        {
+          "relation": "source",
+          "target_id": "deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903"
+        },
+        {
+          "relation": "source",
+          "target_id": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
+        },
+        {
+          "relation": "source",
+          "target_id": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850"
+        },
+        {
+          "relation": "source",
+          "target_id": "rumsfeld-department-of-defense-news-briefing-12-february--202609151856"
+        },
+        {
+          "relation": "source",
+          "target_id": "rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-partial-knowledge-passages-bound-what-creatures-know--202609151904"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914"
+        }
+      ],
+      "path": "permanent/the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913.md",
+      "slug": "the-knowledge-of-god-divides-into-what-he-has-revealed-and",
+      "tags": [],
+      "title": "The knowledge of God divides into what he has revealed and what he has withheld, and the withheld part divides again into mysteries we can name and unknowns we cannot",
+      "type": "permanent",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913.md"
+    },
+    {
       "id": "202609040610",
       "key": "the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610",
       "links": [
@@ -8557,6 +9141,23 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-muyassar-gloss-adds-no-partner-clauses-to-the-shared-god-statement--202609040818.md"
+    },
+    {
+      "id": "202609151908",
+      "key": "the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854"
+        }
+      ],
+      "path": "literature/the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908.md",
+      "slug": "the-mystical-theology-makes-unknowing-the-highest-knowledge",
+      "tags": [],
+      "title": "The Mystical Theology makes unknowing the highest knowledge of God and ends in the silence of both affirmation and negation",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908.md"
     },
     {
       "id": "202609011541",
@@ -8895,6 +9496,23 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345.md"
+    },
+    {
+      "id": "202609151904",
+      "key": "the-partial-knowledge-passages-bound-what-creatures-know--202609151904",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850"
+        }
+      ],
+      "path": "literature/the-partial-knowledge-passages-bound-what-creatures-know--202609151904.md",
+      "slug": "the-partial-knowledge-passages-bound-what-creatures-know",
+      "tags": [],
+      "title": "The partial-knowledge passages bound what creatures know, name God as the one who conceals and reveals, and use 'mystery' for what has been made known",
+      "type": "literature",
+      "updated": "2026-09-15",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-partial-knowledge-passages-bound-what-creatures-know--202609151904.md"
     },
     {
       "id": "202609032210",

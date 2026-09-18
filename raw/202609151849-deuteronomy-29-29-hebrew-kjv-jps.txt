@@ -1,0 +1,38 @@
+Verbatim capture for reference 202609151849 (scripture, FR-9).
+Deuteronomy 29:29 (English numbering) = Deuteronomy 29:28 (Hebrew numbering).
+Three witnesses, each as served, markup stripped and whitespace normalized; no
+other change.
+
+(1) Hebrew: "Miqra according to the Masorah" (licence as declared by Sefaria:
+    CC-BY-SA; version source https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94).
+    Fetched 2026-09-15T18:48:09Z from the Sefaria API
+    (https://www.sefaria.org/api/texts/Deuteronomy.29.28?context=0&pad=0)
+    via curl through the session's egress proxy. Sefaria ref: Deuteronomy 29:28
+    (דברים כ״ט:כ״ח). The extraordinary points (puncta extraordinaria) over
+    lanu u-levanenu are carried as combining marks in the served text.
+(2) English, King James Version (public domain), as served by bible-api.com
+    (https://bible-api.com/deuteronomy+29:29?translation=kjv), fetched
+    2026-09-15T18:48:00Z to 2026-09-15T18:48:08Z via curl through the
+    session's egress proxy.
+(3) English, "THE JPS TANAKH: Gender-Sensitive Edition" (licence as declared by Sefaria:
+    CC-BY-NC; version source https://jps.org/books/the-jps-tanakh-gender-sensitive-edition/), same Sefaria
+    request as (1). Kept because its rendering of the two participles is
+    itself evidence of how the verse is read in Jewish translation.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (Hebrew, Deuteronomy 29:28) ---
+הַנִּ֨סְתָּרֹ֔ת לַיהֹוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵ֙ׄיׄנׄוּ֙ׄ עַׄד־עוֹלָ֔ם לַעֲשׂ֕וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃ {ס}
+--- END VERBATIM (Hebrew) ---
+
+--- BEGIN VERBATIM (KJV, Deuteronomy 29:29) ---
+Deuteronomy 29:29 (King James Version)
+Deuteronomy 29:29 The secret
+things belong unto the LORD our God: but
+those things which are revealed
+belong unto us and to our children for ever, that
+we may do all the words of this law.
+--- END VERBATIM (KJV) ---
+
+--- BEGIN VERBATIM (JPS Tanakh, Gender-Sensitive Edition, Deuteronomy 29:28) ---
+Concealed acts concern the ETERNAL our God; but with overt acts, it is for us and our children ever to apply all the provisions of this Teaching.
+--- END VERBATIM (JPS) ---
