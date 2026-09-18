@@ -8,7 +8,7 @@ type: permanent
 title: Aquinas bounds every knowledge of God below God's own by its mode rather than by a
   withheld portion, which makes incomplete understanding the normal state at every rung
 created: '2026-09-15'
-updated: '2026-09-15'
+updated: '2026-09-18'
 tags: []
 links:
 - target_id: aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852
@@ -22,6 +22,8 @@ links:
 - target_id: the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914
   relation: shared-concept
 - target_id: calvin-institutes-of-the-christian-religion--202609011032
+  relation: source
+- target_id: calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036
   relation: source
 ---
 The owner's account has a cell it calls *incomplete understanding*: a question held, an object in view, an answer that does not exhaust it. Question 12 of the *Summa* gives that cell a definition and then shows it operating at every level of creaturely knowledge, up to and including the sight of God's essence ([[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]]).

@@ -5,7 +5,8 @@ slug: the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confe
 aliases:
 - '202609111825'
 type: permanent
-title: 'The Reformed answer to the grounding objection is the decree itself, and the Westminster Confession states the order of dependence opposite to Molina''s'
+title: The Reformed answer to the grounding objection is the decree itself, and the Westminster
+  Confession states the order of dependence opposite to Molina's
 tags: []
 links:
 - target_id: helm-and-more-on-molinism--202609111811
@@ -30,8 +31,10 @@ links:
   relation: shared-concept
 - target_id: pohle-locates-the-molinist-thomist-dispute-in-the-medium-of-foreknowledge--202609090057
   relation: shared-concept
+- target_id: the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645
+  relation: source
 created: '2026-09-11'
-updated: '2026-09-12'
+updated: '2026-09-18'
 ---
 
 The Westminster Confession, chapter 3, paragraph 2, as Van Horn quotes it:

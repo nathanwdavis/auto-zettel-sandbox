@@ -16,8 +16,10 @@ links:
   relation: elaborates
 - target_id: tikkunei-ha-zohar--202609011531
   relation: source
+- target_id: patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 Asked whether the sefirot are God's essence or His instruments, Cordovero
 answers *both*, and he can do it because he stops treating "the sefirot" as one

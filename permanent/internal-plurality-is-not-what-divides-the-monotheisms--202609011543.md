@@ -33,8 +33,12 @@ links:
   relation: elaborates
 - target_id: the-sefirot-have-a-term-outside-them-and-the-persons-have-none--202609041745
   relation: elaborates
+- target_id: maimonides-denies-any-composition-in-gods-unity--202608311932
+  relation: source
+- target_id: nae-names-god-as-one-being-in-three-persons--202608311930
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-05'
+updated: '2026-09-18'
 ---
 The Abrahamic disagreement about God is often located at the question of
 whether the one God admits real internal distinction, sorted by tradition --

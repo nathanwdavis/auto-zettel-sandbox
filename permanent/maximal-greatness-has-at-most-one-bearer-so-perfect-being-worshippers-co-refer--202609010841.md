@@ -29,8 +29,12 @@ links:
   relation: shared-concept
 - target_id: beckwith-locates-co-reference-in-general-revelation--202609010837
   relation: shared-concept
+- target_id: anselm-argues-from-a-description-even-the-fool-grasps--202609010835
+  relation: source
+- target_id: nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 Anselm's "a being than which nothing greater can be conceived" cannot have
 two bearers: superlative greatness, like any superlative, admits at most one. Anselm draws

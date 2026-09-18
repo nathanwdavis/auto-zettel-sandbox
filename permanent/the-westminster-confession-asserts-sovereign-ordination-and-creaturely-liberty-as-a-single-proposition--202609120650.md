@@ -5,7 +5,8 @@ slug: the-westminster-confession-asserts-sovereign-ordination-and-creaturely-lib
 aliases:
 - '202609120650'
 type: permanent
-title: The Westminster Confession asserts sovereign ordination and creaturely liberty as a single proposition (WCF 3.1)
+title: The Westminster Confession asserts sovereign ordination and creaturely liberty as a
+  single proposition (WCF 3.1)
 tags: []
 links:
 - target_id: westminster-confession-of-faith--202609120640
@@ -14,8 +15,10 @@ links:
   relation: shared-concept
 - target_id: the-freedom-grudem-deferred-is-compatibilist-freedom--202609081827
   relation: supports
+- target_id: the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645
+  relation: source
 created: '2026-09-12'
-updated: '2026-09-12'
+updated: '2026-09-18'
 ---
 
 The paper the sovereignty/free-will outline argues for — that God's sovereign

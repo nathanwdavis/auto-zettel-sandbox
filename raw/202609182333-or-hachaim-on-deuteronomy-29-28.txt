@@ -1,0 +1,17 @@
+Verbatim capture for reference 202609182333.
+Or HaChaim (Chaim ibn Attar, 1696-1743) on Deuteronomy 29:28 (Hebrew
+numbering; 29:29 in English Bibles), one comment. As served by the Sefaria API
+(https://www.sefaria.org/api/texts/Or_HaChaim_on_Deuteronomy.29.28?context=0&pad=0),
+fetched 2026-09-18T23:24:40Z via curl through the session's egress proxy.
+English version: "Or Hachayim, trans. Eliyahu Munk" (licence as declared by Sefaria: CC-BY).
+Hebrew version: "Vocalized Edition" (licence as declared by Sefaria: Public Domain).
+Markup stripped and whitespace normalized; no other change.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English) ---
+הנסתרות לה׳ אלוקינו, והנגלות לנו, "The hidden sins are G'd's business, but the visible ones (are our business to deal with)." We have to understand this verse as the response by the Jewish people to Moses that he cannot hold them responsible for sins committed by fellow Jews in private. However, they accept the responsibility to try and stop sins being committed in public. לנו ולבנינו עד עולם, "for us and our children forever." This is the official acceptance by the Israelites of the oath Moses wanted them to swear.
+--- END VERBATIM (English) ---
+
+--- BEGIN VERBATIM (Hebrew) ---
+הַנִּסְתָּרֹת וְגוֹ׳ וְהַנִּגְלֹת. פֵּרוּשׁ, הִיא תְּשׁוּבַת יִשְׂרָאֵל לְמֹשֶׁה, שֶׁהַנִּסְתָּרוֹת לֹא יִתְחַיְּבוּ בָּהֶם, אֲבָל הַנִּגְלוֹת קִיְּמוּ וְקִבְּלוּ עֲלֵיהֶם הָעַרְבוּת. וְאָמְרוֹ ״וּלְבָנֵינוּ עַד עוֹלָם״, כָּאן קִבְּלוּ עֲלֵיהֶם וְעַל זַרְעָם אַחֲרֵיהֶם כְּמוֹ שֶׁהִתְנָה מֹשֶׁה בַּפָּסוּק (דברים כט:יג) ״וְלֹא אִתְּכֶם״ וְגוֹ׳ כְּמוֹ שֶׁפֵּרַשְׁנוּ.
+--- END VERBATIM (Hebrew) ---

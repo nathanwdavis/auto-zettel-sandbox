@@ -5,16 +5,18 @@ slug: al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the
 aliases:
 - '202609072135'
 type: permanent
-title: al-Ash'ari's Maqalat puts the Islamic attributes at the midpoint the simplicity
-  axis predicted
+title: al-Ash'ari's Maqalat puts the Islamic attributes at the midpoint the simplicity axis
+  predicted
 created: '2026-09-07'
-updated: '2026-09-07'
+updated: '2026-09-18'
 tags: []
 links:
 - target_id: maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129
   relation: source
 - target_id: divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081
   relation: supports
+- target_id: al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134
+  relation: source
 ---
 [[divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081]]
 orders the monotheisms by how far the argument from dependence is let run — from

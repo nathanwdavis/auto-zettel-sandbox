@@ -22,8 +22,10 @@ links:
   relation: elaborates
 - target_id: the-carbon-tunings-evidential-weight-moved-and-no-belief-moved-with-it--202609022357
   relation: elaborates
+- target_id: plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-02'
+updated: '2026-09-18'
 ---
 An assessment of a design argument can come apart into two questions that
 are usually run together: whether the argument could carry the weight of

@@ -1,0 +1,17 @@
+Verbatim capture for reference 202609182330.
+Ramban (Moses ben Nahman, 1194-1270) on Deuteronomy 29:28 (Hebrew numbering;
+29:29 in English Bibles), one comment. English as served by the Sefaria API
+(https://www.sefaria.org/api/texts/Ramban_on_Deuteronomy.29.28?context=0&pad=0),
+fetched 2026-09-18T23:24:39Z via curl through the session's egress proxy.
+English version: "Commentary on the Torah by Ramban (Nachmanides). Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976" (licence as declared by Sefaria: CC-BY).
+The Hebrew version Sefaria serves ("Vocalized Edition") is declared with licence
+"unknown" and is therefore NOT captured; the Hebrew phrases quoted in the
+notes are taken from the translator's transliterations and lemmata only.
+Chavel's footnotes are embedded inline in the served text as numbered spans
+and are kept where they fall. Markup stripped and whitespace normalized; no
+other change.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English) ---
+THE SECRET THINGS BELONG UNTO THE ETERNAL OUR G-D. In the opinion of the commentators44Ibn Ezra and others. the verse states: “It is for the Eternal our G-d to execute judgment upon those who worship idols secretly, for all hidden matters are revealed before Him, but the things that are revealed are upon us and our children that we may do to them all the words of this Law — to smite the idol-worshippers in accordance with the law of the Torah. According to the interpretation of the Rabbis, too, it is so.45Sanhedrin 43b.By way of the simple meaning of Scripture it is my opinion that the secret things are the sins that are hidden from those who commit them, as it is stated, Who can discern errors? Cleanse Thou me from hidden faults.46Psalms 19:13. The verse states: “[Our] hidden sins belong to G-d alone; for them we bear no guilt for having transgressed [unknowingly]. But the things that are revealed, namely our conscious sins, belong unto us and to our children forever, that we may do all the words of this Law as an eternal statute. As such we accepted it, obligating the one who was present [when the covenant was made] and the one who was not present. And because he included in the imprecation [the obligation] to perform all the commandments, he excluded from the ban whoever commits a sin unintentionally, so that he should not be afflicted by this curse. The words of Onkelos indicate this, for he rendered it, “The secret things are before the Eternal our G-d,” [thus implying that we will not be punished for sins we have committed unknowingly], but if he agreed with the [aforementioned] interpretation of the commentators [that it is for G-d to punish conscious sins committed secretly] then Onkelos should have said, “The secret things are ‘to’ the Eternal our G-d” [to punish].
+--- END VERBATIM (English) ---

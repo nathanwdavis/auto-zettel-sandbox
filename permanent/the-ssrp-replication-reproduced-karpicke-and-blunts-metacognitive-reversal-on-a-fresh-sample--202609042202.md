@@ -5,8 +5,8 @@ slug: the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal
 aliases:
 - '202609042202'
 type: permanent
-title: The SSRP replication reproduced Karpicke and Blunt's metacognitive reversal
-  on a fresh sample
+title: The SSRP replication reproduced Karpicke and Blunt's metacognitive reversal on a fresh
+  sample
 tags: []
 links:
 - target_id: ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135
@@ -15,8 +15,12 @@ links:
   relation: source
 - target_id: confidence-tracks-re-exposure-while-retention-tracks-retrieval--202609040350
   relation: supports
+- target_id: karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140
+  relation: source
+- target_id: the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 The dissociation between what people expect to remember and what they actually

@@ -1,0 +1,38 @@
+Verbatim capture for reference 202609182329.
+Sanhedrin 43b, three consecutive segments (Sefaria segments 9-11 of the
+folio as served) -- the Gemara's discussion of why Israel was not punished for
+Achan's sin, and the dispute of Rabbi Yehuda and Rabbi Nehemya over the dots on
+"to us and to our children" in Deuteronomy 29:28. As served by the Sefaria API
+(https://www.sefaria.org/api/texts/Sanhedrin.43b?context=0&pad=0), fetched
+2026-09-18T23:24:38Z via curl through the session's egress proxy.
+English version: "William Davidson Edition - English" (licence as declared by Sefaria: CC-BY-NC).
+Aramaic/Hebrew version: "William Davidson Edition - Vocalized Aramaic" (licence as declared by Sefaria: CC-BY-NC).
+Markup (bold tags marking the translation's literal words) stripped and
+whitespace normalized; no other change. The other eight segments of the folio
+are not captured.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English, segment 9) ---
+The Gemara asks: If so, what is the reason that the Jewish people were not punished on Achan’s account until now? Rabbi Yoḥanan says in the name of Rabbi Elazar, son of Rabbi Shimon: Because God did not punish the nation as a whole for hidden sins committed by individuals until the Jewish people crossed the Jordan River.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, segment 9) ---
+וְעַד הַשְׁתָּא, מַאי טַעְמָא לָא אִיעֲנוּשׁ? אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי אֶלְעָזָר בְּרַבִּי שִׁמְעוֹן: לְפִי שֶׁלֹּא עָנַשׁ עַל הַנִּסְתָּרוֹת עַד שֶׁעָבְרוּ יִשְׂרָאֵל אֶת הַיַּרְדֵּן.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, segment 10) ---
+The Gemara notes that this is subject to a dispute between tanna’im. The verse states: “The hidden matters belong to the Lord our God, but those matters that are revealed belong to us and to our children forever [ad olam], that we may do all the words of this Torah” (Deuteronomy 29:28). Why in a Torah scroll are there dots over each of the letters in the words “to us and to our children” and over the letter ayin in the word “forever [ad]”? The dots, which function like erasures that weaken the force of the words, teach that God did not punish the nation for hidden sins until the Jewish people crossed the Jordan River. This is the statement of Rabbi Yehuda.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, segment 10) ---
+כְּתַנָּאֵי: ״הַנִּסְתָּרֹת לַה׳ אֱלֹהֵינוּ וְהַנִּגְלֹת לָנוּ וּלְבָנֵינוּ עַד עוֹלָם״. לָמָּה נָקוּד עַל ״לָנוּ וּלְבָנֵינוּ״ וְעַל עַיִן שֶׁבְּ״עַד״? מְלַמֵּד שֶׁלֹּא עָנַשׁ עַל הַנִּסְתָּרוֹת עַד שֶׁעָבְרוּ יִשְׂרָאֵל אֶת הַיַּרְדֵּן, דִּבְרֵי רַבִּי יְהוּדָה.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, segment 11) ---
+Rabbi Neḥemya said to him: And does God ever punish the nation as a whole for hidden sins committed by individuals? But isn’t it already stated: “The hidden matters belong to the Lord our God…forever,” indicating that the Jewish people will never be collectively held responsible for the secret sins of individuals? Rather, the dots over the words teach that just as God did not ever punish the nation as a whole for hidden sins committed by individuals, so too, He did not punish the entire nation for sins committed publicly by individuals until the Jewish people crossed the Jordan River. The Gemara asks: But if so,
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, segment 11) ---
+אָמַר לוֹ רַבִּי נְחֶמְיָה: וְכִי עָנַשׁ עַל הַנִּסְתָּרוֹת לְעוֹלָם? וַהֲלֹא כְּבָר נֶאֱמַר ״עַד עוֹלָם״! אֶלָּא, כְּשֵׁם שֶׁלֹּא עָנַשׁ עַל הַנִּסְתָּרוֹת, כָּךְ לֹא עָנַשׁ עַל עוֹנָשִׁין שֶׁבַּגָּלוּי עַד שֶׁעָבְרוּ יִשְׂרָאֵל אֶת הַיַּרְדֵּן. אֶלָּא
+--- END VERBATIM ---
+

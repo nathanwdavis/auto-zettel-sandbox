@@ -5,11 +5,10 @@ slug: for-dionysius-the-hidden-god-is-reached-by-subtraction-so
 aliases:
 - '202609151917'
 type: permanent
-title: For Dionysius the hidden God is reached by subtraction, so unknowing is a mode
-  of knowledge rather than a gap in it, and the hidden tier is approached without
-  being disclosed
+title: For Dionysius the hidden God is reached by subtraction, so unknowing is a mode of knowledge
+  rather than a gap in it, and the hidden tier is approached without being disclosed
 created: '2026-09-15'
-updated: '2026-09-15'
+updated: '2026-09-18'
 tags: []
 links:
 - target_id: pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854
@@ -24,6 +23,8 @@ links:
   relation: elaborates
 - target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
   relation: analogous
+- target_id: aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906
+  relation: source
 ---
 The owner's account, Calvin's fence and Luther's wall all treat the hidden as something that could in principle be stated and is not: a set of withheld propositions. The *Mystical Theology* describes a hidden tier of a different kind, and a relation to it that is neither inquiry nor abstention ([[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]]).
 

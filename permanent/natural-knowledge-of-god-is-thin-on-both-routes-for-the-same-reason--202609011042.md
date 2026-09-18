@@ -20,8 +20,10 @@ links:
   relation: elaborates
 - target_id: the-general-revelation-passages-describe-a-wordless-disclosure--202609011038
   relation: shared-concept
+- target_id: calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The third thing the knowability doctrine and the design arguments share is a
 limit, and it is the same limit because it comes from the shared channel:

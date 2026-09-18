@@ -5,11 +5,10 @@ slug: deuteronomy-29-29-anchors-the-hidden-knowledge-partition
 aliases:
 - '202609151914'
 type: permanent
-title: Deuteronomy 29:29 anchors the hidden-knowledge partition only on the Christian
-  reading, because the rabbinic reading sorts sins by jurisdiction rather than knowledge
-  by disclosure
+title: Deuteronomy 29:29 anchors the hidden-knowledge partition only on the Christian reading,
+  because the rabbinic reading sorts sins by jurisdiction rather than knowledge by disclosure
 created: '2026-09-15'
-updated: '2026-09-15'
+updated: '2026-09-18'
 tags: []
 links:
 - target_id: rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851
@@ -28,6 +27,18 @@ links:
   relation: elaborates
 - target_id: the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913
   relation: shared-concept
+- target_id: sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335
+  relation: source
+- target_id: ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336
+  relation: source
+- target_id: ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337
+  relation: source
+- target_id: rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338
+  relation: source
+- target_id: the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339
+  relation: source
+- target_id: five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340
+  relation: shared-concept
 ---
 The verse both Calvin and Grudem build the secret/revealed distinction on has no noun in it. Its two subjects are bare plural participles, *ha-nistarot* and *ha-niglot*, the concealed and the revealed, and what is concealed or revealed has to be supplied by the reader ([[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]]). Two traditions supply different nouns, and the difference decides whether the verse is about knowledge at all.
 
@@ -40,3 +51,5 @@ The verse both Calvin and Grudem build the secret/revealed distinction on has no
 **A second consequence, on either reading.** Even read of knowledge, the verse gives the concealed side no content and no duration. The one temporal word in it, "for ever", is on the revealed side. So the further structure any account puts inside the hidden tier, mysteries against unknowns, temporary against permanent, is supplied from elsewhere, and the verse neither supports nor contests it ([[the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913]]).
 
 **Limits.** One commentator for the rabbinic reading, reporting one Talmudic passage that is not captured; Ibn Ezra, Ramban and Sforno are not on file. Calvin's is one of several Christian readings, and Grudem's is a further step beyond it, from disclosure to will.
+
+**Amended 2026-09-18, from the Talmud and four more commentators.** The limits above said the rabbinic reading rested on one commentator reporting one uncaptured Talmudic passage, and that Ibn Ezra, Ramban and Sforno were not on file. Sanhedrin 43b, Ibn Ezra, Rashbam, Ramban and the Or HaChaim are now captured. All of them read the verse of sins and liability; the division inside the tradition is Ramban's, who makes the hidden sins those hidden from the sinner himself rather than from the community; and the one reading that gives both halves to God is reported by Ibn Ezra in order to be rejected. Recorded at [[five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340]]; nothing above is withdrawn, and "one commentator" in the limits should now be read as five plus the Talmud.
