@@ -24,8 +24,12 @@ links:
   relation: elaborates
 - target_id: the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211
   relation: shared-concept
+- target_id: paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010
+  relation: source
+- target_id: ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 Paley's own statement of the watch inference is explicitly indifferent to
 number: the watch "must have had a maker: that there must have existed, at

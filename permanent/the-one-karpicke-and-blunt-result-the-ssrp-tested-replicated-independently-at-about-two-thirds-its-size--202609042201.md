@@ -23,8 +23,14 @@ links:
   relation: elaborates
 - target_id: the-independent-audit-puts-the-effect-at-half-a-standard-deviation--202609040615
   relation: shared-concept
+- target_id: the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900
+  relation: source
+- target_id: karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140
+  relation: source
+- target_id: the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 An independent team, with no tie to the Roediger–Karpicke line, ran Karpicke and

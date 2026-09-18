@@ -3361,5 +3361,139 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Sanhedrin.43b",
+    "container-title": "Talmud Bavli, The William Davidson Edition",
+    "id": "202609182329",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Sanhedrin 43b",
+    "translator": [
+      {
+        "literal": "The William Davidson Talmud (Koren-Steinsaltz)"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Ramban_on_Deuteronomy.29.28",
+    "author": [
+      {
+        "literal": "Ramban (Moses ben Nahman)"
+      }
+    ],
+    "container-title": "Commentary on the Torah: Deuteronomy",
+    "id": "202609182330",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "publisher": "Shilo Publishing House",
+    "publisher-place": "New York",
+    "title": "Ramban on Deuteronomy 29:28",
+    "translator": [
+      {
+        "family": "Chavel",
+        "given": "Charles B."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Ibn_Ezra_on_Deuteronomy.29.28",
+    "author": [
+      {
+        "literal": "Abraham ibn Ezra"
+      }
+    ],
+    "container-title": "Ibn Ezra's Commentary on the Pentateuch: Deuteronomy",
+    "id": "202609182331",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Menorah Publishing",
+    "publisher-place": "New York",
+    "title": "Ibn Ezra on Deuteronomy 29:28",
+    "translator": [
+      {
+        "family": "Strickman",
+        "given": "H. Norman"
+      },
+      {
+        "family": "Silver",
+        "given": "Arthur M."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Rashbam_on_Deuteronomy.29.28",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Rashbam (Samuel ben Meir)"
+      }
+    ],
+    "container-title": "HaChut Hameshulash",
+    "id": "202609182332",
+    "publisher": "Sefaria",
+    "title": "Rashbam on Deuteronomy 29:28",
+    "translator": [
+      {
+        "family": "Munk",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Or_HaChaim_on_Deuteronomy.29.28",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Chaim ibn Attar"
+      }
+    ],
+    "container-title": "Or Hachayim",
+    "id": "202609182333",
+    "publisher": "Sefaria",
+    "title": "Or HaChaim on Deuteronomy 29:28",
+    "translator": [
+      {
+        "family": "Munk",
+        "given": "Eliyahu"
+      }
+    ],
+    "type": "chapter"
   }
 ]

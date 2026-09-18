@@ -24,8 +24,14 @@ links:
   relation: shared-concept
 - target_id: the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410
   relation: shared-concept
+- target_id: craig-restakes-teleology-on-anthropic-fine-tuning--202609011012
+  relation: source
+- target_id: paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010
+  relation: source
+- target_id: ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The classic design argument argued from organisms: Paley's exemplary
 contrivances are the eye, the joints, the instincts -- living mechanisms

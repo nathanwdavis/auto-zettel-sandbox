@@ -14,8 +14,10 @@ links:
   relation: shared-concept
 - target_id: the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015
   relation: shared-concept
+- target_id: behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 Behe's irreducible-complexity argument has a precise logical shape: natural
 selection, on his statement of it, "requires a continuum of function to

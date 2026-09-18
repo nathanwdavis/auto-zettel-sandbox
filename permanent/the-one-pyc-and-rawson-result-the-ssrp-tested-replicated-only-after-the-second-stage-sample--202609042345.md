@@ -17,8 +17,12 @@ links:
   relation: elaborates
 - target_id: the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201
   relation: shared-concept
+- target_id: the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900
+  relation: source
+- target_id: the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 The Social Sciences Replication Project tested one result from Pyc and Rawson

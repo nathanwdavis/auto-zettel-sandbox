@@ -18,8 +18,12 @@ links:
   relation: shared-concept
 - target_id: kabbalah-separates-acknowledging-god-from-addressing-him--202609011540
   relation: shared-concept
+- target_id: the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937
+  relation: source
+- target_id: tachin-makes-accepted-trinitarian-worship-the-test--202608311935
+  relation: source
 created: '2026-08-31'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The premise that the three traditions descend from a common Abrahamic root is
 accepted on both sides of the same-God dispute, and both sides reason from it to

@@ -23,8 +23,12 @@ links:
   relation: shared-concept
 - target_id: the-nameless-infinite-defeats-reference-fixing-by-description--202609011541
   relation: supports
+- target_id: anselm-argues-from-a-description-even-the-fool-grasps--202609010835
+  relation: source
+- target_id: tachin-makes-accepted-trinitarian-worship-the-test--202608311935
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The uniqueness route from Anselm's formula to "same God" has a hidden premise:
 that each tradition's worship actually *refers via* the maximal description.

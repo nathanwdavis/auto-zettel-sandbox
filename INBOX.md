@@ -985,6 +985,22 @@ mandates either, and lint_links does not check it.
 Until it is settled, expect this sweep to keep re-proposing these same pairs;
 they are not rejections that will stick on their own.
 
+- **status:** answered
+- **resolved 2026-09-18 (librarian pass, self-review):** the convention is
+  settled as the generators already prescribe it (`capture.py permanent ...
+  --link <lit-key> --link <ref-key>`): a permanent note links both the reference
+  note of a source it cites and the literature note that summarises it, the
+  literature link with relation `source`. Applied across the whole base, not the
+  three pairs the sweep surfaced: 47 permanent-to-reference pairs where the
+  reference has exactly one literature note now carry the literature link as
+  well (the full list is in the 2026-09-18 log line). Eight pairs where the
+  reference has several literature notes (six on grudem-systematic-theology,
+  two on hodge-systematic-theology-volume-1) are left for a reading pass,
+  because choosing among eight Grudem literature notes is a judgement about
+  which passage the claim draws on, not a mechanical link. The 2026-09-18
+  connector sweep re-proposed six of these pairs, as this entry predicted; they
+  are resolved by the pass rather than accepted one by one.
+
 ## 2026-09-03 — Graph walk 2026-09-03: six permanent notes carry no source at all, and two of them are among the base's most-linked hubs
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -4835,3 +4851,34 @@ threshold.
 is still `new`. This cycle stayed inside it by transliterating Hebrew and
 quoting only captured translations for every gloss; the Latin and Greek
 sources above were left uncaptured for the same reason.
+
+- **partly resolved 2026-09-18, next cycle:** items (1) and (2) of "Not done, and
+  cheap" are done. Sanhedrin 43b (three segments, Davidson translation) is
+  reference sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329; Ibn Ezra, Rashbam, Ramban and the Or HaChaim on the verse
+  are references ibn-ezra-on-deuteronomy-29-28--202609182331, rashbam-on-deuteronomy-29-28--202609182332, ramban-on-deuteronomy-29-28--202609182330 and or-hachaim-on-deuteronomy-29-28--202609182333, each with a
+  literature note; the finding is five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340, and the 2026-09-15 note
+  deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914 carries
+  a dated amendment. Sforno was served by Sefaria with no declared licence and
+  was not captured; Ramban's Hebrew likewise. Kerwin, Logan and Junius remain
+  open as above.
+
+## 2026-09-18 — Access: NPNF texts, from the swept fleeting note 202609052103
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** low
+- **asked_by:** run (fleeting sweep, 2026-09-18 cycle)
+
+Promoted from fleeting/access-route-notes-on-npnf-sources--202609052103 (written
+2026-09-05 during the Athanasius cycle; the fleeting note is removed by this
+sweep and its content is here). Three access findings for the Nicene and
+Post-Nicene Fathers series, and one rule. (1) CCEL's `schaff/npnf204` pages
+are a true JavaScript shell (empty `book-content` div); unusable without a
+renderer. (2) catholiclibrary.org returns real HTML but truncated: the
+Discourse I capture (56 KB) held the table of contents and opening sections
+and not Discourse I.28, De Decretis 11 or 22. (3) tertullian.org's
+`fathers2/NPNF2-04/` serves the text as plain HTML and was the route that
+worked. The rule, which the 2026-09-05 critic finding and the 2026-09-15
+cycle's quotation checks both restate: byte count and file size are not
+evidence that a capture contains a passage; search the capture for the exact
+passage before relying on it. This belongs in the source-access-triage skill's
+ladder as a host note and a step, which is where the skill-smith should look.

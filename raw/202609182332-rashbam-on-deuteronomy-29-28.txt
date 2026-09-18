@@ -1,0 +1,19 @@
+Verbatim capture for reference 202609182332.
+Rashbam (Samuel ben Meir, c. 1085-c. 1158) on Deuteronomy 29:28 (Hebrew
+numbering; 29:29 in English Bibles), two comment segments. As served by the
+Sefaria API (https://www.sefaria.org/api/texts/Rashbam_on_Deuteronomy.29.28?context=0&pad=0),
+fetched 2026-09-18T23:24:39Z via curl through the session's egress proxy.
+English version: "Eliyahu Munk, HaChut Hameshulash" (licence as declared by Sefaria: CC-BY).
+Hebrew version: "Rashbam on Deuteronomy -- Daat" (licence as declared by Sefaria: Public Domain).
+Markup stripped and whitespace normalized; no other change.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English) ---
+הנסתרות לה' אלוקינו, I have already explained this on Deut. 27,15 in connection with the curses pronounced at Mount Gerizim and Mount Eyval. It is precisely because sins committed in secret cannot be dealt with by the courts, that the Torah has to go on record that the sinner will still not get away with his sin.
+לנו ולבנינו עד עולם, it is up to us to administer the penalties prescribed by the Torah subject to the offender being convicted on the basis of reliable witnesses.
+--- END VERBATIM (English) ---
+
+--- BEGIN VERBATIM (Hebrew) ---
+הנסתרות לה' אלהינו - כבר פירשתים אצל הארורים על הנסתרות (כי) הנסתרים היו הברכות והקללות, שאין הדבר ליענש ביד בית דין אלא ביד הקב"ה.
+לנו ולבנינו - לעשות דיני עונשין על פי עדים.
+--- END VERBATIM (Hebrew) ---

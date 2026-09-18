@@ -5,7 +5,8 @@ slug: the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled
 aliases:
 - '202609041730'
 type: permanent
-title: The two kabbalistic readings align with one ruled out by the Nicene creed and one only by tradition
+title: The two kabbalistic readings align with one ruled out by the Nicene creed and one only
+  by tradition
 tags:
 - contested
 links:
@@ -29,8 +30,10 @@ links:
   relation: elaborates
 - target_id: christian-kabbalism-claimed-kabbalah-compels-the-trinity--202609011811
   relation: contradicts
+- target_id: patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-05'
+updated: '2026-09-18'
 ---
 Put the kabbalistic dispute about the sefirot beside the fourth-century
 Christian dispute about the persons and the two options on each side line up —

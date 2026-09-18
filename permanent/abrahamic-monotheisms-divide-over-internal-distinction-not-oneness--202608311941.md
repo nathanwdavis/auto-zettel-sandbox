@@ -5,8 +5,8 @@ slug: abrahamic-monotheisms-divide-over-internal-distinction-not-oneness
 aliases:
 - '202608311941'
 type: permanent
-title: The Abrahamic monotheisms agree that God is one and divide over whether oneness
-  admits internal distinction
+title: The Abrahamic monotheisms agree that God is one and divide over whether oneness admits
+  internal distinction
 tags: []
 links:
 - target_id: nae-statement-of-faith--202608311920
@@ -21,8 +21,16 @@ links:
   relation: elaborates
 - target_id: internal-plurality-is-not-what-divides-the-monotheisms--202609011543
   relation: contradicts
+- target_id: maimonides-denies-any-composition-in-gods-unity--202608311932
+  relation: source
+- target_id: nae-names-god-as-one-being-in-three-persons--202608311930
+  relation: source
+- target_id: the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933
+  relation: source
+- target_id: the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931
+  relation: source
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-18'
 ---
 The dispute between Judaism, Christianity and Islam about God is not a dispute
 about how many gods there are. All three assert exactly one. It is a dispute

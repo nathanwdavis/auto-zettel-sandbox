@@ -5,8 +5,7 @@ slug: evangelical-theology-identifies-god-by-a-tri-personal-life
 aliases:
 - '202608311940'
 type: permanent
-title: Evangelical theology identifies God by a tri-personal life, not by a list of
-  attributes
+title: Evangelical theology identifies God by a tri-personal life, not by a list of attributes
 tags: []
 links:
 - target_id: nae-statement-of-faith--202608311920
@@ -19,8 +18,10 @@ links:
   relation: supports
 - target_id: grudem-answers-open-theism-with-isaiahs-test-of-deity-not-with-the-definition-of-omniscience--202609061921
   relation: shared-concept
+- target_id: nae-names-god-as-one-being-in-three-persons--202608311930
+  relation: source
 created: '2026-08-31'
-updated: '2026-09-06'
+updated: '2026-09-18'
 ---
 Asked "Who is God?", mainstream evangelical theology does not answer with the
 attributes a philosopher would list first. It answers by naming one God who

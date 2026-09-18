@@ -15,8 +15,10 @@ links:
   relation: elaborates
 - target_id: a-failed-retrieval-that-is-never-corrected-buys-nothing--202609040620
   relation: shared-concept
+- target_id: karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 The case for retrieval has usually been made against a lazy comparison: pulling

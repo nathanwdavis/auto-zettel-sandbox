@@ -5,8 +5,8 @@ slug: the-same-wall-and-the-mystery-put-on-opposite-sides
 aliases:
 - '202609081914'
 type: permanent
-title: Maimonides and Grudem reach the same wall and put the mystery on opposite sides
-  of it
+title: Maimonides and Grudem reach the same wall and put the mystery on opposite sides of
+  it
 tags: []
 links:
 - target_id: maimonides-mishneh-torah-hilchot-teshuvah-5-6--202609081910
@@ -25,8 +25,10 @@ links:
   relation: elaborates
 - target_id: the-grounding-objection-is-molinisms-own-unanswered-question--202609090104
   relation: elaborates
+- target_id: akiva-states-both-halves-and-reconciles-neither--202609081913
+  relation: source
 created: '2026-09-08'
-updated: '2026-09-09'
+updated: '2026-09-18'
 ---
 Both traditions arrive at the same impasse and both admit it. Neither claims to
 show how exhaustive divine knowledge and genuine human choosing consist

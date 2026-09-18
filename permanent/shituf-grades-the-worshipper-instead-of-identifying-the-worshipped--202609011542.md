@@ -23,8 +23,10 @@ links:
   relation: elaborates
 - target_id: kabbalah-separates-acknowledging-god-from-addressing-him--202609011540
   relation: shared-concept
+- target_id: ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The Jewish-legal sentence most often reached for when the same-God question is
 asked about Christians does not answer it by deciding whom Christians worship.

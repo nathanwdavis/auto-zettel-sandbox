@@ -33,8 +33,16 @@ links:
   relation: contradicts
 - target_id: the-classical-summons-presupposes-a-shared-acknowledgement-and-disputes-the-worship--202609041215
   relation: contradicts
+- target_id: the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937
+  relation: source
+- target_id: nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934
+  relation: source
+- target_id: tachin-makes-accepted-trinitarian-worship-the-test--202608311935
+  relation: source
+- target_id: vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936
+  relation: source
 created: '2026-08-31'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 Participants in the same-God dispute can agree on every doctrinal fact and still
 answer opposite ways, because they are answering different questions. One

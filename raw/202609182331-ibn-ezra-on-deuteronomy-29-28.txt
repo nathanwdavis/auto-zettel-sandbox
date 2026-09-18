@@ -1,0 +1,21 @@
+Verbatim capture for reference 202609182331.
+Abraham ibn Ezra (1089-1167) on Deuteronomy 29:28 (Hebrew numbering; 29:29 in
+English Bibles), two comment segments. As served by the Sefaria API
+(https://www.sefaria.org/api/texts/Ibn_Ezra_on_Deuteronomy.29.28?context=0&pad=0),
+fetched 2026-09-18T23:24:38Z via curl through the session's egress proxy.
+English version: "Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004" (licence as declared by Sefaria: CC-BY-NC).
+Hebrew version: "On Your Way" (licence as declared by Sefaria: Public Domain).
+The translators' footnotes are embedded inline in the served English as
+numbered spans and are kept where they fall. Markup stripped and whitespace
+normalized; no other change.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English) ---
+THE SECRET THINGS. The reference is to one who serves idols in secret.
+BELONG UNTO THE LORD OUR GOD. Its meaning is that his punishment is in the hands of God, and the Lord will exact punishment from him. However, if the sin was committed in public there is an obligation on us and our children to do in accordance with that which is written in the Torah. Others say63That the meaning of our verse is. that the secret and the revealed things belong to God. It is incumbent upon us only to observe the words of the Torah. Now this interpretation has no head or foot.64It makes no sense and has no legs to stand on. What reason is there to mention this here?65It does not continue the thought of the previous verse. Scripture states that if you return unto the Lord (Deut. 30:2), God will turn thy captivity (Ibid., v. 3) even though you are outside of the land because it stated earlier, and cast them into another land (v. 27). According to Rabbi Judah66Rabbi Judah Chayuj. the first grammarian, the meaning of ve-shav (then shall turn) (Deut. 30:3) means God will give rest;67See I.E. on Num. 10:36 (Vol. 4, p. 75). Rabbi Judah renders God will turn thy captivity (Ibid., v. 3) as God will give rest to your captivity. that is, he will give rest to the captives and be merciful to them, and after this He will return and gather.68Your captivity. It should be noted that Rabbi Judah renders the first ve-shav in 30:3 as will He give rest, and the second ve-shav as and will He return.
+--- END VERBATIM (English) ---
+
+--- BEGIN VERBATIM (Hebrew) ---
+הנסתרות. הטעם מי שיעבוד עבודת כוכבים בסתר:
+לה' אלהינו והטעם כי משפטו ביד השם והוא יפרע ממנו ואם היתה בגלוי חיוב לנו ולבנינו לעשות ככתוב בתורה. וי״‎א כי הנסתרות והנגלות הם לה' ואין לנו כי אם לעשות דברי התורה וזה הפי' בלא ראש ורגל ומה טעם יש להזכיר כן במקום הזה ובעבור שאמר וישליכם אל ארץ אחרת אמר כי אם תשוב אל ה' אע״‎פ שאתה חוצה לארץ השם ישיב שבותך ועל דעת רבי יהודה המדקדק הראשון כי הוא יניח. והטעם ימצא מנוח' לנשבים ויתן להם רחמים ואחר כן ישוב ויקבץ:
+--- END VERBATIM (Hebrew) ---

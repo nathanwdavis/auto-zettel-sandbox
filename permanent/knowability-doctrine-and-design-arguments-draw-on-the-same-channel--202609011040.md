@@ -20,8 +20,12 @@ links:
   relation: elaborates
 - target_id: natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042
   relation: elaborates
+- target_id: calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036
+  relation: source
+- target_id: the-general-revelation-passages-describe-a-wordless-disclosure--202609011038
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 The doctrine of the knowability of God and the teleological arguments are
 built over the same channel: the created works, read as carrying information

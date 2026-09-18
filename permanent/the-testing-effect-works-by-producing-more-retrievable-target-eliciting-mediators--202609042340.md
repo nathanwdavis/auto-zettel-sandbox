@@ -5,8 +5,8 @@ slug: the-testing-effect-works-by-producing-more-retrievable-target-eliciting-me
 aliases:
 - '202609042340'
 type: permanent
-title: The testing effect works by producing mediators that are both more retrievable
-  and better at eliciting the target
+title: The testing effect works by producing mediators that are both more retrievable and
+  better at eliciting the target
 tags: []
 links:
 - target_id: pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320
@@ -15,8 +15,10 @@ links:
   relation: elaborates
 - target_id: retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200
   relation: shared-concept
+- target_id: pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325
+  relation: source
 created: '2026-09-04'
-updated: '2026-09-04'
+updated: '2026-09-18'
 ---
 
 This base can say *that* retrieval beats re-exposure

@@ -16,8 +16,12 @@ links:
   relation: shared-concept
 - target_id: the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016
   relation: elaborates
+- target_id: aquinas-makes-god-demonstrable-only-from-effects--202609011206
+  relation: source
+- target_id: ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011
+  relation: source
 created: '2026-09-01'
-updated: '2026-09-01'
+updated: '2026-09-18'
 ---
 Aquinas's fifth way and Paley's watch are usually filed together, but
 their data differ in kind. Paley's datum is contrivance -- an intricate

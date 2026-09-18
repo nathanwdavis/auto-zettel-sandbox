@@ -319,7 +319,6 @@
     "202609050158": "grudem-systematic-theology--202609050158",
     "202609050547": "grudem-divine-attributes-incommunicable-and-communicable--202609050547",
     "202609050548": "grudem-trinity-three-persons-one-god--202609050548",
-    "202609050549": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
     "202609050601": "grudem-systematic-theology-chapter-14-course-outline--202609050601",
     "202609050602": "grudem-systematic-theology-chapter-11-course-outline--202609050602",
     "202609050612": "grudems-incommunicable-attributes-are-denials-fenced-where-god-acts--202609050612",
@@ -329,12 +328,10 @@
     "202609051935": "al-ash-ari-al-ibana-klein-translation--202609051935",
     "202609051940": "al-ash-ari-affirms-god-eternally-knowing-powerful-living--202609051940",
     "202609051941": "mutazili-position-as-al-ash-ari-reports-it-denies-distinct-attributes--202609051941",
-    "202609051950": "ibn-kullab-formula-origin-unconfirmed--202609051950",
     "202609052014": "athanasius-orationes-contra-arianos-i--202609052014",
     "202609052015": "athanasius-de-decretis--202609052015",
     "202609052101": "athanasius-discourse-i-uses-simplicity-to-explain-impassible-generation--202609052101",
     "202609052102": "athanasius-de-decretis-contrasts-human-composite-generation-with-divine-uncompounded-generation--202609052102",
-    "202609052103": "access-route-notes-on-npnf-sources--202609052103",
     "202609052210": "athanasius-de-decretis-22-argues-from-simplicity-to-the-son-from-the-essence--202609052210",
     "202609052320": "in-athanasius-simplicity-is-not-on-one-side-of-the-argument--202609052320",
     "202609061915": "grudem-defines-omniscience-as-one-simple-eternal-act-and-rejects-open-theism--202609061915",
@@ -447,6 +444,17 @@
     "202609151917": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917",
     "202609151918": "known-unknowns-can-be-inventoried-and-unknown-unknowns-only--202609151918",
     "202609151919": "in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919",
+    "202609182329": "sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329",
+    "202609182330": "ramban-on-deuteronomy-29-28--202609182330",
+    "202609182331": "ibn-ezra-on-deuteronomy-29-28--202609182331",
+    "202609182332": "rashbam-on-deuteronomy-29-28--202609182332",
+    "202609182333": "or-hachaim-on-deuteronomy-29-28--202609182333",
+    "202609182335": "sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335",
+    "202609182336": "ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336",
+    "202609182337": "ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337",
+    "202609182338": "rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338",
+    "202609182339": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339",
+    "202609182340": "five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -455,6 +463,15 @@
     "202701010013": "time-horizon-dominates-rate--202701010013"
   },
   "inquiries": [
+    {
+      "key": "did-ibn-kullab-originate-the-formula-neither-he-nor-other--202609182342",
+      "path": "inquiries/did-ibn-kullab-originate-the-formula-neither-he-nor-other--202609182342.md",
+      "priority": "low",
+      "question": "Did Ibn Kullab originate the formula 'neither He nor other than He' for the divine attributes, or did the Ash'ari school credit him with a position it later systematised?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-18"
+    },
     {
       "key": "do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929",
       "path": "inquiries/do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929.md",
@@ -504,6 +521,15 @@
       ],
       "status": "answered",
       "updated": "2026-09-05"
+    },
+    {
+      "key": "does-grudem-s-systematic-theology-2nd-ed-2020-affirm-the--202609182341",
+      "path": "inquiries/does-grudem-s-systematic-theology-2nd-ed-2020-affirm-the--202609182341.md",
+      "priority": "low",
+      "question": "Does Grudem's Systematic Theology, 2nd ed. (2020), affirm the eternal generation of the Son while retaining eternal functional subordination, and how does its grounding of the real distinction of the persons compare with Athanasius, Augustine, Aquinas and Calvin?",
+      "result_notes": [],
+      "status": "new",
+      "updated": "2026-09-18"
     },
     {
       "key": "does-the-same-god-dispute-survive-contact-with-an-actual--202609041839",
@@ -855,7 +881,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 452,
+  "note_count": 460,
   "notes": [
     {
       "id": "202609041020",
@@ -1324,7 +1350,15 @@
         },
         {
           "relation": "source",
+          "target_id": "maimonides-denies-any-composition-in-gods-unity--202608311932"
+        },
+        {
+          "relation": "source",
           "target_id": "maimonides-mishneh-torah-yesodei-hatorah--202608311922"
+        },
+        {
+          "relation": "source",
+          "target_id": "nae-names-god-as-one-being-in-three-persons--202608311930"
         },
         {
           "relation": "source",
@@ -1339,8 +1373,16 @@
           "target_id": "shema-deuteronomy-6-4-5--202608311921"
         },
         {
+          "relation": "source",
+          "target_id": "the-quran-asserts-tawhid-and-names-the-formula-it-rejects--202608311933"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931"
         }
       ],
       "path": "permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md",
@@ -1348,20 +1390,8 @@
       "tags": [],
       "title": "The Abrahamic monotheisms agree that God is one and divide over whether oneness admits internal distinction",
       "type": "permanent",
-      "updated": "2026-08-31",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/abrahamic-monotheisms-divide-over-internal-distinction-not-oneness--202608311941.md"
-    },
-    {
-      "id": "202609052103",
-      "key": "access-route-notes-on-npnf-sources--202609052103",
-      "links": [],
-      "path": "fleeting/access-route-notes-on-npnf-sources--202609052103.md",
-      "slug": "access-route-notes-on-npnf-sources",
-      "tags": [],
-      "title": "",
-      "type": "fleeting",
-      "updated": "2026-09-05",
-      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/access-route-notes-on-npnf-sources--202609052103.md"
     },
     {
       "id": "202609040320",
@@ -1518,6 +1548,10 @@
       "key": "al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135",
       "links": [
         {
+          "relation": "source",
+          "target_id": "al-ash-ari-in-the-maqalat-reports-ibn-kullab-real--202609072134"
+        },
+        {
           "relation": "supports",
           "target_id": "divine-simplicity-is-the-question-the-monotheisms-actually-divide-on--202609042081"
         },
@@ -1531,7 +1565,7 @@
       "tags": [],
       "title": "al-Ash'ari's Maqalat puts the Islamic attributes at the midpoint the simplicity axis predicted",
       "type": "permanent",
-      "updated": "2026-09-07",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/al-ash-ari-s-maqalat-puts-the-islamic-attributes-at-the--202609072135.md"
     },
     {
@@ -1651,6 +1685,10 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835"
+        },
+        {
+          "relation": "source",
           "target_id": "anselm-proslogium--202609010830"
         },
         {
@@ -1670,6 +1708,10 @@
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
         },
         {
+          "relation": "source",
+          "target_id": "tachin-makes-accepted-trinitarian-worship-the-test--202608311935"
+        },
+        {
           "relation": "supports",
           "target_id": "the-nameless-infinite-defeats-reference-fixing-by-description--202609011541"
         },
@@ -1685,7 +1727,7 @@
       ],
       "title": "Anselmian co-reference holds only if the description does the referring",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/anselmian-co-reference-holds-only-if-the-description-does-the-referring--202609010842.md"
     },
     {
@@ -1796,6 +1838,10 @@
           "target_id": "calvin-institutes-of-the-christian-religion--202609011032"
         },
         {
+          "relation": "source",
+          "target_id": "calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036"
+        },
+        {
           "relation": "elaborates",
           "target_id": "natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042"
         },
@@ -1813,7 +1859,7 @@
       "tags": [],
       "title": "Aquinas bounds every knowledge of God below God's own by its mode rather than by a withheld portion, which makes incomplete understanding the normal state at every rung",
       "type": "permanent",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915.md"
     },
     {
@@ -2767,6 +2813,10 @@
         },
         {
           "relation": "source",
+          "target_id": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536"
+        },
+        {
+          "relation": "source",
           "target_id": "tikkunei-ha-zohar--202609011531"
         },
         {
@@ -2779,7 +2829,7 @@
       "tags": [],
       "title": "Cordovero settles the essence-or-vessels question by doubling the sefirot",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/cordovero-settles-the-essence-vessel-question-by-doubling-the-sefirot--202609041725.md"
     },
     {
@@ -2924,6 +2974,10 @@
         },
         {
           "relation": "source",
+          "target_id": "plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505"
+        },
+        {
+          "relation": "source",
           "target_id": "plantinga-two-dozen-theistic-arguments--202609011500"
         },
         {
@@ -2936,7 +2990,7 @@
       "tags": [],
       "title": "Design arguments can confirm belief they do not ground",
       "type": "permanent",
-      "updated": "2026-09-02",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/design-arguments-can-confirm-belief-they-do-not-ground--202609011510.md"
     },
     {
@@ -2993,6 +3047,22 @@
           "target_id": "deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849"
         },
         {
+          "relation": "shared-concept",
+          "target_id": "five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337"
+        },
+        {
+          "relation": "source",
+          "target_id": "ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338"
+        },
+        {
           "relation": "source",
           "target_id": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851"
         },
@@ -3001,8 +3071,16 @@
           "target_id": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905"
         },
         {
+          "relation": "source",
+          "target_id": "sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339"
         }
       ],
       "path": "permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914.md",
@@ -3010,7 +3088,7 @@
       "tags": [],
       "title": "Deuteronomy 29:29 anchors the hidden-knowledge partition only on the Christian reading, because the rabbinic reading sorts sins by jurisdiction rather than knowledge by disclosure",
       "type": "permanent",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914.md"
     },
     {
@@ -3195,6 +3273,10 @@
         },
         {
           "relation": "source",
+          "target_id": "nae-names-god-as-one-being-in-three-persons--202608311930"
+        },
+        {
+          "relation": "source",
           "target_id": "nae-statement-of-faith--202608311920"
         },
         {
@@ -3207,7 +3289,7 @@
       "tags": [],
       "title": "Evangelical theology identifies God by a tri-personal life, not by a list of attributes",
       "type": "permanent",
-      "updated": "2026-09-06",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/evangelical-theology-identifies-god-by-a-tri-personal-life--202608311940.md"
     },
     {
@@ -3297,12 +3379,85 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/expecting-a-saved-copy-cost-nine-points-of-recall-in-the-same-session--202609041825.md"
     },
     {
+      "id": "202609182340",
+      "key": "five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-ezra-on-deuteronomy-29-28--202609182331"
+        },
+        {
+          "relation": "source",
+          "target_id": "ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337"
+        },
+        {
+          "relation": "source",
+          "target_id": "or-hachaim-on-deuteronomy-29-28--202609182333"
+        },
+        {
+          "relation": "source",
+          "target_id": "ramban-on-deuteronomy-29-28--202609182330"
+        },
+        {
+          "relation": "source",
+          "target_id": "ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashbam-on-deuteronomy-29-28--202609182332"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851"
+        },
+        {
+          "relation": "source",
+          "target_id": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905"
+        },
+        {
+          "relation": "source",
+          "target_id": "sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329"
+        },
+        {
+          "relation": "source",
+          "target_id": "sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-knowledge-of-god-divides-into-what-he-has-revealed-and--202609151913"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339"
+        }
+      ],
+      "path": "permanent/five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340.md",
+      "slug": "five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition",
+      "tags": [],
+      "title": "Five Jewish witnesses read Deuteronomy 29:28 as a partition of liability for sins, divide only over whose concealment counts, and the one reading that hands both halves to God is reported in order to be rejected",
+      "type": "permanent",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340.md"
+    },
+    {
       "id": "202609151917",
       "key": "for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917",
       "links": [
         {
           "relation": "elaborates",
           "target_id": "aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906"
         },
         {
           "relation": "source",
@@ -3330,7 +3485,7 @@
       "tags": [],
       "title": "For Dionysius the hidden God is reached by subtraction, so unknowing is a mode of knowledge rather than a gap in it, and the hidden tier is approached without being disclosed",
       "type": "permanent",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/for-dionysius-the-hidden-god-is-reached-by-subtraction-so--202609151917.md"
     },
     {
@@ -3487,18 +3642,6 @@
       "type": "reference",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
-    },
-    {
-      "id": "202609050549",
-      "key": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549",
-      "links": [],
-      "path": "fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md",
-      "slug": "grudem-2nd-edition-shifts-on-eternal-generation-and-efs",
-      "tags": [],
-      "title": "",
-      "type": "fleeting",
-      "updated": "2026-09-05",
-      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/grudem-2nd-edition-shifts-on-eternal-generation-and-efs--202609050549.md"
     },
     {
       "id": "202609090105",
@@ -4519,6 +4662,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/human-will-is-god-likeness-qualified-as-relative--202609081907.md"
     },
     {
+      "id": "202609182331",
+      "key": "ibn-ezra-on-deuteronomy-29-28--202609182331",
+      "links": [],
+      "path": "reference/ibn-ezra-on-deuteronomy-29-28--202609182331.md",
+      "slug": "ibn-ezra-on-deuteronomy-29-28",
+      "tags": [],
+      "title": "Ibn Ezra on Deuteronomy 29:28",
+      "type": "reference",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-ezra-on-deuteronomy-29-28--202609182331.md"
+    },
+    {
+      "id": "202609182337",
+      "key": "ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ibn-ezra-on-deuteronomy-29-28--202609182331"
+        }
+      ],
+      "path": "literature/ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337.md",
+      "slug": "ibn-ezra-reads-the-secret-things-as-secret-idolatry",
+      "tags": [],
+      "title": "Ibn Ezra reads the secret things as secret idolatry punished by God, and rejects as headless and footless the reading that gives both halves to God",
+      "type": "literature",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ibn-ezra-reads-the-secret-things-as-secret-idolatry--202609182337.md"
+    },
+    {
       "id": "202609040812",
       "key": "ibn-kathir-cites-al-tabari-on-one-clause-of-29-46-and-passes-over-the-shared-god-clause--202609040812",
       "links": [
@@ -4546,18 +4718,6 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ibn-kathir-tafsir-al-quran-al-azim-on-3-64-and-29-46--202609040802.md"
-    },
-    {
-      "id": "202609051950",
-      "key": "ibn-kullab-formula-origin-unconfirmed--202609051950",
-      "links": [],
-      "path": "fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md",
-      "slug": "ibn-kullab-formula-origin-unconfirmed",
-      "tags": [],
-      "title": "Unconfirmed: Ibn Kullab as originator of 'neither He nor other' formula",
-      "type": "fleeting",
-      "updated": "2026-09-07",
-      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/fleeting/ibn-kullab-formula-origin-unconfirmed--202609051950.md"
     },
     {
       "id": "202609041600",
@@ -4696,7 +4856,15 @@
         },
         {
           "relation": "source",
+          "target_id": "maimonides-denies-any-composition-in-gods-unity--202608311932"
+        },
+        {
+          "relation": "source",
           "target_id": "maimonides-mishneh-torah-yesodei-hatorah--202608311922"
+        },
+        {
+          "relation": "source",
+          "target_id": "nae-names-god-as-one-being-in-three-persons--202608311930"
         },
         {
           "relation": "source",
@@ -4742,7 +4910,7 @@
       ],
       "title": "Internal plurality is not what divides the monotheisms",
       "type": "permanent",
-      "updated": "2026-09-05",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/internal-plurality-is-not-what-divides-the-monotheisms--202609011543.md"
     },
     {
@@ -4936,6 +5104,10 @@
           "target_id": "calvin-institutes-of-the-christian-religion--202609011032"
         },
         {
+          "relation": "source",
+          "target_id": "calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036"
+        },
+        {
           "relation": "elaborates",
           "target_id": "design-arguments-argue-for-what-the-doctrine-says-is-already-possessed--202609011041"
         },
@@ -4954,6 +5126,10 @@
         {
           "relation": "shared-concept",
           "target_id": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-general-revelation-passages-describe-a-wordless-disclosure--202609011038"
         }
       ],
       "path": "permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md",
@@ -4961,7 +5137,7 @@
       "tags": [],
       "title": "The knowability doctrine and design arguments draw on the same channel",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/knowability-doctrine-and-design-arguments-draw-on-the-same-channel--202609011040.md"
     },
     {
@@ -5580,6 +5756,10 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "anselm-argues-from-a-description-even-the-fool-grasps--202609010835"
+        },
+        {
+          "relation": "source",
           "target_id": "anselm-proslogium--202609010830"
         },
         {
@@ -5611,6 +5791,10 @@
           "target_id": "nostra-aetate--202608311924"
         },
         {
+          "relation": "source",
+          "target_id": "nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
         },
@@ -5626,7 +5810,7 @@
       ],
       "title": "Maximal greatness has at most one bearer, so perfect-being worshippers co-refer",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/maximal-greatness-has-at-most-one-bearer-so-perfect-being-worshippers-co-refer--202609010841.md"
     },
     {
@@ -6035,6 +6219,10 @@
         },
         {
           "relation": "source",
+          "target_id": "calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036"
+        },
+        {
+          "relation": "source",
           "target_id": "general-revelation-passages--202609011034"
         },
         {
@@ -6059,7 +6247,7 @@
       "tags": [],
       "title": "Natural knowledge of God is thin on both routes, for the same reason",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/natural-knowledge-of-god-is-thin-on-both-routes-for-the-same-reason--202609011042.md"
     },
     {
@@ -6304,6 +6492,18 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/one-verse-runs-mushrik-at-two-extensions-and-the-difference-is-legal-not-doctrinal--202609041330.md"
+    },
+    {
+      "id": "202609182333",
+      "key": "or-hachaim-on-deuteronomy-29-28--202609182333",
+      "links": [],
+      "path": "reference/or-hachaim-on-deuteronomy-29-28--202609182333.md",
+      "slug": "or-hachaim-on-deuteronomy-29-28",
+      "tags": [],
+      "title": "Or HaChaim on Deuteronomy 29:28",
+      "type": "reference",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/or-hachaim-on-deuteronomy-29-28--202609182333.md"
     },
     {
       "id": "202609141709",
@@ -6755,6 +6955,64 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535.md"
     },
     {
+      "id": "202609182330",
+      "key": "ramban-on-deuteronomy-29-28--202609182330",
+      "links": [],
+      "path": "reference/ramban-on-deuteronomy-29-28--202609182330.md",
+      "slug": "ramban-on-deuteronomy-29-28",
+      "tags": [],
+      "title": "Ramban on Deuteronomy 29:28",
+      "type": "reference",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/ramban-on-deuteronomy-29-28--202609182330.md"
+    },
+    {
+      "id": "202609182336",
+      "key": "ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "ramban-on-deuteronomy-29-28--202609182330"
+        }
+      ],
+      "path": "literature/ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336.md",
+      "slug": "ramban-reports-the-commentators-reading-and-the-rabbis-then",
+      "tags": [],
+      "title": "Ramban reports the commentators' reading and the Rabbis', then reads the hidden things as sins hidden from the sinner himself, with Onkelos as his witness",
+      "type": "literature",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ramban-reports-the-commentators-reading-and-the-rabbis-then--202609182336.md"
+    },
+    {
+      "id": "202609182338",
+      "key": "rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rashbam-on-deuteronomy-29-28--202609182332"
+        }
+      ],
+      "path": "literature/rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338.md",
+      "slug": "rashbam-makes-the-hidden-sins-god-s-to-punish-because",
+      "tags": [],
+      "title": "Rashbam makes the hidden sins God's to punish because courts cannot reach them, and the revealed ones the courts' on the evidence of witnesses",
+      "type": "literature",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338.md"
+    },
+    {
+      "id": "202609182332",
+      "key": "rashbam-on-deuteronomy-29-28--202609182332",
+      "links": [],
+      "path": "reference/rashbam-on-deuteronomy-29-28--202609182332.md",
+      "slug": "rashbam-on-deuteronomy-29-28",
+      "tags": [],
+      "title": "Rashbam on Deuteronomy 29:28",
+      "type": "reference",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rashbam-on-deuteronomy-29-28--202609182332.md"
+    },
+    {
       "id": "202609151851",
       "key": "rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851",
       "links": [],
@@ -6945,6 +7203,10 @@
         },
         {
           "relation": "source",
+          "target_id": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140"
+        },
+        {
+          "relation": "source",
           "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
         },
         {
@@ -6957,7 +7219,7 @@
       "tags": [],
       "title": "Retrieval practice beats not only rereading but concept mapping, an active elaborative rival",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/retrieval-practice-beats-not-only-rereading-but-concept-mapping-an-active-elaborative-rival--202609042200.md"
     },
     {
@@ -7135,6 +7397,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305.md"
     },
     {
+      "id": "202609182329",
+      "key": "sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329",
+      "links": [],
+      "path": "reference/sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329.md",
+      "slug": "sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the",
+      "tags": [],
+      "title": "Sanhedrin 43b (hidden sins, the dots, and the crossing of the Jordan)",
+      "type": "reference",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329.md"
+    },
+    {
+      "id": "202609182335",
+      "key": "sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sanhedrin-43b-hidden-sins-the-dots-and-the-crossing-of-the--202609182329"
+        }
+      ],
+      "path": "literature/sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335.md",
+      "slug": "sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children",
+      "tags": [],
+      "title": "Sanhedrin 43b reads the dots on 'to us and to our children' as dating Israel's collective liability to the crossing of the Jordan, and the tanna'im divide over whether hidden sins ever count",
+      "type": "literature",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335.md"
+    },
+    {
       "id": "202609010302",
       "key": "schmidt-niklas-luhmanns-card-index--202609010302",
       "links": [],
@@ -7250,6 +7541,14 @@
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
         },
         {
+          "relation": "source",
+          "target_id": "tachin-makes-accepted-trinitarian-worship-the-test--202608311935"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937"
+        },
+        {
           "relation": "supports",
           "target_id": "the-same-god-question-turns-on-reference-versus-description--202608311942"
         }
@@ -7259,7 +7558,7 @@
       "tags": [],
       "title": "Shared Abrahamic descent does not settle whether the referent is shared",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943.md"
     },
     {
@@ -7296,6 +7595,10 @@
         },
         {
           "relation": "source",
+          "target_id": "ramban-lets-the-nations-acknowledge-the-god-they-do-not-address--202609011535"
+        },
+        {
+          "relation": "source",
           "target_id": "shulchan-arukh-orach-chayim-with-the-gloss-of-rema--202609011532"
         },
         {
@@ -7314,7 +7617,7 @@
       ],
       "title": "Shituf grades the worshipper instead of identifying the worshipped",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shituf-grades-the-worshipper-instead-of-identifying-the-worshipped--202609011542.md"
     },
     {
@@ -8107,6 +8410,14 @@
         },
         {
           "relation": "source",
+          "target_id": "paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011"
+        },
+        {
+          "relation": "source",
           "target_id": "ratzsch-koperski-teleological-arguments-for-gods-existence--202609011003"
         },
         {
@@ -8127,13 +8438,17 @@
       "tags": [],
       "title": "The design argument concludes to a maker, not to one maker",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-argument-concludes-to-a-maker-not-to-one-maker--202609011016.md"
     },
     {
       "id": "202609011015",
       "key": "the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015",
       "links": [
+        {
+          "relation": "source",
+          "target_id": "craig-restakes-teleology-on-anthropic-fine-tuning--202609011012"
+        },
         {
           "relation": "source",
           "target_id": "craig-the-teleological-argument-and-the-anthropic-principle--202609011005"
@@ -8145,6 +8460,14 @@
         {
           "relation": "source",
           "target_id": "paley-natural-theology--202609011004"
+        },
+        {
+          "relation": "source",
+          "target_id": "paley-reads-contrivance-off-the-watch-and-transfers-it-to-nature--202609011010"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011"
         },
         {
           "relation": "source",
@@ -8172,7 +8495,7 @@
       "tags": [],
       "title": "The design argument's center of gravity moved from organisms to physics",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-design-arguments-center-of-gravity-moved-from-organisms-to-physics--202609011015.md"
     },
     {
@@ -8288,7 +8611,15 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "aquinas-makes-god-demonstrable-only-from-effects--202609011206"
+        },
+        {
+          "relation": "source",
           "target_id": "aquinas-summa-theologiae-i-q2--202609011201"
+        },
+        {
+          "relation": "source",
+          "target_id": "ratzsch-and-koperski-sort-design-arguments-by-inference-pattern--202609011011"
         },
         {
           "relation": "source",
@@ -8308,7 +8639,7 @@
       "tags": [],
       "title": "The fifth way infers a director from regularity, not contrivance",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-fifth-way-infers-a-director-from-regularity-not-contrivance--202609011211.md"
     },
     {
@@ -8811,6 +9142,10 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "behe-grounds-the-design-inference-in-irreducible-molecular-complexity--202609011405"
+        },
+        {
+          "relation": "source",
           "target_id": "behe-molecular-machines--202609011400"
         },
         {
@@ -8827,7 +9162,7 @@
       "tags": [],
       "title": "The irreducible-complexity argument denies selection a continuum of function",
       "type": "permanent",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-irreducible-complexity-argument-denies-selection-a-continuum-of-function--202609011410.md"
     },
     {
@@ -9437,6 +9772,10 @@
         },
         {
           "relation": "source",
+          "target_id": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140"
+        },
+        {
+          "relation": "source",
           "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
         },
         {
@@ -9458,6 +9797,14 @@
         {
           "relation": "elaborates",
           "target_id": "the-retrieval-practice-programme-has-a-preregistered-replication-and-this-base-has-not-read-it--202609041920"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145"
         }
       ],
       "path": "permanent/the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201.md",
@@ -9465,7 +9812,7 @@
       "tags": [],
       "title": "The one Karpicke and Blunt result the SSRP tested — Experiment 1's retrieval-over-concept-mapping effect — replicated independently at about two-thirds its original size",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201.md"
     },
     {
@@ -9487,6 +9834,14 @@
         {
           "relation": "shared-concept",
           "target_id": "the-one-karpicke-and-blunt-result-the-ssrp-tested-replicated-independently-at-about-two-thirds-its-size--202609042201"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-one-result-per-paper-and-said-so-in-its-limitations--202609041900"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-tested-one-pyc-and-rawson-comparison-and-it-replicated-only-when-pooled--202609042335"
         }
       ],
       "path": "permanent/the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345.md",
@@ -9494,8 +9849,25 @@
       "tags": [],
       "title": "The one Pyc and Rawson result the SSRP tested replicated only after its second-stage sample",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-one-pyc-and-rawson-result-the-ssrp-tested-replicated-only-after-the-second-stage-sample--202609042345.md"
+    },
+    {
+      "id": "202609182339",
+      "key": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "or-hachaim-on-deuteronomy-29-28--202609182333"
+        }
+      ],
+      "path": "literature/the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339.md",
+      "slug": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses",
+      "tags": [],
+      "title": "The Or HaChaim reads the verse as Israel's reply to Moses, declining liability for private sins and accepting mutual responsibility for public ones",
+      "type": "literature",
+      "updated": "2026-09-18",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339.md"
     },
     {
       "id": "202609151904",
@@ -9779,6 +10151,10 @@
         },
         {
           "relation": "source",
+          "target_id": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645"
+        },
+        {
+          "relation": "source",
           "target_id": "van-horn-on-incorporating-middle-knowledge-into-calvinism--202609111812"
         },
         {
@@ -9795,7 +10171,7 @@
       "tags": [],
       "title": "The Reformed answer to the grounding objection is the decree itself, and the Westminster Confession states the order of dependence opposite to Molina's",
       "type": "permanent",
-      "updated": "2026-09-12",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825.md"
     },
     {
@@ -9976,6 +10352,10 @@
           "target_id": "nostra-aetate--202608311924"
         },
         {
+          "relation": "source",
+          "target_id": "nostra-aetate-affirms-shared-worship-while-recording-the-difference--202608311934"
+        },
+        {
           "relation": "elaborates",
           "target_id": "shared-abrahamic-descent-does-not-settle-the-reference-question--202608311943"
         },
@@ -9986,6 +10366,14 @@
         {
           "relation": "source",
           "target_id": "tachin-do-they-worship-the-same-god--202608311925"
+        },
+        {
+          "relation": "source",
+          "target_id": "tachin-makes-accepted-trinitarian-worship-the-test--202608311935"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-2015-wheaton-dispute-put-the-positions-on-the-record--202608311937"
         },
         {
           "relation": "contradicts",
@@ -10002,6 +10390,10 @@
         {
           "relation": "source",
           "target_id": "vroom-do-all-religious-traditions-worship-the-same-god--202608311926"
+        },
+        {
+          "relation": "source",
+          "target_id": "vroom-finds-the-same-god-arguments-come-from-four-disciplines--202608311936"
         }
       ],
       "path": "permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md",
@@ -10011,13 +10403,17 @@
       ],
       "title": "The same-God question turns on whether reference or description decides",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-god-question-turns-on-reference-versus-description--202608311942.md"
     },
     {
       "id": "202609081914",
       "key": "the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914",
       "links": [
+        {
+          "relation": "source",
+          "target_id": "akiva-states-both-halves-and-reconciles-neither--202609081913"
+        },
         {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
@@ -10056,7 +10452,7 @@
       "tags": [],
       "title": "Maimonides and Grudem reach the same wall and put the mystery on opposite sides of it",
       "type": "permanent",
-      "updated": "2026-09-09",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-same-wall-and-the-mystery-put-on-opposite-sides--202609081914.md"
     },
     {
@@ -10427,11 +10823,19 @@
         },
         {
           "relation": "source",
+          "target_id": "karpicke-and-blunt-put-retrieval-practice-against-concept-mapping-in-two-experiments--202609042140"
+        },
+        {
+          "relation": "source",
           "target_id": "karpicke-and-blunt-retrieval-practice-produces-more-learning-than-concept-mapping--202609042130"
         },
         {
           "relation": "source",
           "target_id": "ssrp-replication-report-for-karpicke-and-blunt-2011--202609042135"
+        },
+        {
+          "relation": "source",
+          "target_id": "the-ssrp-replicated-only-experiment-1-of-karpicke-and-blunt-and-it-held--202609042145"
         }
       ],
       "path": "permanent/the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202.md",
@@ -10439,7 +10843,7 @@
       "tags": [],
       "title": "The SSRP replication reproduced Karpicke and Blunt's metacognitive reversal on a fresh sample",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-ssrp-replication-reproduced-karpicke-and-blunts-metacognitive-reversal-on-a-fresh-sample--202609042202.md"
     },
     {
@@ -10548,6 +10952,10 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "pyc-and-rawson-trace-the-testing-effect-to-the-mediators-test-restudy-generates--202609042325"
+        },
+        {
+          "relation": "source",
           "target_id": "pyc-and-rawson-why-testing-improves-memory-mediator-effectiveness-hypothesis--202609042320"
         },
         {
@@ -10564,7 +10972,7 @@
       "tags": [],
       "title": "The testing effect works by producing mediators that are both more retrievable and better at eliciting the target",
       "type": "permanent",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340.md"
     },
     {
@@ -10600,6 +11008,10 @@
           "target_id": "nicaea-325-anathematizes-the-arian-reading-and-says-nothing-about-the-modalist-one--202609042010"
         },
         {
+          "relation": "source",
+          "target_id": "patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-councils-condemned-a-party-and-hodge-supplies-the-doctrine--202609042011"
         },
@@ -10619,7 +11031,7 @@
       ],
       "title": "The two kabbalistic readings align with one ruled out by the Nicene creed and one only by tradition",
       "type": "permanent",
-      "updated": "2026-09-05",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730.md"
     },
     {
@@ -10636,6 +11048,10 @@
         },
         {
           "relation": "source",
+          "target_id": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645"
+        },
+        {
+          "relation": "source",
           "target_id": "westminster-confession-of-faith--202609120640"
         }
       ],
@@ -10644,7 +11060,7 @@
       "tags": [],
       "title": "The Westminster Confession asserts sovereign ordination and creaturely liberty as a single proposition (WCF 3.1)",
       "type": "permanent",
-      "updated": "2026-09-12",
+      "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650.md"
     },
     {
