@@ -4882,3 +4882,81 @@ cycle's quotation checks both restate: byte count and file size are not
 evidence that a capture contains a passage; search the capture for the exact
 passage before relying on it. This belongs in the source-access-triage skill's
 ladder as a host note and a step, which is where the skill-smith should look.
+
+## 2026-09-21 — HUMAN RULING NEEDED: the first full-scope capture-verification sweep, 536 flagged spans, and why this cycle did not fix them
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** high
+- **asked_by:** run (2026-09-21 cycle, first cycle since capture-verification was approved)
+
+`capture-verification` was promoted on 2026-09-21, so this cycle applied it as
+house procedure at a scope no cycle had tried before: every literature and
+permanent note in the base, not just the notes the cycle touched. **2,452
+quoted spans across 322 notes. 536 do not appear in the captures their note
+links.** Nothing was mass-edited, and the reason is the point of this entry.
+
+**First, what the sweep found about the skill itself.** The raw number was 600.
+Four defects in the skill's own reference implementation account for 64 of
+those, every one a false positive:
+
+1. **No case folding.** The skill's step 1 says to search "with a search that
+   ignores case", and the step 3 implementation never folds case. A note
+   quoting `[W]e felt that conditions...` (standard editorial capitalisation)
+   cannot match a capture reading `concerns—we felt`. 45 spans.
+2. **No markdown stripping.** A span containing `*d*` or `*you*` is compared
+   literally against a capture that has `d` and `you`.
+3. **No editorial-bracket handling.** `[W]e`, `[T]he`, `[f]or`, `[the true]`
+   are scholarly practice and the checker treats them as literal text.
+4. **Hyphenation artifacts** across a capture's hard line wrapping.
+
+That is a patch to `skills/capture-verification/SKILL.md`, and this cycle did
+NOT make it: `skill_smith_cadence` is weekly and the smith last ran
+2026-09-18, so it is not due until about 2026-09-25, and a patch re-enters
+human review in any case. Filed here for that cycle. The measurement script
+used, with all four fixed, is the promoted implementation plus case folding,
+markdown stripping, bracket handling and hyphen joining.
+
+**Second, and this is the ruling needed, what the remaining 536 are.** They
+split almost evenly, and neither half is a fabricated citation:
+
+- **260 spans, in 61 notes whose capture is substantially Arabic or Hebrew.**
+  These are the base's **own English translations** of captured non-Latin text,
+  written in double quotes as though quoting a source. Worked example:
+  `ibn-kathir-cites-al-tabari-on-one-clause-of-29-46...` quotes "Let none of us
+  take others as lords besides God"; its capture is Arabic only and does
+  contain أربابا, so the English is this base's rendering, not a quotation of
+  anything on file. **This is the translation policy that has been open and
+  marked HUMAN RULING NEEDED since 2026-09-04, now with a number against it.**
+- **276 spans in Latin-script notes**: the base's own constructed phrases,
+  terms of art, scare quotes, and quotations of *other notes* — the pattern
+  step 4 of the skill forbids, so that double quotes in a note mean the words
+  of a captured source and nothing else. The 2026-09-18 cycle fixed one of
+  these by hand (`202609151914`, "one commentator") without realising it was
+  one instance of a base-wide habit.
+
+**Why nothing was mass-edited.** Rewriting 536 spans across 322 notes would
+touch nearly every note in the base to satisfy a convention no human has
+ratified, on the output of a checker this same cycle proved to have four
+defects. That is the mistake the 2026-09-03 librarian entry named and refused:
+migrating a convention across whichever notes a scorer happened to surface
+leaves the base less consistent, not more. It was right to settle that one
+convention once, for the whole set, and it is right here.
+
+**What a ruling would have to decide,** in order:
+
+1. **Translations.** May a note present the base's own English of a captured
+   Arabic or Hebrew passage in double quotes? If not, the alternatives are
+   italics or a marked gloss (`tr. this base`), and 61 notes need a pass. This
+   subsumes the 2026-09-04 entry; answering that answers this.
+2. **Own phrases.** Are double quotes reserved for captured source text, as
+   the approved skill's step 4 says? If yes, 276 spans across the base want
+   italicising, and it is a mechanical pass once the rule is fixed.
+3. **Whether the gates should enforce it** once ratified, or whether it stays
+   a house style the critic applies to new notes only. Note that `lint_links`
+   and `lint_citations` pass on all 536 today, so CI has never objected.
+
+**What is NOT at issue.** No fabricated citation was found. Every span carrying
+attribution language that was spot-checked resolved either to its capture, to
+another capture in the base (81 spans are simply cited from a reference the
+note does not link directly), or to a translation as above. The 2,452-span
+sweep is on record as evidence of that.
