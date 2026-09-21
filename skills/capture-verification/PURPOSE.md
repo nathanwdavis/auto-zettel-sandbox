@@ -1,10 +1,10 @@
 ---
-skill: "capture-verification"
-status: proposed
-proposal_id: "202609182350"
+skill: capture-verification
+status: approved
+proposal_id: '202609182350'
 kind: create
-proposed: "2026-09-18"
-decided: ""
+proposed: '2026-09-18'
+decided: '2026-09-21'
 ---
 # Purpose — capture-verification
 
@@ -74,3 +74,4 @@ cycle" and remains available to a later smith.
 | date | change | outcome |
 |------|--------|---------|
 | 2026-09-18 | created (proposal 202609182350) | proposed |
+| 2026-09-21 | promoted | Accepted |
