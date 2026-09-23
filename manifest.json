@@ -455,6 +455,20 @@
     "202609182338": "rashbam-makes-the-hidden-sins-god-s-to-punish-because--202609182338",
     "202609182339": "the-or-hachaim-reads-the-verse-as-israel-s-reply-to-moses--202609182339",
     "202609182340": "five-jewish-witnesses-read-deuteronomy-29-28-as-a-partition--202609182340",
+    "202609230037": "summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037",
+    "202609230038": "an-enquiry-concerning-human-understanding--202609230038",
+    "202609230039": "counterfeit-miracles--202609230039",
+    "202609230040": "mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040",
+    "202609230041": "john-20-24-31-these-are-written-that-ye-might-believe--202609230041",
+    "202609230042": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042",
+    "202609230043": "hume-sets-testimony-against-experience-then-calls-faith--202609230043",
+    "202609230044": "warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044",
+    "202609230045": "mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045",
+    "202609230046": "john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046",
+    "202609230047": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047",
+    "202609230048": "mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048",
+    "202609230049": "warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049",
+    "202609230050": "hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -868,6 +882,20 @@
       "updated": "2026-09-01"
     },
     {
+      "key": "what-is-the-role-of-faith-in-the-working-of-miracles--202609230035",
+      "path": "inquiries/what-is-the-role-of-faith-in-the-working-of-miracles--202609230035.md",
+      "priority": "normal",
+      "question": "What is the role of faith in the working of miracles?",
+      "result_notes": [
+        "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047",
+        "hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050",
+        "mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048",
+        "warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049"
+      ],
+      "status": "answered",
+      "updated": "2026-09-23"
+    },
+    {
       "key": "what-is-worship-such-that-referring-to-the-right-being--202609041843",
       "path": "inquiries/what-is-worship-such-that-referring-to-the-right-being--202609041843.md",
       "priority": "normal",
@@ -881,7 +909,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 460,
+  "note_count": 474,
   "notes": [
     {
       "id": "202609041020",
@@ -1337,7 +1365,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-15",
+      "updated": "2026-09-23",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -1581,6 +1609,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/al-tafsir-al-muyassar-on-3-64-and-29-46--202609040808.md"
     },
     {
+      "id": "202609230038",
+      "key": "an-enquiry-concerning-human-understanding--202609230038",
+      "links": [],
+      "path": "reference/an-enquiry-concerning-human-understanding--202609230038.md",
+      "slug": "an-enquiry-concerning-human-understanding",
+      "tags": [],
+      "title": "Hume, An Enquiry Concerning Human Understanding",
+      "type": "reference",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/an-enquiry-concerning-human-understanding--202609230038.md"
+    },
+    {
       "id": "202609041515",
       "key": "an-imami-commentary-argues-from-quranic-usage-that-the-people-of-the-book-are-not-mushrikun--202609041515",
       "links": [
@@ -1820,6 +1860,52 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076.md"
+    },
+    {
+      "id": "202609230042",
+      "key": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037"
+        }
+      ],
+      "path": "literature/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042.md",
+      "slug": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their",
+      "tags": [],
+      "title": "Aquinas ascribes miracles to faith as their end and their reliance, and makes God the principal worker",
+      "type": "literature",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042.md"
+    },
+    {
+      "id": "202609230047",
+      "key": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-makes-god-demonstrable-only-from-effects--202609011206"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "design-arguments-can-confirm-belief-they-do-not-ground--202609011510"
+        },
+        {
+          "relation": "source",
+          "target_id": "summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037"
+        }
+      ],
+      "path": "permanent/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047.md",
+      "slug": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their",
+      "tags": [],
+      "title": "Aquinas ascribes miracles to faith as their end and their reliance, never as their power",
+      "type": "permanent",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047.md"
     },
     {
       "id": "202609151915",
@@ -2848,6 +2934,18 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710.md"
+    },
+    {
+      "id": "202609230039",
+      "key": "counterfeit-miracles--202609230039",
+      "links": [],
+      "path": "reference/counterfeit-miracles--202609230039.md",
+      "slug": "counterfeit-miracles",
+      "tags": [],
+      "title": "Warfield, Counterfeit Miracles",
+      "type": "reference",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/counterfeit-miracles--202609230039.md"
     },
     {
       "id": "202609011012",
@@ -4662,6 +4760,48 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/human-will-is-god-likeness-qualified-as-relative--202609081907.md"
     },
     {
+      "id": "202609230043",
+      "key": "hume-sets-testimony-against-experience-then-calls-faith--202609230043",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "an-enquiry-concerning-human-understanding--202609230038"
+        }
+      ],
+      "path": "literature/hume-sets-testimony-against-experience-then-calls-faith--202609230043.md",
+      "slug": "hume-sets-testimony-against-experience-then-calls-faith",
+      "tags": [],
+      "title": "Hume sets testimony against experience, then calls faith itself a continued miracle",
+      "type": "literature",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/hume-sets-testimony-against-experience-then-calls-faith--202609230043.md"
+    },
+    {
+      "id": "202609230050",
+      "key": "hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "an-enquiry-concerning-human-understanding--202609230038"
+        },
+        {
+          "relation": "contradicts",
+          "target_id": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047"
+        },
+        {
+          "relation": "source",
+          "target_id": "hume-sets-testimony-against-experience-then-calls-faith--202609230043"
+        }
+      ],
+      "path": "permanent/hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050.md",
+      "slug": "hume-turns-the-confirming-role-inside-out-if-no-testimony",
+      "tags": [],
+      "title": "Hume turns the confirming role inside out: if no testimony can establish a miracle, the believer's own assent is the only miracle left",
+      "type": "permanent",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050.md"
+    },
+    {
       "id": "202609182331",
       "key": "ibn-ezra-on-deuteronomy-29-28--202609182331",
       "links": [],
@@ -4941,6 +5081,35 @@
       "type": "literature",
       "updated": "2026-09-14",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703.md"
+    },
+    {
+      "id": "202609230046",
+      "key": "john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "john-20-24-31-these-are-written-that-ye-might-believe--202609230041"
+        }
+      ],
+      "path": "literature/john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046.md",
+      "slug": "john-20-24-31-the-signs-are-written-that-ye-might-believe",
+      "tags": [],
+      "title": "John 20:24-31: the signs are written that ye might believe, and those who believe without seeing are blessed",
+      "type": "literature",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046.md"
+    },
+    {
+      "id": "202609230041",
+      "key": "john-20-24-31-these-are-written-that-ye-might-believe--202609230041",
+      "links": [],
+      "path": "reference/john-20-24-31-these-are-written-that-ye-might-believe--202609230041.md",
+      "slug": "john-20-24-31-these-are-written-that-ye-might-believe",
+      "tags": [],
+      "title": "John 20:24-31 (these are written, that ye might believe)",
+      "type": "reference",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/john-20-24-31-these-are-written-that-ye-might-believe--202609230041.md"
     },
     {
       "id": "202609141702",
@@ -5720,6 +5889,68 @@
       "type": "reference",
       "updated": "2026-09-07",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/maqalat-al-islamiyyin-wa-ikhtilaf-al-musallin--202609072129.md"
+    },
+    {
+      "id": "202609230045",
+      "key": "mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040"
+        }
+      ],
+      "path": "literature/mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045.md",
+      "slug": "mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and",
+      "tags": [],
+      "title": "Mark 6:1-6: at Nazareth Jesus could do no mighty work, and marvelled at their unbelief",
+      "type": "literature",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045.md"
+    },
+    {
+      "id": "202609230040",
+      "key": "mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040",
+      "links": [],
+      "path": "reference/mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040.md",
+      "slug": "mark-6-1-6-no-mighty-work-there-because-of-their-unbelief",
+      "tags": [],
+      "title": "Mark 6:1-6 (no mighty work there because of their unbelief)",
+      "type": "reference",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040.md"
+    },
+    {
+      "id": "202609230048",
+      "key": "mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047"
+        },
+        {
+          "relation": "source",
+          "target_id": "john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046"
+        },
+        {
+          "relation": "source",
+          "target_id": "john-20-24-31-these-are-written-that-ye-might-believe--202609230041"
+        },
+        {
+          "relation": "source",
+          "target_id": "mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045"
+        },
+        {
+          "relation": "source",
+          "target_id": "mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040"
+        }
+      ],
+      "path": "permanent/mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048.md",
+      "slug": "mark-and-john-run-faith-and-miracle-in-opposite-directions",
+      "tags": [],
+      "title": "Mark and John run faith and miracle in opposite directions: unbelief limits the mighty works, and the written signs produce belief",
+      "type": "permanent",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048.md"
     },
     {
       "id": "202609041205",
@@ -7767,6 +7998,18 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md"
+    },
+    {
+      "id": "202609230037",
+      "key": "summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037",
+      "links": [],
+      "path": "reference/summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037.md",
+      "slug": "summa-theologiae-secunda-secundae-question-178-the-gift-of",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae II-II q.178 (The Gift of Miracles)",
+      "type": "reference",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037.md"
     },
     {
       "id": "202609032110",
@@ -11726,6 +11969,48 @@
       "type": "permanent",
       "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/wares-compatibilist-middle-knowledge-derives-the-counterfactual-from-character-and-circumstance--202609111820.md"
+    },
+    {
+      "id": "202609230044",
+      "key": "warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "counterfeit-miracles--202609230039"
+        }
+      ],
+      "path": "literature/warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044.md",
+      "slug": "warfield-makes-the-miraculous-gifts-the-credentials-of-the",
+      "tags": [],
+      "title": "Warfield makes the miraculous gifts the credentials of the Apostles and separates miraculous healing from answered prayer",
+      "type": "literature",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044.md"
+    },
+    {
+      "id": "202609230049",
+      "key": "warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047"
+        },
+        {
+          "relation": "source",
+          "target_id": "counterfeit-miracles--202609230039"
+        },
+        {
+          "relation": "source",
+          "target_id": "warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044"
+        }
+      ],
+      "path": "permanent/warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049.md",
+      "slug": "warfield-ties-miracle-to-the-apostle-s-commission-not-to",
+      "tags": [],
+      "title": "Warfield ties miracle to the Apostle's commission, not to anyone's faith, so faith's prayers now are answered by providence, not by miracle",
+      "type": "permanent",
+      "updated": "2026-09-23",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049.md"
     },
     {
       "id": "202609090103",

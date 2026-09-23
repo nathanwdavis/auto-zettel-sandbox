@@ -3495,5 +3495,79 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/3178.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Summa Theologiae",
+    "id": "202609230037",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "original-date": {
+      "date-parts": [
+        [
+          1272
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Secunda Secundae, Question 178 (The Gift of Miracles)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.gutenberg.org/cache/epub/9662/pg9662.txt",
+    "author": [
+      {
+        "family": "Hume",
+        "given": "David"
+      }
+    ],
+    "id": "202609230038",
+    "issued": {
+      "date-parts": [
+        [
+          1748
+        ]
+      ]
+    },
+    "title": "An Enquiry Concerning Human Understanding",
+    "type": "book"
+  },
+  {
+    "URL": "https://archive.org/details/counterfeitmir00warf",
+    "author": [
+      {
+        "family": "Warfield",
+        "given": "Benjamin B."
+      }
+    ],
+    "id": "202609230039",
+    "issued": {
+      "date-parts": [
+        [
+          1918
+        ]
+      ]
+    },
+    "publisher": "Charles Scribner's Sons",
+    "publisher-place": "New York",
+    "title": "Counterfeit Miracles",
+    "type": "book"
   }
 ]
