@@ -2370,3 +2370,70 @@ and the resulting commit SHA (NFR-2).
 - `2026-09-21T20:52:05Z` build_manifest: 460 notes indexed
 - `2026-09-21T20:52:08Z` remote_cycle: lock released
 - `2026-09-21T21:12:00Z` steps 8-10 (gates, manifest, statuses): gates PASS (verify_refs 135/135, manifest current at 460 notes, lint_citations, lint_links, lint_skills, check_skill_sandbox all clean). Both inquiries moved new -> in-progress with their attempts recorded; neither could be answered and neither was closed, because a question closed with nothing to point at was not answered. Two INBOX entries added: the HIGH ruling request above, and the skill patch for the next smith. No note, reference or raw file was created or edited this cycle except the two inquiry status updates -- this was a maintenance and audit cycle, and its deliverable is the measurement, not growth.
+- `2026-09-23T00:35:49Z` remote_cycle: agents: resolved 8 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
+- `2026-09-23T00:35:50Z` remote_cycle: start (mode=B holder=remote-session session=unknown branch=zettel/run-20260923003549 skill-rev=17e9f39)
+- `2026-09-23T00:35:51Z` capture: inquiry -> inquiries/what-is-the-role-of-faith-in-the-working-of-miracles--202609230035.md
+- `2026-09-23T00:35:56Z` capture: inquiry-update what-is-the-role-of-faith-in-the-working-of-miracles--202609230035 status=new->in-progress
+- `2026-09-23T00:37:08Z` capture: reference -> reference/summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037.md (identity=url:newadvent.org/summa/3178.htm, verified=no)
+- `2026-09-23T00:37:10Z` capture: reference -> reference/an-enquiry-concerning-human-understanding--202609230038.md (identity=url:gutenberg.org/cache/epub/9662/pg9662.txt, verified=no)
+- `2026-09-23T00:37:11Z` capture: reference -> reference/counterfeit-miracles--202609230039.md (identity=url:archive.org/details/counterfeitmir00warf, verified=no)
+- `2026-09-23T00:37:13Z` capture: reference -> reference/mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040.md (identity=url:bible-api.com/mark%206:1-6?translation=kjv, verified=no)
+- `2026-09-23T00:37:15Z` capture: reference -> reference/john-20-24-31-these-are-written-that-ye-might-believe--202609230041.md (identity=url:bible-api.com/john%2020:24-31?translation=kjv, verified=no)
+- `2026-09-23T00:37:21Z` fetch_source: summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037 <- https://www.newadvent.org/summa/3178.htm (renderer=none, 31188 bytes)
+- `2026-09-23T00:37:22Z` fetch_source: an-enquiry-concerning-human-understanding--202609230038 <- https://www.gutenberg.org/cache/epub/9662/pg9662.txt (renderer=none, 373357 bytes)
+- `2026-09-23T00:37:24Z` fetch_source: counterfeit-miracles--202609230039 <- https://archive.org/download/counterfeitmir00warf/counterfeitmir00warf_djvu.txt (renderer=none, 804576 bytes)
+- `2026-09-23T00:37:24Z` fetch_source: mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040 <- https://bible-api.com/mark%206:1-6?translation=kjv (renderer=none, 2271 bytes)
+- `2026-09-23T00:37:25Z` fetch_source: john-20-24-31-these-are-written-that-ye-might-believe--202609230041 <- https://bible-api.com/john%2020:24-31?translation=kjv (renderer=none, 2958 bytes)
+- `2026-09-23T00:38:01Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-23T00:38:20Z` verify_refs: 140/140 verified
+- `2026-09-23T00:38:43Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-23T00:39:18Z` verify_refs: 140/140 verified
+- `2026-09-23T00:39:56Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-09-23T00:40:40Z` verify_refs: 140/140 verified
+- `2026-09-23T00:41:14Z` capture: literature -> literature/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042.md
+- `2026-09-23T00:41:15Z` capture: literature -> literature/hume-sets-testimony-against-experience-then-calls-faith--202609230043.md
+- `2026-09-23T00:41:39Z` capture: literature -> literature/warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044.md
+- `2026-09-23T00:41:40Z` capture: literature -> literature/mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045.md
+- `2026-09-23T00:41:42Z` capture: literature -> literature/john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046.md
+- `2026-09-23T00:42:04Z` capture: permanent -> permanent/aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047.md
+- `2026-09-23T00:42:19Z` capture: permanent -> permanent/mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048.md
+- `2026-09-23T00:42:38Z` capture: permanent -> permanent/warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049.md
+- `2026-09-23T00:42:40Z` capture: permanent -> permanent/hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050.md
+- `2026-09-23T00:43:16Z` verify_refs: 140/140 verified
+- `2026-09-23T00:43:32Z` lint_citations: PASS
+- `2026-09-23T00:43:32Z` lint_links: PASS
+- `2026-09-23T00:43:32Z` lint_skills: PASS
+- `2026-09-23T00:43:34Z` check_skill_sandbox: PASS
+- `2026-09-23T00:43:34Z` remote_cycle: gates FAIL (build_manifest.py)
+- `2026-09-23T00:43:39Z` build_manifest: 474 notes indexed
+- `2026-09-23T00:43:41Z` build_manifest: 474 notes indexed
+- `2026-09-23T00:43:55Z` verify_refs: 140/140 verified
+- `2026-09-23T00:44:11Z` lint_citations: PASS
+- `2026-09-23T00:44:12Z` lint_links: PASS
+- `2026-09-23T00:44:12Z` lint_skills: PASS
+- `2026-09-23T00:44:13Z` check_skill_sandbox: PASS
+- `2026-09-23T00:44:13Z` remote_cycle: gates PASS
+- `2026-09-23T00:44:19Z` capture: inquiry-update what-is-the-role-of-faith-in-the-working-of-miracles--202609230035 status=in-progress->answered result_notes=+hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050
+- `2026-09-23T00:44:20Z` build_manifest: 474 notes indexed
+- `2026-09-23T00:44:35Z` verify_refs: 140/140 verified
+- `2026-09-23T00:44:51Z` lint_citations: PASS
+- `2026-09-23T00:44:52Z` lint_links: PASS
+- `2026-09-23T00:44:52Z` lint_skills: PASS
+- `2026-09-23T00:44:54Z` check_skill_sandbox: PASS
+- `2026-09-23T00:44:54Z` remote_cycle: gates PASS
+- `2026-09-23T00:44:59Z` capture: inquiry-update what-is-the-role-of-faith-in-the-working-of-miracles--202609230035 status=answered->answered result_notes=+mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048,aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047,warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049,hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050
+- `2026-09-23T00:45:00Z` build_manifest: 474 notes indexed
+- `2026-09-23T00:45:15Z` verify_refs: 140/140 verified
+- `2026-09-23T00:45:30Z` lint_citations: PASS
+- `2026-09-23T00:45:31Z` lint_links: PASS
+- `2026-09-23T00:45:31Z` lint_skills: PASS
+- `2026-09-23T00:45:33Z` check_skill_sandbox: PASS
+- `2026-09-23T00:45:33Z` remote_cycle: gates PASS
+- `2026-09-23T01:12:00Z` verify_refs: 140/140 verified
+- `2026-09-23T01:12:16Z` lint_citations: PASS
+- `2026-09-23T01:12:17Z` lint_links: PASS
+- `2026-09-23T01:12:17Z` lint_skills: PASS
+- `2026-09-23T01:12:19Z` check_skill_sandbox: PASS
+- `2026-09-23T01:12:19Z` remote_cycle: gates PASS
+- `2026-09-23T01:12:19Z` remote_cycle: finish zettel/run-20260923003549 (skill-rev=17e9f39; lock released after push)
+- `2026-09-23T01:12:19Z` remote_cycle: PR for zettel/run-20260923003549 must be opened by the session (GitHub CLI not installed in this container)

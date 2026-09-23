@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-09-15'
+updated: '2026-09-23'
 ---
 # Abrahamic conceptions of God
 
@@ -942,6 +942,29 @@ filed in the INBOX. And the transliterations of Hebrew in the new notes are
 this base's, with every gloss taken from a captured translation, because the
 translation-policy question filed on 2026-09-04 is still open.
 
+## Faith and miracles, added 2026-09-23: what faith does when a miracle happens
+
+Asked ad hoc: what is the role of faith in the working of miracles? Five
+sources are on file: the Nazareth pericope (Mark 6:1-6) and the close of John
+20, *Summa* II-II q.178 on the gift of miracles, Hume's "Of Miracles", and
+Warfield's *Counterfeit Miracles*. Distilled at
+[[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]],
+[[john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046]],
+[[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042]],
+[[hume-sets-testimony-against-experience-then-calls-faith--202609230043]] and
+[[warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044]].
+
+- [[mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048]] — in Mark unbelief limits the mighty works, and in John the written signs produce belief. Faith can be the setting a miracle happens in and also the outcome it aims at. The Gospel texts on file do not say whether faith is ever the cause.
+- [[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230047]] — Aquinas's two reasons for ascribing miracles to faith are that miracles are aimed at confirming faith and that they come from the omnipotence faith relies on. Neither makes faith the cause, and God can work a miracle through a sinner's dead faith "as a man through a stick".
+- [[warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049]] — for Warfield the miraculous gifts were the Apostles' credentials and ended with them. The Samaritans show faith and the gifts coming apart. Faith's prayers today are answered, but by providence, not by miracle.
+- [[hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050]] — Hume accepts that miracles confirm faith and argues that none can be established by testimony. The believer's own assent is the only miracle left.
+
+Boundaries. The Synoptic sayings that credit faith with a healing ("thy faith
+hath made thee whole", Mark 5:34, 10:52), John 4:48, and 1 Cor 12-13 are on
+file only as Aquinas quotes them, or not at all. Aquinas's general treatment of
+miracles (*ST* I q.105, q.110) and the continuationist and Word-of-Faith
+positions Warfield argues against are not captured in their own words.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -980,3 +1003,5 @@ The Reformed reply to middle knowledge: [[helm-shunning-middle-knowledge--202609
 (literature: [[helm-reads-wares-compatibilist-middle-knowledge-as-natural-knowledge-under-another-name--202609111815]], [[helm-grounds-the-reformed-refusal-of-middle-knowledge-in-the-decree--202609111816]], [[van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817]], [[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]], [[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]]).
 The hidden knowledge of God: [[deuteronomy-29-29-the-secret-things-and-the-revealed-things--202609151849]], [[partial-and-hidden-knowledge-passages-1-cor-13-9-12-1-cor-2--202609151850]], [[rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851]], [[aquinas-summa-theologiae-i-q-12-how-god-is-known-by-us--202609151852]], [[calvin-institutes-iii-21-of-the-eternal-election--202609151853]], [[luther-the-bondage-of-the-will-sect-lxiv-god-preached-and--202609151911]], [[pseudo-dionysius-the-mystical-theology-rolt-translation--202609151854]], [[plato-apology-jowett-translation--202609151855]], [[rumsfeld-department-of-defense-news-briefing-12-february--202609151856]]
 (literature: [[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]], [[the-partial-knowledge-passages-bound-what-creatures-know--202609151904]], [[rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905]], [[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]], [[calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907]], [[luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912]], [[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]], [[socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909]], [[rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910]]).
+Faith and miracles: [[mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040]], [[john-20-24-31-these-are-written-that-ye-might-believe--202609230041]], [[summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037]], [[an-enquiry-concerning-human-understanding--202609230038]], [[counterfeit-miracles--202609230039]]
+(literature: [[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]], [[john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046]], [[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042]], [[hume-sets-testimony-against-experience-then-calls-faith--202609230043]], [[warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044]]).
