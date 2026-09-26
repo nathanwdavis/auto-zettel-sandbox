@@ -1,6 +1,6 @@
 # What God Knows: Grudem's Picture and the Arminian Picture
 
-*Outline dated 2026-09-23. It condenses `papers/taxonomy-of-knowledge-hidden-and-middle-knowledge-outline.md` into set notation for a high-school reader. Its Grudem quotations come from the captures of Systematic Theology chapters 12, 13 and 16 in `raw/`. Like everything in `papers/`, it sits outside the citation gates.*
+*Outline dated 2026-09-23. It condenses `papers/taxonomy-of-knowledge-hidden-and-middle-knowledge-outline.md` into set notation for a high-school reader. Its Grudem quotations come from the captures of Systematic Theology chapters 12, 13 and 16 in `raw/`. One quotation is from Jack Cottrell's own essay, which is not yet captured in `raw/`: *Sovereignty and Free Will*, Seminary Review 9, no. 3 (1963), pp. 39-51, read via https://web.archive.org/web/2015id_/http://www.dabar.org/SemReview/sovfrwill.html. Like everything in `papers/`, it sits outside the citation gates.*
 
 *A study guide for Grudem's Systematic Theology, 2nd ed., chapter 12 section
 B.3 ("Knowledge (Omniscience)"), with help from chapters 13 and 16.*
@@ -51,8 +51,10 @@ forgets anything."
 
 Grudem has a word for one of these. The other is just a label for this guide.
 
-- **D** — the things God **ordains**. *Ordains* is Grudem's word. It means God
-  decides ahead of time that something will happen.
+- **D** — the things God **ordains**. *Ordains* is Grudem's word. In this guide
+  it means God decides ahead of time that something will happen and makes it
+  certain. God knowing about something, or allowing it, is not enough to put it
+  in D.
 - **F** — people's **future free choices**. This is the part everybody argues
   about. Grudem describes the kind of freedom Arminians want as choices that are
   "undetermined or uncaused" — meaning nothing outside the person makes the
@@ -97,6 +99,15 @@ two piles**:
 > **A = D ⊎ F**  (what happens = what God ordained, plus free choices he did
 > not ordain)
 
+**Careful: outside D does not mean outside God's plan.** Cottrell's own essay
+says: "Man's free acts are included in God's decree, but are not determined by
+it. God's decree is all-inclusive, but not all-determinative." So for the
+Arminian, free choices are still part of God's plan: he knows them, allows them,
+and sets their limits. They sit outside **D** only because D in this guide holds
+what God *determines*. Grudem's summary of the Arminian view leaves this out, so
+read **A = D ⊎ F** as a claim about what God determines, not about everything
+his plan includes.
+
 Cottrell also shrinks D. He says God "does not have a specific, unconditional
 purpose for each discrete particle, object, person, and event within the
 creation." Plain English: God does not have a specific plan for every single
@@ -139,7 +150,12 @@ knows *less*. Richard Rice, quoted by Grudem: "All that God does not know is the
 content of future free decisions, and this is because decisions are not there to
 know until they occur."
 
-> **K \ F**  (God knows everything *except* future free choices)
+Up to now, **K** has meant everything God knows if he knows the whole future,
+which is what Grudem and the Arminian both say. Open theism's God knows a smaller
+set, so give it its own name:
+
+> **K_open = K \ F**  (open theism's God knows everything in K *except* future
+> free choices)
 
 ## Grudem's argument that the Arminian picture falls apart
 
@@ -232,17 +248,18 @@ about the future. His revealed will is only one part of R.
 future, so K is the same size for both. Future free choices God hasn't revealed
 are simply *hidden* — God knows them, we don't.
 
-**Open theism changes the picture.** It takes F out of K. And since H ⊆ K (rule
-2), future free choices are then **not hidden at all**. They are unknown to
+**Open theism changes the picture.** Its God knows only **K_open**, which has no
+future free choices in it. The three rules then hold with K_open in place of K,
+and since H ⊆ K_open (rule 2), future free choices are **not hidden at all**. They are unknown to
 *everyone* — God included.
 
 This is where Grudem's strongest argument against open theism lives, and sets
 make it easy to see:
 
-1. Rule 1 says **R ⊆ K** — whatever God reveals, God knows.
+1. Rule 1, for open theism, says **R ⊆ K_open** — whatever God reveals, God knows.
 2. Prophecy puts some future free choices into R: **F ∩ R ≠ ∅**.
-3. So some future free choices must be in K.
-4. But open theism says **no** future free choices are in K.
+3. So some future free choices must be in K_open.
+4. But K_open has **no** future free choices in it: **F ∩ K_open = ∅**.
 
 Steps 3 and 4 can't both be true. That is Grudem's point when he says open
 theism goes against the Bible's "unfailing predictive prophecy." According to
@@ -256,7 +273,7 @@ Grudem, open theism answers by treating those prophecies as God's best guess —
 |---|---|---|---|---|---|
 | **Grudem** | A ⊆ D | from God's own decision | No — it is already inside P | Yes | Mostly hidden; some revealed through prophecy |
 | **Arminian** | A = D ⊎ F | from us | Yes, if they are Molinists | Yes | Same as Grudem |
-| **Open theism** | A shrinks | God doesn't know F | Does not apply | No | Not hidden — unknown to everyone, even God |
+| **Open theism** | Not all of A is in D: future free choices are not | God doesn't know F | Does not apply | No | Not hidden — unknown to everyone, even God |
 
 Two of the three rows say God knows the whole future. The real split between
 Grudem and the Arminian is the second column: does any part of what God knows
@@ -282,6 +299,7 @@ things God knows.
 | **⊂** | *is a proper subset of* | Like ⊆, but the first group is definitely *smaller* — it can't be equal. | not used above |
 
 **Reading the letters:**
-**K** = everything God knows · **S** = God knows himself · **A** = all things
-actual · **P** = all things possible · **D** = what God ordains · **F** = future
+**K** = everything God knows, if he knows the whole future · **S** = God knows himself · **A** = all things
+actual · **P** = all things possible · **D** = what God ordains (decides and makes certain) · **K_open** = what open
+theism says God knows · **F** = future
 free choices · **R** = what God has revealed to us · **H** = what is hidden from us
