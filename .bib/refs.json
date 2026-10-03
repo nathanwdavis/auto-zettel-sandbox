@@ -3574,8 +3574,18 @@
     "URL": "https://www.newadvent.org/fathers/3103a.htm",
     "author": [
       {
-        "family": "Nazianzus",
-        "given": "Gregory of"
+        "literal": "Gregory of Nazianzus"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Vol. 7",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Wace",
+        "given": "Henry"
       }
     ],
     "id": "202610031807",
@@ -3586,15 +3596,33 @@
         ]
       ]
     },
-    "title": "Gregory of Nazianzus, Epistle 101 (To Cledonius the Priest, against Apollinarius)",
-    "type": "letter"
+    "publisher": "Christian Literature Publishing Co.",
+    "publisher-place": "Buffalo, NY",
+    "title": "Epistle 101 (To Cledonius the Priest, against Apollinarius)",
+    "translator": [
+      {
+        "family": "Browne",
+        "given": "Charles Gordon"
+      },
+      {
+        "family": "Swallow",
+        "given": "James Edward"
+      }
+    ],
+    "type": "chapter"
   },
   {
     "URL": "https://www.newadvent.org/fathers/1302.htm",
     "author": [
       {
-        "family": "Hippo",
-        "given": "Augustine of"
+        "literal": "Augustine of Hippo"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, First Series, Vol. 3",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
       }
     ],
     "id": "202610031808",
@@ -3605,8 +3633,16 @@
         ]
       ]
     },
-    "title": "Augustine, Enchiridion (Handbook on Faith, Hope and Love)",
-    "type": "book"
+    "publisher": "Christian Literature Publishing Co.",
+    "publisher-place": "Buffalo, NY",
+    "title": "Enchiridion (Handbook on Faith, Hope and Love)",
+    "translator": [
+      {
+        "family": "Shaw",
+        "given": "J. F."
+      }
+    ],
+    "type": "chapter"
   },
   {
     "URL": "https://www.newadvent.org/summa/4015.htm",
@@ -3616,6 +3652,7 @@
         "given": "Thomas"
       }
     ],
+    "container-title": "Summa Theologiae",
     "id": "202610031809",
     "issued": {
       "date-parts": [
@@ -3624,7 +3661,21 @@
         ]
       ]
     },
-    "title": "Aquinas, Summa Theologiae III, q. 15 (Of the defects of soul assumed by Christ)",
+    "original-date": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Tertia Pars, Question 15 (Of the Defects of Soul Assumed by Christ)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
     "type": "chapter"
   },
   {
@@ -3635,6 +3686,7 @@
         "given": "Thomas"
       }
     ],
+    "container-title": "Summa Theologiae",
     "id": "202610031810",
     "issued": {
       "date-parts": [
@@ -3643,7 +3695,21 @@
         ]
       ]
     },
-    "title": "Aquinas, Summa Theologiae III, q. 31 (Of the matter from which the Saviour's body was conceived)",
+    "original-date": {
+      "date-parts": [
+        [
+          1273
+        ]
+      ]
+    },
+    "publisher": "Benziger Brothers",
+    "publisher-place": "New York",
+    "title": "Summa Theologiae, Tertia Pars, Question 31 (Of the Matter from Which the Saviour's Body Was Conceived)",
+    "translator": [
+      {
+        "literal": "Fathers of the English Dominican Province"
+      }
+    ],
     "type": "chapter"
   },
   {
@@ -3654,6 +3720,7 @@
         "given": "John"
       }
     ],
+    "container-title": "Institutes of the Christian Religion",
     "id": "202610031811",
     "issued": {
       "date-parts": [
@@ -3662,15 +3729,29 @@
         ]
       ]
     },
-    "title": "Calvin, Institutes II.13 (Christ clothed with the true substance of human nature)",
+    "original-date": {
+      "date-parts": [
+        [
+          1559
+        ]
+      ]
+    },
+    "publisher": "Calvin Translation Society",
+    "publisher-place": "Edinburgh",
+    "title": "Institutes of the Christian Religion, Book II, Chapter 13 (Christ Clothed with the True Substance of Human Nature)",
+    "translator": [
+      {
+        "family": "Beveridge",
+        "given": "Henry"
+      }
+    ],
     "type": "chapter"
   },
   {
     "URL": "https://www.opc.org/lc.html",
     "author": [
       {
-        "family": "Assembly",
-        "given": "Westminster"
+        "literal": "Westminster Assembly"
       }
     ],
     "id": "202610031812",
@@ -3681,15 +3762,15 @@
         ]
       ]
     },
-    "title": "Westminster Larger Catechism",
+    "publisher": "The Orthodox Presbyterian Church",
+    "title": "The Westminster Larger Catechism",
     "type": "book"
   },
   {
     "URL": "https://www.papalencyclicals.net/pius09/p9ineff.htm",
     "author": [
       {
-        "family": "IX",
-        "given": "Pius"
+        "literal": "Pius IX"
       }
     ],
     "id": "202610031813",
@@ -3700,7 +3781,7 @@
         ]
       ]
     },
-    "title": "Pius IX, Ineffabilis Deus (apostolic constitution defining the Immaculate Conception)",
+    "title": "Ineffabilis Deus (Apostolic Constitution Defining the Dogma of the Immaculate Conception)",
     "type": "document"
   },
   {
@@ -3711,6 +3792,12 @@
         "given": "Edward"
       }
     ],
+    "editor": [
+      {
+        "family": "Carlyle",
+        "given": "G."
+      }
+    ],
     "id": "202610031814",
     "issued": {
       "date-parts": [
@@ -3719,7 +3806,10 @@
         ]
       ]
     },
-    "title": "Edward Irving, Collected Writings, vol. 5 (sermons on the Incarnation)",
-    "type": "book"
+    "publisher": "Alexander Strahan",
+    "publisher-place": "London and New York",
+    "title": "The Collected Writings of Edward Irving",
+    "type": "book",
+    "volume": "5"
   }
 ]

@@ -11,19 +11,35 @@ source_tier: primary-text
 scripture: false
 csl_json:
   id: '202610031807'
-  type: letter
-  title: Gregory of Nazianzus, Epistle 101 (To Cledonius the Priest, against Apollinarius)
+  type: chapter
+  title: Epistle 101 (To Cledonius the Priest, against Apollinarius)
   author:
-  - family: Nazianzus
-    given: Gregory of
+  - literal: Gregory of Nazianzus
   issued:
     date-parts:
     - - 1894
   URL: https://www.newadvent.org/fathers/3103a.htm
-chicago_note: Gregory of Nazianzus, Gregory of Nazianzus, Epistle 101 (To Cledonius
-  the Priest, Against Apollinarius), 1894, https://www.newadvent.org/fathers/3103a.htm.
-chicago_bib: Nazianzus, Gregory of. Gregory of Nazianzus, Epistle 101 (To Cledonius
-  the Priest, Against Apollinarius). 1894. https://www.newadvent.org/fathers/3103a.htm.
+  container-title: Nicene and Post-Nicene Fathers, Second Series, Vol. 7
+  translator:
+  - family: Browne
+    given: Charles Gordon
+  - family: Swallow
+    given: James Edward
+  editor:
+  - family: Schaff
+    given: Philip
+  - family: Wace
+    given: Henry
+  publisher: Christian Literature Publishing Co.
+  publisher-place: Buffalo, NY
+chicago_note: Gregory of Nazianzus, “Epistle 101 (To Cledonius the Priest, Against
+  Apollinarius),” in Nicene and Post-Nicene Fathers, Second Series, Vol. 7, ed. Philip
+  Schaff and Henry Wace, trans. Charles Gordon Browne and James Edward Swallow (Christian
+  Literature Publishing Co., 1894), https://www.newadvent.org/fathers/3103a.htm.
+chicago_bib: Gregory of Nazianzus. “Epistle 101 (To Cledonius the Priest, Against
+  Apollinarius).” In Nicene and Post-Nicene Fathers, Second Series, Vol. 7, edited
+  by Philip Schaff and Henry Wace, translated by Charles Gordon Browne and James Edward
+  Swallow. Christian Literature Publishing Co., 1894. https://www.newadvent.org/fathers/3103a.htm.
 citation_renderer: pandoc
 verification:
   method: raw-capture

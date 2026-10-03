@@ -12,16 +12,18 @@ scripture: false
 csl_json:
   id: '202610031812'
   type: book
-  title: Westminster Larger Catechism
+  title: The Westminster Larger Catechism
   author:
-  - family: Assembly
-    given: Westminster
+  - literal: Westminster Assembly
   issued:
     date-parts:
     - - 1648
   URL: https://www.opc.org/lc.html
-chicago_note: Westminster Assembly, Westminster Larger Catechism (1648), https://www.opc.org/lc.html.
-chicago_bib: Assembly, Westminster. Westminster Larger Catechism. 1648. https://www.opc.org/lc.html.
+  publisher: The Orthodox Presbyterian Church
+chicago_note: Westminster Assembly, The Westminster Larger Catechism (The Orthodox
+  Presbyterian Church, 1648), https://www.opc.org/lc.html.
+chicago_bib: Westminster Assembly. The Westminster Larger Catechism. The Orthodox
+  Presbyterian Church, 1648. https://www.opc.org/lc.html.
 citation_renderer: pandoc
 verification:
   method: raw-capture

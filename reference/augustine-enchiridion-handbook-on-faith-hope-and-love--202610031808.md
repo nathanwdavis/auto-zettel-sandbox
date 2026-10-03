@@ -11,19 +11,29 @@ source_tier: primary-text
 scripture: false
 csl_json:
   id: '202610031808'
-  type: book
-  title: Augustine, Enchiridion (Handbook on Faith, Hope and Love)
+  type: chapter
+  title: Enchiridion (Handbook on Faith, Hope and Love)
   author:
-  - family: Hippo
-    given: Augustine of
+  - literal: Augustine of Hippo
   issued:
     date-parts:
     - - 1887
   URL: https://www.newadvent.org/fathers/1302.htm
-chicago_note: Augustine of Hippo, Augustine, Enchiridion (Handbook on Faith, Hope
-  and Love) (1887), https://www.newadvent.org/fathers/1302.htm.
-chicago_bib: Hippo, Augustine of. Augustine, Enchiridion (Handbook on Faith, Hope
-  and Love). 1887. https://www.newadvent.org/fathers/1302.htm.
+  container-title: Nicene and Post-Nicene Fathers, First Series, Vol. 3
+  translator:
+  - family: Shaw
+    given: J. F.
+  editor:
+  - family: Schaff
+    given: Philip
+  publisher: Christian Literature Publishing Co.
+  publisher-place: Buffalo, NY
+chicago_note: Augustine of Hippo, “Enchiridion (Handbook on Faith, Hope and Love),”
+  in Nicene and Post-Nicene Fathers, First Series, Vol. 3, ed. Philip Schaff, trans.
+  J. F. Shaw (Christian Literature Publishing Co., 1887), https://www.newadvent.org/fathers/1302.htm.
+chicago_bib: Augustine of Hippo. “Enchiridion (Handbook on Faith, Hope and Love).”
+  In Nicene and Post-Nicene Fathers, First Series, Vol. 3, edited by Philip Schaff,
+  translated by J. F. Shaw. Christian Literature Publishing Co., 1887. https://www.newadvent.org/fathers/1302.htm.
 citation_renderer: pandoc
 verification:
   method: raw-capture

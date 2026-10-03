@@ -5,8 +5,9 @@ slug: christ-shared-the-penalties-of-the-fall-but-not-its
 aliases:
 - '202610031827'
 type: permanent
-title: Christ shared the penalties of the fall but not its disordered inclination,
-  and the tradition draws the line around a sin nature between infirmity and fault
+title: On the mainstream account Christ took the penalties of the fall but not its
+  disordered inclination; Irving put the inclination in his flesh and drew the line
+  at consent
 created: '2026-10-03'
 updated: '2026-10-03'
 tags: []
@@ -37,11 +38,15 @@ infirmities" yet "without sin" (Heb 4:15), and the narrative shows the
 weakness: "being wearied with his journey, sat thus on the well" (John 4:6)
 ([[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]]).
 
-Irving, who held that Christ took fallen flesh, draws it from the other side.
-Christ's flesh was open to temptation, yet he was holy, "seeing wickedness
-consisteth not in being tempted, but in yielding to the temptation"
+Irving, who held that Christ took fallen flesh, draws the line elsewhere. He
+gives Christ's flesh "the evil propensities of the fallen manhood", restrained
+by the Holy Ghost, and puts holiness at the point of consent: Christ was holy,
+"seeing wickedness consisteth not in being tempted, but in yielding to the
+temptation"
 ([[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]).
 
-So the line runs between infirmity and fault. Hunger, weariness, grief,
-mortality and real temptation are on Christ's side of it; inherited guilt and
-an inborn inclination to evil are not.
+On the mainstream account, then, the line runs between infirmity and fault.
+Hunger, weariness, grief, mortality and real temptation are on Christ's side
+of it; inherited guilt and an inborn inclination to evil are not. Irving moves
+the inclination across the line and keeps only the yielding out
+([[irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830]]).
