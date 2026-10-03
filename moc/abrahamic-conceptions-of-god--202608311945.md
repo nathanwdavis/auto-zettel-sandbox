@@ -965,6 +965,38 @@ file only as Aquinas quotes them, or not at all. Aquinas's general treatment of
 miracles (*ST* I q.105, q.110) and the continuationist and Word-of-Faith
 positions Warfield argues against are not captured in their own words.
 
+## Christ's human nature, added 2026-10-03: did he inherit a sin nature?
+
+Asked ad hoc: Jesus never sinned, but was he born with the inherited
+corruption every other human is born with? Ten sources are on file: fourteen
+KJV passages, the Chalcedonian Definition (already held), Gregory of
+Nazianzus's Epistle 101, Augustine's *Enchiridion* 41, *Summa* III qq. 15 and
+31, Calvin's *Institutes* II.13.4, the Westminster Larger Catechism, Pius IX's
+*Ineffabilis Deus*, and Edward Irving's sermons on the incarnation. Distilled at
+[[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]],
+[[chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825]],
+[[gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816]],
+[[augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817]],
+[[aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818]],
+[[aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819]],
+[[calvin-rejects-the-father-line-explanation-of-christ-s--202610031820]],
+[[the-westminster-larger-catechism-states-original-sin-for--202610031821]],
+[[ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822]] and
+[[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]].
+
+- [[scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831]] — Scripture calls Christ holy from birth and sinless as a condition, not only in his acts, and calls his likeness to sinners a likeness. It names no mechanism.
+- [[the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826]] — Chalcedon, Aquinas, Calvin and the Larger Catechism all count sin out of human nature, so a humanity without original sin is complete, not reduced. Adam before the fall is the standard case.
+- [[christ-shared-the-penalties-of-the-fall-but-not-its--202610031827]] — Christ took the penalties of the fall, weariness, mortality and real temptation, but not its disordered inclination, which Aquinas calls the fomes of sin. The line runs between infirmity and fault.
+- [[augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828]] — the tradition agrees on the outcome and divides on the mechanism: the manner of conception for Augustine and Aquinas, the Spirit's sanctifying for Calvin, both named without ranking in the Larger Catechism.
+- [[ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829]] — the 1854 definition grounds Mary's preservation in what befits the Mother of God, and Aquinas explains Christ's sinlessness without it. Reading the dogma as the mechanism is a critic's reading.
+- [[irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830]] — Irving's fallen-flesh view disputes where Christ's sinlessness came from, not whether he was sinless. Gregory's maxim proves a complete humanity, not a fallen one.
+
+Boundaries. Grudem's chapter on the person of Christ is not captured; the base
+holds Grudem only on the doctrine of God and providence. Karl Barth (*Church
+Dogmatics* I/2 sec. 15) and T. F. Torrance, the twentieth-century advocates of
+the fallen-nature view, are not captured in their own words, and neither is
+the related question of impeccability, whether Christ could have sinned.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -1005,3 +1037,5 @@ The hidden knowledge of God: [[deuteronomy-29-29-the-secret-things-and-the-revea
 (literature: [[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]], [[the-partial-knowledge-passages-bound-what-creatures-know--202609151904]], [[rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905]], [[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]], [[calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907]], [[luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912]], [[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]], [[socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909]], [[rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910]]).
 Faith and miracles: [[mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040]], [[john-20-24-31-these-are-written-that-ye-might-believe--202609230041]], [[summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037]], [[an-enquiry-concerning-human-understanding--202609230038]], [[counterfeit-miracles--202609230039]]
 (literature: [[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]], [[john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046]], [[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042]], [[hume-sets-testimony-against-experience-then-calls-faith--202609230043]], [[warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044]]).
+Christ's human nature: [[christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815]], [[chalcedon-definition--202609041958]], [[gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807]], [[augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808]], [[aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809]], [[aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810]], [[calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811]], [[westminster-larger-catechism--202610031812]], [[pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813]], [[edward-irving-collected-writings-vol-5-sermons-on-the--202610031814]]
+(literature: [[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]], [[chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825]], [[gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816]], [[augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817]], [[aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818]], [[aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819]], [[calvin-rejects-the-father-line-explanation-of-christ-s--202610031820]], [[the-westminster-larger-catechism-states-original-sin-for--202610031821]], [[ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822]], [[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]).

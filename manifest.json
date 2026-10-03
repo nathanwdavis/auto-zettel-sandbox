@@ -469,6 +469,31 @@
     "202609230048": "mark-and-john-run-faith-and-miracle-in-opposite-directions--202609230048",
     "202609230049": "warfield-ties-miracle-to-the-apostle-s-commission-not-to--202609230049",
     "202609230050": "hume-turns-the-confirming-role-inside-out-if-no-testimony--202609230050",
+    "202610031807": "gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807",
+    "202610031808": "augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808",
+    "202610031809": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809",
+    "202610031810": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810",
+    "202610031811": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811",
+    "202610031812": "westminster-larger-catechism--202610031812",
+    "202610031813": "pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813",
+    "202610031814": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814",
+    "202610031815": "christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815",
+    "202610031816": "gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816",
+    "202610031817": "augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817",
+    "202610031818": "aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818",
+    "202610031819": "aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819",
+    "202610031820": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820",
+    "202610031821": "the-westminster-larger-catechism-states-original-sin-for--202610031821",
+    "202610031822": "ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822",
+    "202610031823": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823",
+    "202610031824": "the-new-testament-passages-call-christ-holy-from-birth-and--202610031824",
+    "202610031825": "chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825",
+    "202610031826": "the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826",
+    "202610031827": "christ-shared-the-penalties-of-the-fall-but-not-its--202610031827",
+    "202610031828": "augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828",
+    "202610031829": "ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829",
+    "202610031830": "irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830",
+    "202610031831": "scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -485,6 +510,17 @@
       "result_notes": [],
       "status": "in-progress",
       "updated": "2026-09-21"
+    },
+    {
+      "key": "did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--202610031804",
+      "path": "inquiries/did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--202610031804.md",
+      "priority": "normal",
+      "question": "Did Jesus have a sin nature? He never sinned, but was he born with the inherited corruption (original sin) that all other humans are born with?",
+      "result_notes": [
+        "irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830"
+      ],
+      "status": "answered",
+      "updated": "2026-10-03"
     },
     {
       "key": "do-the-ash-ari-and-mu-tazili-positions-on-the-divine--202609051929",
@@ -909,7 +945,7 @@
       "updated": "2026-09-04"
     }
   ],
-  "note_count": 474,
+  "note_count": 499,
   "notes": [
     {
       "id": "202609041020",
@@ -1949,6 +1985,40 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/aquinas-bounds-every-knowledge-of-god-below-god-s-own-by--202609151915.md"
     },
     {
+      "id": "202610031818",
+      "key": "aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809"
+        }
+      ],
+      "path": "literature/aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818.md",
+      "slug": "aquinas-denies-christ-both-original-sin-and-the-fomes-of",
+      "tags": [],
+      "title": "Aquinas denies Christ both original sin and the fomes of sin while keeping the bodily penalties of the fall, because sin does not belong to human nature",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818.md"
+    },
+    {
+      "id": "202610031819",
+      "key": "aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810"
+        }
+      ],
+      "path": "literature/aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819.md",
+      "slug": "aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not",
+      "tags": [],
+      "title": "Aquinas derives Christ's flesh from Adam's matter but not from Adam's seed, and locates the passing of original sin in the seed",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819.md"
+    },
+    {
       "id": "202609011206",
       "key": "aquinas-makes-god-demonstrable-only-from-effects--202609011206",
       "links": [
@@ -2058,6 +2128,30 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-i-q2--202609011201.md"
+    },
+    {
+      "id": "202610031809",
+      "key": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809",
+      "links": [],
+      "path": "reference/aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809.md",
+      "slug": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae III, q. 15 (Of the defects of soul assumed by Christ)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809.md"
+    },
+    {
+      "id": "202610031810",
+      "key": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810",
+      "links": [],
+      "path": "reference/aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810.md",
+      "slug": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which",
+      "tags": [],
+      "title": "Aquinas, Summa Theologiae III, q. 31 (Of the matter from which the Saviour's body was conceived)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810.md"
     },
     {
       "id": "202609090053",
@@ -2236,6 +2330,80 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/atomic-notes-compound-over-time--202701010001.md"
+    },
+    {
+      "id": "202610031828",
+      "key": "augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817"
+        },
+        {
+          "relation": "source",
+          "target_id": "augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808"
+        },
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-westminster-larger-catechism-states-original-sin-for--202610031821"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "permanent/augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828.md",
+      "slug": "augustine-and-aquinas-block-original-sin-at-the-manner-of",
+      "tags": [],
+      "title": "Augustine and Aquinas block original sin at the manner of Christ's conception, Calvin at the Spirit's sanctifying of it, and the Larger Catechism names both",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828.md"
+    },
+    {
+      "id": "202610031817",
+      "key": "augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808"
+        }
+      ],
+      "path": "literature/augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817.md",
+      "slug": "augustine-credits-christ-s-freedom-from-original-sin-to-a",
+      "tags": [],
+      "title": "Augustine credits Christ's freedom from original sin to a conception without carnal lust, and his freedom from personal sin to the union with the Word",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817.md"
+    },
+    {
+      "id": "202610031808",
+      "key": "augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808",
+      "links": [],
+      "path": "reference/augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808.md",
+      "slug": "augustine-enchiridion-handbook-on-faith-hope-and-love",
+      "tags": [],
+      "title": "Augustine, Enchiridion (Handbook on Faith, Hope and Love)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808.md"
     },
     {
       "id": "202609141701",
@@ -2589,6 +2757,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907.md"
     },
     {
+      "id": "202610031811",
+      "key": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811",
+      "links": [],
+      "path": "reference/calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811.md",
+      "slug": "calvin-institutes-ii-13-christ-clothed-with-the-true",
+      "tags": [],
+      "title": "Calvin, Institutes II.13 (Christ clothed with the true substance of human nature)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811.md"
+    },
+    {
       "id": "202609151853",
       "key": "calvin-institutes-iii-21-of-the-eternal-election--202609151853",
       "links": [],
@@ -2638,6 +2818,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-pairs-an-inner-sense-with-an-outer-display-of-god--202609011036.md"
     },
     {
+      "id": "202610031820",
+      "key": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811"
+        }
+      ],
+      "path": "literature/calvin-rejects-the-father-line-explanation-of-christ-s--202610031820.md",
+      "slug": "calvin-rejects-the-father-line-explanation-of-christ-s",
+      "tags": [],
+      "title": "Calvin rejects the father-line explanation of Christ's purity and credits the Spirit's sanctifying of his conception",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/calvin-rejects-the-father-line-explanation-of-christ-s--202610031820.md"
+    },
+    {
       "id": "202609041855",
       "key": "camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855",
       "links": [],
@@ -2648,6 +2845,23 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/camerer-et-al-evaluating-the-replicability-of-social-science-experiments--202609041855.md"
+    },
+    {
+      "id": "202610031825",
+      "key": "chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "chalcedon-definition--202609041958"
+        }
+      ],
+      "path": "literature/chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825.md",
+      "slug": "chalcedon-confesses-christ-consubstantial-with-us-and-like",
+      "tags": [],
+      "title": "Chalcedon confesses Christ consubstantial with us and like us in all things, sin only excepted",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825.md"
     },
     {
       "id": "202609042003",
@@ -2681,6 +2895,55 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/chalcedon-definition--202609041958.md"
+    },
+    {
+      "id": "202610031815",
+      "key": "christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815",
+      "links": [],
+      "path": "reference/christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815.md",
+      "slug": "christ-s-sinlessness-and-the-transmission-of-sin-passages",
+      "tags": [],
+      "title": "Christ's sinlessness and the transmission of sin passages (Luke 1:35; Heb 4:15; Heb 7:26-27; 2 Cor 5:21; 1 John 3:5; 1 Pet 2:22; John 8:46; Rom 8:3; John 14:30; Heb 2:17; John 4:6; 1 Pet 1:19; Rom 5:12; Ps 51:5)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815.md"
+    },
+    {
+      "id": "202610031827",
+      "key": "christ-shared-the-penalties-of-the-fall-but-not-its--202610031827",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809"
+        },
+        {
+          "relation": "source",
+          "target_id": "christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815"
+        },
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-call-christ-holy-from-birth-and--202610031824"
+        }
+      ],
+      "path": "permanent/christ-shared-the-penalties-of-the-fall-but-not-its--202610031827.md",
+      "slug": "christ-shared-the-penalties-of-the-fall-but-not-its",
+      "tags": [],
+      "title": "Christ shared the penalties of the fall but not its disordered inclination, and the tradition draws the line around a sin nature between infirmity and fault",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/christ-shared-the-penalties-of-the-fall-but-not-its--202610031827.md"
     },
     {
       "id": "202609011811",
@@ -3342,6 +3605,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/dweck-the-scandal-of-kabbalah--202609030150.md"
     },
     {
+      "id": "202610031814",
+      "key": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814",
+      "links": [],
+      "path": "reference/edward-irving-collected-writings-vol-5-sermons-on-the--202610031814.md",
+      "slug": "edward-irving-collected-writings-vol-5-sermons-on-the",
+      "tags": [],
+      "title": "Edward Irving, Collected Writings, vol. 5 (sermons on the Incarnation)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/edward-irving-collected-writings-vol-5-sermons-on-the--202610031814.md"
+    },
+    {
       "id": "202609022348",
       "key": "epelbaum-viability-of-carbon-based-life--202609022348",
       "links": [],
@@ -3740,6 +4015,35 @@
       "type": "reference",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/goshen-gottstein-shituf-critical-and-constructive-reflections--202609011533.md"
+    },
+    {
+      "id": "202610031807",
+      "key": "gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807",
+      "links": [],
+      "path": "reference/gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807.md",
+      "slug": "gregory-of-nazianzus-epistle-101-to-cledonius-the-priest",
+      "tags": [],
+      "title": "Gregory of Nazianzus, Epistle 101 (To Cledonius the Priest, against Apollinarius)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807.md"
+    },
+    {
+      "id": "202610031816",
+      "key": "gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807"
+        }
+      ],
+      "path": "literature/gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816.md",
+      "slug": "gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at",
+      "tags": [],
+      "title": "Gregory's maxim that the unassumed is unhealed was aimed at a Christ without a human mind",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816.md"
     },
     {
       "id": "202609090105",
@@ -4983,6 +5287,60 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919.md"
     },
     {
+      "id": "202610031822",
+      "key": "ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813"
+        }
+      ],
+      "path": "literature/ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822.md",
+      "slug": "ineffabilis-deus-defines-mary-s-preservation-from-original",
+      "tags": [],
+      "title": "Ineffabilis Deus defines Mary's preservation from original sin and grounds it in the fittingness of the divine maternity, not in a need of Christ's",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822.md"
+    },
+    {
+      "id": "202610031829",
+      "key": "ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810"
+        },
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        },
+        {
+          "relation": "source",
+          "target_id": "pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813"
+        }
+      ],
+      "path": "permanent/ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829.md",
+      "slug": "ineffabilis-deus-grounds-mary-s-preservation-in-what-befits",
+      "tags": [],
+      "title": "Ineffabilis Deus grounds Mary's preservation in what befits the Mother of God, so the Catholic account of Christ's sinlessness does not depend on it",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829.md"
+    },
+    {
       "id": "202609011543",
       "key": "internal-plurality-is-not-what-divides-the-monotheisms--202609011543",
       "links": [
@@ -5081,6 +5439,60 @@
       "type": "literature",
       "updated": "2026-09-14",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/irenaeus-grounds-free-will-in-creation-and-aims-it-at-the--202609141703.md"
+    },
+    {
+      "id": "202610031823",
+      "key": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        }
+      ],
+      "path": "literature/irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823.md",
+      "slug": "irving-holds-that-christ-took-fallen-flesh-and-was-kept",
+      "tags": [],
+      "title": "Irving holds that Christ took fallen flesh and was kept sinless by the indwelling Spirit, not by an unfallen nature",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823.md"
+    },
+    {
+      "id": "202610031830",
+      "key": "irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820"
+        },
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "source",
+          "target_id": "gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        }
+      ],
+      "path": "permanent/irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830.md",
+      "slug": "irving-s-fallen-flesh-christology-disputes-the-source-of",
+      "tags": [],
+      "title": "Irving's fallen-flesh Christology disputes the source of Christ's sinlessness, not the fact, and Gregory's maxim does not decide it",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830.md"
     },
     {
       "id": "202609230046",
@@ -6894,6 +7306,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pirkei-avot-3-15--202609081911.md"
     },
     {
+      "id": "202610031813",
+      "key": "pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813",
+      "links": [],
+      "path": "reference/pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813.md",
+      "slug": "pius-ix-ineffabilis-deus-apostolic-constitution-defining",
+      "tags": [],
+      "title": "Pius IX, Ineffabilis Deus (apostolic constitution defining the Immaculate Conception)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813.md"
+    },
+    {
       "id": "202609011505",
       "key": "plantinga-makes-theistic-arguments-probabilistic-helps-not-proofs--202609011505",
       "links": [
@@ -7688,6 +8112,31 @@
       "type": "literature",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/schmidt-shows-how-luhmanns-file-fabricated-serendipity--202609010303.md"
+    },
+    {
+      "id": "202610031831",
+      "key": "scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828"
+        },
+        {
+          "relation": "source",
+          "target_id": "christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-call-christ-holy-from-birth-and--202610031824"
+        }
+      ],
+      "path": "permanent/scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831.md",
+      "slug": "scripture-predicates-sinlessness-of-christ-s-condition-from",
+      "tags": [],
+      "title": "Scripture predicates sinlessness of Christ's condition from birth, and calls his likeness to sinners a likeness",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831.md"
     },
     {
       "id": "202609011825",
@@ -9775,6 +10224,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-nameless-infinite-defeats-reference-fixing-by-description--202609011541.md"
     },
     {
+      "id": "202610031824",
+      "key": "the-new-testament-passages-call-christ-holy-from-birth-and--202610031824",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815"
+        }
+      ],
+      "path": "literature/the-new-testament-passages-call-christ-holy-from-birth-and--202610031824.md",
+      "slug": "the-new-testament-passages-call-christ-holy-from-birth-and",
+      "tags": [],
+      "title": "The New Testament passages call Christ holy from birth and sinless in condition, like his brethren in all things except sin",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-new-testament-passages-call-christ-holy-from-birth-and--202610031824.md"
+    },
+    {
       "id": "202609042000",
       "key": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000",
       "links": [
@@ -11219,6 +11685,59 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340.md"
     },
     {
+      "id": "202610031826",
+      "key": "the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826",
+      "links": [
+        {
+          "relation": "elaborates",
+          "target_id": "aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818"
+        },
+        {
+          "relation": "source",
+          "target_id": "aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809"
+        },
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825"
+        },
+        {
+          "relation": "source",
+          "target_id": "chalcedon-definition--202609041958"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822"
+        },
+        {
+          "relation": "source",
+          "target_id": "pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-westminster-larger-catechism-states-original-sin-for--202610031821"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "permanent/the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826.md",
+      "slug": "the-tradition-counts-sin-out-of-human-nature-so-a-humanity",
+      "tags": [],
+      "title": "The tradition counts sin out of human nature, so a humanity without original sin is complete, not reduced",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826.md"
+    },
+    {
       "id": "202609041730",
       "key": "the-two-kabbalistic-readings-of-the-sefirot-are-the-two-the-councils-ruled-out--202609041730",
       "links": [
@@ -11322,6 +11841,23 @@
       "type": "literature",
       "updated": "2026-09-12",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645.md"
+    },
+    {
+      "id": "202610031821",
+      "key": "the-westminster-larger-catechism-states-original-sin-for--202610031821",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "literature/the-westminster-larger-catechism-states-original-sin-for--202610031821.md",
+      "slug": "the-westminster-larger-catechism-states-original-sin-for",
+      "tags": [],
+      "title": "The Westminster Larger Catechism states original sin for those who descend by ordinary generation and describes Christ's conception in other terms",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-westminster-larger-catechism-states-original-sin-for--202610031821.md"
     },
     {
       "id": "202609041435",
@@ -12068,6 +12604,18 @@
       "type": "reference",
       "updated": "2026-09-12",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-confession-of-faith--202609120640.md"
+    },
+    {
+      "id": "202610031812",
+      "key": "westminster-larger-catechism--202610031812",
+      "links": [],
+      "path": "reference/westminster-larger-catechism--202610031812.md",
+      "slug": "westminster-larger-catechism",
+      "tags": [],
+      "title": "Westminster Larger Catechism",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-larger-catechism--202610031812.md"
     },
     {
       "id": "202609040825",

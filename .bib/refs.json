@@ -3569,5 +3569,157 @@
     "publisher-place": "New York",
     "title": "Counterfeit Miracles",
     "type": "book"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/3103a.htm",
+    "author": [
+      {
+        "family": "Nazianzus",
+        "given": "Gregory of"
+      }
+    ],
+    "id": "202610031807",
+    "issued": {
+      "date-parts": [
+        [
+          1894
+        ]
+      ]
+    },
+    "title": "Gregory of Nazianzus, Epistle 101 (To Cledonius the Priest, against Apollinarius)",
+    "type": "letter"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/1302.htm",
+    "author": [
+      {
+        "family": "Hippo",
+        "given": "Augustine of"
+      }
+    ],
+    "id": "202610031808",
+    "issued": {
+      "date-parts": [
+        [
+          1887
+        ]
+      ]
+    },
+    "title": "Augustine, Enchiridion (Handbook on Faith, Hope and Love)",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/4015.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "id": "202610031809",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "title": "Aquinas, Summa Theologiae III, q. 15 (Of the defects of soul assumed by Christ)",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/summa/4031.htm",
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "Thomas"
+      }
+    ],
+    "id": "202610031810",
+    "issued": {
+      "date-parts": [
+        [
+          1920
+        ]
+      ]
+    },
+    "title": "Aquinas, Summa Theologiae III, q. 31 (Of the matter from which the Saviour's body was conceived)",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html",
+    "author": [
+      {
+        "family": "Calvin",
+        "given": "John"
+      }
+    ],
+    "id": "202610031811",
+    "issued": {
+      "date-parts": [
+        [
+          1845
+        ]
+      ]
+    },
+    "title": "Calvin, Institutes II.13 (Christ clothed with the true substance of human nature)",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.opc.org/lc.html",
+    "author": [
+      {
+        "family": "Assembly",
+        "given": "Westminster"
+      }
+    ],
+    "id": "202610031812",
+    "issued": {
+      "date-parts": [
+        [
+          1648
+        ]
+      ]
+    },
+    "title": "Westminster Larger Catechism",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.papalencyclicals.net/pius09/p9ineff.htm",
+    "author": [
+      {
+        "family": "IX",
+        "given": "Pius"
+      }
+    ],
+    "id": "202610031813",
+    "issued": {
+      "date-parts": [
+        [
+          1854
+        ]
+      ]
+    },
+    "title": "Pius IX, Ineffabilis Deus (apostolic constitution defining the Immaculate Conception)",
+    "type": "document"
+  },
+  {
+    "URL": "https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt",
+    "author": [
+      {
+        "family": "Irving",
+        "given": "Edward"
+      }
+    ],
+    "id": "202610031814",
+    "issued": {
+      "date-parts": [
+        [
+          1866
+        ]
+      ]
+    },
+    "title": "Edward Irving, Collected Writings, vol. 5 (sermons on the Incarnation)",
+    "type": "book"
   }
 ]
