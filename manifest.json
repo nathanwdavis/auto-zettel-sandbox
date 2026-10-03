@@ -494,6 +494,29 @@
     "202610031829": "ineffabilis-deus-grounds-mary-s-preservation-in-what-befits--202610031829",
     "202610031830": "irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830",
     "202610031831": "scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831",
+    "202610032100": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100",
+    "202610032101": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101",
+    "202610032102": "council-of-trent-session-v-decree-concerning-original-sin--202610032102",
+    "202610032103": "augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103",
+    "202610032104": "sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104",
+    "202610032105": "rashi-on-genesis-8-21-from-his-youth--202610032105",
+    "202610032106": "the-old-testament-passages-place-sinfulness-at-conception--202610032106",
+    "202610032107": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107",
+    "202610032108": "the-westminster-confession-derives-all-actual--202610032108",
+    "202610032109": "the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109",
+    "202610032110": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110",
+    "202610032111": "augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111",
+    "202610032112": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112",
+    "202610032113": "rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113",
+    "202610032114": "the-bible-s-plainest-act-versus-source-passages-make-the--202610032114",
+    "202610032115": "1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115",
+    "202610032116": "ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116",
+    "202610032117": "the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117",
+    "202610032118": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118",
+    "202610032119": "the-westminster-standards-name-the-two-senses-original-sin--202610032119",
+    "202610032120": "trent-and-westminster-use-the-same-words-truly-and-properly--202610032120",
+    "202610032121": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121",
+    "202610032122": "in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -943,10 +966,48 @@
       ],
       "status": "answered",
       "updated": "2026-09-04"
+    },
+    {
+      "key": "what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055",
+      "path": "inquiries/what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055.md",
+      "priority": "normal",
+      "question": "What passages in the Bible distinguish between sin as an act versus the sin nature that humans are born with?",
+      "result_notes": [],
+      "status": "in-progress",
+      "updated": "2026-10-03"
     }
   ],
-  "note_count": 499,
+  "note_count": 522,
   "notes": [
+    {
+      "id": "202610032115",
+      "key": "1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115.md",
+      "slug": "1-john-1-8-and-1-10-deny-two-different-things-having-sin",
+      "tags": [],
+      "title": "1 John 1:8 and 1:10 deny two different things, having sin and having sinned, and the Westminster Confession cites both for the corruption that remains after regeneration",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115.md"
+    },
     {
       "id": "202609041020",
       "key": "a-classical-commentary-applies-mushrikun-to-the-people-of-the-book-inside-the-common-word-passage--202609041020",
@@ -1401,7 +1462,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-09-23",
+      "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -2418,6 +2479,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/augustine-on-grace-and-free-will--202609141701.md"
     },
     {
+      "id": "202610032103",
+      "key": "augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103",
+      "links": [],
+      "path": "reference/augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103.md",
+      "slug": "augustine-on-merit-and-the-forgiveness-of-sins-and-the",
+      "tags": [],
+      "title": "Augustine, On Merit and the Forgiveness of Sins, and the Baptism of Infants, Book I",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103.md"
+    },
+    {
+      "id": "202610032111",
+      "key": "augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103"
+        }
+      ],
+      "path": "literature/augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111.md",
+      "slug": "augustine-reads-romans-5-12-as-sin-passed-by-descent-rather",
+      "tags": [],
+      "title": "Augustine reads Romans 5:12 as sin passed by descent rather than imitation, and separates the sins each person commits from the one sin in which all sinned",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111.md"
+    },
+    {
       "id": "202609141705",
       "key": "augustine-writes-to-monks-who-took-his-case-for-grace-to-be--202609141705",
       "links": [
@@ -3199,6 +3289,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/cordovero-states-the-essence-vessel-dispute-and-answers-it-with-both--202609041710.md"
     },
     {
+      "id": "202610032102",
+      "key": "council-of-trent-session-v-decree-concerning-original-sin--202610032102",
+      "links": [],
+      "path": "reference/council-of-trent-session-v-decree-concerning-original-sin--202610032102.md",
+      "slug": "council-of-trent-session-v-decree-concerning-original-sin",
+      "tags": [],
+      "title": "Council of Trent, Session V, Decree concerning Original Sin (Waterworth translation)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/council-of-trent-session-v-decree-concerning-original-sin--202610032102.md"
+    },
+    {
       "id": "202609230039",
       "key": "counterfeit-miracles--202609230039",
       "links": [],
@@ -3627,6 +3729,43 @@
       "type": "reference",
       "updated": "2026-09-02",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/epelbaum-viability-of-carbon-based-life--202609022348.md"
+    },
+    {
+      "id": "202610032116",
+      "key": "ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "permanent/ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116.md",
+      "slug": "ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead",
+      "tags": [],
+      "title": "Ephesians 2:1-3 holds deed and nature in one sentence, dead in trespasses and sins and by nature children of wrath, and the Westminster standards take up both halves",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116.md"
     },
     {
       "id": "202608311940",
@@ -5285,6 +5424,47 @@
       "type": "permanent",
       "updated": "2026-09-15",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-pauline-usage-a-mystery-is-a-thing-that-has-crossed-from--202609151919.md"
+    },
+    {
+      "id": "202610032122",
+      "key": "in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "council-of-trent-session-v-decree-concerning-original-sin--202610032102"
+        },
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "trent-and-westminster-use-the-same-words-truly-and-properly--202610032120"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122.md",
+      "slug": "in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters",
+      "tags": [],
+      "title": "In Romans 5-8 Paul speaks of sin as a power that enters, reigns and dwells, and in Romans 7 he credits his own deeds to the sin that dwells in him",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122.md"
     },
     {
       "id": "202610031822",
@@ -7680,6 +7860,35 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rashi-on-deuteronomy-29-28-the-secret-things-and-the--202609151851.md"
     },
     {
+      "id": "202610032105",
+      "key": "rashi-on-genesis-8-21-from-his-youth--202610032105",
+      "links": [],
+      "path": "reference/rashi-on-genesis-8-21-from-his-youth--202610032105.md",
+      "slug": "rashi-on-genesis-8-21-from-his-youth",
+      "tags": [],
+      "title": "Rashi on Genesis 8:21 (from his youth)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/rashi-on-genesis-8-21-from-his-youth--202610032105.md"
+    },
+    {
+      "id": "202610032113",
+      "key": "rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rashi-on-genesis-8-21-from-his-youth--202610032105"
+        }
+      ],
+      "path": "literature/rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113.md",
+      "slug": "rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil",
+      "tags": [],
+      "title": "Rashi reads 'from his youth' in Genesis 8:21 as the evil inclination given at the moment of birth",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113.md"
+    },
+    {
       "id": "202609151905",
       "key": "rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905",
       "links": [
@@ -7936,6 +8145,51 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/roediger-and-karpicke-test-enhanced-learning--202609040305.md"
     },
     {
+      "id": "202610032118",
+      "key": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111"
+        },
+        {
+          "relation": "source",
+          "target_id": "council-of-trent-session-v-decree-concerning-original-sin--202610032102"
+        },
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "supports",
+          "target_id": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md",
+      "slug": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in",
+      "tags": [],
+      "title": "Romans 5:12's last clause reads 'in which all have sinned' in Augustine and Trent and 'for that all have sinned' in the KJV, and only the first makes the clause itself name a sin all committed in Adam",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md"
+    },
+    {
       "id": "202609040605",
       "key": "rowland-meta-analysed-the-laboratory-half-and-excluded-the-classroom--202609040605",
       "links": [
@@ -8079,6 +8333,35 @@
       "type": "literature",
       "updated": "2026-09-18",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sanhedrin-43b-reads-the-dots-on-to-us-and-to-our-children--202609182335.md"
+    },
+    {
+      "id": "202610032104",
+      "key": "sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104",
+      "links": [],
+      "path": "reference/sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104.md",
+      "slug": "sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil",
+      "tags": [],
+      "title": "Sanhedrin 91b (Antoninus and Rabbi on when the evil inclination takes hold)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104.md"
+    },
+    {
+      "id": "202610032112",
+      "key": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104"
+        }
+      ],
+      "path": "literature/sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112.md",
+      "slug": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a",
+      "tags": [],
+      "title": "Sanhedrin 91b dates the evil inclination's rule over a person to birth and reads the sin crouching at the entrance in Genesis 4:7 as that inclination",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112.md"
     },
     {
       "id": "202609010302",
@@ -8344,6 +8627,18 @@
       "type": "permanent",
       "updated": "2026-09-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/simplicity-is-maimonides-solvent-and-grudem-never-uses-it--202609081915.md"
+    },
+    {
+      "id": "202610032100",
+      "key": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100",
+      "links": [],
+      "path": "reference/sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100.md",
+      "slug": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john",
+      "tags": [],
+      "title": "Sin as act and sin as indwelling condition passages (1 John 1:8-10; 1 John 3:4-9; Gen 4:7; Gen 6:5; Gen 8:21; Job 14:4; Job 15:14; Ps 51:5; Ps 58:3; Eccl 7:20; Isa 48:8; Jer 17:9; Deut 24:16; Ezek 18:19-20; Matt 7:17-18; Matt 12:33-35; Matt 15:18-20; John 3:6; Jas 1:14-15; Rom 3:23; Rom 5:12-21; Rom 6:6; Rom 6:12-14; Rom 7:7-25; Rom 8:5-8; 1 Cor 15:21-22; Gal 5:16-24; Eph 2:1-3)",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100.md"
     },
     {
       "id": "202609151909",
@@ -8761,6 +9056,39 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-base-read-question-two-and-skipped-question-three--202609042082.md"
+    },
+    {
+      "id": "202610032114",
+      "key": "the-bible-s-plainest-act-versus-source-passages-make-the--202610032114",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/the-bible-s-plainest-act-versus-source-passages-make-the--202610032114.md",
+      "slug": "the-bible-s-plainest-act-versus-source-passages-make-the",
+      "tags": [],
+      "title": "The Bible's plainest act-versus-source passages make the sinful deed the product of an inner source: a tree's fruit, what proceeds from the heart, the works of the flesh, what lust conceives",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-bible-s-plainest-act-versus-source-passages-make-the--202610032114.md"
     },
     {
       "id": "202609022357",
@@ -9997,6 +10325,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-laboratory-and-classroom-evidence-were-separated-on-purpose--202609040610.md"
     },
     {
+      "id": "202610032109",
+      "key": "the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "literature/the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109.md",
+      "slug": "the-larger-catechism-defines-sin-as-want-of-conformity-or",
+      "tags": [],
+      "title": "The Larger Catechism defines sin as want of conformity or transgression and calls the corrupted estate original sin, from which all actual transgressions proceed",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109.md"
+    },
+    {
       "id": "202609022352",
       "key": "the-lattice-recomputation-loosened-the-hoyle-states-tuning--202609022352",
       "links": [
@@ -10241,6 +10586,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-new-testament-passages-call-christ-holy-from-birth-and--202610031824.md"
     },
     {
+      "id": "202610032107",
+      "key": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        }
+      ],
+      "path": "literature/the-new-testament-passages-derive-sinful-deeds-from-a--202610032107.md",
+      "slug": "the-new-testament-passages-derive-sinful-deeds-from-a",
+      "tags": [],
+      "title": "The New Testament passages derive sinful deeds from a source in the heart, flesh or desire, and Paul speaks of sin as a power that enters, reigns and dwells",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-new-testament-passages-derive-sinful-deeds-from-a--202610032107.md"
+    },
+    {
       "id": "202609042000",
       "key": "the-nicene-anathemas-of-325-are-directed-at-one-side-only--202609042000",
       "links": [
@@ -10470,6 +10832,52 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-offloading-literature-varies-expectation-not-accumulation--202609041840.md"
+    },
+    {
+      "id": "202610032106",
+      "key": "the-old-testament-passages-place-sinfulness-at-conception--202610032106",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        }
+      ],
+      "path": "literature/the-old-testament-passages-place-sinfulness-at-conception--202610032106.md",
+      "slug": "the-old-testament-passages-place-sinfulness-at-conception",
+      "tags": [],
+      "title": "The Old Testament passages place sinfulness at conception, birth and youth and in the heart, while its law and Ezekiel make each person answer for the sin he commits",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-old-testament-passages-place-sinfulness-at-conception--202610032106.md"
+    },
+    {
+      "id": "202610032117",
+      "key": "the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
+        },
+        {
+          "relation": "supports",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117.md",
+      "slug": "the-old-testament-speaks-of-sinfulness-from-the-womb-in",
+      "tags": [],
+      "title": "The Old Testament speaks of sinfulness from the womb in psalms, wisdom and prophecy, and of answering only for one's own sin in law and Ezekiel, and Westminster's proofs for inherited corruption come only from the first",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117.md"
     },
     {
       "id": "202609042201",
@@ -11656,6 +12064,55 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-survey-puts-the-doctrine-in-four-traditions-and-reports-simplicity-used-for-the-trinity--202609042077.md"
     },
     {
+      "id": "202610032121",
+      "key": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "rashi-on-genesis-8-21-from-his-youth--202610032105"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113"
+        },
+        {
+          "relation": "source",
+          "target_id": "sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112"
+        },
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121.md",
+      "slug": "the-talmud-and-rashi-find-an-evil-inclination-present-from",
+      "tags": [],
+      "title": "The Talmud and Rashi find an evil inclination present from birth in Genesis 4:7 and 8:21 and speak of it as an inclination that rules, not as inherited guilt",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121.md"
+    },
+    {
       "id": "202609042340",
       "key": "the-testing-effect-works-by-producing-more-retrievable-target-eliciting-mediators--202609042340",
       "links": [
@@ -11826,6 +12283,23 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-westminster-confession-asserts-sovereign-ordination-and-creaturely-liberty-as-a-single-proposition--202609120650.md"
     },
     {
+      "id": "202610032108",
+      "key": "the-westminster-confession-derives-all-actual--202610032108",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "literature/the-westminster-confession-derives-all-actual--202610032108.md",
+      "slug": "the-westminster-confession-derives-all-actual",
+      "tags": [],
+      "title": "The Westminster Confession derives all actual transgressions from original corruption and calls the corruption left in the regenerate truly and properly sin",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-westminster-confession-derives-all-actual--202610032108.md"
+    },
+    {
       "id": "202609120645",
       "key": "the-westminster-confession-joins-eternal-decree-to-the-natural-liberty-of-the-will--202609120645",
       "links": [
@@ -11858,6 +12332,51 @@
       "type": "literature",
       "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/the-westminster-larger-catechism-states-original-sin-for--202610031821.md"
+    },
+    {
+      "id": "202610032119",
+      "key": "the-westminster-standards-name-the-two-senses-original-sin--202610032119",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-larger-catechism--202610031812"
+        }
+      ],
+      "path": "permanent/the-westminster-standards-name-the-two-senses-original-sin--202610032119.md",
+      "slug": "the-westminster-standards-name-the-two-senses-original-sin",
+      "tags": [],
+      "title": "The Westminster standards name the two senses original sin and actual transgressions, define sin as both a want of conformity and a transgression, and make the actual proceed from the original",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-westminster-standards-name-the-two-senses-original-sin--202610032119.md"
     },
     {
       "id": "202609041435",
@@ -12061,6 +12580,56 @@
       "type": "permanent",
       "updated": "2026-09-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/topic-head-filing-optimizes-retrieval-not-connection--202609010604.md"
+    },
+    {
+      "id": "202610032120",
+      "key": "trent-and-westminster-use-the-same-words-truly-and-properly--202610032120",
+      "links": [
+        {
+          "relation": "shared-concept",
+          "target_id": "christ-shared-the-penalties-of-the-fall-but-not-its--202610031827"
+        },
+        {
+          "relation": "source",
+          "target_id": "council-of-trent-session-v-decree-concerning-original-sin--202610032102"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110"
+        },
+        {
+          "relation": "source",
+          "target_id": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101"
+        }
+      ],
+      "path": "permanent/trent-and-westminster-use-the-same-words-truly-and-properly--202610032120.md",
+      "slug": "trent-and-westminster-use-the-same-words-truly-and-properly",
+      "tags": [],
+      "title": "Trent and Westminster use the same words, truly and properly sin, for the corruption left after regeneration, Trent to deny that it is and Westminster to affirm it",
+      "type": "permanent",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/trent-and-westminster-use-the-same-words-truly-and-properly--202610032120.md"
+    },
+    {
+      "id": "202610032110",
+      "key": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "council-of-trent-session-v-decree-concerning-original-sin--202610032102"
+        }
+      ],
+      "path": "literature/trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110.md",
+      "slug": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in",
+      "tags": [],
+      "title": "Trent holds that Adam's sin passes by propagation and is in each as his own, and that the concupiscence Paul calls sin is not truly and properly sin in the reborn",
+      "type": "literature",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110.md"
     },
     {
       "id": "202609041400",
@@ -12604,6 +13173,18 @@
       "type": "reference",
       "updated": "2026-09-12",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-confession-of-faith--202609120640.md"
+    },
+    {
+      "id": "202610032101",
+      "key": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101",
+      "links": [],
+      "path": "reference/westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101.md",
+      "slug": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of",
+      "tags": [],
+      "title": "Westminster Confession of Faith, ch. 6 (Of the Fall of Man, of Sin, and of the Punishment Thereof), with the Assembly's proof texts",
+      "type": "reference",
+      "updated": "2026-10-03",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101.md"
     },
     {
       "id": "202610031812",

@@ -3811,5 +3811,140 @@
     "title": "The Collected Writings of Edward Irving",
     "type": "book",
     "volume": "5"
+  },
+  {
+    "URL": "https://www.apuritansmind.com/westminster-standards/chapter-6/",
+    "author": [
+      {
+        "literal": "Westminster Assembly"
+      }
+    ],
+    "container-title": "The 1647 Westminster Confession of Faith",
+    "id": "202610032101",
+    "issued": {
+      "date-parts": [
+        [
+          1647
+        ]
+      ]
+    },
+    "title": "Chapter 6: Of the Fall of Man, of Sin, and of the Punishment Thereof",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://history.hanover.edu/texts/trent/ct05.html",
+    "author": [
+      {
+        "literal": "Council of Trent"
+      }
+    ],
+    "container-title": "The Canons and Decrees of the Sacred and Oecumenical Council of Trent",
+    "id": "202610032102",
+    "issued": {
+      "date-parts": [
+        [
+          1848
+        ]
+      ]
+    },
+    "page": "21-29",
+    "publisher": "Dolman",
+    "publisher-place": "London",
+    "title": "The Fifth Session: Decree concerning Original Sin",
+    "translator": [
+      {
+        "family": "Waterworth",
+        "given": "J."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/15011.htm",
+    "author": [
+      {
+        "literal": "Augustine of Hippo"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, First Series, Vol. 5",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      }
+    ],
+    "id": "202610032103",
+    "issued": {
+      "date-parts": [
+        [
+          1887
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Publishing Co.",
+    "publisher-place": "Buffalo, NY",
+    "title": "On Merit and the Forgiveness of Sins, and the Baptism of Infants, Book I",
+    "translator": [
+      {
+        "family": "Holmes",
+        "given": "Peter"
+      },
+      {
+        "family": "Wallis",
+        "given": "Robert Ernest"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Sanhedrin.91b",
+    "container-title": "Talmud Bavli, The William Davidson Edition",
+    "id": "202610032104",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Sanhedrin 91b",
+    "translator": [
+      {
+        "literal": "The William Davidson Talmud (Koren-Steinsaltz)"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Rashi_on_Genesis.8.21",
+    "author": [
+      {
+        "literal": "Rashi (Shlomo Yitzchaki)"
+      }
+    ],
+    "container-title": "Pentateuch with Targum Onkelos, Haphtaroth and Rashi's Commentary: Genesis",
+    "id": "202610032105",
+    "issued": {
+      "date-parts": [
+        [
+          1929
+        ]
+      ]
+    },
+    "publisher": "Shapiro, Vallentine",
+    "publisher-place": "London",
+    "title": "Rashi on Genesis 8:21",
+    "translator": [
+      {
+        "family": "Rosenbaum",
+        "given": "M."
+      },
+      {
+        "family": "Silbermann",
+        "given": "A. M."
+      }
+    ],
+    "type": "chapter"
   }
 ]

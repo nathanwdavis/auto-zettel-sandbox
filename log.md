@@ -2520,3 +2520,49 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-03T18:28:03Z` lint_skills: PASS
 - `2026-10-03T18:28:04Z` check_skill_sandbox: PASS
 - `2026-10-03T18:28:04Z` remote_cycle: gates PASS
+- `2026-10-03T20:55:57Z` remote_cycle: agents: resolved 8 definition(s) in /root/.claude/agents (strong=claude-opus-5 cheap=claude-sonnet-5)
+- `2026-10-03T20:55:58Z` remote_cycle: start (mode=B holder=remote-session session=unknown branch=zettel/run-20261003205557 skill-rev=17e9f39)
+- `2026-10-03T20:55:59Z` capture: inquiry -> inquiries/what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055.md
+- `2026-10-03T21:00:53Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=new->in-progress
+- `2026-10-03T21:00:55Z` capture: reference -> reference/sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100.md (identity=url:bible-api.com/1+john+1:8-10?translation=kjv, verified=no)
+- `2026-10-03T21:00:57Z` capture: reference -> reference/westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101.md (identity=url:apuritansmind.com/westminster-standards/chapter-6, verified=no)
+- `2026-10-03T21:00:59Z` capture: reference -> reference/council-of-trent-session-v-decree-concerning-original-sin--202610032102.md (identity=url:history.hanover.edu/texts/trent/ct05.html, verified=no)
+- `2026-10-03T21:01:01Z` capture: reference -> reference/augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103.md (identity=url:newadvent.org/fathers/15011.htm, verified=no)
+- `2026-10-03T21:01:03Z` capture: reference -> reference/sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104.md (identity=url:sefaria.org/sanhedrin.91b, verified=no)
+- `2026-10-03T21:01:05Z` capture: reference -> reference/rashi-on-genesis-8-21-from-his-youth--202610032105.md (identity=url:sefaria.org/rashi_on_genesis.8.21, verified=no)
+- `2026-10-03T21:01:11Z` fetch_source: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101 <- https://www.apuritansmind.com/westminster-standards/chapter-6/ (renderer=none, 244139 bytes)
+- `2026-10-03T21:01:12Z` fetch_source: council-of-trent-session-v-decree-concerning-original-sin--202610032102 <- https://history.hanover.edu/texts/trent/ct05.html (renderer=none, 18903 bytes)
+- `2026-10-03T21:01:13Z` fetch_source: augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103 <- https://www.newadvent.org/fathers/15011.htm (renderer=none, 220964 bytes)
+- `2026-10-03T21:02:33Z` verify_refs: WARNING network unavailable, raw-capture only
+- `2026-10-03T21:02:52Z` verify_refs: 155/155 verified
+- `2026-10-03T21:06:30Z` capture: literature -> literature/the-old-testament-passages-place-sinfulness-at-conception--202610032106.md
+- `2026-10-03T21:07:32Z` capture: literature -> literature/the-new-testament-passages-derive-sinful-deeds-from-a--202610032107.md
+- `2026-10-03T21:07:44Z` capture: literature -> literature/the-westminster-confession-derives-all-actual--202610032108.md
+- `2026-10-03T21:07:46Z` capture: literature -> literature/the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109.md
+- `2026-10-03T21:07:47Z` capture: literature -> literature/trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110.md
+- `2026-10-03T21:07:48Z` capture: literature -> literature/augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111.md
+- `2026-10-03T21:07:50Z` capture: literature -> literature/sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112.md
+- `2026-10-03T21:07:51Z` capture: literature -> literature/rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113.md
+- `2026-10-03T21:10:19Z` capture: permanent -> permanent/the-bible-s-plainest-act-versus-source-passages-make-the--202610032114.md
+- `2026-10-03T21:10:21Z` capture: permanent -> permanent/1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115.md
+- `2026-10-03T21:10:23Z` capture: permanent -> permanent/ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116.md
+- `2026-10-03T21:10:25Z` capture: permanent -> permanent/the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117.md
+- `2026-10-03T21:10:26Z` capture: permanent -> permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md
+- `2026-10-03T21:10:28Z` capture: permanent -> permanent/the-westminster-standards-name-the-two-senses-original-sin--202610032119.md
+- `2026-10-03T21:10:30Z` capture: permanent -> permanent/trent-and-westminster-use-the-same-words-truly-and-properly--202610032120.md
+- `2026-10-03T21:10:40Z` capture: permanent -> permanent/the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121.md
+- `2026-10-03T21:10:42Z` capture: permanent -> permanent/in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122.md
+- `2026-10-03T21:11:18Z` capture: inbox -> INBOX.md
+- `2026-10-03T21:11:32Z` verify_refs: 155/155 verified
+- `2026-10-03T21:11:47Z` lint_citations: PASS
+- `2026-10-03T21:11:48Z` lint_links: PASS
+- `2026-10-03T21:11:48Z` lint_skills: PASS
+- `2026-10-03T21:11:49Z` check_skill_sandbox: PASS
+- `2026-10-03T21:11:49Z` remote_cycle: gates FAIL (build_manifest.py)
+- `2026-10-03T21:11:53Z` build_manifest: 522 notes indexed
+- `2026-10-03T21:12:07Z` verify_refs: 155/155 verified
+- `2026-10-03T21:12:22Z` lint_citations: PASS
+- `2026-10-03T21:12:23Z` lint_links: PASS
+- `2026-10-03T21:12:23Z` lint_skills: PASS
+- `2026-10-03T21:12:25Z` check_skill_sandbox: PASS
+- `2026-10-03T21:12:25Z` remote_cycle: gates PASS
