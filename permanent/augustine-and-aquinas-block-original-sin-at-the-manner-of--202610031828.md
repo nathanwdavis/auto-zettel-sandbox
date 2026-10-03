@@ -28,8 +28,11 @@ links:
 - target_id: westminster-larger-catechism--202610031812
   relation: source
 ---
-The tradition agrees that Christ inherited no original sin and disagrees about
-where the inheritance was cut off.
+Augustine, Aquinas, Calvin and the Larger Catechism agree that Christ
+inherited no original sin, and disagree about where the inheritance was cut
+off. Irving, who gave Christ's flesh the propensities of fallen man, dissents
+from the shared premise
+([[irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830]]).
 
 Augustine puts it in the manner of the conception. Christ was "Begotten and
 conceived, then, without any indulgence of carnal lust, and therefore bringing

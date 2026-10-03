@@ -12,8 +12,8 @@ scripture: false
 csl_json:
   id: '202610031811'
   type: chapter
-  title: Calvin, Institutes II.13 (Christ clothed with the true substance of human
-    nature)
+  title: Institutes of the Christian Religion, Book II, Chapter 13 (Christ Clothed
+    with the True Substance of Human Nature)
   author:
   - family: Calvin
     given: John
@@ -21,10 +21,23 @@ csl_json:
     date-parts:
     - - 1845
   URL: https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html
-chicago_note: John Calvin, Calvin, Institutes II.13 (Christ Clothed with the True
-  Substance of Human Nature) (1845), https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html.
-chicago_bib: Calvin, John. Calvin, Institutes II.13 (Christ Clothed with the True
-  Substance of Human Nature). 1845. https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html.
+  container-title: Institutes of the Christian Religion
+  translator:
+  - family: Beveridge
+    given: Henry
+  publisher: Calvin Translation Society
+  publisher-place: Edinburgh
+  original-date:
+    date-parts:
+    - - 1559
+chicago_note: John Calvin, “Institutes of the Christian Religion, Book II, Chapter
+  13 (Christ Clothed with the True Substance of Human Nature),” in Institutes of the
+  Christian Religion, trans. Henry Beveridge (1559; Calvin Translation Society, 1845),
+  https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html.
+chicago_bib: Calvin, John. “Institutes of the Christian Religion, Book II, Chapter
+  13 (Christ Clothed with the True Substance of Human Nature).” In Institutes of the
+  Christian Religion, translated by Henry Beveridge. 1559; Calvin Translation Society,
+  1845. https://www.ccel.org/ccel/calvin/institutes/institutes.iv.xiv.html.
 citation_renderer: pandoc
 verification:
   method: raw-capture

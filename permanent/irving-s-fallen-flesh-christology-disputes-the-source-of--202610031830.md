@@ -5,8 +5,9 @@ slug: irving-s-fallen-flesh-christology-disputes-the-source-of
 aliases:
 - '202610031830'
 type: permanent
-title: Irving's fallen-flesh Christology disputes the source of Christ's sinlessness,
-  not the fact, and Gregory's maxim does not decide it
+title: Irving gave Christ's flesh the evil propensities of fallen man and credited
+  the Spirit with restraining them, so his dissent concerns Christ's nature, not whether
+  Christ sinned
 created: '2026-10-03'
 updated: '2026-10-03'
 tags: []
@@ -24,14 +25,21 @@ links:
 - target_id: gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807
   relation: source
 ---
-Irving's claim that Christ took fallen flesh is usually heard as a denial of
-Christ's sinlessness. It is not. He held that Christ was holy throughout, and
-stated the dispute as one about source: "Whether Christ's flesh had the grace
+Irving's claim that Christ took fallen flesh is not a denial of Christ's
+sinlessness. He held that Christ was holy throughout, and stated one part of
+the dispute as a question of source: "Whether Christ's flesh had the grace
 of sinlessness and incorruption from its proper nature, or from the indwelling
 of the Holy Ghost. I say the latter." The flesh, "in its proper nature it was
 as the flesh of His mother"; the Spirit kept it sinless. The opposite view he
 called "a virtual denial of His humanity"
 ([[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]).
+
+His dissent goes further than source, though. He would maintain "that Christ's
+flesh was as rebellious as ours, as fallen as ours", and he credits the Holy
+Ghost with "subduing, restraining, conquering, the evil propensities of the
+fallen manhood". On the question of a sin nature, then, Irving is the one
+source on file that puts the inclination itself in Christ's human nature: the
+flesh had it, and the person never yielded to it.
 
 On the source, Irving and Calvin agree: both credit the Spirit. Calvin says
 Christ was pure "because he was sanctified by the Spirit"

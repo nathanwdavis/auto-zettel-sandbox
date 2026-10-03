@@ -12,19 +12,18 @@ scripture: false
 csl_json:
   id: '202610031813'
   type: document
-  title: Pius IX, Ineffabilis Deus (apostolic constitution defining the Immaculate
+  title: Ineffabilis Deus (Apostolic Constitution Defining the Dogma of the Immaculate
     Conception)
   author:
-  - family: IX
-    given: Pius
+  - literal: Pius IX
   issued:
     date-parts:
     - - 1854
   URL: https://www.papalencyclicals.net/pius09/p9ineff.htm
-chicago_note: Pius IX, “Pius IX, Ineffabilis Deus (Apostolic Constitution Defining
-  the Immaculate Conception),” 1854, https://www.papalencyclicals.net/pius09/p9ineff.htm.
-chicago_bib: IX, Pius. “Pius IX, Ineffabilis Deus (Apostolic Constitution Defining
-  the Immaculate Conception).” 1854. https://www.papalencyclicals.net/pius09/p9ineff.htm.
+chicago_note: Pius IX, “Ineffabilis Deus (Apostolic Constitution Defining the Dogma
+  of the Immaculate Conception),” 1854, https://www.papalencyclicals.net/pius09/p9ineff.htm.
+chicago_bib: Pius IX. “Ineffabilis Deus (Apostolic Constitution Defining the Dogma
+  of the Immaculate Conception).” 1854. https://www.papalencyclicals.net/pius09/p9ineff.htm.
 citation_renderer: pandoc
 verification:
   method: raw-capture

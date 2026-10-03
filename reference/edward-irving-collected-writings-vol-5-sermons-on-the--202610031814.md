@@ -12,7 +12,7 @@ scripture: false
 csl_json:
   id: '202610031814'
   type: book
-  title: Edward Irving, Collected Writings, vol. 5 (sermons on the Incarnation)
+  title: The Collected Writings of Edward Irving
   author:
   - family: Irving
     given: Edward
@@ -20,10 +20,16 @@ csl_json:
     date-parts:
     - - 1866
   URL: https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt
-chicago_note: Edward Irving, Edward Irving, Collected Writings, Vol. 5 (Sermons on
-  the Incarnation) (1866), https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt.
-chicago_bib: Irving, Edward. Edward Irving, Collected Writings, Vol. 5 (Sermons on
-  the Incarnation). 1866. https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt.
+  volume: '5'
+  editor:
+  - family: Carlyle
+    given: G.
+  publisher: Alexander Strahan
+  publisher-place: London and New York
+chicago_note: Edward Irving, The Collected Writings of Edward Irving, vol. 5, ed.
+  G. Carlyle (Alexander Strahan, 1866), https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt.
+chicago_bib: Irving, Edward. The Collected Writings of Edward Irving. Vol. 5, edited
+  by G. Carlyle. Alexander Strahan, 1866. https://archive.org/download/collectedwriting05irvi/collectedwriting05irvi_djvu.txt.
 citation_renderer: pandoc
 verification:
   method: raw-capture
