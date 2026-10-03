@@ -4968,3 +4968,11 @@ sweep is on record as evidence of that.
 - **asked_by:** human
 
 Inquiry did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--202610031804 was answered from public-domain primary sources, but the owner's main textbook is not yet on file for this question. Grudem's chapters are copyrighted and reach this base only as owner-supplied Logos exports (as for chs. 12, 13 and 16, reference grudem-systematic-theology--202609050158). If the owner exports the section on the virgin birth (its role in Christ's sinlessness and the Catholic Immaculate Conception), a later run can add a literature note and test whether Grudem sides with Augustine and Aquinas or with Calvin on the mechanism.
+
+## 2026-10-03 — Leads from the sin-as-act / sin-as-nature inquiry (202610032055)
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Not captured this session; each would sharpen a note filed today. (1) The Greek of Romans 5:12, the clause rendered 'in whom/which all have sinned' (Augustine, Trent) and 'for that all have sinned' (KJV), plus a modern exegetical study of it -- note 202610032118 deliberately makes no claim about the Greek. A public-domain or openly licensed Greek NT (e.g. SBLGNT, CC-BY) is the capture to look for; a study must be read before it is cited. (2) The Hebrew of Genesis 8:21 and 4:7, so that the link between the verse's word for the heart's 'imagination' and the rabbinic term yetzer ha-ra can be grounded rather than assumed (note 202610032121 does not assert it). (3) Wider rabbinic sources on the evil inclination (e.g. Genesis Rabbah 34:10, which Rashi cites; Kiddushin 30b; Sukkah 52a), to test whether the two-text Jewish leg of 202610032121 holds. (4) An Eastern Orthodox account of ancestral sin and Pelagius in his own words (the Commentary on Romans), so the act/nature distinction is not heard only from Augustine, Trent and Westminster.

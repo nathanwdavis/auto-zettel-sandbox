@@ -1,0 +1,29 @@
+Verbatim capture for reference 202610032104.
+Sanhedrin 91b, two consecutive segments (Sefaria segments 6-7 of the folio as
+served, counting from 1) -- Antoninus's questions to Rabbi Yehuda HaNasi on when
+the soul is placed in a person and when the evil inclination (yetzer ha-ra)
+takes hold of a person, the second answered from Genesis 4:7. As served by the
+Sefaria API (https://www.sefaria.org/api/texts/Sanhedrin.91b?context=0&pad=0),
+fetched 2026-10-03T21:01:21Z via curl through the session's egress proxy.
+English version: "William Davidson Edition - English" (licence as declared by Sefaria: CC-BY-NC).
+Aramaic/Hebrew version: "William Davidson Edition - Vocalized Aramaic" (licence as declared by Sefaria: CC-BY-NC).
+Markup (bold tags marking the translation's literal words) stripped and
+whitespace normalized; no other change. The other segments of the folio are
+not captured.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English, segment 6) ---
+And Antoninos said to Rabbi Yehuda HaNasi: From when is the soul placed in a person? Is it from the moment of conception or from the moment of the formation of the embryo, forty days after conception? Rabbi Yehuda HaNasi said to him: It is from the moment of the formation of the embryo. Antoninos said to him: That is inconceivable. Is it possible that a piece of meat could stand for even three days without salt as a preservative and would not rot? The embryo could not exist for forty days without a soul. Rather, the soul is placed in man from the moment of conception. Rabbi Yehuda HaNasi said: Antoninos taught me this matter, and there is a verse that supports him, as it is stated: “And Your Providence [pekudatekha] has preserved my spirit” (Job 10:12) indicating that it is from the moment of conception [pekida] that the soul is preserved within a person.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, segment 6) ---
+וְאָמַר לוֹ אַנְטוֹנִינוּס לְרַבִּי: נְשָׁמָה מֵאֵימָתַי נִיתְּנָה בָּאָדָם, מִשְּׁעַת פְּקִידָה אוֹ מִשְּׁעַת יְצִירָה? אָמַר לוֹ: מִשְּׁעַת יְצִירָה. אָמַר לוֹ: אֶפְשָׁר חֲתִיכָה שֶׁל בָּשָׂר עוֹמֶדֶת שְׁלֹשָׁה יָמִים בְּלֹא מֶלַח וְאֵינָהּ מַסְרַחַת? אֶלָּא מִשְּׁעַת פְּקִידָה. אָמַר רַבִּי: דָּבָר זֶה לִמְּדַנִי אַנְטוֹנִינוּס, וּמִקְרָא מְסַיְּיעוֹ שֶׁנֶּאֱמַר ״וּפְקֻדָּתְךָ שָׁמְרָה רוּחִי״.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, segment 7) ---
+And Antoninos said to Rabbi Yehuda HaNasi: From when does the evil inclination dominate a person? Is it from the moment of the formation of the embryo or from the moment of emergence from the womb? Rabbi Yehuda HaNasi said to him: It is from the moment of the formation of the embryo. Antoninos said to him: If so, the evil inclination would cause the fetus to kick his mother’s innards and emerge from the womb. Rather, the evil inclination dominates a person from the moment of emergence from the womb. Rabbi Yehuda HaNasi said: Antoninos taught me this matter, and there is a verse that supports him, as it is stated: “Sin crouches at the entrance” (Genesis 4:7), indicating that it is from the moment of birth, when the newborn emerges from the entrance of his mother’s womb, that the evil inclination lurks.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, segment 7) ---
+וְאָמַר לוֹ אַנְטוֹנִינוּס לְרַבִּי: מֵאֵימָתַי יֵצֶר הָרָע שׁוֹלֵט בָּאָדָם, מִשְּׁעַת יְצִירָה אוֹ מִשְּׁעַת יְצִיאָה? אָמַר לוֹ: מִשְּׁעַת יְצִירָה. אָמַר לוֹ: אִם כֵּן, בּוֹעֵט בִּמְעֵי אִמּוֹ וְיוֹצֵא! אֶלָּא מִשְּׁעַת יְצִיאָה. אָמַר רַבִּי: דָּבָר זֶה לִמְּדַנִי אַנְטוֹנִינוּס, וּמִקְרָא מְסַיְּיעוֹ, שֶׁנֶּאֱמַר: ״לַפֶּתַח חַטָּאת רֹבֵץ״.
+--- END VERBATIM ---
