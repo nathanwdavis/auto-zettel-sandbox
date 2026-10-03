@@ -4960,3 +4960,11 @@ attribution language that was spot-checked resolved either to its capture, to
 another capture in the base (81 spans are simply cited from a reference the
 note does not link directly), or to a translation as above. The 2,452-span
 sweep is on record as evidence of that.
+
+## 2026-10-03 — Source needed: Grudem, Systematic Theology 2nd ed., ch. 26 (The Person of Christ), on the virgin birth and inherited sin
+
+- **status:** new        <!-- new | in-progress | answered | archived -->
+- **priority:** normal
+- **asked_by:** human
+
+Inquiry did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--202610031804 was answered from public-domain primary sources, but the owner's main textbook is not yet on file for this question. Grudem's chapters are copyrighted and reach this base only as owner-supplied Logos exports (as for chs. 12, 13 and 16, reference grudem-systematic-theology--202609050158). If the owner exports the section on the virgin birth (its role in Christ's sinlessness and the Catholic Immaculate Conception), a later run can add a literature note and test whether Grudem sides with Augustine and Aquinas or with Calvin on the mechanism.
