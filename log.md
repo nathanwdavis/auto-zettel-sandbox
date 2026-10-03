@@ -2566,3 +2566,21 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-03T21:12:23Z` lint_skills: PASS
 - `2026-10-03T21:12:25Z` check_skill_sandbox: PASS
 - `2026-10-03T21:12:25Z` remote_cycle: gates PASS
+- `2026-10-03T21:20:34Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=in-progress->answered result_notes=+the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121
+- `2026-10-03T21:20:41Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+the-bible-s-plainest-act-versus-source-passages-make-the--202610032114
+- `2026-10-03T21:20:42Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122
+- `2026-10-03T21:20:43Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115
+- `2026-10-03T21:20:45Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116
+- `2026-10-03T21:20:46Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117
+- `2026-10-03T21:20:47Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118
+- `2026-10-03T21:20:49Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+the-westminster-standards-name-the-two-senses-original-sin--202610032119
+- `2026-10-03T21:20:50Z` capture: inquiry-update what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055 status=answered->answered result_notes=+trent-and-westminster-use-the-same-words-truly-and-properly--202610032120
+- `2026-10-03T21:20:59Z` critic (critic agent dispatched, report applied before finish): every quoted span in the 8 literature and 9 permanent notes machine-checked against the captures (two misses are New Advent anchor-tag artifacts, verified exact in the HTML); no blocking defects. Fixed: Augustine ch. 11 actual/original contrast tied to the "which = the sin" reading only (2111, 2118); 2118 title now gives Trent's "in whom" and no longer says "committed in Adam", and its Westminster inference is marked; 2120 retitled and scoped to Waterworth's 1848 English, Trent's Latin not on file; 2121 limited to Westminster 6.4 for Gen 8:21; 2117 Gen 6:5 grouping error and its generalization fixed; unmarked superlatives in 2114/2122 marked as readings and the 2116 "most passages" sentence dropped; 2122 no longer says Trent argues over Romans 7; minor wording fixes in 2106, 2107, 2109, 2111, 2113, 2119 and the MOC; loose `supports` links to the Westminster/Trent literature notes changed to elaborates or shared-concept. critic: 2106 pass(minor) | 2107 pass(minor) | 2108 pass | 2109 pass(minor) | 2110 pass | 2111 pass(fixed) | 2112 pass | 2113 pass(fixed) | 2114 pass(fixed) | 2115 pass | 2116 pass(fixed) | 2117 pass(fixed) | 2118 pass(fixed) | 2119 pass(minor fixed) | 2120 pass(fixed) | 2121 pass(fixed) | 2122 pass(fixed)
+- `2026-10-03T21:21:00Z` build_manifest: 522 notes indexed
+- `2026-10-03T21:21:18Z` verify_refs: 155/155 verified
+- `2026-10-03T21:21:34Z` lint_citations: PASS
+- `2026-10-03T21:21:35Z` lint_links: PASS
+- `2026-10-03T21:21:35Z` lint_skills: PASS
+- `2026-10-03T21:21:36Z` check_skill_sandbox: PASS
+- `2026-10-03T21:21:36Z` remote_cycle: gates PASS
+- `2026-10-03T21:21:36Z` remote_cycle: finish zettel/run-20261003205557 (skill-rev=17e9f39; lock released after push)

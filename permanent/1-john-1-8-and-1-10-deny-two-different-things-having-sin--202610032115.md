@@ -17,7 +17,7 @@ links:
 - target_id: sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100
   relation: source
 - target_id: the-westminster-confession-derives-all-actual--202610032108
-  relation: supports
+  relation: elaborates
 - target_id: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101
   relation: source
 ---
@@ -36,7 +36,7 @@ are regenerated" (6.5) end with 1 John 1:8, 10
 
 The same letter defines the act, "sin is the transgression of the law" (3:4),
 and says "Whosoever is born of God doth not commit sin" (3:9). On this note's
-reading 3:9 has to be about committing, not having, because 1:8 has already
+reading 3:9 is about committing, not having, because 1:8 has already
 called it self-deception for "we" to say we have no sin. The Confession cites
 3:4 for its claim that every sin, "both original and actual", is a
 transgression of God's law (6.6).

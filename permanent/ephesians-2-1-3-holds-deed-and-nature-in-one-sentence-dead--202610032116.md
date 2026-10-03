@@ -17,16 +17,15 @@ links:
 - target_id: sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100
   relation: source
 - target_id: the-westminster-confession-derives-all-actual--202610032108
-  relation: supports
+  relation: elaborates
 - target_id: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101
   relation: source
 - target_id: the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109
-  relation: supports
+  relation: elaborates
 - target_id: westminster-larger-catechism--202610031812
   relation: source
 ---
-Most of the passages speak of one side or the other. Ephesians 2:1-3 speaks
-of both, in order. Its readers were "dead in trespasses and sins" (2:1) and
+Ephesians 2:1-3 names deeds and a condition in one passage, in order. Its readers were "dead in trespasses and sins" (2:1) and
 walked in them, "fulfilling the desires of the flesh and of the mind" (2:3):
 deeds. The same verse then adds something that is not a deed: they "were by
 nature the children of wrath, even as others" (2:3). In the base's captured
@@ -41,6 +40,6 @@ Catechism uses the phrase in its account of the fall's misery: "we are by
 nature children of wrath" (Q. 27;
 [[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]]).
 
-On this note's reading, "by nature" in Ephesians 2:3 is the nearest the Bible's
-wording comes to the later phrase sin nature, and it is a phrase about standing
+On this note's reading, "by nature" in Ephesians 2:3 is the nearest the
+captured passages' wording comes to the later phrase sin nature, and it is a phrase about standing
 under wrath, not a description of an inner mechanism.

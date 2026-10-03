@@ -972,8 +972,18 @@
       "path": "inquiries/what-passages-in-the-bible-distinguish-between-sin-as-an--202610032055.md",
       "priority": "normal",
       "question": "What passages in the Bible distinguish between sin as an act versus the sin nature that humans are born with?",
-      "result_notes": [],
-      "status": "in-progress",
+      "result_notes": [
+        "1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115",
+        "ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116",
+        "in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122",
+        "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118",
+        "the-bible-s-plainest-act-versus-source-passages-make-the--202610032114",
+        "the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117",
+        "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121",
+        "the-westminster-standards-name-the-two-senses-original-sin--202610032119",
+        "trent-and-westminster-use-the-same-words-truly-and-properly--202610032120"
+      ],
+      "status": "answered",
       "updated": "2026-10-03"
     }
   ],
@@ -992,7 +1002,7 @@
           "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
@@ -3739,7 +3749,7 @@
           "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109"
         },
         {
@@ -3747,7 +3757,7 @@
           "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
@@ -5442,7 +5452,7 @@
           "target_id": "the-new-testament-passages-derive-sinful-deeds-from-a--202610032107"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
@@ -8173,7 +8183,7 @@
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110"
         },
         {
@@ -8184,7 +8194,7 @@
       "path": "permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md",
       "slug": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in",
       "tags": [],
-      "title": "Romans 5:12's last clause reads 'in which all have sinned' in Augustine and Trent and 'for that all have sinned' in the KJV, and only the first makes the clause itself name a sin all committed in Adam",
+      "title": "Romans 5:12's last clause reads 'in which' or 'in whom all have sinned' in Augustine and Trent and 'for that all have sinned' in the KJV, and only the first form makes the clause itself place all men's sinning in Adam or his sin",
       "type": "permanent",
       "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md"
@@ -9074,7 +9084,7 @@
           "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
         },
         {
-          "relation": "supports",
+          "relation": "elaborates",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
@@ -10863,7 +10873,7 @@
           "target_id": "the-old-testament-passages-place-sinfulness-at-conception--202610032106"
         },
         {
-          "relation": "supports",
+          "relation": "shared-concept",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
         },
         {
@@ -10874,7 +10884,7 @@
       "path": "permanent/the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117.md",
       "slug": "the-old-testament-speaks-of-sinfulness-from-the-womb-in",
       "tags": [],
-      "title": "The Old Testament speaks of sinfulness from the womb in psalms, wisdom and prophecy, and of answering only for one's own sin in law and Ezekiel, and Westminster's proofs for inherited corruption come only from the first",
+      "title": "The Old Testament puts sinfulness at the womb in its psalms, Job and Isaiah and makes each answer for his own sin in Deuteronomy and Ezekiel, and Westminster's chapter on the fall cites the first group and not the second",
       "type": "permanent",
       "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117.md"
@@ -12609,7 +12619,7 @@
       "path": "permanent/trent-and-westminster-use-the-same-words-truly-and-properly--202610032120.md",
       "slug": "trent-and-westminster-use-the-same-words-truly-and-properly",
       "tags": [],
-      "title": "Trent and Westminster use the same words, truly and properly sin, for the corruption left after regeneration, Trent to deny that it is and Westminster to affirm it",
+      "title": "In Waterworth's English, Trent and Westminster use the same words, truly and properly sin, for what remains in the reborn, Trent denying them of concupiscence and Westminster affirming them of the corruption of nature",
       "type": "permanent",
       "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/trent-and-westminster-use-the-same-words-truly-and-properly--202610032120.md"
@@ -13181,7 +13191,7 @@
       "path": "reference/westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101.md",
       "slug": "westminster-confession-of-faith-ch-6-of-the-fall-of-man-of",
       "tags": [],
-      "title": "Westminster Confession of Faith, ch. 6 (Of the Fall of Man, of Sin, and of the Punishment Thereof), with the Assembly's proof texts",
+      "title": "Westminster Confession of Faith, ch. 6 (Of the Fall of Man, of Sin, and of the Punishment Thereof), with proof texts as printed by A Puritan's Mind",
       "type": "reference",
       "updated": "2026-10-03",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101.md"

@@ -26,7 +26,8 @@ stirring; on that reading, in the Silbermann translation, "from the moment the
 embryo bestirs itself to have an independent existence the evil inclination is
 given to it". The Hebrew is more concrete: from when it stirs to come out of
 its mother's womb (לָצֵאת מִמְּעֵי אִמּוֹ), the evil inclination (יֵצֶר הָרָע)
-is given in it. He gives Genesis Rabbah 34:10 as his source.
+is given in it. The English translation adds a reference to Genesis Rabbah 34:10; the Hebrew
+comment as captured names no source.
 
 So Rashi reads the verse as fixing the start of the evil inclination at birth.
 He speaks of an inclination given, not of a sin committed or a guilt

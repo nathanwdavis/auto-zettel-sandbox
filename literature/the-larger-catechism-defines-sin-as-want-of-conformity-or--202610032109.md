@@ -23,11 +23,14 @@ of, any law of God". The first part names a lack, a failure to be what the law
 requires; the second names a breach, something done against it.
 
 Q. 25 lists what makes the fallen estate sinful: the guilt of Adam's first sin,
-the want of original righteousness, and "the corruption of his nature", by
-which man is disabled for good and "wholly inclined to all evil, and that
-continually". This, the answer says, "is commonly called original sin, and from
-which do proceed all actual transgressions". The first three items are the
-condition; the actual transgressions are what come out of it.
+the want of "that righteousness wherein he was created", and "the corruption of
+his nature", by which man is "utterly indisposed, disabled, and made opposite
+unto all that is spiritually good, and wholly inclined to all evil, and that
+continually". The answer goes on, "which is commonly called original sin, and
+from which do proceed all actual transgressions". On this note's reading the
+relative clause attaches to the corruption of nature, though it can be read as
+naming all three items; either way the three describe the estate, and the
+actual transgressions are what come out of it.
 
 Q. 26 says original sin is conveyed "by natural generation, so as all that
 proceed from them in that way are conceived and born in sin".

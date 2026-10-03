@@ -23,7 +23,7 @@ Own-words summary of the New Testament passages in [[sin-as-act-and-sin-as-indwe
 Source and product. Jesus uses the tree: "a corrupt tree bringeth forth evil
 fruit", and "A good tree cannot bring forth evil fruit, neither can a corrupt
 tree bring forth good fruit" (Matt 7:17-18); "make the tree corrupt, and his
-fruit corrupt: for the tree is known by his fruit" (Matt 12:33), glossed as
+fruit corrupt: for the tree is known by his fruit" (Matt 12:33), followed by
 "out of the abundance of the heart the mouth speaketh" (12:34). The heart is
 the source of the acts: "out of the heart proceed evil thoughts, murders,
 adulteries, fornications, thefts, false witness, blasphemies" (Matt 15:19).
@@ -61,8 +61,8 @@ and death by sin; and so death passed upon all men, for that all have sinned".
 Though "sin is not imputed when there is no law" (5:13), death reigned "even
 over them that had not sinned after the similitude of Adam's transgression"
 (5:14). Adam's
-act is "the offence" (5:15, 17, 18), and "by one man's disobedience many were
-made sinners" (5:19). "as in Adam all die" (1 Cor 15:22); "all have sinned"
+act is "the offence" (5:15, 18) and "one man's offence" (5:17), and "by one
+man's disobedience many were made sinners" (5:19). "as in Adam all die" (1 Cor 15:22); "all have sinned"
 (Rom 3:23).
 
 Both in one sentence. Ephesians 2 calls its readers "dead in trespasses and

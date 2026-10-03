@@ -19,12 +19,12 @@ links:
 - target_id: the-old-testament-passages-place-sinfulness-at-conception--202610032106
   relation: elaborates
 - target_id: the-westminster-confession-derives-all-actual--202610032108
-  relation: supports
+  relation: elaborates
 - target_id: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101
   relation: source
 ---
-The passages that most plainly separate sin done from sin as a condition use
-one figure, source and product, in four forms.
+On this note's reading, the passages that most plainly separate sin done from
+sin as a condition use one figure, source and product, in four forms.
 
 The tree and its fruit: "a corrupt tree bringeth forth evil fruit" (Matt
 7:17), and "the tree is known by his fruit" (Matt 12:33). The heart and what

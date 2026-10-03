@@ -5,8 +5,9 @@ slug: trent-and-westminster-use-the-same-words-truly-and-properly
 aliases:
 - '202610032120'
 type: permanent
-title: Trent and Westminster use the same words, truly and properly sin, for the corruption
-  left after regeneration, Trent to deny that it is and Westminster to affirm it
+title: In Waterworth's English, Trent and Westminster use the same words, truly and
+  properly sin, for what remains in the reborn, Trent denying them of concupiscence
+  and Westminster affirming them of the corruption of nature
 created: '2026-10-03'
 updated: '2026-10-03'
 tags: []
@@ -22,9 +23,10 @@ links:
 - target_id: christ-shared-the-penalties-of-the-fall-but-not-its--202610031827
   relation: shared-concept
 ---
-Both traditions agree that something of the fallen condition outlasts baptism
-or regeneration and that Paul calls it sin. They divide over whether it is sin
-in the full sense, and the two documents state the division in the same words.
+Both documents hold that something remains in the reborn, which Trent calls
+concupiscence and Westminster the corruption of nature, and both take Paul to
+call it sin. They divide over whether it is sin in the full sense, and in the
+English captured here they state the division in the same words.
 
 Trent's fifth session (June 1546) says that in the baptized "there remains
 concupiscence, or an incentive (to sin)", that it "cannot injure those who
@@ -49,5 +51,8 @@ meet the same line from another side: Irving gave Christ's flesh the disordered
 inclination and drew the line at consent
 ([[christ-shared-the-penalties-of-the-fall-but-not-its--202610031827]]).
 
-The shared phrase is a fact of the two texts. Whether the Westminster Assembly
-wrote 6.5 with Trent's decree in view is not shown by them.
+The Trent capture is J. Waterworth's English translation of 1848, two centuries
+after the Confession, and the decree's Latin is not on file. The shared phrase
+is therefore a fact of the two English texts as captured. Whether the Latin
+reads the same way, and whether the Westminster Assembly wrote 6.5 with Trent's
+decree in view, are not shown by them.

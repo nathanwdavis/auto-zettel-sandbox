@@ -1015,17 +1015,17 @@ Catechism (already held, QQ. 24-27), Trent's decree on original sin, Augustine's
 [[rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113]].
 
 - [[the-bible-s-plainest-act-versus-source-passages-make-the--202610032114]] — tree and fruit (Matt 7, 12), heart and what proceeds from it (Matt 15:19), flesh and its works (Gal 5), lust conceiving sin (Jas 1:14-15): the deed is always the second term. Westminster 6.4 cites Matthew 15:19 and James 1:14-15, with Ephesians 2:2-3, for actual transgressions proceeding from original corruption.
-- [[in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122]] — sin enters, reigns and dwells, and in Romans 7 "it is no more I that do it, but sin that dwelleth in me". The passage both confessional traditions argue over.
+- [[in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122]] — sin enters, reigns and dwells, and in Romans 7 "it is no more I that do it, but sin that dwelleth in me". Westminster cites Romans 7 for the corruption that remains; Trent's unnamed reference to what "the apostle sometimes calls sin" may point here.
 - [[1-john-1-8-and-1-10-deny-two-different-things-having-sin--202610032115]] — "we have no sin" and "we have not sinned" are two different denials; Westminster cites both for the corruption left in the regenerate.
 - [[ephesians-2-1-3-holds-deed-and-nature-in-one-sentence-dead--202610032116]] — "dead in trespasses and sins" and "by nature the children of wrath" in one passage, the only place in the set where the word nature appears.
-- [[the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117]] — Psalms 51 and 58, Job, Isaiah 48 and Genesis 8:21 put sinfulness at birth; Deuteronomy 24:16 and Ezekiel 18:20 make liability personal. Westminster's chapter on the fall cites the first group and not the second.
-- [[romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118]] — Augustine and Trent read "in which (whom) all have sinned", the KJV "for that all have sinned"; Augustine's actual/original distinction is built on his form of the clause.
+- [[the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117]] — Psalms 51 and 58, Job 15 and Isaiah 48 put sinfulness at the womb or birth, Genesis 8:21 at youth; Deuteronomy 24:16 and Ezekiel 18:20 make liability personal. Westminster's chapter on the fall cites the first group and not the second.
+- [[romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118]] — Augustine reads "in which all have sinned" and Trent "in whom all have sinned", the KJV "for that all have sinned"; Augustine's actual/original distinction is built on his form of the clause.
 - [[the-westminster-standards-name-the-two-senses-original-sin--202610032119]] — the confessional terms are original sin and actual transgressions, sin is a want of conformity as well as a transgression, and "sin nature" is not their phrase.
-- [[trent-and-westminster-use-the-same-words-truly-and-properly--202610032120]] — the corruption left after baptism or regeneration is "truly and properly sin" for Westminster and not so for Trent, in the same words.
-- [[the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121]] — Sanhedrin 91b and Rashi date the evil inclination to birth from Genesis 4:7 and 8:21 and speak of no guilt; Westminster cites Genesis 8:21 for a corruption that is itself sin.
+- [[trent-and-westminster-use-the-same-words-truly-and-properly--202610032120]] — in Waterworth's 1848 English of Trent, what remains in the reborn is "truly and properly sin" for Westminster and not so for Trent, in the same words. Trent's Latin is not on file.
+- [[the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121]] — Sanhedrin 91b and Rashi date the evil inclination to birth from Genesis 4:7 and 8:21 and speak of no guilt; Westminster cites Genesis 8:21 for the inclination to all evil (6.4), part of a corruption it counts as sin.
 
 Boundaries. The Greek of Romans 5:12 (the clause behind "in whom" and "for
-that") and of Romans 7 is not captured, nor any modern exegetical study of
+that") and of Romans 7 is not captured, nor the Latin of Trent's decree, nor any modern exegetical study of
 either. The Eastern Orthodox account of ancestral sin, Pelagius in his own
 words, and the wider rabbinic literature on the evil inclination are not on
 file; the Jewish leg rests on two texts.

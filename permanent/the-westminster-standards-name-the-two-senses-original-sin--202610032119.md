@@ -33,11 +33,12 @@ The confessional vocabulary for the distinction is original and actual. The
 Larger Catechism defines sin as "any want of conformity unto, or transgression
 of, any law of God" (Q. 24): a lack, a failure to be what the law requires, as
 well as a breach of it. The sinfulness of the fallen estate is the guilt of
-Adam's first sin, the want of original righteousness, and "the corruption of
-his nature", which together are "commonly called original sin, and from which
-do proceed all actual transgressions" (Q. 25;
+Adam's first sin, the want of "that righteousness wherein he was created", and
+"the corruption of his nature", "which is commonly called original sin, and
+from which do proceed all actual transgressions" (Q. 25;
 [[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]]).
-The Confession says the same in its own words, "From this original corruption"
+Whether "which" names the corruption alone or all three items is open; the
+actual transgressions proceed from it either way. The Confession says the same in its own words, "From this original corruption"
 there "do proceed all actual transgressions", and treats "Every sin, both
 original and actual" as a transgression bringing guilt (6.4, 6.6;
 [[the-westminster-confession-derives-all-actual--202610032108]]).
@@ -48,7 +49,7 @@ part of it, which is how the base's Christological notes found the wider
 tradition counting sin
 ([[the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826]]).
 
-Scripture supplies the materials but not these terms. Its passages speak of
+The captured passages supply the materials but not these terms. They speak of
 womb, heart, flesh, desire and indwelling sin on one side, and of doing,
 transgressing and committing on the other
 ([[the-old-testament-passages-place-sinfulness-at-conception--202610032106]];

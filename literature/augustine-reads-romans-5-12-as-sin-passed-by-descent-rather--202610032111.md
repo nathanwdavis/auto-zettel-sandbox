@@ -32,11 +32,14 @@ they choose; and another thing as the progenitor of all who are born with sin"
 (ch. 10).
 
 Chapter 11 is headed "Distinction Between Actual and Original Sin". Augustine's
-text of the clause is "In which all have sinned". Whether "which" is taken as
-the sin or as the one man, the clause separates two things: "the sins which are
-peculiar to every man, which they themselves commit and which belong simply to
-them, mean one thing; and that the one sin, in and by which all have sinned,
-means another thing; since all were that one man".
+text of the clause is "In which all have sinned", and he allows "which" to be
+either the sin or the one man. Taking it as the sin, he draws the distinction:
+"the sins which are peculiar to every man, which they themselves commit and
+which belong simply to them, mean one thing; and that the one sin, in and by
+which all have sinned, means another thing; since all were that one man".
+Taking it as the one man, he argues instead against imitation: Scripture speaks
+of being justified in Christ, but nowhere of anyone sinning "in the devil",
+although the wicked imitate him.
 
 Chapters 12-13 carry the distinction through Romans 5:13-14. Under the law of
 nature, "every man when arrived at years of discretion only proceeds to add his
@@ -44,4 +47,4 @@ own sins to original sin" (ch. 12). Those who "had not sinned after the
 similitude of Adam's transgression" are those "who had not yet sinned of their
 own individual will, as Adam did, but had drawn from him original sin" (ch. 13).
 He notes that some Latin copies drop the "not" in 5:14, but says the Greek
-copies have it.
+copies have it "without exception or nearly so".

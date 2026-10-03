@@ -42,19 +42,20 @@ child stirs to leave the womb, when "the evil inclination is given to it"
 
 Both verses are in the base's Christian set as well. The Westminster
 Confession cites Gen 8:21 for fallen man's being "wholly inclined to all evil"
-(6.4; [[the-westminster-confession-derives-all-actual--202610032108]]). In the
-KJV, Genesis 4:7 pictures sin as something lying at the door, desiring Cain,
-which he is to rule
+(6.4; [[the-westminster-confession-derives-all-actual--202610032108]]). On the
+reading taken in the literature note, Genesis 4:7 in the KJV pictures sin as
+something lying at the door, desiring Cain, which he is to rule
 ([[the-old-testament-passages-place-sinfulness-at-conception--202610032106]]).
 
 The difference is in what the inborn thing is and what follows from it. The two
 rabbinic passages speak of an inclination that is given and that rules or
 lurks; neither speaks of guilt, of inheritance from Adam, or of a sin already
 counted against the newborn, and in Sanhedrin 91b the only question is when it
-begins. The Westminster Confession, citing the same Genesis 8:21, holds that
-Adam's guilt is imputed (6.3) and that the corruption itself is "truly and
-properly sin" (6.5). One verse thus supports an inborn inclination that a
-person must master and an inborn corruption that is itself sin. Compare the
+begins. The Westminster Confession cites Genesis 8:21 only at 6.4, for being "wholly
+inclined to all evil"; the original corruption that inclination belongs to is
+the one the chapter elsewhere calls "truly and properly sin" (6.5). Genesis
+8:21 thus carries, for Rashi, an evil inclination given at birth, and for the
+Confession, part of a corruption it counts as sin. Compare the
 Old Testament's own two groups in
 [[the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117]].
 

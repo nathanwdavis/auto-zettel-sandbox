@@ -26,10 +26,10 @@ Sinfulness before any deed, placed at conception, birth and youth. The psalmist
 was "shapen in iniquity; and in sin did my mother conceive me" (Ps 51:5). "The
 wicked are estranged from the womb" (Ps 58:3), and in the same verse the deeds
 follow the condition: "they go astray as soon as they be born, speaking lies".
-Israel "wast called a transgressor from the womb" (Isa 48:8). Job ties
-uncleanness to being born: "Who can bring a clean thing out of an unclean? not
-one" (Job 14:4), and "he which is born of a woman, that he should be
-righteous?" (Job 15:14).
+The one addressed in Isaiah 48 "wast called a transgressor from the womb" (Isa
+48:8). Job asks "Who can bring a clean thing out of an unclean? not one" (Job
+14:4), and ties not being righteous to being born: "he which is born of a
+woman, that he should be righteous?" (Job 15:14).
 
 The heart as a standing disposition. Before the flood "every imagination of the
 thoughts of his heart was only evil continually" (Gen 6:5); after it, God gives
@@ -40,8 +40,10 @@ lists deeds; they describe what the heart is like.
 
 Sin as something other than the deed. To Cain: "if thou doest not well, sin
 lieth at the door. And unto thee shall be his desire, and thou shalt rule over
-him" (Gen 4:7). Doing well or not is Cain's act; sin is pictured as a thing
-crouching outside him, wanting him, which he is told to master.
+him" (Gen 4:7). Doing well or not is Cain's act. On this note's reading, which
+takes "his desire" and "rule over him" to refer to sin, sin is pictured as
+something lying at the door outside him, wanting him, which he is told to
+master.
 
 Acts, universal and individually answerable. Ecclesiastes states the
 universality of sinning as something done: "there is not a just man upon

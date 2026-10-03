@@ -5,9 +5,9 @@ slug: romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in
 aliases:
 - '202610032118'
 type: permanent
-title: Romans 5:12's last clause reads 'in which all have sinned' in Augustine and
-  Trent and 'for that all have sinned' in the KJV, and only the first makes the clause
-  itself name a sin all committed in Adam
+title: Romans 5:12's last clause reads 'in which' or 'in whom all have sinned' in
+  Augustine and Trent and 'for that all have sinned' in the KJV, and only the first
+  form makes the clause itself place all men's sinning in Adam or his sin
 created: '2026-10-03'
 updated: '2026-10-03'
 tags: []
@@ -17,7 +17,7 @@ links:
 - target_id: augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103
   relation: source
 - target_id: trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110
-  relation: supports
+  relation: elaborates
 - target_id: council-of-trent-session-v-decree-concerning-original-sin--202610032102
   relation: source
 - target_id: the-new-testament-passages-derive-sinful-deeds-from-a--202610032107
@@ -29,14 +29,15 @@ links:
 - target_id: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101
   relation: source
 ---
-Romans 5:12 is the verse both Augustine and Trent rest original sin on, and
-its last clause comes in two forms in the base's captures.
+Romans 5:12 is a verse both Augustine and Trent cite for original sin, and its
+last clause comes in two forms in the base's captures.
 
 Augustine's text reads "in which all have sinned", and he builds his
-distinction between actual and original sin on it. Whether "which" means the
-sin or Adam, "the sins which are peculiar to every man, which they themselves
-commit" are one thing and "the one sin, in and by which all have sinned" is
-another
+distinction between actual and original sin on it. Taking "which" as the sin,
+"the sins which are peculiar to every man, which they themselves commit" are
+one thing and "the one sin, in and by which all have sinned" is another; taking
+it as Adam, he argues that no one is ever said to sin "in the devil", whom
+sinners imitate, so the clause is not about imitation
 ([[augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111]]).
 Trent quotes the verse in the same form, "in whom all have sinned", for the
 claim that Adam passed on sin and not only death
@@ -54,7 +55,8 @@ as Adam did, but had drawn from him original sin".
 
 The Westminster Confession, which does not quote the verse, cites Rom 5:12,
 15-19 for the imputation of Adam's guilt (6.3;
-[[the-westminster-confession-derives-all-actual--202610032108]]), so a reader
-of the verse need not take it in Augustine's form to find original guilt in the
-passage. The Greek wording behind both translations is not captured in this
+[[the-westminster-confession-derives-all-actual--202610032108]]). The capture
+does not show which wording of the clause the Assembly read, so it does not
+settle whether the Confession finds original guilt in the clause itself or in
+5:15-19. The Greek wording behind both translations is not captured in this
 base.
