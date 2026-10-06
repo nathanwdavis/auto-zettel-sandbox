@@ -2640,3 +2640,10 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-06T16:12:10Z` remote_cycle: gates PASS
 - `2026-10-06T16:34:00Z` steps 8-10 (gates, manifest, statuses): gates PASS (verify_refs 162/162 offline as CI runs it, manifest current at 540 notes, lint_citations, lint_links, lint_skills, check_skill_sandbox all clean; git status checked after, no pre-existing reference touched). Inquiry what-does-the-greek-of-romans-5-12-say-in-its-last-clause--202610061603 answered with four permanent notes; the two in-progress inquiries (202609182341, 202609182342) unchanged and still blocked as recorded on 2026-09-21. INBOX: the 2026-10-03 leads entry moved new -> in-progress with items (1)-(3) closed and (4) open plus new leads; the 2026-09-15 Rumsfeld entry carries the globalsecurity.org licence-demand finding; the 2026-09-21 HUMAN RULING entry carries the unmerged skill-smith patch. Net: repository 522 -> 540 notes (seven references with captures, seven literature notes, four permanent notes, one inquiry), two permanent notes amended, one MOC subsection. Handoff on the session-designated branch claude/jolly-davinci-1n8dxt per this session's branch requirement; lock zettel/run-20261006154005 released by abort below. No PR opened by this session.
 - `2026-10-06T16:12:34Z` remote_cycle: lock released
+- `2026-10-06T16:12:59Z` verify_refs: 162/162 verified
+- `2026-10-06T16:13:19Z` lint_citations: PASS
+- `2026-10-06T16:13:20Z` lint_links: PASS
+- `2026-10-06T16:13:20Z` lint_skills: PASS
+- `2026-10-06T16:13:22Z` check_skill_sandbox: PASS
+- `2026-10-06T16:13:22Z` remote_cycle: gates PASS
+- `2026-10-06T16:13:35Z` note on this cycle's log: the hand-written step lines (step 2 through steps 8-10) carry estimated timestamps from 16:05Z to 16:34Z that run ahead of the clock; the machine-written lines around them (capture, verify_refs, gates, lock released at 16:12:34Z) are the accurate times. The step lines are left as written, since log.md is append-only.
