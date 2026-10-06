@@ -2651,3 +2651,11 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-06T15:58:58Z` lint_skills: PASS
 - `2026-10-06T15:59:14Z` skill-smith: proposed capture-verification (patch, 202610061551)
 - `2026-10-06T15:59:29Z` check_skill_sandbox: PASS
+- `2026-10-06T16:22:48Z` check_skill_sandbox: PASS
+- `2026-10-06T16:22:48Z` lint_skills: PASS
+- `2026-10-06T16:27:11Z` verify_refs: 162/162 verified
+- `2026-10-06T16:27:33Z` lint_citations: PASS
+- `2026-10-06T16:27:34Z` lint_links: PASS
+- `2026-10-06T16:27:34Z` lint_skills: PASS
+- `2026-10-06T16:27:35Z` check_skill_sandbox: PASS
+- `2026-10-06T16:27:35Z` remote_cycle: gates PASS
