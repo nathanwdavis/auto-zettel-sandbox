@@ -3946,5 +3946,112 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "URL": "https://archive.org/details/criticalexegetic00sandrich",
+    "author": [
+      {
+        "family": "Sanday",
+        "given": "William"
+      },
+      {
+        "family": "Headlam",
+        "given": "Arthur C."
+      }
+    ],
+    "collection-title": "International Critical Commentary",
+    "edition": "10",
+    "id": "202610061546",
+    "issued": {
+      "date-parts": [
+        [
+          1905
+        ]
+      ]
+    },
+    "publisher": "Charles Scribner's Sons",
+    "publisher-place": "New York",
+    "title": "A Critical and Exegetical Commentary on the Epistle to the Romans",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.sefaria.org/Bereshit_Rabbah.34.10",
+    "container-title": "Midrash Rabbah",
+    "id": "202610061548",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Bereshit Rabbah 34:10",
+    "translator": [
+      {
+        "literal": "The Sefaria Midrash Rabbah"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Kiddushin.30b",
+    "container-title": "Talmud Bavli, The William Davidson Edition",
+    "id": "202610061549",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Kiddushin 30b",
+    "translator": [
+      {
+        "literal": "The William Davidson Talmud (Koren-Steinsaltz)"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Sukkah.52a",
+    "container-title": "Talmud Bavli, The William Davidson Edition",
+    "id": "202610061550",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Sukkah 52a-52b",
+    "translator": [
+      {
+        "literal": "The William Davidson Talmud (Koren-Steinsaltz)"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.sefaria.org/Shabbat.146a",
+    "container-title": "Talmud Bavli, The William Davidson Edition",
+    "id": "202610061551",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Sefaria",
+    "title": "Shabbat 145b-146a",
+    "translator": [
+      {
+        "literal": "The William Davidson Talmud (Koren-Steinsaltz)"
+      }
+    ],
+    "type": "chapter"
   }
 ]

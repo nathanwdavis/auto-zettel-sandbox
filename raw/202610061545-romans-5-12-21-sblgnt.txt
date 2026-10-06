@@ -1,0 +1,30 @@
+Verbatim capture for reference 202610061545 (scripture, FR-9).
+Romans 5:12-21 in Greek, The Greek New Testament: SBL Edition (SBLGNT), ed.
+Michael W. Holmes (Society of Biblical Literature and Logos Bible Software,
+2010). Licence as declared in the publisher's repository README: Creative
+Commons Attribution 4.0 International (CC BY 4.0), "Copyright 2010 by the
+Society of Biblical Literature and Logos Bible Software".
+Served as the plain-text data file of the LogosBible/SBLGNT GitHub repository
+(https://raw.githubusercontent.com/LogosBible/SBLGNT/master/data/sblgnt/text/Rom.txt),
+fetched 2026-10-06T15:41:33Z via curl through the session's egress proxy;
+licence read from README.md in the same repository, fetched 2026-10-06T15:42:31Z.
+Extent: the ten lines Rom 5:12 to Rom 5:21 of that file, exactly as served
+(verse label, a tab, the verse text; the edition's critical signs such as
+the superscript sigla are part of the served text and kept). Nothing else
+of the file is captured. Note on the clause this capture was taken for: in
+5:12 the text reads εφ followed by U+02BC MODIFIER LETTER APOSTROPHE and
+then ᾧ, as served.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (Greek, Rom 5:12-21, SBLGNT) ---
+Rom 5:12	Διὰ τοῦτο ὥσπερ διʼ ἑνὸς ἀνθρώπου ἡ ἁμαρτία εἰς τὸν κόσμον εἰσῆλθεν καὶ διὰ τῆς ἁμαρτίας ὁ θάνατος, καὶ οὕτως εἰς πάντας ἀνθρώπους ὁ θάνατος διῆλθεν ἐφʼ ᾧ πάντες ἥμαρτον—
+Rom 5:13	ἄχρι γὰρ νόμου ἁμαρτία ἦν ἐν κόσμῳ, ἁμαρτία δὲ οὐκ ἐλλογεῖται μὴ ὄντος νόμου,
+Rom 5:14	ἀλλὰ ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ μέχρι Μωϋσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδάμ, ὅς ἐστιν τύπος τοῦ μέλλοντος.
+Rom 5:15	Ἀλλʼ οὐχ ὡς τὸ παράπτωμα, οὕτως καὶ τὸ χάρισμα· εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι οἱ πολλοὶ ἀπέθανον, πολλῷ μᾶλλον ἡ χάρις τοῦ θεοῦ καὶ ἡ δωρεὰ ἐν χάριτι τῇ τοῦ ἑνὸς ἀνθρώπου Ἰησοῦ Χριστοῦ εἰς τοὺς πολλοὺς ἐπερίσσευσεν.
+Rom 5:16	καὶ οὐχ ὡς διʼ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα.
+Rom 5:17	εἰ γὰρ τῷ τοῦ ἑνὸς παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ τοῦ ἑνός, πολλῷ μᾶλλον οἱ τὴν περισσείαν τῆς χάριτος καὶ τῆς δωρεᾶς τῆς δικαιοσύνης λαμβάνοντες ἐν ζωῇ βασιλεύσουσιν διὰ τοῦ ἑνὸς Ἰησοῦ Χριστοῦ.
+Rom 5:18	Ἄρα οὖν ὡς διʼ ἑνὸς παραπτώματος εἰς πάντας ἀνθρώπους εἰς κατάκριμα, οὕτως καὶ διʼ ἑνὸς δικαιώματος εἰς πάντας ἀνθρώπους εἰς δικαίωσιν ζωῆς·
+Rom 5:19	ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί, οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί.
+Rom 5:20	νόμος δὲ παρεισῆλθεν ἵνα πλεονάσῃ τὸ παράπτωμα· οὗ δὲ ἐπλεόνασεν ἡ ἁμαρτία, ὑπερεπερίσσευσεν ἡ χάρις,
+Rom 5:21	ἵνα ὥσπερ ἐβασίλευσεν ἡ ἁμαρτία ἐν τῷ θανάτῳ, οὕτως καὶ ἡ χάρις βασιλεύσῃ διὰ δικαιοσύνης εἰς ζωὴν αἰώνιον διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.
+--- END VERBATIM ---

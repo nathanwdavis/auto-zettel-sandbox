@@ -1,0 +1,49 @@
+Verbatim capture for reference 202610061550.
+Sukkah 52a, segments 4 and 7 (Rabbi Yehuda: God will slaughter the evil
+inclination at the end of days; the seven names of the evil inclination, the
+first given by God from Genesis 8:21), and Sukkah 52b, segments 7 and 8 (the
+four creations God regrets, the evil inclination among them).
+As served by the Sefaria API (https://www.sefaria.org/api/texts/Sukkah.52a?context=0&pad=0 and
+.../Sukkah.52b?context=0&pad=0),
+fetched 2026-10-06T15:41:33Z (52a) and 2026-10-06T15:42:30Z (52b) via curl through the session's egress proxy.
+English version: "William Davidson Edition - English" (licence as declared by Sefaria: CC-BY-NC).
+Aramaic/Hebrew version: "William Davidson Edition - Vocalized Aramaic" (licence as declared by Sefaria: CC-BY-NC).
+Markup (bold tags marking the translation's literal words) stripped and
+whitespace normalized; no other change. Segments are numbered
+from 1 within each amud as served. Segment 52b.8 carries the translation's
+gloss on the four creations whole, including its remarks on the Ishmaelites;
+it is kept whole because a capture is a record, and the notes cite only the
+clause on the evil inclination. No other segment of either amud is captured.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English, Sukkah 52a segment 4) ---
+The Gemara answers: This can be understood as Rabbi Yehuda taught: In the future, at the end of days, God will bring the evil inclination and slaughter it in the presence of the righteous and in the presence of the wicked. For the righteous the evil inclination appears to them as a high mountain, and for the wicked it appears to them as a mere strand of hair. These weep and those weep. The righteous weep and say: How were we able to overcome so high a mountain? And the wicked weep and say: How were we unable to overcome this strand of hair? And even the Holy One, Blessed be He, will wonder with them, as it is stated with regard to the eulogy: “So says the Lord of hosts: If it be wondrous in the eyes of the remnant of this people in those days, it should also be wondrous in My eyes” (Zechariah 8:6).
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Sukkah 52a segment 4) ---
+כִּדְדָרֵשׁ רַבִּי יְהוּדָה: לֶעָתִיד לָבֹא, מְבִיאוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְיֵצֶר הָרָע, וְשׁוֹחֲטוֹ בִּפְנֵי הַצַּדִּיקִים וּבִפְנֵי הָרְשָׁעִים. צַדִּיקִים נִדְמֶה לָהֶם כְּהַר גָּבוֹהַּ, וּרְשָׁעִים נִדְמֶה לָהֶם כְּחוּט הַשַּׂעֲרָה. הַלָּלוּ בּוֹכִין וְהַלָּלוּ בּוֹכִין. צַדִּיקִים בּוֹכִין וְאוֹמְרִים: הֵיאַךְ יָכוֹלְנוּ לִכְבּוֹשׁ הַר גָּבוֹהַּ כָּזֶה! וּרְשָׁעִים בּוֹכִין וְאוֹמְרִים: הֵיאַךְ לֹא יָכוֹלְנוּ לִכְבּוֹשׁ אֶת חוּט הַשַּׂעֲרָה הַזֶּה! וְאַף הַקָּדוֹשׁ בָּרוּךְ הוּא תָּמֵהַּ עִמָּהֶם, שֶׁנֶּאֱמַר: ״כֹּה אָמַר ה׳ צְבָאוֹת כִּי יִפָּלֵא בְּעֵינֵי שְׁאֵרִית הָעָם הַזֶּה בַּיָּמִים הָהֵם גַּם בְּעֵינַי יִפָּלֵא״.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Sukkah 52a segment 7) ---
+§ Rabbi Avira, and some say Rabbi Yehoshua ben Levi, taught: The evil inclination has seven names. The Holy One, Blessed be He, called it evil, as it is stated: “For the inclination of a man’s heart is evil from his youth” (Genesis 8:21). Moses called it uncircumcised, as it is stated: “And circumcise the foreskin of your hearts” (Deuteronomy 10:16). David called it impure, as it is stated: “Create for me a pure heart, O God” (Psalms 51:12); by inference, there is an impure heart that is the evil inclination.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Sukkah 52a segment 7) ---
+דָּרֵשׁ רַבִּי עַוִּירָא וְאִיתֵּימָא רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: שִׁבְעָה שֵׁמוֹת יֵשׁ לוֹ לְיֵצֶר הָרָע. הַקָּדוֹשׁ בָּרוּךְ הוּא קְרָאוֹ ״רַע״, שֶׁנֶּאֱמַר: ״כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעוּרָיו״. מֹשֶׁה קְרָאוֹ ״עָרֵל״, שֶׁנֶּאֱמַר: ״וּמַלְתֶּם אֵת עׇרְלַת לְבַבְכֶם״. דָּוִד קְרָאוֹ ״טָמֵא״, שֶׁנֶּאֱמַר: ״לֵב טָהוֹר בְּרָא לִי אֱלֹהִים״, מִכְּלָל דְּאִיכָּא טָמֵא.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Sukkah 52b segment 7) ---
+Rav Ḥana bar Aḥa said that the Sages in the school of Rav say: There are four creations that the Holy One, Blessed be He, created, yet He, as it were, regrets that He created them, as they do more harm than good. And these are they: Exile, Chaldeans, and Ishmaelites, and the evil inclination. Exile, as it is written: “Now therefore, for what am I here, says the Lord, seeing that My people is taken away for naught” (Isaiah 52:5). God Himself is asking: For what am I here? Chaldeans, as it is written: “Behold the land of the Chaldeans, this is the people that was not” (Isaiah 23:13), meaning, if only they never were.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Sukkah 52b segment 7) ---
+אָמַר רַב חָנָא בַּר אַחָא, אָמְרִי בֵּי רַב: אַרְבָּעָה מִתְחָרֵט עֲלֵיהֶן הַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁבְּרָאָם, וְאֵלּוּ הֵן: גָּלוּת, כַּשְׂדִּים, וְיִשְׁמְעֵאלִים, וְיֵצֶר הָרָע. גָּלוּת, דִּכְתִיב: ״וְעַתָּה מַה לִּי פֹה נְאֻם ה׳ כִּי לֻקַּח עַמִּי חִנָּם וְגוֹ׳״. כַּשְׂדִּים, דִּכְתִיב: ״הֵן אֶרֶץ כַּשְׂדִּים זֶה הָעָם לֹא הָיָה״.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Sukkah 52b segment 8) ---
+Ishmaelites, as it is written: “The tents of robbers prosper, and they that provoke God are secure, in whatsoever God brings with His hand” (Job 12:6). God brought upon Himself these Arabs that dwell in the deserts in tents. The evil inclination, as it is written: “On that day, says the Lord, will I assemble her that is lame, and I will gather her that is driven away, and her that I corrupted” (Micah 4:6). God is saying that He created the evil inclination that led the people to sin and to be cast into exile.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Sukkah 52b segment 8) ---
+יִשְׁמְעֵאלִים, דִּכְתִיב: ״יִשְׁלָיוּ אֹהָלִים לְשׁוֹדְדִים וּבַטּוּחוֹת לְמַרְגִּיזֵי אֵל לַאֲשֶׁר הֵבִיא אֱלוֹהַּ בְּיָדוֹ״. יֵצֶר הָרָע, דִּכְתִיב: ״וַאֲשֶׁר הֲרֵעֹתִי״.
+--- END VERBATIM ---

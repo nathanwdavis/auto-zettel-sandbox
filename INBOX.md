@@ -4791,6 +4791,10 @@ Could not capture https://www.globalsecurity.org/military/library/news/2002/02/m
   defense.gov returns 403, which is why a mirror of a public-domain government
   transcript was used; noted on the reference note.
 
+### Appended 2026-10-06 (freshness pass): the host now demands a licence from AI and data-center clients
+
+The reference's URL (globalsecurity.org, the Washington File reprint) answered the 2026-10-06 freshness pass with HTTP 402 from Cloudflare and an x402 body: "Payment required. Retrieval of GlobalSecurity.org content by AI systems and data-center networks requires a license." It was live and captured by hand on 2026-09-15. The capture on file stands and no note is affected; nothing was re-fetched. Two things for a human: the page cannot be re-verified from this environment again, and the host has now declared terms for exactly this kind of retrieval, which bears on the open ruling about all-rights-reserved captures in a public repository (2026-09-04).
+
 ## 2026-09-15 — Leads left open by the hidden-knowledge cycle (inquiry 202609151845), and two sources needed
 
 - **status:** new        <!-- new | in-progress | answered | archived -->
@@ -4971,8 +4975,17 @@ Inquiry did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--20261003180
 
 ## 2026-10-03 — Leads from the sin-as-act / sin-as-nature inquiry (202610032055)
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** human
 
 Not captured this session; each would sharpen a note filed today. (1) The Greek of Romans 5:12, the clause rendered 'in whom/which all have sinned' (Augustine, Trent) and 'for that all have sinned' (KJV), plus a modern exegetical study of it -- note 202610032118 deliberately makes no claim about the Greek. A public-domain or openly licensed Greek NT (e.g. SBLGNT, CC-BY) is the capture to look for; a study must be read before it is cited. (2) The Hebrew of Genesis 8:21 and 4:7, so that the link between the verse's word for the heart's 'imagination' and the rabbinic term yetzer ha-ra can be grounded rather than assumed (note 202610032121 does not assert it). (3) Wider rabbinic sources on the evil inclination (e.g. Genesis Rabbah 34:10, which Rashi cites; Kiddushin 30b; Sukkah 52a), to test whether the two-text Jewish leg of 202610032121 holds. (4) An Eastern Orthodox account of ancestral sin and Pelagius in his own words (the Commentary on Romans), so the act/nature distinction is not heard only from Augustine, Trent and Westminster.
+
+### Appended 2026-10-06: items (1)-(3) worked by the maintenance cycle, item (4) still open
+
+Filed as inquiry what-does-the-greek-of-romans-5-12-say-in-its-last-clause--202610061603 and answered there with four permanent notes.
+
+- **(1) Greek of Romans 5:12: CLOSED.** The SBL Greek New Testament (CC BY 4.0) is captured for Rom 5:12-21 (reference 202610061545). The study captured with it is Sanday and Headlam's ICC commentary, 10th ed. 1905 (public domain, archive.org OCR, pp. 130-138; reference 202610061546), which takes *eph' hō* as 'because' and moves the dispute to the sense of 'all sinned' (permanent 202610061559). It is one commentary of 1905. Still wanted: a later exegetical study read in full, for instance J. A. Fitzmyer's article on the meaning of *eph' hō* in Romans 5:12 (New Testament Studies, 1993; not checked for access) -- listed as a lead only, never cited unread.
+- **(2) Hebrew of Genesis 8:21 and 4:7: CLOSED.** Captured with 6:5 (reference 202610061547). 8:21 and 6:5 carry *yetzer* and *ra'* together; 4:7 has *chatat*, sin, and the inclination is read into it (permanent 202610061600). Note 202610032121 now carries a dated amendment saying so.
+- **(3) Wider rabbinic sources: CLOSED for the three named texts, and one counter-test added.** Genesis Rabbah 34:10, Kiddushin 30b and Sukkah 52a-52b are captured (references 202610061548-202610061550); all three make God the inclination's maker and none derives it from Adam (permanent 202610061601). Shabbat 145b-146a, the serpent's *zuhama*, was captured as the obvious counter-test and does pass a contamination from the first sin to Eve's descendants, ended at Sinai (reference 202610061551, permanent 202610061602). Still wanted, as leads only: the parallels of the *zuhama* passage elsewhere in the Talmud, and primary checks of what Sanday and Headlam report at second hand -- Edersheim, *Life and Times of Jesus the Messiah* i. 165-166, F. Weber's *Altsynagogale* (later *Jüdische*) *Theologie* p. 216, and 4 Ezra 3:21-22 / 7:118 and 2 Baruch 54:15, 19 in a public-domain edition (R. H. Charles). All are likely public domain; none was fetched this cycle.
+- **(4) Eastern Orthodox account of ancestral sin; Pelagius on Romans in his own words: OPEN, not attempted.** Souter's edition of Pelagius's Expositions (1922-1931) is the likely public-domain Latin route; an English translation would need checking for licence.

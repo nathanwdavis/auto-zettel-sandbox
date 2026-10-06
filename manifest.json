@@ -517,6 +517,24 @@
     "202610032120": "trent-and-westminster-use-the-same-words-truly-and-properly--202610032120",
     "202610032121": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121",
     "202610032122": "in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122",
+    "202610061545": "romans-5-12-21-in-the-sbl-greek-new-testament--202610061545",
+    "202610061546": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546",
+    "202610061547": "genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547",
+    "202610061548": "bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548",
+    "202610061549": "kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549",
+    "202610061550": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550",
+    "202610061551": "shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551",
+    "202610061552": "in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552",
+    "202610061553": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553",
+    "202610061554": "genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554",
+    "202610061555": "genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555",
+    "202610061556": "kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556",
+    "202610061557": "sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557",
+    "202610061558": "shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558",
+    "202610061559": "in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559",
+    "202610061600": "the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600",
+    "202610061601": "three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601",
+    "202610061602": "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -941,6 +959,20 @@
       "updated": "2026-09-01"
     },
     {
+      "key": "what-does-the-greek-of-romans-5-12-say-in-its-last-clause--202610061603",
+      "path": "inquiries/what-does-the-greek-of-romans-5-12-say-in-its-last-clause--202610061603.md",
+      "priority": "normal",
+      "question": "What does the Greek of Romans 5:12 say in its last clause, which of the rabbinic verses for the evil inclination actually carry the word yetzer, and do the wider rabbinic sources on the evil inclination (Genesis Rabbah 34:10, Kiddushin 30b, Sukkah 52a-b) speak of anything inherited from Adam?",
+      "result_notes": [
+        "in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559",
+        "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602",
+        "the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600",
+        "three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601"
+      ],
+      "status": "answered",
+      "updated": "2026-10-06"
+    },
+    {
       "key": "what-is-the-role-of-faith-in-the-working-of-miracles--202609230035",
       "path": "inquiries/what-is-the-role-of-faith-in-the-working-of-miracles--202609230035.md",
       "priority": "normal",
@@ -987,7 +1019,7 @@
       "updated": "2026-10-03"
     }
   ],
-  "note_count": 522,
+  "note_count": 540,
   "notes": [
     {
       "id": "202610032115",
@@ -1202,6 +1234,18 @@
       "type": "permanent",
       "updated": "2026-09-11",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/a-counterfactual-derived-from-nature-and-circumstance-is-natural-or-free-knowledge-but-not-middle--202609111821.md"
+    },
+    {
+      "id": "202610061546",
+      "key": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546",
+      "links": [],
+      "path": "reference/a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546.md",
+      "slug": "a-critical-and-exegetical-commentary-on-the-epistle-to-the",
+      "tags": [],
+      "title": "A Critical and Exegetical Commentary on the Epistle to the Romans",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546.md"
     },
     {
       "id": "202609040210",
@@ -1472,7 +1516,7 @@
       "tags": [],
       "title": "Abrahamic conceptions of God",
       "type": "moc",
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/moc/abrahamic-conceptions-of-god--202608311945.md"
     },
     {
@@ -2661,6 +2705,18 @@
       "type": "reference",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/behe-molecular-machines--202609011400.md"
+    },
+    {
+      "id": "202610061548",
+      "key": "bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548",
+      "links": [],
+      "path": "reference/bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548.md",
+      "slug": "bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the",
+      "tags": [],
+      "title": "Bereshit Rabbah 34:10 (Antoninus, and the inclination of the heart evil from youth)",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548.md"
     },
     {
       "id": "202609032100",
@@ -4125,6 +4181,52 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/general-revelation-passages--202609011034.md"
     },
     {
+      "id": "202610061547",
+      "key": "genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547",
+      "links": [],
+      "path": "reference/genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547.md",
+      "slug": "genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses",
+      "tags": [],
+      "title": "Genesis 4:7, 6:5 and 8:21 in Hebrew (the inclination verses)",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547.md"
+    },
+    {
+      "id": "202610061554",
+      "key": "genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547"
+        }
+      ],
+      "path": "literature/genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554.md",
+      "slug": "genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so",
+      "tags": [],
+      "title": "Genesis 8:21 and 6:5 call the heart's yetzer evil in so many words, while in Genesis 4:7 the thing crouching at the door is sin",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554.md"
+    },
+    {
+      "id": "202610061555",
+      "key": "genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548"
+        }
+      ],
+      "path": "literature/genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555.md",
+      "slug": "genesis-rabbah-34-10-tells-the-antoninus-exchange-from",
+      "tags": [],
+      "title": "Genesis Rabbah 34:10 tells the Antoninus exchange from Genesis 8:21 and has the inclination's own maker attest that it is evil",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555.md"
+    },
+    {
       "id": "202608311927",
       "key": "gjelten-do-christians-and-muslims-worship-the-same-god--202608311927",
       "links": [],
@@ -5477,6 +5579,56 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-romans-5-8-paul-speaks-of-sin-as-a-power-that-enters--202610032122.md"
     },
     {
+      "id": "202610061559",
+      "key": "in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552"
+        },
+        {
+          "relation": "source",
+          "target_id": "romans-5-12-21-in-the-sbl-greek-new-testament--202610061545"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553"
+        }
+      ],
+      "path": "permanent/in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559.md",
+      "slug": "in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in",
+      "tags": [],
+      "title": "In the Greek, Romans 5:12's last clause names no one, so 'in whom' and 'for that' are two readings of a relative, and Sanday and Headlam's 'because' moves the dispute to the sense in which all sinned",
+      "type": "permanent",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559.md"
+    },
+    {
+      "id": "202610061552",
+      "key": "in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "romans-5-12-21-in-the-sbl-greek-new-testament--202610061545"
+        }
+      ],
+      "path": "literature/in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552.md",
+      "slug": "in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word",
+      "tags": [],
+      "title": "In the SBL Greek text Romans 5:12 ends on a four-word clause that names no one and breaks off with a dash, and Adam is first named at 5:14",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552.md"
+    },
+    {
       "id": "202610031822",
       "key": "ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822",
       "links": [
@@ -5865,6 +6017,35 @@
       "type": "literature",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/karpickes-survey-vouches-for-the-effect-and-never-mentions-notes--202609040330.md"
+    },
+    {
+      "id": "202610061556",
+      "key": "kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549"
+        }
+      ],
+      "path": "literature/kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556.md",
+      "slug": "kiddushin-30b-has-god-create-the-evil-inclination-together",
+      "tags": [],
+      "title": "Kiddushin 30b has God create the evil inclination together with Torah as its antidote and reads Genesis 4:7 as the choice to rule it",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556.md"
+    },
+    {
+      "id": "202610061549",
+      "key": "kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549",
+      "links": [],
+      "path": "reference/kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549.md",
+      "slug": "kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote",
+      "tags": [],
+      "title": "Kiddushin 30b (the evil inclination and Torah as its antidote)",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549.md"
     },
     {
       "id": "202609011040",
@@ -8155,6 +8336,18 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/roediger-and-karpicke-test-enhanced-learning--202609040305.md"
     },
     {
+      "id": "202610061545",
+      "key": "romans-5-12-21-in-the-sbl-greek-new-testament--202610061545",
+      "links": [],
+      "path": "reference/romans-5-12-21-in-the-sbl-greek-new-testament--202610061545.md",
+      "slug": "romans-5-12-21-in-the-sbl-greek-new-testament",
+      "tags": [],
+      "title": "Romans 5:12-21 in the SBL Greek New Testament",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/romans-5-12-21-in-the-sbl-greek-new-testament--202610061545.md"
+    },
+    {
       "id": "202610032118",
       "key": "romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118",
       "links": [
@@ -8169,6 +8362,10 @@
         {
           "relation": "source",
           "target_id": "council-of-trent-session-v-decree-concerning-original-sin--202610032102"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559"
         },
         {
           "relation": "source",
@@ -8196,7 +8393,7 @@
       "tags": [],
       "title": "Romans 5:12's last clause reads 'in which' or 'in whom all have sinned' in Augustine and Trent and 'for that all have sinned' in the KJV, and only the first form makes the clause itself place all men's sinning in Adam or his sin",
       "type": "permanent",
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/romans-5-12-s-last-clause-reads-in-which-all-have-sinned-in--202610032118.md"
     },
     {
@@ -8314,6 +8511,23 @@
       "type": "reference",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sabuni-tafsir-ayat-al-ahkam-on-2-221--202609041305.md"
+    },
+    {
+      "id": "202610061553",
+      "key": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546"
+        }
+      ],
+      "path": "literature/sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553.md",
+      "slug": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because",
+      "tags": [],
+      "title": "Sanday and Headlam render eph' ho in Romans 5:12 'because', reject 'in whom', and put the real question in the sense of 'all sinned'",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553.md"
     },
     {
       "id": "202609182329",
@@ -8492,6 +8706,72 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/serendipity-in-a-note-web-rides-on-shortcut-links--202609010304.md"
+    },
+    {
+      "id": "202610061558",
+      "key": "shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551"
+        }
+      ],
+      "path": "literature/shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558.md",
+      "slug": "shabbat-145b-146a-has-the-serpent-cast-contamination-into",
+      "tags": [],
+      "title": "Shabbat 145b-146a has the serpent cast contamination into Eve that ended for Israel at Sinai, or in a dissenting view with the patriarchs",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558.md"
+    },
+    {
+      "id": "202610061551",
+      "key": "shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551",
+      "links": [],
+      "path": "reference/shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551.md",
+      "slug": "shabbat-145b-146a-the-serpent-s-contamination-of-eve-and",
+      "tags": [],
+      "title": "Shabbat 145b-146a (the serpent's contamination of Eve and its cessation at Sinai)",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551.md"
+    },
+    {
+      "id": "202610061602",
+      "key": "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558"
+        },
+        {
+          "relation": "source",
+          "target_id": "shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601"
+        }
+      ],
+      "path": "permanent/shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602.md",
+      "slug": "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming",
+      "tags": [],
+      "title": "Shabbat 146a traces a contamination to the serpent's coming to Eve that ceased for Israel only at Sinai, so the rabbinic record is not silent on a hereditary effect of the first sin",
+      "type": "permanent",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602.md"
     },
     {
       "id": "202608311943",
@@ -8752,6 +9032,35 @@
       "type": "permanent",
       "updated": "2026-09-01",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/storing-links-as-objects-makes-association-durable-and-shareable--202609010802.md"
+    },
+    {
+      "id": "202610061557",
+      "key": "sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550"
+        }
+      ],
+      "path": "literature/sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557.md",
+      "slug": "sukkah-52a-52b-has-god-name-the-evil-inclination-evil",
+      "tags": [],
+      "title": "Sukkah 52a-52b has God name the evil inclination evil, regret creating it, and slaughter it at the end of days",
+      "type": "literature",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557.md"
+    },
+    {
+      "id": "202610061550",
+      "key": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550",
+      "links": [],
+      "path": "reference/sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550.md",
+      "slug": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the",
+      "tags": [],
+      "title": "Sukkah 52a-52b (the names of the evil inclination and the creations God regrets)",
+      "type": "reference",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550.md"
     },
     {
       "id": "202609230037",
@@ -11241,6 +11550,55 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-qurans-own-syntax-is-the-classical-proof-that-the-people-of-the-book-are-not-mushrikun--202609041320.md"
     },
     {
+      "id": "202610061600",
+      "key": "the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557"
+        },
+        {
+          "relation": "source",
+          "target_id": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121"
+        }
+      ],
+      "path": "permanent/the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600.md",
+      "slug": "the-rabbinic-evil-inclination-takes-its-name-from-genesis-8",
+      "tags": [],
+      "title": "The rabbinic evil inclination takes its name from Genesis 8:21 and 6:5, where yetzer and ra' stand in the verse, and is read into Genesis 4:7, where the verse's word is sin",
+      "type": "permanent",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600.md"
+    },
+    {
       "id": "202609111825",
       "key": "the-reformed-answer-to-the-grounding-objection-is-the-decree-and-the-confession-runs-opposite-to-molina--202609111825",
       "links": [
@@ -12094,6 +12452,10 @@
           "target_id": "sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112"
         },
         {
+          "relation": "elaborates",
+          "target_id": "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602"
+        },
+        {
           "relation": "source",
           "target_id": "sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100"
         },
@@ -12106,8 +12468,16 @@
           "target_id": "the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117"
         },
         {
+          "relation": "elaborates",
+          "target_id": "the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600"
+        },
+        {
           "relation": "shared-concept",
           "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601"
         },
         {
           "relation": "source",
@@ -12119,7 +12489,7 @@
       "tags": [],
       "title": "The Talmud and Rashi find an evil inclination present from birth in Genesis 4:7 and 8:21 and speak of it as an inclination that rules, not as inherited guilt",
       "type": "permanent",
-      "updated": "2026-10-03",
+      "updated": "2026-10-06",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121.md"
     },
     {
@@ -12458,6 +12828,63 @@
       "type": "permanent",
       "updated": "2026-09-04",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/the-zaydi-tradition-is-split-on-2-221-so-the-qualifier-some-is-load-bearing--202609041455.md"
+    },
+    {
+      "id": "202610061601",
+      "key": "three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546"
+        },
+        {
+          "relation": "source",
+          "target_id": "bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556"
+        },
+        {
+          "relation": "source",
+          "target_id": "kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557"
+        },
+        {
+          "relation": "source",
+          "target_id": "sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "the-westminster-confession-derives-all-actual--202610032108"
+        }
+      ],
+      "path": "permanent/three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601.md",
+      "slug": "three-rabbinic-texts-make-the-evil-inclination-god-s-own",
+      "tags": [],
+      "title": "Three rabbinic texts make the evil inclination God's own creation, and none of the five on file derives it from Adam or calls it guilt",
+      "type": "permanent",
+      "updated": "2026-10-06",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601.md"
     },
     {
       "id": "202609111822",
