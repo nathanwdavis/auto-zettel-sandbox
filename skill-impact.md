@@ -15,6 +15,7 @@ The knowledge layer is never rolled back, whatever a proposal's outcome (FR-33).
 | 2026-09-18 | 202609182350 | capture-verification | trial | with=0.85 without=0.852 (n=3) |
 | 2026-09-21 | 202609182350 | capture-verification | Accepted | Approved by the repository owner (Nathan Davis), 2026-09-21, who reviewed the proposal and directed promotion ('I accept capture-verification skill. Please implement and promote it.'). Accepted despite an A/B trial that showed no measurable difference (with=0.85 vs without=0.852, n=3): as with the 2026-09-01 source-access-triage trial, the three trial questions are research questions whose sources were already captured, so none of them exercises the skill's actual subject -- proving that a capture contains what a note cites from it -- and a delta of -0.002 is noise. The procedure it codifies was re-invented from scratch in five cycles (2026-09-04, 09-05, 09-06, 09-15, 09-18), and each rewrite carried a fresh defect: an Arabic normaliser that swallowed letters, a quote-pairing regex that reported prose as missing, and captures whose headers overstated their extent. Before promotion its reference implementation was extracted and exercised: clean on notes known good, correct on a planted false quotation, and across 22 notes and 224 spans it found one real violation of its own rule already on main (permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914 double-quoted its own phrase), fixed in the same commit. |
 | 2026-10-06 | 202610061551 | capture-verification | proposed | Make the approved checker agree with its own procedure: fix the four false-positive defects the 2026-09-21 full-scope sweep filed (no case folding, markdown emphasis, editorial brackets, line-end hyphenation) and three of the same kind found re-measuring (dash typography, space before punctuation, JSON line breaks); whole base 623 -> 492 misses plus 15 advisory CASE lines, negative controls still caught, the open HUMAN RULING questions left untouched. |
+| 2026-10-06 | 202610061551 | capture-verification | trial | with=0.847 without=0.825 (n=3) |
 
 ## 202609011101 proposed source-access-triage (2026-09-01)
 
@@ -717,3 +718,8 @@ index eb9b32e..44acf3f 100644
 +print(f"checked {total} spans in {len(sys.argv) - 1} notes, {misses} misses, {cased} case-only")
  ```
 ````
+
+## 202610061551 trial capture-verification (2026-10-06)
+
+- scores: with=0.847 without=0.825 (n=3)
+- scores-file: trial-capture-verification.json

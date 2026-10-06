@@ -2659,3 +2659,4 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-06T16:27:34Z` lint_skills: PASS
 - `2026-10-06T16:27:35Z` check_skill_sandbox: PASS
 - `2026-10-06T16:27:35Z` remote_cycle: gates PASS
+- `2026-10-06T16:31:55Z` skill_trial: capture-verification with=0.847 without=0.825 (n=3)
