@@ -4965,9 +4965,9 @@ another capture in the base (81 spans are simply cited from a reference the
 note does not link directly), or to a translation as above. The 2,452-span
 sweep is on record as evidence of that.
 
-### Appended 2026-10-06: the four-defect patch was written, and is waiting outside this branch
+### Appended 2026-10-06: the four-defect patch was written, and is on this cycle's PR
 
-The 2026-10-06 cycle's skill-smith wrote the patch this entry filed, as proposal 202610061551 (a patch to capture-verification), in an isolated worktree on the local branch `zettel/smith-20261006`. It fixes the four defects named above and three more false positives of the same kind (dash typography, a space before punctuation, JSON-escaped line breaks); on the whole base the checker's misses fall from 623 to 492, plus 15 advisory CASE lines, and planted fabrications are still caught. It decides none of the three ruling questions above. The strict sandbox check passed. It was **not** merged into the cycle's branch, because the session's own permission policy refused the merge as self-modification of a skill file; the owner decides whether to merge that branch, push it, or discard it. Until it lands, the approved checker still reports the false positives this entry describes. This entry's three questions are unchanged and still need a ruling.
+The 2026-10-06 cycle's skill-smith wrote the patch this entry filed, as proposal 202610061551 (a patch to capture-verification). It fixes the four defects named above and three more false positives of the same kind (dash typography, a space before punctuation, JSON-escaped line breaks); on the whole base the checker's misses fall from 623 to 492, plus 15 advisory CASE lines, and planted fabrications are still caught. It decides none of the three ruling questions above. The strict sandbox check passed. It was first written on a local-only branch and, at the owner's direction, merged onto the cycle's pushed branch, so it travels in the cycle's PR with `status: proposed`; promote or reject it with `skill_review.py`. This entry's three questions are unchanged and still need a ruling.
 
 ## 2026-10-03 — Source needed: Grudem, Systematic Theology 2nd ed., ch. 26 (The Person of Christ), on the virgin birth and inherited sin
 

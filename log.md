@@ -2647,3 +2647,7 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-06T16:13:22Z` check_skill_sandbox: PASS
 - `2026-10-06T16:13:22Z` remote_cycle: gates PASS
 - `2026-10-06T16:13:35Z` note on this cycle's log: the hand-written step lines (step 2 through steps 8-10) carry estimated timestamps from 16:05Z to 16:34Z that run ahead of the clock; the machine-written lines around them (capture, verify_refs, gates, lock released at 16:12:34Z) are the accurate times. The step lines are left as written, since log.md is append-only.
+- `2026-10-06T16:22:48Z` skill-smith proposal merged onto the pushed branch at the owner's direction (the owner reviews from GitHub, so a proposal must travel on the branch the cycle pushes, never on a local-only branch). The three lines below were written on the smith branch zettel/smith-20261006 at 15:58-15:59Z and are carried here after the cycle's own lines, so that the already-pushed log stays a byte prefix; read them by their timestamps. This supersedes the step 7 line's 'NOT merged' outcome.
+- `2026-10-06T15:58:58Z` lint_skills: PASS
+- `2026-10-06T15:59:14Z` skill-smith: proposed capture-verification (patch, 202610061551)
+- `2026-10-06T15:59:29Z` check_skill_sandbox: PASS
