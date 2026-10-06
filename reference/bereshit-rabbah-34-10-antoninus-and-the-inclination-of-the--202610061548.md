@@ -42,4 +42,6 @@ updated: '2026-10-06'
 ---
 Bibliographic record. Genesis Rabbah on Genesis 8:21, in the Sefaria Midrash
 Rabbah English (2022, CC-BY) with the Daat Hebrew (public domain). The section
-Rashi cites on the same verse (reference 202610032105).
+the Silbermann English of Rashi on the verse refers to (reference
+202610032105); Rashi's Hebrew names no source, and the capture header of that
+reference attributes the citation to the comment itself.

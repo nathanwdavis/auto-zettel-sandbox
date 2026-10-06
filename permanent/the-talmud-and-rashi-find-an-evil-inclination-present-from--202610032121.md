@@ -68,13 +68,14 @@ Old Testament's own two groups in
 The base holds only these two rabbinic texts and has not checked whether other
 rabbinic sources speak of anything like inherited guilt.
 
-**Amended 2026-10-06.** The check the last paragraph asked for has been made,
-from three more rabbinic passages and the Hebrew of the three verses. On the
+**Amended 2026-10-06.** A first check of the kind the last paragraph asked for
+has been made, from four more rabbinic passages and the Hebrew of the three
+verses. On the
 evil inclination the two texts now stand with three more, which add that God is
 its maker and none derives it from Adam
 ([[three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601]]); in the Hebrew, Genesis 8:21 carries the word *yetzer* itself while
 Genesis 4:7 has the inclination read into its word for sin
-([[the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600]]). One rabbinic text does pass something from the first sin to Eve's
-descendants, a contamination ended at Sinai, so the corpus is not silent on a
-hereditary effect of the fall
+([[the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600]]). One rabbinic text traces a contamination to the serpent's coming upon Eve,
+implied to pass to her descendants and ended for Israel at Sinai, so the texts
+on file are not silent on something hereditary from Eden
 ([[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]]).

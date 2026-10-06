@@ -29,7 +29,7 @@ refers to, or whether *eph' hō* works as a fixed connective, is not printed in
 the clause and has to be supplied by a reader.
 
 The edition ends 5:12 with a dash, not a stop. The sentence opened with
-"ὥσπερ" (just as) is not finished in the verse; 5:13-14 follow as a digression.
+"ὥσπερ" (just as) is not finished in the verse.
 
 Adam is first named in 5:14: death reigned "ἀπὸ Ἀδὰμ μέχρι Μωϋσέως", even over
 those who had not sinned "ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδάμ". The verse in

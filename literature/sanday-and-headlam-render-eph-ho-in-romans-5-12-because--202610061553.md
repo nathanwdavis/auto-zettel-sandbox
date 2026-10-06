@@ -57,9 +57,11 @@ Adam, sin and the tendency to sin from Adam, and individual responsibility all
 the same) each find partial parallels in Jewish sources, but the Talmud does
 "not seem to have had any consistent doctrine on the subject". At second hand
 they report Edersheim, that original sin and the sinfulness of the whole nature
-"were not held by the ancient Rabbis", and that the view tracing death to Adam's
-guilt rather than personal guilt predominated. The closest approaches are in 4
-Ezra and the Apocalypse of Baruch, quoted in Latin: "Cor enim malignum baiulans
+"were not held by the ancient Rabbis", and that Edersheim reports two opinions
+on death, one ascribing it to personal guilt and one to Adam's; they add, in
+their own voice, that the latter was by far the commoner view (the OCR
+breaks their word for this across a line). The closest approaches are in 4
+Ezra and the Apocalypse of Baruch, which they quote in Latin: "Cor enim malignum baiulans
 primus Adam transgressus et victus est". Also at second hand, Weber's summary of
 the Talmud: "By the Fall man came under a curse, is guilty of death", while sin,
 "to which the bent and leaning had already been planted in man by creation",

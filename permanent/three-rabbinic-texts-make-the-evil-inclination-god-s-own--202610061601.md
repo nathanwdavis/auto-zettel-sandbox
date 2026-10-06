@@ -6,7 +6,7 @@ aliases:
 - '202610061601'
 type: permanent
 title: Three rabbinic texts make the evil inclination God's own creation, and none
-  of the five on file derives it from Adam or calls it guilt
+  of the five on the inclination derives it from Adam or calls it guilt
 created: '2026-10-06'
 updated: '2026-10-06'
 tags: []
@@ -37,12 +37,13 @@ links:
 The earlier note on the Jewish leg of the sin-as-nature question rested on two
 texts, Sanhedrin 91b and Rashi on Genesis 8:21, and said so
 ([[the-talmud-and-rashi-find-an-evil-inclination-present-from--202610032121]]).
-Three more Talmudic and midrashic passages now on file agree with it and add
+Three more Talmudic and midrashic passages now on file are consistent with it and add
 something it did not have: where the inclination comes from.
 
-In all three, its source is God; the earlier two say only when it begins. Genesis Rabbah 34:10 makes the point three
-times in images of a maker testifying against his product, first Rabbi Hiyya's,
-"Wretched is the dough whose baker attests in its regard that it is inferior"
+In all three, its source is God; the earlier two say only when it begins. Genesis Rabbah 34:10 says it most directly in
+Abba Yosei's image, "Wretched is the leaven whose maker attests that it is
+inferior", glossed by "For He knows our inclination"; its companion images of
+the dough and the sapling make the human being, and Israel, the maker's product
 ([[genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555]]).
 Kiddushin 30b has God say "I created an evil inclination" and in the same breath
 that he created Torah as its antidote
@@ -67,9 +68,11 @@ that went wrong in Adam and was passed on.
 
 Sanday and Headlam report the same structure at second hand, from Weber's
 summary of the Talmud: the bent toward sin "had already been planted in man by
-creation", and Adam's fall made it a fact and gave it the mastery
+creation", and by the Fall sin "had become a fact" and the evil impulse "gained
+the mastery"
 ([[sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553]]).
 That report puts a role for the fall back in, which none of the five passages
-on file states; and one rabbinic text on file does pass something from the
-first sin to every descendant, though not the inclination
+on file states; and one rabbinic text on file traces something, though not the
+inclination, to the serpent's coming upon Eve, which by implication her
+descendants bore until Sinai
 ([[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]]).

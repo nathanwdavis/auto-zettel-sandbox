@@ -36,8 +36,8 @@ noun among them, and the verse does not name Adam at all: sin entered "διʼ �
 the other. They are two decisions about a relative pronoun.
 
 Sanday and Headlam take the decision against the reading Augustine and Trent
-follow. Origen, "followed by the Latin commentators Aug. and Ambrstr.", made the
-relative masculine with Adam as its antecedent; they reject this on grammar (the
+follow. Origen, they report, "followed by the Latin commentators Aug. and Ambrstr.",
+made the relative masculine with Adam as its antecedent; they reject this on grammar (the
 preposition, the distance from the noun) and render the phrase 'because', with
 Theodoret, Photius, Euthymius Zigabenus and most moderns
 ([[sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553]]).
@@ -47,8 +47,9 @@ move the question to the verb: "In what sense did 'all sin'?" They give three
 answers. All sinned implicitly in
 Adam's sin (Bengel, "omnes peccarunt, Adamo peccante"); each sinned in his own
 person and nothing more (most Greek commentators); or each sinned in his own
-person but "their sin was due in part to tendencies inherited from Adam", which
-is their own. On the first, the Augustinian sense survives the change of
+person but "their sin was due in part to tendencies inherited from Adam", the
+view they favour (they name Stuart, Fricke and Weiss as holding it in
+practice). They object to the first two. On the first, the Augustinian sense survives the change of
 translation; on the third, what is inherited is a tendency and the sinning is
 each person's own.
 This is the same shift the earlier note made from the KJV wording alone: the
@@ -57,4 +58,5 @@ where many "ἁμαρτωλοὶ κατεστάθησαν" through the one man's
 
 Limits. Sanday and Headlam are one commentary, of 1905. Later scholarship on the
 phrase is not on file, and neither is any patristic Greek text in its own words; their reports of
-Origen, Theodoret and Photius are second-hand here.
+Origen, Theodoret, Photius, Euthymius Zigabenus and Bengel are second-hand
+here.

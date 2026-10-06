@@ -1032,8 +1032,8 @@ file; the Jewish leg rests on two texts.
 
 ### The Greek and the wider rabbinic sources, added 2026-10-06
 
-Three of the leads the section's boundaries named, worked from seven new
-sources: the SBL Greek of Romans 5:12-21, Sanday and Headlam's 1905 commentary
+Three leads from the 2026-10-03 INBOX entry (two of them named in this
+section's boundaries), worked from seven new sources: the SBL Greek of Romans 5:12-21, Sanday and Headlam's 1905 commentary
 on the verse with its excursus on Adam's fall in Jewish theology, the Hebrew of
 Genesis 4:7, 6:5 and 8:21, Genesis Rabbah 34:10, Kiddushin 30b, Sukkah 52a-52b
 and Shabbat 145b-146a. Distilled at
@@ -1047,8 +1047,8 @@ and Shabbat 145b-146a. Distilled at
 
 - [[in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559]] — the clause is four words with no noun, so 'in whom' and 'for that' are two readings of a relative; Sanday and Headlam take it as 'because' and move the dispute to the sense in which all sinned.
 - [[the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600]] — *yetzer* and *ra'* stand together in Genesis 8:21 and 6:5; in Genesis 4:7 the word is sin, and the inclination is read into it.
-- [[three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601]] — Genesis Rabbah, Kiddushin and Sukkah make God the inclination's maker, and none of the five rabbinic texts on file derives it from Adam or calls it guilt.
-- [[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]] — the exception: a contamination from the serpent's coming to Eve, ended for Israel at Sinai, so the rabbinic record is not silent on a hereditary effect of the first sin.
+- [[three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601]] — Genesis Rabbah, Kiddushin and Sukkah make God the inclination's maker, and none of the five rabbinic texts on the inclination derives it from Adam or calls it guilt.
+- [[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]] — the exception: a contamination traced to the serpent's coming upon Eve, by implication borne by her descendants and ended for Israel at Sinai (for Rabbi Abba bar Kahana, with the patriarchs), so the rabbinic texts on file are not silent on something hereditary from Eden.
 
 Boundaries now. The Greek of Romans 7, the Latin of Trent, and any exegetical
 study of Romans 5:12 later than 1905 are still not on file; Sanday and Headlam's

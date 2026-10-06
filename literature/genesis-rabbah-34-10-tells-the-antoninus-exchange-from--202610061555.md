@@ -24,8 +24,9 @@ reason that the inclination of man's heart is evil from his youth.
 
 The section opens on the phrase "to His heart": "the wicked are under the
 control of their hearts" (the scoundrel, Esau, Jeroboam, Haman all speak *in*
-their hearts), "But the righteous, their hearts are subject to them" (Hannah,
-David, Daniel and God speak *to* theirs).
+their hearts), "But the righteous, their hearts are subject to them" (Hannah and
+David speak *to* their hearts, Daniel "placed in his heart", and God speaks to
+His).
 
 Three sayings then take the verse's verdict on the inclination as the verdict of
 the one who made it. Rabbi Hiyya: "Wretched is the dough whose baker attests in
@@ -43,7 +44,6 @@ he pushes out [ninar] to emerge from his mother's womb". The second question,
 when the soul is placed in a person, is answered the other way, before birth,
 from Job 10:12.
 
-The same exchange is told in Sanhedrin 91b, where the questions come in the
-other order and the verse for the inclination is Genesis 4:7. Here it is
-Genesis 8:21 throughout. Nothing in the section speaks of Adam, of guilt, or of
-inheritance.
+The verse for the inclination is Genesis 8:21 throughout. Nothing in the
+section speaks of Adam the first man, of guilt, or of inheritance; *adam*
+appears only in the generic sense, man's heart.

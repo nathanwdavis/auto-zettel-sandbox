@@ -13,9 +13,6 @@ csl_json:
   id: '202610061547'
   type: book
   title: Genesis
-  issued:
-    date-parts:
-    - - 2023
   URL: https://www.sefaria.org/Genesis.8.21
   container-title: Bible (Hebrew text, Miqra according to the Masorah; JPS Tanakh,
     Gender-Sensitive Edition; King James Version)

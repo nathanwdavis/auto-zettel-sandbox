@@ -23,10 +23,9 @@ Three verses, read in the Hebrew of the Masoretic text, for one word.
 
 **Genesis 8:21.** After the flood God resolves not to curse the ground again, and
 gives the reason in a clause whose Hebrew is יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו: the
-*yetzer* of man's heart is *ra'*, evil, from his youth. The noun *yetzer* (that
-which is formed or devised) and the adjective *ra'* both stand in the verse. The
-JPS renders the clause "the devisings of the human mind are evil from youth"; the
-KJV, already on file under another reference, has *imagination*. The word for *from his youth* is spelled
+*yetzer* of man's heart is *ra'*, evil, from his youth. The noun *yetzer* and
+the adjective *ra'* both stand in the verse. The JPS renders the clause "the
+devisings of the human mind are evil from youth". The word for *from his youth* is spelled
 in this text with no vav after the ayin (מנעריו in consonants).
 
 **Genesis 6:5.** Before the flood God sees that every *yetzer* of the thoughts of
@@ -36,9 +35,10 @@ human mind was nothing but evil all the time", the KJV "every imagination of the
 thoughts of his heart was only evil continually". The closing *kol ha-yom*, all
 the day, is what JPS and KJV render as all the time and continually.
 
-**Genesis 4:7.** God speaks to Cain. This verse has no *yetzer*. What crouches at
-the door is *chatat*, sin (לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ), whose desire is toward Cain
-and over which he is to rule. The JPS reads "Sin couches at the door" and "Yet
+**Genesis 4:7.** The verse is spoken to Cain in its context, which is not
+captured; the verse itself says *you*. It has no *yetzer*. What crouches at the
+door is *chatat*, sin (לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ), whose desire is toward the one
+addressed and over which he is to rule. The JPS reads "Sin couches at the door" and "Yet
 you can be its master", and marks the verse with a note: "Meaning of verse
 uncertain."
 

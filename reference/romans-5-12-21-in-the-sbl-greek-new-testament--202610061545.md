@@ -22,7 +22,6 @@ csl_json:
   - family: Holmes
     given: Michael W.
   publisher: Society of Biblical Literature and Logos Bible Software
-  publisher-place: Atlanta and Bellingham
 chicago_note: Rom. 5:12-21 (SBLGNT).
 chicago_bib: ''
 citation_renderer: pandoc
@@ -45,3 +44,7 @@ captured so that the clause the base had only in translation -- 'for that
 all have sinned' (KJV), 'in which' / 'in whom all have sinned' (Augustine,
 Trent) -- is on file in the language Paul wrote it in. The KJV of the same
 verses is already on file under reference 202610032100.
+
+Capture note (critic, 2026-10-06): every line of the served file ends in a
+space, which the capture drops; its header's "exactly as served" is true of
+everything else. raw/ is immutable, so the correction is recorded here.
