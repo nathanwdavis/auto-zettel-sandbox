@@ -9,7 +9,7 @@ title: Romans 5:12's last clause reads 'in which' or 'in whom all have sinned' i
   Augustine and Trent and 'for that all have sinned' in the KJV, and only the first
   form makes the clause itself place all men's sinning in Adam or his sin
 created: '2026-10-03'
-updated: '2026-10-03'
+updated: '2026-10-06'
 tags: []
 links:
 - target_id: augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111
@@ -28,6 +28,8 @@ links:
   relation: shared-concept
 - target_id: westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101
   relation: source
+- target_id: in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559
+  relation: elaborates
 ---
 Romans 5:12 is a verse both Augustine and Trent cite for original sin, and its
 last clause comes in two forms in the base's captures.
@@ -60,3 +62,10 @@ does not show which wording of the clause the Assembly read, so it does not
 settle whether the Confession finds original guilt in the clause itself or in
 5:15-19. The Greek wording behind both translations is not captured in this
 base.
+
+**Amended 2026-10-06.** The Greek is now captured, and the last sentence above
+no longer holds. The clause is four words with no noun, so the two English
+forms are two readings of a relative pronoun, not two translations of a word;
+one commentary on file (Sanday and Headlam, 1905) takes it as 'because' and
+moves the question to the sense in which all sinned. See
+[[in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559]].

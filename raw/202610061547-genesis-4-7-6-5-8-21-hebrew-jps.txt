@@ -1,0 +1,52 @@
+Verbatim capture for reference 202610061547 (scripture, FR-9).
+Genesis 4:7, 6:5 and 8:21 -- the verses the rabbinic texts captured this cycle
+use for the evil inclination (yetzer ha-ra). Hebrew and English numbering
+agree for all three verses.
+(1) Hebrew: "Miqra according to the Masorah" (licence as declared by Sefaria:
+    CC-BY-SA; version source https://he.wikisource.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9:Dovi/%D7%9E%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%A4%D7%99_%D7%94%D7%9E%D7%A1%D7%95%D7%A8%D7%94).
+(2) English: "THE JPS TANAKH: Gender-Sensitive Edition" (licence as declared by Sefaria:
+    CC-BY-NC; version source https://jps.org/books/the-jps-tanakh-gender-sensitive-edition/).
+    Both from the Sefaria API (https://www.sefaria.org/api/texts/Genesis.4.7,
+    .../Genesis.6.5 and .../Genesis.8.21, each with ?context=0&pad=0), fetched
+    2026-10-06T15:41:30Z to 2026-10-06T15:41:32Z via curl through the
+    session's egress proxy.
+(3) English, King James Version (public domain), Genesis 6:5 only, as served
+    by bible-api.com (https://bible-api.com/genesis+6:5?translation=kjv),
+    fetched 2026-10-06T15:45:34Z. The KJV of Genesis 4:7 and 8:21 is already
+    on file in raw/202610032100-sin-as-act-and-sin-as-condition-passages-kjv.txt
+    and is not repeated here.
+Markup (poetry spans, small-caps tags around the divine name, line breaks)
+stripped and whitespace normalized; JPS footnote markers removed and any
+footnote text given separately below its verse; the Hebrew cantillation and
+vowel points are kept exactly as served. No other change.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (Hebrew, Genesis 4:7) ---
+הֲל֤וֹא אִם־תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֙יךָ֙ תְּשׁ֣וּקָת֔וֹ וְאַתָּ֖ה תִּמְשׇׁל־בּֽוֹ׃
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English JPS, Genesis 4:7) ---
+Surely, if you do right, There is uplift. But if you do not do right Sin couches at the door; Its urge is toward you, Yet you can be its master.”
+--- END VERBATIM ---
+
+(JPS footnote(s) on Genesis 4:7, removed from the line above and given here: Meaning of verse uncertain.)
+
+--- BEGIN VERBATIM (Hebrew, Genesis 6:5) ---
+וַיַּ֣רְא יְהֹוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכׇל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כׇּל־הַיּֽוֹם׃
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English JPS, Genesis 6:5) ---
+GOD saw how great was human wickedness on earth—how every plan devised by the human mind was nothing but evil all the time.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Hebrew, Genesis 8:21) ---
+וַיָּ֣רַח יְהֹוָה֮ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹֽא־אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כׇּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English JPS, Genesis 8:21) ---
+GOD smelled the pleasing odor, and GOD resolved: “Never again will I doom the earth because of humankind, since the devisings of the human mind are evil from youth; nor will I ever again destroy every living being, as I have done.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English KJV, Genesis 6:5) ---
+And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
+--- END VERBATIM ---

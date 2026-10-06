@@ -14,6 +14,8 @@ The knowledge layer is never rolled back, whatever a proposal's outcome (FR-33).
 | 2026-09-18 | 202609182350 | capture-verification | proposed | Codify the capture-extent and quotation-span check that five cycles (2026-09-04, 09-05, 09-06, 09-15, 09-18) each rewrote from scratch, with the normaliser rules and the header-honesty rule the critic asked to have filed on 2026-09-05. |
 | 2026-09-18 | 202609182350 | capture-verification | trial | with=0.85 without=0.852 (n=3) |
 | 2026-09-21 | 202609182350 | capture-verification | Accepted | Approved by the repository owner (Nathan Davis), 2026-09-21, who reviewed the proposal and directed promotion ('I accept capture-verification skill. Please implement and promote it.'). Accepted despite an A/B trial that showed no measurable difference (with=0.85 vs without=0.852, n=3): as with the 2026-09-01 source-access-triage trial, the three trial questions are research questions whose sources were already captured, so none of them exercises the skill's actual subject -- proving that a capture contains what a note cites from it -- and a delta of -0.002 is noise. The procedure it codifies was re-invented from scratch in five cycles (2026-09-04, 09-05, 09-06, 09-15, 09-18), and each rewrite carried a fresh defect: an Arabic normaliser that swallowed letters, a quote-pairing regex that reported prose as missing, and captures whose headers overstated their extent. Before promotion its reference implementation was extracted and exercised: clean on notes known good, correct on a planted false quotation, and across 22 notes and 224 spans it found one real violation of its own rule already on main (permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914 double-quoted its own phrase), fixed in the same commit. |
+| 2026-10-06 | 202610061551 | capture-verification | proposed | Make the approved checker agree with its own procedure: fix the four false-positive defects the 2026-09-21 full-scope sweep filed (no case folding, markdown emphasis, editorial brackets, line-end hyphenation) and three of the same kind found re-measuring (dash typography, space before punctuation, JSON line breaks); whole base 623 -> 492 misses plus 15 advisory CASE lines, negative controls still caught, the open HUMAN RULING questions left untouched. |
+| 2026-10-06 | 202610061551 | capture-verification | trial | with=0.847 without=0.825 (n=3) |
 
 ## 202609011101 proposed source-access-triage (2026-09-01)
 
@@ -412,3 +414,312 @@ index 0000000..eb9b32e
 - kind: create
 - reason: Approved by the repository owner (Nathan Davis), 2026-09-21, who reviewed the proposal and directed promotion ('I accept capture-verification skill. Please implement and promote it.'). Accepted despite an A/B trial that showed no measurable difference (with=0.85 vs without=0.852, n=3): as with the 2026-09-01 source-access-triage trial, the three trial questions are research questions whose sources were already captured, so none of them exercises the skill's actual subject -- proving that a capture contains what a note cites from it -- and a delta of -0.002 is noise. The procedure it codifies was re-invented from scratch in five cycles (2026-09-04, 09-05, 09-06, 09-15, 09-18), and each rewrite carried a fresh defect: an Arabic normaliser that swallowed letters, a quote-pairing regex that reported prose as missing, and captures whose headers overstated their extent. Before promotion its reference implementation was extracted and exercised: clean on notes known good, correct on a planted false quotation, and across 22 notes and 224 spans it found one real violation of its own rule already on main (permanent/deuteronomy-29-29-anchors-the-hidden-knowledge-partition--202609151914 double-quoted its own phrase), fixed in the same commit.
 - scores: with=0.85 without=0.852 (n=3)
+
+## 202610061551 proposed capture-verification (2026-10-06)
+
+- kind: patch
+- motivation: Make the approved checker agree with its own procedure: fix the four false-positive defects the 2026-09-21 full-scope sweep filed (no case folding, markdown emphasis, editorial brackets, line-end hyphenation) and three of the same kind found re-measuring (dash typography, space before punctuation, JSON line breaks); whole base 623 -> 492 misses plus 15 advisory CASE lines, negative controls still caught, the open HUMAN RULING questions left untouched.
+
+````diff
+diff --git a/skills/capture-verification/PURPOSE.md b/skills/capture-verification/PURPOSE.md
+index c7c2a70..3bcb94d 100644
+--- a/skills/capture-verification/PURPOSE.md
++++ b/skills/capture-verification/PURPOSE.md
+@@ -1,10 +1,10 @@
+ ---
+ skill: capture-verification
+-status: approved
+-proposal_id: '202609182350'
+-kind: create
+-proposed: '2026-09-18'
+-decided: '2026-09-21'
++status: proposed
++proposal_id: '202610061551'
++kind: patch
++proposed: '2026-10-06'
++decided: ''
+ ---
+ # Purpose — capture-verification
+ 
+@@ -20,10 +20,26 @@ claude/hidden-knowledge-god-ucv4n1), the first skill-smith step run since
+ 2026-09-01 although the cadence is weekly. The smith read manifest.json (330
+ notes after this cycle's additions), the whole of skill-impact.md (one prior
+ proposal, source-access-triage, approved 2026-09-01), and the run traces in
+-log.md and INBOX.md from 2026-09-04 to 2026-09-18.
++log.md and INBOX.md from 2026-09-04 to 2026-09-18. Approved by the owner on
++2026-09-21 (proposal 202609182350).
++
++**Patch, 2026-10-06 (proposal 202610061551).** Proposed by the skill-smith
++step of the 2026-10-06 maintenance cycle (run zettel/run-20261006154005; the
++smith worked in the isolated worktree zettel/smith-20261006 off c5619fa),
++the first smith run since 2026-09-18 on a weekly cadence. The smith read
++manifest.json (522 notes: 195 permanent, 169 literature, 155 reference, 3
++MOC) and INDEX.md, the whole of skill-impact.md (two proposals, both
++approved, none rejected), the log.md traces of 2026-09-18, the 2026-09-21
++promotion session and maintenance cycle, 2026-09-23, the three 2026-10-03
++runs and the open 2026-10-06 cycle, and the INBOX entries of 2026-09-18,
++2026-09-21 and 2026-10-03. The patch makes the approved skill's reference
++implementation agree with its own procedure. It changes no rule about what a
++note may quote.
+ 
+ ## Patterns-Addressed
+ 
++### Created 2026-09-18
++
+ One procedure, re-invented from scratch in at least five cycles, and one
+ failure it would have caught earlier each time:
+ 
+@@ -70,8 +86,101 @@ replicated, the replicating paper's audit of the original should be read
+ first. It is recorded in the INBOX entry "Leads left open by the offloading
+ cycle" and remains available to a later smith.
+ 
++### Patched 2026-10-06
++
++The first full-scope run of the approved skill found that its reference
++implementation contradicts the skill's own procedure, and filed the fix for
++this smith:
++
++- **2026-09-21T21:09Z** (log, step 6 critic, first cycle after promotion):
++  2,452 quoted spans across every literature and permanent note; "600 raw
++  misses, reduced to 536 by fixing FOUR defects in the skill's own reference
++  implementation -- no case folding (45 spans, and the skill's step 1 already
++  requires a case-insensitive search ...), no markdown-emphasis stripping, no
++  editorial-bracket handling ([W]e, [f]or), and no hyphenation joining across
++  a capture's line wrapping." The INBOX entry of the same date, "HUMAN RULING
++  NEEDED: the first full-scope capture-verification sweep, 536 flagged
++  spans", names the four defects and files the patch here; the
++  **2026-09-21T21:10Z** step 7 line defers it to this cycle.
++
++Reproduced on 2026-10-06 with the approved code. On the 316 notes present on
++2026-09-21 it gives exactly that sweep's baseline, 2,452 spans and 600
++misses. On the whole base today it gives 2,804 spans and 623 misses. Each fix
++was switched on alone, and every span it clears was read:
++
++1. **Case** (44 spans): 29 differ only in a first letter capitalised or
++   lowered at the quotation's start, as in
++   [[the-shema-confesses-one-lord-with-a-live-translation-crux--202608311931]];
++   15 differ further inside, chiefly
++   [[tachin-makes-accepted-trinitarian-worship-the-test--202608311935]],
++   whose captured abstract is in Title Case. Those 15 are now listed as CASE,
++   not hidden, because step 4 still wants a lemma's capitals restored.
++2. **Emphasis markers** (23): `*d*`, `**...**` and `*ad extra*` in
++   [[agarwal-nunes-and-blunt-audited-the-classroom-half-and-declined-to-meta-analyse--202609040510]]
++   and [[hodge-on-the-two-readings-the-councils-ruled-out--202609041715]].
++3. **Editorial brackets** (8): `[W]e`, `[T]he`, `[f]or` in the Agarwal note
++   and `o[f]` in
++   [[luhmann-frames-the-slip-box-as-a-communication-partner--202609010112]],
++   where the capture really reads "partner o communication", a typo in the
++   published translation. That is why a bracket is treated as a gap, like an
++   ellipsis, and not just unwrapped.
++4. **Line-end hyphenation** (37 spans in 13 notes, each checked to contain
++   a word its capture breaks at a line end): ten in
++   [[van-horn-records-the-concession-and-argues-that-counterfactuals-can-be-natural-or-free-but-not-middle--202609111817]],
++   nine in
++   [[laing-argues-that-calvinist-middle-knowledge-is-caught-in-a-dilemma--202609111818]],
++   four in
++   [[ware-makes-exhaustive-foreknowledge-the-boundary-of-evangelicalism--202609111819]].
++   One Ware span crosses both `un-` / `acceptable` and a real compound broken at
++   a line end, `logically-` / `necessary`, so neither joining nor keeping the
++   hyphen works for the whole capture. Hyphens and dashes are therefore
++   dropped on both sides instead.
++
++Three more checker false positives of the same kind turned up while
++measuring the patch, and are fixed with it:
++
++5. **Dash typography** (12): a note's ` -- ` against the capture's em dash, as
++   in [[patach-eliyahu-names-the-sefirot-and-leaves-ein-sof-nameless--202609011536]]
++   ("One -- but not in number").
++6. **Space before punctuation** (3): the stored text capture raw/202609042070
++   reads "cause , for", which
++   [[aquinas-argues-simplicity-from-dependence-and-stops-short-of-the-attributes--202609042076]]
++   quotes as "cause, for".
++7. **JSON line breaks** (3): the bible-api captures hold the verse text with
++   escaped `\n`, as in
++   [[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]]
++   ("healed\nthem").
++
++The 2026-10-03T21:20:59Z critic line's "two misses are New Advent anchor-tag
++artifacts" did not reproduce under the approved code, because the double tag
++strip already covers it. Nothing was changed for it.
++
++Measured result: on the 2026-09-21 notes, 600 misses become 498 with the four
++filed fixes and 483 with all seven, plus 15 CASE lines. The sweep's own
++four-fix script, which gave 536, is not on file, so the two cannot be
++compared span by span. On the whole base, 623 become 492, plus 15 CASE.
++Negative controls on real references still report MISS for a fabricated
++quotation, for numerals and wording altered behind a bracket and emphasis,
++for wording altered after a bracket, and for wording altered across a
++capture's line-end hyphen. Case-altered spans are reported as CASE. One
++accepted leniency is new: a misplaced hyphen inside a word now passes.
++
++Not addressed, deliberately: the questions the 2026-09-21 entry puts to the
++owner. These are translations in double quotes, the base's own phrases in
++double quotes, and gate enforcement. Most of the 492 remaining misses fall
++under them. A few are real slips in notes that the skill already tells a run
++to fix, such as a silently corrected OCR "beirg" in the Paley note and a long
++s modernised from the OCR "fo" in the Price-based compounding note.
++
++Considered and not taken, because one proposal is the limit: the INBOX entry
++"Access: NPNF texts" (2026-09-18) asks for NPNF host notes in
++source-access-triage. Its rule that bytes are evidence and size is not is
++already step 1 here. The host notes, and the 2026-09-04 replication-audit
++candidate above, remain available to a later smith.
++
+ ## Evolution-History
+ | date | change | outcome |
+ |------|--------|---------|
+ | 2026-09-18 | created (proposal 202609182350) | proposed |
+ | 2026-09-21 | promoted | Accepted |
++| 2026-10-06 | patched (proposal 202610061551): reference implementation's false positives fixed (case folding with CASE lines, emphasis markers, editorial brackets as gaps, hyphens and dashes dropped, no space before punctuation, JSON line breaks); steps 3 and 5 updated to match; note added that the 2026-09-21 ruling is pending | proposed |
+diff --git a/skills/capture-verification/SKILL.md b/skills/capture-verification/SKILL.md
+index eb9b32e..44acf3f 100644
+--- a/skills/capture-verification/SKILL.md
++++ b/skills/capture-verification/SKILL.md
+@@ -57,17 +57,30 @@ in raw/ contain the words the note says it does?
+    capture the note is entitled to cite: a literature note's one reference
+    capture (plus that reference's `excerpt_captures`); a permanent note's
+    every linked reference's captures. Normalise both sides the same way:
+-   Unicode NFKC, typographic quotes to straight, en, em and figure dashes to
+-   a hyphen, non-breaking spaces to spaces, whitespace runs to one space, and
+-   then drop quote characters on both sides so that a note's single quotes
+-   inside double quotes still match. For HTML captures strip tags twice, once
+-   to a space and once to nothing, and accept a match in either, because
+-   inline links split words on one strip and join punctuation on the other.
+-   Pair quotation marks sequentially, not by regular expression with a
+-   minimum length, or a short quoted word will pair a closing mark with the
+-   next opening one and report the prose between them as a miss. Split a
+-   span on an ellipsis and require every part. Run the check on the note
+-   files themselves, not on drafts.
++   Unicode NFKC, soft hyphens dropped, typographic quotes to straight, en,
++   em and figure dashes to a hyphen, non-breaking spaces to spaces,
++   whitespace runs to one space and no space before punctuation (a capture
++   stored as tag-stripped text can read `cause , for`). Then drop, on both
++   sides, quote characters, so that a note's single quotes inside double
++   quotes still match; markdown emphasis markers (`*d*`, `**...**`,
++   `_term_`), so that a note's italics still match; and every hyphen or dash
++   together with the spaces around it, so that a word a PDF or OCR capture
++   breaks at a line end (`un-` / `acceptable`), a compound that falls at a
++   line end (`logically-` / `necessary`), and a note's ` -- ` for an em dash
++   all match. Read a stored JSON response's escaped line breaks (`\n`) as
++   spaces (the bible-api captures). Compare without regard to case, as step 1
++   requires, but list separately, as CASE and not as a miss, a span that
++   matches only in another case beyond its first letter, so that a lemma a
++   translation prints in capitals stays visible for step 4. For HTML
++   captures strip tags twice, once to a space and once to nothing, and
++   accept a match in either, because inline links split words on one strip
++   and join punctuation on the other. Pair quotation marks sequentially, not
++   by regular expression with a minimum length, or a short quoted word will
++   pair a closing mark with the next opening one and report the prose
++   between them as a miss. Split a span on an ellipsis and on an editorial
++   bracket (`[W]e`, `o[f]`, `[is]`, `[the true]`) and require every part:
++   the bracketed words are the note's own, not the source's. Run the check
++   on the note files themselves, not on drafts.
+ 
+ 4. **Treat every miss as the note's problem.** A span not found is fixed in
+    the note, never by editing the capture: restore the source's exact
+@@ -87,29 +100,55 @@ in raw/ contain the words the note says it does?
+    written with an ASCII quote mark (as in הקב"ה) break sequential pairing:
+    paraphrase them or quote around them. Footnote numbers embedded inline in
+    a served text (Chavel, Rolt, Strickman-Silver) will sit inside a span that
+-   crosses them; choose spans that do not.
++   crosses them; choose spans that do not. Archive.org OCR can print a
++   line-end hyphen as `¬` (the Price and Locke captures), which the check
++   does not join; quote around the break or check it by eye. The check is
++   lenient by design where it must be: an ellipsis or an editorial bracket
++   can hide an omission or a substitution, the words inside a bracket are
++   not checked at all, hyphens and dashes are not compared (a note's
++   `compat-ibilist` passes), and a part's first letter is never compared for
++   case. A clean run says the words are present in the capture, not that the
++   excerpt is fair; that is still the critic's reading.
++
++**Pending ruling.** The first full-scope sweep (2026-09-21) left misses of two
++kinds whose treatment waits on the owner, in the INBOX entry "HUMAN RULING
++NEEDED: the first full-scope capture-verification sweep": this base's own
++English of a captured Arabic or Hebrew passage set in double quotes, and this
++base's own phrases set in double quotes across the existing notes. The same
++entry asks whether a gate should enforce this check. This skill does not
++decide any of the three; the 2026-10-06 patch removed only the checker's own
++false positives, and spans of both kinds are reported as misses as before.
+ 
+ ## Reference implementation
+ 
+ The check the 2026-09-15 and 2026-09-18 cycles ran, kept here so it is not
+-rewritten a sixth time. Run from the content repo root with the note paths as
+-arguments; exit status is informational, the miss lines are the finding.
++rewritten a sixth time. Patched on 2026-10-06 for the false positives the
++2026-09-21 full-scope sweep measured (case, emphasis markers, editorial
++brackets, line-end hyphenation) and three more of the same kind found while
++measuring the patch (dash typography, a space before punctuation, JSON line
++breaks). Run from the content repo root with the note paths as arguments;
++exit status is informational. MISS lines are the finding; CASE lines are
++advisory, for step 4.
+ 
+ ```python
+ import sys, re, html, unicodedata, yaml, glob
+ 
+ def norm(s):
+-    s = unicodedata.normalize("NFKC", s)
++    s = unicodedata.normalize("NFKC", s).replace("\xad", "")
+     for a, b in (("“", '"'), ("”", '"'), ("‘", "'"), ("’", "'"),
+                  ("—", "-"), ("–", "-"), ("‒", "-"), ("\xa0", " ")):
+         s = s.replace(a, b)
+-    return re.sub(r"\s+", " ", s)
++    s = re.sub(r"\s+", " ", s)
++    return re.sub(r" (?=[,;:.!?])", "", s)         # "cause , for"
+ 
+ def letters(s):
+-    return re.sub(r"['\"`]", "", s)
++    # no letters in quote marks, emphasis markers (*d*, **bold**, _term_), or
++    # hyphens and dashes with their spaces ("un- acceptable", "One -- but")
++    return re.sub(r"['\"`*]|(?<!\w)_+|_+(?!\w)| ?-+ ?", "", s)
+ 
+ def capture_texts(path):
+     t = open(path, encoding="utf-8", errors="replace").read()
++    t = re.sub(r"\\[nrt]", " ", t)                  # a stored JSON response's "\n"
+     if path.endswith((".html", ".htm")):
+         t = re.sub(r"<script.*?</script>|<style.*?</style>", "", t, flags=re.S)
+         return [letters(norm(html.unescape(re.sub(r"<[^>]+>", " ", t)))),
+@@ -126,10 +165,18 @@ def captures(refkey):
+     if refkey not in cache:
+         m, _ = load(f"reference/{refkey}.md")
+         paths = ([m["raw_capture"]] if m.get("raw_capture") else []) + list(m.get("excerpt_captures") or [])
+-        cache[refkey] = [t for p in paths for t in capture_texts(p)]
++        cache[refkey] = [(t, t.casefold()) for p in paths for t in capture_texts(p)]
+     return cache[refkey]
+ 
+-total = misses = 0
++def found(piece, caps):
++    # exact, or differing only in the case of its first letter: present
++    if any(piece in t or piece[0].swapcase() + piece[1:] in t for t, _ in caps):
++        return "ok"
++    return "case" if any(piece.casefold() in f for _, f in caps) else "miss"
++
++GAP = r"\s*(?:\.\.\.|\[[^\]]*\])\s*"             # an ellipsis or an editorial bracket
++
++total = misses = cased = 0
+ for notepath in sys.argv[1:]:
+     m, body = load(notepath)
+     refs = [m["reference"]] if m.get("type") == "literature" else \
+@@ -140,9 +187,13 @@ for notepath in sys.argv[1:]:
+         if len(span) < 12:
+             continue
+         total += 1
+-        pieces = [p.strip(" .,;:") for p in re.split(r"\s*\.\.\.\s*", letters(span).strip(" .,;:")) if p.strip(" .,;:")]
+-        if not caps or not all(any(p in c for c in caps) for p in pieces):
++        pieces = [p.strip(" .,;:") for p in re.split(GAP, letters(span).strip(" .,;:")) if p.strip(" .,;:")]
++        result = [found(p, caps) for p in pieces] if caps else ["miss"]
++        if "miss" in result:
+             misses += 1
+             print(f"MISS {notepath}: {span[:120]!r}")
+-print(f"checked {total} spans in {len(sys.argv) - 1} notes, {misses} misses")
++        elif "case" in result:
++            cased += 1
++            print(f"CASE {notepath}: {span[:120]!r}")
++print(f"checked {total} spans in {len(sys.argv) - 1} notes, {misses} misses, {cased} case-only")
+ ```
+````
+
+## 202610061551 trial capture-verification (2026-10-06)
+
+- scores: with=0.847 without=0.825 (n=3)
+- scores-file: trial-capture-verification.json

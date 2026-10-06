@@ -1,0 +1,40 @@
+Verbatim capture for reference 202610061549.
+Kiddushin 30b, three consecutive segments (Sefaria segments 4-6 of the folio as
+served, counting from 1): "I created an evil inclination ... and I created
+Torah as its antidote", read from Genesis 4:7; and the baraita that even its
+Creator calls it evil (Genesis 8:21), with Rav Yitzhak on its daily renewal
+(Genesis 6:5).
+As served by the Sefaria API (https://www.sefaria.org/api/texts/Kiddushin.30b?context=0&pad=0),
+fetched 2026-10-06T15:41:33Z via curl through the session's egress proxy.
+English version: "William Davidson Edition - English" (licence as declared by Sefaria: CC-BY-NC).
+Aramaic/Hebrew version: "William Davidson Edition - Vocalized Aramaic" (licence as declared by Sefaria: CC-BY-NC).
+Markup (bold tags marking the translation's literal words) stripped and
+whitespace normalized; no other change. Segment 4 opens with the
+nimshal of a parable whose first half (the father, the son and the bandage)
+ends segment 3, which is not captured; nor are the other segments of the
+folio.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English, Kiddushin 30b segment 4) ---
+So too the Holy One, Blessed be He, said to Israel: My children, I created an evil inclination, which is the wound, and I created Torah as its antidote. If you are engaged in Torah study you will not be given over into the hand of the evil inclination, as it is stated: “If you do well, shall it not be lifted up?” (Genesis 4:7). One who engages in Torah study lifts himself above the evil inclination.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Kiddushin 30b segment 4) ---
+כָּךְ הַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לָהֶם לְיִשְׂרָאֵל: בָּנַי, בָּרָאתִי יֵצֶר הָרָע וּבָרָאתִי לוֹ תּוֹרָה תַּבְלִין. וְאִם אַתֶּם עוֹסְקִים בַּתּוֹרָה – אֵין אַתֶּם נִמְסָרִים בְּיָדוֹ, שֶׁנֶּאֱמַר: ״הֲלוֹא אִם תֵּיטִיב שְׂאֵת״,
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Kiddushin 30b segment 5) ---
+And if you do not engage in Torah study, you are given over to its power, as it is stated: “Sin crouches at the door” (Genesis 4:7). Moreover, all of the evil inclination’s deliberations will be concerning you, as it is stated in the same verse: “And to you is its desire.” And if you wish you shall rule over it, as it is stated in the conclusion of the verse: “But you may rule over it” (Genesis 4:7).
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Kiddushin 30b segment 5) ---
+וְאִם אֵין אַתֶּם עוֹסְקִין בַּתּוֹרָה – אַתֶּם נִמְסָרִים בְּיָדוֹ, שֶׁנֶּאֱמַר: ״לַפֶּתַח חַטָּאת רֹבֵץ״, וְלֹא עוֹד אֶלָּא שֶׁכׇּל מַשָּׂאוֹ וּמַתָּנוֹ בְּךָ, שֶׁנֶּאֱמַר: ״וְאֵלֶיךָ תְּשׁוּקָתוֹ״. וְאִם אַתָּה רוֹצֶה אַתָּה מוֹשֵׁל בּוֹ, שֶׁנֶּאֱמַר: ״וְאַתָּה תִּמְשׇׁל בּוֹ״.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Kiddushin 30b segment 6) ---
+The Sages taught: So difficult is the evil inclination that even its Creator calls it evil, as it is stated: “For the inclination of a man’s heart is evil from his youth” (Genesis 8:21). Rav Yitzḥak says: A person’s evil inclination renews itself to him every day, as it is stated: “And that every inclination of the thoughts in his heart was only evil all day [kol hayyom]” (Genesis 6:5). “Kol hayyom” can also be understood as: Every day.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Kiddushin 30b segment 6) ---
+תָּנוּ רַבָּנַן: קָשֶׁה יֵצֶר הָרָע, שֶׁאֲפִילּוּ יוֹצְרוֹ קְרָאוֹ רַע, שֶׁנֶּאֱמַר: ״כִּי יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו״. אָמַר רַב יִצְחָק: יִצְרוֹ שֶׁל אָדָם מִתְחַדֵּשׁ עָלָיו בְּכׇל יוֹם, שֶׁנֶּאֱמַר: ״רַק רַע כׇּל הַיּוֹם״.
+--- END VERBATIM ---

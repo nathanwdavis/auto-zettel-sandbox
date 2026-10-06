@@ -1,0 +1,470 @@
+Excerpt capture for reference 202610061546.
+William Sanday and Arthur C. Headlam, A Critical and Exegetical Commentary on
+the Epistle to the Romans, International Critical Commentary, 10th ed. (New
+York: Charles Scribner's Sons, 1905) -- the title page of this scan reads
+"TENTH EDITION" and "CHARLES SCRIBNER'S SONS 1905". Public domain (published
+1905; both authors died before 1956).
+Source: the Internet Archive item criticalexegetic00sandrich
+(https://archive.org/details/criticalexegetic00sandrich), its full-text OCR
+file criticalexegetic00sandrich_djvu.txt, fetched 2026-10-06T15:42:43Z via
+curl through the session's egress proxy (1,868,618 bytes).
+Extent: the OCR text from the section heading "THE FALL OF ADAM AND THE WORK
+OF CHRIST" (p. 130, foot) to the end of the excursus "The Effects of Adam's
+Fall in Jewish Theology" (p. 138, the sentence ending "he must stand or
+fall"), i.e. the summary of Rom 5:12-14, the verse notes on 5:12, 5:13 and
+5:14, and the excursus. Lines 15359-15803 of the OCR file, copied
+byte for byte: the OCR's own errors (e.g. "WORE" for WORK, "Fewish" for
+Jewish, "6" and "@" for the Greek relative ᾧ in places, running heads and
+page numbers inside the text, garbled Latin in the 4 Ezra quotations) are
+NOT corrected, because this is a record of what the scan says. Notes citing
+this capture must quote around OCR damage, never silently repair it. Pages
+before 130 and after 138 are not captured.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (OCR, pp. 130-138) ---
+THE FALL OF ADAM AND THE WORE OF CHRIST. 
+
+
+V. 12-14. What a contrast does this last description 
+suggest between the Fall of Adam and the justifying Work 
+of Christ! There is indeed parallelism as well as contrast. 
+Fer it is true that as Christ brought righteousness and life, 
+so Adam's Fall brought sin and death. If death prevailed 
+throughout the bre-Mosatc period, that could not be due solely 
+
+
+V. 12-14.) ADAM AND CHRIST 131 
+
+
+to the act of i\wse who died. Death is the punishment of 
+sin; but they hud not sinned against law as Adam had. 
+The true cause then was not their own sin, but Adam's ; 
+whose fall thus had consequences extending beyond itself, like 
+the redeeming act of Christ. 
+
+
+13 The description just gien of the Work of Christ, first justifying 
+and reconciling the sinner, aad then holding out to him the hope 
+of final salvation, brings out forcibly the contrast between the 
+two great Representatives of 1}umanity—Adam and Christ. The 
+act by which Adam fell, like the act of Christ, had a far-reaching 
+effect upon mankind. Through his Fall, Sin, as an active principle, 
+first gained an entrance among the human race; and Sin brought 
+with it the doom of (physical) Death. So that, through Adam’s 
+Fall, death pervaded the whole body of his descendants, because 
+they one and all fell into sin, and died as he had died. When 
+I say ‘they sinned’ I must insert a word of qualification. In the 
+strict sense of full responsibility, they could not sin: for that 
+attaches only to sin against law, and they had as yet no law to 
+sin against. ™Yet they suffered the full penalty of sin. All 
+through the long period which intervened between Adam and the 
+Mosaic legislation, the tyrant Death held sway; even though 
+those who died had not sinned, as Adam had, in violation of 
+an express command. This proved that something deeper was 
+at work: and that could only be the transmitted effect of Adam’s 
+sin. It is this transmitted effect of a single act which made Adam 
+a type of the coming Messiah. 
+
+
+12. διὰ τοῦτο: points to the logical connexion with what pre- 
+cedes. It has been argued, at somewhat disproportionate length, 
+whether this refers to ver. 11 only (Fricke, De A/ente dogmatica loct 
+Paulint ad Rom. v. 12 sq., Lipsiae, 1880, Mey., Philippi, Beet), or 
+to vv. 9-11 (Fri.), or to vv. 1-11 (Rothe, Hofmann), or to the 
+whole discussion from i. 17 onwards (Beng., Schott, Reiche, 
+Riickert). We cannot lay down so precisely how much was 
+consciously present to the mind of the Apostle. But as the lead- 
+ing idea of the whole section is the comparison of the train of 
+consequences flowing from the Fall of Adam with the train of 
+consequences flowing from the Justifying Act of Christ, it seems 
+natural to include at least as much as contains a brief outline of 
+that work, i.e. as far as vv. I-11. 
+
+
+Ξ 3 
+
+
+132 EPISTLE TO THE ROMANS [ν. 12. 
+
+
+That being so, we cannot with Fricke infer from ver. 11 that 
+St. Paul only wishes to compare the result of death in the one 
+case with that of 7 in the other. Fricke, however, is right in 
+saying that his object is not to inquire into the origin of death 
+or sin. The origin of both is assumed, not propounded as 
+anything new. ‘This is important for the understanding of the 
+bearings of the passage. All turns on this, that the effects of 
+Adam’s Fall were transmitted to his descendants; but St. Paul 
+nowhere says how they were transmitted; nor does he even define 
+in precise terms wha is transmitted. He seems, however, to mean 
+(1) the liability to sin, (2) the liability to die as the punishment 
+of sin, 
+
+ὥσπερ. The structure of the paragraph introduced by this 
+word (to the end of ver. 14) is broken in a manner very character- 
+istic of St. Paul. He begins the sentence as if he intended it to 
+Tun: ὥσπερ δι ἑνὸς ἀνθρώπου ἡ ἁμαρτία εἰς τὸν κόσμον εἰσῆλθε, καὶ διὰ 
+τῆς ἁμαρτίας ὁ θάνατος . . . οὕτω καὶ δι’ ἑνὸς ἀνθρώπου ἡ δικαιοσύνη 
+εἰσῆλθε, καὶ διὰ τῆς δικαιοσύνης ἡ Con. But the words διὰ τῆς ἅμαρ- 
+τίας ὁ θάνατος bring up the subject which St. Paul is intending to 
+raise, viz. the connexion of sin and death with the Fall of Adam: 
+he goes off upon this, and when he has discussed it sufficiently 
+for his purpose, he does not return to the form of sentence 
+which he had originally planned, but he attaches the clause 
+comparing Christ to Adam by a relative (és ἐστι τύπος τοῦ μέλλοντος) 
+to the end of his digression: and so what should have been the 
+main apodosis of the whole paragraph becomes merely sub- 
+ordinate. It is a want of finish in style due to eagerness and 
+intensity of thought; but the meaning is quite clear. Compare 
+the construction of ii. 16; iii. 8, 26. 
+
+ἡ ἁμαρτία: Sin, as so often, is personified: it is a malignant 
+force let loose among mankind: see the fuller note at the end of 
+the chapter. 
+
+εἰς τὸν κόσμον εἰσῆλθε: a phrase which, though it reminds us 
+specially of St. John (John i. 9, 10; ili. 17, 19; vi. 14; ix. 5, 
+39; x. 36, &c.), is not peculiar to him (cf. 1 Tim, i. 15; Heb. 
+x. 5). St. John and the author of Heb. apply it to the personal 
+incarnation of the Logos; here it is applied to the impersonal 
+self-diffusion of evil. 
+
+ὁ θάνατος. Some have taken this to mean ‘eternal death,’ 
+chiefly on the ground of wv. 17, 21, where it seems to be opposed 
+to ‘eternal life.’ Oltr. is the most strenuous supporter of this 
+view. But it is far simpler and better to take it of ‘physical 
+death’: because (1) this is clearly the sense of ver. 14; (2) it is 
+the sense of Gen. ii. 17; iii. 19; to which St. Paul is evidently 
+alluding. It seems probable that even in vv. 17, 21, the idea 
+is in the first instance physical. But St. Paul does not draw the 
+
+
+V. 12.) ADAM AND CHRIST 133 
+
+
+marked distinction that we do between this life and the life to 
+come. The mention of death in any sense is enough to suggest 
+the contrast of life in all its senses. The Apostle’s argument 
+is that the gift of life and the benefits wrought by Christ are 
+altogether wider in their range than the penalty of Adam’s sin; 
+ὑπερεπερίσσευσεν ἥ χάρις is the keynote of the passage. It is not 
+necessary that the two sides, of the antith sis should exactly cor- 
+respond. In each particular the scale weighs heavily in favour 
+of the Christian. 
+
+
+The Western text (D E F G, &c.) omits this word altogether. Aug. 
+makes the subject of the vb. not death but sin: he accuses the Pelagians 
+of inserting (the second) 6 θάνατος. 
+
+
+διῆλθεν: contains the force of distribution; ‘made its way to 
+each individual member of the race’: καθάπερ τις κλῆρος πατρὸς 
+διαβὰς ἐπὶ τοὺς ἐγγόνους (‘like a father’s inheritance divided among 
+his children’), Euthym.-Zig. 
+
+ἐφ᾽ 6. Though this expression has been much fought over, 
+there can now be little doubt that the true rendering is ‘ because.’ 
+(1) Orig. followed by the Latin commentators Aug. and Ambrstr. 
+took the rel. as masc. with antecedent ᾿Αδάμ: ‘in whom,’ i.e. ‘in 
+Adam.’ But in that case (i) ἐπέ would not be the right preposi- 
+tion; (ii) @ would be too far removed from its antecedent. 
+(2) Some Greeks quoted by Photius also took the rel. as masc. 
+with antecedent θάνατος : ‘in which,’ i.e. ‘in death,’ which is 
+even more impossible. (3) Some moderns, taking 6 as neut. and 
+the whole phrase as equivalent to a conjunction, have tried to 
+get out of it other meanings than ‘because.’ So (i) ‘in like 
+manner as’ (‘all died, just as all sinned’), Rothe, De Wette; 
+(ii) (= ἐφ᾽ ὅσον) ‘in proportion as,’ ‘in so far as’ (‘all died, 2” so 
+far as all sinned’), Ewald, Tholuck (ed. 1856) and others. But 
+the Greek will not bear either of these senses. (4) @ is rightly 
+taken as neut., and the phrase ἐφ᾽ ᾧ as conj.=‘because’ (‘for 
+that’ AV. and RV.) by Theodrt. Phot. Euthym,-Zig. and the mass 
+of modern commentators. This is in agreement with Greek 
+usage and is alone satisfactory. 
+
+
+ἐφ᾽ @ in classical writers more often means ‘on condition that’: cf. 
+Thuc. i. 113 σπονδὰς ποιησάμενοι ἐφ᾽ ᾧ τοὺς ἄνδρας κομιοῦνται, ‘on con- 
+dition of getting back their prisoners,’ &c. The plural ἐφ᾽ οἷς is more 
+common, as in ἀνθ’ ὧν, ἐξ ὧν, δι’ ὧν. In N.T. the phrase occurs three 
+times, always as it would seem=fropterea guod, ‘because’: cf. 2 Cor. v. 4 
+στενάζομεν βαρούμενοι: ἐφ᾽ ᾧ οὐ θέλομεν ἐκδύσασθαι x«.7.r.; Phil. iii, 12 
+ἐφ᾽ ᾧ καὶ κατελήφθην ὑπὸ Χ, Ἰ. (where ‘seeing that’ or ‘because’ appears 
+to be the more pro 8 0]6 rendering). So Phavorinus (d. 1537; a lexico- 
+grapher of the Renaissance period, who incorporated the contents of older 
+works, but here seems to be inventing his examples) ἐφ᾽ ᾧ ἀντὶ τοῦ διότι 
+λέγουσιν ᾿Αττικοί, οἷον ἐφ᾽ @ TAY κλοπὴν εἰργάσω (‘because you com- 
+mitted the theft’) «.7.A. 
+
+
+134 EPISTLE TO THE ROMANS [V. 12, 18 
+
+
+ἐφ᾽ ᾧ πάντες ἥμαρτον. Here lies the crux of this dificult pas- 
+sage. In what sense did ‘all sin’? (1) Many, including even 
+Meyer, though explaining ἐφ᾽ ᾧ as neut. rather than masc., yet 
+give to the sentence as a whole a meaning practically equivalent 
+to that which it has if the antecedent of 6 is ᾿Αδάμ. Bengel has 
+given this classical expression: omnes peccarunt, Adamo peccante, 
+‘all sinned implicitly in the sin of Adam,’ his sin involved theirs. 
+The objection is that the words supplied are far too important 
+to be left to be understood. If St. Paul had meant this, why did 
+he not say so? The insertion of ἐν ᾿Αδάμ would have removed 
+all ambiguity. (2) The Greek commentators for the most part 
+supply nothing, but take ἥμαρτον in its usual sense: ‘all sinned 
+in their own persons, and on their own initiative.’ So Euthym.- 
+Zig.: διότι πάντες ἥμαρτον ἀκολουθήσαντες τῷ προπάτορι κατά γε τὸ 
+ἁμαρτῆσαι. The objection to this is that it destroys the parallelism 
+between Adam and Christ: besides, St. Paul goes on to show 
+in the same breath that they could not sin in the same way that 
+Adam did. Sin implies law; but Adam’s descendants had no law 
+(3) It is possible however to take ἥμαρτον in its ordinary sen# 
+without severing the connexion between Adam and his posterity. 
+If they sinned, their sin was due in part to tendencies inherited 
+from Adam. So practically Stuart, Fricke, Weiss, &c. There 
+still remains the difficulty as to the connexion of this clause with 
+what follows: see the next note. 
+
+
+It is a further argument in favour of the view taken above that a very 
+similar sequence of thought is found in 4 Ezra. Immediately after laying 
+down that the sin of Adam’s descendants is due to that malignitas radicts 
+which they inherit from their forefather (see the passage quoted in full 
+below), the writer goes on to describe this sin as a repetition of Adam’s due 
+to the fact that they too had within them the cor malignum as he had: Et 
+deliquerunt gut habitabant civitatem, in omnibus facientes sicut fecit Adam 
+et omnes generationes eius, utebantur enim et ipst corde maligno (4 Ezra iii. 
+25 f.). Other passages may be quoted both trom 4 Ezra and from Afoc. 
+Baruch. which lay stress at once on the inherited tendency to sin and on the 
+freedom of choice in those who give way to it : see the fuller note below. 
+
+
+13. ἄχρι γὰρ νόμου κιτλ. At first sight this seems to give a 
+reason for just the opposite of what is wanted: it seems to prove 
+not that πάντες ἥμαρτον, but that however much men might sin 
+they had not at least the full guilt of sin. This is really what 
+St. Paul aims at proving. There is an under-current all through 
+the passage, showing how there was something else at work 
+besides the guilt of individuals. That ‘something’ is the effect 
+of Adam’s Fall. The Fall gave the predisposition to sin; and 
+the Fall linked together sin and death. 
+
+St. Paul would not say that the absence of written law did 
+away with all responsibility. He has already laid down most 
+distinctly that Gentiles, though without such written law, have 
+
+
+V. 18, 14.] ADAM AND CHRIST 135 
+
+
+law enough to be judged by (ii. 12-16); and Jews b fore the 
+time of Moses were only in the position of Gentiles. But the 
+degree of their guilt could not be the same either as that of 
+Adam, or as that of the Jews after the Mosaic legislation. 
+Perhaps it might be regarded as an open question whether, apart 
+from Adam, pre-Mosaic sins would have been punishable with 
+death, What St. Paul wishes to bring out is that prior to the 
+giving of the Law, the fate of mankind, to an extent and in a way 
+which he does not define, was directly traceable to Adam’s Fall. 
+
+“ἁμαρτία δὲ οὐκ ἐλλογεῖται κιτλ. The thought is one which 
+had evidentiy taken strong hold on St. Paul: see on iv. 15, and 
+the parallels there quoted. 
+
+ἐλλογεῖται : ‘brought into account’ (Gif.), as of an entry made 
+in a ledger. The word also occurs in Philem, 18, where see 
+Lightfoot’s note. 
+
+
+ἐλλογεῖται (or ἐνλογεῖται) NC BC DEF GKLP, &c., ἐλλογᾶται NA: 
+
+ἐνελογεῖτο N*, ἐλλογᾶτο A 52 1083; zmputabatur Valg. codd. Ambrstr. ad. 
+The imperf. appears to be a (mistaken) correction due to the context. 
+As to the form of the verb: ἐλλόγα is decisively attested in Philem. 18 ; 
+
+but it would not follow that the same form was used here where St. Paul 
+is employing a different amanuensis: however, as the tendency of the MSS. 
+is rather to obliterate vernacular forms than to introduce them, there is 
+perhaps a slight balance of probability in favour οἱ ἐλλογᾶται : see Westcott 
+and Hort, Notes on Orthography in Appendix to Lntrod. p. 166 ff. 
+
+
+14. ἐβασίλευσεν ὁ θάνατος. St. Paul appeals to the universal 
+prevalence of death, which is personified, as sin had been just 
+before, under the figure of a grim tyrant, in proot of the mis- 
+chief wrought by Adam’s Fall. Nothing but the Fall could 
+account for that universal prevalence. Sin and death had their 
+beginnings together, and they were propagated side by side. 
+
+
+On the certainty and universality of Death, regarded as a penalty, comp. 
+Seneca, Wat. Quaest. ii. 59 Lodem citius tardiusve veniendum est... in 
+omnes constitutum est capitale supplictum et quidem constetuttone tustissima. 
+nam quod magnum solet esse solattum extrema passuris, quorum eadem 
+causa et sors eadem est. Similarly Philo speaks of τὸν συμφυᾶ νεκρὸν ἡμῶν, 
+τὸ σῶμα (De Gigant. 33 ed. Mang. i. 264). Elsew here he goes a step further 
+and asserts ὅτι παντὶ γεννητῷ ... συμφυὲς τὸ ἁμαρτάνειν. For parallels in 
+4 Ezra and Apoc. Baruch. see below. 
+
+ἐπὶ τοὺς μὴ ἁμαρτήσαντας. A number of authorities, mostly Lat n F athers, 
+but including also the important margin of Cod. 67 with three other cursives, 
+the first hand of d, and the Greek of Orig. at least once, omit the negative, 
+making the reign ‘of death extend only over those who had sinned after the 
+likeness of Adam. So Orig.-lat. (Rufinus) repeatedly and expressly, Latin 
+MSS. known to Aug., the ‘older Latin MSS.’ according to Ambrstr, and 
+Sedulius. The comment of Ambrstr. is interesting as showing a certain grasp 
+of critical principles, though it was difficult for any one in those days to have 
+sufficient command of MSS. to know the real state of the evidence. Ambrstr. 
+pies in this case the evidence of the Latin MSS., because those with which 
+
+e is acquainted are older than the Greek, and represent, as he thinks, an 
+older form of text. He claims that this form has the support of Tertullian, 
+
+
+136 EPISTLE TO THE ROMANS ΙΝ. 14. 
+
+
+Cyprian and Victorinus—a statement which we are not at present able to 
+verify. He accounts for the Greek reading by the usual theory of heretical 
+corruption. There is 9 similar question of the insertion or omission of a 
+negative in Rom. iy. 19 (q.v.), Gal. ii. 5. In two out of the three cases the 
+Western text omits the negative, but in ch. iv. Ig it inserts it. 
+
+τύπος (τύπτω): (1) the ‘impression’ left by a sharp blow (τὸν τύπον 
+τῶν ἥλων John xx. 25), in particular the ‘stamp’ struck by a die; (a) 
+inasmuch as such αὶ stamp bears the figure on the face of the die, ‘copy,’ 
+‘figure,’ or ‘ representation ’; (3) by a common transition from effect to cause, 
+‘mould,’ ‘ pattern,” ‘exemplar’; (4) hence in the special sense of the word 
+type, which we have adopted from the Greek of the N.T., ‘an event or 
+person in history corresponding in certain characteristic features to another 
+event or person.’ That which comes first in order of time is properly the 
+type, that which comes afterwards the antitype (ἀντίτυπος 1 Pet. iii. 31). 
+These correspondences form a part of the Divine economy of revelation: see 
+esp. Cheyne, /sazah, ii. 170 ff. (Essay III, ‘On the Christian Element in the 
+Book of Isaiah’). 
+
+
+τοῦ μέλλοντος. (1) The entirely personal nature of the whole 
+comparison prevents us from taking τοῦ μέλλ. as neut. = ‘that 
+which was to come’ (Beng., Oltramare). If St. Paul had 
+mtended this, he would have written rod μέλλοντος αἰῶνος, (2) 
+Neither is it probable that we have here a direct allusion to the 
+Rabbinical designation of the Messiah as ὁ δεύτερος or ὁ ἔσχατος 
+᾿Αδάμ (1 Cor. xv. 45, 47). If St. -Paul had intended this, he 
+would have written rod μέλλοντος ᾿Αδάμ. (3) The context makes 
+it clear enough who is intended The first representative of 
+the human race as such prefigured its second Great Repre- 
+sentative, whose coming lay in the future: this is sufficiently 
+brought out by the expression ‘of Him who was to be.’ ὁ 
+μέλλων thus approximates in meaning to ὁ ἐρχόμενος (Matt. xi. 
+3; Luke vii. 19; Heb. x. 37), which however appears not to 
+have been, as it is sometimes regarded, a standing designation 
+for the Messiah*. In any case τοῦ μέλλοντος = ‘ Him who was to 
+come’ when Adam fell, not ‘ who zs (still) to come’ (Fri, De W.). 
+
+
+The Effects of Adam’s Fall in Fewish Theology. 
+
+
+Three points come out clearly in these verses: (1) the Fall of 
+Adam brought death not only to Adam himself but to his 
+descendants; (2) the Fall of Adam also brought sin and the 
+tendency to sin; (3) and yet in spite of this the individual does 
+not lose his responsibility. All three propositions receive some 
+partial illustration from Jewish sources, though the Talmud does 
+
+
+* ‘The designation “The Coming One” (//adéa), though a most truthful 
+expression of Jewish expectancy, was not one ordinarily used of the Messiah.’ 
+Kdersheim, Z. G& 7. i. p. 068 
+
+
+V. 12-14.] ADAM AND CHRIST 137 
+
+
+not seem to have had any consistent doctrine on the subject. 
+Dr. Edersheim says expressly: ‘So far as their opinions can lhe 
+gathered from their writings the great doctrines of Original Sin and 
+of the sinfulness of our whole nature, were not held by the ancient 
+Rabbis’ (Life and Times, ἄς. i. 165). 5111 there are approxima- 
+tions, especially in the writings on which we have drawn so freely 
+already, the Fourth Book of Ezra and the Apocalypse of Baruch. 
+
+
+(1) The evidence is strongest as to the connexion between Adam’s sin and 
+the introduction of death. ‘ There were,’ says Dr. Edersheim, ‘two divergent 
+opinions—the one ascribing death to personal, the other to Adam’s guilt’ 
+(op. cit. i. 166). It is however allowed that the latler view greatly pre- 
+ponderated. Traces of it are found as far back as the Sapiential Books: 
+e.g. Wisd. ii. 23 £ ὁ Θεὸς ἔκτισεν τὸν ἄνθρωπον ἐπ᾽ ἀφθαρσίᾳ... . φθόνῳ δὲ 
+διαβόλου θάνατος εἰσῆλθεν εἰς τὸν κόσμον, where we note the occurrence of 
+St. Paul’s phrase; Ecclus. xxv. 24 [33] 60 αὐτὴν (sc. τὴν γυναῖκα) ἀποθνή- 
+@xopev πάντες. The doctrine is also abundantly recognized in 4 Ezra and 
+Apoc. Barwch.: 4 Ezr. iii. 7 εἰ ἀπε (sc. Adamo) mandasti diligere viam 
+tuam, et praeterivit eam; et statim instituisti in eum mortem et in 
+sationibus (= generationibus) eius: Apoc. Baruch, xvii. 3 (Adam) mortem 
+attulit et abscidit annos eorum qui ab eo geniti fuerunt: ibid, xxiii. 4 
+Quando peccavit Adam et decreta furt mors contra eos gui gignerentur. 
+
+(2) We are warned (by Dr. Edersheim in Sp. Comm. Apocr. ad loc.) not 
+to identify the statement of Ecclus. xxv. 24 [33] ἀπὸ γυναικὸς ἀρχὴ ἁμαρτίας 
+with the N. T. doctrine of Original Sin: still it points in that direction; we 
+have just seen that the writer deduces from Eve the death of all mankind, 
+and in like manner he also seems to deduce from her (ἀπὸ yuv.) the ¢rz/zum 
+peccandi. More explicit are 4 Ezra iii. 21 f. Cor enim malignum baiulans 
+primus Adam transgressus et victus est, sed et omnes qui de eo nati sunt: 
+et facta est permanens infirmitas, et lex cum corde populi, cum malignitate 
+radicis; et discessit guod bonum est, et mansit malignum: ibid. iv. 30 
+Quoniam granum seminis malt seminatum est in corde Adam αὐ initio, et 
+quantum impletatis generavit usque nunc, et generat usque dum ventiat area : 
+bid. vii. 48 (118) O'tee guid fecisti Adam? Si eniin tu peccasti,non est 
+factus solius tuus casus, sed et nostrum qui ex te advenimus. 
+
+(3) And yet along with all this we have the explicit assertion of responsi. 
+bility on the part of all who sin. This appears in the passage quoted above 
+on ver. 12 (ad fin.). To the same efect are 4 Ezr. viii. 50h Non enim 
+Altissimus voluit hominem dis perdi, sed tpsi quit creati sunt cotnquinaverunt 
+nomen etus gut fectt eos: thi. 1x. 11 gue fastidierunt legem meam cum adhuc 
+erant habentes libertatem. \sut the classical passage is “μος. Baruch. 
+liv. 15, 19 St enim Adam prior peccavit, et atiulit mortem super omnes 
+tmmaturam ; sed ettam illi quit ex eo nati sunt, unusguisque ex ets pracpa- 
+ravit animae suae tormentum futurum: et tterum unusquisque ex δ2: 
+elegit sibt gloriam futuram ... von est ergo Adam causa, nisi animae suae 
+tantum ; nos vero unusquisque Juit animae suae Adam. 
+
+The teaching of these passages does not really conflict with that of the 
+Talmud. The latter is thus summarized by Weber (A/tsyn. Theol. p. 216): 
+‘By the Fall man came under a curse, is guilty of death, and his right 
+relation to God is rendered difficult. More than this cannot be said. Sin, 
+to which the bent and leaning had already been planted in man by creation, 
+had become a fact ; the “‘ evil impulse” (= cor malignum) gained the mastery 
+over mankind, who can only resist it by the greatest efforts; before the Fal] 
+it had had power over him, but no such ascendancy (Uebermacht).’ Hence 
+when the same writer says a little further on that according to the Rabbis 
+‘there is such a thing as transmission of guilt, but not such a thing as trans 
+
+
+138 EPISTLE TO THE ROMANS [V. 15-21 
+
+
+mission of sin (Zs gibt eine Erbschuld, aber keine Erbstinde),’ the negative 
+proposition is due chiefly to the clearness with which the Rabbis (like Apoc. 
+Baruch.) insist upon free-will and direct individual responsibility. 
+
+
+It seems to us a mistake to place the teaching of St. Paul in toc 
+marked opposition to this. There is no fundamental inconsistency 
+between his views and those of his contemporaries. He does not 
+indeed either affirm or deny the existence of the cor malignum 
+before the Fall, nor does he use such explicit language as 205 
+vero unusquisque fuit animae suae Adam: on the other hand he 
+does define more exactly than the Rabbis the nature of human 
+responsibility both under the Law (ch. vii. 7 ff.) and without it 
+(ii. 12-15). But here, as elsewhere in dealing with this mysterious 
+subject (see p. 267 below), he practically contents himself with 
+leaving the two complementary truths side by side. Man inherits 
+his nature; and yet he must not be allowed to shift responsibility 
+from himself: there is that within him by virtue of which he is free 
+to choose ; and on that freedom of choice he must stand or fall. 
+--- END VERBATIM ---

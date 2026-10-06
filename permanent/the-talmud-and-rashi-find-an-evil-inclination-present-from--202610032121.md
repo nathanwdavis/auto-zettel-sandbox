@@ -8,7 +8,7 @@ type: permanent
 title: The Talmud and Rashi find an evil inclination present from birth in Genesis
   4:7 and 8:21 and speak of it as an inclination that rules, not as inherited guilt
 created: '2026-10-03'
-updated: '2026-10-03'
+updated: '2026-10-06'
 tags: []
 links:
 - target_id: sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112
@@ -29,6 +29,12 @@ links:
   relation: source
 - target_id: the-old-testament-speaks-of-sinfulness-from-the-womb-in--202610032117
   relation: shared-concept
+- target_id: the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600
+  relation: elaborates
+- target_id: three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601
+  relation: elaborates
+- target_id: shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602
+  relation: elaborates
 ---
 Two rabbinic texts date the evil inclination (yetzer ha-ra) to birth from
 verses of Genesis. Sanhedrin 91b has Rabbi accept from Antoninus that "the evil
@@ -61,3 +67,15 @@ Old Testament's own two groups in
 
 The base holds only these two rabbinic texts and has not checked whether other
 rabbinic sources speak of anything like inherited guilt.
+
+**Amended 2026-10-06.** A first check of the kind the last paragraph asked for
+has been made, from four more rabbinic passages and the Hebrew of the three
+verses. On the
+evil inclination the two texts now stand with three more, which add that God is
+its maker and none derives it from Adam
+([[three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601]]); in the Hebrew, Genesis 8:21 carries the word *yetzer* itself while
+Genesis 4:7 has the inclination read into its word for sin
+([[the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600]]). One rabbinic text traces a contamination to the serpent's coming upon Eve,
+implied to pass to her descendants and ended for Israel at Sinai, so the texts
+on file are not silent on something hereditary from Eden
+([[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]]).

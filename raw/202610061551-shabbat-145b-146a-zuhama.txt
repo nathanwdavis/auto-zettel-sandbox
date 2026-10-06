@@ -1,0 +1,40 @@
+Verbatim capture for reference 202610061551.
+Shabbat 145b (last segment) and 146a (segments 1-2): Rabbi Yohanan on why
+gentiles are contaminated -- when the serpent came upon Eve it cast
+contamination (zuhama) into her; for Israel, who stood at Sinai, it ceased --
+with Rav Ashi on converts, and Rabbi Abba bar Kahana's dissent that it ceased
+in the third generation of the patriarchs. The passage runs across the amud
+boundary, so its first sentence is on 145b and the rest on 146a.
+As served by the Sefaria API (https://www.sefaria.org/api/texts/Shabbat.145b?context=0&pad=0 and
+.../Shabbat.146a?context=0&pad=0),
+fetched 2026-10-06T15:43:39Z (145b) and 2026-10-06T15:42:30Z (146a) via curl through the session's egress proxy.
+English version: "William Davidson Edition - English" (licence as declared by Sefaria: CC-BY-NC).
+Aramaic/Hebrew version: "William Davidson Edition - Vocalized Aramaic" (licence as declared by Sefaria: CC-BY-NC).
+Markup (bold tags marking the translation's literal words) stripped and
+whitespace normalized; no other change. 145b has 16 segments as
+served and only the last is captured; of 146a only segments 1-2.
+--------------------------------------------------------------------------------
+
+--- BEGIN VERBATIM (English, Shabbat 145b segment 16 (last of the amud)) ---
+Rabbi Yoḥanan then explained to them: Why are gentiles ethically contaminated? It is because they did not stand on Mount Sinai. As when
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Shabbat 145b segment 16 (last of the amud)) ---
+מִפְּנֵי מָה גּוֹיִם מְזוֹהָמִין? — שֶׁלֹּא עָמְדוּ עַל הַר סִינַי. שֶׁבְּשָׁעָה
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Shabbat 146a segment 1) ---
+the snake came upon Eve, i.e., when it seduced her to eat from the Tree of Knowledge, it infected her with moral contamination, and this contamination remained in all human beings. When the Jewish people stood at Mount Sinai, their contamination ceased, whereas gentiles did not stand at Mount Sinai, and their contamination never ceased. Rav Aḥa, the son of Rava, said to Rav Ashi: What about converts? How do you explain the cessation of their moral contamination? Rav Ashi said to him: Even though they themselves were not at Mount Sinai, their guardian angels were present, as it is written: “It is not with you alone that I make this covenant and this oath, but with he that stands here with us today before the Lord our God, and with he that is not here with us today” (Deuteronomy 29:13–14), and this includes converts.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Shabbat 146a segment 1) ---
+שֶׁבָּא נָחָשׁ עַל חַוָּה הֵטִיל בָּהּ זוּהֲמָא, יִשְׂרָאֵל שֶׁעָמְדוּ עַל הַר סִינַי — פָּסְקָה זוּהֲמָתָן, גּוֹיִם שֶׁלֹּא עָמְדוּ עַל הַר סִינַי — לֹא פָּסְקָה זוּהֲמָתָן. אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: גֵּרִים מַאי? אֲמַר לֵיהּ: אַף עַל גַּב דְּאִינְהוּ לָא הֲווֹ, מַזָּלַיְיהוּ הֲווֹ. דִּכְתִיב: ״אֶת אֲשֶׁר יֶשְׁנוֹ פֹּה עִמָּנוּ עוֹמֵד הַיּוֹם לִפְנֵי ה׳ אֱלֹהֵינוּ וְאֵת אֲשֶׁר אֵינֶנּוּ פֹּה וְגוֹ׳״.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (English, Shabbat 146a segment 2) ---
+The Gemara points out that this opinion disagrees with Rabbi Abba bar Kahana, as Rabbi Abba bar Kahana said: Until three generations passed, the moral contamination did not cease from our forefathers: Abraham fathered Ishmael, who was of lowly moral stature; Isaac fathered Esau; finally, Jacob fathered twelve tribes in whom there was no flaw. Rabbi Abba bar Kahana holds that the moral contamination ceased in the Patriarchs long before the Revelation at Sinai.
+--- END VERBATIM ---
+
+--- BEGIN VERBATIM (Aramaic/Hebrew, Shabbat 146a segment 2) ---
+וּפְלִיגָא דְּרַבִּי אַבָּא בַּר כָּהֲנָא. דַּאֲמַר רַבִּי אַבָּא בַּר כָּהֲנָא: עַד שְׁלֹשָׁה דּוֹרוֹת לֹא פָּסְקָה זוּהֲמָא מֵאֲבוֹתֵינוּ: אַבְרָהָם הוֹלִיד אֶת יִשְׁמָעֵאל, יִצְחָק הוֹלִיד אֶת עֵשָׂו, יַעֲקֹב הוֹלִיד שְׁנֵים עָשָׂר שְׁבָטִים שֶׁלֹּא הָיָה בָּהֶן שׁוּם דּוֹפִי.
+--- END VERBATIM ---

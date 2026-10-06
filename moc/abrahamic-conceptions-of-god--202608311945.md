@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-10-03'
+updated: '2026-10-06'
 ---
 # Abrahamic conceptions of God
 
@@ -1030,6 +1030,32 @@ either. The Eastern Orthodox account of ancestral sin, Pelagius in his own
 words, and the wider rabbinic literature on the evil inclination are not on
 file; the Jewish leg rests on two texts.
 
+### The Greek and the wider rabbinic sources, added 2026-10-06
+
+Three leads from the 2026-10-03 INBOX entry (two of them named in this
+section's boundaries), worked from seven new sources: the SBL Greek of Romans 5:12-21, Sanday and Headlam's 1905 commentary
+on the verse with its excursus on Adam's fall in Jewish theology, the Hebrew of
+Genesis 4:7, 6:5 and 8:21, Genesis Rabbah 34:10, Kiddushin 30b, Sukkah 52a-52b
+and Shabbat 145b-146a. Distilled at
+[[in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552]],
+[[sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553]],
+[[genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554]],
+[[genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555]],
+[[kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556]],
+[[sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557]] and
+[[shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558]].
+
+- [[in-the-greek-romans-5-12-s-last-clause-names-no-one-so-in--202610061559]] — the clause is four words with no noun, so 'in whom' and 'for that' are two readings of a relative; Sanday and Headlam take it as 'because' and move the dispute to the sense in which all sinned.
+- [[the-rabbinic-evil-inclination-takes-its-name-from-genesis-8--202610061600]] — *yetzer* and *ra'* stand together in Genesis 8:21 and 6:5; in Genesis 4:7 the word is sin, and the inclination is read into it.
+- [[three-rabbinic-texts-make-the-evil-inclination-god-s-own--202610061601]] — Genesis Rabbah, Kiddushin and Sukkah make God the inclination's maker, and none of the five rabbinic texts on the inclination derives it from Adam or calls it guilt.
+- [[shabbat-146a-traces-a-contamination-to-the-serpent-s-coming--202610061602]] — the exception: a contamination traced to the serpent's coming upon Eve, by implication borne by her descendants and ended for Israel at Sinai (for Rabbi Abba bar Kahana, with the patriarchs), so the rabbinic texts on file are not silent on something hereditary from Eden.
+
+Boundaries now. The Greek of Romans 7, the Latin of Trent, and any exegetical
+study of Romans 5:12 later than 1905 are still not on file; Sanday and Headlam's
+reports of Origen, Edersheim and Weber, and their Latin of 4 Ezra, are
+second-hand. The Eastern Orthodox account of ancestral sin and Pelagius in his
+own words remain open.
+
 ## Sources behind these notes
 
 Primary statements: [[nae-statement-of-faith--202608311920]], [[shema-deuteronomy-6-4-5--202608311921]], [[maimonides-mishneh-torah-yesodei-hatorah--202608311922]], [[quran-tawhid-passages--202608311923]],
@@ -1072,5 +1098,5 @@ Faith and miracles: [[mark-6-1-6-no-mighty-work-there-because-of-their-unbelief-
 (literature: [[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]], [[john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046]], [[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042]], [[hume-sets-testimony-against-experience-then-calls-faith--202609230043]], [[warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044]]).
 Christ's human nature: [[christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815]], [[chalcedon-definition--202609041958]], [[gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807]], [[augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808]], [[aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809]], [[aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810]], [[calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811]], [[westminster-larger-catechism--202610031812]], [[pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813]], [[edward-irving-collected-writings-vol-5-sermons-on-the--202610031814]]
 (literature: [[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]], [[chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825]], [[gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816]], [[augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817]], [[aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818]], [[aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819]], [[calvin-rejects-the-father-line-explanation-of-christ-s--202610031820]], [[the-westminster-larger-catechism-states-original-sin-for--202610031821]], [[ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822]], [[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]).
-Sin as act and sin as nature: [[sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100]], [[westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101]], [[westminster-larger-catechism--202610031812]], [[council-of-trent-session-v-decree-concerning-original-sin--202610032102]], [[augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103]], [[sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104]], [[rashi-on-genesis-8-21-from-his-youth--202610032105]]
-(literature: [[the-old-testament-passages-place-sinfulness-at-conception--202610032106]], [[the-new-testament-passages-derive-sinful-deeds-from-a--202610032107]], [[the-westminster-confession-derives-all-actual--202610032108]], [[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]], [[trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110]], [[augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111]], [[sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112]], [[rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113]]).
+Sin as act and sin as nature: [[sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100]], [[westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101]], [[westminster-larger-catechism--202610031812]], [[council-of-trent-session-v-decree-concerning-original-sin--202610032102]], [[augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103]], [[sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104]], [[rashi-on-genesis-8-21-from-his-youth--202610032105]]; and from the 2026-10-06 cycle, [[romans-5-12-21-in-the-sbl-greek-new-testament--202610061545]], [[a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546]], [[genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547]], [[bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548]], [[kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549]], [[sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550]], [[shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551]]
+(literature: [[the-old-testament-passages-place-sinfulness-at-conception--202610032106]], [[the-new-testament-passages-derive-sinful-deeds-from-a--202610032107]], [[the-westminster-confession-derives-all-actual--202610032108]], [[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]], [[trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110]], [[augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111]], [[sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112]], [[rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113]], [[in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552]], [[sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553]], [[genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554]], [[genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555]], [[kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556]], [[sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557]], [[shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558]]).
