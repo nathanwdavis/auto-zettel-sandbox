@@ -2719,3 +2719,16 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-08T15:38:42Z` check_skill_sandbox: PASS
 - `2026-10-08T15:38:42Z` remote_cycle: gates PASS
 - `2026-10-08T15:38:42Z` session: PR #101 opened for inquiry 202610081414 at the owner's request, with auto-merge (squash) enabled. The owner set a standing rule: research added at their request is taken through a PR to main by the session itself ('that is what the auto in auto-zettel means'). Recorded in a new top-level CLAUDE.md so later sessions read it at startup.
+- `2026-10-08T15:41:29Z` verify_refs: 165/165 verified
+- `2026-10-08T15:41:56Z` lint_citations: PASS
+- `2026-10-08T15:41:57Z` lint_links: PASS
+- `2026-10-08T15:41:57Z` lint_skills: PASS
+- `2026-10-08T15:41:59Z` check_skill_sandbox: PASS
+- `2026-10-08T15:41:59Z` remote_cycle: gates PASS
+- `2026-10-08T15:42:08Z` PR #101 review (Copilot, three findings, all accepted): the outline's definition of physical corruption no longer includes decay, and states John of Damascus's two meanings with only the first assumed by Christ (III.28); the outline's source list names chs. 12, 20, 23, 27 and 28; literature 202610081439 says five chapters, not three. Gates PASS.
+- `2026-10-08T15:42:50Z` verify_refs: 165/165 verified
+- `2026-10-08T15:43:18Z` lint_citations: PASS
+- `2026-10-08T15:43:20Z` lint_links: PASS
+- `2026-10-08T15:43:20Z` lint_skills: PASS
+- `2026-10-08T15:43:22Z` check_skill_sandbox: PASS
+- `2026-10-08T15:43:22Z` remote_cycle: gates PASS

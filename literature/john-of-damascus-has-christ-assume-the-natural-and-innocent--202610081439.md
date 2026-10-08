@@ -20,7 +20,7 @@ links:
 ---
 Own-words summary of [[an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432]].
 
-Three chapters of Book III say what Christ took from fallen humanity and
+Five chapters of Book III say what Christ took from fallen humanity and
 what he did not.
 
 Ch. 12, on the Theotokos, gives the purpose of the Incarnation: the Word
