@@ -45,7 +45,10 @@ their numbered points 1 to 3.
   his descendants. The view this paper explores denies that Christ had it.
 - **Corruption** has two senses, and the paper must keep them apart. In the Westminster
   sense it is *moral*: an inclination to evil. In the Greek sense (*phthora*) that John of
-  Damascus and Meyendorff use, it is *physical*: liability to suffering, death and decay.
+  Damascus and Meyendorff use, it is *physical*, and John gives it two meanings: suffering
+  and death, which Christ's body underwent before the resurrection, and the body's
+  dissolution in the grave, which it never underwent (III.28). When this paper says Christ
+  assumed a corruptible nature, it means the first meaning only.
 - **Innocent (or blameless) passions** are John of Damascus's name for the weaknesses that
   came into human life after the fall but are not sins: hunger, thirst, weariness, tears,
   fear of death, agony.
@@ -58,7 +61,8 @@ their numbered points 1 to 3.
   he is treated as guilty for their sake, though they are not his own.
 - **Aphthartodocetism** is the sixth-century view of Julian of Halicarnassus that Christ's
   body was incorruptible from conception, because he never sinned. The church rejected it.
-- ***Eph' hō*** is the four-word Greek phrase at the end of Romans 5:12, rendered 'in whom all have sinned' by Augustine's Latin and "for that all have sinned" by the KJV.
+- ***Eph' hō*** is the four-word Greek phrase at the end of Romans 5:12, rendered 'in whom
+  all have sinned' by Augustine's Latin and "for that all have sinned" by the KJV.
 
 ## The thesis, in one paragraph
 
@@ -345,8 +349,8 @@ Nature* (1830) to make it [not read].
   Alexander Strahan, 1866): *The Doctrine of the Incarnation Opened*, sermon III, pp. 114-27,
   153-61, 169-70, 174, and the appendix from p. 563. Record:
   [edward-irving-collected-writings-vol-5-sermons-on-the--202610031814](../reference/edward-irving-collected-writings-vol-5-sermons-on-the--202610031814.md).
-- John of Damascus, *An Exact Exposition of the Orthodox Faith*, book III, chs. 12, 20, 28,
-  in *Nicene and Post-Nicene Fathers*, 2nd series, vol. 9 (1899). Record:
+- John of Damascus, *An Exact Exposition of the Orthodox Faith*, book III, chs. 12, 20, 23,
+  27 and 28, in *Nicene and Post-Nicene Fathers*, 2nd series, vol. 9 (1899). Record:
   [an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432](../reference/an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432.md).
 - *The Westminster Larger Catechism*, Q. 24-27. Record:
   [westminster-larger-catechism--202610031812](../reference/westminster-larger-catechism--202610031812.md).
