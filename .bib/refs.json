@@ -4053,5 +4053,95 @@
       }
     ],
     "type": "chapter"
+  },
+  {
+    "DOI": "10.1177/004056398905000304",
+    "URL": "https://doi.org/10.1177/004056398905000304",
+    "author": [
+      {
+        "family": "Meyendorff",
+        "given": "John"
+      }
+    ],
+    "container-title": "Theological Studies",
+    "id": "202610081426",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          1989,
+          9
+        ]
+      ]
+    },
+    "page": "481-499",
+    "publisher": "SAGE Publications",
+    "title": "New Life in Christ: Salvation in Orthodox Theology",
+    "type": "article-journal",
+    "volume": "50"
+  },
+  {
+    "ISBN": "9780823209675",
+    "author": [
+      {
+        "family": "Meyendorff",
+        "given": "John"
+      }
+    ],
+    "edition": "2",
+    "id": "202610081431",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "number-of-pages": "243",
+    "publisher": "Fordham University Press",
+    "publisher-place": "New York",
+    "title": "Byzantine Theology: Historical Trends and Doctrinal Themes",
+    "type": "book"
+  },
+  {
+    "URL": "https://www.newadvent.org/fathers/33043.htm",
+    "author": [
+      {
+        "literal": "John of Damascus"
+      }
+    ],
+    "container-title": "Nicene and Post-Nicene Fathers, Second Series, Vol. 9",
+    "editor": [
+      {
+        "family": "Schaff",
+        "given": "Philip"
+      },
+      {
+        "family": "Wace",
+        "given": "Henry"
+      }
+    ],
+    "id": "202610081432",
+    "issued": {
+      "date-parts": [
+        [
+          1899
+        ]
+      ]
+    },
+    "publisher": "Christian Literature Publishing Co.",
+    "publisher-place": "Buffalo, NY",
+    "title": "An Exact Exposition of the Orthodox Faith, Book III",
+    "translator": [
+      {
+        "family": "Watson",
+        "given": "E. W."
+      },
+      {
+        "family": "Pullan",
+        "given": "L."
+      }
+    ],
+    "type": "chapter"
   }
 ]

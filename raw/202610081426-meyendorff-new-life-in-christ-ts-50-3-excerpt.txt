@@ -1,0 +1,228 @@
+Bounded excerpt capture of John Meyendorff, "New Life in Christ: Salvation in
+Orthodox Theology", Theological Studies 50, no. 3 (September 1989) 481-499,
+DOI 10.1177/004056398905000304, from the PDF that Theological Studies posts on
+its own website, https://theologicalstudies.net/wp-content/uploads/2022/08/50.3.4.pdf,
+for reference new-life-in-christ-salvation-in-orthodox-theology--202610081426.
+Fetched 2026-10-08T14:24:06Z by curl through this session's egress proxy,
+HTTP 200, 1,592,443 bytes; SHA-256 of the PDF
+510142031bf65cc0008ec7b227120a3f7dabbaf4ddd391d948903d9dda66711e. The PDF is a
+scan with a text layer (19 pages, pp. 481-499). Text was extracted page by
+page with pypdf 6.17.0; the extractor's line breaks, end-of-line hyphenation,
+soft hyphens, running heads, page numbers and footnote markers are kept as
+extracted, and nothing else was altered. In that extraction the article is
+8,540 words, footnotes included.
+
+THE TEXT LAYER HAS OCR ERRORS, kept here as extracted and not corrected:
+"se//-giving" and "se//-emptying" (self-giving, self-emptying), "oí guilt"
+(of guilt), "sin in inevitable" (sin is inevitable), "pontes hêmarton" (pantes
+hêmarton), "Dodetist" (Docetist), "teinptations" (temptations), "Eucharistie"
+(Eucharistic), "Si. Vladimir's" (St. Vladimir's). A note quoting this capture
+must not quote across one of these spans as if it were the printed text.
+
+COPYRIGHT AND EXTENT. The article is in copyright; the journal itself serves
+the PDF openly. Per this repository's excerpt policy for in-copyright works
+served openly by their own publisher, this capture is BOUNDED EXCERPTS: five
+blocks, 1,949 words of 8,540 (22.8 percent), each a contiguous run of the
+extraction. Captured: A, the title block of p. 481; B, the paragraph on Cyril
+of Alexandria on p. 490; C, the last paragraph of the section "Christ, the
+Savior" on p. 492; D, from the heading "The 'New Adam'" on p. 492 to the end
+of the paragraph ending "the Emmanuel." on p. 495, with footnotes 41-47 as
+printed on pp. 492-494 (footnotes 43-45 at the foot of p. 493, the end of 45
+and 46-47 at the foot of p. 494); E, footnotes 48-49 at the foot of p. 495.
+NOT captured: pp. 481-489 apart from the title block (the history of
+Orthodox theology since the seventeenth century, the Russian and Greek
+revivals, the opening of "Christ, the Savior"); p. 490 apart from block B;
+p. 491 and the first three paragraphs of p. 492 (deification, divine
+hypostasis and openness); the paragraph of p. 495 that begins "It is
+furthermore important" and everything after it, pp. 496-499 (Maximus the
+Confessor, the composite hypostasis, deification, the sacraments, and the
+conclusion). Notes cite those parts only as attributed summary, if at all.
+
+=== BLOCK A: p. 481, title block (title, author, affiliation) ===
+Theological Studies 
+50 (1989) 
+NEW LIFE IN CHRIST: SALVATION IN 
+ORTHODOX THEOLOGY 
+JOHN MEYENDORFF 
+St Vladimir's Orthodox  Seminary, Crestwood, N.Y.
+
+=== BLOCK B: p. 490, the paragraph on Cyril of Alexandria ===
+The Christology of Cyril of Alexandria is also based on the notion of 
+a se//-giving God. His is a theology of the Emmanuel—"God with us" 
+(Mt 1:23)—affirming the personal assumption by the divine Logos of all 
+the aspects of humanity in its fallen state, including death. Theopasch-
+ism, i.e. confession of the fact that the Logos was the only subject of 
+death on Golgotha,34 is an essential point of his polemics against Nestor-
+ius.35 It did not imply that God could suffer or die in His very nature or 
+essence: the incarned Logos suffered death, not the divine nature. The 
+point of Cyril was to affirm that God alone is the Savior, entirely upon 
+His personal action and initiative (although it does imply a free human 
+response). Actually, an interesting parallelism can be established between 
+the Christology of Cyril and the neo-orthodox thought of Karl Barth.36
+
+=== BLOCK C: p. 492, the paragraph beginning 'Thus the hypostatic dimension', through the end of the section ===
+Thus the hypostatic dimension of divine Trinitarian life, as well as its 
+image in humanity, excludes the idea that redemption, salvation, and 
+deification are automatic or magical processes of absorption of the human 
+by the divine. On the side of God, as well as on the side of humanity, 
+they imply personal, free relations. In Christ one meets the hypostasis 
+of the divine Logos, who assumed the fulness of humanity. Christ was 
+not a human hypostasis. If that were the case, the man Jesus would be 
+individualized on a created level, making "life in Christ" impossible. 
+Indeed, one created hypostasis cannot exist in another. Human persons 
+are irreducible to each other and always preserve their uniqueness. The 
+decisive factor in salvation is that the hypostasis of the Logos is the 
+prototype of which each human being is the image. His humanity is not 
+only the humanity of a human individual, but it is also our common 
+humanity which he assumed in its fallen state and glorified through his 
+death and resurrection. The incarned Logos calls us to share in his saved 
+and glorified humanity, through a free personal decision, through bap­
+tism, through Eucharistie communion, and to be transformed from the 
+"first man ... made of dust" into "the second Man, the Lord from 
+heaven" (1 Cor 15:47).
+
+=== BLOCK D: pp. 492-495, from the heading THE "NEW ADAM" to the end of the paragraph ending 'the Emmanuel.' on p. 495, with footnotes 41-47 as printed on pp. 492-494; page by page ===
+--- [p. 492] ---
+THE "NEW ADAM" 
+The New Testament applies to Jesus the image of the suffering servant 
+described by the Second Isaiah (Isa 52-53; cf. Mt 8:17; Rom 15:21, etc.): 
+"He was wounded for our transgressions He took our infirmities and 
+bore our diseases They made his grave with the wicked." The image 
+
+41 The implications are brilliantly developed by the Romanian theologian Dumitru 
+Staniloae, "Trinitarian Relations and the Life of the Church," in Theology and the Church 
+(Crestwood, N.Y.: St. Vladimir, 1980) 11-44. 
+42 Microcosm and Mediator: The  Theological Anthropology  of Maximus the  Confessor 
+(Lund: Gleerup, 1968) 119.
+--- [p. 493] ---
+SALVATION IN ORTHODOX THEOLOGY 493 
+is that of a Messiah who suffers and dies, voluntarily accepting the 
+consequences of humanity's sins. That suffering and death are the 
+consequences, on a cosmic level, of Adam's sin, which qualifies the biblical 
+perception of created reality after the Fall. 
+It has been often recognized that Eastern patristic thought ignores the 
+notion of a transmission oí guilt from Adam to his descendants. However, 
+it does not ignore the very fact of cosmic fallenness. This fallenness is 
+not expressed in terms of divine punishment inflicted upon all humans 
+(the Augustinian massa damnata) from parents to children, but rather 
+in terms of a usurpation or illegitimate tyranny exercised by Satan upon 
+God's creation. Humans are rather seen as victims of the universal reign 
+of death (indeed Satan is "a murderer from the beginning": Jn 8:44). 
+"Through fear of death, they are subject to lifelong bondage" (Heb 2:15). 
+What is being transmitted from parents to children is not sin but 
+mortality and slavery, creating a condition where sin in inevitable: 
+"Having become mortal," writes Theodoret of Cyrus, "[Adam and Eve] 
+conceived mortal children, and mortal beings are necessarily subject to 
+passions and fears, to pleasures and sorrows, to anger and hatred."43 The 
+model here is Darwinian: fear of death generates struggle for survival, 
+and survival is attainable only at the expense of others—a survival of 
+the fittest, winning over the weak. "By becoming mortal, we acquired 
+greater urge to sin," writes Theodore of Mopsuestia, "because we depend 
+on food, drink, and other needs, and the desire to acquire those leads 
+inevitably to sinful 'passions.' "u Patristic references can be easily mul­
+tiplied, and their context is understandable if one remembers that the 
+Greek Fathers read the Greek original of the famous passage of Rom 
+5:12 ("As sin came into the world through one man and death through 
+sin, and so death spread to all men, because [or "and because of death"] 
+all have sinned") and were not conditioned by the Latin mistranslation, 
+which implied that all sinned "in Adam."45 
+43 Commentary on Rom. (PG 80, 1245A). 
+44 Commentary on Rom. (PG 66, 801B). 
+45 The Latin version of eph' ho pontes hêmarton in Rom 5:12 is in quo  omnes pecca-
+verunt. The masculine quo must refer to "one man," mentioned earlier in the sentence: "all 
+have sinned in Adam.n The Greek does not allow for such a meaning, and admits two 
+grammatical possibilities: (a) if eph' ho is a neuter and means "because," the sentence 
+defines death as the punishment for individual sins of any human (not "original" sin); (b) 
+if it is a masculine, it refers to "death" (thanatos), so that death—as a cosmic, personalized 
+reality—becomes the cause of individual human sins. It is in that sense that the text was 
+read by Theodoret and Theodore, as well as many other Greek authors, including Chrysos-
+tom, Cyril of Alexandria, Maximus the Confessor, and later Byzantine theologians; on this 
+problem see J. Meyendorff, Byzantine Theology: Historical Trends and Doctrinal Themes 
+(3rd ed.; New York: Fordham University, 1987) 143-46. The clear divergence between the
+--- [p. 494] ---
+494 THEOLOGICAL STUDIES 
+It is the mortal, corruptible, and fallen humanity which was assumed 
+by the Logos. This was well understood particularly by the Alexandrian 
+Fathers, promoters of a high Christology: Athanasius and Cyril. And this 
+is precisely the reason why their Christological position made theopasch-
+ism inevitable: the divine Logos himself voluntarily assumed mortal 
+humanity and therefore had to die in the flesh. The implication was not 
+"anthropological minimalism," as Florovsky once wrote,46 but, on the 
+contrary, the affirmation that humanity and its fallen condition were 
+such a real and crucial fact that they brought about a se//-emptying of 
+God Himself as condition for salvation and true restoration. 
+That the high Alexandrian Christology does not imply a diminution of 
+humanity in Jesus is also shown in the sixth-century debate around the 
+Aphthartodocetism of Julian of Halicarnassus. The point of Julian was 
+simple: since death and corruption (phthora) are consequences of human 
+sin, they could not have been present in Jesus, who did not sin. Thus, 
+according to Julian, Jesus possessed an "incorruptible" (aphthartos) 
+humanity. Julian's critics were right in saying that he was in fact a 
+Dodetist: the death of Jesus on the cross was only an "appearance," not 
+a real experience of what death is for other human beings.47 But if one 
+conceives of Christ as sharing the determinism of corruptible and fallen 
+humanity, what happens to divine freedom? Did not the Logos suffer 
+voluntarily? The rejection of Aphthartodocetism by the Church was not 
+intended at all, however, as a denial of divine freedom. Indeed, the 
+Incarnation in all its aspects was an expression of the free will of God. 
+But God willed precisely that, as man, Jesus, since his conception in the 
+womb of Mary, would be fully conditioned by what our human, fallen 
+existence is: he lived in time, "grew in wisdom," did not know, suffered, 
+and died. On the other hand, the hypostatic union—i.e., the conception 
+and the birth of the God-man Jesus—is not yet by itself a deification of 
+Greek and the Augustinian traditions on "original sin" is widely acknowledged by historians; 
+cf., e.g., J. N. D. Kelly, Early Christian Doctrines (London: A. & C. Black, 1958) 348-52. 
+46 Vizantiiskie ottsy (Paris: YMCA, 1933) 7. 
+47 See the concise definition of Aphthartodocetism by St. John of Damascus: "They 
+consider that the Lord's body was incorruptible from the time of its formation; they also 
+confess that the Lord suffered the passions—hunger, thirst, tiredness—but that he suffered 
+them in a way different from our own: while we suffer them as a natural necessity. Christ, 
+they say, suffered them freely (hekousiôs) and he was not subjected to the laws of nature" 
+(On the Heresies 84 [PG 94, 156A]); on Aphthartodocetism see R. Draguet, Julien d'Hali-
+carnasse et sa controverse avec Sévère d'Antioche sur l'incorruptibilité du corps du Christ 
+(Louvain, 1924); cf. also Meyendorff, Christ 87-88, 165-66. Of course, one cannot deny 
+divine freedom if one believes in the divinity of Christ, but within the Orthodox tradition 
+(as distinct from Aphthartodocetism) divine freedom is exercised in the Incarnation as a 
+whole: mortality and corruptibility were assumed by the Son of God from the beginning of 
+his human life.
+--- [p. 495] ---
+SALVATION IN ORTHODOX THEOLOGY 495 
+Jesus' human nature. Deification would have been a somewhat automatic 
+happening if, as some have supposed, the Incarnation was simply the 
+manifestation of a pre-existing God-manhood of the Logos, fulfilled when 
+he became a human being. In fact, the Incarnation implied tragedy and 
+struggle. The Creator, by assuming the created and fallen flesh, met evil 
+and death face to face. He met and overcame these realities of the fallen 
+world, which he did not create but only tolerated. This tolerance reached 
+its ultimate point when the incarned Son of God accepted a human death 
+on the cross: this ultimate point was also his ultimate victory. 
+Modern New Testament criticism has often been concerned with the 
+psychology of Jesus, and with such questions as his messianic conscious­
+ness. One wonders sometimes whether such concerns are not a blind 
+alley, since, as a learned Anglican divine once wrote, "It is indeed both 
+ridiculous and irreverent to ask what it feels like to be God incarnate."48 
+However, what cannot be denied—and what a high Christology, affirming 
+the full pre-existing divinity of the unique person of Jesus Christ, does 
+not deny—is that "being  human" necessarily implies change and growth 
+from infancy to adulthood; that the humanity assumed by the Son of 
+God was our "corruptible" humanity which needed salvation and which 
+he led in a passage (the Christian Passover) from death to life; that 
+"Jesus the Son of God ... has been tempted in every respect as we are, 
+yet without sin" (Heb 4:15; cf. 1 Pet 2:22).49 
+This last point—"without sin"—also makes high Christology inevita­
+ble, because God and no creature can be said to be totally above sin, 
+which is a conscious, personal act of rebellion against divine will. It is 
+because he was God, not as "mere man," that Jesus was able to overcome 
+the temptations inherent in fallen humanity: "You shall not tempt the 
+Lord your God," said Jesus to the tempter (Mt 4:7; Lk 4:12). Although 
+no philosophical, rational, or psychological explanation can be found for 
+it, here is the very content of the "good news" revealed in Christ: that 
+God Himself has placed Himself on our level, within our very existence; 
+that He is not any longer a distantly heavenly being but the One who is 
+personally, hypostatically "with us"—even in teinptations and in death— 
+the Emmanuel.
+
+=== BLOCK E: p. 495, footnotes 48 and 49 as printed at the foot of the page ===
+48 Christ, the Christian and the Church (London: Longmans, Green, 1946) 37. 
+49 Cf. my article "Christ's Humanity: The Paschal Mystery," Si. Vladimir's Theological 
+Quarterly 31 (1987) 5-40.

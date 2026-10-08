@@ -2666,3 +2666,40 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-06T16:32:51Z` lint_skills: PASS
 - `2026-10-06T16:32:54Z` check_skill_sandbox: PASS
 - `2026-10-06T16:32:54Z` remote_cycle: gates PASS
+- `2026-10-08T14:14:54Z` capture: inquiry -> inquiries/did-christ-assume-a-fallen-human-nature-without-inheriting--202610081414.md
+- `2026-10-08T14:26:08Z` capture: inquiry-update did-christ-assume-a-fallen-human-nature-without-inheriting--202610081414 status=new->in-progress
+- `2026-10-08T14:31:43Z` capture: reference -> reference/byzantine-theology-historical-trends-and-doctrinal-themes--202610081431.md (identity=isbn:9780823209675, verified=no)
+- `2026-10-08T14:31:46Z` capture: reference -> reference/an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432.md (identity=url:newadvent.org/fathers/33043.htm, verified=no)
+- `2026-10-08T14:31:53Z` fetch_source: an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432 <- https://www.newadvent.org/fathers/33043.htm (renderer=none, 179417 bytes)
+- `2026-10-08T14:32:29Z` fetch_source: FAILED byzantine-theology-historical-trends-and-doctrinal-themes--202610081431 <- https://openlibrary.org/isbn/9780823209675.json (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))
+- `2026-10-08T14:32:41Z` fetch_source: FAILED byzantine-theology-historical-trends-and-doctrinal-themes--202610081431 <- https://openlibrary.org/isbn/9780823209675.json (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))
+- `2026-10-08T14:32:50Z` fetch_source: FAILED byzantine-theology-historical-trends-and-doctrinal-themes--202610081431 <- https://openlibrary.org/isbn/9780823209675.json (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))
+- `2026-10-08T14:32:57Z` fetch_source: FAILED byzantine-theology-historical-trends-and-doctrinal-themes--202610081431 <- https://openlibrary.org/isbn/9780823209675.json (('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))
+- `2026-10-08T14:33:07Z` fetch_source: byzantine-theology-historical-trends-and-doctrinal-themes--202610081431 <- https://openlibrary.org/isbn/9780823209675.json (renderer=none, 2110 bytes)
+- `2026-10-08T14:35:13Z` verify_refs: 165/165 verified
+- `2026-10-08T14:36:13Z` capture: literature -> literature/irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436.md
+- `2026-10-08T14:36:29Z` capture: literature -> literature/meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437.md
+- `2026-10-08T14:36:49Z` capture: literature -> literature/meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438.md
+- `2026-10-08T14:37:44Z` capture: literature -> literature/john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439.md
+- `2026-10-08T14:39:03Z` capture: permanent -> permanent/irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440.md
+- `2026-10-08T14:39:36Z` capture: permanent -> permanent/meyendorff-needs-no-special-means-to-keep-inherited-guilt--202610081441.md
+- `2026-10-08T14:40:08Z` capture: permanent -> permanent/meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442.md
+- `2026-10-08T14:40:11Z` capture: permanent -> permanent/meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443.md
+- `2026-10-08T14:40:31Z` capture: permanent -> permanent/john-of-damascus-and-meyendorff-both-reject-julian-of--202610081444.md
+- `2026-10-08T14:40:56Z` capture: permanent -> permanent/the-larger-catechism-s-corruption-of-nature-is-an--202610081445.md
+- `2026-10-08T14:42:27Z` verify_refs: 165/165 verified
+- `2026-10-08T14:42:56Z` lint_citations: PASS
+- `2026-10-08T14:42:58Z` lint_links: PASS
+- `2026-10-08T14:42:58Z` lint_skills: PASS
+- `2026-10-08T14:43:01Z` check_skill_sandbox: PASS
+- `2026-10-08T14:43:01Z` remote_cycle: gates FAIL (build_manifest.py)
+- `2026-10-08T14:47:44Z` capture: inbox -> INBOX.md
+- `2026-10-08T14:48:24Z` capture: inquiry-update did-christ-assume-a-fallen-human-nature-without-inheriting--202610081414 status=in-progress->answered result_notes=+irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440,meyendorff-needs-no-special-means-to-keep-inherited-guilt--202610081441,meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442,meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443,john-of-damascus-and-meyendorff-both-reject-julian-of--202610081444,the-larger-catechism-s-corruption-of-nature-is-an--202610081445
+- `2026-10-08T14:49:14Z` session (inquiry 202610081414, ad hoc, owner request: research the view that Jesus inherited a fallen nature but not original guilt, with Edward Irving and Meyendorff as references, and add a paper outline). Worked on the session's assigned branch claude/admiring-gauss-chczw9 rather than through remote_cycle.sh start/finish: this session may push only to that branch, so it did not claim the run lock (which pushes a lock ref) or open a zettel/run-* branch or PR; the gates were run locally with remote_cycle.sh gates and the branch is left for the owner to open a PR from. Coverage check first (query.py): Irving vol. 5, Romans 5:12 Greek and the Western accounts already on file; gap g1, nothing on Meyendorff. Three new references: Meyendorff, New Life in Christ (Theological Studies 50, 1989, doi 10.1177/004056398905000304; bounded excerpts, 1,949 of 8,540 words, from the journal's own PDF; OCR errors in the text layer listed in the capture header); Meyendorff, Byzantine Theology (2nd ed. 1979, ISBN 9780823209675; Open Library metadata capture plus fourteen excerpts of pp. 143-46, each found word for word in two independent reproductions -- Housel two-witness standard; archive.org lending scans refused search-inside, Google Books API out of quota, whole-book file hosts not used); John of Damascus, Exact Exposition III (New Advent, whole page). Four literature notes (202610081436-39, one a second passage of the Irving capture, pp. 153-74) and six permanent notes (202610081440-45): the shared anhypostatic move; two routes to no original guilt; two contents of 'fallen'; Meyendorff's two readings of Rom 5:12 and the conflict with Sanday and Headlam over Theodoret; Julian of Halicarnassus; Westminster's moral corruption vs Meyendorff's physical corruptibility. New MOC subsection under Christ's human nature. Paper outline at papers/fallen-nature-without-original-guilt-irving-and-meyendorff-outline.md (outside the gates; every quotation in it checked against the captures, or against the Kimel blog page for the two labelled second-hand). INBOX: one gaps entry; item (4) of the 2026-10-03 leads entry appended as half worked; four 'Source needed' entries that fetch_source.py auto-filed on transient Open Library connection resets were removed before commit, because the capture then succeeded. capture.py reference --doi hung in a registry retry backoff for over four minutes and was stopped; the record kept its Crossref metadata and was verified by raw capture.
+- `2026-10-08T14:49:16Z` build_manifest: 553 notes indexed
+- `2026-10-08T14:49:41Z` verify_refs: 165/165 verified
+- `2026-10-08T14:50:12Z` lint_citations: PASS
+- `2026-10-08T14:50:13Z` lint_links: PASS
+- `2026-10-08T14:50:14Z` lint_skills: PASS
+- `2026-10-08T14:50:15Z` check_skill_sandbox: PASS
+- `2026-10-08T14:50:15Z` remote_cycle: gates PASS

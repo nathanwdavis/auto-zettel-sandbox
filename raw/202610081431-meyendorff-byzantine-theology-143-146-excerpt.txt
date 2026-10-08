@@ -1,0 +1,124 @@
+Short verbatim excerpts from John Meyendorff, Byzantine Theology: Historical
+Trends and Doctrinal Themes, the section on original sin in the chapter on
+man, pp. 143-146 (reference:
+byzantine-theology-historical-trends-and-doctrinal-themes--202610081431).
+
+This is NOT the text of the section. The book is in copyright and was not
+readable from this environment by any legitimate route: Fordham University
+Press offers no preview; archive.org holds the 1974 and 1979 printings
+(byzantinetheolog0000meye_r6w4, byzantinetheolog0000meye) only as
+lending-restricted scans, and its search-inside service answered "Item not
+available" to this session for both; the Google Books API refused every
+query with a daily-quota error. Hosts offering the whole book as a file were
+not used. What follows are single sentences and phrases, reproduced for
+citation-grounding and commentary, each found word for word in two
+independent secondary sources that reproduce the section and name its pages.
+
+Fetched 2026-10-08T14:21:53Z-14:21:55Z by curl through this session's egress
+proxy. HTML markup stripped and whitespace normalised for comparison; the
+sentences below are given in Source A's wording, punctuation and quotation
+marks, with straight quotation marks for its typographic ones, and nothing
+else changed.
+
+Source A: Robert Boylan, "John Meyendorff on Byzantine Theology and
+'Original Sin'", Scriptural Mormonism (blog), January 2021,
+http://scripturalmormonism.blogspot.com/2021/01/john-meyendorff-on-byzantine-theology.html
+(HTTP 200, 117,539 bytes, SHA-256
+55805db7a6aab14ca8d5f5e4f0308017f09eaf498cab16075d515435b8f523d1). Its
+footnote: "John Meyendorff, Byzantine Theology: Historical Trends and
+Doctrinal Themes [London: Mowbrays, 1975], 143-45".
+
+Source B: "Article 03 - Fr. Meyendorff on the Original Sin", The Taboric
+Light (Google Sites),
+https://sites.google.com/site/thetaboriclight/articles/article-03-fr-meyendorff-on-the-original-sin
+(HTTP 200, 389,733 bytes, SHA-256
+20b3a285a2990a7afa519bdeabd9e4ecd6f49d7df78753c96ce5f9099d813abc). Its
+closing citation: "[Fr. John Meyendorff, Byzantine Theology, (New York:
+Fordham University Press, 1983), pages 143-146]".
+
+Independence. A and B differ in punctuation and wording in several sentences
+NOT reproduced here ("presupposes ... does not say" in A against "presupposed
+... did not say" in B; "a personal act, never" in A against "a personal act
+and never" in B; "masculine, referring" in A against "masculine referring" in
+B; "which was "the wages of sin" (Rm 6:23)" in A against "which is "the
+wages of sin" (Romans 6:23)" in B; "since Christian antiquity, as a cosmic
+disease which" in A against "since Christian antiquity as a cosmic disease,
+which" in B). Neither copies the other. B agrees in those
+variants with a third copy, "Fr. John Meyendorff on Original Sin", Diligite
+iustitiam (blog), 10 September 2006,
+https://initium-sapientiae.blogspot.com/2006/09/fr-john-meyendorff-on-original-sin.html
+(HTTP 200, 1,897,529 bytes), whose author says it was taken from "an
+abridged version of the book" found online; so B and that third copy are one
+witness, and A is the other. Every sentence below is in both A and B.
+Meyendorff himself cites "Byzantine Theology ... (3rd ed.; New York:
+Fordham University, 1987) 143-46" for the reading of Romans 5:12 (New Life
+in Christ, 1989, n. 45; raw/202610081426-meyendorff-new-life-in-christ-ts-50-3-excerpt.txt),
+so the pages agree across the printings of 1975, 1983 and 1987.
+
+The excerpts, in the order they stand in the section:
+
+1. "Now, in Greek patristic thought, only this free, personal mind can
+   commit sin and incur the concomitant "guilt""
+
+2. "sin is always a personal act" ... "never an act of nature"
+
+3. "the rebellion of Adam and Eve against God could be conceived only as
+   their personal sin; there would be no place, then, in such an
+   anthropology for the concept of inherited guilt, or for a "sin of
+   nature," although it admits that human nature incurs the consequences of
+   Adam's sin."
+
+4. "neither original sin nor salvation can be realized in an individual's
+   life without involving his personal and free responsibility."
+
+5. "The last four Greek words were translated in Latin as in quo omnes
+   peccaverunt ("in whom [i.e., in Adam] all men have sinned"), and this
+   translation was used in the West to justify the doctrine of guilt
+   inherited from Adam and spread to his descendants. But such a meaning
+   cannot be drawn from the original Greek"
+
+6. "The form eph ho" ... "can be translated as "because," a meaning accepted
+   by most modern scholars of all confessional backgrounds." ... (of "A
+   number of Byzantine authors", the patriarch among them) "understood the
+   eph ho to mean "because" and saw nothing in the Pauline text beyond a
+   moral similarity between Adam and other sinners"
+
+7. "But there is also the consensus of the majority of Eastern Fathers, who
+   interpret Romans 5:12 in close connection with 1 Corinthians 15:22" ...
+   "between Adam and his descendants there is a solidarity in death just as
+   there is a solidarity in life between the risen Lord and the baptized."
+
+8. "if it means "because," is a neuter pronoun; but it can also be
+   masculine" ... "referring to the immediately preceding substantive
+   thanatos ("death")."
+
+9. "which is indeed the meaning which most Greek Fathers accepted" ... "As
+   sin came into the world through one man and death through sin, so death
+   spread to all men; and because of death, all men have sinned"
+
+10. "makes sin inevitable" ... "in this sense "corrupts" nature."
+
+11. "fell sick of corruption" (of humanity after Adam's sin, in Cyril of
+    Alexandria as Meyendorff reports him)
+
+12. "For Theodore of Mopsuestia, "by becoming mortal, we acquired greater
+    urge to sin.""
+
+13. "There is indeed a consensus in Greek patristic and Byzantine traditions
+    in identifying the inheritance of the Fall as an inheritance essentially
+    of mortality rather than of sinfulness, sinfulness being merely a
+    consequence of mortality."
+
+14. "The idea appears in Chrysostom, who specifically denies the imputation
+    of sin to the descendants of Adam"
+
+Not captured, because A and B do not agree on the words or only one of them
+has them: the sentence on the patriarch and the "sin of nature" (A and the
+2006 copy spell him Photius, B Photios); the sentence beginning "It presupposes a cosmic
+significance", the sentence on Paul's "wages of sin" and the sentence on
+mortality as a cosmic disease (wording or punctuation differs); the
+opening of the sentence on the Greek Fathers' reading, "The sentence then
+may have a meaning" (punctuation differs; its close is in excerpt 9); the
+paragraphs after the
+Chrysostom sentence (on baptism and the Mysteries), which B continues and A
+does not.
