@@ -43,9 +43,10 @@ excerpt_captures:
 - raw/202609081823-grudem-ch16-providence-excerpts.txt
 - raw/202609081903-grudem-ch13-will-freedom-omnipotence-excerpts.txt
 - raw/202609081918-grudem-ch16-pharaoh-excerpts.txt
+- raw/202610081551-grudem-ch26-could-jesus-have-sinned-excerpts.txt
 links: []
 created: '2026-09-05'
-updated: '2026-09-08'
+updated: '2026-10-08'
 citation_renderer: pandoc
 ---
 Bibliographic record. The raw capture is Open Library metadata for ISBN
@@ -298,3 +299,21 @@ The pp. 232-233 wisdom capture of paragraph (5) is untouched, because it IS
 verbatim -- character for character, curly quotation marks and en-dashes
 included -- and the Sefaria captures made the same day are likewise genuine
 transcriptions.
+
+(10) Added 2026-10-08: raw/202610081551-grudem-ch26-could-jesus-have-sinned-excerpts.txt,
+the sixth owner drop and the first from the book's treatment of the person of
+Christ: the section headed "4. Could Jesus Have Sinned?", from the chapter the
+owner's file name gives as 26, exported from the owner's licensed Logos copy
+(5 export pages, about 1,460 words, read in full). It is a RECONSTRUCTION, by
+the method of paragraph (6) with this export's own page-by-page glyph table,
+checked against rendered images of all five pages; eleven excerpts, 413 words
+(28 percent), are retained. Like the chapter 16 export it prints no book folios;
+its last sentence cross-refers to "pp. 690-700" for how Jesus could be God and
+man in one person. It is NOT the section on the virgin birth that the INBOX
+entry of 2026-10-03 asked for, which remains wanted, and it carries no footnotes
+beyond nos. 9-11 (footnote 10 credits Geerhardus Vos, Biblical Theology, 1948,
+pp. 339-42, which is not on file). The material is distilled at
+[[grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553]]
+and the permanent notes linked from it. SHA-256 of this capture as committed:
+df8dc963b0d8a8cf5b783726df91e774ab8e75add3b7bfd4b4a2a54fd9b710b2.
+

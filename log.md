@@ -2732,3 +2732,16 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-08T15:43:20Z` lint_skills: PASS
 - `2026-10-08T15:43:22Z` check_skill_sandbox: PASS
 - `2026-10-08T15:43:22Z` remote_cycle: gates PASS
+- `2026-10-08T15:53:55Z` capture: literature -> literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md
+- `2026-10-08T15:54:54Z` capture: permanent -> permanent/grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554.md
+- `2026-10-08T15:55:24Z` capture: permanent -> permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md
+- `2026-10-08T15:55:47Z` capture: permanent -> permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md
+- `2026-10-08T15:57:14Z` capture: inquiry-update did-christ-assume-a-fallen-human-nature-without-inheriting--202610081414 status=answered->answered
+- `2026-10-08T15:57:20Z` build_manifest: 557 notes indexed
+- `2026-10-08T15:57:44Z` verify_refs: 165/165 verified
+- `2026-10-08T15:58:12Z` lint_citations: PASS
+- `2026-10-08T15:58:13Z` lint_links: PASS
+- `2026-10-08T15:58:13Z` lint_skills: PASS
+- `2026-10-08T15:58:15Z` check_skill_sandbox: PASS
+- `2026-10-08T15:58:15Z` remote_cycle: gates PASS
+- `2026-10-08T15:58:33Z` session (owner drop, 2026-10-08): Grudem, Systematic Theology 2nd ed., ch. 26 sec. 4 'Could Jesus Have Sinned?', a 5-page Logos export the owner supplied ('I have the book'). Ingested by hand rather than through session_cycle.sh ingest, because that script commits the whole source to raw/ and this book is in copyright in a public repository; the Grudem precedent (paragraphs (3)-(8) of the reference) is excerpts only. The text layer was reconstructed page by page (glyph slots ! for Th, " for Th on p. 2 and ft on p. 4, # for tt; 11 hyphen joins; running header and footer stripped, the footer carrying a U+202F before AM) and checked against rendered images of all five pages. Eleven excerpts, 413 of 1,460 words (28 percent), in raw/202610081551, attached as an excerpt capture to grudem-systematic-theology--202609050158 with paragraph (10). One literature note (202610081553) and three permanent notes (202610081554-56): Grudem's human nature taken by itself is Adam's before the fall (with Calvin, against Irving); Grudem's impeccability against Irving's 'liable to sin'; Grudem and Irving on the human, Spirit-upheld resistance to temptation against Meyendorff's 'because he was God'. MOC subsection; paper outline Sections II and VI, sources and gaps updated; INBOX entry for Grudem ch. 26 appended and set in-progress; inquiry 202610081414 noted. Every quoted span machine-checked: 0 misses. Critic review running.
