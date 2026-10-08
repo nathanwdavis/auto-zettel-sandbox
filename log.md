@@ -2712,3 +2712,10 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-08T15:05:34Z` lint_skills: PASS
 - `2026-10-08T15:05:36Z` check_skill_sandbox: PASS
 - `2026-10-08T15:05:36Z` remote_cycle: gates PASS
+- `2026-10-08T15:38:11Z` verify_refs: 165/165 verified
+- `2026-10-08T15:38:39Z` lint_citations: PASS
+- `2026-10-08T15:38:40Z` lint_links: PASS
+- `2026-10-08T15:38:40Z` lint_skills: PASS
+- `2026-10-08T15:38:42Z` check_skill_sandbox: PASS
+- `2026-10-08T15:38:42Z` remote_cycle: gates PASS
+- `2026-10-08T15:38:42Z` session: PR #101 opened for inquiry 202610081414 at the owner's request, with auto-merge (squash) enabled. The owner set a standing rule: research added at their request is taken through a PR to main by the session itself ('that is what the auto in auto-zettel means'). Recorded in a new top-level CLAUDE.md so later sessions read it at startup.
