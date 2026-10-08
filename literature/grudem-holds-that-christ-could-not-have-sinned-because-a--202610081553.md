@@ -47,7 +47,7 @@ nature to make obedience easier for him" (the stones-into-bread example, not
 retained in the capture), and Grudem holds that he "met every temptation to
 sin not by his divine power but on the strength of his human nature alone",
 while he "was perfectly depending on God the Father and the Holy Spirit at
-every moment". The divine nature was "a sort of 'backstop'" that would have stopped
+every moment". The divine nature was what he calls a "backstop", which would have stopped
 him from sinning in any case, but he did not lean on it. Temptation resisted
 to the end is felt most fully, so the temptations "were most real because he
 did not give in to them."

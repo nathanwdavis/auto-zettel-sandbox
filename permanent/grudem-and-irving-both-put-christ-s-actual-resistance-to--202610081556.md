@@ -5,9 +5,9 @@ slug: grudem-and-irving-both-put-christ-s-actual-resistance-to
 aliases:
 - '202610081556'
 type: permanent
-title: Grudem and Irving both put Christ's actual resistance to temptation in his
-  humanity upheld by the Father and the Spirit, while Meyendorff says he overcame
-  it because he was God
+title: Grudem has Christ's human nature resist temptation while depending on the
+  Father and the Spirit, Irving has the Father and the Spirit restrain his fallen
+  flesh, and Meyendorff says he could overcome because he was God
 created: '2026-10-08'
 updated: '2026-10-08'
 tags: []
@@ -36,13 +36,13 @@ credit for his not yielding.
 Grudem: Jesus "met every temptation to sin not by his divine power but on the
 strength of his human nature alone", and not alone in fact, because he "was
 perfectly depending on God the Father and the Holy Spirit at every moment".
-The divine nature stood by as "a sort of 'backstop'" that would have stopped
-him from sinning in any case, and he refused to lean on it, as when he would
+The divine nature stood by as what Grudem calls a "backstop", which would
+have stopped him from sinning in any case, and he refused to lean on it, as when he would
 not turn stones into bread: he "refused to rely on his divine nature to make
 obedience easier for him"
 ([[grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553]]).
 
-Irving: the Spirit does the restraining, in fallen flesh. The Holy Ghost is
+Irving: the Father and the Spirit do the restraining, in fallen flesh. The Holy Ghost is
 "subduing, restraining, conquering, the evil propensities of the fallen
 manhood"
 ([[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]),
@@ -50,14 +50,18 @@ and "It is the work of God the Father, and of God the Holy Ghost, so to
 operate in and upon the fallen humanity of Christ, as that it shall be ever
 harmonious with the Godhead of Christ" (vol. 5, p. 160).
 
-Meyendorff: "It is because he was God, not as 'mere man,' that Jesus was able
-to overcome the temptations inherent in fallen humanity"
+Meyendorff: "It is because he was God", and not as mere man, "that Jesus was
+able to overcome the temptations inherent in fallen humanity"
 ([[meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437]]).
 
-So Grudem and Irving agree on the mechanism, a human life upheld by the
-Father and the Spirit, and disagree on the flesh it was lived in: unfallen and
-"able to sin" in itself for Grudem, fallen and carrying the propensities for
-Irving. Grudem keeps the divine nature in reserve, as what makes sinning
+So Grudem and Irving both bring the Father and the Spirit into Christ's
+resistance, but they differ on who acts as well as on the flesh. In Grudem
+the human nature is the agent: it resists "on the strength of his human
+nature alone", depending on the Father and the Spirit. In Irving the Father and the Spirit are the agents: they "operate in and
+upon the fallen humanity", and the Holy Ghost is "subduing, restraining,
+conquering" its propensities. And the flesh differs: unfallen and "able to
+sin" in itself for Grudem, fallen and carrying the propensities for Irving.
+Grudem keeps the divine nature in reserve, as what makes sinning
 impossible, without letting it do the resisting. Meyendorff, in the sentence
 on file, makes his being God the reason he could overcome, without saying
 whether divine power did the resisting, which Grudem's "not by his divine

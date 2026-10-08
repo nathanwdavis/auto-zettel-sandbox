@@ -1043,7 +1043,7 @@ the base its evangelical foil to the fallen-nature view.
 
 - [[grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554]] — taken by itself, Christ's human nature would have been like Adam and Eve's, "free from sin but nonetheless able to sin": Calvin's unfallen generation, against Irving's fallen flesh. A counterfactual, and silent on mortality.
 - [[grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555]] — Grudem: not able to sin, because a sin would have been the divine person's; Irving: a Christ not "liable to sin" would not be a man. They divide on the possibility, not the fact.
-- [[grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556]] — Grudem and Irving both have Christ resist in his humanity, upheld by the Father and the Spirit (Grudem's divine "backstop" in reserve); Meyendorff says he could overcome "because he was God", without saying whether divine power did the resisting.
+- [[grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556]] — Grudem has Christ's human nature do the resisting, depending on the Father and the Spirit (the divine nature a "backstop" in reserve); Irving has the Father and the Spirit restrain his fallen flesh; Meyendorff says he could overcome "because he was God", without saying whether divine power did the resisting.
 
 Still missing from ch. 26: the section on the virgin birth, which the
 2026-10-03 INBOX entry asked for, the section on Christ's sinlessness, and the discussion of

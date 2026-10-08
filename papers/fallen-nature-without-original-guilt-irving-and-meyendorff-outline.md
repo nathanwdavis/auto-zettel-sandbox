@@ -315,12 +315,14 @@ Take four. Give each one sentence of objection and two or three of reply.
    in to them." Irving takes the objection's side instead: a Christ "not liable to sin" would
    not be "a man" (p. 159). Meyendorff says Christ could overcome the temptations "because he
    was God", without saying whether divine power did the resisting, which leaves him closer
-   to the objection's target than Grudem. Make two points: (a) on the mechanism, Grudem and
-   Irving agree (a human life upheld by the Father and the Spirit) and differ only on the
-   flesh it was lived in; (b) the paper's claim concerns guilt, not impeccability, so it can
-   stay neutral on whether Christ could have sinned. [repo, excerpts for Grudem]
+   to the objection's target than Grudem. Make two points: (a) Grudem and Irving both bring
+   the Father and the Spirit into Christ's resistance, but differ on who acts (for Grudem the
+   human nature resists while depending on them; for Irving they restrain his fallen flesh)
+   as well as on the condition of that flesh; (b) the paper's claim concerns guilt, not
+   impeccability, so it can stay neutral on whether Christ could have sinned. [repo, excerpts
+   for Grudem]
    Sources: [Grudem holds that Christ could not have sinned because a sin would have been the divine person's, while Irving holds that a Christ not liable to sin would not be a man](../permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md)
-   and [Grudem and Irving both put Christ's actual resistance to temptation in his humanity](../permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md).
+   and [Grudem has Christ's human nature resist while depending on the Father and the Spirit, Irving has them restrain his fallen flesh](../permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md).
 
 ## Section VII. Conclusion (about 150 words)
 

@@ -40,12 +40,12 @@ nature could be tempted and was tempted"
 
 Irving, in the same sermon in which he says original sin is "avoided" in
 Christ, takes the objection's side. "And how can any one be tempted or tried,
-unless he be liable to sin"? (the 1866 text prints "}" for the question mark)
-"Even Adam, before he fell, was liable to sin. If
+unless he be liable to sin[?]" (the 1866 text prints "}" for the question
+mark here and below). "Even Adam, before he fell, was liable to sin. If
 any one, therefore, say that Christ" was "not liable to sin, he doth say He
 was not a man" (vol. 5, p. 159; the 1866 text reads "Avas" for "was" in the
 omitted word). A page earlier he puts it as question and answer: "But was He liable to
-sin"? (the text again prints "}") "Yes; He was tempted in all points like as
+sin[?]" "Yes; He was tempted in all points like as
 we are." He also makes Grudem's move with James 1:13: "His Godhead could not
 be tempted", and "Only, then, His manhood could be tempted" (pp. 158-59).
 For Irving, liability to sin goes with real temptation and with real
