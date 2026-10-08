@@ -9,7 +9,7 @@ title: Abrahamic conceptions of God
 tags: []
 links: []
 created: '2026-08-31'
-updated: '2026-10-06'
+updated: '2026-10-08'
 ---
 # Abrahamic conceptions of God
 
@@ -997,6 +997,39 @@ Dogmatics* I/2 sec. 15) and T. F. Torrance, the twentieth-century advocates of
 the fallen-nature view, are not captured in their own words, and neither is
 the related question of impeccability, whether Christ could have sinned.
 
+### Fallen nature without inherited guilt, added 2026-10-08: Irving and Meyendorff
+
+Asked ad hoc, with Edward Irving and John Meyendorff named as references: can
+Christ have assumed a fallen human nature without inheriting original guilt?
+Three new sources: Meyendorff's *New Life in Christ* (Theological Studies,
+1989; bounded excerpts from the journal's open copy), fourteen excerpts of his
+*Byzantine Theology* pp. 143-146 attested by two independent witnesses (the
+book itself is not readable here), and John of Damascus, *Exact Exposition*
+III; plus a second passage of Irving's vol. 5 already on file. Distilled at
+[[irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436]],
+[[meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437]],
+[[meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438]] and
+[[john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439]].
+
+- [[irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440]] — both say the assumed humanity was fallen and both deny that Christ is a human person, Irving to keep original sin from him (his actual sinlessness Irving credits to the Spirit), Meyendorff to make his victory over temptation the act of the divine person. So far as they share a logic, fallenness is predicated of the nature, sin and guilt of the person.
+- [[meyendorff-needs-no-special-means-to-keep-inherited-guilt--202610081441]] — Meyendorff denies that anyone inherits guilt, so Christ needs no exemption; Irving keeps original sin passing from Adam and blocks it at "the manner of His conception", with Augustine and Aquinas rather than Calvin, but keeps the flesh fallen. Corrects the 2026-10-03 note that counted Irving as dissenting about original sin itself (now amended).
+- [[meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442]] — on the pages on file, Meyendorff's "fallen" is mortality and corruptibility, close to what the mainstream account calls the penalties of the fall; Irving's includes "the evil propensities". Same word, different claims. John of Damascus has the devil's assault come "from without".
+- [[meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443]] — either Greek reading keeps Adam's guilt out of the clause; the construal Meyendorff expounds as the Greek Fathers' (death as antecedent) is the one Sanday and Headlam call "even more impossible", and on their face the two place Theodoret on opposite sides.
+- [[john-of-damascus-and-meyendorff-both-reject-julian-of--202610081444]] — both keep corruption in the sense of suffering and death in Christ, and only dissolution in the grave out of him; John makes sinlessness exempt him from the necessity of death, which he takes voluntarily, while Meyendorff places the freedom in the Incarnation as a whole.
+- [[the-larger-catechism-s-corruption-of-nature-is-an--202610081445]] — Westminster's "corruption of nature" is an inclination to evil, Meyendorff's corruptibility a liability to death; Meyendorff collides with Q. 25 at the guilt, Irving at the corruption.
+
+A paper outline drawing on this section is in
+`papers/fallen-nature-without-original-guilt-irving-and-meyendorff-outline.md`
+(outside the graph and the gates).
+
+Boundaries. Meyendorff's fuller treatment, "Christ's Humanity: The Paschal
+Mystery" (St Vladimir's Theological Quarterly 31, 1987), and his *Christ in
+Eastern Christian Thought* are not on file. Maximus the Confessor on the
+gnomic will, the Greek fathers on Romans 5:12 in their own words (Theodoret
+above all, given the conflict above), Barth, T. F. Torrance, and the modern
+analytic literature (Oliver Crisp, Kelly Kapic, E. Jerome Van Kuiken) are
+not captured.
+
 ## Sin as act and sin as nature, added 2026-10-03: which passages tell them apart?
 
 Asked ad hoc: what passages in the Bible distinguish sin as an act from the
@@ -1096,7 +1129,7 @@ The hidden knowledge of God: [[deuteronomy-29-29-the-secret-things-and-the-revea
 (literature: [[deuteronomy-29-29-assigns-the-concealed-things-to-god-and--202609151903]], [[the-partial-knowledge-passages-bound-what-creatures-know--202609151904]], [[rashi-reads-the-secret-things-of-deuteronomy-29-28-as--202609151905]], [[aquinas-separates-seeing-god-from-comprehending-him-denies--202609151906]], [[calvin-fences-the-doctrine-of-election-with-deuteronomy-29--202609151907]], [[luther-divides-god-preached-from-god-hidden-grants-that-the--202609151912]], [[the-mystical-theology-makes-unknowing-the-highest-knowledge--202609151908]], [[socrates-makes-knowing-that-he-does-not-know-the-whole-of--202609151909]], [[rumsfeld-sorts-what-is-known-into-known-knowns-known--202609151910]]).
 Faith and miracles: [[mark-6-1-6-no-mighty-work-there-because-of-their-unbelief--202609230040]], [[john-20-24-31-these-are-written-that-ye-might-believe--202609230041]], [[summa-theologiae-secunda-secundae-question-178-the-gift-of--202609230037]], [[an-enquiry-concerning-human-understanding--202609230038]], [[counterfeit-miracles--202609230039]]
 (literature: [[mark-6-1-6-at-nazareth-jesus-could-do-no-mighty-work-and--202609230045]], [[john-20-24-31-the-signs-are-written-that-ye-might-believe--202609230046]], [[aquinas-ascribes-miracles-to-faith-as-their-end-and-their--202609230042]], [[hume-sets-testimony-against-experience-then-calls-faith--202609230043]], [[warfield-makes-the-miraculous-gifts-the-credentials-of-the--202609230044]]).
-Christ's human nature: [[christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815]], [[chalcedon-definition--202609041958]], [[gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807]], [[augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808]], [[aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809]], [[aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810]], [[calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811]], [[westminster-larger-catechism--202610031812]], [[pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813]], [[edward-irving-collected-writings-vol-5-sermons-on-the--202610031814]]
-(literature: [[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]], [[chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825]], [[gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816]], [[augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817]], [[aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818]], [[aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819]], [[calvin-rejects-the-father-line-explanation-of-christ-s--202610031820]], [[the-westminster-larger-catechism-states-original-sin-for--202610031821]], [[ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822]], [[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]).
+Christ's human nature: [[christ-s-sinlessness-and-the-transmission-of-sin-passages--202610031815]], [[chalcedon-definition--202609041958]], [[gregory-of-nazianzus-epistle-101-to-cledonius-the-priest--202610031807]], [[augustine-enchiridion-handbook-on-faith-hope-and-love--202610031808]], [[aquinas-summa-theologiae-iii-q-15-of-the-defects-of-soul--202610031809]], [[aquinas-summa-theologiae-iii-q-31-of-the-matter-from-which--202610031810]], [[calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811]], [[westminster-larger-catechism--202610031812]], [[pius-ix-ineffabilis-deus-apostolic-constitution-defining--202610031813]], [[edward-irving-collected-writings-vol-5-sermons-on-the--202610031814]]; and from 2026-10-08, [[new-life-in-christ-salvation-in-orthodox-theology--202610081426]], [[byzantine-theology-historical-trends-and-doctrinal-themes--202610081431]], [[an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432]]
+(literature: [[the-new-testament-passages-call-christ-holy-from-birth-and--202610031824]], [[chalcedon-confesses-christ-consubstantial-with-us-and-like--202610031825]], [[gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816]], [[augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817]], [[aquinas-denies-christ-both-original-sin-and-the-fomes-of--202610031818]], [[aquinas-derives-christ-s-flesh-from-adam-s-matter-but-not--202610031819]], [[calvin-rejects-the-father-line-explanation-of-christ-s--202610031820]], [[the-westminster-larger-catechism-states-original-sin-for--202610031821]], [[ineffabilis-deus-defines-mary-s-preservation-from-original--202610031822]], [[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]], [[irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436]], [[meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437]], [[meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438]], [[john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439]]).
 Sin as act and sin as nature: [[sin-as-act-and-sin-as-indwelling-condition-passages-1-john--202610032100]], [[westminster-confession-of-faith-ch-6-of-the-fall-of-man-of--202610032101]], [[westminster-larger-catechism--202610031812]], [[council-of-trent-session-v-decree-concerning-original-sin--202610032102]], [[augustine-on-merit-and-the-forgiveness-of-sins-and-the--202610032103]], [[sanhedrin-91b-antoninus-and-rabbi-on-when-the-evil--202610032104]], [[rashi-on-genesis-8-21-from-his-youth--202610032105]]; and from the 2026-10-06 cycle, [[romans-5-12-21-in-the-sbl-greek-new-testament--202610061545]], [[a-critical-and-exegetical-commentary-on-the-epistle-to-the--202610061546]], [[genesis-4-7-6-5-and-8-21-in-hebrew-the-inclination-verses--202610061547]], [[bereshit-rabbah-34-10-antoninus-and-the-inclination-of-the--202610061548]], [[kiddushin-30b-the-evil-inclination-and-torah-as-its-antidote--202610061549]], [[sukkah-52a-52b-the-names-of-the-evil-inclination-and-the--202610061550]], [[shabbat-145b-146a-the-serpent-s-contamination-of-eve-and--202610061551]]
 (literature: [[the-old-testament-passages-place-sinfulness-at-conception--202610032106]], [[the-new-testament-passages-derive-sinful-deeds-from-a--202610032107]], [[the-westminster-confession-derives-all-actual--202610032108]], [[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]], [[trent-holds-that-adam-s-sin-passes-by-propagation-and-is-in--202610032110]], [[augustine-reads-romans-5-12-as-sin-passed-by-descent-rather--202610032111]], [[sanhedrin-91b-dates-the-evil-inclination-s-rule-over-a--202610032112]], [[rashi-reads-from-his-youth-in-genesis-8-21-as-the-evil--202610032113]], [[in-the-sbl-greek-text-romans-5-12-ends-on-a-four-word--202610061552]], [[sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553]], [[genesis-8-21-and-6-5-call-the-heart-s-yetzer-evil-in-so--202610061554]], [[genesis-rabbah-34-10-tells-the-antoninus-exchange-from--202610061555]], [[kiddushin-30b-has-god-create-the-evil-inclination-together--202610061556]], [[sukkah-52a-52b-has-god-name-the-evil-inclination-evil--202610061557]], [[shabbat-145b-146a-has-the-serpent-cast-contamination-into--202610061558]]).
