@@ -11,8 +11,9 @@ carry a dedication dated 1828, and John Meyendorff, an Orthodox theologian at St
 Vladimir's Seminary, writing in 1974 and 1989. The outline assumes Turabian
 notes-bibliography citations; check your syllabus.
 
-This version is dated 2026-10-08 and was revised the same day after the repository's critic
-reviewed the notes it draws on. Like everything in `papers/`, it sits outside the
+This version is dated 2026-10-08. It was revised the same day after the repository's critic
+reviewed the notes it draws on, and again to add Grudem's section "Could Jesus Have
+Sinned?", which you supplied. Like everything in `papers/`, it sits outside the
 repository's citation gates, but every point below that rests on a source says so and links
 to the note in this repository that holds the evidence. Each note's sources have a capture in
 `raw/`. When you quote in the paper, quote from the capture or the printed book, not from a
@@ -130,7 +131,14 @@ raised on the Westminster standards.
    nature: Adam before the fall was fully human and sinless. So the Western answer does not
    need a fallen nature to make Christ one of us. [repo]
    Source: [The tradition counts sin out of human nature, so a humanity without original sin is complete, not reduced](../permanent/the-tradition-counts-sin-out-of-human-nature-so-a-humanity--202610031826.md).
-4. Close the section with the question the rest of the paper answers: can the fall's effects
+4. **The standard evangelical textbook takes the same line.** Wayne Grudem, arguing that
+   Christ could not have sinned, says that his human nature, taken by itself, "would have
+   been a human nature just like that which God gave Adam and Eve. It would have been free
+   from sin but nonetheless able to sin". That is Calvin's "before Adam's fall", and the
+   opposite of Irving. Note the limit: it is a counterfactual inside an argument about
+   impeccability, and it says nothing about mortality. [repo, excerpts]
+   Source: [Grudem compares Christ's human nature, taken by itself, to Adam and Eve's before the fall](../permanent/grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554.md).
+5. Close the section with the question the rest of the paper answers: can the fall's effects
    on human *nature* be separated from Adam's *guilt*, so that Christ shares the first without
    the second?
 
@@ -298,11 +306,23 @@ Take four. Give each one sentence of objection and two or three of reply.
    Source: [Gregory's maxim that the unassumed is unhealed was aimed at a Christ without a human mind](../literature/gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816.md)
    and the closing paragraph of the Irving permanent note linked in Section III.
 4. **"If Christ is sinless only because he is God, his temptation was not real."** This is
-   the hardest objection and neither writer fully answers it. Irving puts the victory in the
-   Spirit's work in Christ's flesh; Meyendorff says Christ overcame the temptations "because he
-   was God". Note that Calvin also credits the Spirit, so Irving is not alone on the
-   mechanism. Acknowledge the objection, and say that the paper's claim concerns guilt, not
-   impeccability, which is a separate question.
+   the hardest objection, and Grudem's answer is the one to set out, because it meets it
+   without a fallen nature. Grudem holds that Christ could not have sinned, since "an act of
+   sin would have been a moral act that would apparently have involved the whole person of
+   Christ", yet that he "met every temptation to sin not by his divine power but on the
+   strength of his human nature alone", depending on the Father and the Spirit, with the
+   divine nature only a "backstop"; the temptations "were most real because he did not give
+   in to them." Irving takes the objection's side instead: a Christ "not liable to sin" would
+   not be "a man" (p. 159). Meyendorff says Christ could overcome the temptations "because he
+   was God", without saying whether divine power did the resisting, which leaves him closer
+   to the objection's target than Grudem. Make two points: (a) Grudem and Irving both bring
+   the Father and the Spirit into Christ's resistance, but differ on who acts (for Grudem the
+   human nature resists while depending on them; for Irving they restrain his fallen flesh)
+   as well as on the condition of that flesh; (b) the paper's claim concerns guilt, not
+   impeccability, so it can stay neutral on whether Christ could have sinned. [repo, excerpts
+   for Grudem]
+   Sources: [Grudem holds that Christ could not have sinned because a sin would have been the divine person's, while Irving holds that a Christ not liable to sin would not be a man](../permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md)
+   and [Grudem has Christ's human nature resist while depending on the Father and the Spirit, Irving has them restrain his fallen flesh](../permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md).
 
 ## Section VII. Conclusion (about 150 words)
 
@@ -338,7 +358,12 @@ Nature* (1830) to make it [not read].
 3. **Irving.** The capture is an OCR text of the 1866 edition. The literature note on pp.
    153-74 quotes a sentence from p. 174 that reads "in one word. He took the fallenness of
    flesh", with a full stop where a comma is likely; check the printed page.
-4. **John of Damascus.** The New Advent text credits the translation to E. W. Watson and L.
+4. **Grudem.** The repository holds only reconstructed excerpts of the section "Could Jesus
+   Have Sinned?", from your Logos export (`raw/202610081551-grudem-ch26-could-jesus-have-sinned-excerpts.txt`).
+   The export prints no book page numbers, so take the pages from your printed copy before
+   you footnote it; the section cross-refers to pp. 690-700 for Christ as God and man in one
+   person. Grudem's italics ("able to sin", "actually", "because") are not in the capture.
+5. **John of Damascus.** The New Advent text credits the translation to E. W. Watson and L.
    Pullan (NPNF 2nd series, vol. 9). Cite it that way unless your library copy says otherwise.
 
 ## Sources
@@ -366,6 +391,11 @@ Nature* (1830) to make it [not read].
 
 **In copyright; excerpts only [repo, excerpts].**
 
+- Wayne Grudem, *Systematic Theology: An Introduction to Biblical Doctrine*, 2nd ed. (Grand
+  Rapids: Zondervan Academic, 2020), ch. 26, section 4, "Could Jesus Have Sinned?" (book
+  pages to be taken from the printed copy). Grudem credits the argument largely to
+  Geerhardus Vos, *Biblical Theology* (1948), 339-42 [not read]. Record:
+  [grudem-systematic-theology--202609050158](../reference/grudem-systematic-theology--202609050158.md).
 - John Meyendorff, "New Life in Christ: Salvation in Orthodox Theology," *Theological
   Studies* 50, no. 3 (1989): 481-99, https://doi.org/10.1177/004056398905000304. Record:
   [new-life-in-christ-salvation-in-orthodox-theology--202610081426](../reference/new-life-in-christ-salvation-in-orthodox-theology--202610081426.md).
@@ -417,5 +447,8 @@ Nature* (1830) to make it [not read].
 Meyendorff's 1987 essay and *Christ in Eastern Christian Thought*; any Greek father on
 Romans 5:12 in his own words; Maximus the Confessor; Barth and Torrance in their own words;
 and the modern analytic literature (Crisp, Kapic, Van Kuiken). Irving's 1830 treatise and an
-account of his trial are not on file either. These gaps are recorded in the repository's
-INBOX under the entry dated 2026-10-08.
+account of his trial are not on file either. Of Grudem's chapter on the person of Christ,
+only the section on whether Jesus could have sinned is on file; his sections on the virgin
+birth and on Christ's sinlessness, and his discussion of Christ as God and man in one person
+(pp. 690-700), would sharpen Sections II and VI. These gaps are recorded in the repository's
+INBOX under the entries dated 2026-10-03 and 2026-10-08.

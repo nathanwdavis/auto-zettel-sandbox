@@ -4971,11 +4971,15 @@ The 2026-10-06 cycle's skill-smith wrote the patch this entry filed, as proposal
 
 ## 2026-10-03 — Source needed: Grudem, Systematic Theology 2nd ed., ch. 26 (The Person of Christ), on the virgin birth and inherited sin
 
-- **status:** new        <!-- new | in-progress | answered | archived -->
+- **status:** in-progress        <!-- new | in-progress | answered | archived -->
 - **priority:** normal
 - **asked_by:** human
 
 Inquiry did-jesus-have-a-sin-nature-he-never-sinned-but-was-he-born--202610031804 was answered from public-domain primary sources, but the owner's main textbook is not yet on file for this question. Grudem's chapters are copyrighted and reach this base only as owner-supplied Logos exports (as for chs. 12, 13 and 16, reference grudem-systematic-theology--202609050158). If the owner exports the section on the virgin birth (its role in Christ's sinlessness and the Catholic Immaculate Conception), a later run can add a literature note and test whether Grudem sides with Augustine and Aquinas or with Calvin on the mechanism.
+
+### Appended 2026-10-08: one section of ch. 26 supplied
+
+The owner supplied ch. 26, section 4, "Could Jesus Have Sinned?" (5-page Logos export), not the virgin-birth section this entry asks for. It is captured as reconstructed excerpts on the Grudem reference (raw/202610081551, paragraph (10) of the reference) and distilled at literature 202610081553 and permanent 202610081554-56: Grudem's human nature "taken by itself" is like Adam and Eve's, "free from sin but nonetheless able to sin" (with Calvin, against Irving); Christ could not have sinned because a sin would have been the divine person's; he met temptation in his human nature, depending on the Father and the Spirit. Still wanted: the virgin-birth section and section 3 on Christ's sinlessness (section 4 refers back to it with "see above"), to settle the mechanism question this entry poses, and the discussion of Christ as God and man in one person (book pp. 690-700). Status moved to in-progress.
 
 ## 2026-10-03 — Leads from the sin-as-act / sin-as-nature inquiry (202610032055)
 

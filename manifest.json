@@ -548,6 +548,10 @@
     "202610081443": "meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443",
     "202610081444": "john-of-damascus-and-meyendorff-both-reject-julian-of--202610081444",
     "202610081445": "the-larger-catechism-s-corruption-of-nature-is-an--202610081445",
+    "202610081553": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553",
+    "202610081554": "grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554",
+    "202610081555": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555",
+    "202610081556": "grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556",
     "202701010001": "atomic-notes-compound-over-time--202701010001",
     "202701010002": "one-idea-per-note-enables-reuse--202701010002",
     "202701010003": "titles-stated-as-claims-force-clarity--202701010003",
@@ -1048,7 +1052,7 @@
       "updated": "2026-10-03"
     }
   ],
-  "note_count": 553,
+  "note_count": 557,
   "notes": [
     {
       "id": "202610032115",
@@ -4358,6 +4362,51 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/gregory-s-maxim-that-the-unassumed-is-unhealed-was-aimed-at--202610031816.md"
     },
     {
+      "id": "202610081556",
+      "key": "grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437"
+        },
+        {
+          "relation": "source",
+          "target_id": "new-life-in-christ-salvation-in-orthodox-theology--202610081426"
+        }
+      ],
+      "path": "permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md",
+      "slug": "grudem-and-irving-both-put-christ-s-actual-resistance-to",
+      "tags": [],
+      "title": "Grudem has Christ's human nature resist temptation while depending on the Father and the Spirit, Irving has the Father and the Spirit restrain his fallen flesh, and Meyendorff says he could overcome because he was God",
+      "type": "permanent",
+      "updated": "2026-10-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md"
+    },
+    {
       "id": "202609090105",
       "key": "grudem-and-molina-both-argue-from-tyre-and-sidon-and-read-it-in-opposite-directions--202609090105",
       "links": [
@@ -4511,6 +4560,47 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-closes-gods-wisdom-in-the-readers-own-life--202609081645.md"
     },
     {
+      "id": "202610081554",
+      "key": "grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "calvin-institutes-ii-13-christ-clothed-with-the-true--202610031811"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820"
+        },
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442"
+        }
+      ],
+      "path": "permanent/grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554.md",
+      "slug": "grudem-compares-christ-s-human-nature-taken-by-itself-to",
+      "tags": [],
+      "title": "Grudem compares Christ's human nature, taken by itself, to Adam and Eve's before the fall, free from sin but able to sin, which sides with Calvin's unfallen generation against Irving's fallen flesh",
+      "type": "permanent",
+      "updated": "2026-10-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554.md"
+    },
+    {
       "id": "202609071347",
       "key": "grudem-defines-god-s-spirituality-as-immateriality--202609071347",
       "links": [
@@ -4645,6 +4735,60 @@
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-grounds-knowledge-of-the-possible-in-self-knowledge-without-separating-what-creatures-would-do--202609061923.md"
     },
     {
+      "id": "202610081553",
+      "key": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        }
+      ],
+      "path": "literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md",
+      "slug": "grudem-holds-that-christ-could-not-have-sinned-because-a",
+      "tags": [],
+      "title": "Grudem holds that Christ could not have sinned, because a sin would apparently have involved the whole person and so God himself, yet met every temptation in his human nature, depending on the Father and the Spirit",
+      "type": "literature",
+      "updated": "2026-10-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md"
+    },
+    {
+      "id": "202610081555",
+      "key": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555",
+      "links": [
+        {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553"
+        },
+        {
+          "relation": "source",
+          "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831"
+        }
+      ],
+      "path": "permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md",
+      "slug": "grudem-holds-that-christ-could-not-have-sinned-because-a",
+      "tags": [],
+      "title": "Grudem holds that Christ could not have sinned because a sin would have been the divine person's, while Irving holds that a Christ not liable to sin would not be a man, so Irving takes the side of the objection Grudem answers",
+      "type": "permanent",
+      "updated": "2026-10-08",
+      "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md"
+    },
+    {
       "id": "202609081648",
       "key": "grudem-reads-the-fear-of-the-lord-as-a-motive-not-a-premise--202609081648",
       "links": [
@@ -4720,7 +4864,7 @@
       "tags": [],
       "title": "Grudem, Systematic Theology",
       "type": "reference",
-      "updated": "2026-09-08",
+      "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/reference/grudem-systematic-theology--202609050158.md"
     },
     {

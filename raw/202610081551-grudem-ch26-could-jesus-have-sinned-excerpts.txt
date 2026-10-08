@@ -1,0 +1,136 @@
+Short RECONSTRUCTED excerpts from Wayne Grudem, Systematic Theology: An
+Introduction to Biblical Doctrine, 2nd ed. (Zondervan Academic, 2020), chapter
+26 (per the owner's file name), the section headed "4. Could Jesus Have
+Sinned?" (reference: grudem-systematic-theology--202609050158).
+
+NOT a verbatim capture, for the same reason as the chapter 16 capture
+(raw/202609081823-grudem-ch16-providence-excerpts.txt): the PDF's text layer
+cannot be read directly, so what follows is a reconstruction of the printed
+text. What IS claimed: every passage below is an exact substring of the
+reconstruction, except the second piece of excerpt 9, which joins the halves
+the extraction separates with footnote 11 (artifact (c)), and the reconstruction was checked against rendered images of
+all five export pages, read directly by the session, which matched it word for
+word. What is NOT claimed: that italic emphasis survives (the section italicises
+"impeccability", "impeccable", "able to sin", "actually" and "because", among
+others), or that line breaks and footnote markers are kept.
+
+PROVENANCE. The repository owner (nathanwdavis) supplied the section as a PDF
+in a Claude Code session on 2026-10-08, before 15:51Z (the Logos footer's
+"11:44 AM" carries no time zone), exported from their own licensed copy
+in Logos Bible Study, with the words "I have the book." The file name is
+"GrudemChapter26-CouldJesusHaveSinned.pdf"; 5 pages, 299,049 bytes, SHA-256
+4fc52349fa79137209fcb16b3094865d3e22a53ab06e8b52ee63220bcdc6abbe. Every page
+carries the running attribution "Wayne Grudem, Systematic Theology: An
+Introduction to Biblical Doctrine, Second Edition (Grand Rapids, MI: Zondervan
+Academic, 2020)." and the footer "Exported from Logos Bible Study, 11:44 AM
+October 8, 2026." The PDF itself is not committed: the book is in copyright and
+this repository is public. The section (about 1,460 words once headers and
+footers are removed) was read in full by the session before any note was
+written. This is the sixth owner-supplied
+capture of the second edition and the first from Part Four, on the person of
+Christ.
+
+PAGE NUMBERS. The export's page numbers (1-5, cited as "export p.N") are Logos
+export pages, not book pages. The section's last sentence cross-refers to the
+discussion of "how Jesus could be God and man in one person, pp. 690-700",
+which dates that discussion in the second edition but not this section.
+
+TEXT RECONSTRUCTION. As in the chapter 16 export, the embedded font subsets map
+ligatures onto ASCII glyph slots, differently from page to page: "!" for "Th"
+on every page; '"' for "Th" on export p. 2 and for "ft" on export p. 4 ("li"s"
+-> "lifts", "weightli"er" -> "weightlifter"); "#" for "tt" ("a#empt" ->
+"attempt"). Each affected form was resolved by page. The "ffi"
+ligature was decomposed by Unicode NFKC. Eleven line-end hyphenations were
+joined (ques-tion, Scrip-ture twice, con-tradictory, understand-ing, tempt-ed,
+pos-sible, pre-vented, sin-ning, tri-umphed, distinc-tion); none was a real
+hyphen. The running attribution and the "Exported from Logos" line were
+stripped from every page and whitespace normalised. Quotation marks and
+apostrophes are the export's typographic ones.
+
+THREE EXTRACTION ARTIFACTS, handled in the passages below. (a) The owner's
+Logos highlights (dashed underlines on the page images, not Grudem's) carry
+note icons that sit after some highlighted spans and leave a space
+before the next punctuation in the extraction ("able to sin .", "the whole
+person of Christ .", "Jesus had the ability , by"); every retained passage ends
+before such a space or does not cross one. (b) Footnote 10 is extracted inside
+the sentence it marks, between "(1) If Jesus'" (end of export p. 2) and "human
+nature had existed by itself" (export p. 3); excerpt 5 therefore begins at
+"human nature". (c) The sentence ending "even though he did not give in to
+them" runs across the break between export pp. 4 and 5, and the extraction puts
+footnote 11 between its halves; excerpt 9 gives it whole, as the page images
+show it.
+
+EXTENT. This is NOT the full section. Only the sentences this repository's notes
+cite are retained: eleven excerpts, 413 of the reconstruction's 1,460 words
+(28 percent; footnotes included, running headers and footers excluded).
+Within an excerpt, " ... " separates pieces between which words are
+omitted. Not retained, among much else: the Trinity analogy for the dilemma (export p. 2),
+the full statement of the stones-into-bread example and its reasoning (export
+pp. 3-4), footnote 11's swimmer and tightrope analogies, and the weightlifter
+analogy (export p. 4). The section's own headings are only its title; its
+argument is numbered (1)-(3) for what Scripture affirms (export p. 1) and
+(1)-(5) for the suggested solution (export pp. 2-3), and the excerpts say which
+step they come from.
+
+THE EXCERPTS.
+
+1. the definition and the objection (export p. 1)
+   the word impeccable means “not able to sin.” ... Others object that if
+   Jesus were not able to sin, his temptations could not have been real
+
+2. what Scripture clearly affirms (export p. 1)
+   Scripture clearly affirms that Christ never actually sinned ... It also
+   clearly affirms that Jesus was tempted, and that these were real
+   temptations ... If our speculation on the question of whether Christ could
+   have sinned ever leads us to say that he was not truly tempted, then we
+   have reached a wrong conclusion, one that contradicts the clear statements
+   of Scripture.
+
+3. the status of the solution that follows (export p. 2)
+   the following solution is more in the nature of a suggested means of
+   combining various biblical teachings and is not directly supported by
+   explicit statements of Scripture.
+
+4. footnote 10 (export p. 2)
+   In this discussion I am largely following the conclusions of Geerhardus
+   Vos, Biblical Theology (Grand Rapids: Eerdmans, 1948), 339–42.
+
+5. step (1): the human nature considered by itself; step (2) (export p. 3)
+   human nature had existed by itself, independent of his divine nature, then
+   it would have been a human nature just like that which God gave Adam and
+   Eve. It would have been free from sin but nonetheless able to sin ... But
+   Jesus’ human nature never existed apart from union with his divine nature
+
+6. steps (3)-(5): why it was not possible (export p. 3)
+   (such as being hungry or thirsty or weak) that Jesus experienced in his
+   human nature alone ... an act of sin would have been a moral act that would
+   apparently have involved the whole person of Christ ... then God himself
+   would have sinned, and he would have ceased to be God. ... The union of his
+   human and divine natures in one person prevented it.
+
+7. the stones and bread (export p. 4)
+   Jesus refused to rely on his divine nature to make obedience easier for
+   him.
+
+8. how he met temptation (export p. 4)
+   Jesus met every temptation to sin not by his divine power but on the
+   strength of his human nature alone ... was perfectly depending on God the
+   Father and the Holy Spirit at every moment ... The moral strength of his
+   divine nature was there as a sort of “backstop” that would have prevented
+   him from sinning in any case
+
+9. were the temptations real?; the second passage is continuous in the book
+   across the page break, where the extraction interposes footnote 11 (export
+   p. 4, 5)
+   only he who successfully resists a temptation to the end most fully feels
+   the force of that temptation ... The temptations were real, even though he
+   did not give in to them. In fact, they were most real because he did not
+   give in to them.
+
+10. James 1:13 (export p. 5)
+   His divine nature could not be tempted with evil, but his human nature
+   could be tempted and was tempted ... How these two natures united in one
+   person in facing temptations, Scripture does not clearly explain to us.
+
+11. the cross-reference (export p. 5)
+   how Jesus could be God and man in one person, pp. 690–700

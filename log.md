@@ -2732,3 +2732,39 @@ and the resulting commit SHA (NFR-2).
 - `2026-10-08T15:43:20Z` lint_skills: PASS
 - `2026-10-08T15:43:22Z` check_skill_sandbox: PASS
 - `2026-10-08T15:43:22Z` remote_cycle: gates PASS
+- `2026-10-08T15:53:55Z` capture: literature -> literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md
+- `2026-10-08T15:54:54Z` capture: permanent -> permanent/grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554.md
+- `2026-10-08T15:55:24Z` capture: permanent -> permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md
+- `2026-10-08T15:55:47Z` capture: permanent -> permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md
+- `2026-10-08T15:57:14Z` capture: inquiry-update did-christ-assume-a-fallen-human-nature-without-inheriting--202610081414 status=answered->answered
+- `2026-10-08T15:57:20Z` build_manifest: 557 notes indexed
+- `2026-10-08T15:57:44Z` verify_refs: 165/165 verified
+- `2026-10-08T15:58:12Z` lint_citations: PASS
+- `2026-10-08T15:58:13Z` lint_links: PASS
+- `2026-10-08T15:58:13Z` lint_skills: PASS
+- `2026-10-08T15:58:15Z` check_skill_sandbox: PASS
+- `2026-10-08T15:58:15Z` remote_cycle: gates PASS
+- `2026-10-08T15:58:33Z` session (owner drop, 2026-10-08): Grudem, Systematic Theology 2nd ed., ch. 26 sec. 4 'Could Jesus Have Sinned?', a 5-page Logos export the owner supplied ('I have the book'). Ingested by hand rather than through session_cycle.sh ingest, because that script commits the whole source to raw/ and this book is in copyright in a public repository; the Grudem precedent (paragraphs (3)-(8) of the reference) is excerpts only. The text layer was reconstructed page by page (glyph slots ! for Th, " for Th on p. 2 and ft on p. 4, # for tt; 11 hyphen joins; running header and footer stripped, the footer carrying a U+202F before AM) and checked against rendered images of all five pages. Eleven excerpts, 413 of 1,460 words (28 percent), in raw/202610081551, attached as an excerpt capture to grudem-systematic-theology--202609050158 with paragraph (10). One literature note (202610081553) and three permanent notes (202610081554-56): Grudem's human nature taken by itself is Adam's before the fall (with Calvin, against Irving); Grudem's impeccability against Irving's 'liable to sin'; Grudem and Irving on the human, Spirit-upheld resistance to temptation against Meyendorff's 'because he was God'. MOC subsection; paper outline Sections II and VI, sources and gaps updated; INBOX entry for Grudem ch. 26 appended and set in-progress; inquiry 202610081414 noted. Every quoted span machine-checked: 0 misses. Critic review running.
+- `2026-10-08T16:06:01Z` critic (Grudem ch. 26 ingest; delegated, read-only; the session applied every fix): no BLOCK. Capture header raw/202610081551 FLAG minor (excerpt 9's joined piece contradicted 'every passage is a substring'; 'Not retained' read as complete; no UTC time for the supply); reference para (10) PASS (footnote 9 not in the capture); literature 202610081553 PASS 0.82 (Luke 4:2 / Heb 4:15 and the Jas 1:13 step not retained; stones-to-bread reasoning not retained; 'later'); permanent 202610081554 PASS 0.93; 202610081555 PASS 0.93 (premise and conclusion of the objection inverted; 'freedom from sin' conflated actual and original sin); 202610081556 PASS 0.87 (Meyendorff overstated: his sentence says why Jesus could overcome, not what resisted); MOC PASS with nits. Span re-check 36, 0 misses; two nested-quote spans checked by eye.
+- `2026-10-08T16:06:01Z` fixes (all of the critic's, optional ones included): capture header amended before merge (PR #79 precedent): the excerpt 9 exception stated, 'before 15:51Z' added, 'Not retained, among much else'; reference para (10) says footnotes 10-11; literature 202610081553 rewritten on those four points and its title hedged with Grudem's 'apparently'; 202610081555 states the objection's antecedent and consequent correctly, separates Grudem's impossibility of sinning from Irving's freedom from original sin, links 202610081440, and adds Irving pp. 158-59 ('But was He liable to sin? Yes', and the same James 1:13 move: 'His Godhead could not be tempted', 'Only, then, His manhood could be tempted'); 202610081556 says what each credits for his not yielding and that Meyendorff's sentence does not say what resisted; nested quotes made single so the checker covers them; MOC nits and the 2026-10-03 boundary pointer; outline objection 4 aligned. Spans re-checked: 42, 0 misses.
+- `2026-10-08T16:06:05Z` build_manifest: 557 notes indexed
+- `2026-10-08T16:06:28Z` verify_refs: 165/165 verified
+- `2026-10-08T16:06:56Z` lint_citations: PASS
+- `2026-10-08T16:06:57Z` lint_links: PASS
+- `2026-10-08T16:06:57Z` lint_skills: PASS
+- `2026-10-08T16:06:59Z` check_skill_sandbox: PASS
+- `2026-10-08T16:06:59Z` remote_cycle: gates PASS
+- `2026-10-08T16:08:56Z` build_manifest: 557 notes indexed
+- `2026-10-08T16:09:21Z` verify_refs: 165/165 verified
+- `2026-10-08T16:09:50Z` lint_citations: PASS
+- `2026-10-08T16:09:51Z` lint_links: PASS
+- `2026-10-08T16:09:51Z` lint_skills: PASS
+- `2026-10-08T16:09:53Z` check_skill_sandbox: PASS
+- `2026-10-08T16:09:53Z` remote_cycle: gates PASS
+- `2026-10-08T16:10:01Z` PR #103 review (Copilot, on 6094c6f; two medium, three low, all accepted): permanent 202610081556 overstated the agreement between Grudem and Irving; they differ on who acts (Grudem: the human nature resists while depending on the Father and the Spirit; Irving: the Father and the Spirit operate on and restrain the fallen flesh) as well as on the flesh. The note is retitled and its synthesis rewritten; the MOC bullet, the outline's objection 4 and the inquiry note follow. Quotation boundaries: the nested 'backstop' and 'mere man' quotes rephrased; Irving's printed closing-brace for a question mark rendered as '[?]' inside the quotations. Spans re-checked, 0 misses.
+- `2026-10-08T16:10:26Z` verify_refs: 165/165 verified
+- `2026-10-08T16:10:54Z` lint_citations: PASS
+- `2026-10-08T16:10:56Z` lint_links: PASS
+- `2026-10-08T16:10:56Z` lint_skills: PASS
+- `2026-10-08T16:10:58Z` check_skill_sandbox: PASS
+- `2026-10-08T16:10:58Z` remote_cycle: gates PASS
