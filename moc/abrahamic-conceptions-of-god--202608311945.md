@@ -996,6 +996,8 @@ holds Grudem only on the doctrine of God and providence. Karl Barth (*Church
 Dogmatics* I/2 sec. 15) and T. F. Torrance, the twentieth-century advocates of
 the fallen-nature view, are not captured in their own words, and neither is
 the related question of impeccability, whether Christ could have sinned.
+(Updated 2026-10-08: one section of Grudem's chapter, on impeccability, is
+now captured; see "Could Jesus have sinned? Grudem" below.)
 
 ### Fallen nature without inherited guilt, added 2026-10-08: Irving and Meyendorff
 
@@ -1041,10 +1043,10 @@ the base its evangelical foil to the fallen-nature view.
 
 - [[grudem-compares-christ-s-human-nature-taken-by-itself-to--202610081554]] — taken by itself, Christ's human nature would have been like Adam and Eve's, "free from sin but nonetheless able to sin": Calvin's unfallen generation, against Irving's fallen flesh. A counterfactual, and silent on mortality.
 - [[grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555]] — Grudem: not able to sin, because a sin would have been the divine person's; Irving: a Christ not "liable to sin" would not be a man. They divide on the possibility, not the fact.
-- [[grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556]] — Grudem and Irving both have Christ resist in his humanity, upheld by the Father and the Spirit (Grudem's divine "backstop" in reserve); Meyendorff says he overcame "because he was God".
+- [[grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556]] — Grudem and Irving both have Christ resist in his humanity, upheld by the Father and the Spirit (Grudem's divine "backstop" in reserve); Meyendorff says he could overcome "because he was God", without saying whether divine power did the resisting.
 
-Still missing from ch. 26: the sections on the virgin birth and on Christ's
-sinlessness, which the 2026-10-03 INBOX entry asked for, and the discussion of
+Still missing from ch. 26: the section on the virgin birth, which the
+2026-10-03 INBOX entry asked for, the section on Christ's sinlessness, and the discussion of
 Christ as God and man in one person (book pp. 690-700) that this section
 points to.
 

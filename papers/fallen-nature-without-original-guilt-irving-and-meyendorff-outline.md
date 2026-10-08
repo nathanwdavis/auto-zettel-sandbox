@@ -307,18 +307,18 @@ Take four. Give each one sentence of objection and two or three of reply.
    and the closing paragraph of the Irving permanent note linked in Section III.
 4. **"If Christ is sinless only because he is God, his temptation was not real."** This is
    the hardest objection, and Grudem's answer is the one to set out, because it meets it
-   without a fallen nature. Grudem holds that Christ could not have
-   sinned, since "an act of sin would have been a moral act that would apparently have
-   involved the whole person of Christ", yet that he "met every temptation to sin not by his
-   divine power but on the strength of his human nature alone", depending on the Father and
-   the Spirit, with the divine nature only a "backstop"; the temptations "were most real
-   because he did not give in to them." Irving takes the objection's side instead: a Christ
-   "not liable to sin" would not be "a man" (p. 159). Meyendorff says Christ overcame the
-   temptations "because he was God", which is closer to the objection's target than Grudem's
-   answer is. Make two points: (a) on the mechanism, Grudem and Irving agree (a human life
-   upheld by the Father and the Spirit) and differ only on the flesh it was lived in; (b) the
-   paper's claim concerns guilt, not impeccability, so it can stay neutral on whether Christ
-   could have sinned. [repo, excerpts for Grudem]
+   without a fallen nature. Grudem holds that Christ could not have sinned, since "an act of
+   sin would have been a moral act that would apparently have involved the whole person of
+   Christ", yet that he "met every temptation to sin not by his divine power but on the
+   strength of his human nature alone", depending on the Father and the Spirit, with the
+   divine nature only a "backstop"; the temptations "were most real because he did not give
+   in to them." Irving takes the objection's side instead: a Christ "not liable to sin" would
+   not be "a man" (p. 159). Meyendorff says Christ could overcome the temptations "because he
+   was God", without saying whether divine power did the resisting, which leaves him closer
+   to the objection's target than Grudem. Make two points: (a) on the mechanism, Grudem and
+   Irving agree (a human life upheld by the Father and the Spirit) and differ only on the
+   flesh it was lived in; (b) the paper's claim concerns guilt, not impeccability, so it can
+   stay neutral on whether Christ could have sinned. [repo, excerpts for Grudem]
    Sources: [Grudem holds that Christ could not have sinned because a sin would have been the divine person's, while Irving holds that a Christ not liable to sin would not be a man](../permanent/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081555.md)
    and [Grudem and Irving both put Christ's actual resistance to temptation in his humanity](../permanent/grudem-and-irving-both-put-christ-s-actual-resistance-to--202610081556.md).
 

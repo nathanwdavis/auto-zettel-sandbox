@@ -7,14 +7,16 @@ NOT a verbatim capture, for the same reason as the chapter 16 capture
 (raw/202609081823-grudem-ch16-providence-excerpts.txt): the PDF's text layer
 cannot be read directly, so what follows is a reconstruction of the printed
 text. What IS claimed: every passage below is an exact substring of the
-reconstruction, and the reconstruction was checked against rendered images of
+reconstruction, except the second piece of excerpt 9, which joins the halves
+the extraction separates with footnote 11 (artifact (c)), and the reconstruction was checked against rendered images of
 all five export pages, read directly by the session, which matched it word for
 word. What is NOT claimed: that italic emphasis survives (the section italicises
 "impeccability", "impeccable", "able to sin", "actually" and "because", among
 others), or that line breaks and footnote markers are kept.
 
 PROVENANCE. The repository owner (nathanwdavis) supplied the section as a PDF
-in a Claude Code session on 2026-10-08, exported from their own licensed copy
+in a Claude Code session on 2026-10-08, before 15:51Z (the Logos footer's
+"11:44 AM" carries no time zone), exported from their own licensed copy
 in Logos Bible Study, with the words "I have the book." The file name is
 "GrudemChapter26-CouldJesusHaveSinned.pdf"; 5 pages, 299,049 bytes, SHA-256
 4fc52349fa79137209fcb16b3094865d3e22a53ab06e8b52ee63220bcdc6abbe. Every page
@@ -62,7 +64,7 @@ EXTENT. This is NOT the full section. Only the sentences this repository's notes
 cite are retained: eleven excerpts, 413 of the reconstruction's 1,460 words
 (28 percent; footnotes included, running headers and footers excluded).
 Within an excerpt, " ... " separates pieces between which words are
-omitted. Not retained: the Trinity analogy for the dilemma (export p. 2),
+omitted. Not retained, among much else: the Trinity analogy for the dilemma (export p. 2),
 the full statement of the stones-into-bread example and its reasoning (export
 pp. 3-4), footnote 11's swimmer and tightrope analogies, and the weightlifter
 analogy (export p. 4). The section's own headings are only its title; its

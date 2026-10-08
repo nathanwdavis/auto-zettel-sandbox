@@ -22,10 +22,13 @@ links:
   relation: source
 - target_id: scripture-predicates-sinlessness-of-christ-s-condition-from--202610031831
   relation: shared-concept
+- target_id: irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440
+  relation: shared-concept
 ---
 Grudem frames the question with an objection: if Jesus "were not able to sin,
-his temptations could not have been real". He grants the premise that the
-temptations were real, and denies the conclusion. Christ could not have
+his temptations could not have been real". He accepts the objection's
+antecedent, that Christ was not able to sin, and denies its consequent: the
+temptations were real. Christ could not have
 sinned, because "an act of sin would have been a moral act that would
 apparently have involved the whole person of Christ", and then "God himself
 would have sinned, and he would have ceased to be God." "The union of his
@@ -41,15 +44,23 @@ unless he be liable to sin"? (the 1866 text prints "}" for the question mark)
 "Even Adam, before he fell, was liable to sin. If
 any one, therefore, say that Christ" was "not liable to sin, he doth say He
 was not a man" (vol. 5, p. 159; the 1866 text reads "Avas" for "was" in the
-omitted word). For Irving, liability to sin goes with real temptation and
-with real humanity, and Christ is holy because he never yields, not because
+omitted word). A page earlier he puts it as question and answer: "But was He liable to
+sin"? (the text again prints "}") "Yes; He was tempted in all points like as
+we are." He also makes Grudem's move with James 1:13: "His Godhead could not
+be tempted", and "Only, then, His manhood could be tempted" (pp. 158-59).
+For Irving, liability to sin goes with real temptation and with real
+humanity, and Christ is holy because he never yields, not because
 he could not
 ([[irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436]]).
 
 So the two divide on the possibility, not the fact: both hold that Christ
-never sinned. Both also make his freedom from sin turn on his person, Grudem
-because the person who would have sinned is God, Irving because Christ "is
-not a human person" and so original sin has no individual to attach to. What
+never sinned, and both assign temptation to the manhood and not to the
+Godhead. Both also make something turn on his person, though not the same
+sin: Grudem the impossibility of his sinning, because the person who would
+have sinned is God; Irving his freedom from original sin, because Christ "is
+not a human person" and so original sin has no individual to attach to.
+Christ's actual sinlessness Irving credits to the Spirit
+([[irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440]]). What
 Grudem's argument needs and Irving's does not is the step from the unity of
 the person to the impossibility of sinning, which Grudem himself calls "a
 suggested means of combining various biblical teachings" rather than a

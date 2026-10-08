@@ -4746,7 +4746,7 @@
       "path": "literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md",
       "slug": "grudem-holds-that-christ-could-not-have-sinned-because-a",
       "tags": [],
-      "title": "Grudem holds that Christ could not have sinned, because a sin would have involved the whole person and so God himself, yet met every temptation in his human nature, depending on the Father and the Spirit",
+      "title": "Grudem holds that Christ could not have sinned, because a sin would apparently have involved the whole person and so God himself, yet met every temptation in his human nature, depending on the Father and the Spirit",
       "type": "literature",
       "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/literature/grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553.md"
@@ -4766,6 +4766,10 @@
         {
           "relation": "source",
           "target_id": "grudem-systematic-theology--202609050158"
+        },
+        {
+          "relation": "shared-concept",
+          "target_id": "irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440"
         },
         {
           "relation": "elaborates",

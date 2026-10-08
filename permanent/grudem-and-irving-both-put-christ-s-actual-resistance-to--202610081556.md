@@ -30,13 +30,13 @@ links:
   relation: shared-concept
 ---
 The objection that a sinless Christ was not really tempted gets three
-different answers from the writers on file, and they differ on what actually
-resisted.
+different answers from the writers on file, and they differ on what they
+credit for his not yielding.
 
 Grudem: Jesus "met every temptation to sin not by his divine power but on the
 strength of his human nature alone", and not alone in fact, because he "was
 perfectly depending on God the Father and the Holy Spirit at every moment".
-The divine nature stood by as "a sort of "backstop"" that would have stopped
+The divine nature stood by as "a sort of 'backstop'" that would have stopped
 him from sinning in any case, and he refused to lean on it, as when he would
 not turn stones into bread: he "refused to rely on his divine nature to make
 obedience easier for him"
@@ -50,7 +50,7 @@ and "It is the work of God the Father, and of God the Holy Ghost, so to
 operate in and upon the fallen humanity of Christ, as that it shall be ever
 harmonious with the Godhead of Christ" (vol. 5, p. 160).
 
-Meyendorff: "It is because he was God, not as "mere man," that Jesus was able
+Meyendorff: "It is because he was God, not as 'mere man,' that Jesus was able
 to overcome the temptations inherent in fallen humanity"
 ([[meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437]]).
 
@@ -59,7 +59,8 @@ Father and the Spirit, and disagree on the flesh it was lived in: unfallen and
 "able to sin" in itself for Grudem, fallen and carrying the propensities for
 Irving. Grudem keeps the divine nature in reserve, as what makes sinning
 impossible, without letting it do the resisting. Meyendorff, in the sentence
-on file, makes the divinity the reason the resisting succeeded, which
-Grudem's "not by his divine power" rules out for the resisting itself, though
-Grudem too makes the divine person the reason sin was impossible
+on file, makes his being God the reason he could overcome, without saying
+whether divine power did the resisting, which Grudem's "not by his divine
+power" denies; and Grudem too makes the divine person the reason sin was
+impossible
 ([[irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440]]).

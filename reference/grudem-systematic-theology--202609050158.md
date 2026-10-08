@@ -311,7 +311,7 @@ checked against rendered images of all five pages; eleven excerpts, 413 words
 its last sentence cross-refers to "pp. 690-700" for how Jesus could be God and
 man in one person. It is NOT the section on the virgin birth that the INBOX
 entry of 2026-10-03 asked for, which remains wanted, and it carries no footnotes
-beyond nos. 9-11 (footnote 10 credits Geerhardus Vos, Biblical Theology, 1948,
+beyond nos. 10-11 (footnote 10 credits Geerhardus Vos, Biblical Theology, 1948,
 pp. 339-42, which is not on file). The material is distilled at
 [[grudem-holds-that-christ-could-not-have-sinned-because-a--202610081553]]
 and the permanent notes linked from it. SHA-256 of this capture as committed:

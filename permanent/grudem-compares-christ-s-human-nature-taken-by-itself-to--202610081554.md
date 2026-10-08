@@ -50,8 +50,9 @@ Christ could sin, not a treatment of whether his humanity was fallen, and the
 section on file does not use the word. Nor does it say whether the nature it
 compares to Adam's was mortal: in the same argument Grudem lets Christ
 experience hunger, thirst and weakness in his human nature. So the comparison
-settles sin and the inclination to it, not the penalties of the fall. On that
-narrower point it differs less from Meyendorff, whose fallen humanity, on the
+concerns sin, and by implication the inclination to it, not the penalties of
+the fall. On that narrower point it differs less from Meyendorff, whose
+fallen humanity, on the
 pages on file, is the mortal and corruptible condition without an inclination
 to evil placed in Christ
 ([[meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442]]).
