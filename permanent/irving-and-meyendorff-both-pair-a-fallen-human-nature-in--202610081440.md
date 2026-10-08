@@ -6,7 +6,8 @@ aliases:
 - '202610081440'
 type: permanent
 title: Irving and Meyendorff both pair a fallen human nature in Christ with the denial
-  that he is a human person, and both rest his freedom from sin on that denial
+  that he is a human person, Irving to keep original sin from him and Meyendorff to
+  make his overcoming of temptation the act of the divine person
 created: '2026-10-08'
 updated: '2026-10-08'
 tags: []
@@ -25,12 +26,18 @@ links:
   relation: source
 - target_id: irving-s-fallen-flesh-christology-disputes-the-source-of--202610031830
   relation: shared-concept
+- target_id: irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823
+  relation: elaborates
 ---
 Irving, a pastor whose sermons on the incarnation carry a dedication dated
 1828, and Meyendorff, writing from St Vladimir's Orthodox Seminary in 1989,
 work in different traditions and both say that the humanity Christ assumed
-was fallen. They also make the same move to
-keep sin out of him: they deny that he is a human person.
+was fallen. Both also deny that he is a human
+person and use the denial against sin, though not the same sin. Irving
+credits Christ's actual sinlessness to the Holy Ghost, who kept the flesh
+sinless "from the indwelling of the Holy Ghost"
+([[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]);
+the denial of a human person does its work against original sin.
 
 Irving: "You have original sin taken away in Him by the manner of His
 conception. He is not, as it were, an individual of the sinful individuals;
@@ -50,8 +57,14 @@ personal mind can commit sin and incur the concomitant "guilt"", and sin is
 "never an act of nature"
 ([[meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438]]).
 
-The shared logic is that fallenness is predicated of the nature and sin and
-guilt of the person. If the only person in Christ is the Word, a fallen
+Meyendorff's own stated reason for denying a human hypostasis is a different
+one: otherwise the man Jesus "would be individualized on a created level,
+making "life in Christ" impossible"; but his account of why Jesus did not
+sin also runs through the person, since he overcame temptation "because he
+was God".
+
+So far as they share a logic, it is that fallenness is predicated of the
+nature and sin and guilt of the person. If the only person in Christ is the Word, a fallen
 nature does not make a guilty or sinning subject.
 
 They differ on what the fallen nature contains: Irving gives the flesh "the

@@ -43,7 +43,9 @@ and never" in B; "masculine, referring" in A against "masculine referring" in
 B; "which was "the wages of sin" (Rm 6:23)" in A against "which is "the
 wages of sin" (Romans 6:23)" in B; "since Christian antiquity, as a cosmic
 disease which" in A against "since Christian antiquity as a cosmic disease,
-which" in B). Neither copies the other. B agrees in those
+which" in B). Neither copies the other, and they cite different printings
+(A the London Mowbrays printing of 1975, B the New York Fordham printing of
+1983), which is consistent with two separate transcriptions. B agrees in those
 variants with a third copy, "Fr. John Meyendorff on Original Sin", Diligite
 iustitiam (blog), 10 September 2006,
 https://initium-sapientiae.blogspot.com/2006/09/fr-john-meyendorff-on-original-sin.html
@@ -55,7 +57,13 @@ Fordham University, 1987) 143-46" for the reading of Romans 5:12 (New Life
 in Christ, 1989, n. 45; raw/202610081426-meyendorff-new-life-in-christ-ts-50-3-excerpt.txt),
 so the pages agree across the printings of 1975, 1983 and 1987.
 
-The excerpts, in the order they stand in the section:
+The excerpts, in the order they stand in the section. An ellipsis between
+quoted pieces marks words omitted; between "including" and "understood" in
+excerpt 6 the omitted words are the patriarch's name, which A spells Photius
+and B Photios; between "humanity" and "fell sick" in excerpt 11 they are a
+clause on Adam's sin that A and B punctuate and spell differently. Nothing outside the
+quotation marks is Meyendorff's, and no words of the capturer stand inside
+them.
 
 1. "Now, in Greek patristic thought, only this free, personal mind can
    commit sin and incur the concomitant "guilt""
@@ -78,10 +86,10 @@ The excerpts, in the order they stand in the section:
    cannot be drawn from the original Greek"
 
 6. "The form eph ho" ... "can be translated as "because," a meaning accepted
-   by most modern scholars of all confessional backgrounds." ... (of "A
-   number of Byzantine authors", the patriarch among them) "understood the
-   eph ho to mean "because" and saw nothing in the Pauline text beyond a
-   moral similarity between Adam and other sinners"
+   by most modern scholars of all confessional backgrounds." ... "A number of
+   Byzantine authors, including" ... "understood the eph ho to mean
+   "because" and saw nothing in the Pauline text beyond a moral similarity
+   between Adam and other sinners"
 
 7. "But there is also the consensus of the majority of Eastern Fathers, who
    interpret Romans 5:12 in close connection with 1 Corinthians 15:22" ...
@@ -98,8 +106,7 @@ The excerpts, in the order they stand in the section:
 
 10. "makes sin inevitable" ... "in this sense "corrupts" nature."
 
-11. "fell sick of corruption" (of humanity after Adam's sin, in Cyril of
-    Alexandria as Meyendorff reports him)
+11. "For Cyril of Alexandria, humanity" ... "fell sick of corruption"
 
 12. "For Theodore of Mopsuestia, "by becoming mortal, we acquired greater
     urge to sin.""

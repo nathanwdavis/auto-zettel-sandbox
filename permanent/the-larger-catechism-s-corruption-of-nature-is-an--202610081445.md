@@ -28,6 +28,10 @@ links:
   relation: source
 - target_id: the-westminster-standards-name-the-two-senses-original-sin--202610032119
   relation: shared-concept
+- target_id: meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438
+  relation: elaborates
+- target_id: byzantine-theology-historical-trends-and-doctrinal-themes--202610081431
+  relation: source
 ---
 The Larger Catechism (Q. 25) puts three things in the sinfulness of the
 fallen estate: "the guilt of Adam's first sin", the want of original
@@ -38,10 +42,14 @@ which is "commonly called original sin"
 ([[the-larger-catechism-defines-sin-as-want-of-conformity-or--202610032109]]).
 "Corruption" there is moral: an inclination.
 
-In Meyendorff the word is physical. What Christ assumed is "the mortal,
-corruptible, and fallen humanity", and the gloss is "death and corruption
-(phthora)", the liability to suffering, death and decay
+In New Life in Christ the word is physical. What Christ assumed is "the
+mortal, corruptible, and fallen humanity", and n. 47 glosses it as
+"mortality and corruptibility", the liability to suffering and death
 ([[meyendorff-holds-that-eastern-patristic-thought-knows-no--202610081437]]).
+Byzantine Theology joins the two senses without merging them: death "makes
+sin inevitable" and in that sense "corrupts" nature, so moral corruption is
+a consequence of the physical, not the thing inherited
+([[meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438]]).
 A paper that moves between the two traditions has to keep the two senses
 apart, or 'Christ assumed a corruptible nature' will be read as 'Christ
 assumed a nature wholly inclined to evil'.
@@ -55,7 +63,8 @@ third. He says "original sin is avoided" in Christ, yet gives Christ's flesh
 ([[irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436]];
 [[irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823]]),
 which is close to what Q. 25 calls the corruption of nature and counts as
-original sin. His way out is the one he gives: Christ "is not a human
-person", so the inclination is in the flesh and never in the one who wills.
+original sin. His way out, on this reading, follows from what he says: Christ "is not a
+human person", so the inclination is in the flesh and never in the one who
+wills.
 Whether Q. 25's "he" can be read so as to allow that is the question
 Westminster would put to him.

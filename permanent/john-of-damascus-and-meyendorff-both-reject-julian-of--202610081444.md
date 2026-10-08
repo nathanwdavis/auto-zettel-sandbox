@@ -42,13 +42,23 @@ death would then be appearance. In the second, "the complete resolution of
 the body into its constituent elements", his body never was (Ps 16:10)
 ([[john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439]]).
 
-So the Eastern side does not accept the inference Julian drew: being without
-sin did not exempt Christ from the consequences of sin. That is the space a
-fallen-nature Christology without inherited guilt needs. It also marks the
+So neither writer accepts the inference Julian drew, that a sinless Christ
+had an incorruptible body. They do not reject it in the same way. John
+grants half of Julian's premise: since Christ was without sin, "He was not
+subject to death, since death came into the world through sin", and "He
+dies, therefore, because He took on Himself death on our behalf" (III.27);
+the passions, too, were "not, as in our case, a matter of necessity" (III.23).
+For John, sinlessness exempts Christ from the necessity of death but not
+from death, which he takes voluntarily. Meyendorff puts the freedom earlier:
+"divine freedom is exercised in the Incarnation as a whole", and from his
+conception Jesus was "fully conditioned by what our human, fallen existence
+is". Either way, the consequences of sin are in Christ without sin. That is
+the space a fallen-nature Christology without inherited guilt needs. It also marks the
 limit on the other side: corruption as decay of the body in the grave is not
 assumed, and neither, in John's list, is sin.
 
 The mainstream Western account on file agrees on the substance, keeping
 passibility and mortality in Christ while denying the fomes
 ([[christ-shared-the-penalties-of-the-fall-but-not-its--202610031827]]).
-What differs is the name: Meyendorff calls this humanity fallen.
+On the pages on file, what differs is the name: Meyendorff calls this
+humanity fallen.

@@ -67,5 +67,6 @@ and the section "The 'New Adam'" through "the Emmanuel"), with footnotes
 the treatment of deification and hypostasis on pp. 490-492 outside the
 blocks, and pp. 495-499 from "It is furthermore important" (Maximus, the
 composite hypostasis, deification, sacraments, conclusion). The PDF's text
-layer is OCR and has errors, listed in the capture header; notes do not
-quote across them.
+layer is OCR and has errors (among them "oí guilt", "sin in inevitable",
+"teinptations", "Adam.n" and a footnote marker printed as "u"), listed in the
+capture header; notes do not quote across them.

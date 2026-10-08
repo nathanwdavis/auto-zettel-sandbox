@@ -57,13 +57,16 @@ updated: '2026-10-08'
 Bibliographic record. Book III of John of Damascus's *Exact Exposition of the
 Orthodox Faith* (De fide orthodoxa), in the translation New Advent credits to
 E. W. Watson and L. Pullan from the Nicene and Post-Nicene Fathers, Second
-Series, vol. 9 (1899), as revised for New Advent by Kevin Knight; public
-domain. The capture is the whole New Advent page for Book III, so every
-chapter of the book is on file. The chapters this base relies on are ch. 1
-(the fall and the Word's descent), ch. 12 (the Theotokos, with the purpose of
-the Incarnation that "the very same nature, which had sinned and fallen and
-become corrupted, should triumph"), ch. 20 ("Concerning the natural and
-innocent passions") and ch. 28 ("Concerning Corruption and Destruction").
+Series, vol. 9 (1899), as revised for New Advent by Kevin Knight. The 1899
+translation is in the public domain; New Advent's revised page carries the
+site's own copyright notice. The capture is the whole New Advent page for
+Book III, so every chapter of the book is on file. The chapters this base
+relies on are ch. 12 (the Theotokos, with the purpose of the Incarnation that
+"the very same nature, which had sinned and fallen and become corrupted,
+should triumph"), ch. 20 ("Concerning the natural and innocent passions"),
+ch. 23 ("Concerning His Fear"), ch. 27 (on Christ's death, which he was not
+subject to as sinless and took on "on our behalf") and ch. 28 ("Concerning
+Corruption and Destruction").
 Meyendorff's *New Life in Christ* (1989, n. 47) quotes John's definition of
 Aphthartodocetism from a different work, *On the Heresies* 84, which is not
 captured here.

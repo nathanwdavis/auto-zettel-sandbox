@@ -8,7 +8,7 @@ type: permanent
 title: Augustine and Aquinas block original sin at the manner of Christ's conception,
   Calvin at the Spirit's sanctifying of it, and the Larger Catechism names both
 created: '2026-10-03'
-updated: '2026-10-03'
+updated: '2026-10-08'
 tags: []
 links:
 - target_id: augustine-credits-christ-s-freedom-from-original-sin-to-a--202610031817
@@ -26,6 +26,10 @@ links:
 - target_id: the-westminster-larger-catechism-states-original-sin-for--202610031821
   relation: elaborates
 - target_id: westminster-larger-catechism--202610031812
+  relation: source
+- target_id: irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436
+  relation: elaborates
+- target_id: edward-irving-collected-writings-vol-5-sermons-on-the--202610031814
   relation: source
 ---
 Augustine, Aquinas, Calvin and the Larger Catechism agree that Christ
@@ -58,3 +62,17 @@ power of the Holy Ghost in the womb of the virgin Mary, of her substance, and
 born of her, yet without sin" (Q. 37). It names both the Spirit and the manner
 of conception without ranking them
 ([[the-westminster-larger-catechism-states-original-sin-for--202610031821]]).
+
+**Amended 2026-10-08, from Irving pp. 153-74.** The first paragraph counts
+Irving as dissenting from the shared premise that Christ inherited no
+original sin. A later passage of the same sermon shows he holds it: "You
+have original sin taken away in Him by the manner of His conception", and
+"thus original sin is avoided, though yet the body He took is in the fallen
+state" (pp. 159-60;
+[[irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436]]).
+His dissent is about the condition of the flesh, not about original sin, and
+on the mechanism he stands with Augustine and Aquinas at the manner of
+conception
+([[meyendorff-needs-no-special-means-to-keep-inherited-guilt--202610081441]]).
+Withdrawn: 'dissents from the shared premise', which should be read as
+'shares the premise and dissents about the flesh'.

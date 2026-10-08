@@ -29,8 +29,7 @@ this free, personal mind can commit sin and incur the concomitant
 "the rebellion of Adam and Eve against God could be conceived only as their
 personal sin; there would be no place, then, in such an anthropology for
 the concept of inherited guilt, or for a "sin of nature," although it admits
-that human nature incurs the consequences of Adam's sin." The unity of
-mankind is not denied, but "neither original sin nor salvation can be
+that human nature incurs the consequences of Adam's sin." And "neither original sin nor salvation can be
 realized in an individual's life without involving his personal and free
 responsibility."
 
@@ -39,8 +38,9 @@ Adam] all men have sinned") was "used in the West to justify the doctrine
 of guilt inherited from Adam and spread to his descendants. But such a
 meaning cannot be drawn from the original Greek". The Greek form "can be
 translated as "because," a meaning accepted by most modern scholars of all
-confessional backgrounds." Some Byzantine readers, Photius among them, took
-it so and "saw nothing in the Pauline text beyond a moral similarity between
+confessional backgrounds." Some Byzantine readers took it so: "A number of
+Byzantine authors, including" one patriarch (Photius in one witness, Photios
+in the other), "understood the eph ho to mean "because" and saw nothing in the Pauline text beyond a moral similarity between
 Adam and other sinners". "But there is also the consensus of the majority of
 Eastern Fathers, who interpret Romans 5:12 in close connection with
 1 Corinthians 15:22": "between Adam and his descendants there is a
@@ -53,7 +53,7 @@ reading "which is indeed the meaning which most Greek Fathers accepted":
 spread to all men; and because of death, all men have sinned".
 
 Death, on this view, is what "makes sin inevitable" and in that sense
-"corrupts" nature. For Cyril, humanity after Adam "fell sick of
+"corrupts" nature. "For Cyril of Alexandria, humanity" after Adam's sin "fell sick of
 corruption"; "For Theodore of Mopsuestia, "by becoming mortal, we acquired
 greater urge to sin."" The conclusion: "There is indeed a consensus in Greek
 patristic and Byzantine traditions in identifying the inheritance of the

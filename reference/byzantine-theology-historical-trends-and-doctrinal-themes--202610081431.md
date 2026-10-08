@@ -46,9 +46,10 @@ updated: '2026-10-08'
 ---
 Bibliographic record. John Meyendorff's survey of Byzantine theology,
 second edition, Fordham University Press, 1979 (viii + 243 pp.; ISBN
-0823209679), first published 1974; London printings by Mowbrays (1975) and
-later Fordham printings (1983, 1987) are cited by the witnesses on file with
-the same pages for the section used here. The primary raw capture is the
+0823209679), first published 1974. The section used here is cited at pp.
+143-45 or 143-46 by the two witnesses named in the excerpt capture (London:
+Mowbrays, 1975; New York: Fordham, 1983) and by Meyendorff himself (3rd ed.,
+1987, in New Life in Christ n. 45). The primary raw capture is the
 Open Library record for this ISBN only. No page of the book itself has been
 read: it is in copyright, archive.org holds it only as a lending-restricted
 scan whose search-inside service refused this session, and no publisher
@@ -58,6 +59,8 @@ raw/202610081431-meyendorff-byzantine-theology-143-146-excerpt.txt adds
 fourteen short verbatim excerpts from the section on original sin (pp.
 143-146), each found word for word in two independent secondary sources that
 reproduce the section and give its pages (the Housel two-witness standard).
+Ellipses inside an excerpt mark omitted words, which the capture header
+describes; no words of the capturer stand inside the quotation marks.
 They ground what Meyendorff says there about sin as a personal act, inherited
 guilt, the Latin and Greek of Romans 5:12, and the inheritance of the Fall as
 mortality. They are not a substitute for the section; anything else in it is

@@ -12,8 +12,8 @@ created: '2026-10-08'
 updated: '2026-10-08'
 tags: []
 reference: an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432
-locator: Exact Exposition of the Orthodox Faith III, chs. 12, 20 and 28 (NPNF2 vol.
-  9, New Advent)
+locator: Exact Exposition of the Orthodox Faith III, chs. 12, 20, 23, 27 and 28 (NPNF2
+  vol. 9, New Advent)
 links:
 - target_id: an-exact-exposition-of-the-orthodox-faith-book-iii--202610081432
   relation: source
@@ -36,11 +36,16 @@ the whole man and all man's attributes save sin." Sin is excepted because it
 passions are defined by their origin: they are "not in our power, but which
 have entered into the life of man owing to the condemnation by reason of the
 transgression; such as hunger, thirst, weariness, labour, the tears, the
-corruption, the shrinking from death, the fear , the agony with the bloody
+corruption, the shrinking from death, the fear, the agony with the bloody
 sweat". So the passions Christ assumed are themselves consequences of the
-fall. In the same chapter's treatment of fear, he took them freely: "it was
-not, as in our case, a matter of necessity. For He willingly and
-spontaneously accepted that which was natural."
+fall. The same chapter keeps temptation outside him: "The wicked one, then,
+made his assault from without, not by thoughts prompted inwardly, just as it
+was with Adam." In ch. 23, "Concerning His Fear", he took the passions
+freely: "it was not, as in our case, a matter of necessity. For He willingly
+and spontaneously accepted that which was natural." Ch. 27 says the same of
+his death: being without sin, "He was not subject to death, since death came
+into the world through sin", and "He dies, therefore, because He took on
+Himself death on our behalf".
 
 Ch. 28, "Concerning Corruption and Destruction": "The word corruption has
 two meanings." In the first it means "all the human sufferings, such as

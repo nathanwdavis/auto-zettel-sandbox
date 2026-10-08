@@ -5,9 +5,9 @@ slug: meyendorff-s-fallen-humanity-is-the-mortal-corruptible
 aliases:
 - '202610081442'
 type: permanent
-title: Meyendorff's fallen humanity is the mortal, corruptible condition with its
-  innocent passions, while Irving's fallen flesh also carries the evil propensities,
-  so the two fallen-nature views divide on the inclination
+title: Meyendorff's fallen humanity, on the pages on file, is the mortal, corruptible
+  condition, while Irving's fallen flesh also carries the evil propensities, so the
+  two fallen-nature views divide on the inclination
 created: '2026-10-08'
 updated: '2026-10-08'
 tags: []
@@ -47,7 +47,12 @@ the shrinking from death, fear and agony, but "all man's attributes save
 sin"
 ([[john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439]]).
 Nothing in the Meyendorff pages on file puts an inclination to evil in
-Christ's flesh.
+Christ's flesh. They come close to the question without answering it:
+mortality, he reports from Theodore, brings "greater urge to sin", and Jesus
+overcame "the temptations inherent in fallen humanity", but the pages do not
+say whether that urge was in him. John answers for his own part that it was
+not: "The wicked one, then, made his assault from without, not by thoughts
+prompted inwardly, just as it was with Adam."
 
 Irving does. He would maintain "that Christ's flesh was as rebellious as
 ours, as fallen as ours", and credits the Holy Ghost with "subduing,
@@ -59,7 +64,8 @@ Christ took the penalties of the fall, hunger, weariness, mortality, real
 temptation, and not its disordered inclination, and Irving moves the
 inclination across that line
 ([[christ-shared-the-penalties-of-the-fall-but-not-its--202610031827]]).
-Meyendorff's "fallen" stays on the infirmity side of it. He calls fallen what
-Aquinas would call the penalties of the fall. So the Orthodox use of the
-word is closer in substance to the mainstream Western account than to
-Irving's, even though Irving and Meyendorff share the word.
+On the pages on file Meyendorff's "fallen" appears to stay on the infirmity
+side of it: he calls fallen what Aquinas would call the penalties of the
+fall. So Meyendorff's use, on this evidence, is closer in substance to the
+mainstream Western account than to Irving's, even though Irving and
+Meyendorff share the word.

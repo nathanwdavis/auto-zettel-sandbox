@@ -2516,6 +2516,14 @@
           "target_id": "calvin-rejects-the-father-line-explanation-of-christ-s--202610031820"
         },
         {
+          "relation": "source",
+          "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436"
+        },
+        {
           "relation": "elaborates",
           "target_id": "the-westminster-larger-catechism-states-original-sin-for--202610031821"
         },
@@ -2529,7 +2537,7 @@
       "tags": [],
       "title": "Augustine and Aquinas block original sin at the manner of Christ's conception, Calvin at the Spirit's sanctifying of it, and the Larger Catechism names both",
       "type": "permanent",
-      "updated": "2026-10-03",
+      "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828.md"
     },
     {
@@ -5849,6 +5857,10 @@
         },
         {
           "relation": "elaborates",
+          "target_id": "irving-holds-that-christ-took-fallen-flesh-and-was-kept--202610031823"
+        },
+        {
+          "relation": "elaborates",
           "target_id": "irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436"
         },
         {
@@ -5871,7 +5883,7 @@
       "path": "permanent/irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440.md",
       "slug": "irving-and-meyendorff-both-pair-a-fallen-human-nature-in",
       "tags": [],
-      "title": "Irving and Meyendorff both pair a fallen human nature in Christ with the denial that he is a human person, and both rest his freedom from sin on that denial",
+      "title": "Irving and Meyendorff both pair a fallen human nature in Christ with the denial that he is a human person, Irving to keep original sin from him and Meyendorff to make his overcoming of temptation the act of the divine person",
       "type": "permanent",
       "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440.md"
@@ -7111,7 +7123,7 @@
       "path": "permanent/meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442.md",
       "slug": "meyendorff-s-fallen-humanity-is-the-mortal-corruptible",
       "tags": [],
-      "title": "Meyendorff's fallen humanity is the mortal, corruptible condition with its innocent passions, while Irving's fallen flesh also carries the evil propensities, so the two fallen-nature views divide on the inclination",
+      "title": "Meyendorff's fallen humanity, on the pages on file, is the mortal, corruptible condition, while Irving's fallen flesh also carries the evil propensities, so the two fallen-nature views divide on the inclination",
       "type": "permanent",
       "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442.md"
@@ -7145,14 +7157,14 @@
           "target_id": "new-life-in-christ-salvation-in-orthodox-theology--202610081426"
         },
         {
-          "relation": "elaborates",
+          "relation": "contradicts",
           "target_id": "sanday-and-headlam-render-eph-ho-in-romans-5-12-because--202610061553"
         }
       ],
       "path": "permanent/meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443.md",
       "slug": "meyendorff-s-two-greek-readings-of-romans-5-12-both-keep",
       "tags": [],
-      "title": "Meyendorff's two Greek readings of Romans 5:12 both keep Adam's guilt out of the clause, but his preferred one, because of death, is the reading Sanday and Headlam reject as even more impossible than in whom",
+      "title": "Meyendorff's two Greek readings of Romans 5:12 both keep Adam's guilt out of the clause, but the one he expounds as the Greek Fathers' takes the construal Sanday and Headlam reject as even more impossible than in whom",
       "type": "permanent",
       "updated": "2026-10-08",
       "url_or_apipath": "https://raw.githubusercontent.com/nathanwdavis/auto-zettel-sandbox/main/permanent/meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443.md"
@@ -11008,6 +11020,10 @@
       "links": [
         {
           "relation": "source",
+          "target_id": "byzantine-theology-historical-trends-and-doctrinal-themes--202610081431"
+        },
+        {
+          "relation": "source",
           "target_id": "edward-irving-collected-writings-vol-5-sermons-on-the--202610031814"
         },
         {
@@ -11017,6 +11033,10 @@
         {
           "relation": "elaborates",
           "target_id": "irving-holds-that-original-sin-is-kept-from-christ-by-the--202610081436"
+        },
+        {
+          "relation": "elaborates",
+          "target_id": "meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438"
         },
         {
           "relation": "elaborates",

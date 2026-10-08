@@ -42,8 +42,8 @@ In Byzantine Theology there is "no place, then, in such an anthropology for
 the concept of inherited guilt", and "the inheritance of the Fall" is "an
 inheritance essentially of mortality rather than of sinfulness"
 ([[meyendorff-finds-a-greek-patristic-consensus-that-the--202610081438]]).
-On that account Christ, born of Mary, inherits exactly what every child
-inherits, mortality, and there is no inherited guilt for him to be spared.
+On that account Christ, born of Mary, inherits the mortality Meyendorff says
+every child inherits, and there is no inherited guilt for him to be spared.
 Nothing about his conception has to do that work.
 
 Irving keeps a doctrine of original sin that passes from Adam, and so he
@@ -57,8 +57,11 @@ That puts him with Augustine and Aquinas, who also stop original sin at the
 manner of conception, rather than with Calvin, who credits the Spirit's
 sanctifying
 ([[augustine-and-aquinas-block-original-sin-at-the-manner-of--202610031828]]).
-The difference is that Augustine and Aquinas exempt the flesh as well, and
-Irving exempts only the person.
+The difference is that Augustine and Aquinas keep the flesh unfallen as
+well; Irving keeps it fallen and exempts it only from original sin. That
+also corrects the earlier note's opening, which counted Irving as dissenting
+from the premise that Christ inherited no original sin: on pp. 159-60 he
+holds that premise too, and dissents about the condition of the flesh.
 
 The Westminster Larger Catechism is the foil for both. It counts "the guilt
 of Adam's first sin" in the sinfulness of the fallen estate and has original

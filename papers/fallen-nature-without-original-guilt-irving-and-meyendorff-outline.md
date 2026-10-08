@@ -11,7 +11,8 @@ carry a dedication dated 1828, and John Meyendorff, an Orthodox theologian at St
 Vladimir's Seminary, writing in 1974 and 1989. The outline assumes Turabian
 notes-bibliography citations; check your syllabus.
 
-This version is dated 2026-10-08. Like everything in `papers/`, it sits outside the
+This version is dated 2026-10-08 and was revised the same day after the repository's critic
+reviewed the notes it draws on. Like everything in `papers/`, it sits outside the
 repository's citation gates, but every point below that rests on a source says so and links
 to the note in this repository that holds the evidence. Each note's sources have a capture in
 `raw/`. When you quote in the paper, quote from the capture or the printed book, not from a
@@ -64,11 +65,14 @@ their numbered points 1 to 3.
 The claim that Christ took a fallen human nature without original guilt is coherent once two
 distinctions are drawn. The first is between *nature* and *person*: fallenness belongs to a
 nature, but sin and guilt belong to a person, and the only person in Christ is the eternal
-Son. Irving and Meyendorff both draw this distinction, and both rest Christ's freedom from
-sin on it. The second is between the two senses of *corruption*. Meyendorff's fallen nature
-is corrupt only in the physical sense: mortal, passible, tempted, but with no inclination to
-evil, and on his account nobody inherits Adam's guilt in the first place, so Christ needs no
-special exemption. Irving's fallen nature is corrupt in the moral sense too, carrying "the
+Son. Irving and Meyendorff both draw this distinction by denying that Christ is a human
+person, though they use it differently: Irving to keep *original* sin from Christ (his
+actual sinlessness Irving credits to the Holy Spirit), Meyendorff to make Christ's victory
+over temptation the act of the divine person. The second distinction is between the two
+senses of *corruption*. On the pages on file, Meyendorff's fallen nature is corrupt in the
+physical sense: mortal, passible, tempted, with no inclination to evil placed in Christ; and
+on his account nobody inherits Adam's guilt in the first place, so Christ needs no special
+exemption. Irving's fallen nature is corrupt in the moral sense too, carrying "the
 evil propensities of the fallen manhood", and since Irving keeps a doctrine of original sin
 that passes from Adam he has to explain how Christ escaped it. The paper argues that
 Meyendorff's version of the view is the stronger, because it can say "fallen" without saying
@@ -216,7 +220,10 @@ the Orthodox Faith* III [repo].
    death", but never in the sense of "the complete resolution of the body into its constituent
    elements" (III.28). He also says Christ "assumed all the natural and innocent passions of
    man", the ones that "have entered into the life of man owing to the condemnation by reason
-   of the transgression", "save sin" (III.20).
+   of the transgression", "save sin" (III.20). One nuance to state: for John, being sinless
+   Christ "was not subject to death", and he dies "because He took on Himself death on our
+   behalf" (III.27), so each passion is voluntary; Meyendorff instead says "divine freedom is
+   exercised in the Incarnation as a whole" and has Jesus "fully conditioned" from conception.
    Source: [John of Damascus and Meyendorff both reject Julian of Halicarnassus's incorruptible Christ](../permanent/john-of-damascus-and-meyendorff-both-reject-julian-of--202610081444.md)
    and [John of Damascus has Christ assume the natural and innocent passions](../literature/john-of-damascus-has-christ-assume-the-natural-and-innocent--202610081439.md).
 6. **Why Christ did not sin.** "Christ was not a human hypostasis" (p. 492). Sin is "a
@@ -233,23 +240,31 @@ This is the analytical heart of the paper. Make three points, one paragraph each
 
 1. **The shared move: fallenness belongs to the nature, guilt to the person.** Set Irving's
    "He is not a human person" beside Meyendorff's "Christ was not a human hypostasis". Both
-   writers deny that Christ's humanity has a human person of its own, and both rest his
-   freedom from sin on that denial. This is what makes 'fallen but not guilty' more than a
-   contradiction: if guilt attaches to persons and the only person in Christ is the Son, a
+   writers deny that Christ's humanity has a human person of its own and use the denial
+   against sin, though not the same sin: Irving against original sin (Christ's actual
+   sinlessness he credits to the Spirit), Meyendorff to say that Jesus overcame temptation
+   "because he was God". So far as they share a logic, it is what makes 'fallen but not
+   guilty' more than a contradiction: if guilt attaches to persons and the only person in Christ is the Son, a
    fallen nature does not produce a guilty subject.
    Source: [Irving and Meyendorff both pair a fallen human nature in Christ with the denial that he is a human person](../permanent/irving-and-meyendorff-both-pair-a-fallen-human-nature-in--202610081440.md).
 2. **Two routes to 'no original guilt'.** Meyendorff needs no exemption, because nobody
-   inherits guilt; Christ born of Mary inherits what every child inherits, which is mortality.
+   inherits guilt; Christ born of Mary inherits the mortality Meyendorff says every child
+   inherits.
    Irving keeps original sin passing from Adam, so he has to block it, and he blocks it where
    Augustine and Aquinas do, at "the manner of His conception". The difference is that they
-   exempt the flesh as well and Irving exempts only the person.
+   keep the flesh unfallen as well, while Irving keeps it fallen and exempts it only from
+   original sin. (An earlier note in the repository wrongly counted Irving as dissenting
+   about original sin itself; it now carries a dated correction.)
    Source: [Meyendorff needs no special means to keep inherited guilt from Christ](../permanent/meyendorff-needs-no-special-means-to-keep-inherited-guilt--202610081441.md).
 3. **Two contents for "fallen".** Meyendorff's fallen humanity is mortal, corruptible and
-   passible, the same list the mainstream Western account calls the penalties of the fall;
-   nothing in the Meyendorff pages on file puts an inclination to evil in Christ's flesh.
-   Irving's fallen flesh carries "the evil propensities". So the two writers share a word
-   more than a claim, and the Orthodox form of the view is closer in substance to Aquinas
-   than to Irving.
+   passible, close to what the mainstream Western account calls the penalties of the fall.
+   Nothing in the Meyendorff pages on file puts an inclination to evil in Christ's flesh,
+   though they do not settle the question either: mortality brings "greater urge to sin",
+   and Jesus overcame "the temptations inherent in fallen humanity". John of Damascus does
+   settle it for his part: the devil "made his assault from without, not by thoughts
+   prompted inwardly". Irving's fallen flesh carries "the evil propensities". So the two
+   writers share a word more than a claim, and Meyendorff's use, on this evidence, is closer
+   in substance to Aquinas than to Irving.
    Source: [Meyendorff's fallen humanity is the mortal, corruptible condition, while Irving's fallen flesh also carries the evil propensities](../permanent/meyendorff-s-fallen-humanity-is-the-mortal-corruptible--202610081442.md).
 
 ## Section VI. Objections and replies (about 350 words)
@@ -266,10 +281,10 @@ Take four. Give each one sentence of objection and two or three of reply.
    weakest.
    Source: [The Larger Catechism's corruption of nature is an inclination to all evil and Meyendorff's corruptibility is liability to death](../permanent/the-larger-catechism-s-corruption-of-nature-is-an--202610081445.md).
 2. **"Romans 5:12 says all sinned in Adam."** Reply: the Greek clause names no one, and both
-   of Meyendorff's readings exclude inherited guilt. But do not lean on his preferred reading,
-   "because of death": Sanday and Headlam (1905) list it and call it "even more impossible"
-   than "in whom", and they place Theodoret on the "because" side where Meyendorff places him
-   on the "death" side. The safe claim is the weaker one: the verse does not *state* inherited
+   of Meyendorff's readings exclude inherited guilt. But do not lean on the reading he
+   expounds as the Greek Fathers', 'because of death': Sanday and Headlam (1905) list the
+   same construal, gloss it "in death", and call it "even more impossible" than 'in whom';
+   and on their face the two place Theodoret on opposite construals. The safe claim is the weaker one: the verse does not *state* inherited
    guilt.
    Source: [Meyendorff's two Greek readings of Romans 5:12](../permanent/meyendorff-s-two-greek-readings-of-romans-5-12-both-keep--202610081443.md).
 3. **"Gregory of Nazianzus settled this: what is not assumed is not healed."** This is the
@@ -288,8 +303,9 @@ Take four. Give each one sentence of objection and two or three of reply.
 ## Section VII. Conclusion (about 150 words)
 
 1. Restate the two distinctions: nature and person; moral and physical corruption.
-2. Restate the result: with both distinctions in place, 'fallen nature without original guilt' is coherent. Meyendorff's version holds without strain. Irving's version needs the
-   further claim that an inclination to evil can belong to a nature without belonging to the
+2. Restate the result: with both distinctions in place, 'fallen nature without original
+   guilt' is coherent. Meyendorff's version holds with the least strain. Irving's version
+   needs the further claim that an inclination to evil can belong to a nature without belonging to the
    person who has it.
 3. End on Hebrews 2:17 and 4:15: the paper's view is one way of taking "in all things ...
    like unto his brethren" with full seriousness while keeping "yet without sin".
